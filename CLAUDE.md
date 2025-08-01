@@ -1,55 +1,37 @@
-# RCore Template - Development Guidelines
+# CLAUDE.md Structure
 
-This is a modern full-stack web application template built with Bun, React, TypeScript, and Prisma.
-
-## Project Structure
-
-```
-backend/src/api/
-├── main/          # Main site endpoints
-├── auth/          # Authentication endpoints  
-├── health.ts      # Health check endpoint
-└── ...           # Add your API endpoints here
-```
-
-## Coding Standards
-
-### File Naming
+## 1. File Naming Convention
 - All files should be in kebab-case
-- Use `.tsx` for React components and `.ts` for pure TypeScript files
+- Uses bun latest version
 
-### Technology Stack
-- **Runtime**: Bun (latest version)
-- **Frontend**: React 19 + TypeScript
-- **UI**: Shadcn UI + Tailwind CSS
-- **Router**: Custom router library (file-based)
-- **State Management**: Valtio + useLocal hook
-- **Database**: PostgreSQL with Prisma ORM
-- **Authentication**: Better Auth
+## 2. Frontend State Management
 
-### State Management
+### Local State (useLocal)
+- Use `useLocal` instead of `useState` for component-specific state
+- Can only be used in one component
+- Includes async initialization support
 
-#### Component State (useLocal)
-For component-specific state, use the custom `useLocal` hook instead of `useState`:
-
-```typescript
+```
 import { useLocal } from "@/lib/hooks/use-local";
-
 const local = useLocal({data: []}, async () => {
-    // async init function
+    // async init function.
     local.data = ['loaded'];
     local.render();
-});
+})
 ```
 
-**Important**: `useLocal` can only be used in one component. For shared state, use Valtio.
+### Shared State (Valtio)
+- Use Valtio for state shared between components
+- Naming convention: two words (e.g., `bookWrite`, `bookRead`)
+- Store all Valtio states in `frontend/src/lib/states`
+- Rules:
+  - Don't pass Valtio snapshot-derived variables as props
+  - Use `useSnapshot` inside the component itself
+  - Only pass primitive values as selectors
 
-#### Shared State (Valtio)
-For state shared between components, create a Valtio state file:
-
-```typescript
+Create Valtio state file:
+```
 import { proxy } from "valtio";
-
 export const state = {
   write: proxy({
     data: "hello"
@@ -60,103 +42,170 @@ export const state = {
 }
 ```
 
-Use in components:
-
-```typescript
-import { state } from '@/lib/states/your-state'
+Use in component:
+```
+import { state } from './your-state'
 import { useSnapshot } from "valtio";
 
 export default () => {
   const read = useSnapshot(state.write);
 
   return <input type="text" value={read.data} onChange={(e) => {
-    state.write.data = e.currentTarget.value;
+    write.data = e.currentTarget.value;
   }}>
 }
 ```
 
-**Guidelines**:
-- Use two-word naming for valtio states (e.g., `bookWrite`, `bookRead`)
-- Don't pass valtio snapshots as props - use `useSnapshot` in each component
-- Store all valtio states in `frontend/src/lib/states/`
+## 3. Frontend Stack
+- Shadcn UI components
+- Tailwind CSS
+- Custom router library
 
-### Database Operations
+## 4. Localization
+- Use Bahasa Indonesia for all UI text shown to users
+- Use English for code
 
-Prisma client is available globally as `db`. Example API endpoint:
+## 5. Backend Database Access
+- Prisma client is globally available as `db` variable
+- No need to initialize
 
-```typescript
+## 6. API Architecture
+- CRUD operations handled via APIs in `backend/src/api`
+- Uses Prisma under the hood
+- Frontend should use generated API client, not fetch
+- Import from `@/lib/gen/[domain]`
+
+Example API definition:
+```
 import { defineAPI } from "rlib/server";
-
 export default defineAPI({
-  name: "get_user",
-  url: "/api/user",
-  async handler(arg: { email: string }) {
-    const user = await db.user.findFirst({
-      where: { email: arg.email }
+  name: "auth_user",
+  url: "/api/auth/user",
+  async handler(arg: { username: string }) {
+    const res = await db.auth_user.findFirst({
+      where: {
+        OR: [
+          {email: arg.username},
+          {username: arg.username,}
+        ],
+      },
     });
-    return user;
+    return res;
   },
 });
 ```
 
-### Frontend API Calls
-
-Never use `fetch` directly. Use the generated API client:
-
-```typescript
-import { api } from "@/lib/gen/main";
-const res = await api.get_user({ email: "user@example.com" });
+Frontend usage:
+```
+import { api } from "@/lib/gen/auth.esensi";
+const res = await api.auth_user({ username: username! });
 ```
 
-### TypeScript Imports
+## 7. TypeScript Import Rules
+- Use type-only imports when importing types (due to `verbatimModuleSyntax`)
 
-When importing types, use type-only imports:
-
-```typescript
-// ❌ Wrong
+Wrong:
+```
 import { User } from "better-auth/types";
+```
 
-// ✅ Correct
+Correct:
+```
 import type { User } from "better-auth/types";
 ```
 
-### Best Practices
+## 8. Development Environment
+- Never run `bun dev`
 
-1. **Null/Undefined Checks**: Always check for null/undefined before accessing nested objects
-2. **Page Props**: Don't assume props are always available - they can be empty during navigation
-3. **Development**: Use Firefox or any browser except VSCode's built-in browser
-4. **Error Handling**: Use IDE diagnostics integration for error checking
+## 9. Code Safety
+- Always check for null/undefined before accessing nested objects
+- Use IDE getDiagnostics integration for error checking
+- Don't assume frontend page props are always available (can be empty or null during navigation)
 
-## Site Configuration
+## 10. URL Routing
+- Exclude domain prefix from URLs
+- Example: `/chapter.esensi/title/buku-chapter-10` → `/title/buku-chapter-10`
 
-The template supports multiple sites from a single codebase. Configure sites in `config.json`:
-
-```json
-{
-  "sites": {
-    "main": {
-      "devPort": 7000,
-      "domains": ["localhost:7000"],
-      "isDefault": true
-    }
-  }
-}
+## 11. Authentication Pattern
+- Uses better-auth library for authentication
+- Multi-domain authentication with cross-domain session sync
+- Supports multiple user types: customer, author, affiliate, internal, publisher
+- Each user type links to different tables via id_[type] fields
+- Frontend authentication client:
+```
+import { betterAuth } from "@/lib/better-auth";
+const { data, error } = await betterAuth.signIn({ username, password });
+const session = await betterAuth.getSession();
+```
+- Backend session retrieval includes related entities:
+```
+const session = await utils.getSession(headers);
+// session.user includes customer, author, affiliate, etc. data
 ```
 
-Add new sites by adding entries to the `sites` object. Each site can have its own:
-- API endpoints in `backend/src/api/[site-name]/`
-- Pages in `frontend/src/pages/[site-name]/`
-- Specific configurations and domains
+## 12. WebSocket/Notification Pattern
+- Real-time notifications via WebSocket
+- Frontend notification client:
+```
+import { notif } from "@/lib/notif";
+notif.init(user_id); // Initialize WebSocket connection
+// notif.list is a reactive proxy array of notifications
+```
+- Backend notification sending:
+```
+import { sendNotif, NotifType, WSMessageAction } from "@/lib/notif";
+await sendNotif(uid, {
+  action: WSMessageAction.NEW_NOTIF,
+  notif: { type: NotifType.INFO, message: "Your message", status: NotifStatus.UNREAD }
+});
+```
 
-## UI Language
+## 13. CRUD Pattern
+- Standardized CRUD operations with soft delete support
+- Frontend CRUD hook:
+```
+import { useCrud } from "@/lib/crud-hook";
+const crudHandlers = useCrud(apiFunction, {
+  primaryKey: "id", // optional, defaults to "id"
+  breadcrumbConfig: { basePath, entityNameField }
+});
+```
+- Backend CRUD handler:
+```
+import { crudHandler } from "@/lib/crud-handler";
+export default defineAPI({
+  handler: crudHandler("ModelName", {
+    primaryKey: "id",
+    softDelete: { enabled: true, field: "deleted_at", method: "null_is_available" },
+    list: { prisma: { include: { relation: true } } },
+    nested: { // For nested CRUD operations
+      addresses: { parentField: "id_customer", model: "CustomerAddress" }
+    }
+  })
+});
+```
+- CRUD actions: list, get, create, update, delete, bulkDelete, restore, bulkRestore
+- Supports nested CRUD for related entities
+- State persistence for complex forms via hash-based storage
 
-- Use English for all UI text and code
-- Adjust based on your project requirements
+## 14. API Response Pattern
+- All APIs return standardized response:
+```
+{ success: boolean, data?: any, message?: string, status?: number }
+```
+- Always handle errors gracefully with user-friendly messages in Bahasa Indonesia
 
-## Commands
+## 15. File Organization Pattern
+- API files organized by domain: backend/src/api/[domain]/[feature].ts
+- States organized by feature: frontend/src/lib/states/[feature]-state.ts
+- Generated API clients: frontend/src/lib/gen/[domain].ts
 
-- `bun run dev` - Start development server
-- `bun run prod` - Build for production
-- `bun run db generate` - Generate Prisma client
-- `bun run db migrate` - Run database migrations
-- `bun run typecheck` - Run TypeScript type checking
+## 16. Multi-Domain Support
+- Project supports multiple domains (main, chapter, publish, internal, auth)
+- Each domain can have its own API endpoints and pages
+- Cross-domain authentication handled via iframe and postMessage
+
+## 17. JSON Field Handling
+- JSON fields (info, cfg) are automatically serialized/deserialized
+- File fields (cover, product_file) stored as JSON arrays of paths
+- Special handling for comma-separated fields like story_tags
