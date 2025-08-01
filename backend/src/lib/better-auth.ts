@@ -213,16 +213,7 @@ export const utils = {
     if (response?.user?.id) {
       // Add any additional user data here if needed
       // TODO: Add database query to fetch additional user data
-      const userWithRelations = null; // await db.user.findFirst({ where: { id: response.user.id } });
-
-      if (userWithRelations) {
-        // Enhance the user object
-        (response as any).user = {
-          ...response.user,
-          username: userWithRelations.username || null,
-          role: userWithRelations.role || null,
-        };
-      }
+      // const userWithRelations = await db.user.findFirst({ where: { id: response.user.id } });
     }
     
     // Add session token to response

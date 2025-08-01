@@ -37,18 +37,7 @@ export const userState = {
     userWrite.error = null;
   },
   
-  getLoyaltyData() {
-    if (!userWrite.user?.customer) return null;
-    
-    // Generate loyalty ID from user info or use existing customer data
-    const loyaltyId = userWrite.user.customer.id
-      ? userWrite.user.customer.id.slice(-8).toUpperCase()
-      : "GUEST";
-    
-    // For now, return mock points data - in real app, this would come from the customer record
-    return {
-      id: loyaltyId,
-      points: 0, // This should come from the actual customer loyalty data
-    };
+  getUserRole() {
+    return userWrite.user?.role || "guest";
   }
 };

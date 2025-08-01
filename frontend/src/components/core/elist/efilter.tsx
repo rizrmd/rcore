@@ -24,7 +24,7 @@ export interface FilterConfig {
     | "boolean"
     | "relation";
   options?: { value: string | boolean; label: string }[];
-  relationConfig?: import("../ecrud/types").ModelRelationConfig;
+  relationConfig?: any; // ModelRelationConfig
   placeholder?: string;
   defaultValue?: any;
 }
