@@ -212,9 +212,8 @@ export const utils = {
     // Enhance the user data if needed
     if (response?.user?.id) {
       // Add any additional user data here if needed
-      const userWithRelations = await db.user.findFirst({
-        where: { id: response.user.id },
-      });
+      // TODO: Add database query to fetch additional user data
+      const userWithRelations = null; // await db.user.findFirst({ where: { id: response.user.id } });
 
       if (userWithRelations) {
         // Enhance the user object

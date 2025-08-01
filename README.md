@@ -61,10 +61,14 @@ cp .env.example .env
 # Edit .env with your database credentials
 ```
 
-4. Initialize the database:
+4. Generate Prisma client:
 ```bash
-bun run db generate
-bun run db migrate
+cd shared && bun prisma generate && cd ..
+```
+
+5. Initialize the database:
+```bash
+cd shared && bun prisma migrate dev --name init && cd ..
 ```
 
 ### Development
