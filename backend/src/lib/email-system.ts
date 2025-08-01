@@ -70,7 +70,7 @@ class EmailSystem {
 
     // Set default credential
     if (this.credentials.size > 0) {
-      this.defaultCredential = Array.from(this.credentials.keys())[0];
+      this.defaultCredential = Array.from(this.credentials.keys())[0] || 'default';
     }
   }
 

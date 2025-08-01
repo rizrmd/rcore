@@ -10,7 +10,6 @@ import {
   type SiteConfig,
 } from "rlib/server";
 import { auth } from "./lib/better-auth";
-import { wsNotif } from "./lib/notif";
 
 if (config?.db?.orm === "prisma") {
   if (
@@ -42,7 +41,7 @@ const onFetch: onFetch = async ({ url, req }) => {
 };
 const index = (await import("frontend/entry/index.html")).default;
 
-const ws = { notif: wsNotif };
+const ws = {};
 
 if (isDev) {
   initDev({

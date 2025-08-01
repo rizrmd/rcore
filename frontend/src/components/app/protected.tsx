@@ -1,12 +1,11 @@
 import { baseUrl } from "@/lib/gen/base-url";
 import { useLocal } from "@/lib/hooks/use-local";
-import { notif } from "@/lib/notif";
+// import { notif } from "@/lib/notif";
 import { navigate } from "@/lib/router";
 import { snakeToCamel } from "@/lib/utils";
 import type { Session } from "better-auth/types";
 import { type FC, type ReactNode } from "react";
-import type { Role, User } from "shared/types";
-import NoAccess from "../ext/no-access";
+import type { User } from "shared/types";
 import { Alert } from "../ui/global-alert";
 import { AppLoading } from "./loading";
 
@@ -16,7 +15,7 @@ export const current = {
   iframe: null as HTMLIFrameElement | null,
   signoutCallback: undefined as undefined | (() => void),
   loaded: false,
-  missing_role: [] as Role[],
+  missing_role: [] as string[],
   promise: null as null | Promise<void>,
   done: () => {},
   syncing: false, // Add flag to prevent duplicate sync calls
@@ -29,7 +28,7 @@ export const current = {
       if (!current.iframe) {
         current.iframe = document.createElement("iframe");
         current.iframe.id = "session-frame";
-        current.iframe.src = baseUrl.auth_esensi + "/api/get-session-frame";
+        current.iframe.src = baseUrl.main + "/api/get-session-frame";
         current.iframe.style.display = "none";
         document.body.appendChild(current.iframe);
       }
@@ -76,7 +75,7 @@ export const Protected: FC<{
   children:
     | ReactNode
     | ((opt: { user: User | null; missing_role: string[] }) => ReactNode);
-  role?: Role | Role[] | "any";
+  role?: string | string[] | "any";
   onLoad?: (opt: { user: null | User }) => void | Promise<void>;
   fallbackUrl?: string | null;
   allowGuest?: boolean;
@@ -94,16 +93,8 @@ export const Protected: FC<{
         console.log('redirect to /')
       } else {
         if (current.user?.id) {
-          notif.init(current.user.id);
-          if (current.user!.idAffiliate === "null")
-            current.user!.idAffiliate = null;
-          if (current.user!.idAuthor === "null") current.user!.idAuthor = null;
-          if (current.user!.idCustomer === "null")
-            current.user!.idCustomer = null;
-          if (current.user!.idInternal === "null")
-            current.user!.idInternal = null;
-          if (current.user!.idPublisher === "null")
-            current.user!.idPublisher = null;
+          // notif.init(current.user.id);
+          // Clean up user data if needed
         }
 
         if (role !== "any") {
@@ -112,7 +103,7 @@ export const Protected: FC<{
           for (const r of roles) {
             if (
               current.user &&
-              !(current.user as any)[snakeToCamel(`id_${r}`)]
+              current.user.role !== r
             ) {
               if (r) current.missing_role.push(r);
             }
@@ -141,7 +132,7 @@ export const Protected: FC<{
       return;
     }
 
-    return <NoAccess />;
+    return <div>Access Denied</div>;
   }
 
   return (

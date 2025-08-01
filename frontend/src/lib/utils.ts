@@ -2,7 +2,6 @@ import { Alert } from "@/components/ui/global-alert";
 import { baseUrl } from "@/lib/gen/base-url";
 import type { OutputData } from "@editorjs/editorjs";
 import type { User } from "shared/types";
-import { InternalRole } from "shared/types";
 import { type ClassValue, clsx } from "clsx";
 import type { Decimal } from "shared/models/runtime/library";
 import { twMerge } from "tailwind-merge";
@@ -12,10 +11,10 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function getRedirectURL(callbackURL: string | null) {
-  return !callbackURL ? baseUrl.main_esensi : callbackURL;
+  return !callbackURL ? baseUrl.main : callbackURL;
 }
 
-export function getMainEsensiURL() {
+export function getMainURL() {
   // Check if we're in development (localhost)
   if (
     typeof window !== "undefined" &&
@@ -23,52 +22,16 @@ export function getMainEsensiURL() {
   ) {
     return "http://localhost:7000";
   }
-  // In production, use the main.esensi domain
-  return "https://main.esensi.online";
+  // In production, use the main domain
+  return window.location.origin;
 }
 
-export function isPublisher(user: User) {
-  return !!user?.idPublisher;
+export function isAdmin(user: User) {
+  return user?.role === 'admin';
 }
 
-export function isAuthor(user: User) {
-  return !!user?.idAuthor;
-}
-
-export function isInternal(user: User, internalRoles?: InternalRole[]) {
-  if (!internalRoles || !internalRoles.length) return !!user?.idInternal;
-  else {
-    const x = !!user?.idInternal;
-    if (x && internalRoles.includes(InternalRole.IT) && user.internal?.is_it)
-      return true;
-    if (
-      x &&
-      internalRoles.includes(InternalRole.MANAGEMENT) &&
-      user.internal?.is_management
-    )
-      return true;
-    if (
-      x &&
-      internalRoles.includes(InternalRole.SALES_AND_MARKETING) &&
-      user.internal?.is_sales_and_marketing
-    )
-      return true;
-    if (
-      x &&
-      internalRoles.includes(InternalRole.SUPPORT) &&
-      user.internal?.is_support
-    )
-      return true;
-    return false;
-  }
-}
-
-export function isCustomer(user: User) {
-  return !!user?.idCustomer;
-}
-
-export function isAffiliate(user: User) {
-  return !!user?.idAffiliate;
+export function isModerator(user: User) {
+  return user?.role === 'moderator';
 }
 
 export function snakeToCamel(str: string): string {

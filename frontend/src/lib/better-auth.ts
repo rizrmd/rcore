@@ -46,13 +46,6 @@ export type AuthClientGetSessionAPIResponse = {
 };
 
 let hostname = location.host;
-if (
-  ["internal.esensi.online", "publish.esensi.online"].includes(
-    location.hostname
-  )
-) {
-  hostname = "auth.esensi.online";
-}
 
 
 const authClient = createAuthClient({
@@ -115,9 +108,9 @@ export const betterAuth = {
   },
   social: async ({
     provider,
-    callbackURL = baseUrl.main_esensi,
+    callbackURL = baseUrl.main,
     errorCallbackURL = "/error",
-    newUserCallbackURL = baseUrl.main_esensi,
+    newUserCallbackURL = baseUrl.main,
     disableRedirect = false,
     idToken,
     loginHint,
@@ -208,9 +201,7 @@ export const betterAuth = {
     return authClient.useSession;
   },
   getSession: async (): Promise<AuthClientGetSessionAPIResponse> => {
-    const isAuthDomain = ["auth.esensi.online", "localhost:7500"].includes(
-      location.host
-    );
+    const isAuthDomain = false;
 
     if (!isAuthDomain) {
       if (!current.loaded && !current.promise) {

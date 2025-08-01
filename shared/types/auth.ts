@@ -7,16 +7,5 @@ export type User = {
   updatedAt: Date;
   image?: string | null;
   username?: string | null;
-  displayUsername?: string | null;
-  idCustomer?: string | null;
-  idAuthor?: string | null;
-  idAffiliate?: string | null;
-  idInternal?: string | null;
-  idPublisher?: string | null;
-  twoFactorEnabled?: boolean | null;
-  customer?: any | null;
-  author?: any | null;
-  affiliate?: any | null;
-  internal?: any | null;
-  publisher?: any | null;
+  role?: string | null;
 };

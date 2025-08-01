@@ -201,7 +201,7 @@ export const utils = {
         c.startsWith('better-auth.session_token=')
       );
       if (authSessionCookie) {
-        sessionToken = authSessionCookie.split('=')[1];
+        sessionToken = authSessionCookie.split('=')[1] || null;
       }
     }
     
@@ -219,8 +219,8 @@ export const utils = {
         // Enhance the user object
         (response as any).user = {
           ...response.user,
-          username: userWithRelations.username,
-          role: userWithRelations.role,
+          username: userWithRelations.username || null,
+          role: userWithRelations.role || null,
         };
       }
     }
