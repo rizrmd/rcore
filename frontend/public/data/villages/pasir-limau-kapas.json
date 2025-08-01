@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sungai-daun",
+    "name": "Sungai Daun",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "pasir-limau-kapas",
+    "name": "Pasir Limau Kapas",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "panipahan",
+    "name": "Panipahan",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "teluk-pulai",
+    "name": "Teluk Pulai",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "panipahan-laut",
+    "name": "Panipahan Laut",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "panipahan-darat",
+    "name": "Panipahan Darat",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "pulau-jemur",
+    "name": "Pulau Jemur",
+    "district": "pasir-limau-kapas"
+  },
+  {
+    "id": "panipahan",
+    "name": "Panipahan",
+    "district": "pasir-limau-kapas"
+  }
+]

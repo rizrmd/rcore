@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pekik-nyaring",
+    "name": "Pekik Nyaring",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "srikuncoro",
+    "name": "Srikuncoro",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "panca-mukti",
+    "name": "Panca Mukti",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "srikaton",
+    "name": "Srikaton",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "pasar-pedati",
+    "name": "Pasar Pedati",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "talang-pauh",
+    "name": "Talang Pauh",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "talang-buseng",
+    "name": "Talang Buseng",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "kembang-ayun",
+    "name": "Kembang Ayun",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "pagardewa",
+    "name": "Pagardewa",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "sunda-kelapa",
+    "name": "Sunda Kelapa",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "pondok-kelapa",
+    "name": "Pondok Kelapa",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "padang-betuah",
+    "name": "Padang Betuah",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "bintang-selatan",
+    "name": "Bintang Selatan",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "abu-sakim",
+    "name": "Abu Sakim",
+    "district": "pondok-kelapa"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "pondok-kelapa"
+  }
+]

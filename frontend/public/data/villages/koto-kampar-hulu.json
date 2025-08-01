@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "koto-kampar-hulu"
+  },
+  {
+    "id": "tabing",
+    "name": "Tabing",
+    "district": "koto-kampar-hulu"
+  },
+  {
+    "id": "pongkai",
+    "name": "Pongkai",
+    "district": "koto-kampar-hulu"
+  },
+  {
+    "id": "gunung-malelo",
+    "name": "Gunung Malelo",
+    "district": "koto-kampar-hulu"
+  },
+  {
+    "id": "sibiruang",
+    "name": "Sibiruang",
+    "district": "koto-kampar-hulu"
+  },
+  {
+    "id": "bandur-picak",
+    "name": "Bandur Picak",
+    "district": "koto-kampar-hulu"
+  }
+]

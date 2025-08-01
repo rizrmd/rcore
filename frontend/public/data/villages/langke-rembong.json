@@ -1,0 +1,102 @@
+[
+  {
+    "id": "golo-dukal",
+    "name": "Golo Dukal",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "pau",
+    "name": "Pau",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "waso",
+    "name": "Waso",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "watu",
+    "name": "Watu",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "tenda",
+    "name": "Tenda",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "carep",
+    "name": "Carep",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "mbaumuku",
+    "name": "Mbaumuku",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "karot",
+    "name": "Karot",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "pitak",
+    "name": "Pitak",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "lawir",
+    "name": "Lawir",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "wali",
+    "name": "Wali",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "bangka-leda",
+    "name": "Bangka Leda",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "rowang",
+    "name": "Rowang",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "bangka-nekang",
+    "name": "Bangka Nekang",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "poco-mal",
+    "name": "Poco Mal",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "satar-tacik",
+    "name": "Satar Tacik",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "laci-carep",
+    "name": "Laci Carep",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "compang-carep",
+    "name": "Compang Carep",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "tadong",
+    "name": "Tadong",
+    "district": "langke-rembong"
+  },
+  {
+    "id": "compang-tuke",
+    "name": "Compang Tuke",
+    "district": "langke-rembong"
+  }
+]

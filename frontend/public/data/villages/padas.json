@@ -1,0 +1,57 @@
+[
+  {
+    "id": "banjaransari",
+    "name": "Banjaransari",
+    "district": "padas"
+  },
+  {
+    "id": "bendo",
+    "name": "Bendo",
+    "district": "padas"
+  },
+  {
+    "id": "tambakromo",
+    "name": "Tambakromo",
+    "district": "padas"
+  },
+  {
+    "id": "tungkulrejo",
+    "name": "Tungkulrejo",
+    "district": "padas"
+  },
+  {
+    "id": "bintoyo",
+    "name": "Bintoyo",
+    "district": "padas"
+  },
+  {
+    "id": "sukowiyono",
+    "name": "Sukowiyono",
+    "district": "padas"
+  },
+  {
+    "id": "pacing",
+    "name": "Pacing",
+    "district": "padas"
+  },
+  {
+    "id": "padas",
+    "name": "Padas",
+    "district": "padas"
+  },
+  {
+    "id": "kedung-prahu",
+    "name": "Kedung Prahu",
+    "district": "padas"
+  },
+  {
+    "id": "sambiroto",
+    "name": "Sambiroto",
+    "district": "padas"
+  },
+  {
+    "id": "kwadungan-lor",
+    "name": "Kwadungan Lor",
+    "district": "padas"
+  }
+]

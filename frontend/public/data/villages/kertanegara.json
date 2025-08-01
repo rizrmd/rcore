@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mergasana",
+    "name": "Mergasana",
+    "district": "kertanegara"
+  },
+  {
+    "id": "kertanegara",
+    "name": "Kertanegara",
+    "district": "kertanegara"
+  },
+  {
+    "id": "kasih",
+    "name": "Kasih",
+    "district": "kertanegara"
+  },
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "kertanegara"
+  },
+  {
+    "id": "condong",
+    "name": "Condong",
+    "district": "kertanegara"
+  },
+  {
+    "id": "karangpucung",
+    "name": "Karangpucung",
+    "district": "kertanegara"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "kertanegara"
+  },
+  {
+    "id": "adiarsa",
+    "name": "Adiarsa",
+    "district": "kertanegara"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "kertanegara"
+  },
+  {
+    "id": "darma",
+    "name": "Darma",
+    "district": "kertanegara"
+  },
+  {
+    "id": "krangean",
+    "name": "Krangean",
+    "district": "kertanegara"
+  }
+]

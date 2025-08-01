@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "klego"
+  },
+  {
+    "id": "sendangrejo",
+    "name": "Sendangrejo",
+    "district": "klego"
+  },
+  {
+    "id": "kalangan",
+    "name": "Kalangan",
+    "district": "klego"
+  },
+  {
+    "id": "sangge",
+    "name": "Sangge",
+    "district": "klego"
+  },
+  {
+    "id": "jaten",
+    "name": "Jaten",
+    "district": "klego"
+  },
+  {
+    "id": "blumbang",
+    "name": "Blumbang",
+    "district": "klego"
+  },
+  {
+    "id": "bade",
+    "name": "Bade",
+    "district": "klego"
+  },
+  {
+    "id": "klego",
+    "name": "Klego",
+    "district": "klego"
+  },
+  {
+    "id": "gondanglegi",
+    "name": "Gondanglegi",
+    "district": "klego"
+  },
+  {
+    "id": "karanggatak",
+    "name": "Karanggatak",
+    "district": "klego"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "klego"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "klego"
+  },
+  {
+    "id": "karangmojo",
+    "name": "Karangmojo",
+    "district": "klego"
+  }
+]

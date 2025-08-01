@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gombang",
+    "name": "Gombang",
+    "district": "ponjong"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "ponjong"
+  },
+  {
+    "id": "bedoyo",
+    "name": "Bedoyo",
+    "district": "ponjong"
+  },
+  {
+    "id": "karang-asem",
+    "name": "Karang Asem",
+    "district": "ponjong"
+  },
+  {
+    "id": "ponjong",
+    "name": "Ponjong",
+    "district": "ponjong"
+  },
+  {
+    "id": "genjahan",
+    "name": "Genjahan",
+    "district": "ponjong"
+  },
+  {
+    "id": "sumber-giri",
+    "name": "Sumber Giri",
+    "district": "ponjong"
+  },
+  {
+    "id": "tambakromo",
+    "name": "Tambakromo",
+    "district": "ponjong"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "ponjong"
+  },
+  {
+    "id": "umbul-rejo",
+    "name": "Umbul Rejo",
+    "district": "ponjong"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "alam-panjang",
+    "name": "Alam Panjang",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "pulau-payung",
+    "name": "Pulau Payung",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "teratak",
+    "name": "Teratak",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "bukit-kratai",
+    "name": "Bukit Kratai",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "batang-batindih",
+    "name": "Batang Batindih",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "tambusai",
+    "name": "Tambusai",
+    "district": "rumbio-jaya"
+  },
+  {
+    "id": "simpang-petai",
+    "name": "Simpang Petai",
+    "district": "rumbio-jaya"
+  }
+]

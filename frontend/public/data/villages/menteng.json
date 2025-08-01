@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pegangsaan",
+    "name": "Pegangsaan",
+    "district": "menteng"
+  },
+  {
+    "id": "cikini",
+    "name": "Cikini",
+    "district": "menteng"
+  },
+  {
+    "id": "gondangdia",
+    "name": "Gondangdia",
+    "district": "menteng"
+  },
+  {
+    "id": "kebon-sirih",
+    "name": "Kebon Sirih",
+    "district": "menteng"
+  }
+]

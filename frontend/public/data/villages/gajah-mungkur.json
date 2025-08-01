@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sampangan",
+    "name": "Sampangan",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "bendan-duwur",
+    "name": "Bendan Duwur",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "gajahmungkur",
+    "name": "Gajahmungkur",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "bendan-ngisor",
+    "name": "Bendan Ngisor",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "petompon",
+    "name": "Petompon",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "gajah-mungkur"
+  },
+  {
+    "id": "lempongsari",
+    "name": "Lempongsari",
+    "district": "gajah-mungkur"
+  }
+]

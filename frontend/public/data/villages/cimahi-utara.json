@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pasirkaliki",
+    "name": "Pasirkaliki",
+    "district": "cimahi-utara"
+  },
+  {
+    "id": "cibabat",
+    "name": "Cibabat",
+    "district": "cimahi-utara"
+  },
+  {
+    "id": "citeureup",
+    "name": "Citeureup",
+    "district": "cimahi-utara"
+  },
+  {
+    "id": "cipageran",
+    "name": "Cipageran",
+    "district": "cimahi-utara"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ligua",
+    "name": "Ligua",
+    "district": "kayoa"
+  },
+  {
+    "id": "kida",
+    "name": "Kida",
+    "district": "kayoa"
+  },
+  {
+    "id": "buli",
+    "name": "Buli",
+    "district": "kayoa"
+  },
+  {
+    "id": "lelei",
+    "name": "Lelei",
+    "district": "kayoa"
+  },
+  {
+    "id": "talimau",
+    "name": "Talimau",
+    "district": "kayoa"
+  },
+  {
+    "id": "tawabi",
+    "name": "Tawabi",
+    "district": "kayoa"
+  },
+  {
+    "id": "guruapin",
+    "name": "Guruapin",
+    "district": "kayoa"
+  },
+  {
+    "id": "bajo",
+    "name": "Bajo",
+    "district": "kayoa"
+  },
+  {
+    "id": "gunange",
+    "name": "Gunange",
+    "district": "kayoa"
+  },
+  {
+    "id": "karamat",
+    "name": "Karamat",
+    "district": "kayoa"
+  },
+  {
+    "id": "laigoma",
+    "name": "Laigoma",
+    "district": "kayoa"
+  },
+  {
+    "id": "gafi",
+    "name": "Gafi",
+    "district": "kayoa"
+  },
+  {
+    "id": "siko",
+    "name": "Siko",
+    "district": "kayoa"
+  },
+  {
+    "id": "dorolamo",
+    "name": "Dorolamo",
+    "district": "kayoa"
+  }
+]

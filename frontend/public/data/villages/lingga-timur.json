@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bukit-langkap",
+    "name": "Bukit Langkap",
+    "district": "lingga-timur"
+  },
+  {
+    "id": "kerandin",
+    "name": "Kerandin",
+    "district": "lingga-timur"
+  },
+  {
+    "id": "pekaka",
+    "name": "Pekaka",
+    "district": "lingga-timur"
+  },
+  {
+    "id": "keton",
+    "name": "Keton",
+    "district": "lingga-timur"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "lingga-timur"
+  }
+]

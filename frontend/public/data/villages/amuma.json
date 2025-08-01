@@ -1,0 +1,67 @@
+[
+  {
+    "id": "amuma",
+    "name": "Amuma",
+    "district": "amuma"
+  },
+  {
+    "id": "tolikapura",
+    "name": "Tolikapura",
+    "district": "amuma"
+  },
+  {
+    "id": "sarmuge",
+    "name": "Sarmuge",
+    "district": "amuma"
+  },
+  {
+    "id": "wisikma",
+    "name": "Wisikma",
+    "district": "amuma"
+  },
+  {
+    "id": "balum-erang",
+    "name": "Balum Erang",
+    "district": "amuma"
+  },
+  {
+    "id": "golowen",
+    "name": "Golowen",
+    "district": "amuma"
+  },
+  {
+    "id": "orugai",
+    "name": "Orugai",
+    "district": "amuma"
+  },
+  {
+    "id": "sagasal",
+    "name": "Sagasal",
+    "district": "amuma"
+  },
+  {
+    "id": "silorin",
+    "name": "Silorin",
+    "district": "amuma"
+  },
+  {
+    "id": "waeklek",
+    "name": "Waeklek",
+    "district": "amuma"
+  },
+  {
+    "id": "plau",
+    "name": "Plau",
+    "district": "amuma"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "amuma"
+  },
+  {
+    "id": "kinika",
+    "name": "Kinika",
+    "district": "amuma"
+  }
+]

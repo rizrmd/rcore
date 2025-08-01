@@ -1,0 +1,27 @@
+[
+  {
+    "id": "toboh-gadang",
+    "name": "Toboh Gadang",
+    "district": "sintuk-toboh-gadang"
+  },
+  {
+    "id": "sintuk",
+    "name": "Sintuk",
+    "district": "sintuk-toboh-gadang"
+  },
+  {
+    "id": "toboh-gadang-barat",
+    "name": "Toboh Gadang Barat",
+    "district": "sintuk-toboh-gadang"
+  },
+  {
+    "id": "toboh-gadang-selatan",
+    "name": "Toboh Gadang Selatan",
+    "district": "sintuk-toboh-gadang"
+  },
+  {
+    "id": "toboh-gadang-timur",
+    "name": "Toboh Gadang Timur",
+    "district": "sintuk-toboh-gadang"
+  }
+]

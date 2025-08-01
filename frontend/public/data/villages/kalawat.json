@@ -1,0 +1,62 @@
+[
+  {
+    "id": "suwaan",
+    "name": "Suwaan",
+    "district": "kalawat"
+  },
+  {
+    "id": "kolongan",
+    "name": "Kolongan",
+    "district": "kalawat"
+  },
+  {
+    "id": "kawangkoan",
+    "name": "Kawangkoan",
+    "district": "kalawat"
+  },
+  {
+    "id": "kaleosan",
+    "name": "Kaleosan",
+    "district": "kalawat"
+  },
+  {
+    "id": "kuwil",
+    "name": "Kuwil",
+    "district": "kalawat"
+  },
+  {
+    "id": "watutumou",
+    "name": "Watutumou",
+    "district": "kalawat"
+  },
+  {
+    "id": "maumbi",
+    "name": "Maumbi",
+    "district": "kalawat"
+  },
+  {
+    "id": "kolongan-tetempangan",
+    "name": "Kolongan Tetempangan",
+    "district": "kalawat"
+  },
+  {
+    "id": "kawangkoan-baru",
+    "name": "Kawangkoan Baru",
+    "district": "kalawat"
+  },
+  {
+    "id": "kalawat",
+    "name": "Kalawat",
+    "district": "kalawat"
+  },
+  {
+    "id": "watutumou-ii",
+    "name": "Watutumou Ii",
+    "district": "kalawat"
+  },
+  {
+    "id": "watutumou-iii",
+    "name": "Watutumou Iii",
+    "district": "kalawat"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "klari"
+  },
+  {
+    "id": "cimahi",
+    "name": "Cimahi",
+    "district": "klari"
+  },
+  {
+    "id": "sumurkondang",
+    "name": "Sumurkondang",
+    "district": "klari"
+  },
+  {
+    "id": "walahar",
+    "name": "Walahar",
+    "district": "klari"
+  },
+  {
+    "id": "kiarapayung",
+    "name": "Kiarapayung",
+    "district": "klari"
+  },
+  {
+    "id": "gintungkerta",
+    "name": "Gintungkerta",
+    "district": "klari"
+  },
+  {
+    "id": "anggadita",
+    "name": "Anggadita",
+    "district": "klari"
+  },
+  {
+    "id": "klari",
+    "name": "Klari",
+    "district": "klari"
+  },
+  {
+    "id": "cibalongsari",
+    "name": "Cibalongsari",
+    "district": "klari"
+  },
+  {
+    "id": "pancawati",
+    "name": "Pancawati",
+    "district": "klari"
+  }
+]

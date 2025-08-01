@@ -1,0 +1,32 @@
+[
+  {
+    "id": "erong-berang",
+    "name": "Erong Berang",
+    "district": "ogamanim"
+  },
+  {
+    "id": "daung-kombet",
+    "name": "Daung / Kombet",
+    "district": "ogamanim"
+  },
+  {
+    "id": "kombet",
+    "name": "Kombet",
+    "district": "ogamanim"
+  },
+  {
+    "id": "onop",
+    "name": "Onop",
+    "district": "ogamanim"
+  },
+  {
+    "id": "kulamagom",
+    "name": "Kulamagom",
+    "district": "ogamanim"
+  },
+  {
+    "id": "ogamanin",
+    "name": "Ogamanin",
+    "district": "ogamanim"
+  }
+]

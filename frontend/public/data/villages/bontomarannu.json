@@ -1,0 +1,47 @@
+[
+  {
+    "id": "borongloe",
+    "name": "Borongloe",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "bontomanai",
+    "name": "Bontomanai",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "sokkolia",
+    "name": "Sokkolia",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "pakatto",
+    "name": "Pakatto",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "nirannuang",
+    "name": "Nirannuang",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "romangloe",
+    "name": "Romangloe",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "mata-allo",
+    "name": "Mata Allo",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "romanglompoa",
+    "name": "Romanglompoa",
+    "district": "bontomarannu"
+  },
+  {
+    "id": "bili-bili",
+    "name": "Bili-Bili",
+    "district": "bontomarannu"
+  }
+]

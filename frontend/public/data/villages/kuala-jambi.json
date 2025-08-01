@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kuala-lagan",
+    "name": "Kuala Lagan",
+    "district": "kuala-jambi"
+  },
+  {
+    "id": "teluk-majelis",
+    "name": "Teluk Majelis",
+    "district": "kuala-jambi"
+  },
+  {
+    "id": "kampung-laut",
+    "name": "Kampung Laut",
+    "district": "kuala-jambi"
+  },
+  {
+    "id": "tanjung-solok",
+    "name": "Tanjung Solok",
+    "district": "kuala-jambi"
+  },
+  {
+    "id": "manunggal-makmur",
+    "name": "Manunggal Makmur",
+    "district": "kuala-jambi"
+  },
+  {
+    "id": "majelis-hidayah",
+    "name": "Majelis Hidayah",
+    "district": "kuala-jambi"
+  }
+]

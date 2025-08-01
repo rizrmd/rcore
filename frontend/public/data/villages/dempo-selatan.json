@@ -1,0 +1,27 @@
+[
+  {
+    "id": "penjalang",
+    "name": "Penjalang",
+    "district": "dempo-selatan"
+  },
+  {
+    "id": "lubuk-buntak",
+    "name": "Lubuk Buntak",
+    "district": "dempo-selatan"
+  },
+  {
+    "id": "perahu-dipo",
+    "name": "Perahu Dipo",
+    "district": "dempo-selatan"
+  },
+  {
+    "id": "kance-diwe",
+    "name": "Kance Diwe",
+    "district": "dempo-selatan"
+  },
+  {
+    "id": "atung-bungsu",
+    "name": "Atung Bungsu",
+    "district": "dempo-selatan"
+  }
+]

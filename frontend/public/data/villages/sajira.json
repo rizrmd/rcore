@@ -1,0 +1,77 @@
+[
+  {
+    "id": "maraya",
+    "name": "Maraya",
+    "district": "sajira"
+  },
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "sajira"
+  },
+  {
+    "id": "sukamarga",
+    "name": "Sukamarga",
+    "district": "sajira"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "sajira"
+  },
+  {
+    "id": "sajiramekar",
+    "name": "Sajiramekar",
+    "district": "sajira"
+  },
+  {
+    "id": "sajira",
+    "name": "Sajira",
+    "district": "sajira"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "sajira"
+  },
+  {
+    "id": "calungbungur",
+    "name": "Calungbungur",
+    "district": "sajira"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "sajira"
+  },
+  {
+    "id": "paja",
+    "name": "Paja",
+    "district": "sajira"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "sajira"
+  },
+  {
+    "id": "pajagan",
+    "name": "Pajagan",
+    "district": "sajira"
+  },
+  {
+    "id": "parungsari",
+    "name": "Parungsari",
+    "district": "sajira"
+  },
+  {
+    "id": "bungur-mekar",
+    "name": "Bungur Mekar",
+    "district": "sajira"
+  },
+  {
+    "id": "ciuyah",
+    "name": "Ciuyah",
+    "district": "sajira"
+  }
+]

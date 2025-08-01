@@ -1,0 +1,42 @@
+[
+  {
+    "id": "baruyan",
+    "name": "Baruyan",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "lenggang",
+    "name": "Lenggang",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "puri",
+    "name": "Puri",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "batuah",
+    "name": "Batuah",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "turan-amis",
+    "name": "Turan Amis",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "tangkum",
+    "name": "Tangkum",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "sibung",
+    "name": "Sibung",
+    "district": "raren-batuah"
+  },
+  {
+    "id": "malintut",
+    "name": "Malintut",
+    "district": "raren-batuah"
+  }
+]

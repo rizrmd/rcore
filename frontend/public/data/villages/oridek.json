@@ -1,0 +1,72 @@
+[
+  {
+    "id": "opiaref",
+    "name": "Opiaref",
+    "district": "oridek"
+  },
+  {
+    "id": "bakribo",
+    "name": "Bakribo",
+    "district": "oridek"
+  },
+  {
+    "id": "marao",
+    "name": "Marao",
+    "district": "oridek"
+  },
+  {
+    "id": "sawa",
+    "name": "Sawa",
+    "district": "oridek"
+  },
+  {
+    "id": "wadibu",
+    "name": "Wadibu",
+    "district": "oridek"
+  },
+  {
+    "id": "anggopi",
+    "name": "Anggopi",
+    "district": "oridek"
+  },
+  {
+    "id": "anggaduber",
+    "name": "Anggaduber",
+    "district": "oridek"
+  },
+  {
+    "id": "animi",
+    "name": "Animi",
+    "district": "oridek"
+  },
+  {
+    "id": "kakur",
+    "name": "Kakur",
+    "district": "oridek"
+  },
+  {
+    "id": "tanjung-barari",
+    "name": "Tanjung Barari",
+    "district": "oridek"
+  },
+  {
+    "id": "sawadori",
+    "name": "Sawadori",
+    "district": "oridek"
+  },
+  {
+    "id": "sauri",
+    "name": "Sauri",
+    "district": "oridek"
+  },
+  {
+    "id": "makmakerbo",
+    "name": "Makmakerbo",
+    "district": "oridek"
+  },
+  {
+    "id": "yensama",
+    "name": "Yensama",
+    "district": "oridek"
+  }
+]

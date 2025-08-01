@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ulee-pata",
+    "name": "Ulee Pata",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "lamjamee",
+    "name": "Lamjamee",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "lampoh-daya",
+    "name": "Lampoh Daya",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "emperom",
+    "name": "Emperom",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "geuceu-meunara",
+    "name": "Geuceu Meunara",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "lamtemen-barat",
+    "name": "Lamtemen Barat",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "bitai",
+    "name": "Bitai",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "lamtemen-timur",
+    "name": "Lamtemen Timur",
+    "district": "jaya-baru"
+  },
+  {
+    "id": "punge-blang-cut",
+    "name": "Punge Blang Cut",
+    "district": "jaya-baru"
+  }
+]

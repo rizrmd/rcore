@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kusambi",
+    "name": "Kusambi",
+    "district": "kusambi"
+  },
+  {
+    "id": "konawe",
+    "name": "Konawe",
+    "district": "kusambi"
+  },
+  {
+    "id": "guali",
+    "name": "Guali",
+    "district": "kusambi"
+  },
+  {
+    "id": "lapokainse",
+    "name": "Lapokainse",
+    "district": "kusambi"
+  },
+  {
+    "id": "lemoambo",
+    "name": "Lemoambo",
+    "district": "kusambi"
+  },
+  {
+    "id": "kasakamu",
+    "name": "Kasakamu",
+    "district": "kusambi"
+  },
+  {
+    "id": "lakawoghe",
+    "name": "Lakawoghe",
+    "district": "kusambi"
+  },
+  {
+    "id": "bakeramba",
+    "name": "Bakeramba",
+    "district": "kusambi"
+  },
+  {
+    "id": "tanjung-pinang",
+    "name": "Tanjung Pinang",
+    "district": "kusambi"
+  },
+  {
+    "id": "sida-mangura",
+    "name": "Sida Mangura",
+    "district": "kusambi"
+  }
+]

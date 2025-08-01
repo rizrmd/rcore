@@ -1,0 +1,62 @@
+[
+  {
+    "id": "candi",
+    "name": "Candi",
+    "district": "mlarak"
+  },
+  {
+    "id": "totokan",
+    "name": "Totokan",
+    "district": "mlarak"
+  },
+  {
+    "id": "siwalan",
+    "name": "Siwalan",
+    "district": "mlarak"
+  },
+  {
+    "id": "joresan",
+    "name": "Joresan",
+    "district": "mlarak"
+  },
+  {
+    "id": "nglumpang",
+    "name": "Nglumpang",
+    "district": "mlarak"
+  },
+  {
+    "id": "gontor",
+    "name": "Gontor",
+    "district": "mlarak"
+  },
+  {
+    "id": "gandu",
+    "name": "Gandu",
+    "district": "mlarak"
+  },
+  {
+    "id": "jabung",
+    "name": "Jabung",
+    "district": "mlarak"
+  },
+  {
+    "id": "bajang",
+    "name": "Bajang",
+    "district": "mlarak"
+  },
+  {
+    "id": "mlarak",
+    "name": "Mlarak",
+    "district": "mlarak"
+  },
+  {
+    "id": "serangan",
+    "name": "Serangan",
+    "district": "mlarak"
+  },
+  {
+    "id": "kaponan",
+    "name": "Kaponan",
+    "district": "mlarak"
+  }
+]

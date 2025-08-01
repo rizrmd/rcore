@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sari-harjo",
+    "name": "Sari Harjo",
+    "district": "ngaglik"
+  },
+  {
+    "id": "sinduharjo",
+    "name": "Sinduharjo",
+    "district": "ngaglik"
+  },
+  {
+    "id": "minomartani",
+    "name": "Minomartani",
+    "district": "ngaglik"
+  },
+  {
+    "id": "suko-harjo",
+    "name": "Suko Harjo",
+    "district": "ngaglik"
+  },
+  {
+    "id": "sardonoharjo",
+    "name": "Sardonoharjo",
+    "district": "ngaglik"
+  },
+  {
+    "id": "donoharjo",
+    "name": "Donoharjo",
+    "district": "ngaglik"
+  }
+]

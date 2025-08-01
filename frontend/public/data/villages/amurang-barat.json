@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pondos",
+    "name": "Pondos",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "elusan",
+    "name": "Elusan",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "tewasen",
+    "name": "Tewasen",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "kapitu",
+    "name": "Kapitu",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "kawangkoan-bawah",
+    "name": "Kawangkoan Bawah",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "rumoong-bawah",
+    "name": "Rumoong Bawah",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "desa-rumoong-bawah",
+    "name": "Desa Rumoong Bawah",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "wakan",
+    "name": "Wakan",
+    "district": "amurang-barat"
+  },
+  {
+    "id": "teep-trans",
+    "name": "Teep Trans",
+    "district": "amurang-barat"
+  }
+]

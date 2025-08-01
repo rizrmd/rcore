@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gunung-meraksa",
+    "name": "Gunung Meraksa",
+    "district": "pengandonan"
+  },
+  {
+    "id": "tanjung-pura",
+    "name": "Tanjung Pura",
+    "district": "pengandonan"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "pengandonan"
+  },
+  {
+    "id": "tangsi-lontar",
+    "name": "Tangsi Lontar",
+    "district": "pengandonan"
+  },
+  {
+    "id": "belambangan",
+    "name": "Belambangan",
+    "district": "pengandonan"
+  },
+  {
+    "id": "kesambi-rata",
+    "name": "Kesambi Rata",
+    "district": "pengandonan"
+  },
+  {
+    "id": "gunung-liwat",
+    "name": "Gunung Liwat",
+    "district": "pengandonan"
+  },
+  {
+    "id": "semanding",
+    "name": "Semanding",
+    "district": "pengandonan"
+  },
+  {
+    "id": "pengandonan",
+    "name": "Pengandonan",
+    "district": "pengandonan"
+  },
+  {
+    "id": "tanjungan",
+    "name": "Tanjungan",
+    "district": "pengandonan"
+  },
+  {
+    "id": "ujan-mas",
+    "name": "Ujan Mas",
+    "district": "pengandonan"
+  },
+  {
+    "id": "gunung-kuripan",
+    "name": "Gunung Kuripan",
+    "district": "pengandonan"
+  }
+]

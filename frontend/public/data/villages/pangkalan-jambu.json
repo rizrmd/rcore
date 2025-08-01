@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bukit-perentak",
+    "name": "Bukit Perentak",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "baru-pangkalan-jambu",
+    "name": "Baru Pangkalan Jambu",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "tigo-alur-pangkalan-jambu",
+    "name": "Tigo Alur Pangkalan Jambu",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "birun",
+    "name": "Birun",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "sungai-jering",
+    "name": "Sungai Jering",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "kampung-limo",
+    "name": "Kampung Limo",
+    "district": "pangkalan-jambu"
+  },
+  {
+    "id": "tanjung-mudo",
+    "name": "Tanjung Mudo",
+    "district": "pangkalan-jambu"
+  }
+]

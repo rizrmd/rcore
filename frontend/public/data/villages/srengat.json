@@ -1,0 +1,77 @@
+[
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "srengat"
+  },
+  {
+    "id": "selokajang",
+    "name": "Selokajang",
+    "district": "srengat"
+  },
+  {
+    "id": "ngaglik",
+    "name": "Ngaglik",
+    "district": "srengat"
+  },
+  {
+    "id": "maron",
+    "name": "Maron",
+    "district": "srengat"
+  },
+  {
+    "id": "pakisrejo",
+    "name": "Pakisrejo",
+    "district": "srengat"
+  },
+  {
+    "id": "karanggayam",
+    "name": "Karanggayam",
+    "district": "srengat"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "srengat"
+  },
+  {
+    "id": "kauman",
+    "name": "Kauman",
+    "district": "srengat"
+  },
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "srengat"
+  },
+  {
+    "id": "kendalrejo",
+    "name": "Kendalrejo",
+    "district": "srengat"
+  },
+  {
+    "id": "dandong",
+    "name": "Dandong",
+    "district": "srengat"
+  },
+  {
+    "id": "bagelenan",
+    "name": "Bagelenan",
+    "district": "srengat"
+  },
+  {
+    "id": "srengat",
+    "name": "Srengat",
+    "district": "srengat"
+  },
+  {
+    "id": "togogan",
+    "name": "Togogan",
+    "district": "srengat"
+  },
+  {
+    "id": "dermojayan",
+    "name": "Dermojayan",
+    "district": "srengat"
+  }
+]

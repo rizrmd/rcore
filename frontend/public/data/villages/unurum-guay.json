@@ -1,0 +1,32 @@
+[
+  {
+    "id": "guriyad",
+    "name": "Guriyad",
+    "district": "unurum-guay"
+  },
+  {
+    "id": "sentosa",
+    "name": "Sentosa",
+    "district": "unurum-guay"
+  },
+  {
+    "id": "beneik",
+    "name": "Beneik",
+    "district": "unurum-guay"
+  },
+  {
+    "id": "garusa",
+    "name": "Garusa",
+    "district": "unurum-guay"
+  },
+  {
+    "id": "sawesuma",
+    "name": "Sawesuma",
+    "district": "unurum-guay"
+  },
+  {
+    "id": "nandalzi",
+    "name": "Nandalzi",
+    "district": "unurum-guay"
+  }
+]

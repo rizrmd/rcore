@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kepanjen",
+    "name": "Kepanjen",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "mayangan",
+    "name": "Mayangan",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "menampu",
+    "name": "Menampu",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "bagorejo",
+    "name": "Bagorejo",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "gumukmas",
+    "name": "Gumukmas",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "purwoasri",
+    "name": "Purwoasri",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "tembokrejo",
+    "name": "Tembokrejo",
+    "district": "gumuk-mas"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "gumuk-mas"
+  }
+]

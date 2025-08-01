@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gunungsitoli-idanoi",
+    "name": "Gunungsitoli Idanoi",
+    "regency": "kota-gunungsitoli"
+  },
+  {
+    "id": "gunungsitoli-selatan",
+    "name": "Gunungsitoli Selatan",
+    "regency": "kota-gunungsitoli"
+  },
+  {
+    "id": "gunungsitoli-barat",
+    "name": "Gunungsitoli Barat",
+    "regency": "kota-gunungsitoli"
+  },
+  {
+    "id": "gunung-sitoli",
+    "name": "Gunung Sitoli",
+    "regency": "kota-gunungsitoli"
+  },
+  {
+    "id": "gunungsitoli-alo-oa",
+    "name": "Gunungsitoli Alo Oa",
+    "regency": "kota-gunungsitoli"
+  },
+  {
+    "id": "gunungsitoli-utara",
+    "name": "Gunungsitoli Utara",
+    "regency": "kota-gunungsitoli"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kilongan",
+    "name": "Kilongan",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "bumi-beringin",
+    "name": "Bumi Beringin",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "boyou",
+    "name": "Boyou",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "biak",
+    "name": "Biak",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "bunga",
+    "name": "Bunga",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "kamumu",
+    "name": "Kamumu",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "salodik",
+    "name": "Salodik",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "awu",
+    "name": "Awu",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "kilongan-permai",
+    "name": "Kilongan Permai",
+    "district": "luwuk-utara"
+  },
+  {
+    "id": "buon-mandiri",
+    "name": "Buon Mandiri",
+    "district": "luwuk-utara"
+  }
+]

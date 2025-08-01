@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bioa-sengok",
+    "name": "Bioa Sengok",
+    "district": "rimbo-pengadang"
+  },
+  {
+    "id": "rimbo-pengadang",
+    "name": "Rimbo Pengadang",
+    "district": "rimbo-pengadang"
+  },
+  {
+    "id": "teluk-dien",
+    "name": "Teluk Dien",
+    "district": "rimbo-pengadang"
+  },
+  {
+    "id": "talang-ratu",
+    "name": "Talang Ratu",
+    "district": "rimbo-pengadang"
+  },
+  {
+    "id": "tik-kuto",
+    "name": "Tik Kuto",
+    "district": "rimbo-pengadang"
+  },
+  {
+    "id": "bajok",
+    "name": "Bajok",
+    "district": "rimbo-pengadang"
+  }
+]

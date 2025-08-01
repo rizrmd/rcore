@@ -1,0 +1,22 @@
+[
+  {
+    "id": "margahayu",
+    "name": "Margahayu",
+    "district": "bekasi-timur"
+  },
+  {
+    "id": "bekasi-jaya",
+    "name": "Bekasi Jaya",
+    "district": "bekasi-timur"
+  },
+  {
+    "id": "duren-jaya",
+    "name": "Duren Jaya",
+    "district": "bekasi-timur"
+  },
+  {
+    "id": "aren-jaya",
+    "name": "Aren Jaya",
+    "district": "bekasi-timur"
+  }
+]

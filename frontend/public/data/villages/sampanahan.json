@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sepapah",
+    "name": "Sepapah",
+    "district": "sampanahan"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "sampanahan"
+  },
+  {
+    "id": "sungai-betung",
+    "name": "Sungai Betung",
+    "district": "sampanahan"
+  },
+  {
+    "id": "sampanahan-hilir",
+    "name": "Sampanahan Hilir",
+    "district": "sampanahan"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "sampanahan"
+  },
+  {
+    "id": "sampanahan",
+    "name": "Sampanahan",
+    "district": "sampanahan"
+  },
+  {
+    "id": "gunung-batu-besar",
+    "name": "Gunung Batu Besar",
+    "district": "sampanahan"
+  },
+  {
+    "id": "basuang",
+    "name": "Basuang",
+    "district": "sampanahan"
+  },
+  {
+    "id": "papaan",
+    "name": "Papaan",
+    "district": "sampanahan"
+  },
+  {
+    "id": "rampa-manunggul",
+    "name": "Rampa Manunggul",
+    "district": "sampanahan"
+  }
+]

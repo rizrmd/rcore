@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pondok-tengah",
+    "name": "Pondok Tengah",
+    "district": "v-koto"
+  },
+  {
+    "id": "sungai-lintang",
+    "name": "Sungai Lintang",
+    "district": "v-koto"
+  },
+  {
+    "id": "talang-petai",
+    "name": "Talang Petai",
+    "district": "v-koto"
+  },
+  {
+    "id": "lalang-luas",
+    "name": "Lalang Luas",
+    "district": "v-koto"
+  },
+  {
+    "id": "rasno",
+    "name": "Rasno",
+    "district": "v-koto"
+  },
+  {
+    "id": "pondok-panjang",
+    "name": "Pondok Panjang",
+    "district": "v-koto"
+  },
+  {
+    "id": "talang-sakti",
+    "name": "Talang Sakti",
+    "district": "v-koto"
+  },
+  {
+    "id": "talang-sepakat",
+    "name": "Talang Sepakat",
+    "district": "v-koto"
+  },
+  {
+    "id": "lubuk-cabau",
+    "name": "Lubuk Cabau",
+    "district": "v-koto"
+  },
+  {
+    "id": "sungai-rengas",
+    "name": "Sungai Rengas",
+    "district": "v-koto"
+  }
+]

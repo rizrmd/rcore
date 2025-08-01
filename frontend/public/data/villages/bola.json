@@ -1,0 +1,87 @@
+[
+  {
+    "id": "hokor",
+    "name": "Hokor",
+    "district": "bola"
+  },
+  {
+    "id": "wolonwalu",
+    "name": "Wolonwalu",
+    "district": "bola"
+  },
+  {
+    "id": "wolokoli",
+    "name": "Wolokoli",
+    "district": "bola"
+  },
+  {
+    "id": "bola",
+    "name": "Bola",
+    "district": "bola"
+  },
+  {
+    "id": "umauta",
+    "name": "Umauta",
+    "district": "bola"
+  },
+  {
+    "id": "ipir",
+    "name": "Ipir",
+    "district": "bola"
+  },
+  {
+    "id": "balielo",
+    "name": "Balielo",
+    "district": "bola"
+  },
+  {
+    "id": "lempong",
+    "name": "Lempong",
+    "district": "bola"
+  },
+  {
+    "id": "manurung",
+    "name": "Manurung",
+    "district": "bola"
+  },
+  {
+    "id": "bola",
+    "name": "Bola",
+    "district": "bola"
+  },
+  {
+    "id": "rajamawellang",
+    "name": "Rajamawellang",
+    "district": "bola"
+  },
+  {
+    "id": "ujung-tanah",
+    "name": "Ujung Tanah",
+    "district": "bola"
+  },
+  {
+    "id": "solo",
+    "name": "Solo",
+    "district": "bola"
+  },
+  {
+    "id": "sanreseng-ade",
+    "name": "Sanreseng Ade",
+    "district": "bola"
+  },
+  {
+    "id": "lattimu",
+    "name": "Lattimu",
+    "district": "bola"
+  },
+  {
+    "id": "patangae",
+    "name": "Patangae",
+    "district": "bola"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "bola"
+  }
+]

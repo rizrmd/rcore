@@ -1,0 +1,72 @@
+[
+  {
+    "id": "semaya",
+    "name": "Semaya",
+    "district": "sikur"
+  },
+  {
+    "id": "sikur",
+    "name": "Sikur",
+    "district": "sikur"
+  },
+  {
+    "id": "montongbaan",
+    "name": "Montongbaan",
+    "district": "sikur"
+  },
+  {
+    "id": "loyok",
+    "name": "Loyok",
+    "district": "sikur"
+  },
+  {
+    "id": "kotaraja",
+    "name": "Kotaraja",
+    "district": "sikur"
+  },
+  {
+    "id": "tetebatu",
+    "name": "Tetebatu",
+    "district": "sikur"
+  },
+  {
+    "id": "kembang-kuning",
+    "name": "Kembang Kuning",
+    "district": "sikur"
+  },
+  {
+    "id": "montongbaan-selatan",
+    "name": "Montongbaan Selatan",
+    "district": "sikur"
+  },
+  {
+    "id": "gelora",
+    "name": "Gelora",
+    "district": "sikur"
+  },
+  {
+    "id": "darma-sari",
+    "name": "Darma Sari",
+    "district": "sikur"
+  },
+  {
+    "id": "tetebatu-selatan",
+    "name": "Tetebatu Selatan",
+    "district": "sikur"
+  },
+  {
+    "id": "jeruk-manis",
+    "name": "Jeruk Manis",
+    "district": "sikur"
+  },
+  {
+    "id": "sikur-selatan",
+    "name": "Sikur Selatan",
+    "district": "sikur"
+  },
+  {
+    "id": "sikur-barat",
+    "name": "Sikur Barat",
+    "district": "sikur"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "nanga-manday",
+    "name": "Nanga Manday",
+    "district": "bika"
+  },
+  {
+    "id": "bika",
+    "name": "Bika",
+    "district": "bika"
+  },
+  {
+    "id": "teluk-sindur",
+    "name": "Teluk Sindur",
+    "district": "bika"
+  },
+  {
+    "id": "penyeluang",
+    "name": "Penyeluang",
+    "district": "bika"
+  },
+  {
+    "id": "jongkong-manday",
+    "name": "Jongkong Manday",
+    "district": "bika"
+  },
+  {
+    "id": "melapi-manday",
+    "name": "Melapi Manday",
+    "district": "bika"
+  },
+  {
+    "id": "bika-hulu",
+    "name": "Bika Hulu",
+    "district": "bika"
+  }
+]

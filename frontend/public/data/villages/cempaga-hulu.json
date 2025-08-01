@@ -1,0 +1,52 @@
+[
+  {
+    "id": "parit",
+    "name": "Parit",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "pelantaran",
+    "name": "Pelantaran",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "keruing",
+    "name": "Keruing",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "pantai-harapan",
+    "name": "Pantai Harapan",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "tumbang-koling",
+    "name": "Tumbang Koling",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "sudan",
+    "name": "Sudan",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "bukit-raya",
+    "name": "Bukit Raya",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "sungai-ubar-mandiri",
+    "name": "Sungai Ubar Mandiri",
+    "district": "cempaga-hulu"
+  },
+  {
+    "id": "selucing",
+    "name": "Selucing",
+    "district": "cempaga-hulu"
+  }
+]

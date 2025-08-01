@@ -1,0 +1,32 @@
+[
+  {
+    "id": "meral-kota",
+    "name": "Meral Kota",
+    "district": "meral"
+  },
+  {
+    "id": "baran-barat",
+    "name": "Baran Barat",
+    "district": "meral"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "meral"
+  },
+  {
+    "id": "sungai-pasir",
+    "name": "Sungai Pasir",
+    "district": "meral"
+  },
+  {
+    "id": "baran-timur",
+    "name": "Baran Timur",
+    "district": "meral"
+  },
+  {
+    "id": "parit-benut",
+    "name": "Parit Benut",
+    "district": "meral"
+  }
+]

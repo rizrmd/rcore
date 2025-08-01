@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sido-mulyo",
+    "name": "Sido Mulyo",
+    "district": "gading-cempaka"
+  },
+  {
+    "id": "jalan-gedang",
+    "name": "Jalan Gedang",
+    "district": "gading-cempaka"
+  },
+  {
+    "id": "padang-harapan",
+    "name": "Padang Harapan",
+    "district": "gading-cempaka"
+  },
+  {
+    "id": "cempaka-permai",
+    "name": "Cempaka Permai",
+    "district": "gading-cempaka"
+  },
+  {
+    "id": "linkar-barat",
+    "name": "Linkar Barat",
+    "district": "gading-cempaka"
+  }
+]

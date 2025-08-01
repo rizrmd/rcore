@@ -1,0 +1,97 @@
+[
+  {
+    "id": "honelama",
+    "name": "Honelama",
+    "district": "wamena"
+  },
+  {
+    "id": "hurekama",
+    "name": "Hurekama",
+    "district": "wamena"
+  },
+  {
+    "id": "wamena-kota",
+    "name": "Wamena Kota",
+    "district": "wamena"
+  },
+  {
+    "id": "hituma",
+    "name": "Hituma",
+    "district": "wamena"
+  },
+  {
+    "id": "kama",
+    "name": "Kama",
+    "district": "wamena"
+  },
+  {
+    "id": "wesaganya",
+    "name": "Wesaganya",
+    "district": "wamena"
+  },
+  {
+    "id": "mawampi",
+    "name": "Mawampi",
+    "district": "wamena"
+  },
+  {
+    "id": "autakma",
+    "name": "Autakma",
+    "district": "wamena"
+  },
+  {
+    "id": "sinapuk",
+    "name": "Sinapuk",
+    "district": "wamena"
+  },
+  {
+    "id": "sinakma",
+    "name": "Sinakma",
+    "district": "wamena"
+  },
+  {
+    "id": "silumarek",
+    "name": "Silumarek",
+    "district": "wamena"
+  },
+  {
+    "id": "yaloaput",
+    "name": "Yaloaput",
+    "district": "wamena"
+  },
+  {
+    "id": "parema",
+    "name": "Parema",
+    "district": "wamena"
+  },
+  {
+    "id": "agamoa",
+    "name": "Agamoa",
+    "district": "wamena"
+  },
+  {
+    "id": "batu-merah",
+    "name": "Batu Merah",
+    "district": "wamena"
+  },
+  {
+    "id": "honelama-ii",
+    "name": "Honelama Ii",
+    "district": "wamena"
+  },
+  {
+    "id": "onaima",
+    "name": "Onaima",
+    "district": "wamena"
+  },
+  {
+    "id": "lantipo",
+    "name": "Lantipo",
+    "district": "wamena"
+  },
+  {
+    "id": "wamaroma",
+    "name": "Wamaroma",
+    "district": "wamena"
+  }
+]

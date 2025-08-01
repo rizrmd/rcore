@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pir-adb-besitang",
+    "name": "Pir Adb Besitang",
+    "district": "besitang"
+  },
+  {
+    "id": "sekoci",
+    "name": "Sekoci",
+    "district": "besitang"
+  },
+  {
+    "id": "bukit-mas",
+    "name": "Bukit Mas",
+    "district": "besitang"
+  },
+  {
+    "id": "halaban",
+    "name": "Halaban",
+    "district": "besitang"
+  },
+  {
+    "id": "bukit-selamat",
+    "name": "Bukit Selamat",
+    "district": "besitang"
+  },
+  {
+    "id": "pekan-besitang",
+    "name": "Pekan Besitang",
+    "district": "besitang"
+  },
+  {
+    "id": "kampung-lama",
+    "name": "Kampung Lama",
+    "district": "besitang"
+  },
+  {
+    "id": "bukit-kubu",
+    "name": "Bukit Kubu",
+    "district": "besitang"
+  },
+  {
+    "id": "suka-jaya",
+    "name": "Suka Jaya",
+    "district": "besitang"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tampir-kulon",
+    "name": "Tampir Kulon",
+    "district": "candimulyo"
+  },
+  {
+    "id": "tampir-wetan",
+    "name": "Tampir Wetan",
+    "district": "candimulyo"
+  },
+  {
+    "id": "bateh",
+    "name": "Bateh",
+    "district": "candimulyo"
+  },
+  {
+    "id": "kebonrejo",
+    "name": "Kebonrejo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "kembaran",
+    "name": "Kembaran",
+    "district": "candimulyo"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "candimulyo"
+  },
+  {
+    "id": "podosoko",
+    "name": "Podosoko",
+    "district": "candimulyo"
+  },
+  {
+    "id": "tempak",
+    "name": "Tempak",
+    "district": "candimulyo"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "mejing",
+    "name": "Mejing",
+    "district": "candimulyo"
+  },
+  {
+    "id": "surojoyo",
+    "name": "Surojoyo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "candimulyo",
+    "name": "Candimulyo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "giyanti",
+    "name": "Giyanti",
+    "district": "candimulyo"
+  },
+  {
+    "id": "sonorejo",
+    "name": "Sonorejo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "tembelang",
+    "name": "Tembelang",
+    "district": "candimulyo"
+  },
+  {
+    "id": "tempursari",
+    "name": "Tempursari",
+    "district": "candimulyo"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "candimulyo"
+  },
+  {
+    "id": "surodadi",
+    "name": "Surodadi",
+    "district": "candimulyo"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sampora",
+    "name": "Sampora",
+    "district": "cikidang"
+  },
+  {
+    "id": "cijambe",
+    "name": "Cijambe",
+    "district": "cikidang"
+  },
+  {
+    "id": "cikiray",
+    "name": "Cikiray",
+    "district": "cikidang"
+  },
+  {
+    "id": "mekarnangka",
+    "name": "Mekarnangka",
+    "district": "cikidang"
+  },
+  {
+    "id": "cikidang",
+    "name": "Cikidang",
+    "district": "cikidang"
+  },
+  {
+    "id": "gunung-malang",
+    "name": "Gunung Malang",
+    "district": "cikidang"
+  },
+  {
+    "id": "nangkakoneng",
+    "name": "Nangkakoneng",
+    "district": "cikidang"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "cikidang"
+  },
+  {
+    "id": "bumisari",
+    "name": "Bumisari",
+    "district": "cikidang"
+  },
+  {
+    "id": "cicareuh",
+    "name": "Cicareuh",
+    "district": "cikidang"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "cikidang"
+  },
+  {
+    "id": "cikarae-thoyibah",
+    "name": "Cikarae Thoyibah",
+    "district": "cikidang"
+  }
+]

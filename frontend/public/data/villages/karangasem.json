@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pertima",
+    "name": "Pertima",
+    "district": "karangasem"
+  },
+  {
+    "id": "subagan",
+    "name": "Subagan",
+    "district": "karangasem"
+  },
+  {
+    "id": "padang-kerta",
+    "name": "Padang Kerta",
+    "district": "karangasem"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "karangasem"
+  },
+  {
+    "id": "tegallinggah",
+    "name": "Tegallinggah",
+    "district": "karangasem"
+  },
+  {
+    "id": "bukit",
+    "name": "Bukit",
+    "district": "karangasem"
+  },
+  {
+    "id": "seraya-barat",
+    "name": "Seraya Barat",
+    "district": "karangasem"
+  },
+  {
+    "id": "seraya",
+    "name": "Seraya",
+    "district": "karangasem"
+  },
+  {
+    "id": "seraya-timur",
+    "name": "Seraya Timur",
+    "district": "karangasem"
+  }
+]

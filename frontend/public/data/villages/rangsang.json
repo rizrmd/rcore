@@ -1,0 +1,72 @@
+[
+  {
+    "id": "repan",
+    "name": "Repan",
+    "district": "rangsang"
+  },
+  {
+    "id": "penyagun",
+    "name": "Penyagun",
+    "district": "rangsang"
+  },
+  {
+    "id": "gemala-sari",
+    "name": "Gemala Sari",
+    "district": "rangsang"
+  },
+  {
+    "id": "sungai-gayung-kiri",
+    "name": "Sungai Gayung Kiri",
+    "district": "rangsang"
+  },
+  {
+    "id": "tanjung-medang",
+    "name": "Tanjung Medang",
+    "district": "rangsang"
+  },
+  {
+    "id": "teluk-samak",
+    "name": "Teluk Samak",
+    "district": "rangsang"
+  },
+  {
+    "id": "tanjung-samak",
+    "name": "Tanjung Samak",
+    "district": "rangsang"
+  },
+  {
+    "id": "tanjung-bakau",
+    "name": "Tanjung Bakau",
+    "district": "rangsang"
+  },
+  {
+    "id": "topang",
+    "name": "Topang",
+    "district": "rangsang"
+  },
+  {
+    "id": "citra-damai",
+    "name": "Citra Damai",
+    "district": "rangsang"
+  },
+  {
+    "id": "dwi-tunggal",
+    "name": "Dwi Tunggal",
+    "district": "rangsang"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "rangsang"
+  },
+  {
+    "id": "tebun",
+    "name": "Tebun",
+    "district": "rangsang"
+  },
+  {
+    "id": "tanjung-gemuk",
+    "name": "Tanjung Gemuk",
+    "district": "rangsang"
+  }
+]

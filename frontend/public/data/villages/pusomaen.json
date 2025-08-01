@@ -1,0 +1,77 @@
+[
+  {
+    "id": "minanga",
+    "name": "Minanga",
+    "district": "pusomaen"
+  },
+  {
+    "id": "minanga-satu",
+    "name": "Minanga Satu",
+    "district": "pusomaen"
+  },
+  {
+    "id": "makalu",
+    "name": "Makalu",
+    "district": "pusomaen"
+  },
+  {
+    "id": "tumbak",
+    "name": "Tumbak",
+    "district": "pusomaen"
+  },
+  {
+    "id": "tatengesan",
+    "name": "Tatengesan",
+    "district": "pusomaen"
+  },
+  {
+    "id": "bentenan",
+    "name": "Bentenan",
+    "district": "pusomaen"
+  },
+  {
+    "id": "wiau",
+    "name": "Wiau",
+    "district": "pusomaen"
+  },
+  {
+    "id": "bentenan-indah",
+    "name": "Bentenan Indah",
+    "district": "pusomaen"
+  },
+  {
+    "id": "minanga-timur",
+    "name": "Minanga Timur",
+    "district": "pusomaen"
+  },
+  {
+    "id": "minanga-dua",
+    "name": "Minanga Dua",
+    "district": "pusomaen"
+  },
+  {
+    "id": "minanga-tiga",
+    "name": "Minanga Tiga",
+    "district": "pusomaen"
+  },
+  {
+    "id": "makalu-selatan",
+    "name": "Makalu Selatan",
+    "district": "pusomaen"
+  },
+  {
+    "id": "tumbak-madani",
+    "name": "Tumbak Madani",
+    "district": "pusomaen"
+  },
+  {
+    "id": "tatengesan-satu",
+    "name": "Tatengesan Satu",
+    "district": "pusomaen"
+  },
+  {
+    "id": "bentenan-satu",
+    "name": "Bentenan Satu",
+    "district": "pusomaen"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ketawang-parebaan",
+    "name": "Ketawang Parebaan",
+    "district": "ganding"
+  },
+  {
+    "id": "bataal-barat",
+    "name": "Bataal Barat",
+    "district": "ganding"
+  },
+  {
+    "id": "bataal-timur",
+    "name": "Bataal Timur",
+    "district": "ganding"
+  },
+  {
+    "id": "rombiya-barat",
+    "name": "Rombiya Barat",
+    "district": "ganding"
+  },
+  {
+    "id": "rombiya-timur",
+    "name": "Rombiya Timur",
+    "district": "ganding"
+  },
+  {
+    "id": "talaga",
+    "name": "Talaga",
+    "district": "ganding"
+  },
+  {
+    "id": "bilapora-barat",
+    "name": "Bilapora Barat",
+    "district": "ganding"
+  },
+  {
+    "id": "bilapora-timur",
+    "name": "Bilapora Timur",
+    "district": "ganding"
+  },
+  {
+    "id": "ganding",
+    "name": "Ganding",
+    "district": "ganding"
+  },
+  {
+    "id": "gadu-timur",
+    "name": "Gadu Timur",
+    "district": "ganding"
+  },
+  {
+    "id": "gadu-barat",
+    "name": "Gadu Barat",
+    "district": "ganding"
+  },
+  {
+    "id": "ketawang-larangan",
+    "name": "Ketawang Larangan",
+    "district": "ganding"
+  },
+  {
+    "id": "ketawang-daleman",
+    "name": "Ketawang Daleman",
+    "district": "ganding"
+  },
+  {
+    "id": "ketawang-karay",
+    "name": "Ketawang Karay",
+    "district": "ganding"
+  }
+]

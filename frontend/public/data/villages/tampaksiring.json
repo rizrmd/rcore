@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pejeng-kawan",
+    "name": "Pejeng Kawan",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "pejeng-kelod",
+    "name": "Pejeng Kelod",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "pejeng-kangin",
+    "name": "Pejeng Kangin",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "pejeng-kaja",
+    "name": "Pejeng Kaja",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "sanding",
+    "name": "Sanding",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "tampaksiring",
+    "name": "Tampaksiring",
+    "district": "tampaksiring"
+  },
+  {
+    "id": "manukaya",
+    "name": "Manukaya",
+    "district": "tampaksiring"
+  }
+]

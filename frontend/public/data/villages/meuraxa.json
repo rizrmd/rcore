@@ -1,0 +1,82 @@
+[
+  {
+    "id": "surien",
+    "name": "Surien",
+    "district": "meuraxa"
+  },
+  {
+    "id": "aso-nanggroe",
+    "name": "Aso Nanggroe",
+    "district": "meuraxa"
+  },
+  {
+    "id": "gampong-blang",
+    "name": "Gampong Blang",
+    "district": "meuraxa"
+  },
+  {
+    "id": "lamjabat",
+    "name": "Lamjabat",
+    "district": "meuraxa"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "meuraxa"
+  },
+  {
+    "id": "punge-jurong",
+    "name": "Punge Jurong",
+    "district": "meuraxa"
+  },
+  {
+    "id": "lampaseh-aceh",
+    "name": "Lampaseh Aceh",
+    "district": "meuraxa"
+  },
+  {
+    "id": "punge-ujong",
+    "name": "Punge Ujong",
+    "district": "meuraxa"
+  },
+  {
+    "id": "cot-lamkuweueh",
+    "name": "Cot Lamkuweueh",
+    "district": "meuraxa"
+  },
+  {
+    "id": "gampong-pie",
+    "name": "Gampong Pie",
+    "district": "meuraxa"
+  },
+  {
+    "id": "ulee-lheue",
+    "name": "Ulee Lheue",
+    "district": "meuraxa"
+  },
+  {
+    "id": "deah-glumpang",
+    "name": "Deah Glumpang",
+    "district": "meuraxa"
+  },
+  {
+    "id": "lambung",
+    "name": "Lambung",
+    "district": "meuraxa"
+  },
+  {
+    "id": "blang-oi",
+    "name": "Blang Oi",
+    "district": "meuraxa"
+  },
+  {
+    "id": "alue-deah-teungoh",
+    "name": "Alue Deah Teungoh",
+    "district": "meuraxa"
+  },
+  {
+    "id": "deah-baro",
+    "name": "Deah Baro",
+    "district": "meuraxa"
+  }
+]

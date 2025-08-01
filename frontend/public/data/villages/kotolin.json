@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kotolin",
+    "name": "Kot'Olin",
+    "district": "kotolin"
+  },
+  {
+    "id": "nunbena",
+    "name": "Nunbena",
+    "district": "kotolin"
+  },
+  {
+    "id": "fatuat",
+    "name": "Fatuat",
+    "district": "kotolin"
+  },
+  {
+    "id": "hoibeti",
+    "name": "Hoibeti",
+    "district": "kotolin"
+  },
+  {
+    "id": "nualunat",
+    "name": "Nualunat",
+    "district": "kotolin"
+  },
+  {
+    "id": "panite",
+    "name": "Panite",
+    "district": "kotolin"
+  },
+  {
+    "id": "oobibi",
+    "name": "O'Obibi",
+    "district": "kotolin"
+  },
+  {
+    "id": "binenok",
+    "name": "Binenok",
+    "district": "kotolin"
+  }
+]

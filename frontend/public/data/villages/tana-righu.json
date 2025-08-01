@@ -1,0 +1,92 @@
+[
+  {
+    "id": "loko-ry",
+    "name": "Loko Ry",
+    "district": "tana-righu"
+  },
+  {
+    "id": "lolo-wano",
+    "name": "Lolo Wano",
+    "district": "tana-righu"
+  },
+  {
+    "id": "ngadu-pada",
+    "name": "Ngadu Pada",
+    "district": "tana-righu"
+  },
+  {
+    "id": "malata",
+    "name": "Malata",
+    "district": "tana-righu"
+  },
+  {
+    "id": "lingu-lango",
+    "name": "Lingu Lango",
+    "district": "tana-righu"
+  },
+  {
+    "id": "manu-kuku",
+    "name": "Manu Kuku",
+    "district": "tana-righu"
+  },
+  {
+    "id": "wee-patola",
+    "name": "Wee Patola",
+    "district": "tana-righu"
+  },
+  {
+    "id": "kareka-nduku",
+    "name": "Kareka Nduku",
+    "district": "tana-righu"
+  },
+  {
+    "id": "wanokaza",
+    "name": "Wanokaza",
+    "district": "tana-righu"
+  },
+  {
+    "id": "bondo-tera",
+    "name": "Bondo Tera",
+    "district": "tana-righu"
+  },
+  {
+    "id": "zala-kadu",
+    "name": "Zala Kadu",
+    "district": "tana-righu"
+  },
+  {
+    "id": "lolo-tana",
+    "name": "Lolo Tana",
+    "district": "tana-righu"
+  },
+  {
+    "id": "kareka-nduku-utara",
+    "name": "Kareka Nduku Utara",
+    "district": "tana-righu"
+  },
+  {
+    "id": "kareka-nduku-selatan",
+    "name": "Kareka Nduku Selatan",
+    "district": "tana-righu"
+  },
+  {
+    "id": "manu-mada",
+    "name": "Manu Mada",
+    "district": "tana-righu"
+  },
+  {
+    "id": "elu-loda",
+    "name": "Elu Loda",
+    "district": "tana-righu"
+  },
+  {
+    "id": "kalebu-ana-kaka",
+    "name": "Kalebu Ana Kaka",
+    "district": "tana-righu"
+  },
+  {
+    "id": "tarona",
+    "name": "Tarona",
+    "district": "tana-righu"
+  }
+]

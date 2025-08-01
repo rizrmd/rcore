@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sukabumi-selatan",
+    "name": "Sukabumi Selatan",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "sukabumi-utara",
+    "name": "Sukabumi Utara",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "kelapa-dua",
+    "name": "Kelapa Dua",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "kebon-jeruk",
+    "name": "Kebon Jeruk",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "duri-kepa",
+    "name": "Duri Kepa",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "kedoya-selatan",
+    "name": "Kedoya Selatan",
+    "district": "kebon-jeruk"
+  },
+  {
+    "id": "kedoya-utara",
+    "name": "Kedoya Utara",
+    "district": "kebon-jeruk"
+  }
+]

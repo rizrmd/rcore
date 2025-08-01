@@ -1,0 +1,32 @@
+[
+  {
+    "id": "talang-semut",
+    "name": "Talang Semut",
+    "district": "bukit-kecil"
+  },
+  {
+    "id": "22-ilir",
+    "name": "22 Ilir",
+    "district": "bukit-kecil"
+  },
+  {
+    "id": "19-ilir",
+    "name": "19 Ilir",
+    "district": "bukit-kecil"
+  },
+  {
+    "id": "23-ilir",
+    "name": "23 Ilir",
+    "district": "bukit-kecil"
+  },
+  {
+    "id": "26-ilir",
+    "name": "26 Ilir",
+    "district": "bukit-kecil"
+  },
+  {
+    "id": "24-ilir",
+    "name": "24 Ilir",
+    "district": "bukit-kecil"
+  }
+]

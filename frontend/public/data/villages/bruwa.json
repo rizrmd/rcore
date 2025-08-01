@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wame",
+    "name": "Wame",
+    "district": "bruwa"
+  },
+  {
+    "id": "ekaba",
+    "name": "Ekaba",
+    "district": "bruwa"
+  },
+  {
+    "id": "ogodome",
+    "name": "Ogodome",
+    "district": "bruwa"
+  },
+  {
+    "id": "longgapura",
+    "name": "Longgapura",
+    "district": "bruwa"
+  },
+  {
+    "id": "yalogu",
+    "name": "Yalogu",
+    "district": "bruwa"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "doge",
+    "name": "Doge",
+    "district": "goyage"
+  },
+  {
+    "id": "tiri",
+    "name": "Tiri",
+    "district": "goyage"
+  },
+  {
+    "id": "yemarima",
+    "name": "Yemarima",
+    "district": "goyage"
+  },
+  {
+    "id": "dugi",
+    "name": "Dugi",
+    "district": "goyage"
+  },
+  {
+    "id": "tigikun",
+    "name": "Tigikun",
+    "district": "goyage"
+  },
+  {
+    "id": "goyage",
+    "name": "Goyage",
+    "district": "goyage"
+  },
+  {
+    "id": "benari",
+    "name": "Benari",
+    "district": "goyage"
+  },
+  {
+    "id": "wijamurik",
+    "name": "Wijamurik",
+    "district": "goyage"
+  },
+  {
+    "id": "tigir",
+    "name": "Tigir",
+    "district": "goyage"
+  },
+  {
+    "id": "bopa",
+    "name": "Bopa",
+    "district": "goyage"
+  },
+  {
+    "id": "angkasa",
+    "name": "Angkasa",
+    "district": "goyage"
+  },
+  {
+    "id": "gilok",
+    "name": "Gilok",
+    "district": "goyage"
+  },
+  {
+    "id": "woji",
+    "name": "Woji",
+    "district": "goyage"
+  },
+  {
+    "id": "mampulaga",
+    "name": "Mampulaga",
+    "district": "goyage"
+  },
+  {
+    "id": "tidur-mabuk",
+    "name": "Tidur Mabuk",
+    "district": "goyage"
+  },
+  {
+    "id": "bini",
+    "name": "Bini",
+    "district": "goyage"
+  },
+  {
+    "id": "didelonik",
+    "name": "Didelonik",
+    "district": "goyage"
+  },
+  {
+    "id": "peko",
+    "name": "Peko",
+    "district": "goyage"
+  }
+]

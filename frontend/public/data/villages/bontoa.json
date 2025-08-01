@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bonto-bahari",
+    "name": "Bonto Bahari",
+    "district": "bontoa"
+  },
+  {
+    "id": "pajukukang",
+    "name": "Pajukukang",
+    "district": "bontoa"
+  },
+  {
+    "id": "tunikamaseang",
+    "name": "Tunikamaseang",
+    "district": "bontoa"
+  },
+  {
+    "id": "bontoa",
+    "name": "Bontoa",
+    "district": "bontoa"
+  },
+  {
+    "id": "salenrang",
+    "name": "Salenrang",
+    "district": "bontoa"
+  },
+  {
+    "id": "bonto-lempangan",
+    "name": "Bonto Lempangan",
+    "district": "bontoa"
+  },
+  {
+    "id": "minasa-upa",
+    "name": "Minasa Upa",
+    "district": "bontoa"
+  },
+  {
+    "id": "tupabiring",
+    "name": "Tupabiring",
+    "district": "bontoa"
+  },
+  {
+    "id": "ampekale",
+    "name": "Ampekale",
+    "district": "bontoa"
+  }
+]

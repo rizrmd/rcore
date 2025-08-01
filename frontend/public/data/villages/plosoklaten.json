@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "kayunan",
+    "name": "Kayunan",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "panjer",
+    "name": "Panjer",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "jarak",
+    "name": "Jarak",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "sepawon",
+    "name": "Sepawon",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "plosokidul",
+    "name": "Plosokidul",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "brenggolo",
+    "name": "Brenggolo",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "plosolor",
+    "name": "Plosolor",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "wonorejo-trisulo",
+    "name": "Wonorejo Trisulo",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "pranggang",
+    "name": "Pranggang",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "klanderan",
+    "name": "Klanderan",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "donganti",
+    "name": "Donganti",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "kawedusan",
+    "name": "Kawedusan",
+    "district": "plosoklaten"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "plosoklaten"
+  }
+]

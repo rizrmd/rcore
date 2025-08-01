@@ -1,0 +1,117 @@
+[
+  {
+    "id": "pintu-batu",
+    "name": "Pintu Batu",
+    "district": "silaen"
+  },
+  {
+    "id": "pardomuan",
+    "name": "Pardomuan",
+    "district": "silaen"
+  },
+  {
+    "id": "ombur",
+    "name": "Ombur",
+    "district": "silaen"
+  },
+  {
+    "id": "parsambilan",
+    "name": "Parsambilan",
+    "district": "silaen"
+  },
+  {
+    "id": "sigodang-tua",
+    "name": "Sigodang Tua",
+    "district": "silaen"
+  },
+  {
+    "id": "sinta-dame",
+    "name": "Sinta Dame",
+    "district": "silaen"
+  },
+  {
+    "id": "natolutali",
+    "name": "Natolutali",
+    "district": "silaen"
+  },
+  {
+    "id": "dalihan-natolu",
+    "name": "Dalihan Natolu",
+    "district": "silaen"
+  },
+  {
+    "id": "huta-gurgur-ii",
+    "name": "Huta Gurgur Ii",
+    "district": "silaen"
+  },
+  {
+    "id": "huta-gurgur-i",
+    "name": "Huta Gurgur I",
+    "district": "silaen"
+  },
+  {
+    "id": "sitorang-i",
+    "name": "Sitorang I",
+    "district": "silaen"
+  },
+  {
+    "id": "huta-namora",
+    "name": "Huta Namora",
+    "district": "silaen"
+  },
+  {
+    "id": "silaen",
+    "name": "Silaen",
+    "district": "silaen"
+  },
+  {
+    "id": "lumban-dolok",
+    "name": "Lumban Dolok",
+    "district": "silaen"
+  },
+  {
+    "id": "napitupulu",
+    "name": "Napitupulu",
+    "district": "silaen"
+  },
+  {
+    "id": "hutagaol-sihujur",
+    "name": "Hutagaol Sihujur",
+    "district": "silaen"
+  },
+  {
+    "id": "sibide-barat",
+    "name": "Sibide Barat",
+    "district": "silaen"
+  },
+  {
+    "id": "sibide",
+    "name": "Sibide",
+    "district": "silaen"
+  },
+  {
+    "id": "meranti-barat",
+    "name": "Meranti Barat",
+    "district": "silaen"
+  },
+  {
+    "id": "simanobak",
+    "name": "Simanobak",
+    "district": "silaen"
+  },
+  {
+    "id": "marbulang",
+    "name": "Marbulang",
+    "district": "silaen"
+  },
+  {
+    "id": "siringkiron",
+    "name": "Siringkiron",
+    "district": "silaen"
+  },
+  {
+    "id": "panindii",
+    "name": "Panindii",
+    "district": "silaen"
+  }
+]

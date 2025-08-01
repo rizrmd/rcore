@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wukir-sari",
+    "name": "Wukir Sari",
+    "district": "cangkringan"
+  },
+  {
+    "id": "argo-mulyo",
+    "name": "Argo Mulyo",
+    "district": "cangkringan"
+  },
+  {
+    "id": "glagah-harjo",
+    "name": "Glagah Harjo",
+    "district": "cangkringan"
+  },
+  {
+    "id": "kepuh-harjo",
+    "name": "Kepuh Harjo",
+    "district": "cangkringan"
+  },
+  {
+    "id": "umbul-harjo",
+    "name": "Umbul Harjo",
+    "district": "cangkringan"
+  }
+]

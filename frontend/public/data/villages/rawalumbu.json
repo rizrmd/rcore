@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bojong-menteng",
+    "name": "Bojong Menteng",
+    "district": "rawalumbu"
+  },
+  {
+    "id": "bojong-rawalumbu",
+    "name": "Bojong Rawalumbu",
+    "district": "rawalumbu"
+  },
+  {
+    "id": "sepanjang-jaya",
+    "name": "Sepanjang Jaya",
+    "district": "rawalumbu"
+  },
+  {
+    "id": "pengasinan",
+    "name": "Pengasinan",
+    "district": "rawalumbu"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "luar",
+    "name": "Luar",
+    "district": "alas"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "alas"
+  },
+  {
+    "id": "kalimango",
+    "name": "Kalimango",
+    "district": "alas"
+  },
+  {
+    "id": "juranalas",
+    "name": "Juranalas",
+    "district": "alas"
+  },
+  {
+    "id": "dalam",
+    "name": "Dalam",
+    "district": "alas"
+  },
+  {
+    "id": "pulau-bungin",
+    "name": "Pulau Bungin",
+    "district": "alas"
+  },
+  {
+    "id": "marenteh",
+    "name": "Marenteh",
+    "district": "alas"
+  },
+  {
+    "id": "labuhan-alas",
+    "name": "Labuhan Alas",
+    "district": "alas"
+  }
+]

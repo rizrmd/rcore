@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pulau-rambai",
+    "name": "Pulau Rambai",
+    "district": "kampa"
+  },
+  {
+    "id": "kampar",
+    "name": "Kampar",
+    "district": "kampa"
+  },
+  {
+    "id": "koto-perambahan",
+    "name": "Koto Perambahan",
+    "district": "kampa"
+  },
+  {
+    "id": "pulau-birandang",
+    "name": "Pulau Birandang",
+    "district": "kampa"
+  },
+  {
+    "id": "sungai-putih",
+    "name": "Sungai Putih",
+    "district": "kampa"
+  },
+  {
+    "id": "deli-makmur",
+    "name": "Deli Makmur",
+    "district": "kampa"
+  },
+  {
+    "id": "sungai-tarap",
+    "name": "Sungai Tarap",
+    "district": "kampa"
+  },
+  {
+    "id": "tanjung-bungo",
+    "name": "Tanjung Bungo",
+    "district": "kampa"
+  },
+  {
+    "id": "sawah-baru",
+    "name": "Sawah Baru",
+    "district": "kampa"
+  }
+]

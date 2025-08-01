@@ -1,0 +1,47 @@
+[
+  {
+    "id": "napua",
+    "name": "Napua",
+    "district": "napua"
+  },
+  {
+    "id": "lani-matuan",
+    "name": "Lani Matuan",
+    "district": "napua"
+  },
+  {
+    "id": "yelekama",
+    "name": "Yelekama",
+    "district": "napua"
+  },
+  {
+    "id": "sapalek",
+    "name": "Sapalek",
+    "district": "napua"
+  },
+  {
+    "id": "haelekma",
+    "name": "Haelekma",
+    "district": "napua"
+  },
+  {
+    "id": "okilik",
+    "name": "Okilik",
+    "district": "napua"
+  },
+  {
+    "id": "holima",
+    "name": "Holima",
+    "district": "napua"
+  },
+  {
+    "id": "wilekamasawarek",
+    "name": "Wilekama/Sawarek",
+    "district": "napua"
+  },
+  {
+    "id": "yomaima",
+    "name": "Yomaima",
+    "district": "napua"
+  }
+]

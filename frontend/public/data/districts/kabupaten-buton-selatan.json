@@ -1,0 +1,37 @@
+[
+  {
+    "id": "batu-atas",
+    "name": "Batu Atas",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "lapandewa",
+    "name": "Lapandewa",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "sampolawa",
+    "name": "Sampolawa",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "batauga",
+    "name": "Batauga",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "siompu-barat",
+    "name": "Siompu Barat",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "siompu",
+    "name": "Siompu",
+    "regency": "kabupaten-buton-selatan"
+  },
+  {
+    "id": "kadatua",
+    "name": "Kadatua",
+    "regency": "kabupaten-buton-selatan"
+  }
+]

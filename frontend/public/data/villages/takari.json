@@ -1,0 +1,42 @@
+[
+  {
+    "id": "takari",
+    "name": "Takari",
+    "district": "takari"
+  },
+  {
+    "id": "noelmina",
+    "name": "Noelmina",
+    "district": "takari"
+  },
+  {
+    "id": "kauniki",
+    "name": "Kauniki",
+    "district": "takari"
+  },
+  {
+    "id": "oelnaineno",
+    "name": "Oelnaineno",
+    "district": "takari"
+  },
+  {
+    "id": "tanini",
+    "name": "Tanini",
+    "district": "takari"
+  },
+  {
+    "id": "oesusu",
+    "name": "Oesusu",
+    "district": "takari"
+  },
+  {
+    "id": "tuapanaf",
+    "name": "Tuapanaf",
+    "district": "takari"
+  },
+  {
+    "id": "fatukona",
+    "name": "Fatukona",
+    "district": "takari"
+  }
+]

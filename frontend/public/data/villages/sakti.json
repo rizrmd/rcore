@@ -1,0 +1,247 @@
+[
+  {
+    "id": "barieh",
+    "name": "Barieh",
+    "district": "sakti"
+  },
+  {
+    "id": "kandang",
+    "name": "Kandang",
+    "district": "sakti"
+  },
+  {
+    "id": "paloh-jeureula",
+    "name": "Paloh Jeureula",
+    "district": "sakti"
+  },
+  {
+    "id": "cot-cantek",
+    "name": "Cot Cantek",
+    "district": "sakti"
+  },
+  {
+    "id": "lhok-panah",
+    "name": "Lhok Panah",
+    "district": "sakti"
+  },
+  {
+    "id": "blang-cot",
+    "name": "Blang Cot",
+    "district": "sakti"
+  },
+  {
+    "id": "blang-kumot-tunong",
+    "name": "Blang Kumot Tunong",
+    "district": "sakti"
+  },
+  {
+    "id": "murong-cot",
+    "name": "Murong Cot",
+    "district": "sakti"
+  },
+  {
+    "id": "murong-lhok",
+    "name": "Murong Lhok",
+    "district": "sakti"
+  },
+  {
+    "id": "gampong-cot",
+    "name": "Gampong Cot",
+    "district": "sakti"
+  },
+  {
+    "id": "riweuk",
+    "name": "Riweuk",
+    "district": "sakti"
+  },
+  {
+    "id": "mancang",
+    "name": "Mancang",
+    "district": "sakti"
+  },
+  {
+    "id": "kp-pisang-bucue",
+    "name": "Kp Pisang Bucue",
+    "district": "sakti"
+  },
+  {
+    "id": "lingkok",
+    "name": "Lingkok",
+    "district": "sakti"
+  },
+  {
+    "id": "cumbok-lie",
+    "name": "Cumbok Lie",
+    "district": "sakti"
+  },
+  {
+    "id": "blang-kumot-baroh",
+    "name": "Blang Kumot Baroh",
+    "district": "sakti"
+  },
+  {
+    "id": "lam-ujong",
+    "name": "Lam Ujong",
+    "district": "sakti"
+  },
+  {
+    "id": "cumbok-niwa",
+    "name": "Cumbok Niwa",
+    "district": "sakti"
+  },
+  {
+    "id": "dayah-kp-pisang",
+    "name": "Dayah Kp Pisang",
+    "district": "sakti"
+  },
+  {
+    "id": "leupuem-mesjid",
+    "name": "Leupuem Mesjid",
+    "district": "sakti"
+  },
+  {
+    "id": "jurong-pante",
+    "name": "Jurong Pante",
+    "district": "sakti"
+  },
+  {
+    "id": "beutong-perlak",
+    "name": "Beutong Perlak",
+    "district": "sakti"
+  },
+  {
+    "id": "bucue",
+    "name": "Bucue",
+    "district": "sakti"
+  },
+  {
+    "id": "balue-tanoh",
+    "name": "Balue Tanoh",
+    "district": "sakti"
+  },
+  {
+    "id": "cot-sukon",
+    "name": "Cot Sukon",
+    "district": "sakti"
+  },
+  {
+    "id": "balue-kulu",
+    "name": "Balue Kulu",
+    "district": "sakti"
+  },
+  {
+    "id": "lhok-me",
+    "name": "Lhok Me",
+    "district": "sakti"
+  },
+  {
+    "id": "beutong-pocut",
+    "name": "Beutong Pocut",
+    "district": "sakti"
+  },
+  {
+    "id": "pasar-kota-bakti",
+    "name": "Pasar Kota Bakti",
+    "district": "sakti"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "sakti"
+  },
+  {
+    "id": "mns-blang",
+    "name": "Mns Blang",
+    "district": "sakti"
+  },
+  {
+    "id": "mns-bale",
+    "name": "Mns Bale",
+    "district": "sakti"
+  },
+  {
+    "id": "gampong-jumpa",
+    "name": "Gampong Jumpa",
+    "district": "sakti"
+  },
+  {
+    "id": "pante-krueng",
+    "name": "Pante Krueng",
+    "district": "sakti"
+  },
+  {
+    "id": "lameue-mns-raya",
+    "name": "Lameue Mns Raya",
+    "district": "sakti"
+  },
+  {
+    "id": "dayah-tuha",
+    "name": "Dayah Tuha",
+    "district": "sakti"
+  },
+  {
+    "id": "lameue-mns-baro",
+    "name": "Lameue Mns Baro",
+    "district": "sakti"
+  },
+  {
+    "id": "pulo-jumpa",
+    "name": "Pulo Jumpa",
+    "district": "sakti"
+  },
+  {
+    "id": "pulo-keurembok",
+    "name": "Pulo Keurembok",
+    "district": "sakti"
+  },
+  {
+    "id": "perlak-asan",
+    "name": "Perlak Asan",
+    "district": "sakti"
+  },
+  {
+    "id": "perlak-baroh",
+    "name": "Perlak Baroh",
+    "district": "sakti"
+  },
+  {
+    "id": "mali-lamkuta",
+    "name": "Mali Lamkuta",
+    "district": "sakti"
+  },
+  {
+    "id": "mali-uke",
+    "name": "Mali Uke",
+    "district": "sakti"
+  },
+  {
+    "id": "mali-guyui",
+    "name": "Mali Guyui",
+    "district": "sakti"
+  },
+  {
+    "id": "tang-kueng",
+    "name": "Tang Kueng",
+    "district": "sakti"
+  },
+  {
+    "id": "lameu-mns-leung",
+    "name": "Lameu Mns Leung",
+    "district": "sakti"
+  },
+  {
+    "id": "lhok-empeh",
+    "name": "Lhok Empeh",
+    "district": "sakti"
+  },
+  {
+    "id": "mali-mesjid",
+    "name": "Mali Mesjid",
+    "district": "sakti"
+  },
+  {
+    "id": "mali-cot",
+    "name": "Mali Cot",
+    "district": "sakti"
+  }
+]

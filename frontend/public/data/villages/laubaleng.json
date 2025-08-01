@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lau-peranggunan",
+    "name": "Lau Peranggunan",
+    "district": "laubaleng"
+  },
+  {
+    "id": "durin-rugun",
+    "name": "Durin Rugun",
+    "district": "laubaleng"
+  },
+  {
+    "id": "kinangkong",
+    "name": "Kinangkong",
+    "district": "laubaleng"
+  },
+  {
+    "id": "lau-peradep",
+    "name": "Lau Peradep",
+    "district": "laubaleng"
+  },
+  {
+    "id": "laubaleng",
+    "name": "Laubaleng",
+    "district": "laubaleng"
+  },
+  {
+    "id": "tanjung-gunung",
+    "name": "Tanjung Gunung",
+    "district": "laubaleng"
+  },
+  {
+    "id": "kutambelin",
+    "name": "Kutambelin",
+    "district": "laubaleng"
+  },
+  {
+    "id": "martelu",
+    "name": "Martelu",
+    "district": "laubaleng"
+  },
+  {
+    "id": "lingga-muda",
+    "name": "Lingga Muda",
+    "district": "laubaleng"
+  },
+  {
+    "id": "mbal-mbal-petarum",
+    "name": "Mbal-Mbal Petarum",
+    "district": "laubaleng"
+  },
+  {
+    "id": "perbulan",
+    "name": "Perbulan",
+    "district": "laubaleng"
+  },
+  {
+    "id": "buluh-pancur",
+    "name": "Buluh Pancur",
+    "district": "laubaleng"
+  },
+  {
+    "id": "rambah-tampu",
+    "name": "Rambah Tampu",
+    "district": "laubaleng"
+  },
+  {
+    "id": "batu-rongkam",
+    "name": "Batu Rongkam",
+    "district": "laubaleng"
+  },
+  {
+    "id": "pintu-angin",
+    "name": "Pintu Angin",
+    "district": "laubaleng"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tapa",
+    "name": "Tapa",
+    "district": "sipatana"
+  },
+  {
+    "id": "molosipat-u",
+    "name": "Molosipat U",
+    "district": "sipatana"
+  },
+  {
+    "id": "tanggikiki",
+    "name": "Tanggikiki",
+    "district": "sipatana"
+  },
+  {
+    "id": "bulotada-timur",
+    "name": "Bulotada Timur",
+    "district": "sipatana"
+  },
+  {
+    "id": "bulotadaa",
+    "name": "Bulotadaa",
+    "district": "sipatana"
+  }
+]

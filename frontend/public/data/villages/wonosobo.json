@@ -1,0 +1,242 @@
+[
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "dadirejo",
+    "name": "Dadirejo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "banyu-urip",
+    "name": "Banyu Urip",
+    "district": "wonosobo"
+  },
+  {
+    "id": "wonosobo",
+    "name": "Wonosobo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "soponyono",
+    "name": "Soponyono",
+    "district": "wonosobo"
+  },
+  {
+    "id": "bandar-kejadian",
+    "name": "Bandar Kejadian",
+    "district": "wonosobo"
+  },
+  {
+    "id": "way-panas",
+    "name": "Way Panas",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sinar-saudara",
+    "name": "Sinar Saudara",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sridadi",
+    "name": "Sridadi",
+    "district": "wonosobo"
+  },
+  {
+    "id": "lakaran",
+    "name": "Lakaran",
+    "district": "wonosobo"
+  },
+  {
+    "id": "padang-ratu",
+    "name": "Padang Ratu",
+    "district": "wonosobo"
+  },
+  {
+    "id": "parda-suka",
+    "name": "Parda Suka",
+    "district": "wonosobo"
+  },
+  {
+    "id": "tanjung-kurung",
+    "name": "Tanjung Kurung",
+    "district": "wonosobo"
+  },
+  {
+    "id": "padang-manis",
+    "name": "Padang Manis",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kejadian",
+    "name": "Kejadian",
+    "district": "wonosobo"
+  },
+  {
+    "id": "dadisari",
+    "name": "Dadisari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "banjar-negoro",
+    "name": "Banjar Negoro",
+    "district": "wonosobo"
+  },
+  {
+    "id": "pekon-balak",
+    "name": "Pekon Balak",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kunyayan",
+    "name": "Kunyayan",
+    "district": "wonosobo"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "negeri-ngarip",
+    "name": "Negeri Ngarip",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sampang-turus",
+    "name": "Sampang Turus",
+    "district": "wonosobo"
+  },
+  {
+    "id": "way-liwok",
+    "name": "Way Liwok",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sumur-tujuh",
+    "name": "Sumur Tujuh",
+    "district": "wonosobo"
+  },
+  {
+    "id": "dadi-mulyo",
+    "name": "Dadi Mulyo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sri-melati",
+    "name": "Sri Melati",
+    "district": "wonosobo"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "wonolelo",
+    "name": "Wonolelo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "jogoyitnan",
+    "name": "Jogoyitnan",
+    "district": "wonosobo"
+  },
+  {
+    "id": "jaraksari",
+    "name": "Jaraksari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "mlipak",
+    "name": "Mlipak",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sambek",
+    "name": "Sambek",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kramatan",
+    "name": "Kramatan",
+    "district": "wonosobo"
+  },
+  {
+    "id": "pancurwening",
+    "name": "Pancurwening",
+    "district": "wonosobo"
+  },
+  {
+    "id": "bumireso",
+    "name": "Bumireso",
+    "district": "wonosobo"
+  },
+  {
+    "id": "rojoimo",
+    "name": "Rojoimo",
+    "district": "wonosobo"
+  },
+  {
+    "id": "pagerkukuh",
+    "name": "Pagerkukuh",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kejiwan",
+    "name": "Kejiwan",
+    "district": "wonosobo"
+  },
+  {
+    "id": "kalianget",
+    "name": "Kalianget",
+    "district": "wonosobo"
+  },
+  {
+    "id": "jlamprang",
+    "name": "Jlamprang",
+    "district": "wonosobo"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "wonosobo"
+  },
+  {
+    "id": "bomerto",
+    "name": "Bomerto",
+    "district": "wonosobo"
+  },
+  {
+    "id": "sariyoso",
+    "name": "Sariyoso",
+    "district": "wonosobo"
+  },
+  {
+    "id": "tlogojati",
+    "name": "Tlogojati",
+    "district": "wonosobo"
+  },
+  {
+    "id": "wonosobo-barat",
+    "name": "Wonosobo Barat",
+    "district": "wonosobo"
+  },
+  {
+    "id": "wonosobo-timur",
+    "name": "Wonosobo Timur",
+    "district": "wonosobo"
+  }
+]

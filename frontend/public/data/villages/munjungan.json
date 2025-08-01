@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ngulungwetan",
+    "name": "Ngulungwetan",
+    "district": "munjungan"
+  },
+  {
+    "id": "ngulungkulon",
+    "name": "Ngulungkulon",
+    "district": "munjungan"
+  },
+  {
+    "id": "sobo",
+    "name": "Sobo",
+    "district": "munjungan"
+  },
+  {
+    "id": "craken",
+    "name": "Craken",
+    "district": "munjungan"
+  },
+  {
+    "id": "masaran",
+    "name": "Masaran",
+    "district": "munjungan"
+  },
+  {
+    "id": "munjungan",
+    "name": "Munjungan",
+    "district": "munjungan"
+  },
+  {
+    "id": "tawing",
+    "name": "Tawing",
+    "district": "munjungan"
+  },
+  {
+    "id": "bendoroto",
+    "name": "Bendoroto",
+    "district": "munjungan"
+  },
+  {
+    "id": "bangun",
+    "name": "Bangun",
+    "district": "munjungan"
+  },
+  {
+    "id": "karangturi",
+    "name": "Karangturi",
+    "district": "munjungan"
+  },
+  {
+    "id": "besuki",
+    "name": "Besuki",
+    "district": "munjungan"
+  }
+]

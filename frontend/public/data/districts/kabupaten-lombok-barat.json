@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sekotong",
+    "name": "Sekotong",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "lembar",
+    "name": "Lembar",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "gerung",
+    "name": "Gerung",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "labu-api",
+    "name": "Labu Api",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "kediri",
+    "name": "Kediri",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "narmada",
+    "name": "Narmada",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "lingsar",
+    "name": "Lingsar",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "regency": "kabupaten-lombok-barat"
+  },
+  {
+    "id": "batu-layar",
+    "name": "Batu Layar",
+    "regency": "kabupaten-lombok-barat"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "suruhkalang",
+    "name": "Suruhkalang",
+    "district": "jaten"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "jaten"
+  },
+  {
+    "id": "jaten",
+    "name": "Jaten",
+    "district": "jaten"
+  },
+  {
+    "id": "dagen",
+    "name": "Dagen",
+    "district": "jaten"
+  },
+  {
+    "id": "ngringo",
+    "name": "Ngringo",
+    "district": "jaten"
+  },
+  {
+    "id": "jetis",
+    "name": "Jetis",
+    "district": "jaten"
+  },
+  {
+    "id": "sroyo",
+    "name": "Sroyo",
+    "district": "jaten"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "klamugunsp-v",
+    "name": "Klamugun(Sp V)",
+    "district": "malabotom"
+  },
+  {
+    "id": "klagulu-spiii",
+    "name": "Klagulu (Sp.Iii)",
+    "district": "malabotom"
+  },
+  {
+    "id": "malasigit-sp-ii",
+    "name": "Malasigit (Sp Ii)",
+    "district": "malabotom"
+  },
+  {
+    "id": "malajapa",
+    "name": "Malajapa",
+    "district": "malabotom"
+  },
+  {
+    "id": "klasman",
+    "name": "Klasman",
+    "district": "malabotom"
+  },
+  {
+    "id": "malamoja",
+    "name": "Malamoja",
+    "district": "malabotom"
+  },
+  {
+    "id": "magatarum",
+    "name": "Magatarum",
+    "district": "malabotom"
+  },
+  {
+    "id": "tanah-tinggi",
+    "name": "Tanah Tinggi",
+    "district": "malabotom"
+  },
+  {
+    "id": "marik-may",
+    "name": "Marik May",
+    "district": "malabotom"
+  }
+]

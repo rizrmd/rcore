@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukanagara",
+    "name": "Sukanagara",
+    "district": "purbaratu"
+  },
+  {
+    "id": "sukamenak",
+    "name": "Sukamenak",
+    "district": "purbaratu"
+  },
+  {
+    "id": "purbaratu",
+    "name": "Purbaratu",
+    "district": "purbaratu"
+  },
+  {
+    "id": "sukaasih",
+    "name": "Sukaasih",
+    "district": "purbaratu"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "purbaratu"
+  },
+  {
+    "id": "singkup",
+    "name": "Singkup",
+    "district": "purbaratu"
+  }
+]

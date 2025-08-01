@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pandes",
+    "name": "Pandes",
+    "district": "cepiring"
+  },
+  {
+    "id": "podosari",
+    "name": "Podosari",
+    "district": "cepiring"
+  },
+  {
+    "id": "botomulyo",
+    "name": "Botomulyo",
+    "district": "cepiring"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "cepiring"
+  },
+  {
+    "id": "karangsuno",
+    "name": "Karangsuno",
+    "district": "cepiring"
+  },
+  {
+    "id": "cepiring",
+    "name": "Cepiring",
+    "district": "cepiring"
+  },
+  {
+    "id": "karangayu",
+    "name": "Karangayu",
+    "district": "cepiring"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "cepiring"
+  },
+  {
+    "id": "damarsari",
+    "name": "Damarsari",
+    "district": "cepiring"
+  },
+  {
+    "id": "juwiring",
+    "name": "Juwiring",
+    "district": "cepiring"
+  },
+  {
+    "id": "kaliayu",
+    "name": "Kaliayu",
+    "district": "cepiring"
+  },
+  {
+    "id": "kalirandu-gede",
+    "name": "Kalirandu Gede",
+    "district": "cepiring"
+  },
+  {
+    "id": "korowelang-kulon",
+    "name": "Korowelang Kulon",
+    "district": "cepiring"
+  },
+  {
+    "id": "korowelang-anyar",
+    "name": "Korowelang Anyar",
+    "district": "cepiring"
+  },
+  {
+    "id": "margorejo",
+    "name": "Margorejo",
+    "district": "cepiring"
+  }
+]

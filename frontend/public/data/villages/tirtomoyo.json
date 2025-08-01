@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hargosari",
+    "name": "Hargosari",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "dlepih",
+    "name": "Dlepih",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "wiroko",
+    "name": "Wiroko",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "hargorejo",
+    "name": "Hargorejo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "genengharjo",
+    "name": "Genengharjo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "girirejo",
+    "name": "Girirejo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "hargantoro",
+    "name": "Hargantoro",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "tirtomoyo",
+    "name": "Tirtomoyo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "banyakprodo",
+    "name": "Banyakprodo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "ngarjosari",
+    "name": "Ngarjosari",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "sendangmulyo",
+    "name": "Sendangmulyo",
+    "district": "tirtomoyo"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "tirtomoyo"
+  }
+]

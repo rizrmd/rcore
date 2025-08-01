@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bara",
+    "name": "Bara",
+    "district": "air-buaya"
+  },
+  {
+    "id": "tanjung-karang",
+    "name": "Tanjung Karang",
+    "district": "air-buaya"
+  },
+  {
+    "id": "air-buaya",
+    "name": "Air Buaya",
+    "district": "air-buaya"
+  },
+  {
+    "id": "waimangit",
+    "name": "Waimangit",
+    "district": "air-buaya"
+  },
+  {
+    "id": "waipure",
+    "name": "Waipure",
+    "district": "air-buaya"
+  },
+  {
+    "id": "selwadu",
+    "name": "Selwadu",
+    "district": "air-buaya"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "air-buaya"
+  },
+  {
+    "id": "wasbaka",
+    "name": "Wasbaka",
+    "district": "air-buaya"
+  },
+  {
+    "id": "batlale",
+    "name": "Batlale",
+    "district": "air-buaya"
+  },
+  {
+    "id": "awilinan",
+    "name": "Awilinan",
+    "district": "air-buaya"
+  }
+]

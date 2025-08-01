@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wirogomo",
+    "name": "Wirogomo",
+    "district": "banyubiru"
+  },
+  {
+    "id": "kemambang",
+    "name": "Kemambang",
+    "district": "banyubiru"
+  },
+  {
+    "id": "sepakung",
+    "name": "Sepakung",
+    "district": "banyubiru"
+  },
+  {
+    "id": "gedong",
+    "name": "Gedong",
+    "district": "banyubiru"
+  },
+  {
+    "id": "rowoboni",
+    "name": "Rowoboni",
+    "district": "banyubiru"
+  },
+  {
+    "id": "tegaron",
+    "name": "Tegaron",
+    "district": "banyubiru"
+  },
+  {
+    "id": "kebondowo",
+    "name": "Kebondowo",
+    "district": "banyubiru"
+  },
+  {
+    "id": "banyubiru",
+    "name": "Banyubiru",
+    "district": "banyubiru"
+  },
+  {
+    "id": "ngrapah",
+    "name": "Ngrapah",
+    "district": "banyubiru"
+  }
+]

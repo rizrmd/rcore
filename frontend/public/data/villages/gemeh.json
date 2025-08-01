@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mamahan",
+    "name": "Mamahan",
+    "district": "gemeh"
+  },
+  {
+    "id": "bambung",
+    "name": "Bambung",
+    "district": "gemeh"
+  },
+  {
+    "id": "taturan",
+    "name": "Taturan",
+    "district": "gemeh"
+  },
+  {
+    "id": "arangkaa",
+    "name": "Arangkaa",
+    "district": "gemeh"
+  },
+  {
+    "id": "malat",
+    "name": "Malat",
+    "district": "gemeh"
+  },
+  {
+    "id": "apan",
+    "name": "Apan",
+    "district": "gemeh"
+  },
+  {
+    "id": "taruan",
+    "name": "Taruan",
+    "district": "gemeh"
+  },
+  {
+    "id": "bannada",
+    "name": "Bannada",
+    "district": "gemeh"
+  },
+  {
+    "id": "lahu",
+    "name": "Lahu",
+    "district": "gemeh"
+  },
+  {
+    "id": "mamahan-barat",
+    "name": "Mamahan Barat",
+    "district": "gemeh"
+  },
+  {
+    "id": "bambung-timur",
+    "name": "Bambung Timur",
+    "district": "gemeh"
+  },
+  {
+    "id": "gemeh-raamata",
+    "name": "Gemeh Raamata",
+    "district": "gemeh"
+  },
+  {
+    "id": "gemeh-wantane",
+    "name": "Gemeh Wantane",
+    "district": "gemeh"
+  },
+  {
+    "id": "malat-utara",
+    "name": "Malat Utara",
+    "district": "gemeh"
+  }
+]

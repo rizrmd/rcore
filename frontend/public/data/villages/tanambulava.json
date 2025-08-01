@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lambara",
+    "name": "Lambara",
+    "district": "tanambulava"
+  },
+  {
+    "id": "sibalaya-selatan",
+    "name": "Sibalaya Selatan",
+    "district": "tanambulava"
+  },
+  {
+    "id": "sibalaya-utara",
+    "name": "Sibalaya Utara",
+    "district": "tanambulava"
+  },
+  {
+    "id": "sibowi",
+    "name": "Sibowi",
+    "district": "tanambulava"
+  },
+  {
+    "id": "sibalaya-barat",
+    "name": "Sibalaya Barat",
+    "district": "tanambulava"
+  }
+]

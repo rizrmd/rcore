@@ -1,0 +1,297 @@
+[
+  {
+    "id": "wlahar",
+    "name": "Wlahar",
+    "district": "rembang"
+  },
+  {
+    "id": "bantarbarang",
+    "name": "Bantarbarang",
+    "district": "rembang"
+  },
+  {
+    "id": "karangbawang",
+    "name": "Karangbawang",
+    "district": "rembang"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "rembang"
+  },
+  {
+    "id": "bodas-karangjati",
+    "name": "Bodas Karangjati",
+    "district": "rembang"
+  },
+  {
+    "id": "wanogara-wetan",
+    "name": "Wanogara Wetan",
+    "district": "rembang"
+  },
+  {
+    "id": "wanogara-kulon",
+    "name": "Wanogara Kulon",
+    "district": "rembang"
+  },
+  {
+    "id": "makam",
+    "name": "Makam",
+    "district": "rembang"
+  },
+  {
+    "id": "sumampir",
+    "name": "Sumampir",
+    "district": "rembang"
+  },
+  {
+    "id": "tanalum",
+    "name": "Tanalum",
+    "district": "rembang"
+  },
+  {
+    "id": "panusupan",
+    "name": "Panusupan",
+    "district": "rembang"
+  },
+  {
+    "id": "kedungrejo",
+    "name": "Kedungrejo",
+    "district": "rembang"
+  },
+  {
+    "id": "sridadi",
+    "name": "Sridadi",
+    "district": "rembang"
+  },
+  {
+    "id": "padaran",
+    "name": "Padaran",
+    "district": "rembang"
+  },
+  {
+    "id": "tlogomojo",
+    "name": "Tlogomojo",
+    "district": "rembang"
+  },
+  {
+    "id": "kasreman",
+    "name": "Kasreman",
+    "district": "rembang"
+  },
+  {
+    "id": "punjulharjo",
+    "name": "Punjulharjo",
+    "district": "rembang"
+  },
+  {
+    "id": "tritunggal",
+    "name": "Tritunggal",
+    "district": "rembang"
+  },
+  {
+    "id": "pasarbanggi",
+    "name": "Pasarbanggi",
+    "district": "rembang"
+  },
+  {
+    "id": "gedangan",
+    "name": "Gedangan",
+    "district": "rembang"
+  },
+  {
+    "id": "weton",
+    "name": "Weton",
+    "district": "rembang"
+  },
+  {
+    "id": "ngotet",
+    "name": "Ngotet",
+    "district": "rembang"
+  },
+  {
+    "id": "mondoteko",
+    "name": "Mondoteko",
+    "district": "rembang"
+  },
+  {
+    "id": "ngadem",
+    "name": "Ngadem",
+    "district": "rembang"
+  },
+  {
+    "id": "ketanggi",
+    "name": "Ketanggi",
+    "district": "rembang"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "rembang"
+  },
+  {
+    "id": "waru",
+    "name": "Waru",
+    "district": "rembang"
+  },
+  {
+    "id": "magersari",
+    "name": "Magersari",
+    "district": "rembang"
+  },
+  {
+    "id": "gegunung-kulon",
+    "name": "Gegunung Kulon",
+    "district": "rembang"
+  },
+  {
+    "id": "gegunung-wetan",
+    "name": "Gegunung Wetan",
+    "district": "rembang"
+  },
+  {
+    "id": "pacar",
+    "name": "Pacar",
+    "district": "rembang"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "rembang"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "rembang"
+  },
+  {
+    "id": "tasikagung",
+    "name": "Tasikagung",
+    "district": "rembang"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "rembang"
+  },
+  {
+    "id": "sidowayah",
+    "name": "Sidowayah",
+    "district": "rembang"
+  },
+  {
+    "id": "kutoharjo",
+    "name": "Kutoharjo",
+    "district": "rembang"
+  },
+  {
+    "id": "pandean",
+    "name": "Pandean",
+    "district": "rembang"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "rembang"
+  },
+  {
+    "id": "kabongan-lor",
+    "name": "Kabongan Lor",
+    "district": "rembang"
+  },
+  {
+    "id": "kabongan-kidul",
+    "name": "Kabongan Kidul",
+    "district": "rembang"
+  },
+  {
+    "id": "tireman",
+    "name": "Tireman",
+    "district": "rembang"
+  },
+  {
+    "id": "kalisat",
+    "name": "Kalisat",
+    "district": "rembang"
+  },
+  {
+    "id": "tampung",
+    "name": "Tampung",
+    "district": "rembang"
+  },
+  {
+    "id": "pajaran",
+    "name": "Pajaran",
+    "district": "rembang"
+  },
+  {
+    "id": "siyar",
+    "name": "Siyar",
+    "district": "rembang"
+  },
+  {
+    "id": "geneng-waru",
+    "name": "Geneng Waru",
+    "district": "rembang"
+  },
+  {
+    "id": "kanigoro",
+    "name": "Kanigoro",
+    "district": "rembang"
+  },
+  {
+    "id": "krengih",
+    "name": "Krengih",
+    "district": "rembang"
+  },
+  {
+    "id": "sumber-glagah",
+    "name": "Sumber Glagah",
+    "district": "rembang"
+  },
+  {
+    "id": "rembang",
+    "name": "Rembang",
+    "district": "rembang"
+  },
+  {
+    "id": "orobulu",
+    "name": "Orobulu",
+    "district": "rembang"
+  },
+  {
+    "id": "kedung-banteng",
+    "name": "Kedung Banteng",
+    "district": "rembang"
+  },
+  {
+    "id": "oroombo-wetan",
+    "name": "Oroombo Wetan",
+    "district": "rembang"
+  },
+  {
+    "id": "oroombo-kulon",
+    "name": "Oroombo Kulon",
+    "district": "rembang"
+  },
+  {
+    "id": "pekoren",
+    "name": "Pekoren",
+    "district": "rembang"
+  },
+  {
+    "id": "pejangkungan",
+    "name": "Pejangkungan",
+    "district": "rembang"
+  },
+  {
+    "id": "pandean",
+    "name": "Pandean",
+    "district": "rembang"
+  },
+  {
+    "id": "mojoparon",
+    "name": "Mojoparon",
+    "district": "rembang"
+  }
+]

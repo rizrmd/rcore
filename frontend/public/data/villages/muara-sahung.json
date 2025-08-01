@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "ulak-bandung",
+    "name": "Ulak Bandung",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "tri-tunggal-bhakti",
+    "name": "Tri Tunggal Bhakti",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "muara-sahung",
+    "name": "Muara Sahung",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "ulak-lebar",
+    "name": "Ulak Lebar",
+    "district": "muara-sahung"
+  },
+  {
+    "id": "cinta-makmur",
+    "name": "Cinta Makmur",
+    "district": "muara-sahung"
+  }
+]

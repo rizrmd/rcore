@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bayalangu-kidul",
+    "name": "Bayalangu Kidul",
+    "district": "gegesik"
+  },
+  {
+    "id": "bayalangu-lor",
+    "name": "Bayalangu Lor",
+    "district": "gegesik"
+  },
+  {
+    "id": "kedungdalem",
+    "name": "Kedungdalem",
+    "district": "gegesik"
+  },
+  {
+    "id": "panunggul",
+    "name": "Panunggul",
+    "district": "gegesik"
+  },
+  {
+    "id": "gegesik-wetan",
+    "name": "Gegesik Wetan",
+    "district": "gegesik"
+  },
+  {
+    "id": "gegesik-kidul",
+    "name": "Gegesik Kidul",
+    "district": "gegesik"
+  },
+  {
+    "id": "slendra",
+    "name": "Slendra",
+    "district": "gegesik"
+  },
+  {
+    "id": "jagapura-kidul",
+    "name": "Jagapura Kidul",
+    "district": "gegesik"
+  },
+  {
+    "id": "gegesik-lor",
+    "name": "Gegesik Lor",
+    "district": "gegesik"
+  },
+  {
+    "id": "gegesik-kulon",
+    "name": "Gegesik Kulon",
+    "district": "gegesik"
+  },
+  {
+    "id": "jagapura-wetan",
+    "name": "Jagapura Wetan",
+    "district": "gegesik"
+  },
+  {
+    "id": "jagapura-kulon",
+    "name": "Jagapura Kulon",
+    "district": "gegesik"
+  },
+  {
+    "id": "jagapura-lor",
+    "name": "Jagapura Lor",
+    "district": "gegesik"
+  },
+  {
+    "id": "sibubut",
+    "name": "Sibubut",
+    "district": "gegesik"
+  }
+]

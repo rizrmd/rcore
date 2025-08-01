@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ledan",
+    "name": "Ledan",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "potok-ullin",
+    "name": "Potok Ullin",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "eran-batu",
+    "name": "Eran Batu",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "langda",
+    "name": "Langda",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "pasui",
+    "name": "Pasui",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "buntu-mondong",
+    "name": "Buntu Mondong",
+    "district": "buntu-batu"
+  },
+  {
+    "id": "latimojong",
+    "name": "Latimojong",
+    "district": "buntu-batu"
+  }
+]

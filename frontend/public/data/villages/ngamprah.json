@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cimareme",
+    "name": "Cimareme",
+    "district": "ngamprah"
+  },
+  {
+    "id": "gadobangkong",
+    "name": "Gadobangkong",
+    "district": "ngamprah"
+  },
+  {
+    "id": "tanimulya",
+    "name": "Tanimulya",
+    "district": "ngamprah"
+  },
+  {
+    "id": "pakuhaji",
+    "name": "Pakuhaji",
+    "district": "ngamprah"
+  },
+  {
+    "id": "cilame",
+    "name": "Cilame",
+    "district": "ngamprah"
+  },
+  {
+    "id": "margajaya",
+    "name": "Margajaya",
+    "district": "ngamprah"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "ngamprah"
+  },
+  {
+    "id": "ngamprah",
+    "name": "Ngamprah",
+    "district": "ngamprah"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "ngamprah"
+  },
+  {
+    "id": "cimanggu",
+    "name": "Cimanggu",
+    "district": "ngamprah"
+  },
+  {
+    "id": "bojongkoneng",
+    "name": "Bojongkoneng",
+    "district": "ngamprah"
+  }
+]

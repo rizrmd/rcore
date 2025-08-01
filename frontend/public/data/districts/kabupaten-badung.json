@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kuta-selatan",
+    "name": "Kuta Selatan",
+    "regency": "kabupaten-badung"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "regency": "kabupaten-badung"
+  },
+  {
+    "id": "kuta-utara",
+    "name": "Kuta Utara",
+    "regency": "kabupaten-badung"
+  },
+  {
+    "id": "mengwi",
+    "name": "Mengwi",
+    "regency": "kabupaten-badung"
+  },
+  {
+    "id": "abiansemal",
+    "name": "Abiansemal",
+    "regency": "kabupaten-badung"
+  },
+  {
+    "id": "petang",
+    "name": "Petang",
+    "regency": "kabupaten-badung"
+  }
+]

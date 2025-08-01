@@ -1,0 +1,42 @@
+[
+  {
+    "id": "melinggih-kelod",
+    "name": "Melinggih Kelod",
+    "district": "payangan"
+  },
+  {
+    "id": "melinggih",
+    "name": "Melinggih",
+    "district": "payangan"
+  },
+  {
+    "id": "kelusa",
+    "name": "Kelusa",
+    "district": "payangan"
+  },
+  {
+    "id": "beresela",
+    "name": "Beresela",
+    "district": "payangan"
+  },
+  {
+    "id": "bukian",
+    "name": "Bukian",
+    "district": "payangan"
+  },
+  {
+    "id": "buahan",
+    "name": "Buahan",
+    "district": "payangan"
+  },
+  {
+    "id": "buahan-kaja",
+    "name": "Buahan Kaja",
+    "district": "payangan"
+  },
+  {
+    "id": "kerta",
+    "name": "Kerta",
+    "district": "payangan"
+  }
+]

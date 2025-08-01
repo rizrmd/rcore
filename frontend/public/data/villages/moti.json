@@ -1,0 +1,32 @@
+[
+  {
+    "id": "figur",
+    "name": "Figur",
+    "district": "moti"
+  },
+  {
+    "id": "takofi",
+    "name": "Takofi",
+    "district": "moti"
+  },
+  {
+    "id": "tafaga",
+    "name": "Tafaga",
+    "district": "moti"
+  },
+  {
+    "id": "tadenas",
+    "name": "Tadenas",
+    "district": "moti"
+  },
+  {
+    "id": "kota-moti",
+    "name": "Kota Moti",
+    "district": "moti"
+  },
+  {
+    "id": "tafamutu",
+    "name": "Tafamutu",
+    "district": "moti"
+  }
+]

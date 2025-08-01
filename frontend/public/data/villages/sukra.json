@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bogor",
+    "name": "Bogor",
+    "district": "sukra"
+  },
+  {
+    "id": "sukra",
+    "name": "Sukra",
+    "district": "sukra"
+  },
+  {
+    "id": "ujunggebang",
+    "name": "Ujunggebang",
+    "district": "sukra"
+  },
+  {
+    "id": "tegaltaman",
+    "name": "Tegaltaman",
+    "district": "sukra"
+  },
+  {
+    "id": "sukrawetan",
+    "name": "Sukrawetan",
+    "district": "sukra"
+  },
+  {
+    "id": "sumuradem",
+    "name": "Sumuradem",
+    "district": "sukra"
+  },
+  {
+    "id": "sumuradem-timur",
+    "name": "Sumuradem Timur",
+    "district": "sukra"
+  },
+  {
+    "id": "karanglayung",
+    "name": "Karanglayung",
+    "district": "sukra"
+  }
+]

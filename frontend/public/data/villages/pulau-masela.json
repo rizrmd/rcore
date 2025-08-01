@@ -1,0 +1,57 @@
+[
+  {
+    "id": "babyotang",
+    "name": "Babyotang",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "iblatmuntah",
+    "name": "Iblatmuntah",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "lawawang",
+    "name": "Lawawang",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "telaloraletoda",
+    "name": "Telalora/Letoda",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "ilbutung",
+    "name": "Ilbutung",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "nura",
+    "name": "Nura",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "latalola-besar",
+    "name": "Latalola Besar",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "marsela",
+    "name": "Marsela",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "serili",
+    "name": "Serili",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "latalola-kecil",
+    "name": "Latalola Kecil",
+    "district": "pulau-masela"
+  },
+  {
+    "id": "bululora",
+    "name": "Bululora",
+    "district": "pulau-masela"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "melapeh-baru",
+    "name": "Melapeh Baru",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "bigung-baru",
+    "name": "Bigung Baru",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-bigung",
+    "name": "Linggang Bigung",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-amer",
+    "name": "Linggang Amer",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-mapan",
+    "name": "Linggang Mapan",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-melapeh",
+    "name": "Linggang Melapeh",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-kebut",
+    "name": "Linggang Kebut",
+    "district": "linggang-bigung"
+  },
+  {
+    "id": "linggang-mencelew",
+    "name": "Linggang Mencelew",
+    "district": "linggang-bigung"
+  }
+]

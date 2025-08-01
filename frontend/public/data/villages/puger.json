@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mojomulyo",
+    "name": "Mojomulyo",
+    "district": "puger"
+  },
+  {
+    "id": "mojosari",
+    "name": "Mojosari",
+    "district": "puger"
+  },
+  {
+    "id": "puger-kulon",
+    "name": "Puger Kulon",
+    "district": "puger"
+  },
+  {
+    "id": "puger-wetan",
+    "name": "Puger Wetan",
+    "district": "puger"
+  },
+  {
+    "id": "mlokorejo",
+    "name": "Mlokorejo",
+    "district": "puger"
+  },
+  {
+    "id": "kasiyan",
+    "name": "Kasiyan",
+    "district": "puger"
+  },
+  {
+    "id": "kasiyan-timur",
+    "name": "Kasiyan Timur",
+    "district": "puger"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "puger"
+  },
+  {
+    "id": "jambearum",
+    "name": "Jambearum",
+    "district": "puger"
+  },
+  {
+    "id": "bagon",
+    "name": "Bagon",
+    "district": "puger"
+  },
+  {
+    "id": "wringin-telu",
+    "name": "Wringin Telu",
+    "district": "puger"
+  }
+]

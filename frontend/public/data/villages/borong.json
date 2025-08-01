@@ -1,0 +1,92 @@
+[
+  {
+    "id": "nanga-labang",
+    "name": "Nanga Labang",
+    "district": "borong"
+  },
+  {
+    "id": "golo-kantar",
+    "name": "Golo Kantar",
+    "district": "borong"
+  },
+  {
+    "id": "rana-loba",
+    "name": "Rana Loba",
+    "district": "borong"
+  },
+  {
+    "id": "kota-ndora",
+    "name": "Kota Ndora",
+    "district": "borong"
+  },
+  {
+    "id": "rana-masak",
+    "name": "Rana Masak",
+    "district": "borong"
+  },
+  {
+    "id": "ngampang-mas",
+    "name": "Ngampang Mas",
+    "district": "borong"
+  },
+  {
+    "id": "benteng-raja",
+    "name": "Benteng Raja",
+    "district": "borong"
+  },
+  {
+    "id": "benteng-riwu",
+    "name": "Benteng Riwu",
+    "district": "borong"
+  },
+  {
+    "id": "poco-rii",
+    "name": "Poco Rii",
+    "district": "borong"
+  },
+  {
+    "id": "golo-lalong",
+    "name": "Golo Lalong",
+    "district": "borong"
+  },
+  {
+    "id": "gurung-liwut",
+    "name": "Gurung Liwut",
+    "district": "borong"
+  },
+  {
+    "id": "compang-ndejing",
+    "name": "Compang Ndejing",
+    "district": "borong"
+  },
+  {
+    "id": "bangka-kantar",
+    "name": "Bangka Kantar",
+    "district": "borong"
+  },
+  {
+    "id": "satar-peot",
+    "name": "Satar Peot",
+    "district": "borong"
+  },
+  {
+    "id": "balus-permai",
+    "name": "Balus Permai",
+    "district": "borong"
+  },
+  {
+    "id": "compang-tenda",
+    "name": "Compang Tenda",
+    "district": "borong"
+  },
+  {
+    "id": "waling",
+    "name": "Waling",
+    "district": "borong"
+  },
+  {
+    "id": "golo-leda",
+    "name": "Golo Leda",
+    "district": "borong"
+  }
+]

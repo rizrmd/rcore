@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tunas-ilur",
+    "name": "Tunas Ilur",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "sagey",
+    "name": "Sagey",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "armada",
+    "name": "Armada",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "amarwawatu",
+    "name": "Amarwawatu",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "waisalan",
+    "name": "Waisalan",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "basarin",
+    "name": "Basarin",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "goha",
+    "name": "Goha",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "kota-siri",
+    "name": "Kota Siri",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "kilkoda",
+    "name": "Kilkoda",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "bas",
+    "name": "Bas",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "tuha",
+    "name": "Tuha",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "aran",
+    "name": "Aran",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran",
+    "name": "Miran",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "rarat",
+    "name": "Rarat",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "tinaru",
+    "name": "Tinaru",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "adar",
+    "name": "Adar",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "kiltufa",
+    "name": "Kiltufa",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "etaralu",
+    "name": "Etaralu",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran-manaban",
+    "name": "Miran Manaban",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran-rumuar",
+    "name": "Miran Rumuar",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran-kilian-manaban",
+    "name": "Miran Kilian Manaban",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran-keledar",
+    "name": "Miran Keledar",
+    "district": "gorom-timur"
+  },
+  {
+    "id": "miran-gota",
+    "name": "Miran Gota",
+    "district": "gorom-timur"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "saruk",
+    "name": "Saruk",
+    "district": "ubahak"
+  },
+  {
+    "id": "ubahak",
+    "name": "Ubahak",
+    "district": "ubahak"
+  },
+  {
+    "id": "sosomikma",
+    "name": "Sosomikma",
+    "district": "ubahak"
+  },
+  {
+    "id": "pini",
+    "name": "Pini",
+    "district": "ubahak"
+  },
+  {
+    "id": "mabien",
+    "name": "Mabien",
+    "district": "ubahak"
+  },
+  {
+    "id": "silong",
+    "name": "Silong",
+    "district": "ubahak"
+  },
+  {
+    "id": "nurap",
+    "name": "Nurap",
+    "district": "ubahak"
+  },
+  {
+    "id": "wamuhuk",
+    "name": "Wamuhuk",
+    "district": "ubahak"
+  },
+  {
+    "id": "welile",
+    "name": "Welile",
+    "district": "ubahak"
+  },
+  {
+    "id": "kibianggen",
+    "name": "Kibianggen",
+    "district": "ubahak"
+  },
+  {
+    "id": "tolomping",
+    "name": "Tolomping",
+    "district": "ubahak"
+  },
+  {
+    "id": "oblin",
+    "name": "Oblin",
+    "district": "ubahak"
+  },
+  {
+    "id": "koluong",
+    "name": "Koluong",
+    "district": "ubahak"
+  },
+  {
+    "id": "bisifak",
+    "name": "Bisifak",
+    "district": "ubahak"
+  }
+]

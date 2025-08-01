@@ -1,0 +1,77 @@
+[
+  {
+    "id": "setia-negara",
+    "name": "Setia Negara",
+    "district": "negara-batin"
+  },
+  {
+    "id": "purwa-agung",
+    "name": "Purwa Agung",
+    "district": "negara-batin"
+  },
+  {
+    "id": "sri-mulyo",
+    "name": "Sri Mulyo",
+    "district": "negara-batin"
+  },
+  {
+    "id": "sri-menanti",
+    "name": "Sri Menanti",
+    "district": "negara-batin"
+  },
+  {
+    "id": "negara-batin",
+    "name": "Negara Batin",
+    "district": "negara-batin"
+  },
+  {
+    "id": "purwa-negara",
+    "name": "Purwa Negara",
+    "district": "negara-batin"
+  },
+  {
+    "id": "marga-jaya",
+    "name": "Marga Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "karta-jaya",
+    "name": "Karta Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "gedong-jaya",
+    "name": "Gedong Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "adi-jaya",
+    "name": "Adi Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "sari-jaya",
+    "name": "Sari Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "gisting-jaya",
+    "name": "Gisting Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "negara-mulya",
+    "name": "Negara Mulya",
+    "district": "negara-batin"
+  },
+  {
+    "id": "kota-jawa",
+    "name": "Kota Jawa",
+    "district": "negara-batin"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "langki",
+    "name": "Langki",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "sibakur",
+    "name": "Sibakur",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "pulasan",
+    "name": "Pulasan",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "tanjung-lolo",
+    "name": "Tanjung Lolo",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "tanjung-gadang",
+    "name": "Tanjung Gadang",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "taratak-baru",
+    "name": "Taratak Baru",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "timbulun",
+    "name": "Timbulun",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "sinyamu",
+    "name": "Sinyamu",
+    "district": "tanjung-gadang"
+  },
+  {
+    "id": "taratak-baru-utara",
+    "name": "Taratak Baru Utara",
+    "district": "tanjung-gadang"
+  }
+]

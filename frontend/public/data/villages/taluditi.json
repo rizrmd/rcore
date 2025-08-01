@@ -1,0 +1,37 @@
+[
+  {
+    "id": "malango",
+    "name": "Malango",
+    "district": "taluditi"
+  },
+  {
+    "id": "panca-karsa-i",
+    "name": "Panca Karsa I",
+    "district": "taluditi"
+  },
+  {
+    "id": "panca-karsa-ii",
+    "name": "Panca Karsa Ii",
+    "district": "taluditi"
+  },
+  {
+    "id": "kalimas",
+    "name": "Kalimas",
+    "district": "taluditi"
+  },
+  {
+    "id": "mekarti-jaya",
+    "name": "Mekarti Jaya",
+    "district": "taluditi"
+  },
+  {
+    "id": "puncak-jaya",
+    "name": "Puncak Jaya",
+    "district": "taluditi"
+  },
+  {
+    "id": "tirto-asri",
+    "name": "Tirto Asri",
+    "district": "taluditi"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "madobag",
+    "name": "Madobag",
+    "district": "siberut-selatan"
+  },
+  {
+    "id": "muara-siberut",
+    "name": "Muara Siberut",
+    "district": "siberut-selatan"
+  },
+  {
+    "id": "maileppet",
+    "name": "Maileppet",
+    "district": "siberut-selatan"
+  },
+  {
+    "id": "muntei",
+    "name": "Muntei",
+    "district": "siberut-selatan"
+  },
+  {
+    "id": "matotonan",
+    "name": "Matotonan",
+    "district": "siberut-selatan"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ketanggungan",
+    "name": "Ketanggungan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "pengarasan",
+    "name": "Pengarasan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "sidakaton",
+    "name": "Sidakaton",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "sidapurna",
+    "name": "Sidapurna",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "dukuhturi",
+    "name": "Dukuhturi",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "lawatan",
+    "name": "Lawatan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "kepandean",
+    "name": "Kepandean",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "pagongan",
+    "name": "Pagongan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "grogol",
+    "name": "Grogol",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "pepedan",
+    "name": "Pepedan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "debong-wetan",
+    "name": "Debong Wetan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "pekauman-kulon",
+    "name": "Pekauman Kulon",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "bandasari",
+    "name": "Bandasari",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "sutapranan",
+    "name": "Sutapranan",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "kademangaran",
+    "name": "Kademangaran",
+    "district": "dukuhturi"
+  },
+  {
+    "id": "pengabean",
+    "name": "Pengabean",
+    "district": "dukuhturi"
+  }
+]

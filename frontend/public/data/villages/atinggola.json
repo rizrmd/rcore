@@ -1,0 +1,72 @@
+[
+  {
+    "id": "imana",
+    "name": "Imana",
+    "district": "atinggola"
+  },
+  {
+    "id": "ilomata",
+    "name": "Ilomata",
+    "district": "atinggola"
+  },
+  {
+    "id": "bintana",
+    "name": "Bintana",
+    "district": "atinggola"
+  },
+  {
+    "id": "monggupo",
+    "name": "Monggupo",
+    "district": "atinggola"
+  },
+  {
+    "id": "kota-jin",
+    "name": "Kota Jin",
+    "district": "atinggola"
+  },
+  {
+    "id": "pinontoyonga",
+    "name": "Pinontoyonga",
+    "district": "atinggola"
+  },
+  {
+    "id": "buata",
+    "name": "Buata",
+    "district": "atinggola"
+  },
+  {
+    "id": "wapalo",
+    "name": "Wapalo",
+    "district": "atinggola"
+  },
+  {
+    "id": "iloheluma",
+    "name": "Iloheluma",
+    "district": "atinggola"
+  },
+  {
+    "id": "sigaso",
+    "name": "Sigaso",
+    "district": "atinggola"
+  },
+  {
+    "id": "oluhuta",
+    "name": "Oluhuta",
+    "district": "atinggola"
+  },
+  {
+    "id": "kotajin-utara",
+    "name": "Kotajin Utara",
+    "district": "atinggola"
+  },
+  {
+    "id": "tombulilato",
+    "name": "Tombulilato",
+    "district": "atinggola"
+  },
+  {
+    "id": "posono",
+    "name": "Posono",
+    "district": "atinggola"
+  }
+]

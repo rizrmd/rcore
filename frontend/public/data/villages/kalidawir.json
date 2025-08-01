@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kalibatur",
+    "name": "Kalibatur",
+    "district": "kalidawir"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "kalidawir"
+  },
+  {
+    "id": "sukorejo-kulon",
+    "name": "Sukorejo Kulon",
+    "district": "kalidawir"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "kalidawir"
+  },
+  {
+    "id": "winong",
+    "name": "Winong",
+    "district": "kalidawir"
+  },
+  {
+    "id": "joho",
+    "name": "Joho",
+    "district": "kalidawir"
+  },
+  {
+    "id": "pakisaji",
+    "name": "Pakisaji",
+    "district": "kalidawir"
+  },
+  {
+    "id": "karangtalun",
+    "name": "Karangtalun",
+    "district": "kalidawir"
+  },
+  {
+    "id": "kalidawir",
+    "name": "Kalidawir",
+    "district": "kalidawir"
+  },
+  {
+    "id": "ngubalan",
+    "name": "Ngubalan",
+    "district": "kalidawir"
+  },
+  {
+    "id": "salak-kembang",
+    "name": "Salak Kembang",
+    "district": "kalidawir"
+  },
+  {
+    "id": "tunggangri",
+    "name": "Tunggangri",
+    "district": "kalidawir"
+  },
+  {
+    "id": "jabon",
+    "name": "Jabon",
+    "district": "kalidawir"
+  },
+  {
+    "id": "pagersari",
+    "name": "Pagersari",
+    "district": "kalidawir"
+  },
+  {
+    "id": "betak",
+    "name": "Betak",
+    "district": "kalidawir"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "kalidawir"
+  },
+  {
+    "id": "domasan",
+    "name": "Domasan",
+    "district": "kalidawir"
+  }
+]

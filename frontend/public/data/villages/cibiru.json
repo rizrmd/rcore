@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pasir-biru",
+    "name": "Pasir Biru",
+    "district": "cibiru"
+  },
+  {
+    "id": "cipadung",
+    "name": "Cipadung",
+    "district": "cibiru"
+  },
+  {
+    "id": "palasari",
+    "name": "Palasari",
+    "district": "cibiru"
+  },
+  {
+    "id": "cisurupan",
+    "name": "Cisurupan",
+    "district": "cibiru"
+  }
+]

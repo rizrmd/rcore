@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ujung-bandar",
+    "name": "Ujung Bandar",
+    "district": "salapian"
+  },
+  {
+    "id": "parangguam",
+    "name": "Parangguam",
+    "district": "salapian"
+  },
+  {
+    "id": "perkebunan-tambunan",
+    "name": "Perkebunan Tambunan",
+    "district": "salapian"
+  },
+  {
+    "id": "lau-tepu",
+    "name": "Lau Tepu",
+    "district": "salapian"
+  },
+  {
+    "id": "pama-tambunan",
+    "name": "Pama Tambunan",
+    "district": "salapian"
+  },
+  {
+    "id": "perkebunan-glugur-langkat",
+    "name": "Perkebunan Glugur Langkat",
+    "district": "salapian"
+  },
+  {
+    "id": "bandar-telu",
+    "name": "Bandar Telu",
+    "district": "salapian"
+  },
+  {
+    "id": "turangi",
+    "name": "Turangi",
+    "district": "salapian"
+  },
+  {
+    "id": "ujung-teran",
+    "name": "Ujung Teran",
+    "district": "salapian"
+  },
+  {
+    "id": "minta-kasih",
+    "name": "Minta Kasih",
+    "district": "salapian"
+  },
+  {
+    "id": "tanjung-langkat",
+    "name": "Tanjung Langkat",
+    "district": "salapian"
+  },
+  {
+    "id": "naman-jahe",
+    "name": "Naman Jahe",
+    "district": "salapian"
+  },
+  {
+    "id": "perkebunan-tanjung-keliling",
+    "name": "Perkebunan Tanjung Keliling",
+    "district": "salapian"
+  },
+  {
+    "id": "ponco-warno",
+    "name": "Ponco Warno",
+    "district": "salapian"
+  },
+  {
+    "id": "adin-tengah",
+    "name": "Adin Tengah",
+    "district": "salapian"
+  },
+  {
+    "id": "lau-lugur",
+    "name": "Lau Lugur",
+    "district": "salapian"
+  },
+  {
+    "id": "pancur-ido",
+    "name": "Pancur Ido",
+    "district": "salapian"
+  }
+]

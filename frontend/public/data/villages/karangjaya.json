@@ -1,0 +1,22 @@
+[
+  {
+    "id": "citalahab",
+    "name": "Citalahab",
+    "district": "karangjaya"
+  },
+  {
+    "id": "sirnajaya",
+    "name": "Sirnajaya",
+    "district": "karangjaya"
+  },
+  {
+    "id": "karangjaya",
+    "name": "Karangjaya",
+    "district": "karangjaya"
+  },
+  {
+    "id": "karanglayung",
+    "name": "Karanglayung",
+    "district": "karangjaya"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "kertajati"
+  },
+  {
+    "id": "palasah",
+    "name": "Palasah",
+    "district": "kertajati"
+  },
+  {
+    "id": "pakubeureum",
+    "name": "Pakubeureum",
+    "district": "kertajati"
+  },
+  {
+    "id": "sukawana",
+    "name": "Sukawana",
+    "district": "kertajati"
+  },
+  {
+    "id": "kertawinangun",
+    "name": "Kertawinangun",
+    "district": "kertajati"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "kertajati"
+  },
+  {
+    "id": "kertajati",
+    "name": "Kertajati",
+    "district": "kertajati"
+  },
+  {
+    "id": "kertasari",
+    "name": "Kertasari",
+    "district": "kertajati"
+  },
+  {
+    "id": "mekarmulya",
+    "name": "Mekarmulya",
+    "district": "kertajati"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "kertajati"
+  },
+  {
+    "id": "bantarjati",
+    "name": "Bantarjati",
+    "district": "kertajati"
+  },
+  {
+    "id": "pasiripis",
+    "name": "Pasiripis",
+    "district": "kertajati"
+  },
+  {
+    "id": "sukakerta",
+    "name": "Sukakerta",
+    "district": "kertajati"
+  },
+  {
+    "id": "sahbandar",
+    "name": "Sahbandar",
+    "district": "kertajati"
+  }
+]

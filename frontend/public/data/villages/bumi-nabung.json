@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bumi-nabung-selatan",
+    "name": "Bumi Nabung Selatan",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "bumi-nabung-baru",
+    "name": "Bumi Nabung Baru",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "sri-kencono",
+    "name": "Sri Kencono",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "bumi-nabung-timur",
+    "name": "Bumi Nabung Timur",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "bumi-nabung-ilir",
+    "name": "Bumi Nabung Ilir",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "bumi-nabung-utara",
+    "name": "Bumi Nabung Utara",
+    "district": "bumi-nabung"
+  },
+  {
+    "id": "sri-kencono-baru",
+    "name": "Sri Kencono Baru",
+    "district": "bumi-nabung"
+  }
+]

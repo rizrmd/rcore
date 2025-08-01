@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sinorang",
+    "name": "Sinorang",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "maleo-jaya",
+    "name": "Maleo Jaya",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "masungkang",
+    "name": "Masungkang",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "sukamaju-i",
+    "name": "Sukamaju I",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "bone-balantak",
+    "name": "Bone Balantak",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "masing",
+    "name": "Masing",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "gori-gori",
+    "name": "Gori-Gori",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "paisubololi",
+    "name": "Paisubololi",
+    "district": "batui-selatan"
+  },
+  {
+    "id": "ombolu",
+    "name": "Ombolu",
+    "district": "batui-selatan"
+  }
+]

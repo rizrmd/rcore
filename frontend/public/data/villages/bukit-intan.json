@@ -1,0 +1,37 @@
+[
+  {
+    "id": "semabung-lama",
+    "name": "Semabung Lama",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "bacang",
+    "name": "Bacang",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "air-itam",
+    "name": "Air Itam",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "sinar-bulan",
+    "name": "Sinar Bulan",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "temberan",
+    "name": "Temberan",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "air-mawar",
+    "name": "Air Mawar",
+    "district": "bukit-intan"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "bukit-intan"
+  }
+]

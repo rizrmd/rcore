@@ -1,0 +1,32 @@
+[
+  {
+    "id": "karangpoh",
+    "name": "Karangpoh",
+    "district": "tandes"
+  },
+  {
+    "id": "balongsari",
+    "name": "Balongsari",
+    "district": "tandes"
+  },
+  {
+    "id": "manukan-wetan",
+    "name": "Manukan Wetan",
+    "district": "tandes"
+  },
+  {
+    "id": "manukan-kulon",
+    "name": "Manukan Kulon",
+    "district": "tandes"
+  },
+  {
+    "id": "banjar-sugihan",
+    "name": "Banjar Sugihan",
+    "district": "tandes"
+  },
+  {
+    "id": "tandes",
+    "name": "Tandes",
+    "district": "tandes"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bonggoeya",
+    "name": "Bonggoeya",
+    "district": "wua-wua"
+  },
+  {
+    "id": "wua-wua",
+    "name": "Wua-Wua",
+    "district": "wua-wua"
+  },
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "wua-wua"
+  },
+  {
+    "id": "anawai",
+    "name": "Anawai",
+    "district": "wua-wua"
+  }
+]

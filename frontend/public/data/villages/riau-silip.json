@@ -1,0 +1,42 @@
+[
+  {
+    "id": "banyu-asin",
+    "name": "Banyu Asin",
+    "district": "riau-silip"
+  },
+  {
+    "id": "pangkal-niur",
+    "name": "Pangkal Niur",
+    "district": "riau-silip"
+  },
+  {
+    "id": "cit",
+    "name": "Cit",
+    "district": "riau-silip"
+  },
+  {
+    "id": "deniang",
+    "name": "Deniang",
+    "district": "riau-silip"
+  },
+  {
+    "id": "mapur",
+    "name": "Mapur",
+    "district": "riau-silip"
+  },
+  {
+    "id": "silip",
+    "name": "Silip",
+    "district": "riau-silip"
+  },
+  {
+    "id": "riau",
+    "name": "Riau",
+    "district": "riau-silip"
+  },
+  {
+    "id": "berbura",
+    "name": "Berbura",
+    "district": "riau-silip"
+  }
+]

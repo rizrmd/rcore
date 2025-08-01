@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukamarga",
+    "name": "Sukamarga",
+    "district": "pulau-pisang"
+  },
+  {
+    "id": "pekon-lok",
+    "name": "Pekon Lok",
+    "district": "pulau-pisang"
+  },
+  {
+    "id": "bandar-dalam",
+    "name": "Bandar Dalam",
+    "district": "pulau-pisang"
+  },
+  {
+    "id": "pasar-pulau-pisang",
+    "name": "Pasar Pulau Pisang",
+    "district": "pulau-pisang"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "pulau-pisang"
+  },
+  {
+    "id": "labuhan",
+    "name": "Labuhan",
+    "district": "pulau-pisang"
+  }
+]

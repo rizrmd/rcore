@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sungai-somor",
+    "name": "Sungai Somor",
+    "district": "cengal"
+  },
+  {
+    "id": "sungai-pasir",
+    "name": "Sungai Pasir",
+    "district": "cengal"
+  },
+  {
+    "id": "sungai-jeruju",
+    "name": "Sungai Jeruju",
+    "district": "cengal"
+  },
+  {
+    "id": "sungai-lumpur",
+    "name": "Sungai Lumpur",
+    "district": "cengal"
+  },
+  {
+    "id": "ulak-kedondong",
+    "name": "Ulak Kedondong",
+    "district": "cengal"
+  },
+  {
+    "id": "sungai-ketupak",
+    "name": "Sungai Ketupak",
+    "district": "cengal"
+  },
+  {
+    "id": "pelimbangan",
+    "name": "Pelimbangan",
+    "district": "cengal"
+  },
+  {
+    "id": "cengal",
+    "name": "Cengal",
+    "district": "cengal"
+  },
+  {
+    "id": "talang-rimba",
+    "name": "Talang Rimba",
+    "district": "cengal"
+  },
+  {
+    "id": "kuala-sungai-pasir",
+    "name": "Kuala Sungai Pasir",
+    "district": "cengal"
+  },
+  {
+    "id": "kuala-sungai-jeruju",
+    "name": "Kuala Sungai Jeruju",
+    "district": "cengal"
+  },
+  {
+    "id": "parit-raya",
+    "name": "Parit Raya",
+    "district": "cengal"
+  },
+  {
+    "id": "lebak-beriang",
+    "name": "Lebak Beriang",
+    "district": "cengal"
+  },
+  {
+    "id": "balam-jeruju",
+    "name": "Balam Jeruju",
+    "district": "cengal"
+  },
+  {
+    "id": "pantai-harapan",
+    "name": "Pantai Harapan",
+    "district": "cengal"
+  },
+  {
+    "id": "adil-makmur",
+    "name": "Adil Makmur",
+    "district": "cengal"
+  },
+  {
+    "id": "kebon-cabe",
+    "name": "Kebon Cabe",
+    "district": "cengal"
+  }
+]

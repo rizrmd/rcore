@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mandi-angin",
+    "name": "Mandi Angin",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "beringin-makmur-i",
+    "name": "Beringin Makmur I",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "batu-kucing",
+    "name": "Batu Kucing",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "ketapat-bening",
+    "name": "Ketapat Bening",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "air-bening",
+    "name": "Air Bening",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "pauh-i",
+    "name": "Pauh I",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "belani",
+    "name": "Belani",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "tanjung-raja",
+    "name": "Tanjung Raja",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "beringin-makmur-ii",
+    "name": "Beringin Makmur Ii",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "bingin-teluk",
+    "name": "Bingin Teluk",
+    "district": "rawas-ilir"
+  },
+  {
+    "id": "beringin-sakti",
+    "name": "Beringin Sakti",
+    "district": "rawas-ilir"
+  }
+]

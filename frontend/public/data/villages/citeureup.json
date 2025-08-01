@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tangkil",
+    "name": "Tangkil",
+    "district": "citeureup"
+  },
+  {
+    "id": "hambalang",
+    "name": "Hambalang",
+    "district": "citeureup"
+  },
+  {
+    "id": "tajur",
+    "name": "Tajur",
+    "district": "citeureup"
+  },
+  {
+    "id": "pasir-mukti",
+    "name": "Pasir Mukti",
+    "district": "citeureup"
+  },
+  {
+    "id": "sukahati",
+    "name": "Sukahati",
+    "district": "citeureup"
+  },
+  {
+    "id": "leuwinutug",
+    "name": "Leuwinutug",
+    "district": "citeureup"
+  },
+  {
+    "id": "sanja",
+    "name": "Sanja",
+    "district": "citeureup"
+  },
+  {
+    "id": "karang-asem-barat",
+    "name": "Karang Asem Barat",
+    "district": "citeureup"
+  },
+  {
+    "id": "karang-asem-timur",
+    "name": "Karang Asem Timur",
+    "district": "citeureup"
+  },
+  {
+    "id": "tarikolot",
+    "name": "Tarikolot",
+    "district": "citeureup"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "citeureup"
+  },
+  {
+    "id": "citeureup",
+    "name": "Citeureup",
+    "district": "citeureup"
+  },
+  {
+    "id": "puspanegara",
+    "name": "Puspanegara",
+    "district": "citeureup"
+  },
+  {
+    "id": "puspasari",
+    "name": "Puspasari",
+    "district": "citeureup"
+  }
+]

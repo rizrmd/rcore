@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "kersamanah"
+  },
+  {
+    "id": "girijaya",
+    "name": "Girijaya",
+    "district": "kersamanah"
+  },
+  {
+    "id": "kersamanah",
+    "name": "Kersamanah",
+    "district": "kersamanah"
+  },
+  {
+    "id": "nanjungjaya",
+    "name": "Nanjungjaya",
+    "district": "kersamanah"
+  },
+  {
+    "id": "sukamerang",
+    "name": "Sukamerang",
+    "district": "kersamanah"
+  },
+  {
+    "id": "mekarraya",
+    "name": "Mekarraya",
+    "district": "kersamanah"
+  }
+]

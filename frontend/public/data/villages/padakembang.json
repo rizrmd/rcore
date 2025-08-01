@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cilampunghilir",
+    "name": "Cilampunghilir",
+    "district": "padakembang"
+  },
+  {
+    "id": "rancapaku",
+    "name": "Rancapaku",
+    "district": "padakembang"
+  },
+  {
+    "id": "cisaruni",
+    "name": "Cisaruni",
+    "district": "padakembang"
+  },
+  {
+    "id": "padakembang",
+    "name": "Padakembang",
+    "district": "padakembang"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "padakembang"
+  }
+]

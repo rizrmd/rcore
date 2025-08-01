@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ketapang-i",
+    "name": "Ketapang I",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "jagalana",
+    "name": "Jagalana",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "kota-daro-i",
+    "name": "Kota Daro I",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "kota-daro-ii",
+    "name": "Kota Daro Ii",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "rantau-panjang-ilir",
+    "name": "Rantau Panjang Ilir",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "jagaraja",
+    "name": "Jagaraja",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "sejangko-i",
+    "name": "Sejangko I",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "sungai-rotan",
+    "name": "Sungai Rotan",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "sejangko-ii",
+    "name": "Sejangko Ii",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "rantau-panjang-ulu",
+    "name": "Rantau Panjang Ulu",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "ketapang-ii",
+    "name": "Ketapang Ii",
+    "district": "rantau-panjang"
+  },
+  {
+    "id": "arisan-deras",
+    "name": "Arisan Deras",
+    "district": "rantau-panjang"
+  }
+]

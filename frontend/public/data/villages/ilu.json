@@ -1,0 +1,102 @@
+[
+  {
+    "id": "lambo",
+    "name": "Lambo",
+    "district": "ilu"
+  },
+  {
+    "id": "wurak",
+    "name": "Wurak",
+    "district": "ilu"
+  },
+  {
+    "id": "pindebaga",
+    "name": "Pindebaga",
+    "district": "ilu"
+  },
+  {
+    "id": "dolinggame",
+    "name": "Dolinggame",
+    "district": "ilu"
+  },
+  {
+    "id": "maka",
+    "name": "Maka",
+    "district": "ilu"
+  },
+  {
+    "id": "mobigi",
+    "name": "Mobigi",
+    "district": "ilu"
+  },
+  {
+    "id": "yauria-i",
+    "name": "Yauria I",
+    "district": "ilu"
+  },
+  {
+    "id": "belantara",
+    "name": "Belantara",
+    "district": "ilu"
+  },
+  {
+    "id": "kalengga",
+    "name": "Kalengga",
+    "district": "ilu"
+  },
+  {
+    "id": "pulau-timur",
+    "name": "Pulau Timur",
+    "district": "ilu"
+  },
+  {
+    "id": "girmor",
+    "name": "Girmor",
+    "district": "ilu"
+  },
+  {
+    "id": "pulogengga",
+    "name": "Pulogengga",
+    "district": "ilu"
+  },
+  {
+    "id": "kirigimaduk",
+    "name": "Kirigimaduk",
+    "district": "ilu"
+  },
+  {
+    "id": "puki-paki",
+    "name": "Puki Paki",
+    "district": "ilu"
+  },
+  {
+    "id": "kurikpulok",
+    "name": "Kurikpulok",
+    "district": "ilu"
+  },
+  {
+    "id": "megewi-megewa",
+    "name": "Megewi Megewa",
+    "district": "ilu"
+  },
+  {
+    "id": "kaninonggo",
+    "name": "Kaninonggo",
+    "district": "ilu"
+  },
+  {
+    "id": "gubulome",
+    "name": "Gubulome",
+    "district": "ilu"
+  },
+  {
+    "id": "ginipago",
+    "name": "Ginipago",
+    "district": "ilu"
+  },
+  {
+    "id": "aulame",
+    "name": "Aulame",
+    "district": "ilu"
+  }
+]

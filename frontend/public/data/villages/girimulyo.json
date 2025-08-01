@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "girimulyo"
+  },
+  {
+    "id": "giripurwo",
+    "name": "Giripurwo",
+    "district": "girimulyo"
+  },
+  {
+    "id": "pendoworejo",
+    "name": "Pendoworejo",
+    "district": "girimulyo"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "girimulyo"
+  }
+]

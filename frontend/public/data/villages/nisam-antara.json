@@ -1,0 +1,32 @@
+[
+  {
+    "id": "alue-dua",
+    "name": "Alue Dua",
+    "district": "nisam-antara"
+  },
+  {
+    "id": "alue-papeun",
+    "name": "Alue Papeun",
+    "district": "nisam-antara"
+  },
+  {
+    "id": "blang-jrat",
+    "name": "Blang Jrat",
+    "district": "nisam-antara"
+  },
+  {
+    "id": "blang-pohroh",
+    "name": "Blang Pohroh",
+    "district": "nisam-antara"
+  },
+  {
+    "id": "darussalam",
+    "name": "Darussalam",
+    "district": "nisam-antara"
+  },
+  {
+    "id": "seumirah",
+    "name": "Seumirah",
+    "district": "nisam-antara"
+  }
+]

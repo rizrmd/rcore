@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gelam",
+    "name": "Gelam",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "dalung",
+    "name": "Dalung",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "tembong",
+    "name": "Tembong",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "karundang",
+    "name": "Karundang",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "cipocok-jaya",
+    "name": "Cipocok Jaya",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "banjaragung",
+    "name": "Banjaragung",
+    "district": "cipocok-jaya"
+  },
+  {
+    "id": "panancangan",
+    "name": "Panancangan",
+    "district": "cipocok-jaya"
+  }
+]

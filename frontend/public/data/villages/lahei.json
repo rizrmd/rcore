@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ipu",
+    "name": "Ipu",
+    "district": "lahei"
+  },
+  {
+    "id": "lahei-ii",
+    "name": "Lahei Ii",
+    "district": "lahei"
+  },
+  {
+    "id": "lahei-i",
+    "name": "Lahei I",
+    "district": "lahei"
+  },
+  {
+    "id": "juju-baru",
+    "name": "Juju Baru",
+    "district": "lahei"
+  },
+  {
+    "id": "muara-bakah",
+    "name": "Muara Bakah",
+    "district": "lahei"
+  },
+  {
+    "id": "muara-inu",
+    "name": "Muara Inu",
+    "district": "lahei"
+  },
+  {
+    "id": "bengahon",
+    "name": "Bengahon",
+    "district": "lahei"
+  },
+  {
+    "id": "rahaden",
+    "name": "Rahaden",
+    "district": "lahei"
+  },
+  {
+    "id": "muara-pari",
+    "name": "Muara Pari",
+    "district": "lahei"
+  },
+  {
+    "id": "karendan",
+    "name": "Karendan",
+    "district": "lahei"
+  },
+  {
+    "id": "haragandang",
+    "name": "Haragandang",
+    "district": "lahei"
+  }
+]

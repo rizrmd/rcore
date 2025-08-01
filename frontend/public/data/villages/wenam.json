@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tina",
+    "name": "Tina",
+    "district": "wenam"
+  },
+  {
+    "id": "mili",
+    "name": "Mili",
+    "district": "wenam"
+  },
+  {
+    "id": "telalome",
+    "name": "Telalome",
+    "district": "wenam"
+  },
+  {
+    "id": "milineri",
+    "name": "Milineri",
+    "district": "wenam"
+  },
+  {
+    "id": "baganagapura",
+    "name": "Baganagapura",
+    "district": "wenam"
+  },
+  {
+    "id": "gayarai",
+    "name": "Gayarai",
+    "district": "wenam"
+  },
+  {
+    "id": "kopenawi",
+    "name": "Kopenawi",
+    "district": "wenam"
+  },
+  {
+    "id": "banggeri",
+    "name": "Banggeri",
+    "district": "wenam"
+  },
+  {
+    "id": "igari",
+    "name": "Igari",
+    "district": "wenam"
+  },
+  {
+    "id": "wunggi",
+    "name": "Wunggi",
+    "district": "wenam"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kuto-tanjung",
+    "name": "Kuto Tanjung",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "napal-licin",
+    "name": "Napal Licin",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "sosokan",
+    "name": "Sosokan",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "muara-kulam",
+    "name": "Muara Kulam",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "muara-kuis",
+    "name": "Muara Kuis",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "pulau-kidak",
+    "name": "Pulau Kidak",
+    "district": "ulu-rawas"
+  },
+  {
+    "id": "jangkat",
+    "name": "Jangkat",
+    "district": "ulu-rawas"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mangkit",
+    "name": "Mangkit",
+    "district": "belang"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "belang"
+  },
+  {
+    "id": "borgo",
+    "name": "Borgo",
+    "district": "belang"
+  },
+  {
+    "id": "belang",
+    "name": "Belang",
+    "district": "belang"
+  },
+  {
+    "id": "tababo",
+    "name": "Tababo",
+    "district": "belang"
+  },
+  {
+    "id": "watuliney",
+    "name": "Watuliney",
+    "district": "belang"
+  },
+  {
+    "id": "molompar",
+    "name": "Molompar",
+    "district": "belang"
+  },
+  {
+    "id": "buku-utara",
+    "name": "Buku Utara",
+    "district": "belang"
+  },
+  {
+    "id": "buku-selatan",
+    "name": "Buku Selatan",
+    "district": "belang"
+  },
+  {
+    "id": "borgo-satu",
+    "name": "Borgo Satu",
+    "district": "belang"
+  },
+  {
+    "id": "ponosakan-belang",
+    "name": "Ponosakan Belang",
+    "district": "belang"
+  },
+  {
+    "id": "buku-tengah",
+    "name": "Buku Tengah",
+    "district": "belang"
+  },
+  {
+    "id": "tababo-selatan",
+    "name": "Tababo Selatan",
+    "district": "belang"
+  },
+  {
+    "id": "watuliney-tengah",
+    "name": "Watuliney Tengah",
+    "district": "belang"
+  },
+  {
+    "id": "watuliney-indah",
+    "name": "Watuliney Indah",
+    "district": "belang"
+  },
+  {
+    "id": "molompar-utara",
+    "name": "Molompar Utara",
+    "district": "belang"
+  },
+  {
+    "id": "molompar-timur",
+    "name": "Molompar Timur",
+    "district": "belang"
+  },
+  {
+    "id": "ponosakan-indah",
+    "name": "Ponosakan Indah",
+    "district": "belang"
+  },
+  {
+    "id": "buku-tenggara",
+    "name": "Buku Tenggara",
+    "district": "belang"
+  }
+]

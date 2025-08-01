@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wonam",
+    "name": "Wonam",
+    "district": "kaisenar"
+  },
+  {
+    "id": "kiambra",
+    "name": "Kiambra",
+    "district": "kaisenar"
+  },
+  {
+    "id": "kaisenar",
+    "name": "Kaisenar",
+    "district": "kaisenar"
+  },
+  {
+    "id": "tefanma-i",
+    "name": "Tefanma I",
+    "district": "kaisenar"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "district": "air-besi"
+  },
+  {
+    "id": "talang-lembak",
+    "name": "Talang Lembak",
+    "district": "air-besi"
+  },
+  {
+    "id": "talang-renah",
+    "name": "Talang Renah",
+    "district": "air-besi"
+  },
+  {
+    "id": "sungai-pura",
+    "name": "Sungai Pura",
+    "district": "air-besi"
+  },
+  {
+    "id": "tanjung-genting",
+    "name": "Tanjung Genting",
+    "district": "air-besi"
+  },
+  {
+    "id": "lubuk-balam",
+    "name": "Lubuk Balam",
+    "district": "air-besi"
+  },
+  {
+    "id": "datar-macang",
+    "name": "Datar Macang",
+    "district": "air-besi"
+  },
+  {
+    "id": "genting-perangkap",
+    "name": "Genting Perangkap",
+    "district": "air-besi"
+  },
+  {
+    "id": "talang-baru-ginting",
+    "name": "Talang Baru Ginting",
+    "district": "air-besi"
+  },
+  {
+    "id": "talang-pungguk",
+    "name": "Talang Pungguk",
+    "district": "air-besi"
+  },
+  {
+    "id": "kertapati",
+    "name": "Kertapati",
+    "district": "air-besi"
+  },
+  {
+    "id": "talang-ginting",
+    "name": "Talang Ginting",
+    "district": "air-besi"
+  },
+  {
+    "id": "tanjung-karet",
+    "name": "Tanjung Karet",
+    "district": "air-besi"
+  },
+  {
+    "id": "dusun-curup",
+    "name": "Dusun Curup",
+    "district": "air-besi"
+  },
+  {
+    "id": "penyangkak",
+    "name": "Penyangkak",
+    "district": "air-besi"
+  }
+]

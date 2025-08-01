@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ujung-mangki",
+    "name": "Ujung Mangki",
+    "district": "bakongan"
+  },
+  {
+    "id": "keude-bakongan",
+    "name": "Keude Bakongan",
+    "district": "bakongan"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "bakongan"
+  },
+  {
+    "id": "ujung-padang",
+    "name": "Ujung Padang",
+    "district": "bakongan"
+  },
+  {
+    "id": "kmp-drien",
+    "name": "Kmp Drien",
+    "district": "bakongan"
+  },
+  {
+    "id": "dahrul-ihsan",
+    "name": "Dahrul Ihsan",
+    "district": "bakongan"
+  },
+  {
+    "id": "padang-beurahan",
+    "name": "Padang Beurahan",
+    "district": "bakongan"
+  }
+]

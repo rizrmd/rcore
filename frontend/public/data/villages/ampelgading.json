@@ -1,0 +1,142 @@
+[
+  {
+    "id": "sokawati",
+    "name": "Sokawati",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tegalsari-barat",
+    "name": "Tegalsari Barat",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tegalsari-timur",
+    "name": "Tegalsari Timur",
+    "district": "ampelgading"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "ampelgading"
+  },
+  {
+    "id": "karangtalok",
+    "name": "Karangtalok",
+    "district": "ampelgading"
+  },
+  {
+    "id": "wonogiri",
+    "name": "Wonogiri",
+    "district": "ampelgading"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "ampelgading"
+  },
+  {
+    "id": "ampelgading",
+    "name": "Ampelgading",
+    "district": "ampelgading"
+  },
+  {
+    "id": "cibiyuk",
+    "name": "Cibiyuk",
+    "district": "ampelgading"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "ampelgading"
+  },
+  {
+    "id": "banglarangan",
+    "name": "Banglarangan",
+    "district": "ampelgading"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "ampelgading"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "ampelgading"
+  },
+  {
+    "id": "kebagusan",
+    "name": "Kebagusan",
+    "district": "ampelgading"
+  },
+  {
+    "id": "sidokare",
+    "name": "Sidokare",
+    "district": "ampelgading"
+  },
+  {
+    "id": "lebakharjo",
+    "name": "Lebakharjo",
+    "district": "ampelgading"
+  },
+  {
+    "id": "wirotaman",
+    "name": "Wirotaman",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tamanasri",
+    "name": "Tamanasri",
+    "district": "ampelgading"
+  },
+  {
+    "id": "sonowangi",
+    "name": "Sonowangi",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tirtomarto",
+    "name": "Tirtomarto",
+    "district": "ampelgading"
+  },
+  {
+    "id": "purwoharjo",
+    "name": "Purwoharjo",
+    "district": "ampelgading"
+  },
+  {
+    "id": "sidorenggo",
+    "name": "Sidorenggo",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tirtomoyo",
+    "name": "Tirtomoyo",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tawangagung",
+    "name": "Tawangagung",
+    "district": "ampelgading"
+  },
+  {
+    "id": "simojayan",
+    "name": "Simojayan",
+    "district": "ampelgading"
+  },
+  {
+    "id": "argoyuwono",
+    "name": "Argoyuwono",
+    "district": "ampelgading"
+  },
+  {
+    "id": "mulyoasri",
+    "name": "Mulyoasri",
+    "district": "ampelgading"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "ampelgading"
+  }
+]

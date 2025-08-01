@@ -1,0 +1,57 @@
+[
+  {
+    "id": "danama",
+    "name": "Danama",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "kilmoy",
+    "name": "Kilmoy",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "kilbat",
+    "name": "Kilbat",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "sesar",
+    "name": "Sesar",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "airkasar",
+    "name": "Airkasar",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "waras-waras",
+    "name": "Waras-Waras",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "gah",
+    "name": "Gah",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "walang-tenga",
+    "name": "Walang Tenga",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "bati-kilwouw",
+    "name": "Bati Kilwouw",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "taruy",
+    "name": "Taruy",
+    "district": "tutuk-tolu"
+  },
+  {
+    "id": "kufar",
+    "name": "Kufar",
+    "district": "tutuk-tolu"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lebak-wangi",
+    "name": "Lebak Wangi",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "kedaung-barat",
+    "name": "Kedaung Barat",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "jati-mulya",
+    "name": "Jati Mulya",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "sangiang",
+    "name": "Sangiang",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "gempol-sari",
+    "name": "Gempol Sari",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "pondok-kelor",
+    "name": "Pondok Kelor",
+    "district": "sepatan-timur"
+  },
+  {
+    "id": "kampung-kelor",
+    "name": "Kampung Kelor",
+    "district": "sepatan-timur"
+  }
+]

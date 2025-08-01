@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sekapung",
+    "name": "Sekapung",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "kanibungan",
+    "name": "Kanibungan",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "mandin",
+    "name": "Mandin",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "belambus",
+    "name": "Belambus",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "sarakaman",
+    "name": "Sarakaman",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "sungai-bali",
+    "name": "Sungai Bali",
+    "district": "pulau-sebuku"
+  },
+  {
+    "id": "rampa",
+    "name": "Rampa",
+    "district": "pulau-sebuku"
+  }
+]

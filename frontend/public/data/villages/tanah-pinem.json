@@ -1,0 +1,97 @@
+[
+  {
+    "id": "renun",
+    "name": "Renun",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "pasir-tengah",
+    "name": "Pasir Tengah",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "pamah",
+    "name": "Pamah",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "kuta-buluh",
+    "name": "Kuta Buluh",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "tanah-pinem",
+    "name": "Tanah Pinem",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "kempawa",
+    "name": "Kempawa",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "kuta-gamber",
+    "name": "Kuta Gamber",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "lau-perimbon",
+    "name": "Lau Perimbon",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "gunung-tua",
+    "name": "Gunung Tua",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "suka-dame",
+    "name": "Suka Dame",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "lau-tawar",
+    "name": "Lau Tawar",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "mangan-molih",
+    "name": "Mangan Molih",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "lau-njuhar",
+    "name": "Lau Njuhar",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "liang-jering",
+    "name": "Liang Jering",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "alur-subur",
+    "name": "Alur Subur",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "balandua",
+    "name": "Balandua",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "pasir-mbelang",
+    "name": "Pasir Mbelang",
+    "district": "tanah-pinem"
+  },
+  {
+    "id": "sinar-pagi",
+    "name": "Sinar Pagi",
+    "district": "tanah-pinem"
+  }
+]

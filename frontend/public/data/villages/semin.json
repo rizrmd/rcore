@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kalitekuk",
+    "name": "Kalitekuk",
+    "district": "semin"
+  },
+  {
+    "id": "kemejing",
+    "name": "Kemejing",
+    "district": "semin"
+  },
+  {
+    "id": "semin",
+    "name": "Semin",
+    "district": "semin"
+  },
+  {
+    "id": "pundung-sari",
+    "name": "Pundung Sari",
+    "district": "semin"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "semin"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "semin"
+  },
+  {
+    "id": "bulurejo",
+    "name": "Bulurejo",
+    "district": "semin"
+  },
+  {
+    "id": "sumberrejo",
+    "name": "Sumberrejo",
+    "district": "semin"
+  },
+  {
+    "id": "candi-rejo",
+    "name": "Candi Rejo",
+    "district": "semin"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "jihing",
+    "name": "Jihing",
+    "district": "balai-riam"
+  },
+  {
+    "id": "air-dua",
+    "name": "Air Dua",
+    "district": "balai-riam"
+  },
+  {
+    "id": "bukit-sungkai",
+    "name": "Bukit Sungkai",
+    "district": "balai-riam"
+  },
+  {
+    "id": "lupu-peruca",
+    "name": "Lupu Peruca",
+    "district": "balai-riam"
+  },
+  {
+    "id": "sekuningan-baru",
+    "name": "Sekuningan Baru",
+    "district": "balai-riam"
+  },
+  {
+    "id": "balai-riam",
+    "name": "Balai Riam",
+    "district": "balai-riam"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "balai-riam"
+  },
+  {
+    "id": "pempaning",
+    "name": "Pempaning",
+    "district": "balai-riam"
+  }
+]

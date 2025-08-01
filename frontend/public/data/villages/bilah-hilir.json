@@ -1,0 +1,67 @@
+[
+  {
+    "id": "perkebunan-sennah",
+    "name": "Perkebunan Sennah",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "kampung-bilah",
+    "name": "Kampung Bilah",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "perkebunan-bilah",
+    "name": "Perkebunan Bilah",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "negeri-lama",
+    "name": "Negeri Lama",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "negeri-lama-seberang",
+    "name": "Negeri Lama Seberang",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "perkebunan-negeri-lama",
+    "name": "Perkebunan Negeri Lama",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "negeri-baru",
+    "name": "Negeri Baru",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "sei-tampang",
+    "name": "Sei Tampang",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "sei-tarolat",
+    "name": "Sei Tarolat",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "sei-kasih",
+    "name": "Sei Kasih",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "tanjung-haloban",
+    "name": "Tanjung Haloban",
+    "district": "bilah-hilir"
+  },
+  {
+    "id": "selat-besar",
+    "name": "Selat Besar",
+    "district": "bilah-hilir"
+  }
+]

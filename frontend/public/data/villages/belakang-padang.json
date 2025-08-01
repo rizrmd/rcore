@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pulau-terong",
+    "name": "Pulau Terong",
+    "district": "belakang-padang"
+  },
+  {
+    "id": "pecong",
+    "name": "Pecong",
+    "district": "belakang-padang"
+  },
+  {
+    "id": "kasu",
+    "name": "Kasu",
+    "district": "belakang-padang"
+  },
+  {
+    "id": "pemping",
+    "name": "Pemping",
+    "district": "belakang-padang"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "belakang-padang"
+  },
+  {
+    "id": "sekanak-raya",
+    "name": "Sekanak Raya",
+    "district": "belakang-padang"
+  }
+]

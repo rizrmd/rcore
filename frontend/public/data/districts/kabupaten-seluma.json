@@ -1,0 +1,72 @@
+[
+  {
+    "id": "semidang-alas-maras",
+    "name": "Semidang Alas Maras",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "semidang-alas",
+    "name": "Semidang Alas",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "talo",
+    "name": "Talo",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "ilir-talo",
+    "name": "Ilir Talo",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "talo-kecil",
+    "name": "Talo Kecil",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "ulu-talo",
+    "name": "Ulu Talo",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "seluma",
+    "name": "Seluma",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "seluma-selatan",
+    "name": "Seluma Selatan",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "seluma-barat",
+    "name": "Seluma Barat",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "seluma-timur",
+    "name": "Seluma Timur",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "seluma-utara",
+    "name": "Seluma Utara",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "air-periukan",
+    "name": "Air Periukan",
+    "regency": "kabupaten-seluma"
+  },
+  {
+    "id": "lubuk-sandi",
+    "name": "Lubuk Sandi",
+    "regency": "kabupaten-seluma"
+  }
+]

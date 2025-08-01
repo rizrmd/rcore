@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cibeunying-kidul"
+  },
+  {
+    "id": "cicadas",
+    "name": "Cicadas",
+    "district": "cibeunying-kidul"
+  },
+  {
+    "id": "cikutra",
+    "name": "Cikutra",
+    "district": "cibeunying-kidul"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "cibeunying-kidul"
+  },
+  {
+    "id": "pasirlayung",
+    "name": "Pasirlayung",
+    "district": "cibeunying-kidul"
+  },
+  {
+    "id": "sukapada",
+    "name": "Sukapada",
+    "district": "cibeunying-kidul"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "empas",
+    "name": "Empas",
+    "district": "melak"
+  },
+  {
+    "id": "empakuq",
+    "name": "Empakuq",
+    "district": "melak"
+  },
+  {
+    "id": "muara-bunyut",
+    "name": "Muara Bunyut",
+    "district": "melak"
+  },
+  {
+    "id": "melak-ilir",
+    "name": "Melak Ilir",
+    "district": "melak"
+  },
+  {
+    "id": "melak-ulu",
+    "name": "Melak Ulu",
+    "district": "melak"
+  },
+  {
+    "id": "muara-benangaq",
+    "name": "Muara Benangaq",
+    "district": "melak"
+  }
+]

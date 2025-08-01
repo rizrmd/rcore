@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sapugara-bree",
+    "name": "Sapugara Bree",
+    "district": "brang-rea"
+  },
+  {
+    "id": "desa-beru",
+    "name": "Desa Beru",
+    "district": "brang-rea"
+  },
+  {
+    "id": "tepas",
+    "name": "Tepas",
+    "district": "brang-rea"
+  },
+  {
+    "id": "bangkat-monteh",
+    "name": "Bangkat Monteh",
+    "district": "brang-rea"
+  },
+  {
+    "id": "seminar-salit",
+    "name": "Seminar Salit",
+    "district": "brang-rea"
+  },
+  {
+    "id": "tepas-sepakat",
+    "name": "Tepas Sepakat",
+    "district": "brang-rea"
+  },
+  {
+    "id": "moteng",
+    "name": "Moteng",
+    "district": "brang-rea"
+  },
+  {
+    "id": "lamuntet",
+    "name": "Lamuntet",
+    "district": "brang-rea"
+  },
+  {
+    "id": "rarak-rongis",
+    "name": "Rarak Rongis",
+    "district": "brang-rea"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pulau-patai",
+    "name": "Pulau Patai",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "sarapat-ex-harara",
+    "name": "Sarapat (Ex Harara)",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "magantis",
+    "name": "Magantis",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "jaar",
+    "name": "Jaar",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "matabu",
+    "name": "Matabu",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "tamiang-layang",
+    "name": "Tamiang Layang",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "jaweten",
+    "name": "Jaweten",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "haringen",
+    "name": "Haringen",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "dorong",
+    "name": "Dorong",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "didi",
+    "name": "Didi",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "karang-langit",
+    "name": "Karang Langit",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "harara",
+    "name": "Harara",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "mangkarap",
+    "name": "Mangkarap",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "matarah",
+    "name": "Matarah",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "gumpa",
+    "name": "Gumpa",
+    "district": "dusun-timur"
+  },
+  {
+    "id": "maragut",
+    "name": "Maragut",
+    "district": "dusun-timur"
+  }
+]

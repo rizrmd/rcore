@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sepakat",
+    "name": "Sepakat",
+    "district": "plampang"
+  },
+  {
+    "id": "sp-i-prode",
+    "name": "Sp I Prode",
+    "district": "plampang"
+  },
+  {
+    "id": "sp-ii-prode",
+    "name": "Sp Ii Prode",
+    "district": "plampang"
+  },
+  {
+    "id": "plampang",
+    "name": "Plampang",
+    "district": "plampang"
+  },
+  {
+    "id": "sepayung",
+    "name": "Sepayung",
+    "district": "plampang"
+  },
+  {
+    "id": "teluk-santong",
+    "name": "Teluk Santong",
+    "district": "plampang"
+  },
+  {
+    "id": "sp-iii-prode",
+    "name": "Sp Iii Prode",
+    "district": "plampang"
+  },
+  {
+    "id": "brang-kolong",
+    "name": "Brang Kolong",
+    "district": "plampang"
+  },
+  {
+    "id": "selante",
+    "name": "Selante",
+    "district": "plampang"
+  },
+  {
+    "id": "usar",
+    "name": "Usar",
+    "district": "plampang"
+  }
+]

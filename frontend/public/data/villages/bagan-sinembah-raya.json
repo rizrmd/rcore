@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bagan-sinembah-kota",
+    "name": "Bagan Sinembah Kota",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "harapan-makmur-selatan",
+    "name": "Harapan Makmur Selatan",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "harapan-makmur",
+    "name": "Harapan Makmur",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "bagan-sinembah",
+    "name": "Bagan Sinembah",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "salak",
+    "name": "Salak",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "panca-mukti",
+    "name": "Panca Mukti",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "bagan-sinembah-barat",
+    "name": "Bagan Sinembah Barat",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "bagan-sinembah-timur",
+    "name": "Bagan Sinembah Timur",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "bagan-sinembah-utara",
+    "name": "Bagan Sinembah Utara",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "ampaian-rotan-makmur",
+    "name": "Ampaian Rotan Makmur",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "suka-jadi-jaya",
+    "name": "Suka Jadi Jaya",
+    "district": "bagan-sinembah-raya"
+  },
+  {
+    "id": "bagan-sinembah-jaya",
+    "name": "Bagan Sinembah Jaya",
+    "district": "bagan-sinembah-raya"
+  }
+]

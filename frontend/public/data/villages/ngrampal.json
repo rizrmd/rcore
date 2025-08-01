@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pilangsari",
+    "name": "Pilangsari",
+    "district": "ngrampal"
+  },
+  {
+    "id": "ngarum",
+    "name": "Ngarum",
+    "district": "ngrampal"
+  },
+  {
+    "id": "kebonromo",
+    "name": "Kebonromo",
+    "district": "ngrampal"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "ngrampal"
+  },
+  {
+    "id": "gabus",
+    "name": "Gabus",
+    "district": "ngrampal"
+  },
+  {
+    "id": "karangudi",
+    "name": "Karangudi",
+    "district": "ngrampal"
+  },
+  {
+    "id": "klandungan",
+    "name": "Klandungan",
+    "district": "ngrampal"
+  }
+]

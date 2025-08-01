@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dempar",
+    "name": "Dempar",
+    "district": "nyuatan"
+  },
+  {
+    "id": "sentalar",
+    "name": "Sentalar",
+    "district": "nyuatan"
+  },
+  {
+    "id": "jontai",
+    "name": "Jontai",
+    "district": "nyuatan"
+  },
+  {
+    "id": "temula",
+    "name": "Temula",
+    "district": "nyuatan"
+  },
+  {
+    "id": "terajuk",
+    "name": "Terajuk",
+    "district": "nyuatan"
+  },
+  {
+    "id": "sembuan",
+    "name": "Sembuan",
+    "district": "nyuatan"
+  },
+  {
+    "id": "lakan-bilem",
+    "name": "Lakan Bilem",
+    "district": "nyuatan"
+  },
+  {
+    "id": "intu-lingau",
+    "name": "Intu Lingau",
+    "district": "nyuatan"
+  },
+  {
+    "id": "awai",
+    "name": "Awai",
+    "district": "nyuatan"
+  }
+]

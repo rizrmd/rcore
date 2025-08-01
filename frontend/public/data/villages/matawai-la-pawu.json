@@ -1,0 +1,32 @@
+[
+  {
+    "id": "karipi",
+    "name": "Karipi",
+    "district": "matawai-la-pawu"
+  },
+  {
+    "id": "wanggameti",
+    "name": "Wanggameti",
+    "district": "matawai-la-pawu"
+  },
+  {
+    "id": "katikuwai",
+    "name": "Katikuwai",
+    "district": "matawai-la-pawu"
+  },
+  {
+    "id": "katikutana",
+    "name": "Katikutana",
+    "district": "matawai-la-pawu"
+  },
+  {
+    "id": "prai-bokul",
+    "name": "Prai Bokul",
+    "district": "matawai-la-pawu"
+  },
+  {
+    "id": "katiku-luku",
+    "name": "Katiku Luku",
+    "district": "matawai-la-pawu"
+  }
+]

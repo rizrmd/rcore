@@ -1,0 +1,72 @@
+[
+  {
+    "id": "jetak",
+    "name": "Jetak",
+    "district": "tulakan"
+  },
+  {
+    "id": "nglaran",
+    "name": "Nglaran",
+    "district": "tulakan"
+  },
+  {
+    "id": "wonoanti",
+    "name": "Wonoanti",
+    "district": "tulakan"
+  },
+  {
+    "id": "padi",
+    "name": "Padi",
+    "district": "tulakan"
+  },
+  {
+    "id": "kluwih",
+    "name": "Kluwih",
+    "district": "tulakan"
+  },
+  {
+    "id": "tulakan",
+    "name": "Tulakan",
+    "district": "tulakan"
+  },
+  {
+    "id": "jatigunung",
+    "name": "Jatigunung",
+    "district": "tulakan"
+  },
+  {
+    "id": "kalikuning",
+    "name": "Kalikuning",
+    "district": "tulakan"
+  },
+  {
+    "id": "gasang",
+    "name": "Gasang",
+    "district": "tulakan"
+  },
+  {
+    "id": "ngile",
+    "name": "Ngile",
+    "district": "tulakan"
+  },
+  {
+    "id": "bubakan",
+    "name": "Bubakan",
+    "district": "tulakan"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "tulakan"
+  },
+  {
+    "id": "wonosidi",
+    "name": "Wonosidi",
+    "district": "tulakan"
+  },
+  {
+    "id": "ketro",
+    "name": "Ketro",
+    "district": "tulakan"
+  }
+]

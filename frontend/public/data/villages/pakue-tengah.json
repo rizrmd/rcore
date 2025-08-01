@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pasampang",
+    "name": "Pasampang",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "labipi",
+    "name": "Labipi",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "lanipa",
+    "name": "Lanipa",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "majapahit",
+    "name": "Majapahit",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "latali",
+    "name": "Latali",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "terengga",
+    "name": "Terengga",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "powalaa",
+    "name": "Powalaa",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "tolemo",
+    "name": "To'Lemo",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "salulotong",
+    "name": "Salulotong",
+    "district": "pakue-tengah"
+  },
+  {
+    "id": "kalahunde",
+    "name": "Kalahunde",
+    "district": "pakue-tengah"
+  }
+]

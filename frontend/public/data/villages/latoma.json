@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ambekaeri-utama",
+    "name": "Ambekaeri Utama",
+    "district": "latoma"
+  },
+  {
+    "id": "latoma-jaya",
+    "name": "Latoma Jaya",
+    "district": "latoma"
+  },
+  {
+    "id": "waworaha",
+    "name": "Waworaha",
+    "district": "latoma"
+  },
+  {
+    "id": "lalowata",
+    "name": "Lalowata",
+    "district": "latoma"
+  },
+  {
+    "id": "andoluto",
+    "name": "Andoluto",
+    "district": "latoma"
+  },
+  {
+    "id": "wowalatoma",
+    "name": "Wowalatoma",
+    "district": "latoma"
+  },
+  {
+    "id": "amboniki",
+    "name": "Amboniki",
+    "district": "latoma"
+  },
+  {
+    "id": "pinole",
+    "name": "Pinole",
+    "district": "latoma"
+  },
+  {
+    "id": "titowa",
+    "name": "Titowa",
+    "district": "latoma"
+  },
+  {
+    "id": "nesowi",
+    "name": "Nesowi",
+    "district": "latoma"
+  },
+  {
+    "id": "angonga",
+    "name": "Angonga",
+    "district": "latoma"
+  },
+  {
+    "id": "ambesaua",
+    "name": "Ambesaua",
+    "district": "latoma"
+  },
+  {
+    "id": "watutinawu",
+    "name": "Watutinawu",
+    "district": "latoma"
+  },
+  {
+    "id": "puulemo",
+    "name": "Puulemo",
+    "district": "latoma"
+  },
+  {
+    "id": "nesowi-utama",
+    "name": "Nesowi Utama",
+    "district": "latoma"
+  },
+  {
+    "id": "napooha",
+    "name": "Napooha",
+    "district": "latoma"
+  }
+]

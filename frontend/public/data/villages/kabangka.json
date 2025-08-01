@@ -1,0 +1,52 @@
+[
+  {
+    "id": "komba-komba",
+    "name": "Komba-Komba",
+    "district": "kabangka"
+  },
+  {
+    "id": "oensuli",
+    "name": "Oensuli",
+    "district": "kabangka"
+  },
+  {
+    "id": "kabangka",
+    "name": "Kabangka",
+    "district": "kabangka"
+  },
+  {
+    "id": "sarimulyo",
+    "name": "Sarimulyo",
+    "district": "kabangka"
+  },
+  {
+    "id": "wakobalu-agung",
+    "name": "Wakobalu Agung",
+    "district": "kabangka"
+  },
+  {
+    "id": "wansugi",
+    "name": "Wansugi",
+    "district": "kabangka"
+  },
+  {
+    "id": "wataliku",
+    "name": "Wataliku",
+    "district": "kabangka"
+  },
+  {
+    "id": "lakandito",
+    "name": "Lakandito",
+    "district": "kabangka"
+  },
+  {
+    "id": "lupia",
+    "name": "Lupia",
+    "district": "kabangka"
+  },
+  {
+    "id": "lapili-bangka",
+    "name": "Lapili Bangka",
+    "district": "kabangka"
+  }
+]

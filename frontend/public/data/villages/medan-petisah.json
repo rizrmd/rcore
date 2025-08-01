@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sei-sikambing-d",
+    "name": "Sei Sikambing D",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "petisah-tengah",
+    "name": "Petisah Tengah",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "s-e-k-i-p",
+    "name": "S E K I P",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "sei-putih-timur-ii",
+    "name": "Sei Putih Timur Ii",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "sei-putih-timur-i",
+    "name": "Sei Putih Timur I",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "sei-putih-tengah",
+    "name": "Sei Putih Tengah",
+    "district": "medan-petisah"
+  },
+  {
+    "id": "sei-putih-barat",
+    "name": "Sei Putih Barat",
+    "district": "medan-petisah"
+  }
+]

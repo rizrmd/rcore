@@ -1,0 +1,27 @@
+[
+  {
+    "id": "katikutana",
+    "name": "Katikutana",
+    "regency": "kabupaten-sumba-tengah"
+  },
+  {
+    "id": "katikutana-selatan",
+    "name": "Katikutana Selatan",
+    "regency": "kabupaten-sumba-tengah"
+  },
+  {
+    "id": "umbu-ratu-nggay-barat",
+    "name": "Umbu Ratu Nggay Barat",
+    "regency": "kabupaten-sumba-tengah"
+  },
+  {
+    "id": "umbu-ratu-nggay",
+    "name": "Umbu Ratu Nggay",
+    "regency": "kabupaten-sumba-tengah"
+  },
+  {
+    "id": "mamboro",
+    "name": "Mamboro",
+    "regency": "kabupaten-sumba-tengah"
+  }
+]

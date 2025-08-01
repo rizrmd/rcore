@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "sukau"
+  },
+  {
+    "id": "hanakau",
+    "name": "Hanakau",
+    "district": "sukau"
+  },
+  {
+    "id": "buay-nyerupa",
+    "name": "Buay Nyerupa",
+    "district": "sukau"
+  },
+  {
+    "id": "tapak-siring",
+    "name": "Tapak Siring",
+    "district": "sukau"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "sukau"
+  },
+  {
+    "id": "jaga-raga",
+    "name": "Jaga Raga",
+    "district": "sukau"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "sukau"
+  },
+  {
+    "id": "bandar-baru",
+    "name": "Bandar Baru",
+    "district": "sukau"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "sukau"
+  },
+  {
+    "id": "teba-pering-raya",
+    "name": "Teba Pering Raya",
+    "district": "sukau"
+  }
+]

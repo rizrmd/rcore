@@ -1,0 +1,62 @@
+[
+  {
+    "id": "harian",
+    "name": "Harian",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "sitinjak",
+    "name": "Sitinjak",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "pakpahan",
+    "name": "Pakpahan",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "onan-runggu",
+    "name": "Onan Runggu",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "tambun-sungkean",
+    "name": "Tambun Sungkean",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "sitamiang",
+    "name": "Sitamiang",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "pardomuan",
+    "name": "Pardomuan",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "huta-hotang",
+    "name": "Huta Hotang",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "rina-bolak",
+    "name": "Rina Bolak",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "sipira",
+    "name": "Sipira",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "janji-matogu",
+    "name": "Janji Matogu",
+    "district": "onan-runggu"
+  },
+  {
+    "id": "silima-lombu",
+    "name": "Silima Lombu",
+    "district": "onan-runggu"
+  }
+]

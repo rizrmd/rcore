@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sumberdadi",
+    "name": "Sumberdadi",
+    "district": "mantup"
+  },
+  {
+    "id": "kedungsoko",
+    "name": "Kedungsoko",
+    "district": "mantup"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "mantup"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "mantup"
+  },
+  {
+    "id": "mojosari",
+    "name": "Mojosari",
+    "district": "mantup"
+  },
+  {
+    "id": "plabuhanrejo",
+    "name": "Plabuhanrejo",
+    "district": "mantup"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "mantup"
+  },
+  {
+    "id": "mantup",
+    "name": "Mantup",
+    "district": "mantup"
+  },
+  {
+    "id": "sumberbendo",
+    "name": "Sumberbendo",
+    "district": "mantup"
+  },
+  {
+    "id": "tunggunjagir",
+    "name": "Tunggunjagir",
+    "district": "mantup"
+  },
+  {
+    "id": "sukobendu",
+    "name": "Sukobendu",
+    "district": "mantup"
+  }
+]

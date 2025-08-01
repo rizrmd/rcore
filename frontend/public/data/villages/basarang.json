@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pangkalan-rekan",
+    "name": "Pangkalan Rekan",
+    "district": "basarang"
+  },
+  {
+    "id": "basarang",
+    "name": "Basarang",
+    "district": "basarang"
+  },
+  {
+    "id": "maluen",
+    "name": "Maluen",
+    "district": "basarang"
+  },
+  {
+    "id": "basungkai",
+    "name": "Basungkai",
+    "district": "basarang"
+  },
+  {
+    "id": "lunuk-ramba",
+    "name": "Lunuk Ramba",
+    "district": "basarang"
+  },
+  {
+    "id": "batuah",
+    "name": "Batuah",
+    "district": "basarang"
+  },
+  {
+    "id": "tambun-raya",
+    "name": "Tambun Raya",
+    "district": "basarang"
+  },
+  {
+    "id": "pangkalan-sari",
+    "name": "Pangkalan Sari",
+    "district": "basarang"
+  },
+  {
+    "id": "bungai-jaya",
+    "name": "Bungai Jaya",
+    "district": "basarang"
+  },
+  {
+    "id": "basarang-jaya",
+    "name": "Basarang Jaya",
+    "district": "basarang"
+  },
+  {
+    "id": "panarung",
+    "name": "Panarung",
+    "district": "basarang"
+  },
+  {
+    "id": "tarung-manuah",
+    "name": "Tarung Manuah",
+    "district": "basarang"
+  },
+  {
+    "id": "batu-nindan",
+    "name": "Batu Nindan",
+    "district": "basarang"
+  },
+  {
+    "id": "naning",
+    "name": "Naning",
+    "district": "basarang"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bangsal-aceh",
+    "name": "Bangsal Aceh",
+    "district": "sungai-sembilan"
+  },
+  {
+    "id": "lubuk-gaung",
+    "name": "Lubuk Gaung",
+    "district": "sungai-sembilan"
+  },
+  {
+    "id": "basilam-baru",
+    "name": "Basilam Baru",
+    "district": "sungai-sembilan"
+  },
+  {
+    "id": "batu-teritip",
+    "name": "Batu Teritip",
+    "district": "sungai-sembilan"
+  },
+  {
+    "id": "tanjung-penyembal",
+    "name": "Tanjung Penyembal",
+    "district": "sungai-sembilan"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gunungrejo",
+    "name": "Gunungrejo",
+    "district": "way-lima"
+  },
+  {
+    "id": "cimanuk",
+    "name": "Cimanuk",
+    "district": "way-lima"
+  },
+  {
+    "id": "sukamandi",
+    "name": "Sukamandi",
+    "district": "way-lima"
+  },
+  {
+    "id": "way-harong",
+    "name": "Way Harong",
+    "district": "way-lima"
+  },
+  {
+    "id": "margodadi",
+    "name": "Margodadi",
+    "district": "way-lima"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "way-lima"
+  },
+  {
+    "id": "kotadalam",
+    "name": "Kotadalam",
+    "district": "way-lima"
+  },
+  {
+    "id": "baturaja",
+    "name": "Baturaja",
+    "district": "way-lima"
+  },
+  {
+    "id": "sindang-garut",
+    "name": "Sindang Garut",
+    "district": "way-lima"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "way-lima"
+  },
+  {
+    "id": "gedung-dalam",
+    "name": "Gedung Dalam",
+    "district": "way-lima"
+  },
+  {
+    "id": "pekondoh",
+    "name": "Pekondoh",
+    "district": "way-lima"
+  },
+  {
+    "id": "pekondoh-gedung",
+    "name": "Pekondoh Gedung",
+    "district": "way-lima"
+  },
+  {
+    "id": "banjar-negeri",
+    "name": "Banjar Negeri",
+    "district": "way-lima"
+  },
+  {
+    "id": "padang-manis",
+    "name": "Padang Manis",
+    "district": "way-lima"
+  },
+  {
+    "id": "paguyuban",
+    "name": "Paguyuban",
+    "district": "way-lima"
+  }
+]

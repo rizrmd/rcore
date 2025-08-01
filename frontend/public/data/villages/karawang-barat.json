@@ -1,0 +1,42 @@
+[
+  {
+    "id": "adiarsa-barat",
+    "name": "Adiarsa Barat",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "nagasari",
+    "name": "Nagasari",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "karawang-kulon",
+    "name": "Karawang Kulon",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "tanjungpura",
+    "name": "Tanjungpura",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "tanjungmekar",
+    "name": "Tanjungmekar",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "karangpawitan",
+    "name": "Karangpawitan",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "mekarjati",
+    "name": "Mekarjati",
+    "district": "karawang-barat"
+  },
+  {
+    "id": "tunggakjati",
+    "name": "Tunggakjati",
+    "district": "karawang-barat"
+  }
+]

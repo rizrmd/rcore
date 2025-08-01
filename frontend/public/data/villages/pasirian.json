@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gondoruso",
+    "name": "Gondoruso",
+    "district": "pasirian"
+  },
+  {
+    "id": "kalibendo",
+    "name": "Kalibendo",
+    "district": "pasirian"
+  },
+  {
+    "id": "bades",
+    "name": "Bades",
+    "district": "pasirian"
+  },
+  {
+    "id": "bago",
+    "name": "Bago",
+    "district": "pasirian"
+  },
+  {
+    "id": "selok-awar-awar",
+    "name": "Selok Awar Awar",
+    "district": "pasirian"
+  },
+  {
+    "id": "condro",
+    "name": "Condro",
+    "district": "pasirian"
+  },
+  {
+    "id": "madurejo",
+    "name": "Madurejo",
+    "district": "pasirian"
+  },
+  {
+    "id": "pasirian",
+    "name": "Pasirian",
+    "district": "pasirian"
+  },
+  {
+    "id": "selok-anyar",
+    "name": "Selok Anyar",
+    "district": "pasirian"
+  }
+]

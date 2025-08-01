@@ -1,0 +1,37 @@
+[
+  {
+    "id": "napal",
+    "name": "Napal",
+    "district": "seluma"
+  },
+  {
+    "id": "talang-dantuk",
+    "name": "Talang Dantuk",
+    "district": "seluma"
+  },
+  {
+    "id": "dusun-baru",
+    "name": "Dusun Baru",
+    "district": "seluma"
+  },
+  {
+    "id": "talang-saling",
+    "name": "Talang Saling",
+    "district": "seluma"
+  },
+  {
+    "id": "lubuk-lintang",
+    "name": "Lubuk Lintang",
+    "district": "seluma"
+  },
+  {
+    "id": "pasar-tais",
+    "name": "Pasar Tais",
+    "district": "seluma"
+  },
+  {
+    "id": "lubuk-kebur",
+    "name": "Lubuk Kebur",
+    "district": "seluma"
+  }
+]

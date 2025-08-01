@@ -1,0 +1,97 @@
+[
+  {
+    "id": "pulo-belen",
+    "name": "Pulo Belen",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "pulo-kedep",
+    "name": "Pulo Kedep",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "gunung-bakti",
+    "name": "Gunung Bakti",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "jambi",
+    "name": "Jambi",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "singgersing",
+    "name": "Singgersing",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "cipar-pari",
+    "name": "Cipar Pari",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "namo-buaya",
+    "name": "Namo Buaya",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "cipar-pari-timur",
+    "name": "Cipar Pari Timur",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "lae-simolap",
+    "name": "Lae Simolap",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "darul-makmur",
+    "name": "Darul Makmur",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "pasir-belo",
+    "name": "Pasir Belo",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "bawan",
+    "name": "Bawan",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "sigrun",
+    "name": "Sigrun",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "lae-langge",
+    "name": "Lae Langge",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "jabi-jabi",
+    "name": "Jabi-Jabi",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "jabi-jabi-barat",
+    "name": "Jabi-Jabi Barat",
+    "district": "sultan-daulat"
+  },
+  {
+    "id": "batu-napal",
+    "name": "Batu Napal",
+    "district": "sultan-daulat"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nagrak",
+    "name": "Nagrak",
+    "district": "cianjur"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cianjur"
+  },
+  {
+    "id": "sayang",
+    "name": "Sayang",
+    "district": "cianjur"
+  },
+  {
+    "id": "solokpandan",
+    "name": "Solokpandan",
+    "district": "cianjur"
+  },
+  {
+    "id": "muka",
+    "name": "Muka",
+    "district": "cianjur"
+  },
+  {
+    "id": "bojongherang",
+    "name": "Bojongherang",
+    "district": "cianjur"
+  },
+  {
+    "id": "pamoyanan",
+    "name": "Pamoyanan",
+    "district": "cianjur"
+  },
+  {
+    "id": "sawah-gede",
+    "name": "Sawah Gede",
+    "district": "cianjur"
+  },
+  {
+    "id": "limbangan-sari",
+    "name": "Limbangan Sari",
+    "district": "cianjur"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cianjur"
+  },
+  {
+    "id": "babakankaret",
+    "name": "Babakankaret",
+    "district": "cianjur"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "anggrasmanis",
+    "name": "Anggrasmanis",
+    "district": "jenawi"
+  },
+  {
+    "id": "jenawi",
+    "name": "Jenawi",
+    "district": "jenawi"
+  },
+  {
+    "id": "trengguli",
+    "name": "Trengguli",
+    "district": "jenawi"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "jenawi"
+  },
+  {
+    "id": "balong",
+    "name": "Balong",
+    "district": "jenawi"
+  },
+  {
+    "id": "seloromo",
+    "name": "Seloromo",
+    "district": "jenawi"
+  },
+  {
+    "id": "menjing",
+    "name": "Menjing",
+    "district": "jenawi"
+  },
+  {
+    "id": "lempong",
+    "name": "Lempong",
+    "district": "jenawi"
+  }
+]

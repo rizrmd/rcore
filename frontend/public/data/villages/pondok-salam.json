@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bungur-jaya",
+    "name": "Bungur Jaya",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "pondokbungur",
+    "name": "Pondokbungur",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "galudra",
+    "name": "Galudra",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "salam-jaya",
+    "name": "Salam Jaya",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "situ",
+    "name": "Situ",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "parakansalam",
+    "name": "Parakansalam",
+    "district": "pondok-salam"
+  },
+  {
+    "id": "salam-mulya",
+    "name": "Salam Mulya",
+    "district": "pondok-salam"
+  }
+]

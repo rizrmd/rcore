@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "pengasih"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "pengasih"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "pengasih"
+  },
+  {
+    "id": "margosari",
+    "name": "Margosari",
+    "district": "pengasih"
+  },
+  {
+    "id": "pengasih",
+    "name": "Pengasih",
+    "district": "pengasih"
+  },
+  {
+    "id": "sendangsari",
+    "name": "Sendangsari",
+    "district": "pengasih"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "pengasih"
+  }
+]

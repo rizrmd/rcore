@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanah-kampung",
+    "name": "Tanah Kampung",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "kumun-debai",
+    "name": "Kumun Debai",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "sungai-penuh",
+    "name": "Sungai Penuh",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "pondok-tinggi",
+    "name": "Pondok Tinggi",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "sungai-bungkal",
+    "name": "Sungai Bungkal",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "hamparan-rawang",
+    "name": "Hamparan Rawang",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "pesisir-bukit",
+    "name": "Pesisir Bukit",
+    "regency": "kota-sungai-penuh"
+  },
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "regency": "kota-sungai-penuh"
+  }
+]

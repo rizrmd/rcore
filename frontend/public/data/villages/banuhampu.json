@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pakan-sinayan",
+    "name": "Pakan Sinayan",
+    "district": "banuhampu"
+  },
+  {
+    "id": "sungai-tanang",
+    "name": "Sungai Tanang",
+    "district": "banuhampu"
+  },
+  {
+    "id": "padang-lua",
+    "name": "Padang Lua",
+    "district": "banuhampu"
+  },
+  {
+    "id": "cingkariang",
+    "name": "Cingkariang",
+    "district": "banuhampu"
+  },
+  {
+    "id": "ladang-laweh",
+    "name": "Ladang Laweh",
+    "district": "banuhampu"
+  },
+  {
+    "id": "taluak-ampek-suku",
+    "name": "Taluak Ampek Suku",
+    "district": "banuhampu"
+  },
+  {
+    "id": "kubang-putiah",
+    "name": "Kubang Putiah",
+    "district": "banuhampu"
+  }
+]

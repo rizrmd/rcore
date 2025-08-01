@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tanjung-riau",
+    "name": "Tanjung Riau",
+    "district": "sekupang"
+  },
+  {
+    "id": "tiban-baru",
+    "name": "Tiban Baru",
+    "district": "sekupang"
+  },
+  {
+    "id": "tiban-lama",
+    "name": "Tiban Lama",
+    "district": "sekupang"
+  },
+  {
+    "id": "tiban-indah",
+    "name": "Tiban Indah",
+    "district": "sekupang"
+  },
+  {
+    "id": "patam-lestari",
+    "name": "Patam Lestari",
+    "district": "sekupang"
+  },
+  {
+    "id": "sungai-harapan",
+    "name": "Sungai Harapan",
+    "district": "sekupang"
+  },
+  {
+    "id": "tanjung-pinggir",
+    "name": "Tanjung Pinggir",
+    "district": "sekupang"
+  }
+]

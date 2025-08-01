@@ -1,0 +1,37 @@
+[
+  {
+    "id": "limpas",
+    "name": "Limpas",
+    "district": "patrol"
+  },
+  {
+    "id": "patrol",
+    "name": "Patrol",
+    "district": "patrol"
+  },
+  {
+    "id": "arjasari",
+    "name": "Arjasari",
+    "district": "patrol"
+  },
+  {
+    "id": "sukahaji",
+    "name": "Sukahaji",
+    "district": "patrol"
+  },
+  {
+    "id": "patrollor",
+    "name": "Patrollor",
+    "district": "patrol"
+  },
+  {
+    "id": "patrol-baru",
+    "name": "Patrol Baru",
+    "district": "patrol"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "patrol"
+  }
+]

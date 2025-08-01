@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mampok",
+    "name": "Mampok",
+    "district": "jemaja"
+  },
+  {
+    "id": "rewak",
+    "name": "Rewak",
+    "district": "jemaja"
+  },
+  {
+    "id": "keramut",
+    "name": "Keramut",
+    "district": "jemaja"
+  },
+  {
+    "id": "impol",
+    "name": "Impol",
+    "district": "jemaja"
+  },
+  {
+    "id": "air-biru",
+    "name": "Air Biru",
+    "district": "jemaja"
+  },
+  {
+    "id": "sunggak",
+    "name": "Sunggak",
+    "district": "jemaja"
+  },
+  {
+    "id": "batu-berapit",
+    "name": "Batu Berapit",
+    "district": "jemaja"
+  },
+  {
+    "id": "landak",
+    "name": "Landak",
+    "district": "jemaja"
+  }
+]

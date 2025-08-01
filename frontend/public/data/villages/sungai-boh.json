@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mahak-baru",
+    "name": "Mahak Baru",
+    "district": "sungai-boh"
+  },
+  {
+    "id": "dumu-mahak",
+    "name": "Dumu Mahak",
+    "district": "sungai-boh"
+  },
+  {
+    "id": "long-top",
+    "name": "Long Top",
+    "district": "sungai-boh"
+  },
+  {
+    "id": "data-baru",
+    "name": "Data Baru",
+    "district": "sungai-boh"
+  },
+  {
+    "id": "long-lebusan",
+    "name": "Long Lebusan",
+    "district": "sungai-boh"
+  },
+  {
+    "id": "agung-baru",
+    "name": "Agung Baru",
+    "district": "sungai-boh"
+  }
+]

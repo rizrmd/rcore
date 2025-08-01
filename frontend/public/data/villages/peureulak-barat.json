@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kabu",
+    "name": "Kabu",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "beuringin",
+    "name": "Beuringin",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "teumpeun",
+    "name": "Teumpeun",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "kebun-teumpeun",
+    "name": "Kebun Teumpeun",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "paya-seungat",
+    "name": "Paya Seungat",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "tanjung-tualang",
+    "name": "Tanjung Tualang",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "beusa-seberang",
+    "name": "Beusa Seberang",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "paya-gajah",
+    "name": "Paya Gajah",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "mon-geudong",
+    "name": "Mon Geudong",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "alue-bu-tuha",
+    "name": "Alue Bu Tuha",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "alue-bu-jalan",
+    "name": "Alue Bu Jalan",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "paya-biek",
+    "name": "Paya Biek",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "beusa-baroh",
+    "name": "Beusa Baroh",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "alue-bu-tunong",
+    "name": "Alue Bu Tunong",
+    "district": "peureulak-barat"
+  },
+  {
+    "id": "alue-bu-jalan-baroh",
+    "name": "Alue Bu Jalan Baroh",
+    "district": "peureulak-barat"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wama",
+    "name": "Wama",
+    "district": "wakuo"
+  },
+  {
+    "id": "kwarini",
+    "name": "Kwarini",
+    "district": "wakuo"
+  },
+  {
+    "id": "weyage",
+    "name": "Weyage",
+    "district": "wakuo"
+  },
+  {
+    "id": "wonitu",
+    "name": "Wonitu",
+    "district": "wakuo"
+  },
+  {
+    "id": "golena",
+    "name": "Golena",
+    "district": "wakuo"
+  },
+  {
+    "id": "korlo",
+    "name": "Korlo",
+    "district": "wakuo"
+  },
+  {
+    "id": "gunalo",
+    "name": "Gunalo",
+    "district": "wakuo"
+  },
+  {
+    "id": "timer",
+    "name": "Timer",
+    "district": "wakuo"
+  },
+  {
+    "id": "nowo",
+    "name": "Nowo",
+    "district": "wakuo"
+  },
+  {
+    "id": "gulak",
+    "name": "Gulak",
+    "district": "wakuo"
+  },
+  {
+    "id": "towolome",
+    "name": "Towolome",
+    "district": "wakuo"
+  }
+]

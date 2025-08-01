@@ -1,0 +1,297 @@
+[
+  {
+    "id": "candi-retno",
+    "name": "Candi Retno",
+    "district": "pagelaran"
+  },
+  {
+    "id": "tanjung-dalam",
+    "name": "Tanjung Dalam",
+    "district": "pagelaran"
+  },
+  {
+    "id": "way-ngisom",
+    "name": "Way Ngisom",
+    "district": "pagelaran"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "pagelaran"
+  },
+  {
+    "id": "gumuk-mas",
+    "name": "Gumuk Mas",
+    "district": "pagelaran"
+  },
+  {
+    "id": "patoman",
+    "name": "Patoman",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sukawangi",
+    "name": "Sukawangi",
+    "district": "pagelaran"
+  },
+  {
+    "id": "lugusari",
+    "name": "Lugusari",
+    "district": "pagelaran"
+  },
+  {
+    "id": "panutan",
+    "name": "Panutan",
+    "district": "pagelaran"
+  },
+  {
+    "id": "bumi-ratu",
+    "name": "Bumi Ratu",
+    "district": "pagelaran"
+  },
+  {
+    "id": "gemah-ripah",
+    "name": "Gemah Ripah",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pamenang",
+    "name": "Pamenang",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pasir-ukir",
+    "name": "Pasir Ukir",
+    "district": "pagelaran"
+  },
+  {
+    "id": "gumuk-rejo",
+    "name": "Gumuk Rejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "puji-harjo",
+    "name": "Puji Harjo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "padang-rejo",
+    "name": "Padang Rejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "ganjaran",
+    "name": "Ganjaran",
+    "district": "pagelaran"
+  },
+  {
+    "id": "bumi-rejo",
+    "name": "Bumi Rejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "kertaraharja",
+    "name": "Kertaraharja",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "pagelaran"
+  },
+  {
+    "id": "padamaju",
+    "name": "Padamaju",
+    "district": "pagelaran"
+  },
+  {
+    "id": "buniwangi",
+    "name": "Buniwangi",
+    "district": "pagelaran"
+  },
+  {
+    "id": "bunijaya",
+    "name": "Bunijaya",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pangadegan",
+    "name": "Pangadegan",
+    "district": "pagelaran"
+  },
+  {
+    "id": "situhiang",
+    "name": "Situhiang",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pasirbaru",
+    "name": "Pasirbaru",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sindangkerta",
+    "name": "Sindangkerta",
+    "district": "pagelaran"
+  },
+  {
+    "id": "karangharja",
+    "name": "Karangharja",
+    "district": "pagelaran"
+  },
+  {
+    "id": "selagedang",
+    "name": "Selagedang",
+    "district": "pagelaran"
+  },
+  {
+    "id": "gelar-anyar",
+    "name": "Gelar Anyar",
+    "district": "pagelaran"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "pagelaran"
+  },
+  {
+    "id": "kanigoro",
+    "name": "Kanigoro",
+    "district": "pagelaran"
+  },
+  {
+    "id": "balearjo",
+    "name": "Balearjo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "kademangan",
+    "name": "Kademangan",
+    "district": "pagelaran"
+  },
+  {
+    "id": "suwaru",
+    "name": "Suwaru",
+    "district": "pagelaran"
+  },
+  {
+    "id": "clumprit",
+    "name": "Clumprit",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "pagelaran"
+  },
+  {
+    "id": "banjarejo",
+    "name": "Banjarejo",
+    "district": "pagelaran"
+  },
+  {
+    "id": "brongkal",
+    "name": "Brongkal",
+    "district": "pagelaran"
+  },
+  {
+    "id": "karangsuko",
+    "name": "Karangsuko",
+    "district": "pagelaran"
+  },
+  {
+    "id": "tegalpapak",
+    "name": "Tegalpapak",
+    "district": "pagelaran"
+  },
+  {
+    "id": "margagiri",
+    "name": "Margagiri",
+    "district": "pagelaran"
+  },
+  {
+    "id": "bama",
+    "name": "Bama",
+    "district": "pagelaran"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sukadame",
+    "name": "Sukadame",
+    "district": "pagelaran"
+  },
+  {
+    "id": "bulagor",
+    "name": "Bulagor",
+    "district": "pagelaran"
+  },
+  {
+    "id": "surakarta",
+    "name": "Surakarta",
+    "district": "pagelaran"
+  },
+  {
+    "id": "harapankarya",
+    "name": "Harapankarya",
+    "district": "pagelaran"
+  },
+  {
+    "id": "montor",
+    "name": "Montor",
+    "district": "pagelaran"
+  },
+  {
+    "id": "kartasana",
+    "name": "Kartasana",
+    "district": "pagelaran"
+  },
+  {
+    "id": "senangsari",
+    "name": "Senangsari",
+    "district": "pagelaran"
+  },
+  {
+    "id": "sindanglaya",
+    "name": "Sindanglaya",
+    "district": "pagelaran"
+  },
+  {
+    "id": "margasana",
+    "name": "Margasana",
+    "district": "pagelaran"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "noebesi",
+    "name": "Noebesi",
+    "district": "nunbena"
+  },
+  {
+    "id": "liliana",
+    "name": "Liliana",
+    "district": "nunbena"
+  },
+  {
+    "id": "nunbena",
+    "name": "Nunbena",
+    "district": "nunbena"
+  },
+  {
+    "id": "taneotop",
+    "name": "Taneotop",
+    "district": "nunbena"
+  },
+  {
+    "id": "fetomone",
+    "name": "Fetomone",
+    "district": "nunbena"
+  }
+]

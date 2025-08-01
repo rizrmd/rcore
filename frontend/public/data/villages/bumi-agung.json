@@ -1,0 +1,87 @@
+[
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "donomulyo",
+    "name": "Donomulyo",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "nyampir",
+    "name": "Nyampir",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "bumi-tinggi",
+    "name": "Bumi Tinggi",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "lehan",
+    "name": "Lehan",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "catur-swako",
+    "name": "Catur Swako",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "mulyo-asri",
+    "name": "Mulyo Asri",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "tanjung-dalom",
+    "name": "Tanjung Dalom",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "karangan",
+    "name": "Karangan",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "mulyo-harjo",
+    "name": "Mulyo Harjo",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "wonoharjo",
+    "name": "Wonoharjo",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "pisang-baru",
+    "name": "Pisang Baru",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "srinumpi",
+    "name": "Srinumpi",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "pisang-indah",
+    "name": "Pisang Indah",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "bumi-agung"
+  },
+  {
+    "id": "bumi-say-agung",
+    "name": "Bumi Say Agung",
+    "district": "bumi-agung"
+  }
+]

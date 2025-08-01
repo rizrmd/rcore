@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tangkup",
+    "name": "Tangkup",
+    "district": "sidemen"
+  },
+  {
+    "id": "talibeng",
+    "name": "Talibeng",
+    "district": "sidemen"
+  },
+  {
+    "id": "telaga-tawang",
+    "name": "Telaga Tawang",
+    "district": "sidemen"
+  },
+  {
+    "id": "sidemen",
+    "name": "Sidemen",
+    "district": "sidemen"
+  },
+  {
+    "id": "sindu-wati",
+    "name": "Sindu Wati",
+    "district": "sidemen"
+  },
+  {
+    "id": "sangkan-gunung",
+    "name": "Sangkan Gunung",
+    "district": "sidemen"
+  },
+  {
+    "id": "loka-sari",
+    "name": "Loka Sari",
+    "district": "sidemen"
+  },
+  {
+    "id": "kertha-buana",
+    "name": "Kertha Buana",
+    "district": "sidemen"
+  },
+  {
+    "id": "tri-eka-buana",
+    "name": "Tri Eka Buana",
+    "district": "sidemen"
+  },
+  {
+    "id": "wisma-kerta",
+    "name": "Wisma Kerta",
+    "district": "sidemen"
+  }
+]

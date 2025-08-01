@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sirnabaya",
+    "name": "Sirnabaya",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "pinayungan",
+    "name": "Pinayungan",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "telukjambe",
+    "name": "Telukjambe",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "puseurjaya",
+    "name": "Puseurjaya",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "sukaluyu",
+    "name": "Sukaluyu",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "sukaharja",
+    "name": "Sukaharja",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "wadas",
+    "name": "Wadas",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "telukjambe-timur"
+  },
+  {
+    "id": "purwadana",
+    "name": "Purwadana",
+    "district": "telukjambe-timur"
+  }
+]

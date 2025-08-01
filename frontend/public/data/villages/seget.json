@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kasim",
+    "name": "Kasim",
+    "district": "seget"
+  },
+  {
+    "id": "malabam",
+    "name": "Malabam",
+    "district": "seget"
+  },
+  {
+    "id": "kasimle",
+    "name": "Kasimle",
+    "district": "seget"
+  },
+  {
+    "id": "wawenagu",
+    "name": "Wawenagu",
+    "district": "seget"
+  },
+  {
+    "id": "klayas",
+    "name": "Klayas",
+    "district": "seget"
+  },
+  {
+    "id": "wasingsan",
+    "name": "Wasingsan",
+    "district": "seget"
+  },
+  {
+    "id": "wayangkede",
+    "name": "Wayangkede",
+    "district": "seget"
+  }
+]

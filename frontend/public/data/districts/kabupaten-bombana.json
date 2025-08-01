@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kabaena",
+    "name": "Kabaena",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kabaena-utara",
+    "name": "Kabaena Utara",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kabaena-selatan",
+    "name": "Kabaena Selatan",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kabaena-barat",
+    "name": "Kabaena Barat",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kabaena-timur",
+    "name": "Kabaena Timur",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kabaena-tengah",
+    "name": "Kabaena Tengah",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "rumbia",
+    "name": "Rumbia",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "mata-oleo",
+    "name": "Mata Oleo",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "kep-masaloka-raya",
+    "name": "Kep. Masaloka Raya",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "rumbia-tengah",
+    "name": "Rumbia Tengah",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "rarowatu",
+    "name": "Rarowatu",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "rarowatu-utara",
+    "name": "Rarowatu Utara",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "mata-usu",
+    "name": "Mata Usu",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "lantari-jaya",
+    "name": "Lantari Jaya",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-timur",
+    "name": "Poleang Timur",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-utara",
+    "name": "Poleang Utara",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-selatan",
+    "name": "Poleang Selatan",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-tenggara",
+    "name": "Poleang Tenggara",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang",
+    "name": "Poleang",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-barat",
+    "name": "Poleang Barat",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "tontonunu",
+    "name": "Tontonunu",
+    "regency": "kabupaten-bombana"
+  },
+  {
+    "id": "poleang-tengah",
+    "name": "Poleang Tengah",
+    "regency": "kabupaten-bombana"
+  }
+]

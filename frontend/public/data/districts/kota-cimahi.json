@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cimahi-selatan",
+    "name": "Cimahi Selatan",
+    "regency": "kota-cimahi"
+  },
+  {
+    "id": "cimahi-tengah",
+    "name": "Cimahi Tengah",
+    "regency": "kota-cimahi"
+  },
+  {
+    "id": "cimahi-utara",
+    "name": "Cimahi Utara",
+    "regency": "kota-cimahi"
+  }
+]

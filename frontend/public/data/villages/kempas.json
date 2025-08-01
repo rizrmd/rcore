@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bayas-jaya",
+    "name": "Bayas Jaya",
+    "district": "kempas"
+  },
+  {
+    "id": "pekan-tua",
+    "name": "Pekan Tua",
+    "district": "kempas"
+  },
+  {
+    "id": "kempas-jaya",
+    "name": "Kempas Jaya",
+    "district": "kempas"
+  },
+  {
+    "id": "sungai-ara",
+    "name": "Sungai Ara",
+    "district": "kempas"
+  },
+  {
+    "id": "harapan-tani",
+    "name": "Harapan Tani",
+    "district": "kempas"
+  },
+  {
+    "id": "karya-tani",
+    "name": "Karya Tani",
+    "district": "kempas"
+  },
+  {
+    "id": "rumbai-jaya",
+    "name": "Rumbai Jaya",
+    "district": "kempas"
+  },
+  {
+    "id": "sungai-gantang",
+    "name": "Sungai Gantang",
+    "district": "kempas"
+  },
+  {
+    "id": "sungai-rabit",
+    "name": "Sungai Rabit",
+    "district": "kempas"
+  },
+  {
+    "id": "kerta-jaya",
+    "name": "Kerta Jaya",
+    "district": "kempas"
+  },
+  {
+    "id": "kulim-jaya",
+    "name": "Kulim Jaya",
+    "district": "kempas"
+  },
+  {
+    "id": "danau-pulai-indah",
+    "name": "Danau Pulai Indah",
+    "district": "kempas"
+  }
+]

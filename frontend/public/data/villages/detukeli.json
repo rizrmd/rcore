@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wolomuku",
+    "name": "Wolomuku",
+    "district": "detukeli"
+  },
+  {
+    "id": "detumbewa",
+    "name": "Detumbewa",
+    "district": "detukeli"
+  },
+  {
+    "id": "nggesa",
+    "name": "Nggesa",
+    "district": "detukeli"
+  },
+  {
+    "id": "detukeli",
+    "name": "Detukeli",
+    "district": "detukeli"
+  },
+  {
+    "id": "kebesani",
+    "name": "Kebesani",
+    "district": "detukeli"
+  },
+  {
+    "id": "kanganara",
+    "name": "Kanganara",
+    "district": "detukeli"
+  },
+  {
+    "id": "nida",
+    "name": "Nida",
+    "district": "detukeli"
+  },
+  {
+    "id": "watunggere",
+    "name": "Watunggere",
+    "district": "detukeli"
+  },
+  {
+    "id": "maurole-selatan",
+    "name": "Maurole Selatan",
+    "district": "detukeli"
+  },
+  {
+    "id": "nggesa-biri",
+    "name": "Nggesa Biri",
+    "district": "detukeli"
+  },
+  {
+    "id": "watunggere-marilonga",
+    "name": "Watunggere Marilonga",
+    "district": "detukeli"
+  },
+  {
+    "id": "jeo-dua",
+    "name": "Jeo Dua",
+    "district": "detukeli"
+  }
+]

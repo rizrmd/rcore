@@ -1,0 +1,72 @@
+[
+  {
+    "id": "krikilan",
+    "name": "Krikilan",
+    "district": "driyorejo"
+  },
+  {
+    "id": "driyorejo",
+    "name": "Driyorejo",
+    "district": "driyorejo"
+  },
+  {
+    "id": "cangkir",
+    "name": "Cangkir",
+    "district": "driyorejo"
+  },
+  {
+    "id": "bambe",
+    "name": "Bambe",
+    "district": "driyorejo"
+  },
+  {
+    "id": "tenaru",
+    "name": "Tenaru",
+    "district": "driyorejo"
+  },
+  {
+    "id": "petiken",
+    "name": "Petiken",
+    "district": "driyorejo"
+  },
+  {
+    "id": "kesambenwetan",
+    "name": "Kesambenwetan",
+    "district": "driyorejo"
+  },
+  {
+    "id": "tanjungan",
+    "name": "Tanjungan",
+    "district": "driyorejo"
+  },
+  {
+    "id": "banjaran",
+    "name": "Banjaran",
+    "district": "driyorejo"
+  },
+  {
+    "id": "karangandong",
+    "name": "Karangandong",
+    "district": "driyorejo"
+  },
+  {
+    "id": "mojosarirejo",
+    "name": "Mojosarirejo",
+    "district": "driyorejo"
+  },
+  {
+    "id": "wedoroanom",
+    "name": "Wedoroanom",
+    "district": "driyorejo"
+  },
+  {
+    "id": "randegansari",
+    "name": "Randegansari",
+    "district": "driyorejo"
+  },
+  {
+    "id": "gadung",
+    "name": "Gadung",
+    "district": "driyorejo"
+  }
+]

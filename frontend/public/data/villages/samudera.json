@@ -1,0 +1,202 @@
+[
+  {
+    "id": "kitou",
+    "name": "Kitou",
+    "district": "samudera"
+  },
+  {
+    "id": "paya-terbang",
+    "name": "Paya Terbang",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-mesjid",
+    "name": "Tanjong Mesjid",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-awe",
+    "name": "Tanjong Awe",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-rengkam",
+    "name": "Tanjong Rengkam",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-hagu",
+    "name": "Tanjong Hagu",
+    "district": "samudera"
+  },
+  {
+    "id": "madan",
+    "name": "Madan",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-baroh",
+    "name": "Tanjong Baroh",
+    "district": "samudera"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "samudera"
+  },
+  {
+    "id": "tanjong-kleng",
+    "name": "Tanjong Kleng",
+    "district": "samudera"
+  },
+  {
+    "id": "krueng-baro-lgh",
+    "name": "Krueng Baro Lgh",
+    "district": "samudera"
+  },
+  {
+    "id": "teupin-beulangan",
+    "name": "Teupin Beulangan",
+    "district": "samudera"
+  },
+  {
+    "id": "teupin-ara",
+    "name": "Teupin Ara",
+    "district": "samudera"
+  },
+  {
+    "id": "pusong",
+    "name": "Pusong",
+    "district": "samudera"
+  },
+  {
+    "id": "mancang",
+    "name": "Mancang",
+    "district": "samudera"
+  },
+  {
+    "id": "blang-kabu",
+    "name": "Blang Kabu",
+    "district": "samudera"
+  },
+  {
+    "id": "keude-geudong",
+    "name": "Keude Geudong",
+    "district": "samudera"
+  },
+  {
+    "id": "blang-peuria",
+    "name": "Blang Peuria",
+    "district": "samudera"
+  },
+  {
+    "id": "meunasah-asan",
+    "name": "Meunasah Asan",
+    "district": "samudera"
+  },
+  {
+    "id": "murong",
+    "name": "Murong",
+    "district": "samudera"
+  },
+  {
+    "id": "pie",
+    "name": "Pie",
+    "district": "samudera"
+  },
+  {
+    "id": "krueng-mate",
+    "name": "Krueng Mate",
+    "district": "samudera"
+  },
+  {
+    "id": "beuringen",
+    "name": "Beuringen",
+    "district": "samudera"
+  },
+  {
+    "id": "kuta-krueng",
+    "name": "Kuta Krueng",
+    "district": "samudera"
+  },
+  {
+    "id": "kuta-glumpang",
+    "name": "Kuta Glumpang",
+    "district": "samudera"
+  },
+  {
+    "id": "meucat",
+    "name": "Meucat",
+    "district": "samudera"
+  },
+  {
+    "id": "krueng-baro-blang-me",
+    "name": "Krueng Baro Blang Me",
+    "district": "samudera"
+  },
+  {
+    "id": "ujong",
+    "name": "Ujong",
+    "district": "samudera"
+  },
+  {
+    "id": "mesjid",
+    "name": "Mesjid",
+    "district": "samudera"
+  },
+  {
+    "id": "teungoh",
+    "name": "Teungoh",
+    "district": "samudera"
+  },
+  {
+    "id": "puuk",
+    "name": "Puuk",
+    "district": "samudera"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "samudera"
+  },
+  {
+    "id": "laga-baro",
+    "name": "Laga Baro",
+    "district": "samudera"
+  },
+  {
+    "id": "matang-tunong",
+    "name": "Matang Tunong",
+    "district": "samudera"
+  },
+  {
+    "id": "keude-blang-me",
+    "name": "Keude Blang Me",
+    "district": "samudera"
+  },
+  {
+    "id": "matang-puntong",
+    "name": "Matang Puntong",
+    "district": "samudera"
+  },
+  {
+    "id": "lancang",
+    "name": "Lancang",
+    "district": "samudera"
+  },
+  {
+    "id": "matang-ulim",
+    "name": "Matang Ulim",
+    "district": "samudera"
+  },
+  {
+    "id": "sawang",
+    "name": "Sawang",
+    "district": "samudera"
+  },
+  {
+    "id": "blang-nibong",
+    "name": "Blang Nibong",
+    "district": "samudera"
+  }
+]

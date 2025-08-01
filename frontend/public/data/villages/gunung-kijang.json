@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gunung-kijang",
+    "name": "Gunung Kijang",
+    "district": "gunung-kijang"
+  },
+  {
+    "id": "kawal",
+    "name": "Kawal",
+    "district": "gunung-kijang"
+  },
+  {
+    "id": "teluk-bakau",
+    "name": "Teluk Bakau",
+    "district": "gunung-kijang"
+  },
+  {
+    "id": "malang-rapat",
+    "name": "Malang Rapat",
+    "district": "gunung-kijang"
+  }
+]

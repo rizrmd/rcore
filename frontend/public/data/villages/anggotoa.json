@@ -1,0 +1,32 @@
+[
+  {
+    "id": "karandu",
+    "name": "Karandu",
+    "district": "anggotoa"
+  },
+  {
+    "id": "nario-indah",
+    "name": "Nario Indah",
+    "district": "anggotoa"
+  },
+  {
+    "id": "korumba",
+    "name": "Korumba",
+    "district": "anggotoa"
+  },
+  {
+    "id": "analahumbuti",
+    "name": "Analahumbuti",
+    "district": "anggotoa"
+  },
+  {
+    "id": "anggotoa",
+    "name": "Anggotoa",
+    "district": "anggotoa"
+  },
+  {
+    "id": "kukuluri",
+    "name": "Kukuluri",
+    "district": "anggotoa"
+  }
+]

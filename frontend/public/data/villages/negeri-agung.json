@@ -1,0 +1,97 @@
+[
+  {
+    "id": "gedung-jaya",
+    "name": "Gedung Jaya",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "way-limau",
+    "name": "Way Limau",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "kali-papan",
+    "name": "Kali Papan",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "bandar-dalam",
+    "name": "Bandar Dalam",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "negeri-agung",
+    "name": "Negeri Agung",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "pulau-batu",
+    "name": "Pulau Batu",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "karya-agung",
+    "name": "Karya Agung",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "penengahan",
+    "name": "Penengahan",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "mulya-sari",
+    "name": "Mulya Sari",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "tanjung-rejo",
+    "name": "Tanjung Rejo",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "sungsang",
+    "name": "Sungsang",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "kotabumi-way-kanan",
+    "name": "Kotabumi Way Kanan",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "gedung-menang",
+    "name": "Gedung Menang",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "gedung-harapan",
+    "name": "Gedung Harapan",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "rejo-sari",
+    "name": "Rejo Sari",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "bandar-kasih",
+    "name": "Bandar Kasih",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "sumber-rejeki",
+    "name": "Sumber Rejeki",
+    "district": "negeri-agung"
+  },
+  {
+    "id": "mulya-agung",
+    "name": "Mulya Agung",
+    "district": "negeri-agung"
+  }
+]

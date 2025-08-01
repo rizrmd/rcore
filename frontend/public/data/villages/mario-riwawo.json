@@ -1,0 +1,67 @@
+[
+  {
+    "id": "gattareng",
+    "name": "Gattareng",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "mario-riaja",
+    "name": "Mario Riaja",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "watu",
+    "name": "Watu",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "mario-rittengnga",
+    "name": "Mario Rittengnga",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "goarie",
+    "name": "Goarie",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "barae",
+    "name": "Barae",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "mario-rilau",
+    "name": "Mario Rilau",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "tettikengrarae",
+    "name": "Tettikengrarae",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "labessi",
+    "name": "Labessi",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "congko",
+    "name": "Congko",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "watutoa",
+    "name": "Watutoa",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "gattareng-toa",
+    "name": "Gattareng Toa",
+    "district": "mario-riwawo"
+  },
+  {
+    "id": "soga",
+    "name": "Soga",
+    "district": "mario-riwawo"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kuala-sempang",
+    "name": "Kuala Sempang",
+    "district": "seri-kuala-lobam"
+  },
+  {
+    "id": "teluk-sasah",
+    "name": "Teluk Sasah",
+    "district": "seri-kuala-lobam"
+  },
+  {
+    "id": "teluk-lobam",
+    "name": "Teluk Lobam",
+    "district": "seri-kuala-lobam"
+  },
+  {
+    "id": "tanjung-permai",
+    "name": "Tanjung Permai",
+    "district": "seri-kuala-lobam"
+  }
+]

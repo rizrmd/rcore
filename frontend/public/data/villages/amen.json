@@ -1,0 +1,52 @@
+[
+  {
+    "id": "nangai-tayau",
+    "name": "Nangai Tayau",
+    "district": "amen"
+  },
+  {
+    "id": "nangai-tayau-i",
+    "name": "Nangai Tayau I",
+    "district": "amen"
+  },
+  {
+    "id": "pyang-mbik",
+    "name": "Pyang Mbik",
+    "district": "amen"
+  },
+  {
+    "id": "sukau-mergo",
+    "name": "Sukau Mergo",
+    "district": "amen"
+  },
+  {
+    "id": "sukau-rajo",
+    "name": "Sukau Rajo",
+    "district": "amen"
+  },
+  {
+    "id": "talang-bunut",
+    "name": "Talang Bunut",
+    "district": "amen"
+  },
+  {
+    "id": "selebar-jaya",
+    "name": "Selebar Jaya",
+    "district": "amen"
+  },
+  {
+    "id": "garut",
+    "name": "Garut",
+    "district": "amen"
+  },
+  {
+    "id": "amen",
+    "name": "Amen",
+    "district": "amen"
+  },
+  {
+    "id": "sungai-gerong",
+    "name": "Sungai Gerong",
+    "district": "amen"
+  }
+]

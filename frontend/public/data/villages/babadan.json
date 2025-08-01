@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kertosari",
+    "name": "Kertosari",
+    "district": "babadan"
+  },
+  {
+    "id": "cekok",
+    "name": "Cekok",
+    "district": "babadan"
+  },
+  {
+    "id": "patihan-wetan",
+    "name": "Patihan Wetan",
+    "district": "babadan"
+  },
+  {
+    "id": "kadipaten",
+    "name": "Kadipaten",
+    "district": "babadan"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "district": "babadan"
+  },
+  {
+    "id": "gupolo",
+    "name": "Gupolo",
+    "district": "babadan"
+  },
+  {
+    "id": "polorejo",
+    "name": "Polorejo",
+    "district": "babadan"
+  },
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "babadan"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "babadan"
+  },
+  {
+    "id": "lembah",
+    "name": "Lembah",
+    "district": "babadan"
+  },
+  {
+    "id": "pondok",
+    "name": "Pondok",
+    "district": "babadan"
+  },
+  {
+    "id": "babadan",
+    "name": "Babadan",
+    "district": "babadan"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "babadan"
+  },
+  {
+    "id": "trisono",
+    "name": "Trisono",
+    "district": "babadan"
+  }
+]

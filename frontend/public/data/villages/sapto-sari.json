@@ -1,0 +1,32 @@
+[
+  {
+    "id": "krambil-sawit",
+    "name": "Krambil Sawit",
+    "district": "sapto-sari"
+  },
+  {
+    "id": "kanigoro",
+    "name": "Kanigoro",
+    "district": "sapto-sari"
+  },
+  {
+    "id": "planjan",
+    "name": "Planjan",
+    "district": "sapto-sari"
+  },
+  {
+    "id": "monggol",
+    "name": "Monggol",
+    "district": "sapto-sari"
+  },
+  {
+    "id": "nglora",
+    "name": "Nglora",
+    "district": "sapto-sari"
+  },
+  {
+    "id": "jetis",
+    "name": "Jetis",
+    "district": "sapto-sari"
+  }
+]

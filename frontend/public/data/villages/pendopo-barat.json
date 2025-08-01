@@ -1,0 +1,52 @@
+[
+  {
+    "id": "muara-lintang-lama",
+    "name": "Muara Lintang Lama",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "muara-lintang-baru",
+    "name": "Muara Lintang Baru",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "tebat-payang",
+    "name": "Tebat Payang",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "karang-caya",
+    "name": "Karang Caya",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "padang-bindu",
+    "name": "Padang Bindu",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "lingge",
+    "name": "Lingge",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "rantau-dodor",
+    "name": "Rantau Dodor",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "kungkilan",
+    "name": "Kungkilan",
+    "district": "pendopo-barat"
+  },
+  {
+    "id": "air-kandis",
+    "name": "Air Kandis",
+    "district": "pendopo-barat"
+  }
+]

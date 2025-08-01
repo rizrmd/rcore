@@ -1,0 +1,82 @@
+[
+  {
+    "id": "podol",
+    "name": "Podol",
+    "district": "tabaru"
+  },
+  {
+    "id": "tengowango",
+    "name": "Tengowango",
+    "district": "tabaru"
+  },
+  {
+    "id": "togowo",
+    "name": "Togowo",
+    "district": "tabaru"
+  },
+  {
+    "id": "duono",
+    "name": "Duono",
+    "district": "tabaru"
+  },
+  {
+    "id": "goin",
+    "name": "Goin",
+    "district": "tabaru"
+  },
+  {
+    "id": "sangaji-nyeku",
+    "name": "Sangaji Nyeku",
+    "district": "tabaru"
+  },
+  {
+    "id": "tuguis",
+    "name": "Tuguis",
+    "district": "tabaru"
+  },
+  {
+    "id": "todoke",
+    "name": "Todoke",
+    "district": "tabaru"
+  },
+  {
+    "id": "togoreba-sungi",
+    "name": "Togoreba Sungi",
+    "district": "tabaru"
+  },
+  {
+    "id": "borona",
+    "name": "Borona",
+    "district": "tabaru"
+  },
+  {
+    "id": "tolisaor",
+    "name": "Tolisaor",
+    "district": "tabaru"
+  },
+  {
+    "id": "pasalulu",
+    "name": "Pasalulu",
+    "district": "tabaru"
+  },
+  {
+    "id": "togoreba-tua",
+    "name": "Togoreba Tua",
+    "district": "tabaru"
+  },
+  {
+    "id": "tukuoko",
+    "name": "Tukuoko",
+    "district": "tabaru"
+  },
+  {
+    "id": "soasangaji",
+    "name": "Soasangaji",
+    "district": "tabaru"
+  },
+  {
+    "id": "aru-jaya",
+    "name": "Aru Jaya",
+    "district": "tabaru"
+  }
+]

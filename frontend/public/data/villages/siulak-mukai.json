@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mukai-hilir",
+    "name": "Mukai Hilir",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "sungai-langkap",
+    "name": "Sungai Langkap",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "sungai-kuning",
+    "name": "Sungai Kuning",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "pasir-jaya",
+    "name": "Pasir Jaya",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "mukai-pintu",
+    "name": "Mukai Pintu",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "mukai-tengah",
+    "name": "Mukai Tengah",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "mukai-mudik",
+    "name": "Mukai Mudik",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "senimpik",
+    "name": "Senimpik",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "mukai-tinggi",
+    "name": "Mukai Tinggi",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "lubuk-tabun",
+    "name": "Lubuk Tabun",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "mukai-seberang",
+    "name": "Mukai Seberang",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "talang-tinggi",
+    "name": "Talang Tinggi",
+    "district": "siulak-mukai"
+  },
+  {
+    "id": "koto-lua",
+    "name": "Koto Lua",
+    "district": "siulak-mukai"
+  }
+]

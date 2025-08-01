@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kaduara-timur",
+    "name": "Kaduara Timur",
+    "district": "pragaan"
+  },
+  {
+    "id": "sendang",
+    "name": "Sendang",
+    "district": "pragaan"
+  },
+  {
+    "id": "rombasan",
+    "name": "Rombasan",
+    "district": "pragaan"
+  },
+  {
+    "id": "sentol-laok",
+    "name": "Sentol Laok",
+    "district": "pragaan"
+  },
+  {
+    "id": "larangan-pereng",
+    "name": "Larangan Pereng",
+    "district": "pragaan"
+  },
+  {
+    "id": "sentol-daya",
+    "name": "Sentol Daya",
+    "district": "pragaan"
+  },
+  {
+    "id": "pakamban-daya",
+    "name": "Pakamban Daya",
+    "district": "pragaan"
+  },
+  {
+    "id": "pakamban-laok",
+    "name": "Pakamban Laok",
+    "district": "pragaan"
+  },
+  {
+    "id": "jaddung",
+    "name": "Jaddung",
+    "district": "pragaan"
+  },
+  {
+    "id": "pragaan-laok",
+    "name": "Pragaan Laok",
+    "district": "pragaan"
+  },
+  {
+    "id": "pragaan-daya",
+    "name": "Pragaan Daya",
+    "district": "pragaan"
+  },
+  {
+    "id": "prenduan",
+    "name": "Prenduan",
+    "district": "pragaan"
+  },
+  {
+    "id": "aengpanas",
+    "name": "Aengpanas",
+    "district": "pragaan"
+  },
+  {
+    "id": "karduluk",
+    "name": "Karduluk",
+    "district": "pragaan"
+  }
+]

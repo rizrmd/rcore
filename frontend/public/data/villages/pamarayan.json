@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wirana",
+    "name": "Wirana",
+    "district": "pamarayan"
+  },
+  {
+    "id": "sangiang",
+    "name": "Sangiang",
+    "district": "pamarayan"
+  },
+  {
+    "id": "damping",
+    "name": "Damping",
+    "district": "pamarayan"
+  },
+  {
+    "id": "kebon-cau",
+    "name": "Kebon Cau",
+    "district": "pamarayan"
+  },
+  {
+    "id": "pudar",
+    "name": "Pudar",
+    "district": "pamarayan"
+  },
+  {
+    "id": "binong",
+    "name": "Binong",
+    "district": "pamarayan"
+  },
+  {
+    "id": "pamarayan",
+    "name": "Pamarayan",
+    "district": "pamarayan"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "pamarayan"
+  },
+  {
+    "id": "pasirlimus",
+    "name": "Pasirlimus",
+    "district": "pamarayan"
+  },
+  {
+    "id": "pasir-kembang",
+    "name": "Pasir Kembang",
+    "district": "pamarayan"
+  }
+]

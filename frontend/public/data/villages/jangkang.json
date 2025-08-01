@@ -1,0 +1,57 @@
+[
+  {
+    "id": "terati",
+    "name": "Terati",
+    "district": "jangkang"
+  },
+  {
+    "id": "selampung",
+    "name": "Selampung",
+    "district": "jangkang"
+  },
+  {
+    "id": "sape",
+    "name": "Sape",
+    "district": "jangkang"
+  },
+  {
+    "id": "semirau",
+    "name": "Semirau",
+    "district": "jangkang"
+  },
+  {
+    "id": "balai-sebut",
+    "name": "Balai Sebut",
+    "district": "jangkang"
+  },
+  {
+    "id": "semombat",
+    "name": "Semombat",
+    "district": "jangkang"
+  },
+  {
+    "id": "empiyang",
+    "name": "Empiyang",
+    "district": "jangkang"
+  },
+  {
+    "id": "jangkang",
+    "name": "Jangkang",
+    "district": "jangkang"
+  },
+  {
+    "id": "tanggung",
+    "name": "Tanggung",
+    "district": "jangkang"
+  },
+  {
+    "id": "pisang",
+    "name": "Pisang",
+    "district": "jangkang"
+  },
+  {
+    "id": "ketori",
+    "name": "Ketori",
+    "district": "jangkang"
+  }
+]

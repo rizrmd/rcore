@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ninugagas",
+    "name": "Ninugagas",
+    "district": "kobakma"
+  },
+  {
+    "id": "anduang",
+    "name": "Anduang",
+    "district": "kobakma"
+  },
+  {
+    "id": "seralema",
+    "name": "Seralema",
+    "district": "kobakma"
+  },
+  {
+    "id": "boroges",
+    "name": "Boroges",
+    "district": "kobakma"
+  },
+  {
+    "id": "kobakma",
+    "name": "Kobakma",
+    "district": "kobakma"
+  },
+  {
+    "id": "guawage",
+    "name": "Guawage",
+    "district": "kobakma"
+  },
+  {
+    "id": "luarima",
+    "name": "Luarima",
+    "district": "kobakma"
+  },
+  {
+    "id": "keniwa",
+    "name": "Keniwa",
+    "district": "kobakma"
+  },
+  {
+    "id": "baliklabur",
+    "name": "Baliklabur",
+    "district": "kobakma"
+  },
+  {
+    "id": "yagalim",
+    "name": "Yagalim",
+    "district": "kobakma"
+  },
+  {
+    "id": "samabegulik",
+    "name": "Samabegulik",
+    "district": "kobakma"
+  },
+  {
+    "id": "wiyugobak",
+    "name": "Wiyugobak",
+    "district": "kobakma"
+  },
+  {
+    "id": "moga",
+    "name": "Moga",
+    "district": "kobakma"
+  },
+  {
+    "id": "dokle",
+    "name": "Dokle",
+    "district": "kobakma"
+  }
+]

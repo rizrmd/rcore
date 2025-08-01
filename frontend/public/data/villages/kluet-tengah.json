@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jambo-papan",
+    "name": "Jambo Papan",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "koto-indarung",
+    "name": "Koto Indarung",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "siurai-urai",
+    "name": "Siurai Urai",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "malaka",
+    "name": "Malaka",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "lawe-melang",
+    "name": "Lawe Melang",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "koto",
+    "name": "Koto",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "kampung-sawah",
+    "name": "Kampung Sawah",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "kampung-padang",
+    "name": "Kampung Padang",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "pulo-air",
+    "name": "Pulo Air",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "mersak",
+    "name": "Mersak",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "simpang-dua",
+    "name": "Simpang Dua",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "kluet-tengah"
+  },
+  {
+    "id": "alur-kejrun",
+    "name": "Alur Kejrun",
+    "district": "kluet-tengah"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karyabakti",
+    "name": "Karyabakti",
+    "district": "parungponteng"
+  },
+  {
+    "id": "cigunung",
+    "name": "Cigunung",
+    "district": "parungponteng"
+  },
+  {
+    "id": "cibungur",
+    "name": "Cibungur",
+    "district": "parungponteng"
+  },
+  {
+    "id": "parungponteng",
+    "name": "Parungponteng",
+    "district": "parungponteng"
+  },
+  {
+    "id": "girikencana",
+    "name": "Girikencana",
+    "district": "parungponteng"
+  },
+  {
+    "id": "barumekar",
+    "name": "Barumekar",
+    "district": "parungponteng"
+  },
+  {
+    "id": "cibanteng",
+    "name": "Cibanteng",
+    "district": "parungponteng"
+  },
+  {
+    "id": "burujuljaya",
+    "name": "Burujuljaya",
+    "district": "parungponteng"
+  }
+]

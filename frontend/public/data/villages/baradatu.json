@@ -1,0 +1,112 @@
+[
+  {
+    "id": "banjar-masin",
+    "name": "Banjar Masin",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-mulia",
+    "name": "Banjar Mulia",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-baru",
+    "name": "Banjar Baru",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-negara",
+    "name": "Banjar Negara",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-setia",
+    "name": "Banjar Setia",
+    "district": "baradatu"
+  },
+  {
+    "id": "mekar-asri",
+    "name": "Mekar Asri",
+    "district": "baradatu"
+  },
+  {
+    "id": "tiuh-balak",
+    "name": "Tiuh Balak",
+    "district": "baradatu"
+  },
+  {
+    "id": "campur-asri",
+    "name": "Campur Asri",
+    "district": "baradatu"
+  },
+  {
+    "id": "gedung-rejo",
+    "name": "Gedung Rejo",
+    "district": "baradatu"
+  },
+  {
+    "id": "taman-asri",
+    "name": "Taman Asri",
+    "district": "baradatu"
+  },
+  {
+    "id": "tiuh-balak-pasar",
+    "name": "Tiuh Balak Pasar",
+    "district": "baradatu"
+  },
+  {
+    "id": "setia-negara",
+    "name": "Setia Negara",
+    "district": "baradatu"
+  },
+  {
+    "id": "bhakti-negara",
+    "name": "Bhakti Negara",
+    "district": "baradatu"
+  },
+  {
+    "id": "tiuh-balak-i",
+    "name": "Tiuh Balak I",
+    "district": "baradatu"
+  },
+  {
+    "id": "gedung-pakuon",
+    "name": "Gedung Pakuon",
+    "district": "baradatu"
+  },
+  {
+    "id": "cugah",
+    "name": "Cugah",
+    "district": "baradatu"
+  },
+  {
+    "id": "bumi-merapi",
+    "name": "Bumi Merapi",
+    "district": "baradatu"
+  },
+  {
+    "id": "bumi-rejo",
+    "name": "Bumi Rejo",
+    "district": "baradatu"
+  },
+  {
+    "id": "banjar-sari",
+    "name": "Banjar Sari",
+    "district": "baradatu"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "baradatu"
+  },
+  {
+    "id": "gunung-katun",
+    "name": "Gunung Katun",
+    "district": "baradatu"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lempake",
+    "name": "Lempake",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "sempaja-selatan",
+    "name": "Sempaja Selatan",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "sungai-siring",
+    "name": "Sungai Siring",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "sempaja-utara",
+    "name": "Sempaja Utara",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "sempaja-timur",
+    "name": "Sempaja Timur",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "sempaja-barat",
+    "name": "Sempaja Barat",
+    "district": "samarinda-utara"
+  },
+  {
+    "id": "budaya-pampang",
+    "name": "Budaya Pampang",
+    "district": "samarinda-utara"
+  }
+]

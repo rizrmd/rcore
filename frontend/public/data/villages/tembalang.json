@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rowosari",
+    "name": "Rowosari",
+    "district": "tembalang"
+  },
+  {
+    "id": "kramas",
+    "name": "Kramas",
+    "district": "tembalang"
+  },
+  {
+    "id": "tembalang",
+    "name": "Tembalang",
+    "district": "tembalang"
+  },
+  {
+    "id": "bulusan",
+    "name": "Bulusan",
+    "district": "tembalang"
+  },
+  {
+    "id": "mangunharjo",
+    "name": "Mangunharjo",
+    "district": "tembalang"
+  },
+  {
+    "id": "sendangmulyo",
+    "name": "Sendangmulyo",
+    "district": "tembalang"
+  },
+  {
+    "id": "sambiroto",
+    "name": "Sambiroto",
+    "district": "tembalang"
+  },
+  {
+    "id": "jangli",
+    "name": "Jangli",
+    "district": "tembalang"
+  },
+  {
+    "id": "tandang",
+    "name": "Tandang",
+    "district": "tembalang"
+  },
+  {
+    "id": "sendangguwo",
+    "name": "Sendangguwo",
+    "district": "tembalang"
+  }
+]

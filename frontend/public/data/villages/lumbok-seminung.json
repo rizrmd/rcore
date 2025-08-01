@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lombok",
+    "name": "Lombok",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "heni-arong",
+    "name": "Heni Arong",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "suka-banjar",
+    "name": "Suka Banjar",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "lombok-timur",
+    "name": "Lombok Timur",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "suka-banjar-ii-ujung-rembun",
+    "name": "Suka Banjar Ii Ujung Rembun",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "ujung",
+    "name": "Ujung",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "keagungan",
+    "name": "Keagungan",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "tawan-suka-mulya",
+    "name": "Tawan Suka Mulya",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "pancur-mas",
+    "name": "Pancur Mas",
+    "district": "lumbok-seminung"
+  },
+  {
+    "id": "lombok-selatan",
+    "name": "Lombok Selatan",
+    "district": "lumbok-seminung"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lembang-kaero",
+    "name": "Lembang Kaero",
+    "district": "sangalla"
+  },
+  {
+    "id": "lembang-bulian-massabu",
+    "name": "Lembang Bulian Massabu",
+    "district": "sangalla"
+  },
+  {
+    "id": "kelurahan-tongko-sarapung",
+    "name": "Kelurahan Tongko Sarapung",
+    "district": "sangalla"
+  },
+  {
+    "id": "kelurahan-buntu-masakke",
+    "name": "Kelurahan Buntu Masakke",
+    "district": "sangalla"
+  },
+  {
+    "id": "lembang-turunan",
+    "name": "Lembang Turunan",
+    "district": "sangalla"
+  }
+]

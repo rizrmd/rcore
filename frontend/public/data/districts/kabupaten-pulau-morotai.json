@@ -1,0 +1,27 @@
+[
+  {
+    "id": "morotai-selatan",
+    "name": "Morotai Selatan",
+    "regency": "kabupaten-pulau-morotai"
+  },
+  {
+    "id": "morotai-timur",
+    "name": "Morotai Timur",
+    "regency": "kabupaten-pulau-morotai"
+  },
+  {
+    "id": "morotai-selatan-barat",
+    "name": "Morotai Selatan Barat",
+    "regency": "kabupaten-pulau-morotai"
+  },
+  {
+    "id": "morotai-jaya",
+    "name": "Morotai Jaya",
+    "regency": "kabupaten-pulau-morotai"
+  },
+  {
+    "id": "morotai-utara",
+    "name": "Morotai Utara",
+    "regency": "kabupaten-pulau-morotai"
+  }
+]

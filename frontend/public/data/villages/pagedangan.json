@@ -1,0 +1,57 @@
+[
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "pagedangan"
+  },
+  {
+    "id": "malang-nengah",
+    "name": "Malang Nengah",
+    "district": "pagedangan"
+  },
+  {
+    "id": "jatake",
+    "name": "Jatake",
+    "district": "pagedangan"
+  },
+  {
+    "id": "kadu-sirung",
+    "name": "Kadu Sirung",
+    "district": "pagedangan"
+  },
+  {
+    "id": "situ-gadung",
+    "name": "Situ Gadung",
+    "district": "pagedangan"
+  },
+  {
+    "id": "pagedangan",
+    "name": "Pagedangan",
+    "district": "pagedangan"
+  },
+  {
+    "id": "cicalengka",
+    "name": "Cicalengka",
+    "district": "pagedangan"
+  },
+  {
+    "id": "lengkong-kulon",
+    "name": "Lengkong Kulon",
+    "district": "pagedangan"
+  },
+  {
+    "id": "cijantra",
+    "name": "Cijantra",
+    "district": "pagedangan"
+  },
+  {
+    "id": "medang",
+    "name": "Medang",
+    "district": "pagedangan"
+  },
+  {
+    "id": "cihuni",
+    "name": "Cihuni",
+    "district": "pagedangan"
+  }
+]

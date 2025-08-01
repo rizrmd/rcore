@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kebirangga-selatan",
+    "name": "Kebirangga Selatan",
+    "district": "maukaro"
+  },
+  {
+    "id": "kamubheka",
+    "name": "Kamubheka",
+    "district": "maukaro"
+  },
+  {
+    "id": "kebirangga",
+    "name": "Kebirangga",
+    "district": "maukaro"
+  },
+  {
+    "id": "boafeo",
+    "name": "Boafeo",
+    "district": "maukaro"
+  },
+  {
+    "id": "magekapa",
+    "name": "Magekapa",
+    "district": "maukaro"
+  },
+  {
+    "id": "nabe",
+    "name": "Nabe",
+    "district": "maukaro"
+  },
+  {
+    "id": "kobaleba",
+    "name": "Kobaleba",
+    "district": "maukaro"
+  },
+  {
+    "id": "mundinggasa",
+    "name": "Mundinggasa",
+    "district": "maukaro"
+  },
+  {
+    "id": "kolikapa",
+    "name": "Kolikapa",
+    "district": "maukaro"
+  },
+  {
+    "id": "kebirangga-tengah",
+    "name": "Kebirangga Tengah",
+    "district": "maukaro"
+  },
+  {
+    "id": "natanangge",
+    "name": "Natanangge",
+    "district": "maukaro"
+  }
+]

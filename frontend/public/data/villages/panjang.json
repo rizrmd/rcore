@@ -1,0 +1,37 @@
+[
+  {
+    "id": "panjang-selatan",
+    "name": "Panjang Selatan",
+    "district": "panjang"
+  },
+  {
+    "id": "panjang-utara",
+    "name": "Panjang Utara",
+    "district": "panjang"
+  },
+  {
+    "id": "pidada",
+    "name": "Pidada",
+    "district": "panjang"
+  },
+  {
+    "id": "karang-maritim",
+    "name": "Karang Maritim",
+    "district": "panjang"
+  },
+  {
+    "id": "way-lunik",
+    "name": "Way Lunik",
+    "district": "panjang"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "panjang"
+  },
+  {
+    "id": "ketapang-kuala",
+    "name": "Ketapang Kuala",
+    "district": "panjang"
+  }
+]

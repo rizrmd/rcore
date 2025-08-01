@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dimba",
+    "name": "Dimba",
+    "district": "dimba"
+  },
+  {
+    "id": "megagobak",
+    "name": "Megagobak",
+    "district": "dimba"
+  },
+  {
+    "id": "yugwa",
+    "name": "Yugwa",
+    "district": "dimba"
+  },
+  {
+    "id": "nongopnage",
+    "name": "Nongopnage",
+    "district": "dimba"
+  },
+  {
+    "id": "wengenambur",
+    "name": "Wengenambur",
+    "district": "dimba"
+  },
+  {
+    "id": "talibarenak",
+    "name": "Talibarenak",
+    "district": "dimba"
+  },
+  {
+    "id": "wawiragi",
+    "name": "Wawiragi",
+    "district": "dimba"
+  },
+  {
+    "id": "mewilangun",
+    "name": "Mewilangun",
+    "district": "dimba"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cipang-kiri-hulu",
+    "name": "Cipang Kiri Hulu",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "cipang-kiri-hilir",
+    "name": "Cipang Kiri Hilir",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "sikebau-jaya",
+    "name": "Sikebau Jaya",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "lubuk-bendahara",
+    "name": "Lubuk Bendahara",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "lubuk-bendahara-timur",
+    "name": "Lubuk Bendahara Timur",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "rokan",
+    "name": "Rokan",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "cipang-kanan",
+    "name": "Cipang Kanan",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "rokan-koto-ruang",
+    "name": "Rokan Koto Ruang",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "rokan-timur",
+    "name": "Rokan Timur",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "tibawan",
+    "name": "Tibawan",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "lubuk-betung",
+    "name": "Lubuk Betung",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "alahan",
+    "name": "Alahan",
+    "district": "rokan-iv-koto"
+  },
+  {
+    "id": "pemandang",
+    "name": "Pemandang",
+    "district": "rokan-iv-koto"
+  }
+]

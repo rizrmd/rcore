@@ -1,0 +1,42 @@
+[
+  {
+    "id": "leuwikaret",
+    "name": "Leuwikaret",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "bantar-jati",
+    "name": "Bantar Jati",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "nambo",
+    "name": "Nambo",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "kembang-kuning",
+    "name": "Kembang Kuning",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "kelapa-nunggal",
+    "name": "Kelapa Nunggal",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "ligarmukti",
+    "name": "Ligarmukti",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "kelapa-nunggal"
+  },
+  {
+    "id": "cikahuripan",
+    "name": "Cikahuripan",
+    "district": "kelapa-nunggal"
+  }
+]

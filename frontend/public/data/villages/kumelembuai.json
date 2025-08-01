@@ -1,0 +1,42 @@
+[
+  {
+    "id": "malola-i",
+    "name": "Malola I",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "malola",
+    "name": "Malola",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "makasili",
+    "name": "Makasili",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "kumelembuai-atas",
+    "name": "Kumelembuai Atas",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "kumelembuai",
+    "name": "Kumelembuai",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "kumelembuai-i",
+    "name": "Kumelembuai I",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "kumelembuai-ii",
+    "name": "Kumelembuai Ii",
+    "district": "kumelembuai"
+  },
+  {
+    "id": "lolombulan-makasili",
+    "name": "Lolombulan Makasili",
+    "district": "kumelembuai"
+  }
+]

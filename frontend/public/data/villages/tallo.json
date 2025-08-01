@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bunga-eja-beru",
+    "name": "Bunga Eja Beru",
+    "district": "tallo"
+  },
+  {
+    "id": "lembo",
+    "name": "Lembo",
+    "district": "tallo"
+  },
+  {
+    "id": "kalukuang",
+    "name": "Kalukuang",
+    "district": "tallo"
+  },
+  {
+    "id": "lalatang",
+    "name": "La'Latang",
+    "district": "tallo"
+  },
+  {
+    "id": "rappojawa",
+    "name": "Rappojawa",
+    "district": "tallo"
+  },
+  {
+    "id": "tammua",
+    "name": "Tammua",
+    "district": "tallo"
+  },
+  {
+    "id": "rappokalling",
+    "name": "Rappokalling",
+    "district": "tallo"
+  },
+  {
+    "id": "wala-walaya",
+    "name": "Wala-Walaya",
+    "district": "tallo"
+  },
+  {
+    "id": "ujung-pandang-baru",
+    "name": "Ujung Pandang Baru",
+    "district": "tallo"
+  },
+  {
+    "id": "suwangga",
+    "name": "Suwangga",
+    "district": "tallo"
+  },
+  {
+    "id": "pannampu",
+    "name": "Pannampu",
+    "district": "tallo"
+  },
+  {
+    "id": "kaluku-bodoa",
+    "name": "Kaluku Bodoa",
+    "district": "tallo"
+  },
+  {
+    "id": "buloa",
+    "name": "Buloa",
+    "district": "tallo"
+  },
+  {
+    "id": "tallo",
+    "name": "Tallo",
+    "district": "tallo"
+  },
+  {
+    "id": "lakkang",
+    "name": "Lakkang",
+    "district": "tallo"
+  }
+]

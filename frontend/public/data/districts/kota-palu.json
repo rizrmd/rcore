@@ -1,0 +1,42 @@
+[
+  {
+    "id": "palu-barat",
+    "name": "Palu Barat",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "tatanga",
+    "name": "Tatanga",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "ulujadi",
+    "name": "Ulujadi",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "palu-selatan",
+    "name": "Palu Selatan",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "palu-timur",
+    "name": "Palu Timur",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "mantikulore",
+    "name": "Mantikulore",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "palu-utara",
+    "name": "Palu Utara",
+    "regency": "kota-palu"
+  },
+  {
+    "id": "tawaeli",
+    "name": "Tawaeli",
+    "regency": "kota-palu"
+  }
+]

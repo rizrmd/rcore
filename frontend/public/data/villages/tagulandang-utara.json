@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bulangan",
+    "name": "Bulangan",
+    "district": "tagulandang-utara"
+  },
+  {
+    "id": "minanga",
+    "name": "Minanga",
+    "district": "tagulandang-utara"
+  },
+  {
+    "id": "w-o",
+    "name": "W O",
+    "district": "tagulandang-utara"
+  },
+  {
+    "id": "bawoleu",
+    "name": "Bawoleu",
+    "district": "tagulandang-utara"
+  },
+  {
+    "id": "lumbo",
+    "name": "Lumbo",
+    "district": "tagulandang-utara"
+  },
+  {
+    "id": "bawo",
+    "name": "Bawo",
+    "district": "tagulandang-utara"
+  }
+]

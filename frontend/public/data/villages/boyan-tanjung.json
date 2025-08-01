@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sri-wangi",
+    "name": "Sri Wangi",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-sangan",
+    "name": "Nanga Sangan",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "riam-mengelai",
+    "name": "Riam Mengelai",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "boyan-tanjung",
+    "name": "Boyan Tanjung",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-danau",
+    "name": "Nanga Danau",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-boyan",
+    "name": "Nanga Boyan",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-betung",
+    "name": "Nanga Betung",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "mujan",
+    "name": "Mujan",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-jemah",
+    "name": "Nanga Jemah",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "tubang-jaya",
+    "name": "Tubang Jaya",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "karya-maju",
+    "name": "Karya Maju",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "landau-mentail",
+    "name": "Landau Mentail",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "delintas-karya",
+    "name": "Delintas Karya",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "nanga-ret",
+    "name": "Nanga Ret",
+    "district": "boyan-tanjung"
+  },
+  {
+    "id": "pemawan",
+    "name": "Pemawan",
+    "district": "boyan-tanjung"
+  }
+]

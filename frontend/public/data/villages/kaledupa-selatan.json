@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tampara",
+    "name": "Tampara",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "kaswari",
+    "name": "Kaswari",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "pajam",
+    "name": "Pajam",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "sandi",
+    "name": "Sandi",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "langge",
+    "name": "Langge",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "tanomeha",
+    "name": "Tanomeha",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "lentea",
+    "name": "Lentea",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "darawa",
+    "name": "Darawa",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "peropa",
+    "name": "Peropa",
+    "district": "kaledupa-selatan"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "kaledupa-selatan"
+  }
+]

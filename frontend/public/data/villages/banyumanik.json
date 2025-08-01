@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pudakpayung",
+    "name": "Pudakpayung",
+    "district": "banyumanik"
+  },
+  {
+    "id": "gedawang",
+    "name": "Gedawang",
+    "district": "banyumanik"
+  },
+  {
+    "id": "jabungan",
+    "name": "Jabungan",
+    "district": "banyumanik"
+  },
+  {
+    "id": "padangsari",
+    "name": "Padangsari",
+    "district": "banyumanik"
+  },
+  {
+    "id": "banyumanik",
+    "name": "Banyumanik",
+    "district": "banyumanik"
+  },
+  {
+    "id": "srondol-wetan",
+    "name": "Srondol Wetan",
+    "district": "banyumanik"
+  },
+  {
+    "id": "pedalangan",
+    "name": "Pedalangan",
+    "district": "banyumanik"
+  },
+  {
+    "id": "sumurboto",
+    "name": "Sumurboto",
+    "district": "banyumanik"
+  },
+  {
+    "id": "srondol-kulon",
+    "name": "Srondol Kulon",
+    "district": "banyumanik"
+  },
+  {
+    "id": "tinjomoyo",
+    "name": "Tinjomoyo",
+    "district": "banyumanik"
+  }
+]

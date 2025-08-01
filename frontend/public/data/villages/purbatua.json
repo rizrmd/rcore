@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bonani-dolok",
+    "name": "Bonani Dolok",
+    "district": "purbatua"
+  },
+  {
+    "id": "selamat",
+    "name": "Selamat",
+    "district": "purbatua"
+  },
+  {
+    "id": "purbatua",
+    "name": "Purbatua",
+    "district": "purbatua"
+  },
+  {
+    "id": "pardomuan-janji-angkola",
+    "name": "Pardomuan Janji Angkola",
+    "district": "purbatua"
+  },
+  {
+    "id": "parsaoran-janji-angkola",
+    "name": "Parsaoran Janji Angkola",
+    "district": "purbatua"
+  },
+  {
+    "id": "janji-nauli",
+    "name": "Janji Nauli",
+    "district": "purbatua"
+  },
+  {
+    "id": "sitolu-bahal",
+    "name": "Sitolu Bahal",
+    "district": "purbatua"
+  },
+  {
+    "id": "robean",
+    "name": "Robean",
+    "district": "purbatua"
+  },
+  {
+    "id": "huta-nagodang",
+    "name": "Huta Nagodang",
+    "district": "purbatua"
+  },
+  {
+    "id": "sidua-bahal",
+    "name": "Sidua Bahal",
+    "district": "purbatua"
+  },
+  {
+    "id": "sibulan-bulan",
+    "name": "Sibulan Bulan",
+    "district": "purbatua"
+  }
+]

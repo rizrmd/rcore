@@ -1,0 +1,52 @@
+[
+  {
+    "id": "padaelo",
+    "name": "Padaelo",
+    "district": "mallawa"
+  },
+  {
+    "id": "barugae",
+    "name": "Barugae",
+    "district": "mallawa"
+  },
+  {
+    "id": "tellumpanuae",
+    "name": "Tellumpanuae",
+    "district": "mallawa"
+  },
+  {
+    "id": "sabila",
+    "name": "Sabila",
+    "district": "mallawa"
+  },
+  {
+    "id": "mattampapole",
+    "name": "Mattampapole",
+    "district": "mallawa"
+  },
+  {
+    "id": "batu-putih",
+    "name": "Batu Putih",
+    "district": "mallawa"
+  },
+  {
+    "id": "uludaya",
+    "name": "Uludaya",
+    "district": "mallawa"
+  },
+  {
+    "id": "samaenre",
+    "name": "Samaenre",
+    "district": "mallawa"
+  },
+  {
+    "id": "gattareng-matinggi",
+    "name": "Gattareng Matinggi",
+    "district": "mallawa"
+  },
+  {
+    "id": "wanua-waru",
+    "name": "Wanua Waru",
+    "district": "mallawa"
+  }
+]

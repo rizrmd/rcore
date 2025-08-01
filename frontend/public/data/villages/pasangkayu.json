@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pasangkayu",
+    "name": "Pasangkayu",
+    "district": "pasangkayu"
+  },
+  {
+    "id": "martajaya",
+    "name": "Martajaya",
+    "district": "pasangkayu"
+  },
+  {
+    "id": "pakawa",
+    "name": "Pakawa",
+    "district": "pasangkayu"
+  },
+  {
+    "id": "karya-bersama",
+    "name": "Karya Bersama",
+    "district": "pasangkayu"
+  },
+  {
+    "id": "ako",
+    "name": "Ako",
+    "district": "pasangkayu"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "pasangkayu"
+  }
+]

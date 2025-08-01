@@ -1,0 +1,42 @@
+[
+  {
+    "id": "huta-julu",
+    "name": "Huta Julu",
+    "district": "pakantan"
+  },
+  {
+    "id": "huta-padang",
+    "name": "Huta Padang",
+    "district": "pakantan"
+  },
+  {
+    "id": "huta-toras",
+    "name": "Huta Toras",
+    "district": "pakantan"
+  },
+  {
+    "id": "pakantan-lombang",
+    "name": "Pakantan Lombang",
+    "district": "pakantan"
+  },
+  {
+    "id": "huta-lancat",
+    "name": "Huta Lancat",
+    "district": "pakantan"
+  },
+  {
+    "id": "pakantan-dolok",
+    "name": "Pakantan Dolok",
+    "district": "pakantan"
+  },
+  {
+    "id": "silogun",
+    "name": "Silogun",
+    "district": "pakantan"
+  },
+  {
+    "id": "huta-gambir",
+    "name": "Huta Gambir",
+    "district": "pakantan"
+  }
+]

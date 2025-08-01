@@ -1,0 +1,52 @@
+[
+  {
+    "id": "aertembaga-satu",
+    "name": "Aertembaga Satu",
+    "district": "aertembaga"
+  },
+  {
+    "id": "tandu-rusa",
+    "name": "Tandu Rusa",
+    "district": "aertembaga"
+  },
+  {
+    "id": "makawidey",
+    "name": "Makawidey",
+    "district": "aertembaga"
+  },
+  {
+    "id": "pinangunian",
+    "name": "Pinangunian",
+    "district": "aertembaga"
+  },
+  {
+    "id": "peteten-satu",
+    "name": "Peteten Satu",
+    "district": "aertembaga"
+  },
+  {
+    "id": "peteten-dua",
+    "name": "Peteten Dua",
+    "district": "aertembaga"
+  },
+  {
+    "id": "winenet-satu",
+    "name": "Winenet Satu",
+    "district": "aertembaga"
+  },
+  {
+    "id": "winenet-dua",
+    "name": "Winenet Dua",
+    "district": "aertembaga"
+  },
+  {
+    "id": "kasawari",
+    "name": "Kasawari",
+    "district": "aertembaga"
+  },
+  {
+    "id": "aertembaga-dua",
+    "name": "Aertembaga Dua",
+    "district": "aertembaga"
+  }
+]

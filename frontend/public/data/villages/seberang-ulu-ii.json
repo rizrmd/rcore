@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sentosa",
+    "name": "Sentosa",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "16-ulu",
+    "name": "16 Ulu",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "tangga-takat",
+    "name": "Tangga Takat",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "14-ulu",
+    "name": "14 Ulu",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "13-ulu",
+    "name": "13 Ulu",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "12-ulu",
+    "name": "12 Ulu",
+    "district": "seberang-ulu-ii"
+  },
+  {
+    "id": "11-ulu",
+    "name": "11 Ulu",
+    "district": "seberang-ulu-ii"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sungai-jaya",
+    "name": "Sungai Jaya",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "mahajandau",
+    "name": "Mahajandau",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "mengkatip",
+    "name": "Mengkatip",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "kalanis",
+    "name": "Kalanis",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "lehai",
+    "name": "Lehai",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "damparan",
+    "name": "Damparan",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "teluk-timbau",
+    "name": "Teluk Timbau",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "batilap",
+    "name": "Batilap",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "batampang",
+    "name": "Batampang",
+    "district": "dusun-hilir"
+  },
+  {
+    "id": "mangkatir",
+    "name": "Mangkatir",
+    "district": "dusun-hilir"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "endomen",
+    "name": "Endomen",
+    "district": "endomen"
+  },
+  {
+    "id": "okloma",
+    "name": "Okloma",
+    "district": "endomen"
+  },
+  {
+    "id": "delon",
+    "name": "Delon",
+    "district": "endomen"
+  },
+  {
+    "id": "suron",
+    "name": "Suron",
+    "district": "endomen"
+  },
+  {
+    "id": "gidomen",
+    "name": "Gidomen",
+    "district": "endomen"
+  },
+  {
+    "id": "galsin",
+    "name": "Galsin",
+    "district": "endomen"
+  },
+  {
+    "id": "kouwet",
+    "name": "Kouwet",
+    "district": "endomen"
+  }
+]

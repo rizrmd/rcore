@@ -1,0 +1,27 @@
+[
+  {
+    "id": "yoka",
+    "name": "Yoka",
+    "district": "heram"
+  },
+  {
+    "id": "kampung-waena",
+    "name": "Kampung Waena",
+    "district": "heram"
+  },
+  {
+    "id": "hedam",
+    "name": "Hedam",
+    "district": "heram"
+  },
+  {
+    "id": "waena",
+    "name": "Waena",
+    "district": "heram"
+  },
+  {
+    "id": "yabansai",
+    "name": "Yabansai",
+    "district": "heram"
+  }
+]

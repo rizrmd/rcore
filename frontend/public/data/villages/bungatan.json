@@ -1,0 +1,37 @@
+[
+  {
+    "id": "selowogo",
+    "name": "Selowogo",
+    "district": "bungatan"
+  },
+  {
+    "id": "sumbertengah",
+    "name": "Sumbertengah",
+    "district": "bungatan"
+  },
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "bungatan"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "bungatan"
+  },
+  {
+    "id": "bungatan",
+    "name": "Bungatan",
+    "district": "bungatan"
+  },
+  {
+    "id": "bletok",
+    "name": "Bletok",
+    "district": "bungatan"
+  },
+  {
+    "id": "mlandingan-wetan",
+    "name": "Mlandingan Wetan",
+    "district": "bungatan"
+  }
+]

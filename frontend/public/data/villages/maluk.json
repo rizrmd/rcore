@@ -1,0 +1,22 @@
+[
+  {
+    "id": "maluk",
+    "name": "Maluk",
+    "district": "maluk"
+  },
+  {
+    "id": "bukit-damai",
+    "name": "Bukit Damai",
+    "district": "maluk"
+  },
+  {
+    "id": "mantun",
+    "name": "Mantun",
+    "district": "maluk"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "maluk"
+  }
+]

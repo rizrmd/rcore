@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sembora",
+    "name": "Sembora",
+    "district": "toho"
+  },
+  {
+    "id": "benuang",
+    "name": "Benuang",
+    "district": "toho"
+  },
+  {
+    "id": "pakutan",
+    "name": "Pakutan",
+    "district": "toho"
+  },
+  {
+    "id": "sepang",
+    "name": "Sepang",
+    "district": "toho"
+  },
+  {
+    "id": "pak-laheng",
+    "name": "Pak Laheng",
+    "district": "toho"
+  },
+  {
+    "id": "terap",
+    "name": "Terap",
+    "district": "toho"
+  },
+  {
+    "id": "kecurit",
+    "name": "Kecurit",
+    "district": "toho"
+  },
+  {
+    "id": "toho-ilir",
+    "name": "Toho Ilir",
+    "district": "toho"
+  }
+]

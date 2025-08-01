@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ulkubi",
+    "name": "Ulkubi",
+    "district": "iwur"
+  },
+  {
+    "id": "walapkubun",
+    "name": "Walapkubun",
+    "district": "iwur"
+  },
+  {
+    "id": "iwur-iwurmot",
+    "name": "Iwur / Iwurmot",
+    "district": "iwur"
+  },
+  {
+    "id": "kurumkin",
+    "name": "Kurumkin",
+    "district": "iwur"
+  },
+  {
+    "id": "dinmot-arim",
+    "name": "Dinmot / Arim",
+    "district": "iwur"
+  },
+  {
+    "id": "ewenkatop",
+    "name": "Ewenkatop",
+    "district": "iwur"
+  },
+  {
+    "id": "namger",
+    "name": "Namger",
+    "district": "iwur"
+  },
+  {
+    "id": "kamyoim",
+    "name": "Kamyoim",
+    "district": "iwur"
+  },
+  {
+    "id": "dipol",
+    "name": "Dipol",
+    "district": "iwur"
+  },
+  {
+    "id": "nenginum",
+    "name": "Nenginum",
+    "district": "iwur"
+  }
+]

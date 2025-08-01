@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rampoang",
+    "name": "Rampoang",
+    "district": "tana-lili"
+  },
+  {
+    "id": "karondang",
+    "name": "Karondang",
+    "district": "tana-lili"
+  },
+  {
+    "id": "poreang",
+    "name": "Poreang",
+    "district": "tana-lili"
+  },
+  {
+    "id": "bungadidi",
+    "name": "Bungadidi",
+    "district": "tana-lili"
+  },
+  {
+    "id": "bungapati",
+    "name": "Bungapati",
+    "district": "tana-lili"
+  },
+  {
+    "id": "sumberdadi",
+    "name": "Sumberdadi",
+    "district": "tana-lili"
+  },
+  {
+    "id": "sidobinangun",
+    "name": "Sidobinangun",
+    "district": "tana-lili"
+  },
+  {
+    "id": "patila",
+    "name": "Patila",
+    "district": "tana-lili"
+  },
+  {
+    "id": "sidomakmur",
+    "name": "Sidomakmur",
+    "district": "tana-lili"
+  }
+]

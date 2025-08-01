@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pamoyanan",
+    "name": "Pamoyanan",
+    "district": "kadipaten"
+  },
+  {
+    "id": "buniasih",
+    "name": "Buniasih",
+    "district": "kadipaten"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "kadipaten"
+  },
+  {
+    "id": "dirgahayu",
+    "name": "Dirgahayu",
+    "district": "kadipaten"
+  },
+  {
+    "id": "cibahayu",
+    "name": "Cibahayu",
+    "district": "kadipaten"
+  },
+  {
+    "id": "kadipaten",
+    "name": "Kadipaten",
+    "district": "kadipaten"
+  },
+  {
+    "id": "liangjulang",
+    "name": "Liangjulang",
+    "district": "kadipaten"
+  },
+  {
+    "id": "cipaku",
+    "name": "Cipaku",
+    "district": "kadipaten"
+  },
+  {
+    "id": "kadipaten",
+    "name": "Kadipaten",
+    "district": "kadipaten"
+  },
+  {
+    "id": "babakan-anyar",
+    "name": "Babakan Anyar",
+    "district": "kadipaten"
+  },
+  {
+    "id": "karangsambung",
+    "name": "Karangsambung",
+    "district": "kadipaten"
+  },
+  {
+    "id": "pagandon",
+    "name": "Pagandon",
+    "district": "kadipaten"
+  }
+]

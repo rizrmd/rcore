@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "wonoasri"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "wonoasri"
+  },
+  {
+    "id": "banyukambang",
+    "name": "Banyukambang",
+    "district": "wonoasri"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "wonoasri"
+  },
+  {
+    "id": "plumpungrejo",
+    "name": "Plumpungrejo",
+    "district": "wonoasri"
+  },
+  {
+    "id": "wonoasri",
+    "name": "Wonoasri",
+    "district": "wonoasri"
+  },
+  {
+    "id": "bancong",
+    "name": "Bancong",
+    "district": "wonoasri"
+  },
+  {
+    "id": "klitik",
+    "name": "Klitik",
+    "district": "wonoasri"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "wonoasri"
+  },
+  {
+    "id": "buduran",
+    "name": "Buduran",
+    "district": "wonoasri"
+  }
+]

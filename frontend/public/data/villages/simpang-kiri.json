@@ -1,0 +1,87 @@
+[
+  {
+    "id": "buluh-dori",
+    "name": "Buluh Dori",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "pegayo",
+    "name": "Pegayo",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "subulussalam",
+    "name": "Subulussalam",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "pasar-panjang",
+    "name": "Pasar Panjang",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "tangga-besi",
+    "name": "Tangga Besi",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "kuta-cepu",
+    "name": "Kuta Cepu",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "sikelondang",
+    "name": "Sikelondang",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "mukti-makmur",
+    "name": "Mukti Makmur",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "subulussalam-barat",
+    "name": "Subulussalam Barat",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "subulussalam-selatan",
+    "name": "Subulussalam Selatan",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "subulussalam-utara",
+    "name": "Subulussalam Utara",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "lae-oram",
+    "name": "Lae Oram",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "belegen-mulia",
+    "name": "Belegen Mulia",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "danau-tras",
+    "name": "Danau Tras",
+    "district": "simpang-kiri"
+  },
+  {
+    "id": "subulussalam-timur",
+    "name": "Subulussalam Timur",
+    "district": "simpang-kiri"
+  }
+]

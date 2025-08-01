@@ -1,0 +1,82 @@
+[
+  {
+    "id": "suak-puntong",
+    "name": "Suak Puntong",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "gampong-lhok",
+    "name": "Gampong Lhok",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "kuala-baro",
+    "name": "Kuala Baro",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "padang-rubek",
+    "name": "Padang Rubek",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "langkak",
+    "name": "Langkak",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "kuala-tuha",
+    "name": "Kuala Tuha",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "kubang-gajah",
+    "name": "Kubang Gajah",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "kuala-trang",
+    "name": "Kuala Trang",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "cot-rambong",
+    "name": "Cot Rambong",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "padang-panyang",
+    "name": "Padang Panyang",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "arongan",
+    "name": "Arongan",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "lueng-t-ben",
+    "name": "Lueng T Ben",
+    "district": "kuala-pesisir"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "kuala-pesisir"
+  }
+]

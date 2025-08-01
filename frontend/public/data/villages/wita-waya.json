@@ -1,0 +1,22 @@
+[
+  {
+    "id": "korma",
+    "name": "Korma",
+    "district": "wita-waya"
+  },
+  {
+    "id": "alula",
+    "name": "Alula",
+    "district": "wita-waya"
+  },
+  {
+    "id": "alolik",
+    "name": "Alolik",
+    "district": "wita-waya"
+  },
+  {
+    "id": "wiligima",
+    "name": "Wiligima",
+    "district": "wita-waya"
+  }
+]

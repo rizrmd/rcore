@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kopai",
+    "name": "Kopai",
+    "district": "bowobado"
+  },
+  {
+    "id": "kopai-ii",
+    "name": "Kopai Ii",
+    "district": "bowobado"
+  },
+  {
+    "id": "wooge",
+    "name": "Wooge",
+    "district": "bowobado"
+  },
+  {
+    "id": "diita",
+    "name": "Diita",
+    "district": "bowobado"
+  },
+  {
+    "id": "yewadide",
+    "name": "Yewadide",
+    "district": "bowobado"
+  },
+  {
+    "id": "mudetadi",
+    "name": "Mudetadi",
+    "district": "bowobado"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pinang-sori",
+    "name": "Pinang Sori",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "gunung-marijo",
+    "name": "Gunung Marijo",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "sihaporas",
+    "name": "Sihaporas",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "sitonong-bangun",
+    "name": "Sitonong Bangun",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "toga-basir",
+    "name": "Toga Basir",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "pinang-baru",
+    "name": "Pinang Baru",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "parjalihotan-baru",
+    "name": "Parjalihotan Baru",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "danau-pandan",
+    "name": "Danau Pandan",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "sori-nauli",
+    "name": "Sori Nauli",
+    "district": "pinang-sori"
+  },
+  {
+    "id": "albion-prancis",
+    "name": "Albion Prancis",
+    "district": "pinang-sori"
+  }
+]

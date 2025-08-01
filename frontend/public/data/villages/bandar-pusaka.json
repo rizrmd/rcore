@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jambo-rambong",
+    "name": "Jambo Rambong",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "blang-kandis",
+    "name": "Blang Kandis",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "perk-alur-jambu",
+    "name": "Perk Alur Jambu",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "aras-sembilan",
+    "name": "Aras Sembilan",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "alur-jambu",
+    "name": "Alur Jambu",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "batang-ara",
+    "name": "Batang Ara",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "perupuk",
+    "name": "Perupuk",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "serba",
+    "name": "Serba",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "sunting",
+    "name": "Sunting",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "rantau-bintang",
+    "name": "Rantau Bintang",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "babo",
+    "name": "Babo",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "pantai-cempa",
+    "name": "Pantai Cempa",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "pengidam",
+    "name": "Pengidam",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "bengkelang",
+    "name": "Bengkelang",
+    "district": "bandar-pusaka"
+  },
+  {
+    "id": "batu-bedulang",
+    "name": "Batu Bedulang",
+    "district": "bandar-pusaka"
+  }
+]

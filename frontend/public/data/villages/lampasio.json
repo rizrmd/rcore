@@ -1,0 +1,47 @@
+[
+  {
+    "id": "janja",
+    "name": "Janja",
+    "district": "lampasio"
+  },
+  {
+    "id": "maibua",
+    "name": "Maibua",
+    "district": "lampasio"
+  },
+  {
+    "id": "sibea",
+    "name": "Sibea",
+    "district": "lampasio"
+  },
+  {
+    "id": "muliasari",
+    "name": "Muliasari",
+    "district": "lampasio"
+  },
+  {
+    "id": "oyom",
+    "name": "Oyom",
+    "district": "lampasio"
+  },
+  {
+    "id": "salugan",
+    "name": "Salugan",
+    "district": "lampasio"
+  },
+  {
+    "id": "lampasio",
+    "name": "Lampasio",
+    "district": "lampasio"
+  },
+  {
+    "id": "tinading",
+    "name": "Tinading",
+    "district": "lampasio"
+  },
+  {
+    "id": "ogomatanang",
+    "name": "Ogomatanang",
+    "district": "lampasio"
+  }
+]

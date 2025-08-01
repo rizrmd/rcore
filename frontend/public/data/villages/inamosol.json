@@ -1,0 +1,22 @@
+[
+  {
+    "id": "honitetu",
+    "name": "Honitetu",
+    "district": "inamosol"
+  },
+  {
+    "id": "hukuanakota",
+    "name": "Hukuanakota",
+    "district": "inamosol"
+  },
+  {
+    "id": "rambatu",
+    "name": "Rambatu",
+    "district": "inamosol"
+  },
+  {
+    "id": "manusa",
+    "name": "Manusa",
+    "district": "inamosol"
+  }
+]

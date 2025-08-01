@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "rappocini"
+  },
+  {
+    "id": "karunrung",
+    "name": "Karunrung",
+    "district": "rappocini"
+  },
+  {
+    "id": "mappala",
+    "name": "Mappala",
+    "district": "rappocini"
+  },
+  {
+    "id": "kassi-kassi",
+    "name": "Kassi-Kassi",
+    "district": "rappocini"
+  },
+  {
+    "id": "bonto-makkio",
+    "name": "Bonto Makkio",
+    "district": "rappocini"
+  },
+  {
+    "id": "tidung",
+    "name": "Tidung",
+    "district": "rappocini"
+  },
+  {
+    "id": "banta-bantaeng",
+    "name": "Banta-Bantaeng",
+    "district": "rappocini"
+  },
+  {
+    "id": "buakana",
+    "name": "Buakana",
+    "district": "rappocini"
+  },
+  {
+    "id": "rappocini",
+    "name": "Rappocini",
+    "district": "rappocini"
+  },
+  {
+    "id": "ballaparang",
+    "name": "Ballaparang",
+    "district": "rappocini"
+  },
+  {
+    "id": "minasa-upa",
+    "name": "Minasa Upa",
+    "district": "rappocini"
+  }
+]

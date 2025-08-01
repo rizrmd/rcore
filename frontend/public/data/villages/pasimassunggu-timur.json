@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lembang-baji",
+    "name": "Lembang Baji",
+    "district": "pasimassunggu-timur"
+  },
+  {
+    "id": "bontomalling",
+    "name": "Bontomalling",
+    "district": "pasimassunggu-timur"
+  },
+  {
+    "id": "bontobulaeng",
+    "name": "Bontobulaeng",
+    "district": "pasimassunggu-timur"
+  },
+  {
+    "id": "bontobaru",
+    "name": "Bontobaru",
+    "district": "pasimassunggu-timur"
+  },
+  {
+    "id": "bontojati",
+    "name": "Bontojati",
+    "district": "pasimassunggu-timur"
+  }
+]

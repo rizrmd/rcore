@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cipeles",
+    "name": "Cipeles",
+    "district": "tomo"
+  },
+  {
+    "id": "darmawangi",
+    "name": "Darmawangi",
+    "district": "tomo"
+  },
+  {
+    "id": "jembarwangi",
+    "name": "Jembarwangi",
+    "district": "tomo"
+  },
+  {
+    "id": "marongge",
+    "name": "Marongge",
+    "district": "tomo"
+  },
+  {
+    "id": "tolengas",
+    "name": "Tolengas",
+    "district": "tomo"
+  },
+  {
+    "id": "tomo",
+    "name": "Tomo",
+    "district": "tomo"
+  },
+  {
+    "id": "karyamukti",
+    "name": "Karyamukti",
+    "district": "tomo"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "tomo"
+  }
+]

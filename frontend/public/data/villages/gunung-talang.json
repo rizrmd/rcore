@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cupak",
+    "name": "Cupak",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "talang",
+    "name": "Talang",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "sungai-janiah",
+    "name": "Sungai Janiah",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "koto-gadang-guguak",
+    "name": "Koto Gadang Guguak",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "koto-gaek-guguak",
+    "name": "Koto Gaek Guguak",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "jawi-jawi-guguak",
+    "name": "Jawi-Jawi Guguak",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "batang-barus",
+    "name": "Batang Barus",
+    "district": "gunung-talang"
+  },
+  {
+    "id": "aia-batumbuak",
+    "name": "Aia Batumbuak",
+    "district": "gunung-talang"
+  }
+]

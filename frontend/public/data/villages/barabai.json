@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pajukungan",
+    "name": "Pajukungan",
+    "district": "barabai"
+  },
+  {
+    "id": "bukat",
+    "name": "Bukat",
+    "district": "barabai"
+  },
+  {
+    "id": "barabai-barat",
+    "name": "Barabai Barat",
+    "district": "barabai"
+  },
+  {
+    "id": "barabai-utara",
+    "name": "Barabai Utara",
+    "district": "barabai"
+  },
+  {
+    "id": "barabai-selatan",
+    "name": "Barabai Selatan",
+    "district": "barabai"
+  },
+  {
+    "id": "barabai-darat",
+    "name": "Barabai Darat",
+    "district": "barabai"
+  },
+  {
+    "id": "benawa-tengah",
+    "name": "Benawa Tengah",
+    "district": "barabai"
+  },
+  {
+    "id": "kayu-bawang",
+    "name": "Kayu Bawang",
+    "district": "barabai"
+  },
+  {
+    "id": "awang-besar",
+    "name": "Awang Besar",
+    "district": "barabai"
+  },
+  {
+    "id": "gambah",
+    "name": "Gambah",
+    "district": "barabai"
+  },
+  {
+    "id": "mandingin",
+    "name": "Mandingin",
+    "district": "barabai"
+  },
+  {
+    "id": "barabai-timur",
+    "name": "Barabai Timur",
+    "district": "barabai"
+  },
+  {
+    "id": "banua-binjai",
+    "name": "Banua Binjai",
+    "district": "barabai"
+  },
+  {
+    "id": "banua-budi",
+    "name": "Banua Budi",
+    "district": "barabai"
+  },
+  {
+    "id": "babai",
+    "name": "Babai",
+    "district": "barabai"
+  },
+  {
+    "id": "banua-jingah",
+    "name": "Banua Jingah",
+    "district": "barabai"
+  },
+  {
+    "id": "bakapas",
+    "name": "Bakapas",
+    "district": "barabai"
+  },
+  {
+    "id": "ayuang",
+    "name": "Ayuang",
+    "district": "barabai"
+  }
+]

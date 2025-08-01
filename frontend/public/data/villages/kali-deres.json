@@ -1,0 +1,27 @@
+[
+  {
+    "id": "semanan",
+    "name": "Semanan",
+    "district": "kali-deres"
+  },
+  {
+    "id": "kalideres",
+    "name": "Kalideres",
+    "district": "kali-deres"
+  },
+  {
+    "id": "pegadungan",
+    "name": "Pegadungan",
+    "district": "kali-deres"
+  },
+  {
+    "id": "tegal-alur",
+    "name": "Tegal Alur",
+    "district": "kali-deres"
+  },
+  {
+    "id": "kamal",
+    "name": "Kamal",
+    "district": "kali-deres"
+  }
+]

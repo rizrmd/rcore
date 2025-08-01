@@ -1,0 +1,37 @@
+[
+  {
+    "id": "banyurasa",
+    "name": "Banyurasa",
+    "district": "sukahening"
+  },
+  {
+    "id": "banyuresmi",
+    "name": "Banyuresmi",
+    "district": "sukahening"
+  },
+  {
+    "id": "calingcing",
+    "name": "Calingcing",
+    "district": "sukahening"
+  },
+  {
+    "id": "kudadepa",
+    "name": "Kudadepa",
+    "district": "sukahening"
+  },
+  {
+    "id": "sundakerta",
+    "name": "Sundakerta",
+    "district": "sukahening"
+  },
+  {
+    "id": "sukahening",
+    "name": "Sukahening",
+    "district": "sukahening"
+  },
+  {
+    "id": "kiarajangkung",
+    "name": "Kiarajangkung",
+    "district": "sukahening"
+  }
+]

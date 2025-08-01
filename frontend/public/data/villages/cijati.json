@@ -1,0 +1,52 @@
+[
+  {
+    "id": "padaasih",
+    "name": "Padaasih",
+    "district": "cijati"
+  },
+  {
+    "id": "sukaluyu",
+    "name": "Sukaluyu",
+    "district": "cijati"
+  },
+  {
+    "id": "sinarbakti",
+    "name": "Sinarbakti",
+    "district": "cijati"
+  },
+  {
+    "id": "bojonglarang",
+    "name": "Bojonglarang",
+    "district": "cijati"
+  },
+  {
+    "id": "sukamahi",
+    "name": "Sukamahi",
+    "district": "cijati"
+  },
+  {
+    "id": "cijati",
+    "name": "Cijati",
+    "district": "cijati"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "cijati"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "district": "cijati"
+  },
+  {
+    "id": "parakantugu",
+    "name": "Parakantugu",
+    "district": "cijati"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cijati"
+  }
+]

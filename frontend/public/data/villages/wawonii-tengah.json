@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rawa-indah",
+    "name": "Rawa Indah",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "lampeapi",
+    "name": "Lampeapi",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "lampeapi-baru",
+    "name": "Lampeapi Baru",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "lamongupa",
+    "name": "Lamongupa",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "wawoindah",
+    "name": "Wawoindah",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "upt-batumeatumbu-tumbu-jaya",
+    "name": "Upt. Batumea/Tumbu-Tumbu Jaya",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "morobea",
+    "name": "Morobea",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "batumea",
+    "name": "Batumea",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "baho-pulu-wulu",
+    "name": "Baho Pulu Wulu",
+    "district": "wawonii-tengah"
+  },
+  {
+    "id": "puurau",
+    "name": "Puurau",
+    "district": "wawonii-tengah"
+  }
+]

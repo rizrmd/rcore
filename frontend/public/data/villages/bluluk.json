@@ -1,0 +1,42 @@
+[
+  {
+    "id": "banjargondang",
+    "name": "Banjargondang",
+    "district": "bluluk"
+  },
+  {
+    "id": "cangkring",
+    "name": "Cangkring",
+    "district": "bluluk"
+  },
+  {
+    "id": "kuwurejo",
+    "name": "Kuwurejo",
+    "district": "bluluk"
+  },
+  {
+    "id": "songowareng",
+    "name": "Songowareng",
+    "district": "bluluk"
+  },
+  {
+    "id": "sumberbanjar",
+    "name": "Sumberbanjar",
+    "district": "bluluk"
+  },
+  {
+    "id": "primpen",
+    "name": "Primpen",
+    "district": "bluluk"
+  },
+  {
+    "id": "bronjong",
+    "name": "Bronjong",
+    "district": "bluluk"
+  },
+  {
+    "id": "talunrejo",
+    "name": "Talunrejo",
+    "district": "bluluk"
+  }
+]

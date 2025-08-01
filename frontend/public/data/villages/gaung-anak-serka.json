@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rambaian",
+    "name": "Rambaian",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "sungai-empat",
+    "name": "Sungai Empat",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "teluk-tuasan",
+    "name": "Teluk Tuasan",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "sungai-iliran",
+    "name": "Sungai Iliran",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "teluk-sungka",
+    "name": "Teluk Sungka",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "teluk-pantaian",
+    "name": "Teluk Pantaian",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "teluk-pinang",
+    "name": "Teluk Pinang",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "kuala-gaung",
+    "name": "Kuala Gaung",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "kelumpang",
+    "name": "Kelumpang",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "idaman",
+    "name": "Idaman",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "harapan-makmur",
+    "name": "Harapan Makmur",
+    "district": "gaung-anak-serka"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "gaung-anak-serka"
+  }
+]

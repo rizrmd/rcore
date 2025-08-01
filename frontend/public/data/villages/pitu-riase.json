@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bola-bulu",
+    "name": "Bola Bulu",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "botto",
+    "name": "Botto",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "bila-riase",
+    "name": "Bila Riase",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "lagading",
+    "name": "Lagading",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "batu",
+    "name": "Batu",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "tanatoro",
+    "name": "Tanatoro",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "compong",
+    "name": "Compong",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "leppangeng",
+    "name": "Leppangeng",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "lombo",
+    "name": "Lombo",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "buntu-buanging",
+    "name": "Buntu Buanging",
+    "district": "pitu-riase"
+  },
+  {
+    "id": "belawae",
+    "name": "Belawae",
+    "district": "pitu-riase"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "padang-lebar",
+    "name": "Padang Lebar",
+    "district": "pino"
+  },
+  {
+    "id": "anggut",
+    "name": "Anggut",
+    "district": "pino"
+  },
+  {
+    "id": "gedung-agung",
+    "name": "Gedung Agung",
+    "district": "pino"
+  },
+  {
+    "id": "tanjung-eran",
+    "name": "Tanjung Eran",
+    "district": "pino"
+  },
+  {
+    "id": "tanjung-aur-i",
+    "name": "Tanjung Aur I",
+    "district": "pino"
+  },
+  {
+    "id": "puding",
+    "name": "Puding",
+    "district": "pino"
+  },
+  {
+    "id": "air-umban",
+    "name": "Air Umban",
+    "district": "pino"
+  },
+  {
+    "id": "masat",
+    "name": "Masat",
+    "district": "pino"
+  },
+  {
+    "id": "ulak-lebar",
+    "name": "Ulak Lebar",
+    "district": "pino"
+  },
+  {
+    "id": "sebilo",
+    "name": "Sebilo",
+    "district": "pino"
+  },
+  {
+    "id": "ganjuh",
+    "name": "Ganjuh",
+    "district": "pino"
+  },
+  {
+    "id": "kota-bumi",
+    "name": "Kota Bumi",
+    "district": "pino"
+  },
+  {
+    "id": "batu-bandung",
+    "name": "Batu Bandung",
+    "district": "pino"
+  },
+  {
+    "id": "beringin-datar",
+    "name": "Beringin Datar",
+    "district": "pino"
+  },
+  {
+    "id": "padang-mumpo",
+    "name": "Padang Mumpo",
+    "district": "pino"
+  },
+  {
+    "id": "padang-tambak",
+    "name": "Padang Tambak",
+    "district": "pino"
+  }
+]

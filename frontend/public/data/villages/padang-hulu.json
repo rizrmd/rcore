@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pabatu",
+    "name": "Pabatu",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "lubuk-baru",
+    "name": "Lubuk Baru",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "persiakan",
+    "name": "Persiakan",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "bandarsono",
+    "name": "Bandarsono",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "tualang",
+    "name": "Tualang",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "lubuk-raya",
+    "name": "Lubuk Raya",
+    "district": "padang-hulu"
+  },
+  {
+    "id": "padang-merbau",
+    "name": "Padang Merbau",
+    "district": "padang-hulu"
+  }
+]

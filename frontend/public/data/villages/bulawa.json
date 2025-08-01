@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kaidundu",
+    "name": "Kaidundu",
+    "district": "bulawa"
+  },
+  {
+    "id": "mamungaa",
+    "name": "Mamungaa",
+    "district": "bulawa"
+  },
+  {
+    "id": "kaidundu-barat",
+    "name": "Kaidundu Barat",
+    "district": "bulawa"
+  },
+  {
+    "id": "mopuya",
+    "name": "Mopuya",
+    "district": "bulawa"
+  },
+  {
+    "id": "pinomontiga",
+    "name": "Pinomontiga",
+    "district": "bulawa"
+  },
+  {
+    "id": "dunggilata",
+    "name": "Dunggilata",
+    "district": "bulawa"
+  },
+  {
+    "id": "mamungaa-timur",
+    "name": "Mamungaa Timur",
+    "district": "bulawa"
+  },
+  {
+    "id": "bukit-hijau",
+    "name": "Bukit Hijau",
+    "district": "bulawa"
+  },
+  {
+    "id": "patoa",
+    "name": "Patoa",
+    "district": "bulawa"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "klemunan",
+    "name": "Klemunan",
+    "district": "wlingi"
+  },
+  {
+    "id": "wlingi",
+    "name": "Wlingi",
+    "district": "wlingi"
+  },
+  {
+    "id": "tangkil",
+    "name": "Tangkil",
+    "district": "wlingi"
+  },
+  {
+    "id": "babadan",
+    "name": "Babadan",
+    "district": "wlingi"
+  },
+  {
+    "id": "tembalang",
+    "name": "Tembalang",
+    "district": "wlingi"
+  },
+  {
+    "id": "ngadirenggo",
+    "name": "Ngadirenggo",
+    "district": "wlingi"
+  },
+  {
+    "id": "tegalasri",
+    "name": "Tegalasri",
+    "district": "wlingi"
+  },
+  {
+    "id": "balerejo",
+    "name": "Balerejo",
+    "district": "wlingi"
+  }
+]

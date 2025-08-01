@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pulai-anak-air",
+    "name": "Pulai Anak Air",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "koto-selayan",
+    "name": "Koto Selayan",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "garegeh",
+    "name": "Garegeh",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "manggis-ganting",
+    "name": "Manggis Ganting",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "campago-ipuh",
+    "name": "Campago Ipuh",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "puhun-tembok",
+    "name": "Puhun Tembok",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "puhun-pintu-kabun",
+    "name": "Puhun Pintu Kabun",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "kubu-gulai-bancah",
+    "name": "Kubu Gulai Bancah",
+    "district": "mandiangin-koto-selayan"
+  },
+  {
+    "id": "campago-guguk-bulek",
+    "name": "Campago Guguk Bulek",
+    "district": "mandiangin-koto-selayan"
+  }
+]

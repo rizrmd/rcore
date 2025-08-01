@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bedewang",
+    "name": "Bedewang",
+    "district": "songgon"
+  },
+  {
+    "id": "balak",
+    "name": "Balak",
+    "district": "songgon"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "songgon"
+  },
+  {
+    "id": "songgon",
+    "name": "Songgon",
+    "district": "songgon"
+  },
+  {
+    "id": "parangharjo",
+    "name": "Parangharjo",
+    "district": "songgon"
+  },
+  {
+    "id": "sragi",
+    "name": "Sragi",
+    "district": "songgon"
+  },
+  {
+    "id": "sumber-arum",
+    "name": "Sumber Arum",
+    "district": "songgon"
+  },
+  {
+    "id": "bayu",
+    "name": "Bayu",
+    "district": "songgon"
+  }
+]

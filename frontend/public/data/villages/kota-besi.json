@@ -1,0 +1,57 @@
+[
+  {
+    "id": "palangan",
+    "name": "Palangan",
+    "district": "kota-besi"
+  },
+  {
+    "id": "hanjalipan",
+    "name": "Hanjalipan",
+    "district": "kota-besi"
+  },
+  {
+    "id": "simpur",
+    "name": "Simpur",
+    "district": "kota-besi"
+  },
+  {
+    "id": "pamalian",
+    "name": "Pamalian",
+    "district": "kota-besi"
+  },
+  {
+    "id": "camba",
+    "name": "Camba",
+    "district": "kota-besi"
+  },
+  {
+    "id": "kandan",
+    "name": "Kandan",
+    "district": "kota-besi"
+  },
+  {
+    "id": "kota-besi-hulu",
+    "name": "Kota Besi Hulu",
+    "district": "kota-besi"
+  },
+  {
+    "id": "kota-besi-hilir",
+    "name": "Kota Besi Hilir",
+    "district": "kota-besi"
+  },
+  {
+    "id": "bajarum",
+    "name": "Bajarum",
+    "district": "kota-besi"
+  },
+  {
+    "id": "rasau-tumbuh",
+    "name": "Rasau Tumbuh",
+    "district": "kota-besi"
+  },
+  {
+    "id": "soren",
+    "name": "Soren",
+    "district": "kota-besi"
+  }
+]

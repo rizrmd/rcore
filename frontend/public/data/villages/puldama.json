@@ -1,0 +1,37 @@
+[
+  {
+    "id": "puldama",
+    "name": "Puldama",
+    "district": "puldama"
+  },
+  {
+    "id": "kasen",
+    "name": "Kasen",
+    "district": "puldama"
+  },
+  {
+    "id": "bako",
+    "name": "Bako",
+    "district": "puldama"
+  },
+  {
+    "id": "balsek",
+    "name": "Balsek",
+    "district": "puldama"
+  },
+  {
+    "id": "manbolak",
+    "name": "Manbolak",
+    "district": "puldama"
+  },
+  {
+    "id": "famek",
+    "name": "Famek",
+    "district": "puldama"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "puldama"
+  }
+]

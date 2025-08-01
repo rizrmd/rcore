@@ -1,0 +1,47 @@
+[
+  {
+    "id": "purbosari",
+    "name": "Purbosari",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "talang-perapat",
+    "name": "Talang Perapat",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "air-latak",
+    "name": "Air Latak",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "pagar-agung",
+    "name": "Pagar Agung",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "talang-tinggi",
+    "name": "Talang Tinggi",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "lunjuk",
+    "name": "Lunjuk",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "lubuk-lagan",
+    "name": "Lubuk Lagan",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "seluma-barat"
+  },
+  {
+    "id": "sengkuang-jaya",
+    "name": "Sengkuang Jaya",
+    "district": "seluma-barat"
+  }
+]

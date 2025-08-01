@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kertosari",
+    "name": "Kertosari",
+    "district": "pakusari"
+  },
+  {
+    "id": "pakusari",
+    "name": "Pakusari",
+    "district": "pakusari"
+  },
+  {
+    "id": "jatian",
+    "name": "Jatian",
+    "district": "pakusari"
+  },
+  {
+    "id": "subo",
+    "name": "Subo",
+    "district": "pakusari"
+  },
+  {
+    "id": "sumber-pinang",
+    "name": "Sumber Pinang",
+    "district": "pakusari"
+  },
+  {
+    "id": "bedadung",
+    "name": "Bedadung",
+    "district": "pakusari"
+  },
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "pakusari"
+  }
+]

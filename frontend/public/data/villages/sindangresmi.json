@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pasirloa",
+    "name": "Pasirloa",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "bojongmanik",
+    "name": "Bojongmanik",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "campakawarna",
+    "name": "Campakawarna",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "ciodeng",
+    "name": "Ciodeng",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "pasirtenjo",
+    "name": "Pasirtenjo",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "sindangresmi",
+    "name": "Sindangresmi",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "pasirlancar",
+    "name": "Pasirlancar",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "pasirdurung",
+    "name": "Pasirdurung",
+    "district": "sindangresmi"
+  },
+  {
+    "id": "kadumalati",
+    "name": "Kadumalati",
+    "district": "sindangresmi"
+  }
+]

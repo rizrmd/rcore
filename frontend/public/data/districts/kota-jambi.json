@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "alam-barajo",
+    "name": "Alam Barajo",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "jambi-selatan",
+    "name": "Jambi Selatan",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "paal-merah",
+    "name": "Paal Merah",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "jelutung",
+    "name": "Jelutung",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "pasar-jambi",
+    "name": "Pasar Jambi",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "telanaipura",
+    "name": "Telanaipura",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "danau-sipin",
+    "name": "Danau Sipin",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "danau-teluk",
+    "name": "Danau Teluk",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "pelayangan",
+    "name": "Pelayangan",
+    "regency": "kota-jambi"
+  },
+  {
+    "id": "jambi-timur",
+    "name": "Jambi Timur",
+    "regency": "kota-jambi"
+  }
+]

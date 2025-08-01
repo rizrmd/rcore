@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mentawak",
+    "name": "Mentawak",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "sungai-ulak",
+    "name": "Sungai Ulak",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "aur-berduri",
+    "name": "Aur Berduri",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "danau",
+    "name": "Danau",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "telun",
+    "name": "Telun",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "nalo-gedang",
+    "name": "Nalo Gedang",
+    "district": "nalo-tantan"
+  },
+  {
+    "id": "baru-nalo",
+    "name": "Baru Nalo",
+    "district": "nalo-tantan"
+  }
+]

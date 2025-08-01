@@ -1,0 +1,52 @@
+[
+  {
+    "id": "merbau",
+    "name": "Merbau",
+    "district": "bunut"
+  },
+  {
+    "id": "petani",
+    "name": "Petani",
+    "district": "bunut"
+  },
+  {
+    "id": "pangkalan-bunut",
+    "name": "Pangkalan Bunut",
+    "district": "bunut"
+  },
+  {
+    "id": "lubuk-mas",
+    "name": "Lubuk Mas",
+    "district": "bunut"
+  },
+  {
+    "id": "balam-merah",
+    "name": "Balam Merah",
+    "district": "bunut"
+  },
+  {
+    "id": "bagan-laguh",
+    "name": "Bagan Laguh",
+    "district": "bunut"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "bunut"
+  },
+  {
+    "id": "lubuk-mandian-gajah",
+    "name": "Lubuk Mandian Gajah",
+    "district": "bunut"
+  },
+  {
+    "id": "keriung",
+    "name": "Keriung",
+    "district": "bunut"
+  },
+  {
+    "id": "sialang-kayu-batu",
+    "name": "Sialang Kayu Batu",
+    "district": "bunut"
+  }
+]

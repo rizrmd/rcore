@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kasambang",
+    "name": "Kasambang",
+    "district": "tapalang"
+  },
+  {
+    "id": "bela",
+    "name": "Bela",
+    "district": "tapalang"
+  },
+  {
+    "id": "galung",
+    "name": "Galung",
+    "district": "tapalang"
+  },
+  {
+    "id": "orobatu",
+    "name": "Orobatu",
+    "district": "tapalang"
+  },
+  {
+    "id": "takandeang",
+    "name": "Takandeang",
+    "district": "tapalang"
+  },
+  {
+    "id": "taan",
+    "name": "Taan",
+    "district": "tapalang"
+  },
+  {
+    "id": "kopeang",
+    "name": "Kopeang",
+    "district": "tapalang"
+  },
+  {
+    "id": "rantedoda",
+    "name": "Rantedoda",
+    "district": "tapalang"
+  },
+  {
+    "id": "tampalang",
+    "name": "Tampalang",
+    "district": "tapalang"
+  },
+  {
+    "id": "dayanginna",
+    "name": "Dayanginna",
+    "district": "tapalang"
+  }
+]

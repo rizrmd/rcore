@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sei-lunang",
+    "name": "Sei Lunang",
+    "district": "sei-kepayang-timur"
+  },
+  {
+    "id": "sei-pasir",
+    "name": "Sei Pasir",
+    "district": "sei-kepayang-timur"
+  },
+  {
+    "id": "sei-tempurung",
+    "name": "Sei Tempurung",
+    "district": "sei-kepayang-timur"
+  },
+  {
+    "id": "sarang-helang",
+    "name": "Sarang Helang",
+    "district": "sei-kepayang-timur"
+  },
+  {
+    "id": "sei-sembilang",
+    "name": "Sei Sembilang",
+    "district": "sei-kepayang-timur"
+  }
+]

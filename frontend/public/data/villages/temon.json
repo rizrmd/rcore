@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jangkaran",
+    "name": "Jangkaran",
+    "district": "temon"
+  },
+  {
+    "id": "sindutan",
+    "name": "Sindutan",
+    "district": "temon"
+  },
+  {
+    "id": "palihan",
+    "name": "Palihan",
+    "district": "temon"
+  },
+  {
+    "id": "glagah",
+    "name": "Glagah",
+    "district": "temon"
+  },
+  {
+    "id": "kali-dengen",
+    "name": "Kali Dengen",
+    "district": "temon"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "temon"
+  },
+  {
+    "id": "kedundang",
+    "name": "Kedundang",
+    "district": "temon"
+  },
+  {
+    "id": "kaligintung",
+    "name": "Kaligintung",
+    "district": "temon"
+  },
+  {
+    "id": "temon-wetan",
+    "name": "Temon Wetan",
+    "district": "temon"
+  },
+  {
+    "id": "temon-kulon",
+    "name": "Temon Kulon",
+    "district": "temon"
+  },
+  {
+    "id": "kebonrejo",
+    "name": "Kebonrejo",
+    "district": "temon"
+  },
+  {
+    "id": "janten",
+    "name": "Janten",
+    "district": "temon"
+  },
+  {
+    "id": "karang-wuluh",
+    "name": "Karang Wuluh",
+    "district": "temon"
+  }
+]

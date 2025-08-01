@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sorong-barat",
+    "name": "Sorong Barat",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong-kepulauan",
+    "name": "Sorong Kepulauan",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "maladum-mes",
+    "name": "Maladum Mes",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong-timur",
+    "name": "Sorong Timur",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong-utara",
+    "name": "Sorong Utara",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong",
+    "name": "Sorong",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong-manoi",
+    "name": "Sorong Manoi",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "klaurung",
+    "name": "Klaurung",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "malaimsimsa",
+    "name": "Malaimsimsa",
+    "regency": "kota-sorong"
+  },
+  {
+    "id": "sorong-kota",
+    "name": "Sorong Kota",
+    "regency": "kota-sorong"
+  }
+]

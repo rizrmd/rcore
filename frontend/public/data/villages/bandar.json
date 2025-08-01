@@ -1,0 +1,357 @@
+[
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "bandar"
+  },
+  {
+    "id": "paya-baning",
+    "name": "Paya Baning",
+    "district": "bandar"
+  },
+  {
+    "id": "blang-pulo",
+    "name": "Blang Pulo",
+    "district": "bandar"
+  },
+  {
+    "id": "petukel-blang-jorong",
+    "name": "Petukel Blang Jorong",
+    "district": "bandar"
+  },
+  {
+    "id": "tanjung-pura",
+    "name": "Tanjung Pura",
+    "district": "bandar"
+  },
+  {
+    "id": "hakim-wih-ilang",
+    "name": "Hakim Wih Ilang",
+    "district": "bandar"
+  },
+  {
+    "id": "lewa-jadi",
+    "name": "Lewa Jadi",
+    "district": "bandar"
+  },
+  {
+    "id": "bukit-wih-ilang",
+    "name": "Bukit Wih Ilang",
+    "district": "bandar"
+  },
+  {
+    "id": "suku-wih-ilang",
+    "name": "Suku Wih Ilang",
+    "district": "bandar"
+  },
+  {
+    "id": "pondok-gajah",
+    "name": "Pondok Gajah",
+    "district": "bandar"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "bandar"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "bandar"
+  },
+  {
+    "id": "selamat-rejo",
+    "name": "Selamat Rejo",
+    "district": "bandar"
+  },
+  {
+    "id": "pondok-ulung",
+    "name": "Pondok Ulung",
+    "district": "bandar"
+  },
+  {
+    "id": "janarata",
+    "name": "Janarata",
+    "district": "bandar"
+  },
+  {
+    "id": "batin-baru",
+    "name": "Batin Baru",
+    "district": "bandar"
+  },
+  {
+    "id": "muyang-kute-mangku",
+    "name": "Muyang Kute Mangku",
+    "district": "bandar"
+  },
+  {
+    "id": "keramat-jaya",
+    "name": "Keramat Jaya",
+    "district": "bandar"
+  },
+  {
+    "id": "simpang-utama",
+    "name": "Simpang Utama",
+    "district": "bandar"
+  },
+  {
+    "id": "pakat-jeroh",
+    "name": "Pakat Jeroh",
+    "district": "bandar"
+  },
+  {
+    "id": "puja-mulia",
+    "name": "Puja Mulia",
+    "district": "bandar"
+  },
+  {
+    "id": "pondok-baru",
+    "name": "Pondok Baru",
+    "district": "bandar"
+  },
+  {
+    "id": "bahgie-bertona",
+    "name": "Bahgie Bertona",
+    "district": "bandar"
+  },
+  {
+    "id": "tansaran-bidin",
+    "name": "Tansaran Bidin",
+    "district": "bandar"
+  },
+  {
+    "id": "sinar-jaya-paya-ringkel",
+    "name": "Sinar Jaya Paya Ringkel",
+    "district": "bandar"
+  },
+  {
+    "id": "remang-ketike-jaya",
+    "name": "Remang Ketike Jaya",
+    "district": "bandar"
+  },
+  {
+    "id": "gunung-antara",
+    "name": "Gunung Antara",
+    "district": "bandar"
+  },
+  {
+    "id": "gele-semayang",
+    "name": "Gele Semayang",
+    "district": "bandar"
+  },
+  {
+    "id": "makmur-sentosa",
+    "name": "Makmur Sentosa",
+    "district": "bandar"
+  },
+  {
+    "id": "tawar-sedenge",
+    "name": "Tawar Sedenge",
+    "district": "bandar"
+  },
+  {
+    "id": "jadi-sepakat",
+    "name": "Jadi Sepakat",
+    "district": "bandar"
+  },
+  {
+    "id": "selisih-mara",
+    "name": "Selisih Mara",
+    "district": "bandar"
+  },
+  {
+    "id": "kala-nempan",
+    "name": "Kala Nempan",
+    "district": "bandar"
+  },
+  {
+    "id": "mutiara",
+    "name": "Mutiara",
+    "district": "bandar"
+  },
+  {
+    "id": "beranun-teleden",
+    "name": "Beranun Teleden",
+    "district": "bandar"
+  },
+  {
+    "id": "pematang-kerasaan",
+    "name": "Pematang Kerasaan",
+    "district": "bandar"
+  },
+  {
+    "id": "pematang-kerasaan-rejo",
+    "name": "Pematang Kerasaan Rejo",
+    "district": "bandar"
+  },
+  {
+    "id": "marihat-bandar",
+    "name": "Marihat Bandar",
+    "district": "bandar"
+  },
+  {
+    "id": "timbaan",
+    "name": "Timbaan",
+    "district": "bandar"
+  },
+  {
+    "id": "nagori-bandar",
+    "name": "Nagori Bandar",
+    "district": "bandar"
+  },
+  {
+    "id": "bandar-rakyat",
+    "name": "Bandar Rakyat",
+    "district": "bandar"
+  },
+  {
+    "id": "bandar-pulo",
+    "name": "Bandar Pulo",
+    "district": "bandar"
+  },
+  {
+    "id": "bandar-jawa",
+    "name": "Bandar Jawa",
+    "district": "bandar"
+  },
+  {
+    "id": "perdagangan-i",
+    "name": "Perdagangan I",
+    "district": "bandar"
+  },
+  {
+    "id": "bah-lias",
+    "name": "Bah Lias",
+    "district": "bandar"
+  },
+  {
+    "id": "perdagangan-ii",
+    "name": "Perdagangan Ii",
+    "district": "bandar"
+  },
+  {
+    "id": "perlanaan",
+    "name": "Perlanaan",
+    "district": "bandar"
+  },
+  {
+    "id": "sido-tani",
+    "name": "Sido Tani",
+    "district": "bandar"
+  },
+  {
+    "id": "sugarang-bayu",
+    "name": "Sugarang Bayu",
+    "district": "bandar"
+  },
+  {
+    "id": "perdagangan-iii",
+    "name": "Perdagangan Iii",
+    "district": "bandar"
+  },
+  {
+    "id": "landbouw",
+    "name": "Landbouw",
+    "district": "bandar"
+  },
+  {
+    "id": "tombo",
+    "name": "Tombo",
+    "district": "bandar"
+  },
+  {
+    "id": "wonomerto",
+    "name": "Wonomerto",
+    "district": "bandar"
+  },
+  {
+    "id": "toso",
+    "name": "Toso",
+    "district": "bandar"
+  },
+  {
+    "id": "sidayu",
+    "name": "Sidayu",
+    "district": "bandar"
+  },
+  {
+    "id": "binangun",
+    "name": "Binangun",
+    "district": "bandar"
+  },
+  {
+    "id": "wonodadi",
+    "name": "Wonodadi",
+    "district": "bandar"
+  },
+  {
+    "id": "pesalakan",
+    "name": "Pesalakan",
+    "district": "bandar"
+  },
+  {
+    "id": "tambahrejo",
+    "name": "Tambahrejo",
+    "district": "bandar"
+  },
+  {
+    "id": "bandar",
+    "name": "Bandar",
+    "district": "bandar"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "bandar"
+  },
+  {
+    "id": "candi",
+    "name": "Candi",
+    "district": "bandar"
+  },
+  {
+    "id": "pucanggading",
+    "name": "Pucanggading",
+    "district": "bandar"
+  },
+  {
+    "id": "simpar",
+    "name": "Simpar",
+    "district": "bandar"
+  },
+  {
+    "id": "batiombo",
+    "name": "Batiombo",
+    "district": "bandar"
+  },
+  {
+    "id": "wonosegoro",
+    "name": "Wonosegoro",
+    "district": "bandar"
+  },
+  {
+    "id": "kluwih",
+    "name": "Kluwih",
+    "district": "bandar"
+  },
+  {
+    "id": "petungsinarang",
+    "name": "Petungsinarang",
+    "district": "bandar"
+  },
+  {
+    "id": "bandar",
+    "name": "Bandar",
+    "district": "bandar"
+  },
+  {
+    "id": "watupatok",
+    "name": "Watupatok",
+    "district": "bandar"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "bandar"
+  }
+]

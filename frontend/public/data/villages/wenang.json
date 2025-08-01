@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bumi-beringin",
+    "name": "Bumi Beringin",
+    "district": "wenang"
+  },
+  {
+    "id": "teling-bawah",
+    "name": "Teling Bawah",
+    "district": "wenang"
+  },
+  {
+    "id": "tikala-kumaraka",
+    "name": "Tikala Kumaraka",
+    "district": "wenang"
+  },
+  {
+    "id": "mahakeret-barat",
+    "name": "Mahakeret Barat",
+    "district": "wenang"
+  },
+  {
+    "id": "mahakeret-timur",
+    "name": "Mahakeret Timur",
+    "district": "wenang"
+  },
+  {
+    "id": "wenang-utara",
+    "name": "Wenang Utara",
+    "district": "wenang"
+  },
+  {
+    "id": "wenang-selatan",
+    "name": "Wenang Selatan",
+    "district": "wenang"
+  },
+  {
+    "id": "lawangirung",
+    "name": "Lawangirung",
+    "district": "wenang"
+  },
+  {
+    "id": "komo-luar",
+    "name": "Komo Luar",
+    "district": "wenang"
+  },
+  {
+    "id": "pinaesaan",
+    "name": "Pinaesaan",
+    "district": "wenang"
+  },
+  {
+    "id": "istiqlal",
+    "name": "Istiqlal",
+    "district": "wenang"
+  },
+  {
+    "id": "calaca",
+    "name": "Calaca",
+    "district": "wenang"
+  }
+]

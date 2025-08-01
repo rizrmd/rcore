@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pango-raya",
+    "name": "Pango Raya",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "pango-deah",
+    "name": "Pango Deah",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "ilie",
+    "name": "Ilie",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "lamteh",
+    "name": "Lamteh",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "lamglumpang",
+    "name": "Lamglumpang",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "ceurih",
+    "name": "Ceurih",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "iemasen-ulee-kareng",
+    "name": "Iemasen Ulee Kareng",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "doy",
+    "name": "Doy",
+    "district": "ulee-kareng"
+  },
+  {
+    "id": "lambhuk",
+    "name": "Lambhuk",
+    "district": "ulee-kareng"
+  }
+]

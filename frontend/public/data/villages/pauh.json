@@ -1,0 +1,117 @@
+[
+  {
+    "id": "pisang",
+    "name": "Pisang",
+    "district": "pauh"
+  },
+  {
+    "id": "binuang-kampung-dalam",
+    "name": "Binuang Kampung Dalam",
+    "district": "pauh"
+  },
+  {
+    "id": "piai-tangah",
+    "name": "Piai Tangah",
+    "district": "pauh"
+  },
+  {
+    "id": "cupak-tangah",
+    "name": "Cupak Tangah",
+    "district": "pauh"
+  },
+  {
+    "id": "kapala-koto",
+    "name": "Kapala Koto",
+    "district": "pauh"
+  },
+  {
+    "id": "koto-luar",
+    "name": "Koto Luar",
+    "district": "pauh"
+  },
+  {
+    "id": "lambung-bukit",
+    "name": "Lambung Bukit",
+    "district": "pauh"
+  },
+  {
+    "id": "limau-manis-selatan",
+    "name": "Limau Manis Selatan",
+    "district": "pauh"
+  },
+  {
+    "id": "limau-manis",
+    "name": "Limau Manis",
+    "district": "pauh"
+  },
+  {
+    "id": "seko-besar",
+    "name": "Seko Besar",
+    "district": "pauh"
+  },
+  {
+    "id": "taman-bandung",
+    "name": "Taman Bandung",
+    "district": "pauh"
+  },
+  {
+    "id": "sepintun",
+    "name": "Sepintun",
+    "district": "pauh"
+  },
+  {
+    "id": "lamban-sigatal",
+    "name": "Lamban Sigatal",
+    "district": "pauh"
+  },
+  {
+    "id": "lubuk-napal",
+    "name": "Lubuk Napal",
+    "district": "pauh"
+  },
+  {
+    "id": "pangidaran",
+    "name": "Pangidaran",
+    "district": "pauh"
+  },
+  {
+    "id": "karang-mendapo",
+    "name": "Karang Mendapo",
+    "district": "pauh"
+  },
+  {
+    "id": "batu-ampar",
+    "name": "Batu Ampar",
+    "district": "pauh"
+  },
+  {
+    "id": "batu-kucing",
+    "name": "Batu Kucing",
+    "district": "pauh"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "pauh"
+  },
+  {
+    "id": "semaran",
+    "name": "Semaran",
+    "district": "pauh"
+  },
+  {
+    "id": "kasang-melintang",
+    "name": "Kasang Melintang",
+    "district": "pauh"
+  },
+  {
+    "id": "pangkal-bulian",
+    "name": "Pangkal Bulian",
+    "district": "pauh"
+  },
+  {
+    "id": "danauserdang",
+    "name": "Danauserdang",
+    "district": "pauh"
+  }
+]

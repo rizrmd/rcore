@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kayowa",
+    "name": "Kayowa",
+    "district": "batui"
+  },
+  {
+    "id": "nonong",
+    "name": "Nonong",
+    "district": "batui"
+  },
+  {
+    "id": "sisipan",
+    "name": "Sisipan",
+    "district": "batui"
+  },
+  {
+    "id": "ondo-ondolu-i",
+    "name": "Ondo-Ondolu I",
+    "district": "batui"
+  },
+  {
+    "id": "ondo-ondolu",
+    "name": "Ondo Ondolu",
+    "district": "batui"
+  },
+  {
+    "id": "tolando",
+    "name": "Tolando",
+    "district": "batui"
+  },
+  {
+    "id": "batui",
+    "name": "Batui",
+    "district": "batui"
+  },
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "district": "batui"
+  },
+  {
+    "id": "balantang",
+    "name": "Balantang",
+    "district": "batui"
+  },
+  {
+    "id": "lamo",
+    "name": "Lamo",
+    "district": "batui"
+  },
+  {
+    "id": "honbola",
+    "name": "Honbola",
+    "district": "batui"
+  },
+  {
+    "id": "uso",
+    "name": "Uso",
+    "district": "batui"
+  },
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "batui"
+  }
+]

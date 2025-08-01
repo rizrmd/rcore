@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kebong",
+    "name": "Kebong",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "merpak",
+    "name": "Merpak",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "nanga-lebang",
+    "name": "Nanga Lebang",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "sungai-maram",
+    "name": "Sungai Maram",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "ensaid-panjang",
+    "name": "Ensaid Panjang",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "baning-panjang",
+    "name": "Baning Panjang",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "pelimping",
+    "name": "Pelimping",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "sepan-lebang",
+    "name": "Sepan Lebang",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "sungai-pukat",
+    "name": "Sungai Pukat",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "bengkuang",
+    "name": "Bengkuang",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "gemba-raya",
+    "name": "Gemba Raya",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "karya-jaya-bhakti",
+    "name": "Karya Jaya Bhakti",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "mandiri-jaya",
+    "name": "Mandiri Jaya",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "landau-kodam",
+    "name": "Landau Kodam",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "sungai-labi",
+    "name": "Sungai Labi",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "sungai-lais",
+    "name": "Sungai Lais",
+    "district": "kelam-permai"
+  },
+  {
+    "id": "kelam-sejahtera",
+    "name": "Kelam Sejahtera",
+    "district": "kelam-permai"
+  }
+]

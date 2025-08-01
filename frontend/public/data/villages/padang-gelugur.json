@@ -1,0 +1,22 @@
+[
+  {
+    "id": "padang-galugua",
+    "name": "Padang Galugua",
+    "district": "padang-gelugur"
+  },
+  {
+    "id": "persiapan-bahagia-padang-galugua",
+    "name": "Persiapan Bahagia Padang Galugua",
+    "district": "padang-gelugur"
+  },
+  {
+    "id": "persiapan-sitombol-padang-galugua",
+    "name": "Persiapan Sitombol Padang Galugua",
+    "district": "padang-gelugur"
+  },
+  {
+    "id": "persiapan-sontang-cubadak",
+    "name": "Persiapan Sontang Cubadak",
+    "district": "padang-gelugur"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-aur",
+    "name": "Tanjung Aur",
+    "district": "air-padang"
+  },
+  {
+    "id": "mesigit",
+    "name": "Mesigit",
+    "district": "air-padang"
+  },
+  {
+    "id": "retes",
+    "name": "Retes",
+    "district": "air-padang"
+  },
+  {
+    "id": "lubuk-mumpo",
+    "name": "Lubuk Mumpo",
+    "district": "air-padang"
+  },
+  {
+    "id": "talang-ulu",
+    "name": "Talang Ulu",
+    "district": "air-padang"
+  },
+  {
+    "id": "kembang-manis",
+    "name": "Kembang Manis",
+    "district": "air-padang"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "air-padang"
+  },
+  {
+    "id": "teluk-ajang",
+    "name": "Teluk Ajang",
+    "district": "air-padang"
+  },
+  {
+    "id": "dusun-balam",
+    "name": "Dusun Balam",
+    "district": "air-padang"
+  },
+  {
+    "id": "padang-kala",
+    "name": "Padang Kala",
+    "district": "air-padang"
+  }
+]

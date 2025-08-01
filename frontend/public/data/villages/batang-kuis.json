@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sena",
+    "name": "Sena",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "tumpatan-nibung",
+    "name": "Tumpatan Nibung",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "bakaran-batu",
+    "name": "Bakaran Batu",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "bintang-meriah",
+    "name": "Bintang Meriah",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "batang-kuis-pekan",
+    "name": "Batang Kuis Pekan",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "paya-gambar",
+    "name": "Paya Gambar",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "sugiharjo",
+    "name": "Sugiharjo",
+    "district": "batang-kuis"
+  },
+  {
+    "id": "mesjid",
+    "name": "Mesjid",
+    "district": "batang-kuis"
+  }
+]

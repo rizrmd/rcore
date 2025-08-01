@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pahonjean",
+    "name": "Pahonjean",
+    "district": "majenang"
+  },
+  {
+    "id": "mulyadadi",
+    "name": "Mulyadadi",
+    "district": "majenang"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "majenang"
+  },
+  {
+    "id": "padangsari",
+    "name": "Padangsari",
+    "district": "majenang"
+  },
+  {
+    "id": "cilopadang",
+    "name": "Cilopadang",
+    "district": "majenang"
+  },
+  {
+    "id": "padangjaya",
+    "name": "Padangjaya",
+    "district": "majenang"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "majenang"
+  },
+  {
+    "id": "jenang",
+    "name": "Jenang",
+    "district": "majenang"
+  },
+  {
+    "id": "salebu",
+    "name": "Salebu",
+    "district": "majenang"
+  },
+  {
+    "id": "cibeunying",
+    "name": "Cibeunying",
+    "district": "majenang"
+  },
+  {
+    "id": "sepatnunggal",
+    "name": "Sepatnunggal",
+    "district": "majenang"
+  },
+  {
+    "id": "boja",
+    "name": "Boja",
+    "district": "majenang"
+  },
+  {
+    "id": "ujungbarang",
+    "name": "Ujungbarang",
+    "district": "majenang"
+  },
+  {
+    "id": "pengadegan",
+    "name": "Pengadegan",
+    "district": "majenang"
+  },
+  {
+    "id": "sadabumi",
+    "name": "Sadabumi",
+    "district": "majenang"
+  },
+  {
+    "id": "sadahayu",
+    "name": "Sadahayu",
+    "district": "majenang"
+  }
+]

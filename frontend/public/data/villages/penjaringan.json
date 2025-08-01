@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kamal-muara",
+    "name": "Kamal Muara",
+    "district": "penjaringan"
+  },
+  {
+    "id": "kapuk-muara",
+    "name": "Kapuk Muara",
+    "district": "penjaringan"
+  },
+  {
+    "id": "pejagalan",
+    "name": "Pejagalan",
+    "district": "penjaringan"
+  },
+  {
+    "id": "penjaringan",
+    "name": "Penjaringan",
+    "district": "penjaringan"
+  },
+  {
+    "id": "pluit",
+    "name": "Pluit",
+    "district": "penjaringan"
+  }
+]

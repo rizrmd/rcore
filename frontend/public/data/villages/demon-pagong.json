@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lamika",
+    "name": "Lamika",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "kawalelo",
+    "name": "Kawalelo",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "watotika-ile",
+    "name": "Watotika Ile",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "lewokluok",
+    "name": "Lewokluok",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "blepanawa",
+    "name": "Blepanawa",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "bama",
+    "name": "Bama",
+    "district": "demon-pagong"
+  },
+  {
+    "id": "lewomuda",
+    "name": "Lewomuda",
+    "district": "demon-pagong"
+  }
+]

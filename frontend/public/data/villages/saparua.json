@@ -1,0 +1,32 @@
+[
+  {
+    "id": "saparua",
+    "name": "Saparua",
+    "district": "saparua"
+  },
+  {
+    "id": "tiouw",
+    "name": "Tiouw",
+    "district": "saparua"
+  },
+  {
+    "id": "paperu",
+    "name": "Paperu",
+    "district": "saparua"
+  },
+  {
+    "id": "booi",
+    "name": "Booi",
+    "district": "saparua"
+  },
+  {
+    "id": "haria",
+    "name": "Haria",
+    "district": "saparua"
+  },
+  {
+    "id": "porto",
+    "name": "Porto",
+    "district": "saparua"
+  }
+]

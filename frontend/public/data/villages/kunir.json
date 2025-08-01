@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "kunir"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "kunir"
+  },
+  {
+    "id": "jatigono",
+    "name": "Jatigono",
+    "district": "kunir"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "kunir"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "kunir"
+  },
+  {
+    "id": "kunir-kidul",
+    "name": "Kunir Kidul",
+    "district": "kunir"
+  },
+  {
+    "id": "kunir-lor",
+    "name": "Kunir Lor",
+    "district": "kunir"
+  },
+  {
+    "id": "kedungmoro",
+    "name": "Kedungmoro",
+    "district": "kunir"
+  },
+  {
+    "id": "karanglo",
+    "name": "Karanglo",
+    "district": "kunir"
+  },
+  {
+    "id": "kabuaran",
+    "name": "Kabuaran",
+    "district": "kunir"
+  },
+  {
+    "id": "dorogowok",
+    "name": "Dorogowok",
+    "district": "kunir"
+  }
+]

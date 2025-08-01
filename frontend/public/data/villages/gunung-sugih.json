@@ -1,0 +1,77 @@
+[
+  {
+    "id": "terbanggi-subing",
+    "name": "Terbanggi Subing",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "wono-sari",
+    "name": "Wono Sari",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "terbanggi-agung",
+    "name": "Terbanggi Agung",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "gunung-sugih-raya",
+    "name": "Gunung Sugih Raya",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "komering-agung",
+    "name": "Komering Agung",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "komering-putih",
+    "name": "Komering Putih",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "seputih-jaya",
+    "name": "Seputih Jaya",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "gunung-sugih",
+    "name": "Gunung Sugih",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "buyut-udik",
+    "name": "Buyut Udik",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "putra-buyut",
+    "name": "Putra Buyut",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "buyut-ilir",
+    "name": "Buyut Ilir",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "buyut-utara",
+    "name": "Buyut Utara",
+    "district": "gunung-sugih"
+  },
+  {
+    "id": "bangun-rejo",
+    "name": "Bangun Rejo",
+    "district": "gunung-sugih"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "keureutoau",
+    "name": "Keureutoau",
+    "district": "lapang"
+  },
+  {
+    "id": "lueng-baro",
+    "name": "Lueng Baro",
+    "district": "lapang"
+  },
+  {
+    "id": "merbo-lama",
+    "name": "Merbo Lama",
+    "district": "lapang"
+  },
+  {
+    "id": "merbo-jurong",
+    "name": "Merbo Jurong",
+    "district": "lapang"
+  },
+  {
+    "id": "tanjung-dama",
+    "name": "Tanjung Dama",
+    "district": "lapang"
+  },
+  {
+    "id": "geulanggang-baro",
+    "name": "Geulanggang Baro",
+    "district": "lapang"
+  },
+  {
+    "id": "matang-tunong",
+    "name": "Matang Tunong",
+    "district": "lapang"
+  },
+  {
+    "id": "matang-baroh",
+    "name": "Matang Baroh",
+    "district": "lapang"
+  },
+  {
+    "id": "keude-lapang",
+    "name": "Keude Lapang",
+    "district": "lapang"
+  },
+  {
+    "id": "kuala-cangkoi",
+    "name": "Kuala Cangkoi",
+    "district": "lapang"
+  },
+  {
+    "id": "kuala-kereutou",
+    "name": "Kuala Kereutou",
+    "district": "lapang"
+  }
+]

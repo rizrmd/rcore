@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pliken",
+    "name": "Pliken",
+    "district": "kembaran"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "kembaran"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "kembaran"
+  },
+  {
+    "id": "kramat",
+    "name": "Kramat",
+    "district": "kembaran"
+  },
+  {
+    "id": "sambeng-wetan",
+    "name": "Sambeng Wetan",
+    "district": "kembaran"
+  },
+  {
+    "id": "sambeng-kulon",
+    "name": "Sambeng Kulon",
+    "district": "kembaran"
+  },
+  {
+    "id": "purbadana",
+    "name": "Purbadana",
+    "district": "kembaran"
+  },
+  {
+    "id": "kembaran",
+    "name": "Kembaran",
+    "district": "kembaran"
+  },
+  {
+    "id": "bojongsari",
+    "name": "Bojongsari",
+    "district": "kembaran"
+  },
+  {
+    "id": "karangsoka",
+    "name": "Karangsoka",
+    "district": "kembaran"
+  },
+  {
+    "id": "dukuhwaluh",
+    "name": "Dukuhwaluh",
+    "district": "kembaran"
+  },
+  {
+    "id": "tambaksari-kidul",
+    "name": "Tambaksari Kidul",
+    "district": "kembaran"
+  },
+  {
+    "id": "bantarwuni",
+    "name": "Bantarwuni",
+    "district": "kembaran"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "kembaran"
+  },
+  {
+    "id": "linggasari",
+    "name": "Linggasari",
+    "district": "kembaran"
+  }
+]

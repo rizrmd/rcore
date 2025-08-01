@@ -1,0 +1,72 @@
+[
+  {
+    "id": "padang-alang",
+    "name": "Padang Alang",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "maikang",
+    "name": "Maikang",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "sidabui",
+    "name": "Sidabui",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "kiraman",
+    "name": "Kiraman",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "kuneman",
+    "name": "Kuneman",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "lella",
+    "name": "Lella",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "manmas",
+    "name": "Manmas",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "silaipui",
+    "name": "Silaipui",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "tamanapui",
+    "name": "Tamanapui",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "kelaisi-timur",
+    "name": "Kelaisi Timur",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "s-u-b-o",
+    "name": "S U B O",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "kelaisi-tengah",
+    "name": "Kelaisi Tengah",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "kelaisi-barat",
+    "name": "Kelaisi Barat",
+    "district": "alor-selatan"
+  },
+  {
+    "id": "malaipea",
+    "name": "Malaipea",
+    "district": "alor-selatan"
+  }
+]

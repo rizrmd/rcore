@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gandasari",
+    "name": "Gandasari",
+    "district": "katapang"
+  },
+  {
+    "id": "katapang",
+    "name": "Katapang",
+    "district": "katapang"
+  },
+  {
+    "id": "cilampeni",
+    "name": "Cilampeni",
+    "district": "katapang"
+  },
+  {
+    "id": "pangauban",
+    "name": "Pangauban",
+    "district": "katapang"
+  },
+  {
+    "id": "banyusari",
+    "name": "Banyusari",
+    "district": "katapang"
+  },
+  {
+    "id": "sangkanhurip",
+    "name": "Sangkanhurip",
+    "district": "katapang"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "katapang"
+  }
+]

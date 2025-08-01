@@ -1,0 +1,27 @@
+[
+  {
+    "id": "beo",
+    "name": "Beo",
+    "district": "beo"
+  },
+  {
+    "id": "bantik",
+    "name": "Bantik",
+    "district": "beo"
+  },
+  {
+    "id": "bantik-lama",
+    "name": "Bantik Lama",
+    "district": "beo"
+  },
+  {
+    "id": "beo-barat",
+    "name": "Beo Barat",
+    "district": "beo"
+  },
+  {
+    "id": "beo-timur",
+    "name": "Beo Timur",
+    "district": "beo"
+  }
+]

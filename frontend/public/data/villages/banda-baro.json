@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jamuan",
+    "name": "Jamuan",
+    "district": "banda-baro"
+  },
+  {
+    "id": "alue-keureunyai",
+    "name": "Alue Keureunyai",
+    "district": "banda-baro"
+  },
+  {
+    "id": "blang-pala",
+    "name": "Blang Pala",
+    "district": "banda-baro"
+  },
+  {
+    "id": "sangkelan",
+    "name": "Sangkelan",
+    "district": "banda-baro"
+  },
+  {
+    "id": "ulee-nyeue",
+    "name": "Ulee Nyeue",
+    "district": "banda-baro"
+  },
+  {
+    "id": "paya-uleue",
+    "name": "Paya Uleue",
+    "district": "banda-baro"
+  },
+  {
+    "id": "cot-jabet",
+    "name": "Cot Jabet",
+    "district": "banda-baro"
+  },
+  {
+    "id": "paya-dua",
+    "name": "Paya Dua",
+    "district": "banda-baro"
+  },
+  {
+    "id": "paya-beunyot",
+    "name": "Paya Beunyot",
+    "district": "banda-baro"
+  }
+]

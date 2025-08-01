@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ringinpitu",
+    "name": "Ringinpitu",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "mrisi",
+    "name": "Mrisi",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "ngambakrejo",
+    "name": "Ngambakrejo",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "kapung",
+    "name": "Kapung",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "kaliwenang",
+    "name": "Kaliwenang",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "sugihmanik",
+    "name": "Sugihmanik",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "tanggungharjo",
+    "name": "Tanggungharjo",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "brabo",
+    "name": "Brabo",
+    "district": "tanggungharjo"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "tanggungharjo"
+  }
+]

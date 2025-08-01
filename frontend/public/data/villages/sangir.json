@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lubuk-gadang",
+    "name": "Lubuk Gadang",
+    "district": "sangir"
+  },
+  {
+    "id": "lubuk-gadang-timur",
+    "name": "Lubuk Gadang Timur",
+    "district": "sangir"
+  },
+  {
+    "id": "lubuk-gadang-selatan",
+    "name": "Lubuk Gadang Selatan",
+    "district": "sangir"
+  },
+  {
+    "id": "lubuk-gadang-utara",
+    "name": "Lubuk Gadang Utara",
+    "district": "sangir"
+  }
+]

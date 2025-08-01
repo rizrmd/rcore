@@ -1,0 +1,27 @@
+[
+  {
+    "id": "besusu-barat",
+    "name": "Besusu Barat",
+    "district": "palu-timur"
+  },
+  {
+    "id": "besusu-tengah",
+    "name": "Besusu Tengah",
+    "district": "palu-timur"
+  },
+  {
+    "id": "besusu-timur",
+    "name": "Besusu Timur",
+    "district": "palu-timur"
+  },
+  {
+    "id": "lolu-utara",
+    "name": "Lolu Utara",
+    "district": "palu-timur"
+  },
+  {
+    "id": "lolu-selatan",
+    "name": "Lolu Selatan",
+    "district": "palu-timur"
+  }
+]

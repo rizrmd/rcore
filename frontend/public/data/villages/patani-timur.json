@@ -1,0 +1,32 @@
+[
+  {
+    "id": "peniti",
+    "name": "Peniti",
+    "district": "patani-timur"
+  },
+  {
+    "id": "masure",
+    "name": "Masure",
+    "district": "patani-timur"
+  },
+  {
+    "id": "sakam",
+    "name": "Sakam",
+    "district": "patani-timur"
+  },
+  {
+    "id": "pallo",
+    "name": "Pallo",
+    "district": "patani-timur"
+  },
+  {
+    "id": "damuli",
+    "name": "Damuli",
+    "district": "patani-timur"
+  },
+  {
+    "id": "nursifa",
+    "name": "Nursifa",
+    "district": "patani-timur"
+  }
+]

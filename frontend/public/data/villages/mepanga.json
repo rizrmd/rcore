@@ -1,0 +1,87 @@
+[
+  {
+    "id": "mepanga",
+    "name": "Mepanga",
+    "district": "mepanga"
+  },
+  {
+    "id": "kotaraya",
+    "name": "Kotaraya",
+    "district": "mepanga"
+  },
+  {
+    "id": "kayu-agung",
+    "name": "Kayu Agung",
+    "district": "mepanga"
+  },
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "district": "mepanga"
+  },
+  {
+    "id": "ogotion",
+    "name": "Ogotion",
+    "district": "mepanga"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "mepanga"
+  },
+  {
+    "id": "moubang",
+    "name": "Moubang",
+    "district": "mepanga"
+  },
+  {
+    "id": "ogobayas",
+    "name": "Ogobayas",
+    "district": "mepanga"
+  },
+  {
+    "id": "kotaraya-timur",
+    "name": "Kotaraya Timur",
+    "district": "mepanga"
+  },
+  {
+    "id": "malalan",
+    "name": "Malalan",
+    "district": "mepanga"
+  },
+  {
+    "id": "kotaraya-selatan",
+    "name": "Kotaraya Selatan",
+    "district": "mepanga"
+  },
+  {
+    "id": "maranti",
+    "name": "Maranti",
+    "district": "mepanga"
+  },
+  {
+    "id": "kotaraya-barat",
+    "name": "Kotaraya Barat",
+    "district": "mepanga"
+  },
+  {
+    "id": "ogomolos",
+    "name": "Ogomolos",
+    "district": "mepanga"
+  },
+  {
+    "id": "bugis-utara",
+    "name": "Bugis Utara",
+    "district": "mepanga"
+  },
+  {
+    "id": "gurinda",
+    "name": "Gurinda",
+    "district": "mepanga"
+  },
+  {
+    "id": "kotaraya-tenggara",
+    "name": "Kotaraya Tenggara",
+    "district": "mepanga"
+  }
+]

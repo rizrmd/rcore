@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "rengel"
+  },
+  {
+    "id": "bulurejo",
+    "name": "Bulurejo",
+    "district": "rengel"
+  },
+  {
+    "id": "karangtinoto",
+    "name": "Karangtinoto",
+    "district": "rengel"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "rengel"
+  },
+  {
+    "id": "kanorejo",
+    "name": "Kanorejo",
+    "district": "rengel"
+  },
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "rengel"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "rengel"
+  },
+  {
+    "id": "campurejo",
+    "name": "Campurejo",
+    "district": "rengel"
+  },
+  {
+    "id": "banjararum",
+    "name": "Banjararum",
+    "district": "rengel"
+  },
+  {
+    "id": "prambon-wetan",
+    "name": "Prambon Wetan",
+    "district": "rengel"
+  },
+  {
+    "id": "banjaragung",
+    "name": "Banjaragung",
+    "district": "rengel"
+  },
+  {
+    "id": "punggulrejo",
+    "name": "Punggulrejo",
+    "district": "rengel"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "rengel"
+  },
+  {
+    "id": "maibit",
+    "name": "Maibit",
+    "district": "rengel"
+  },
+  {
+    "id": "pekuwon",
+    "name": "Pekuwon",
+    "district": "rengel"
+  }
+]

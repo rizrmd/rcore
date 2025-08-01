@@ -1,0 +1,37 @@
+[
+  {
+    "id": "belolaut",
+    "name": "Belolaut",
+    "district": "mentok"
+  },
+  {
+    "id": "air-belo",
+    "name": "Air Belo",
+    "district": "mentok"
+  },
+  {
+    "id": "sungai-baru",
+    "name": "Sungai Baru",
+    "district": "mentok"
+  },
+  {
+    "id": "sungai-daeng",
+    "name": "Sungai Daeng",
+    "district": "mentok"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "mentok"
+  },
+  {
+    "id": "air-putih",
+    "name": "Air Putih",
+    "district": "mentok"
+  },
+  {
+    "id": "airlimau",
+    "name": "Airlimau",
+    "district": "mentok"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "walantakan",
+    "name": "Walantakan",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "taraitak",
+    "name": "Taraitak",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "toraget",
+    "name": "Toraget",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "karumenga",
+    "name": "Karumenga",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "tempang",
+    "name": "Tempang",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "tempang-dua",
+    "name": "Tempang Dua",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "tempang-tiga",
+    "name": "Tempang Tiga",
+    "district": "langowan-utara"
+  },
+  {
+    "id": "taraitak-i",
+    "name": "Taraitak I",
+    "district": "langowan-utara"
+  }
+]

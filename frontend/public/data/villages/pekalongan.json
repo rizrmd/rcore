@@ -1,0 +1,62 @@
+[
+  {
+    "id": "adirejo",
+    "name": "Adirejo",
+    "district": "pekalongan"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "pekalongan"
+  },
+  {
+    "id": "gondang-rejo",
+    "name": "Gondang Rejo",
+    "district": "pekalongan"
+  },
+  {
+    "id": "siraman",
+    "name": "Siraman",
+    "district": "pekalongan"
+  },
+  {
+    "id": "pekalongan",
+    "name": "Pekalongan",
+    "district": "pekalongan"
+  },
+  {
+    "id": "tulus-rejo",
+    "name": "Tulus Rejo",
+    "district": "pekalongan"
+  },
+  {
+    "id": "jojog",
+    "name": "Jojog",
+    "district": "pekalongan"
+  },
+  {
+    "id": "ganti-warno",
+    "name": "Ganti Warno",
+    "district": "pekalongan"
+  },
+  {
+    "id": "kali-bening",
+    "name": "Kali Bening",
+    "district": "pekalongan"
+  },
+  {
+    "id": "wono-sari",
+    "name": "Wono Sari",
+    "district": "pekalongan"
+  },
+  {
+    "id": "adijaya",
+    "name": "Adijaya",
+    "district": "pekalongan"
+  },
+  {
+    "id": "gantimulyo",
+    "name": "Gantimulyo",
+    "district": "pekalongan"
+  }
+]

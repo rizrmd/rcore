@@ -1,0 +1,42 @@
+[
+  {
+    "id": "posman",
+    "name": "Posman",
+    "district": "aweku"
+  },
+  {
+    "id": "kogagi",
+    "name": "Kogagi",
+    "district": "aweku"
+  },
+  {
+    "id": "tionggi",
+    "name": "Tionggi",
+    "district": "aweku"
+  },
+  {
+    "id": "yeli",
+    "name": "Yeli",
+    "district": "aweku"
+  },
+  {
+    "id": "agin",
+    "name": "Agin",
+    "district": "aweku"
+  },
+  {
+    "id": "wamigi",
+    "name": "Wamigi",
+    "district": "aweku"
+  },
+  {
+    "id": "kolanggun",
+    "name": "Kolanggun",
+    "district": "aweku"
+  },
+  {
+    "id": "yebena",
+    "name": "Yebena",
+    "district": "aweku"
+  }
+]

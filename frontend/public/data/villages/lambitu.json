@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sambori",
+    "name": "Sambori",
+    "district": "lambitu"
+  },
+  {
+    "id": "kaboro",
+    "name": "Kaboro",
+    "district": "lambitu"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "lambitu"
+  },
+  {
+    "id": "teta",
+    "name": "Teta",
+    "district": "lambitu"
+  },
+  {
+    "id": "kaowa",
+    "name": "Kaowa",
+    "district": "lambitu"
+  },
+  {
+    "id": "londu",
+    "name": "Londu",
+    "district": "lambitu"
+  }
+]

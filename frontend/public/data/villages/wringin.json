@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ambulu",
+    "name": "Ambulu",
+    "district": "wringin"
+  },
+  {
+    "id": "bukor",
+    "name": "Bukor",
+    "district": "wringin"
+  },
+  {
+    "id": "sumbermalang",
+    "name": "Sumbermalang",
+    "district": "wringin"
+  },
+  {
+    "id": "jambewungu",
+    "name": "Jambewungu",
+    "district": "wringin"
+  },
+  {
+    "id": "gubrih",
+    "name": "Gubrih",
+    "district": "wringin"
+  },
+  {
+    "id": "ampelan",
+    "name": "Ampelan",
+    "district": "wringin"
+  },
+  {
+    "id": "banyuwulu",
+    "name": "Banyuwulu",
+    "district": "wringin"
+  },
+  {
+    "id": "jatitamban",
+    "name": "Jatitamban",
+    "district": "wringin"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "wringin"
+  },
+  {
+    "id": "glingseran",
+    "name": "Glingseran",
+    "district": "wringin"
+  },
+  {
+    "id": "banyuputih",
+    "name": "Banyuputih",
+    "district": "wringin"
+  },
+  {
+    "id": "wringin",
+    "name": "Wringin",
+    "district": "wringin"
+  },
+  {
+    "id": "sumbercanting",
+    "name": "Sumbercanting",
+    "district": "wringin"
+  }
+]

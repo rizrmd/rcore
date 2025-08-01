@@ -1,0 +1,27 @@
+[
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "tarakan-barat"
+  },
+  {
+    "id": "karang-balik",
+    "name": "Karang Balik",
+    "district": "tarakan-barat"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "tarakan-barat"
+  },
+  {
+    "id": "karang-anyar-pantai",
+    "name": "Karang Anyar Pantai",
+    "district": "tarakan-barat"
+  },
+  {
+    "id": "karang-harapan",
+    "name": "Karang Harapan",
+    "district": "tarakan-barat"
+  }
+]

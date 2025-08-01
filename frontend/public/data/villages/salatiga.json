@@ -1,0 +1,22 @@
+[
+  {
+    "id": "parit-baru",
+    "name": "Parit Baru",
+    "district": "salatiga"
+  },
+  {
+    "id": "salatiga",
+    "name": "Salatiga",
+    "district": "salatiga"
+  },
+  {
+    "id": "sungai-toman",
+    "name": "Sungai Toman",
+    "district": "salatiga"
+  },
+  {
+    "id": "serunai",
+    "name": "Serunai",
+    "district": "salatiga"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kaligondo",
+    "name": "Kaligondo",
+    "district": "genteng"
+  },
+  {
+    "id": "setail",
+    "name": "Setail",
+    "district": "genteng"
+  },
+  {
+    "id": "genteng-kulon",
+    "name": "Genteng Kulon",
+    "district": "genteng"
+  },
+  {
+    "id": "genteng-wetan",
+    "name": "Genteng Wetan",
+    "district": "genteng"
+  },
+  {
+    "id": "kembiritan",
+    "name": "Kembiritan",
+    "district": "genteng"
+  },
+  {
+    "id": "embong-kaliasin",
+    "name": "Embong Kaliasin",
+    "district": "genteng"
+  },
+  {
+    "id": "ketabang",
+    "name": "Ketabang",
+    "district": "genteng"
+  },
+  {
+    "id": "kapasari",
+    "name": "Kapasari",
+    "district": "genteng"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "maras-senang",
+    "name": "Maras Senang",
+    "district": "bakam"
+  },
+  {
+    "id": "kapuk",
+    "name": "Kapuk",
+    "district": "bakam"
+  },
+  {
+    "id": "neknang",
+    "name": "Neknang",
+    "district": "bakam"
+  },
+  {
+    "id": "tiang-tara",
+    "name": "Tiang Tara",
+    "district": "bakam"
+  },
+  {
+    "id": "dalil",
+    "name": "Dalil",
+    "district": "bakam"
+  },
+  {
+    "id": "bakam",
+    "name": "Bakam",
+    "district": "bakam"
+  },
+  {
+    "id": "mangka",
+    "name": "Mangka",
+    "district": "bakam"
+  },
+  {
+    "id": "mabat",
+    "name": "Mabat",
+    "district": "bakam"
+  },
+  {
+    "id": "bukitlayang",
+    "name": "Bukitlayang",
+    "district": "bakam"
+  }
+]

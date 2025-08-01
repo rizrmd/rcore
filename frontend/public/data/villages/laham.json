@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nyaribungan",
+    "name": "Nyaribungan",
+    "district": "laham"
+  },
+  {
+    "id": "long-gelawang",
+    "name": "Long Gelawang",
+    "district": "laham"
+  },
+  {
+    "id": "danum-paroi",
+    "name": "Danum Paroi",
+    "district": "laham"
+  },
+  {
+    "id": "muara-ratah",
+    "name": "Muara Ratah",
+    "district": "laham"
+  },
+  {
+    "id": "laham",
+    "name": "Laham",
+    "district": "laham"
+  }
+]

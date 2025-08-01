@@ -1,0 +1,77 @@
+[
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "mataraman"
+  },
+  {
+    "id": "gunung-ulin",
+    "name": "Gunung Ulin",
+    "district": "mataraman"
+  },
+  {
+    "id": "sungai-jati",
+    "name": "Sungai Jati",
+    "district": "mataraman"
+  },
+  {
+    "id": "takuti",
+    "name": "Takuti",
+    "district": "mataraman"
+  },
+  {
+    "id": "tanah-abang",
+    "name": "Tanah Abang",
+    "district": "mataraman"
+  },
+  {
+    "id": "bawahan-pasar",
+    "name": "Bawahan Pasar",
+    "district": "mataraman"
+  },
+  {
+    "id": "surian",
+    "name": "Surian",
+    "district": "mataraman"
+  },
+  {
+    "id": "pematang-danau",
+    "name": "Pematang Danau",
+    "district": "mataraman"
+  },
+  {
+    "id": "pasiraman",
+    "name": "Pasiraman",
+    "district": "mataraman"
+  },
+  {
+    "id": "bawahan-selan",
+    "name": "Bawahan Selan",
+    "district": "mataraman"
+  },
+  {
+    "id": "bawahan-seberang",
+    "name": "Bawahan Seberang",
+    "district": "mataraman"
+  },
+  {
+    "id": "mangka-lawat",
+    "name": "Mangka Lawat",
+    "district": "mataraman"
+  },
+  {
+    "id": "mataraman",
+    "name": "Mataraman",
+    "district": "mataraman"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "mataraman"
+  },
+  {
+    "id": "lok-tamu",
+    "name": "Lok Tamu",
+    "district": "mataraman"
+  }
+]

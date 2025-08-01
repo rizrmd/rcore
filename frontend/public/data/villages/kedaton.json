@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sukamenanti",
+    "name": "Sukamenanti",
+    "district": "kedaton"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "kedaton"
+  },
+  {
+    "id": "surabaya",
+    "name": "Surabaya",
+    "district": "kedaton"
+  },
+  {
+    "id": "kedaton",
+    "name": "Kedaton",
+    "district": "kedaton"
+  },
+  {
+    "id": "sukamenanti-baru",
+    "name": "Sukamenanti Baru",
+    "district": "kedaton"
+  },
+  {
+    "id": "penengahan",
+    "name": "Penengahan",
+    "district": "kedaton"
+  },
+  {
+    "id": "penengahan-raya",
+    "name": "Penengahan Raya",
+    "district": "kedaton"
+  }
+]

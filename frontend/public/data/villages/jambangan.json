@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pagesangan",
+    "name": "Pagesangan",
+    "district": "jambangan"
+  },
+  {
+    "id": "kebonsari",
+    "name": "Kebonsari",
+    "district": "jambangan"
+  },
+  {
+    "id": "jambangan",
+    "name": "Jambangan",
+    "district": "jambangan"
+  },
+  {
+    "id": "karah",
+    "name": "Karah",
+    "district": "jambangan"
+  }
+]

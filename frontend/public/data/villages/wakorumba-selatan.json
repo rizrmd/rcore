@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wakorumba",
+    "name": "Wakorumba",
+    "district": "wakorumba-selatan"
+  },
+  {
+    "id": "bhakealu",
+    "name": "Bhakealu",
+    "district": "wakorumba-selatan"
+  },
+  {
+    "id": "labuniapure",
+    "name": "Labunia(Pure)",
+    "district": "wakorumba-selatan"
+  },
+  {
+    "id": "wambona",
+    "name": "Wambona",
+    "district": "wakorumba-selatan"
+  },
+  {
+    "id": "wandiri",
+    "name": "Wandiri",
+    "district": "wakorumba-selatan"
+  },
+  {
+    "id": "tolaku",
+    "name": "Tolaku",
+    "district": "wakorumba-selatan"
+  }
+]

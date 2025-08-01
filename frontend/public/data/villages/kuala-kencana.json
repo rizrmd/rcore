@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karang-senang",
+    "name": "Karang Senang",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "kuala-kencana",
+    "name": "Kuala Kencana",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "utikini-baru",
+    "name": "Utikini Baru",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "bhintuka",
+    "name": "Bhintuka",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "pioka-kencana",
+    "name": "Pioka Kencana",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "mimika-gunung",
+    "name": "Mimika Gunung",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "karya-kencana",
+    "name": "Karya Kencana",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "jimbi",
+    "name": "Jimbi",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "utikini-ii",
+    "name": "Utikini Ii",
+    "district": "kuala-kencana"
+  },
+  {
+    "id": "utikini-iii",
+    "name": "Utikini Iii",
+    "district": "kuala-kencana"
+  }
+]

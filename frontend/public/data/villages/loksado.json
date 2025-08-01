@@ -1,0 +1,57 @@
+[
+  {
+    "id": "halunuk",
+    "name": "Halunuk",
+    "district": "loksado"
+  },
+  {
+    "id": "panggungan",
+    "name": "Panggungan",
+    "district": "loksado"
+  },
+  {
+    "id": "lumpangi",
+    "name": "Lumpangi",
+    "district": "loksado"
+  },
+  {
+    "id": "malinau",
+    "name": "Malinau",
+    "district": "loksado"
+  },
+  {
+    "id": "hulu-banyu",
+    "name": "Hulu Banyu",
+    "district": "loksado"
+  },
+  {
+    "id": "tumingki",
+    "name": "Tumingki",
+    "district": "loksado"
+  },
+  {
+    "id": "kamawakan",
+    "name": "Kamawakan",
+    "district": "loksado"
+  },
+  {
+    "id": "lok-lahung",
+    "name": "Lok Lahung",
+    "district": "loksado"
+  },
+  {
+    "id": "loksado",
+    "name": "Loksado",
+    "district": "loksado"
+  },
+  {
+    "id": "muara-ulang",
+    "name": "Muara Ulang",
+    "district": "loksado"
+  },
+  {
+    "id": "haratai",
+    "name": "Haratai",
+    "district": "loksado"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gunung-makmur",
+    "name": "Gunung Makmur",
+    "district": "babulu"
+  },
+  {
+    "id": "gunung-intan",
+    "name": "Gunung Intan",
+    "district": "babulu"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "babulu"
+  },
+  {
+    "id": "sri-raharja",
+    "name": "Sri Raharja",
+    "district": "babulu"
+  },
+  {
+    "id": "rawa-mulia",
+    "name": "Rawa Mulia",
+    "district": "babulu"
+  },
+  {
+    "id": "sebakung-jaya",
+    "name": "Sebakung Jaya",
+    "district": "babulu"
+  },
+  {
+    "id": "babulu-laut",
+    "name": "Babulu Laut",
+    "district": "babulu"
+  },
+  {
+    "id": "babulu-darat",
+    "name": "Babulu Darat",
+    "district": "babulu"
+  },
+  {
+    "id": "labangka",
+    "name": "Labangka",
+    "district": "babulu"
+  },
+  {
+    "id": "rintik",
+    "name": "Rintik",
+    "district": "babulu"
+  },
+  {
+    "id": "gunung-mulia",
+    "name": "Gunung Mulia",
+    "district": "babulu"
+  },
+  {
+    "id": "labangka-barat",
+    "name": "Labangka Barat",
+    "district": "babulu"
+  }
+]

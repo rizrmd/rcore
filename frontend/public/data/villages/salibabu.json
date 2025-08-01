@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bitunuris",
+    "name": "Bitunuris",
+    "district": "salibabu"
+  },
+  {
+    "id": "salibabu",
+    "name": "Salibabu",
+    "district": "salibabu"
+  },
+  {
+    "id": "balang",
+    "name": "Balang",
+    "district": "salibabu"
+  },
+  {
+    "id": "salibabu-utara",
+    "name": "Salibabu Utara",
+    "district": "salibabu"
+  },
+  {
+    "id": "dalum",
+    "name": "Dalum",
+    "district": "salibabu"
+  },
+  {
+    "id": "bitunuris-selatan",
+    "name": "Bitunuris Selatan",
+    "district": "salibabu"
+  }
+]

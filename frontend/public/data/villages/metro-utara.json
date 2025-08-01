@@ -1,0 +1,22 @@
+[
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "metro-utara"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "metro-utara"
+  },
+  {
+    "id": "purwoasri",
+    "name": "Purwoasri",
+    "district": "metro-utara"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "metro-utara"
+  }
+]

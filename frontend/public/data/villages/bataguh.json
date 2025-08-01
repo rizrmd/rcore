@@ -1,0 +1,77 @@
+[
+  {
+    "id": "terusan-raya-hulu",
+    "name": "Terusan Raya Hulu",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-mulya",
+    "name": "Terusan Mulya",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-karya",
+    "name": "Terusan Karya",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-makmur",
+    "name": "Terusan Makmur",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-raya-barat",
+    "name": "Terusan Raya Barat",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-baguntan-raya",
+    "name": "Terusan Baguntan Raya",
+    "district": "bataguh"
+  },
+  {
+    "id": "terusan-raya",
+    "name": "Terusan Raya",
+    "district": "bataguh"
+  },
+  {
+    "id": "bamban-raya",
+    "name": "Bamban Raya",
+    "district": "bataguh"
+  },
+  {
+    "id": "sei-jangkit",
+    "name": "Sei Jangkit",
+    "district": "bataguh"
+  },
+  {
+    "id": "tamban-luar",
+    "name": "Tamban Luar",
+    "district": "bataguh"
+  },
+  {
+    "id": "bangun-harjo",
+    "name": "Bangun Harjo",
+    "district": "bataguh"
+  },
+  {
+    "id": "pulau-kupang",
+    "name": "Pulau Kupang",
+    "district": "bataguh"
+  },
+  {
+    "id": "sei-lunuk",
+    "name": "Sei Lunuk",
+    "district": "bataguh"
+  },
+  {
+    "id": "pulau-mambulau",
+    "name": "Pulau Mambulau",
+    "district": "bataguh"
+  },
+  {
+    "id": "budi-mufakat",
+    "name": "Budi Mufakat",
+    "district": "bataguh"
+  }
+]

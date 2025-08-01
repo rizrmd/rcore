@@ -1,0 +1,192 @@
+[
+  {
+    "id": "kabupaten-bangkalan",
+    "name": "Bangkalan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-banyuwangi",
+    "name": "Banyuwangi",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-batu",
+    "name": "Kota Batu",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-blitar",
+    "name": "Blitar",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-blitar",
+    "name": "Kota Blitar",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-bojonegoro",
+    "name": "Bojonegoro",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-bondowoso",
+    "name": "Bondowoso",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-gresik",
+    "name": "Gresik",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-jember",
+    "name": "Jember",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-jombang",
+    "name": "Jombang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-kediri",
+    "name": "Kediri",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-kediri",
+    "name": "Kota Kediri",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-lamongan",
+    "name": "Lamongan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-lumajang",
+    "name": "Lumajang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-madiun",
+    "name": "Madiun",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-madiun",
+    "name": "Kota Madiun",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-magetan",
+    "name": "Magetan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-malang",
+    "name": "Kota Malang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-malang",
+    "name": "Malang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-mojokerto",
+    "name": "Kota Mojokerto",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-mojokerto",
+    "name": "Mojokerto",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-nganjuk",
+    "name": "Nganjuk",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-ngawi",
+    "name": "Ngawi",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-pacitan",
+    "name": "Pacitan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-pamekasan",
+    "name": "Pamekasan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-pasuruan",
+    "name": "Kota Pasuruan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-pasuruan",
+    "name": "Pasuruan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-ponorogo",
+    "name": "Ponorogo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-probolinggo",
+    "name": "Kota Probolinggo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-probolinggo",
+    "name": "Probolinggo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-sampang",
+    "name": "Sampang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-sidoarjo",
+    "name": "Sidoarjo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-situbondo",
+    "name": "Situbondo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-sumenep",
+    "name": "Sumenep",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kota-surabaya",
+    "name": "Kota Surabaya",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-trenggalek",
+    "name": "Trenggalek",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-tuban",
+    "name": "Tuban",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kabupaten-tulungagung",
+    "name": "Tulungagung",
+    "province": "jawa-timur"
+  }
+]

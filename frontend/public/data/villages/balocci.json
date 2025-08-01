@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kassi",
+    "name": "Kassi",
+    "district": "balocci"
+  },
+  {
+    "id": "tonasa",
+    "name": "Tonasa",
+    "district": "balocci"
+  },
+  {
+    "id": "balocci-baru",
+    "name": "Balocci Baru",
+    "district": "balocci"
+  },
+  {
+    "id": "balleangin",
+    "name": "Balleangin",
+    "district": "balocci"
+  },
+  {
+    "id": "tompo-bulu",
+    "name": "Tompo Bulu",
+    "district": "balocci"
+  }
+]

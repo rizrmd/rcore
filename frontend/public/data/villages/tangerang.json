@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cikokol",
+    "name": "Cikokol",
+    "district": "tangerang"
+  },
+  {
+    "id": "kelapa-indah",
+    "name": "Kelapa Indah",
+    "district": "tangerang"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "tangerang"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "tangerang"
+  },
+  {
+    "id": "buaran-indah",
+    "name": "Buaran Indah",
+    "district": "tangerang"
+  },
+  {
+    "id": "tanah-tinggi",
+    "name": "Tanah Tinggi",
+    "district": "tangerang"
+  },
+  {
+    "id": "sukaasih",
+    "name": "Sukaasih",
+    "district": "tangerang"
+  },
+  {
+    "id": "sukarasa",
+    "name": "Sukarasa",
+    "district": "tangerang"
+  }
+]

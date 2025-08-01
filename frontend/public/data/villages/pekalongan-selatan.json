@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jenggot",
+    "name": "Jenggot",
+    "district": "pekalongan-selatan"
+  },
+  {
+    "id": "banyurip",
+    "name": "Banyurip",
+    "district": "pekalongan-selatan"
+  },
+  {
+    "id": "buaran-kradenan",
+    "name": "Buaran Kradenan",
+    "district": "pekalongan-selatan"
+  },
+  {
+    "id": "kuripan-kertoharjo",
+    "name": "Kuripan Kertoharjo",
+    "district": "pekalongan-selatan"
+  },
+  {
+    "id": "kuripan-yosorejo",
+    "name": "Kuripan Yosorejo",
+    "district": "pekalongan-selatan"
+  },
+  {
+    "id": "sokoduwet",
+    "name": "Sokoduwet",
+    "district": "pekalongan-selatan"
+  }
+]

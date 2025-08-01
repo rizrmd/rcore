@@ -1,0 +1,72 @@
+[
+  {
+    "id": "longgosipi",
+    "name": "Longgosipi",
+    "district": "watubangga"
+  },
+  {
+    "id": "lamunde",
+    "name": "Lamunde",
+    "district": "watubangga"
+  },
+  {
+    "id": "watubangga",
+    "name": "Watubangga",
+    "district": "watubangga"
+  },
+  {
+    "id": "tandebura",
+    "name": "Tandebura",
+    "district": "watubangga"
+  },
+  {
+    "id": "sumber-rejeki",
+    "name": "Sumber Rejeki",
+    "district": "watubangga"
+  },
+  {
+    "id": "peoho",
+    "name": "Peoho",
+    "district": "watubangga"
+  },
+  {
+    "id": "kukutio",
+    "name": "Kukutio",
+    "district": "watubangga"
+  },
+  {
+    "id": "kastura",
+    "name": "Kastura",
+    "district": "watubangga"
+  },
+  {
+    "id": "wolulu",
+    "name": "Wolulu",
+    "district": "watubangga"
+  },
+  {
+    "id": "mataosu",
+    "name": "Mataosu",
+    "district": "watubangga"
+  },
+  {
+    "id": "polenga",
+    "name": "Polenga",
+    "district": "watubangga"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "watubangga"
+  },
+  {
+    "id": "ranoteta",
+    "name": "Ranoteta",
+    "district": "watubangga"
+  },
+  {
+    "id": "mataosu-ujung",
+    "name": "Mataosu Ujung",
+    "district": "watubangga"
+  }
+]

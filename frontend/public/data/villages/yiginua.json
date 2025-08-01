@@ -1,0 +1,32 @@
+[
+  {
+    "id": "golime",
+    "name": "Golime",
+    "district": "yiginua"
+  },
+  {
+    "id": "ninabua",
+    "name": "Ninabua",
+    "district": "yiginua"
+  },
+  {
+    "id": "tepogi",
+    "name": "Tepogi",
+    "district": "yiginua"
+  },
+  {
+    "id": "ninengwa",
+    "name": "Ninengwa",
+    "district": "yiginua"
+  },
+  {
+    "id": "gumagame",
+    "name": "Gumagame",
+    "district": "yiginua"
+  },
+  {
+    "id": "abua",
+    "name": "Abua",
+    "district": "yiginua"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "liabuku",
+    "name": "Liabuku",
+    "district": "bungi"
+  },
+  {
+    "id": "ngkari-ngkari",
+    "name": "Ngkari-Ngkari",
+    "district": "bungi"
+  },
+  {
+    "id": "kampeonaho",
+    "name": "Kampeonaho",
+    "district": "bungi"
+  },
+  {
+    "id": "waliabuku",
+    "name": "Waliabuku",
+    "district": "bungi"
+  },
+  {
+    "id": "tampuna",
+    "name": "Tampuna",
+    "district": "bungi"
+  }
+]

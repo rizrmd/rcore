@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kwanyar-barat",
+    "name": "Kwanyar Barat",
+    "district": "kwanyar"
+  },
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "kwanyar"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "kwanyar"
+  },
+  {
+    "id": "batah-barat",
+    "name": "Batah Barat",
+    "district": "kwanyar"
+  },
+  {
+    "id": "batah-timur",
+    "name": "Batah Timur",
+    "district": "kwanyar"
+  },
+  {
+    "id": "pandanan",
+    "name": "Pandanan",
+    "district": "kwanyar"
+  },
+  {
+    "id": "karang-entang",
+    "name": "Karang Entang",
+    "district": "kwanyar"
+  },
+  {
+    "id": "janteh",
+    "name": "Janteh",
+    "district": "kwanyar"
+  },
+  {
+    "id": "ketetang",
+    "name": "Ketetang",
+    "district": "kwanyar"
+  },
+  {
+    "id": "morombuh",
+    "name": "Morombuh",
+    "district": "kwanyar"
+  },
+  {
+    "id": "sumur-kuning",
+    "name": "Sumur Kuning",
+    "district": "kwanyar"
+  },
+  {
+    "id": "paoran",
+    "name": "Paoran",
+    "district": "kwanyar"
+  }
+]

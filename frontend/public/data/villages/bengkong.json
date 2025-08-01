@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bengkong-laut",
+    "name": "Bengkong Laut",
+    "district": "bengkong"
+  },
+  {
+    "id": "bengkong-indah",
+    "name": "Bengkong Indah",
+    "district": "bengkong"
+  },
+  {
+    "id": "sadai",
+    "name": "Sadai",
+    "district": "bengkong"
+  },
+  {
+    "id": "tanjung-buntung",
+    "name": "Tanjung Buntung",
+    "district": "bengkong"
+  }
+]

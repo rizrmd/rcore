@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tontouan",
+    "name": "Tontouan",
+    "district": "luwuk"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "luwuk"
+  },
+  {
+    "id": "soho",
+    "name": "Soho",
+    "district": "luwuk"
+  },
+  {
+    "id": "bungin",
+    "name": "Bungin",
+    "district": "luwuk"
+  },
+  {
+    "id": "lumpoknyo",
+    "name": "Lumpoknyo",
+    "district": "luwuk"
+  },
+  {
+    "id": "karaton",
+    "name": "Karaton",
+    "district": "luwuk"
+  },
+  {
+    "id": "bungin-timur",
+    "name": "Bungin Timur",
+    "district": "luwuk"
+  },
+  {
+    "id": "mangkio-baru",
+    "name": "Mangkio Baru",
+    "district": "luwuk"
+  }
+]

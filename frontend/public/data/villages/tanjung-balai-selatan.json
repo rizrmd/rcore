@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tanjung-balai-kota-ii",
+    "name": "Tanjung Balai Kota Ii",
+    "district": "tanjung-balai-selatan"
+  },
+  {
+    "id": "tanjung-balai-kota-i",
+    "name": "Tanjung Balai Kota I",
+    "district": "tanjung-balai-selatan"
+  },
+  {
+    "id": "karya",
+    "name": "Karya",
+    "district": "tanjung-balai-selatan"
+  },
+  {
+    "id": "perwira",
+    "name": "Perwira",
+    "district": "tanjung-balai-selatan"
+  },
+  {
+    "id": "indra-sakti",
+    "name": "Indra Sakti",
+    "district": "tanjung-balai-selatan"
+  },
+  {
+    "id": "pantai-burung",
+    "name": "Pantai Burung",
+    "district": "tanjung-balai-selatan"
+  }
+]

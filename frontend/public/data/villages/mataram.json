@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pagesangan",
+    "name": "Pagesangan",
+    "district": "mataram"
+  },
+  {
+    "id": "mataram-timur",
+    "name": "Mataram Timur",
+    "district": "mataram"
+  },
+  {
+    "id": "pagesangan-barat",
+    "name": "Pagesangan Barat",
+    "district": "mataram"
+  },
+  {
+    "id": "pagesangan-timur",
+    "name": "Pagesangan Timur",
+    "district": "mataram"
+  },
+  {
+    "id": "pejanggik",
+    "name": "Pejanggik",
+    "district": "mataram"
+  },
+  {
+    "id": "punia",
+    "name": "Punia",
+    "district": "mataram"
+  },
+  {
+    "id": "pagutan",
+    "name": "Pagutan",
+    "district": "mataram"
+  },
+  {
+    "id": "pagutan-barat",
+    "name": "Pagutan Barat",
+    "district": "mataram"
+  },
+  {
+    "id": "pagutan-timur",
+    "name": "Pagutan Timur",
+    "district": "mataram"
+  }
+]

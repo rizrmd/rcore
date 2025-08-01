@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cisarua",
+    "name": "Cisarua",
+    "district": "cineam"
+  },
+  {
+    "id": "pasirmukti",
+    "name": "Pasirmukti",
+    "district": "cineam"
+  },
+  {
+    "id": "cikondang",
+    "name": "Cikondang",
+    "district": "cineam"
+  },
+  {
+    "id": "cijulang",
+    "name": "Cijulang",
+    "district": "cineam"
+  },
+  {
+    "id": "nagaratengah",
+    "name": "Nagaratengah",
+    "district": "cineam"
+  },
+  {
+    "id": "ciampanan",
+    "name": "Ciampanan",
+    "district": "cineam"
+  },
+  {
+    "id": "cineam",
+    "name": "Cineam",
+    "district": "cineam"
+  },
+  {
+    "id": "madiasari",
+    "name": "Madiasari",
+    "district": "cineam"
+  },
+  {
+    "id": "rajadatu",
+    "name": "Rajadatu",
+    "district": "cineam"
+  },
+  {
+    "id": "ancol",
+    "name": "Ancol",
+    "district": "cineam"
+  }
+]

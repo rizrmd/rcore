@@ -1,0 +1,37 @@
+[
+  {
+    "id": "karassing",
+    "name": "Karassing",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "borong",
+    "name": "Borong",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "bonto-kamase",
+    "name": "Bonto Kamase",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "tanuntung",
+    "name": "Tanuntung",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "singa",
+    "name": "Singa",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "tugondeng",
+    "name": "Tugondeng",
+    "district": "hero-lange-lange"
+  },
+  {
+    "id": "pataro",
+    "name": "Pataro",
+    "district": "hero-lange-lange"
+  }
+]

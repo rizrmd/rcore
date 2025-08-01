@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lalong",
+    "name": "Lalong",
+    "district": "wae-rii"
+  },
+  {
+    "id": "bangka-kenda",
+    "name": "Bangka Kenda",
+    "district": "wae-rii"
+  },
+  {
+    "id": "bangka-jong",
+    "name": "Bangka Jong",
+    "district": "wae-rii"
+  },
+  {
+    "id": "wae-rii",
+    "name": "Wae Rii",
+    "district": "wae-rii"
+  },
+  {
+    "id": "longko",
+    "name": "Longko",
+    "district": "wae-rii"
+  },
+  {
+    "id": "ranaka",
+    "name": "Ranaka",
+    "district": "wae-rii"
+  },
+  {
+    "id": "golo-mendo",
+    "name": "Golo Mendo",
+    "district": "wae-rii"
+  },
+  {
+    "id": "golo-cador",
+    "name": "Golo Cador",
+    "district": "wae-rii"
+  },
+  {
+    "id": "compang-ndehes",
+    "name": "Compang Ndehes",
+    "district": "wae-rii"
+  },
+  {
+    "id": "poco",
+    "name": "Poco",
+    "district": "wae-rii"
+  },
+  {
+    "id": "satar-ngkeling",
+    "name": "Satar Ngkeling",
+    "district": "wae-rii"
+  },
+  {
+    "id": "golo-wua",
+    "name": "Golo Wua",
+    "district": "wae-rii"
+  },
+  {
+    "id": "golo-watu",
+    "name": "Golo Watu",
+    "district": "wae-rii"
+  },
+  {
+    "id": "ranggi",
+    "name": "Ranggi",
+    "district": "wae-rii"
+  },
+  {
+    "id": "wae-mulu",
+    "name": "Wae Mulu",
+    "district": "wae-rii"
+  },
+  {
+    "id": "benteng-poco",
+    "name": "Benteng Poco",
+    "district": "wae-rii"
+  }
+]

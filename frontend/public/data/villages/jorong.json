@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sabuhur",
+    "name": "Sabuhur",
+    "district": "jorong"
+  },
+  {
+    "id": "swarangan",
+    "name": "Swarangan",
+    "district": "jorong"
+  },
+  {
+    "id": "alur",
+    "name": "Alur",
+    "district": "jorong"
+  },
+  {
+    "id": "jorong",
+    "name": "Jorong",
+    "district": "jorong"
+  },
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "jorong"
+  },
+  {
+    "id": "muara-asam-asam",
+    "name": "Muara Asam Asam",
+    "district": "jorong"
+  },
+  {
+    "id": "asam-jaya",
+    "name": "Asam Jaya",
+    "district": "jorong"
+  },
+  {
+    "id": "asri-mulia",
+    "name": "Asri Mulia",
+    "district": "jorong"
+  },
+  {
+    "id": "asam-asam",
+    "name": "Asam Asam",
+    "district": "jorong"
+  },
+  {
+    "id": "batalang",
+    "name": "Batalang",
+    "district": "jorong"
+  },
+  {
+    "id": "simpang-empat-sungai-baru",
+    "name": "Simpang Empat Sungai Baru",
+    "district": "jorong"
+  }
+]

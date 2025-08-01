@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lubuk-kumbung",
+    "name": "Lubuk Kumbung",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "bukit-ulu",
+    "name": "Bukit Ulu",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "bukit-langkap",
+    "name": "Bukit Langkap",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "rantau-jaya",
+    "name": "Rantau Jaya",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "muara-batang-empu",
+    "name": "Muara Batang Empu",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "rantau-telang",
+    "name": "Rantau Telang",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "sukamenang",
+    "name": "Sukamenang",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "terusan",
+    "name": "Terusan",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "karang-jaya",
+    "name": "Karang Jaya",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "embacang-baru",
+    "name": "Embacang Baru",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "embacang-baru-ilir",
+    "name": "Embacang Baru Ilir",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "embacang-lama",
+    "name": "Embacang Lama",
+    "district": "karang-jaya"
+  },
+  {
+    "id": "muara-tiku",
+    "name": "Muara Tiku",
+    "district": "karang-jaya"
+  }
+]

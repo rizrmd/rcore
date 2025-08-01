@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lemong",
+    "name": "Lemong",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "pesisir-utara",
+    "name": "Pesisir Utara",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "pulau-pisang",
+    "name": "Pulau Pisang",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "karya-penggawa",
+    "name": "Karya Penggawa",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "way-krui",
+    "name": "Way Krui",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "pesisir-tengah",
+    "name": "Pesisir Tengah",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "krui-selatan",
+    "name": "Krui Selatan",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "pesisir-selatan",
+    "name": "Pesisir Selatan",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "ngambur",
+    "name": "Ngambur",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "bengkunat",
+    "name": "Bengkunat",
+    "regency": "kabupaten-pesisir-barat"
+  },
+  {
+    "id": "bengkunat-belimbing",
+    "name": "Bengkunat Belimbing",
+    "regency": "kabupaten-pesisir-barat"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sipolha-horisan",
+    "name": "Sipolha Horisan",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "pematang-tambun-raya",
+    "name": "Pematang Tambun Raya",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "sihaporas",
+    "name": "Sihaporas",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "jorlang-huluan",
+    "name": "Jorlang Huluan",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "bandar-manik",
+    "name": "Bandar Manik",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "sait-buttu-saribu",
+    "name": "Sait Buttu Saribu",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "pematang-sidamanik",
+    "name": "Pematang Sidamanik",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "sarimattin",
+    "name": "Sarimattin",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "simantin",
+    "name": "Simantin",
+    "district": "pematang-sidamanik"
+  },
+  {
+    "id": "gorak",
+    "name": "Gorak",
+    "district": "pematang-sidamanik"
+  }
+]

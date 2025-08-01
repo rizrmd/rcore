@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gandekan",
+    "name": "Gandekan",
+    "district": "wonodadi"
+  },
+  {
+    "id": "kunir",
+    "name": "Kunir",
+    "district": "wonodadi"
+  },
+  {
+    "id": "kolomayan",
+    "name": "Kolomayan",
+    "district": "wonodadi"
+  },
+  {
+    "id": "pikatan",
+    "name": "Pikatan",
+    "district": "wonodadi"
+  },
+  {
+    "id": "wonodadi",
+    "name": "Wonodadi",
+    "district": "wonodadi"
+  },
+  {
+    "id": "kaliboto",
+    "name": "Kaliboto",
+    "district": "wonodadi"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "wonodadi"
+  },
+  {
+    "id": "tawangrejo",
+    "name": "Tawangrejo",
+    "district": "wonodadi"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "wonodadi"
+  },
+  {
+    "id": "salam",
+    "name": "Salam",
+    "district": "wonodadi"
+  },
+  {
+    "id": "jaten",
+    "name": "Jaten",
+    "district": "wonodadi"
+  }
+]

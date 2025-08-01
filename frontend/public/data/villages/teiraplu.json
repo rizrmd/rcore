@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tairaplu",
+    "name": "Tairaplu",
+    "district": "teiraplu"
+  },
+  {
+    "id": "bautme",
+    "name": "Bautme",
+    "district": "teiraplu"
+  },
+  {
+    "id": "sinami",
+    "name": "Sinami",
+    "district": "teiraplu"
+  },
+  {
+    "id": "maigame",
+    "name": "Maigame",
+    "district": "teiraplu"
+  },
+  {
+    "id": "tarpadey",
+    "name": "Tarpadey",
+    "district": "teiraplu"
+  },
+  {
+    "id": "jitarger",
+    "name": "Jitarger",
+    "district": "teiraplu"
+  },
+  {
+    "id": "juaban-1",
+    "name": "Juaban 1",
+    "district": "teiraplu"
+  },
+  {
+    "id": "juaban-2",
+    "name": "Juaban 2",
+    "district": "teiraplu"
+  },
+  {
+    "id": "teriame",
+    "name": "Teriame",
+    "district": "teiraplu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ngadiluwih",
+    "name": "Ngadiluwih",
+    "district": "matesih"
+  },
+  {
+    "id": "dawung",
+    "name": "Dawung",
+    "district": "matesih"
+  },
+  {
+    "id": "matesih",
+    "name": "Matesih",
+    "district": "matesih"
+  },
+  {
+    "id": "karangbangun",
+    "name": "Karangbangun",
+    "district": "matesih"
+  },
+  {
+    "id": "koripan",
+    "name": "Koripan",
+    "district": "matesih"
+  },
+  {
+    "id": "girilayu",
+    "name": "Girilayu",
+    "district": "matesih"
+  },
+  {
+    "id": "pablengan",
+    "name": "Pablengan",
+    "district": "matesih"
+  },
+  {
+    "id": "plosorejo",
+    "name": "Plosorejo",
+    "district": "matesih"
+  },
+  {
+    "id": "gantiwarno",
+    "name": "Gantiwarno",
+    "district": "matesih"
+  }
+]

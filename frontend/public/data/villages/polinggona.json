@@ -1,0 +1,37 @@
+[
+  {
+    "id": "puudongi",
+    "name": "Puudongi",
+    "district": "polinggona"
+  },
+  {
+    "id": "tanggeau",
+    "name": "Tanggeau",
+    "district": "polinggona"
+  },
+  {
+    "id": "plasma-jaya",
+    "name": "Plasma Jaya",
+    "district": "polinggona"
+  },
+  {
+    "id": "polinggona",
+    "name": "Polinggona",
+    "district": "polinggona"
+  },
+  {
+    "id": "wulonggere",
+    "name": "Wulonggere",
+    "district": "polinggona"
+  },
+  {
+    "id": "pondouwaee",
+    "name": "Pondouwaee",
+    "district": "polinggona"
+  },
+  {
+    "id": "lamondape",
+    "name": "Lamondape",
+    "district": "polinggona"
+  }
+]

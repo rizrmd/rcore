@@ -1,0 +1,22 @@
+[
+  {
+    "id": "langganu",
+    "name": "Langganu",
+    "district": "lede"
+  },
+  {
+    "id": "balohang",
+    "name": "Balohang",
+    "district": "lede"
+  },
+  {
+    "id": "tolong",
+    "name": "Tolong",
+    "district": "lede"
+  },
+  {
+    "id": "todoli",
+    "name": "Todoli",
+    "district": "lede"
+  }
+]

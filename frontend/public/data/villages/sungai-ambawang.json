@@ -1,0 +1,72 @@
+[
+  {
+    "id": "durian",
+    "name": "Durian",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "simpang-kanan",
+    "name": "Simpang Kanan",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "bengkarek",
+    "name": "Bengkarek",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "pasak-piang",
+    "name": "Pasak Piang",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "pasak",
+    "name": "Pasak",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "panca-roba",
+    "name": "Panca Roba",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "lingga",
+    "name": "Lingga",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "korek",
+    "name": "Korek",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "jawa-tengah",
+    "name": "Jawa Tengah",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "ambawang-kuala",
+    "name": "Ambawang Kuala",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "mega-timur",
+    "name": "Mega Timur",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "teluk-bakung",
+    "name": "Teluk Bakung",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "ampera-raya",
+    "name": "Ampera Raya",
+    "district": "sungai-ambawang"
+  },
+  {
+    "id": "sungai-malaya",
+    "name": "Sungai Malaya",
+    "district": "sungai-ambawang"
+  }
+]

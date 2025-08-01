@@ -1,0 +1,67 @@
+[
+  {
+    "id": "batu-kotam",
+    "name": "Batu Kotam",
+    "district": "bulik"
+  },
+  {
+    "id": "guci",
+    "name": "Guci",
+    "district": "bulik"
+  },
+  {
+    "id": "kujan",
+    "name": "Kujan",
+    "district": "bulik"
+  },
+  {
+    "id": "nanga-bulik",
+    "name": "Nanga Bulik",
+    "district": "bulik"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "bulik"
+  },
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "bulik"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "bulik"
+  },
+  {
+    "id": "arga-mulya",
+    "name": "Arga Mulya",
+    "district": "bulik"
+  },
+  {
+    "id": "sungai-mentawa",
+    "name": "Sungai Mentawa",
+    "district": "bulik"
+  },
+  {
+    "id": "beruta",
+    "name": "Beruta",
+    "district": "bulik"
+  },
+  {
+    "id": "tamiang",
+    "name": "Tamiang",
+    "district": "bulik"
+  },
+  {
+    "id": "perigi-raya",
+    "name": "Perigi Raya",
+    "district": "bulik"
+  },
+  {
+    "id": "nanga-pamalontian",
+    "name": "Nanga Pamalontian",
+    "district": "bulik"
+  }
+]

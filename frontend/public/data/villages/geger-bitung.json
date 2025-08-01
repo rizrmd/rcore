@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ciengang",
+    "name": "Ciengang",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "gegerbitung",
+    "name": "Gegerbitung",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "cijurey",
+    "name": "Cijurey",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "karangjaya",
+    "name": "Karangjaya",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "buniwangi",
+    "name": "Buniwangi",
+    "district": "geger-bitung"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "district": "geger-bitung"
+  }
+]

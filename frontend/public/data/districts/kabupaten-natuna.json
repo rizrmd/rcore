@@ -1,0 +1,77 @@
+[
+  {
+    "id": "midai",
+    "name": "Midai",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "suak-midai",
+    "name": "Suak Midai",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-barat",
+    "name": "Bunguran Barat",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-utara",
+    "name": "Bunguran Utara",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "pulau-laut",
+    "name": "Pulau Laut",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "pulau-tiga",
+    "name": "Pulau Tiga",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-batubi",
+    "name": "Bunguran Batubi",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "pulau-tiga-barat",
+    "name": "Pulau Tiga Barat",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-timur",
+    "name": "Bunguran Timur",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-timur-laut",
+    "name": "Bunguran Timur Laut",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-tengah",
+    "name": "Bunguran Tengah",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "bunguran-selatan",
+    "name": "Bunguran Selatan",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "serasan",
+    "name": "Serasan",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "subi",
+    "name": "Subi",
+    "regency": "kabupaten-natuna"
+  },
+  {
+    "id": "serasan-timur",
+    "name": "Serasan Timur",
+    "regency": "kabupaten-natuna"
+  }
+]

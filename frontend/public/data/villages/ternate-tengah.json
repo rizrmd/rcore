@@ -1,0 +1,77 @@
+[
+  {
+    "id": "maliaro",
+    "name": "Maliaro",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "kampung-pisang",
+    "name": "Kampung Pisang",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "takoma",
+    "name": "Takoma",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "muhajirin",
+    "name": "Muhajirin",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "tanah-raja",
+    "name": "Tanah Raja",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "stadion",
+    "name": "Stadion",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "marikurubu",
+    "name": "Marikurubu",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "moya",
+    "name": "Moya",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "salahuddin",
+    "name": "Salahuddin",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "santiong",
+    "name": "Santiong",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "kalumpang",
+    "name": "Kalumpang",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "gamalama",
+    "name": "Gamalama",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "makassar-timur",
+    "name": "Makassar Timur",
+    "district": "ternate-tengah"
+  },
+  {
+    "id": "makassar-barat",
+    "name": "Makassar Barat",
+    "district": "ternate-tengah"
+  }
+]

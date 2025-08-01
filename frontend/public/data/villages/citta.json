@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kampiri",
+    "name": "Kampiri",
+    "district": "citta"
+  },
+  {
+    "id": "citta",
+    "name": "Citta",
+    "district": "citta"
+  },
+  {
+    "id": "labae",
+    "name": "Labae",
+    "district": "citta"
+  },
+  {
+    "id": "tinco",
+    "name": "Tinco",
+    "district": "citta"
+  }
+]

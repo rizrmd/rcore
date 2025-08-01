@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumur-kucing",
+    "name": "Sumur Kucing",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "labuhan-ratu",
+    "name": "Labuhan Ratu",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "kedung-ringin",
+    "name": "Kedung Ringin",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "rejo-mulyo",
+    "name": "Rejo Mulyo",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "mulyo-sari",
+    "name": "Mulyo Sari",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "pasir-sakti",
+    "name": "Pasir Sakti",
+    "district": "pasir-sakti"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "pasir-sakti"
+  }
+]

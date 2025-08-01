@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kenali-besar",
+    "name": "Kenali Besar",
+    "district": "alam-barajo"
+  },
+  {
+    "id": "rawa-sari",
+    "name": "Rawa Sari",
+    "district": "alam-barajo"
+  },
+  {
+    "id": "bagan-pete",
+    "name": "Bagan Pete",
+    "district": "alam-barajo"
+  },
+  {
+    "id": "beliung",
+    "name": "Beliung",
+    "district": "alam-barajo"
+  },
+  {
+    "id": "mayang-mangurai",
+    "name": "Mayang Mangurai",
+    "district": "alam-barajo"
+  }
+]

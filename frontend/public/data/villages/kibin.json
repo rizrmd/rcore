@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nagara",
+    "name": "Nagara",
+    "district": "kibin"
+  },
+  {
+    "id": "cijeruk",
+    "name": "Cijeruk",
+    "district": "kibin"
+  },
+  {
+    "id": "barengkok",
+    "name": "Barengkok",
+    "district": "kibin"
+  },
+  {
+    "id": "nambo-ilir",
+    "name": "Nambo Ilir",
+    "district": "kibin"
+  },
+  {
+    "id": "kibin",
+    "name": "Kibin",
+    "district": "kibin"
+  },
+  {
+    "id": "tambak",
+    "name": "Tambak",
+    "district": "kibin"
+  },
+  {
+    "id": "ciagel",
+    "name": "Ciagel",
+    "district": "kibin"
+  },
+  {
+    "id": "ketos",
+    "name": "Ketos",
+    "district": "kibin"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "kibin"
+  }
+]

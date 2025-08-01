@@ -1,0 +1,102 @@
+[
+  {
+    "id": "talang-bersemi",
+    "name": "Talang Bersemi",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "talang-mulya",
+    "name": "Talang Mulya",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "anak-talang",
+    "name": "Anak Talang",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "cenaku-kecil",
+    "name": "Cenaku Kecil",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "alim",
+    "name": "Alim",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "puntianai",
+    "name": "Puntianai",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "pematang-manggis",
+    "name": "Pematang Manggis",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "kerubung-jaya",
+    "name": "Kerubung Jaya",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "petaling-jaya",
+    "name": "Petaling Jaya",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "aur-cina",
+    "name": "Aur Cina",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "bukit-lingkar",
+    "name": "Bukit Lingkar",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "bukit-lipai",
+    "name": "Bukit Lipai",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "kuala-gading",
+    "name": "Kuala Gading",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "kuala-kilan",
+    "name": "Kuala Kilan",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "sipang",
+    "name": "Sipang",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "pejangki",
+    "name": "Pejangki",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "lahai-kemuning",
+    "name": "Lahai Kemuning",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "kepayang-sari",
+    "name": "Kepayang Sari",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "batu-papan",
+    "name": "Batu Papan",
+    "district": "batang-cenaku"
+  },
+  {
+    "id": "sanglap",
+    "name": "Sanglap",
+    "district": "batang-cenaku"
+  }
+]

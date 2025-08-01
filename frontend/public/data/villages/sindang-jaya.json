@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wana-kerta",
+    "name": "Wana Kerta",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "suka-harja",
+    "name": "Suka Harja",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "sindang-panon",
+    "name": "Sindang Panon",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "sindang-jaya",
+    "name": "Sindang Jaya",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "sindang-asih",
+    "name": "Sindang Asih",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "sindang-sono",
+    "name": "Sindang Sono",
+    "district": "sindang-jaya"
+  },
+  {
+    "id": "badak-anom",
+    "name": "Badak Anom",
+    "district": "sindang-jaya"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "keloyak",
+    "name": "Keloyak",
+    "district": "kolawa"
+  },
+  {
+    "id": "wanuga",
+    "name": "Wanuga",
+    "district": "kolawa"
+  },
+  {
+    "id": "labora",
+    "name": "Labora",
+    "district": "kolawa"
+  },
+  {
+    "id": "kondena",
+    "name": "Kondena",
+    "district": "kolawa"
+  },
+  {
+    "id": "kolunggu",
+    "name": "Kolunggu",
+    "district": "kolawa"
+  },
+  {
+    "id": "yagarikme",
+    "name": "Yagarikme",
+    "district": "kolawa"
+  },
+  {
+    "id": "ambena",
+    "name": "Ambena",
+    "district": "kolawa"
+  },
+  {
+    "id": "timotius",
+    "name": "Timotius",
+    "district": "kolawa"
+  }
+]

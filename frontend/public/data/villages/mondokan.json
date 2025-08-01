@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sono",
+    "name": "Sono",
+    "district": "mondokan"
+  },
+  {
+    "id": "tempelrejo",
+    "name": "Tempelrejo",
+    "district": "mondokan"
+  },
+  {
+    "id": "trombol",
+    "name": "Trombol",
+    "district": "mondokan"
+  },
+  {
+    "id": "jekani",
+    "name": "Jekani",
+    "district": "mondokan"
+  },
+  {
+    "id": "pare",
+    "name": "Pare",
+    "district": "mondokan"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "mondokan"
+  },
+  {
+    "id": "jambangan",
+    "name": "Jambangan",
+    "district": "mondokan"
+  },
+  {
+    "id": "gemantar",
+    "name": "Gemantar",
+    "district": "mondokan"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "mondokan"
+  }
+]

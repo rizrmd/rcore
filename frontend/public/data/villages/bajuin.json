@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tirta-jaya",
+    "name": "Tirta Jaya",
+    "district": "bajuin"
+  },
+  {
+    "id": "galam",
+    "name": "Galam",
+    "district": "bajuin"
+  },
+  {
+    "id": "pamalongan",
+    "name": "Pamalongan",
+    "district": "bajuin"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "bajuin"
+  },
+  {
+    "id": "kunyit",
+    "name": "Kunyit",
+    "district": "bajuin"
+  },
+  {
+    "id": "bajuin",
+    "name": "Bajuin",
+    "district": "bajuin"
+  },
+  {
+    "id": "sungai-bakar",
+    "name": "Sungai Bakar",
+    "district": "bajuin"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "bajuin"
+  },
+  {
+    "id": "tebing-siring",
+    "name": "Tebing Siring",
+    "district": "bajuin"
+  }
+]

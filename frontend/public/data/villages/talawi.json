@@ -1,0 +1,107 @@
+[
+  {
+    "id": "panjang",
+    "name": "Panjang",
+    "district": "talawi"
+  },
+  {
+    "id": "pahang",
+    "name": "Pahang",
+    "district": "talawi"
+  },
+  {
+    "id": "padang-genting",
+    "name": "Padang Genting",
+    "district": "talawi"
+  },
+  {
+    "id": "labuhan-ruku",
+    "name": "Labuhan Ruku",
+    "district": "talawi"
+  },
+  {
+    "id": "mesjid-lama",
+    "name": "Mesjid Lama",
+    "district": "talawi"
+  },
+  {
+    "id": "dahari-selebar",
+    "name": "Dahari Selebar",
+    "district": "talawi"
+  },
+  {
+    "id": "gunung-rante",
+    "name": "Gunung Rante",
+    "district": "talawi"
+  },
+  {
+    "id": "benteng",
+    "name": "Benteng",
+    "district": "talawi"
+  },
+  {
+    "id": "indra-yaman",
+    "name": "Indra Yaman",
+    "district": "talawi"
+  },
+  {
+    "id": "dahari-indah",
+    "name": "Dahari Indah",
+    "district": "talawi"
+  },
+  {
+    "id": "sikalang",
+    "name": "Sikalang",
+    "district": "talawi"
+  },
+  {
+    "id": "rantih",
+    "name": "Rantih",
+    "district": "talawi"
+  },
+  {
+    "id": "salak",
+    "name": "Salak",
+    "district": "talawi"
+  },
+  {
+    "id": "sijantang-koto",
+    "name": "Sijantang Koto",
+    "district": "talawi"
+  },
+  {
+    "id": "talawi-hilir",
+    "name": "Talawi Hilir",
+    "district": "talawi"
+  },
+  {
+    "id": "talawi-mudik",
+    "name": "Talawi Mudik",
+    "district": "talawi"
+  },
+  {
+    "id": "bukik-gadang",
+    "name": "Bukik Gadang",
+    "district": "talawi"
+  },
+  {
+    "id": "batu-tanjung",
+    "name": "Batu Tanjung",
+    "district": "talawi"
+  },
+  {
+    "id": "kumbayau",
+    "name": "Kumbayau",
+    "district": "talawi"
+  },
+  {
+    "id": "datar-mansiang",
+    "name": "Datar Mansiang",
+    "district": "talawi"
+  },
+  {
+    "id": "tumpuk-tangah",
+    "name": "Tumpuk Tangah",
+    "district": "talawi"
+  }
+]

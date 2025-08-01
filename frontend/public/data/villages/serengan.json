@@ -1,0 +1,37 @@
+[
+  {
+    "id": "joyotakan",
+    "name": "Joyotakan",
+    "district": "serengan"
+  },
+  {
+    "id": "danukusuman",
+    "name": "Danukusuman",
+    "district": "serengan"
+  },
+  {
+    "id": "serengan",
+    "name": "Serengan",
+    "district": "serengan"
+  },
+  {
+    "id": "tipes",
+    "name": "Tipes",
+    "district": "serengan"
+  },
+  {
+    "id": "kratonan",
+    "name": "Kratonan",
+    "district": "serengan"
+  },
+  {
+    "id": "jayengan",
+    "name": "Jayengan",
+    "district": "serengan"
+  },
+  {
+    "id": "kemlayan",
+    "name": "Kemlayan",
+    "district": "serengan"
+  }
+]

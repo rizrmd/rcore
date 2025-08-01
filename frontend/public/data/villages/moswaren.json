@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bumi-ajo-sp-i",
+    "name": "Bumi Ajo (Sp I)",
+    "district": "moswaren"
+  },
+  {
+    "id": "hasik-jaya-sp-ii",
+    "name": "Hasik Jaya (Sp Ii)",
+    "district": "moswaren"
+  },
+  {
+    "id": "moswaren",
+    "name": "Moswaren",
+    "district": "moswaren"
+  },
+  {
+    "id": "joshiro",
+    "name": "Joshiro",
+    "district": "moswaren"
+  },
+  {
+    "id": "kamisabe",
+    "name": "Kamisabe",
+    "district": "moswaren"
+  },
+  {
+    "id": "hararo",
+    "name": "Hararo",
+    "district": "moswaren"
+  },
+  {
+    "id": "tokass",
+    "name": "Tokass",
+    "district": "moswaren"
+  }
+]

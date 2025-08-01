@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "ujung-berung"
+  },
+  {
+    "id": "pasirjati",
+    "name": "Pasirjati",
+    "district": "ujung-berung"
+  },
+  {
+    "id": "pasir-wangi",
+    "name": "Pasir Wangi",
+    "district": "ujung-berung"
+  },
+  {
+    "id": "cigending",
+    "name": "Cigending",
+    "district": "ujung-berung"
+  },
+  {
+    "id": "pasir-endah",
+    "name": "Pasir Endah",
+    "district": "ujung-berung"
+  }
+]

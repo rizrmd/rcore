@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pangkalan-sesai",
+    "name": "Pangkalan Sesai",
+    "district": "dumai-barat"
+  },
+  {
+    "id": "purnama",
+    "name": "Purnama",
+    "district": "dumai-barat"
+  },
+  {
+    "id": "simpang-tetap-darul-ihsan",
+    "name": "Simpang Tetap Darul Ihsan",
+    "district": "dumai-barat"
+  },
+  {
+    "id": "bagan-keladi",
+    "name": "Bagan Keladi",
+    "district": "dumai-barat"
+  }
+]

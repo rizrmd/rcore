@@ -1,0 +1,37 @@
+[
+  {
+    "id": "natai-kondang",
+    "name": "Natai Kondang",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "ajang",
+    "name": "Ajang",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "laman-baru",
+    "name": "Laman Baru",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "kenawan",
+    "name": "Kenawan",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "semantun",
+    "name": "Semantun",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "sembikuan",
+    "name": "Sembikuan",
+    "district": "permata-kecubung"
+  },
+  {
+    "id": "nibung-terjun",
+    "name": "Nibung Terjun",
+    "district": "permata-kecubung"
+  }
+]

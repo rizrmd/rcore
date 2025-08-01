@@ -1,0 +1,57 @@
+[
+  {
+    "id": "malasari",
+    "name": "Malasari",
+    "district": "nanggung"
+  },
+  {
+    "id": "bantar-karet",
+    "name": "Bantar Karet",
+    "district": "nanggung"
+  },
+  {
+    "id": "cisarua",
+    "name": "Cisarua",
+    "district": "nanggung"
+  },
+  {
+    "id": "curug-bitung",
+    "name": "Curug Bitung",
+    "district": "nanggung"
+  },
+  {
+    "id": "nanggung",
+    "name": "Nanggung",
+    "district": "nanggung"
+  },
+  {
+    "id": "pangkal-jaya",
+    "name": "Pangkal Jaya",
+    "district": "nanggung"
+  },
+  {
+    "id": "sukaluyu",
+    "name": "Sukaluyu",
+    "district": "nanggung"
+  },
+  {
+    "id": "hambaro",
+    "name": "Hambaro",
+    "district": "nanggung"
+  },
+  {
+    "id": "kalong-liud",
+    "name": "Kalong Liud",
+    "district": "nanggung"
+  },
+  {
+    "id": "parakan-muncang",
+    "name": "Parakan Muncang",
+    "district": "nanggung"
+  },
+  {
+    "id": "batu-tulis",
+    "name": "Batu Tulis",
+    "district": "nanggung"
+  }
+]

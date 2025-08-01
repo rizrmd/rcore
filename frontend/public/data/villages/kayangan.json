@@ -1,0 +1,37 @@
+[
+  {
+    "id": "santong",
+    "name": "Santong",
+    "district": "kayangan"
+  },
+  {
+    "id": "pendua",
+    "name": "Pendua",
+    "district": "kayangan"
+  },
+  {
+    "id": "kayangan",
+    "name": "Kayangan",
+    "district": "kayangan"
+  },
+  {
+    "id": "dangiang",
+    "name": "Dangiang",
+    "district": "kayangan"
+  },
+  {
+    "id": "sesait",
+    "name": "Sesait",
+    "district": "kayangan"
+  },
+  {
+    "id": "gumantar",
+    "name": "Gumantar",
+    "district": "kayangan"
+  },
+  {
+    "id": "salut",
+    "name": "Salut",
+    "district": "kayangan"
+  }
+]

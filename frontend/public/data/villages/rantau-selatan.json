@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lobusona",
+    "name": "Lobusona",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "sigambal",
+    "name": "Sigambal",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "danobale",
+    "name": "Danobale",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "perdamean",
+    "name": "Perdamean",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "ujung-bandar",
+    "name": "Ujung Bandar",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "bakaran-batu",
+    "name": "Bakaran Batu",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "urung-kompas",
+    "name": "Urung Kompas",
+    "district": "rantau-selatan"
+  },
+  {
+    "id": "sioldengan",
+    "name": "Sioldengan",
+    "district": "rantau-selatan"
+  }
+]

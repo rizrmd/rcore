@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tedubara",
+    "name": "Tedubara",
+    "district": "kabaena-utara"
+  },
+  {
+    "id": "eemokolo",
+    "name": "Eemokolo",
+    "district": "kabaena-utara"
+  },
+  {
+    "id": "sangia-makmur",
+    "name": "Sangia Makmur",
+    "district": "kabaena-utara"
+  },
+  {
+    "id": "wumbulasa",
+    "name": "Wumbulasa",
+    "district": "kabaena-utara"
+  },
+  {
+    "id": "mapila",
+    "name": "Mapila",
+    "district": "kabaena-utara"
+  },
+  {
+    "id": "larolanu-sp3",
+    "name": "Larolanu (Sp3)",
+    "district": "kabaena-utara"
+  }
+]

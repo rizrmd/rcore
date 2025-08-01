@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cibarusahjaya",
+    "name": "Cibarusahjaya",
+    "district": "cibarusah"
+  },
+  {
+    "id": "cibarusahkota",
+    "name": "Cibarusahkota",
+    "district": "cibarusah"
+  },
+  {
+    "id": "sindangmulya",
+    "name": "Sindangmulya",
+    "district": "cibarusah"
+  },
+  {
+    "id": "wibawamulya",
+    "name": "Wibawamulya",
+    "district": "cibarusah"
+  },
+  {
+    "id": "sirnajati",
+    "name": "Sirnajati",
+    "district": "cibarusah"
+  },
+  {
+    "id": "ridogalih",
+    "name": "Ridogalih",
+    "district": "cibarusah"
+  },
+  {
+    "id": "ridomanah",
+    "name": "Ridomanah",
+    "district": "cibarusah"
+  }
+]

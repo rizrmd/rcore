@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sirombu",
+    "name": "Sirombu",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "lahomi",
+    "name": "Lahomi",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "ulu-moro-o",
+    "name": "Ulu Moro O",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "lolofitu-moi",
+    "name": "Lolofitu Moi",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "mandrehe-utara",
+    "name": "Mandrehe Utara",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "mandrehe",
+    "name": "Mandrehe",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "mandrehe-barat",
+    "name": "Mandrehe Barat",
+    "regency": "kabupaten-nias-barat"
+  },
+  {
+    "id": "moro-o",
+    "name": "Moro O",
+    "regency": "kabupaten-nias-barat"
+  }
+]

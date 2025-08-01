@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sungai-ayak-i",
+    "name": "Sungai Ayak I",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "sungai-ayak-iii",
+    "name": "Sungai Ayak Iii",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "entabuk",
+    "name": "Entabuk",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "tapang-pulau",
+    "name": "Tapang Pulau",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "merbang",
+    "name": "Merbang",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "kumpang-bis",
+    "name": "Kumpang Bis",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "menawai-tekam",
+    "name": "Menawai Tekam",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "semadu",
+    "name": "Semadu",
+    "district": "belitang-hilir"
+  },
+  {
+    "id": "empajak",
+    "name": "Empajak",
+    "district": "belitang-hilir"
+  }
+]

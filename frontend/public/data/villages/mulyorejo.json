@@ -1,0 +1,32 @@
+[
+  {
+    "id": "manyar-sabrangan",
+    "name": "Manyar Sabrangan",
+    "district": "mulyorejo"
+  },
+  {
+    "id": "mulyorejo",
+    "name": "Mulyorejo",
+    "district": "mulyorejo"
+  },
+  {
+    "id": "kejawen-putih-tambak",
+    "name": "Kejawen Putih Tambak",
+    "district": "mulyorejo"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "mulyorejo"
+  },
+  {
+    "id": "dukuh-sutorejo",
+    "name": "Dukuh Sutorejo",
+    "district": "mulyorejo"
+  },
+  {
+    "id": "kalijudan",
+    "name": "Kalijudan",
+    "district": "mulyorejo"
+  }
+]

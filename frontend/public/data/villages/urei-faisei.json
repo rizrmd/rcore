@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kemon-jaya-sp-v",
+    "name": "Kemon Jaya Sp V",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "mambui",
+    "name": "Mambui",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "urei-faisei-tiga",
+    "name": "Urei Faisei Tiga",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "urei-faisei-dua",
+    "name": "Urei Faisei Dua",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "nubuai",
+    "name": "Nubuai",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "apainabo",
+    "name": "Apainabo",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "urei-faisei-satusanggei",
+    "name": "Urei Faisei Satu/Sanggei",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "usaiwa",
+    "name": "Usaiwa",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "ronggaiwa",
+    "name": "Ronggaiwa",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "paradoi",
+    "name": "Paradoi",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "ghoyui",
+    "name": "Ghoyui",
+    "district": "urei-faisei"
+  },
+  {
+    "id": "rorisi",
+    "name": "Rorisi",
+    "district": "urei-faisei"
+  }
+]

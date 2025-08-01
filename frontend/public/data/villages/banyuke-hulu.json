@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gamang",
+    "name": "Gamang",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "ringo-lojok",
+    "name": "Ringo Lojok",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "tembawang-bale",
+    "name": "Tembawang Bale",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "padang-pio",
+    "name": "Padang Pio",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "kampet",
+    "name": "Kampet",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "semade",
+    "name": "Semade",
+    "district": "banyuke-hulu"
+  },
+  {
+    "id": "untang",
+    "name": "Untang",
+    "district": "banyuke-hulu"
+  }
+]

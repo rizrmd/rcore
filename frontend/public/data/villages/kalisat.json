@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gambiran",
+    "name": "Gambiran",
+    "district": "kalisat"
+  },
+  {
+    "id": "plalangan",
+    "name": "Plalangan",
+    "district": "kalisat"
+  },
+  {
+    "id": "ajung",
+    "name": "Ajung",
+    "district": "kalisat"
+  },
+  {
+    "id": "glagahwero",
+    "name": "Glagahwero",
+    "district": "kalisat"
+  },
+  {
+    "id": "gumuksari",
+    "name": "Gumuksari",
+    "district": "kalisat"
+  },
+  {
+    "id": "patempuran",
+    "name": "Patempuran",
+    "district": "kalisat"
+  },
+  {
+    "id": "kalisat",
+    "name": "Kalisat",
+    "district": "kalisat"
+  },
+  {
+    "id": "sumber-ketempah",
+    "name": "Sumber Ketempah",
+    "district": "kalisat"
+  },
+  {
+    "id": "sukoreno",
+    "name": "Sukoreno",
+    "district": "kalisat"
+  },
+  {
+    "id": "sumber-kalong",
+    "name": "Sumber Kalong",
+    "district": "kalisat"
+  },
+  {
+    "id": "sebanen",
+    "name": "Sebanen",
+    "district": "kalisat"
+  }
+]

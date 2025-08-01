@@ -1,0 +1,67 @@
+[
+  {
+    "id": "nyapah",
+    "name": "Nyapah",
+    "district": "walantaka"
+  },
+  {
+    "id": "lebakwangi",
+    "name": "Lebakwangi",
+    "district": "walantaka"
+  },
+  {
+    "id": "cigoong",
+    "name": "Cigoong",
+    "district": "walantaka"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "walantaka"
+  },
+  {
+    "id": "pasuluhan",
+    "name": "Pasuluhan",
+    "district": "walantaka"
+  },
+  {
+    "id": "pabuaran",
+    "name": "Pabuaran",
+    "district": "walantaka"
+  },
+  {
+    "id": "walantaka",
+    "name": "Walantaka",
+    "district": "walantaka"
+  },
+  {
+    "id": "pengampelan",
+    "name": "Pengampelan",
+    "district": "walantaka"
+  },
+  {
+    "id": "pipitan",
+    "name": "Pipitan",
+    "district": "walantaka"
+  },
+  {
+    "id": "kiara",
+    "name": "Kiara",
+    "district": "walantaka"
+  },
+  {
+    "id": "pageragung",
+    "name": "Pageragung",
+    "district": "walantaka"
+  },
+  {
+    "id": "kalodran",
+    "name": "Kalodran",
+    "district": "walantaka"
+  },
+  {
+    "id": "teritih",
+    "name": "Teritih",
+    "district": "walantaka"
+  }
+]

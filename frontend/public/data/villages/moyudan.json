@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sumberrahayu",
+    "name": "Sumberrahayu",
+    "district": "moyudan"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "moyudan"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "moyudan"
+  },
+  {
+    "id": "sumberarum",
+    "name": "Sumberarum",
+    "district": "moyudan"
+  }
+]

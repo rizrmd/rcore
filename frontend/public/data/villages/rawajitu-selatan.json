@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bumi-ratu",
+    "name": "Bumi Ratu",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "hargo-rejo",
+    "name": "Hargo Rejo",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "yudha-karya-jitu",
+    "name": "Yudha Karya Jitu",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "karya-jitu-mukti",
+    "name": "Karya Jitu Mukti",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "hargo-mulyo",
+    "name": "Hargo Mulyo",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "wono-agung",
+    "name": "Wono Agung",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "medasari",
+    "name": "Medasari",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "gedung-karya-jitu",
+    "name": "Gedung Karya Jitu",
+    "district": "rawajitu-selatan"
+  },
+  {
+    "id": "karya-cipta-abadi",
+    "name": "Karya Cipta Abadi",
+    "district": "rawajitu-selatan"
+  }
+]

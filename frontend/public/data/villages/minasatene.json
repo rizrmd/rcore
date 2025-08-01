@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bonto-langkasa",
+    "name": "Bonto Langkasa",
+    "district": "minasatene"
+  },
+  {
+    "id": "kabba",
+    "name": "Kabba",
+    "district": "minasatene"
+  },
+  {
+    "id": "panaikang",
+    "name": "Panaikang",
+    "district": "minasatene"
+  },
+  {
+    "id": "bontokio",
+    "name": "Bontokio",
+    "district": "minasatene"
+  },
+  {
+    "id": "biraeng",
+    "name": "Biraeng",
+    "district": "minasatene"
+  },
+  {
+    "id": "minasatene",
+    "name": "Minasatene",
+    "district": "minasatene"
+  },
+  {
+    "id": "kalabbirang",
+    "name": "Kalabbirang",
+    "district": "minasatene"
+  },
+  {
+    "id": "bontoa",
+    "name": "Bontoa",
+    "district": "minasatene"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "marok-tua",
+    "name": "Marok Tua",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "kuala-raya",
+    "name": "Kuala Raya",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "bakong",
+    "name": "Bakong",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "sungai-harapan",
+    "name": "Sungai Harapan",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "jagoh",
+    "name": "Jagoh",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "raya",
+    "name": "Raya",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "bukit-belah",
+    "name": "Bukit Belah",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "tanjung-irat",
+    "name": "Tanjung Irat",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "singkep-barat"
+  },
+  {
+    "id": "tinjul",
+    "name": "Tinjul",
+    "district": "singkep-barat"
+  }
+]

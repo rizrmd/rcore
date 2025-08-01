@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lupoyo",
+    "name": "Lupoyo",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "pantungo",
+    "name": "Pantungo",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "dumati",
+    "name": "Dumati",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "tuladenggi",
+    "name": "Tuladenggi",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "ulapatoa",
+    "name": "Ulapato.A",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "pentadio-timur",
+    "name": "Pentadio Timur",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "pentadio-barat",
+    "name": "Pentadio Barat",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "talumelito",
+    "name": "Talumelito",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "ulapatob",
+    "name": "Ulapato.B",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "dulamayo-utara",
+    "name": "Dulamayo Utara",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "modellidu",
+    "name": "Modellidu",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "tinelo",
+    "name": "Tinelo",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "timuato",
+    "name": "Timuato",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "tapaluluo",
+    "name": "Tapaluluo",
+    "district": "telaga-biru"
+  },
+  {
+    "id": "tonala",
+    "name": "Tonala",
+    "district": "telaga-biru"
+  }
+]

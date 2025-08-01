@@ -1,0 +1,72 @@
+[
+  {
+    "id": "taba-renah",
+    "name": "Taba Renah",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "temiang",
+    "name": "Temiang",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "kertapati",
+    "name": "Kertapati",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "pagar-jati",
+    "name": "Pagar Jati",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "arga-indah-i",
+    "name": "Arga Indah I",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "datar-penokot",
+    "name": "Datar Penokot",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "layang-lekat",
+    "name": "Layang Lekat",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "talang-curup",
+    "name": "Talang Curup",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "tumbuk",
+    "name": "Tumbuk",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "rena-kandis",
+    "name": "Rena Kandis",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "karang-are",
+    "name": "Karang Are",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "kertapati-mudik",
+    "name": "Kertapati Mudik",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "keroya",
+    "name": "Keroya",
+    "district": "pagar-jati"
+  },
+  {
+    "id": "rena-jaya",
+    "name": "Rena Jaya",
+    "district": "pagar-jati"
+  }
+]

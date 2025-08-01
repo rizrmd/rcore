@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bontosi",
+    "name": "Bontosi",
+    "district": "labobo"
+  },
+  {
+    "id": "liputalas",
+    "name": "Liputalas",
+    "district": "labobo"
+  },
+  {
+    "id": "lipulalongo",
+    "name": "Lipulalongo",
+    "district": "labobo"
+  },
+  {
+    "id": "alasan",
+    "name": "Alasan",
+    "district": "labobo"
+  },
+  {
+    "id": "padingkian",
+    "name": "Padingkian",
+    "district": "labobo"
+  },
+  {
+    "id": "paisulamo",
+    "name": "Paisulamo",
+    "district": "labobo"
+  },
+  {
+    "id": "lalong",
+    "name": "Lalong",
+    "district": "labobo"
+  },
+  {
+    "id": "mansalean",
+    "name": "Mansalean",
+    "district": "labobo"
+  }
+]

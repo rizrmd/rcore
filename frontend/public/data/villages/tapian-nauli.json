@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tapian-nauli-i",
+    "name": "Tapian Nauli I",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "mela-dolok",
+    "name": "Mela Dolok",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "aloban",
+    "name": "Aloban",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "tapian-nauli-iii",
+    "name": "Tapian Nauli Iii",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "tapian-nauli-ii",
+    "name": "Tapian Nauli Ii",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "tapian-nauli-iv",
+    "name": "Tapian Nauli Iv",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "mela-i",
+    "name": "Mela I",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "mela-ii",
+    "name": "Mela Ii",
+    "district": "tapian-nauli"
+  },
+  {
+    "id": "bair",
+    "name": "Bair",
+    "district": "tapian-nauli"
+  }
+]

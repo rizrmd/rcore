@@ -1,0 +1,42 @@
+[
+  {
+    "id": "belakang-balok",
+    "name": "Belakang Balok",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "sapiran",
+    "name": "Sapiran",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "birugo",
+    "name": "Birugo",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "aur-kuning",
+    "name": "Aur Kuning",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "pakan-labuh",
+    "name": "Pakan Labuh",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "kubu-tanjung",
+    "name": "Kubu Tanjung",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "ladang-cakiah",
+    "name": "Ladang Cakiah",
+    "district": "aur-birugo-tigo-baleh"
+  },
+  {
+    "id": "parit-antang",
+    "name": "Parit Antang",
+    "district": "aur-birugo-tigo-baleh"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "inggis",
+    "name": "Inggis",
+    "district": "mukok"
+  },
+  {
+    "id": "semanggis-raya",
+    "name": "Semanggis Raya",
+    "district": "mukok"
+  },
+  {
+    "id": "semuntai",
+    "name": "Semuntai",
+    "district": "mukok"
+  },
+  {
+    "id": "engkode",
+    "name": "Engkode",
+    "district": "mukok"
+  },
+  {
+    "id": "sei-mawang",
+    "name": "Sei Mawang",
+    "district": "mukok"
+  },
+  {
+    "id": "trimulya",
+    "name": "Trimulya",
+    "district": "mukok"
+  },
+  {
+    "id": "layak-omang",
+    "name": "Layak Omang",
+    "district": "mukok"
+  },
+  {
+    "id": "serambai-jaya",
+    "name": "Serambai Jaya",
+    "district": "mukok"
+  }
+]

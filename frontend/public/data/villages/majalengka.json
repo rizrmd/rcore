@@ -1,0 +1,62 @@
+[
+  {
+    "id": "babakan-jawa",
+    "name": "Babakan Jawa",
+    "district": "majalengka"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "majalengka"
+  },
+  {
+    "id": "kawunggirang",
+    "name": "Kawunggirang",
+    "district": "majalengka"
+  },
+  {
+    "id": "sindangkasih",
+    "name": "Sindangkasih",
+    "district": "majalengka"
+  },
+  {
+    "id": "cicurug",
+    "name": "Cicurug",
+    "district": "majalengka"
+  },
+  {
+    "id": "majalengka-wetan",
+    "name": "Majalengka Wetan",
+    "district": "majalengka"
+  },
+  {
+    "id": "tonjong",
+    "name": "Tonjong",
+    "district": "majalengka"
+  },
+  {
+    "id": "tarikolot",
+    "name": "Tarikolot",
+    "district": "majalengka"
+  },
+  {
+    "id": "cikasarung",
+    "name": "Cikasarung",
+    "district": "majalengka"
+  },
+  {
+    "id": "cijati",
+    "name": "Cijati",
+    "district": "majalengka"
+  },
+  {
+    "id": "majalengka-kulon",
+    "name": "Majalengka Kulon",
+    "district": "majalengka"
+  },
+  {
+    "id": "sidamukti",
+    "name": "Sidamukti",
+    "district": "majalengka"
+  }
+]

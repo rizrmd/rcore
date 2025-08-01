@@ -1,0 +1,32 @@
+[
+  {
+    "id": "binaus",
+    "name": "Binaus",
+    "district": "mollo-tengah"
+  },
+  {
+    "id": "oelbubuk",
+    "name": "Oelbubuk",
+    "district": "mollo-tengah"
+  },
+  {
+    "id": "kualeu",
+    "name": "Kualeu",
+    "district": "mollo-tengah"
+  },
+  {
+    "id": "neke-mani-feto",
+    "name": "Neke Mani Feto",
+    "district": "mollo-tengah"
+  },
+  {
+    "id": "oelekam",
+    "name": "Oelekam",
+    "district": "mollo-tengah"
+  },
+  {
+    "id": "pika",
+    "name": "Pika",
+    "district": "mollo-tengah"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "manggelum",
+    "name": "Manggelum",
+    "district": "manggelum"
+  },
+  {
+    "id": "mangga-tiga",
+    "name": "Mangga Tiga",
+    "district": "manggelum"
+  },
+  {
+    "id": "kewam",
+    "name": "Kewam",
+    "district": "manggelum"
+  },
+  {
+    "id": "bayanggop",
+    "name": "Bayanggop",
+    "district": "manggelum"
+  },
+  {
+    "id": "gaguop",
+    "name": "Gaguop",
+    "district": "manggelum"
+  },
+  {
+    "id": "burunggop",
+    "name": "Burunggop",
+    "district": "manggelum"
+  }
+]

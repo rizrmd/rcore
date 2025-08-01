@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pulau-rhun",
+    "name": "Pulau Rhun",
+    "district": "banda"
+  },
+  {
+    "id": "pulau-ay",
+    "name": "Pulau Ay",
+    "district": "banda"
+  },
+  {
+    "id": "lonthoir",
+    "name": "Lonthoir",
+    "district": "banda"
+  },
+  {
+    "id": "pulau-hatta",
+    "name": "Pulau Hatta",
+    "district": "banda"
+  },
+  {
+    "id": "selamon",
+    "name": "Selamon",
+    "district": "banda"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "banda"
+  },
+  {
+    "id": "dwiwarna",
+    "name": "Dwiwarna",
+    "district": "banda"
+  },
+  {
+    "id": "rajawali",
+    "name": "Rajawali",
+    "district": "banda"
+  },
+  {
+    "id": "merdeka",
+    "name": "Merdeka",
+    "district": "banda"
+  },
+  {
+    "id": "nusantara",
+    "name": "Nusantara",
+    "district": "banda"
+  },
+  {
+    "id": "waer",
+    "name": "Waer",
+    "district": "banda"
+  },
+  {
+    "id": "tanah-rata",
+    "name": "Tanah Rata",
+    "district": "banda"
+  },
+  {
+    "id": "uring-tutra",
+    "name": "Uring Tutra",
+    "district": "banda"
+  },
+  {
+    "id": "lautang",
+    "name": "Lautang",
+    "district": "banda"
+  },
+  {
+    "id": "walling-spanciby",
+    "name": "Walling Spanciby",
+    "district": "banda"
+  },
+  {
+    "id": "boiyauw",
+    "name": "Boiyauw",
+    "district": "banda"
+  },
+  {
+    "id": "combir-kasestoren",
+    "name": "Combir Kasestoren",
+    "district": "banda"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "muncangela",
+    "name": "Muncangela",
+    "district": "cipicung"
+  },
+  {
+    "id": "karoya",
+    "name": "Karoya",
+    "district": "cipicung"
+  },
+  {
+    "id": "susukan",
+    "name": "Susukan",
+    "district": "cipicung"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "cipicung"
+  },
+  {
+    "id": "cipicung",
+    "name": "Cipicung",
+    "district": "cipicung"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cipicung"
+  },
+  {
+    "id": "cimaranten",
+    "name": "Cimaranten",
+    "district": "cipicung"
+  },
+  {
+    "id": "pamulihan",
+    "name": "Pamulihan",
+    "district": "cipicung"
+  },
+  {
+    "id": "salareuma",
+    "name": "Salareuma",
+    "district": "cipicung"
+  },
+  {
+    "id": "suganangan",
+    "name": "Suganangan",
+    "district": "cipicung"
+  }
+]

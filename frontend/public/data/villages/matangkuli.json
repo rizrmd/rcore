@@ -1,0 +1,247 @@
+[
+  {
+    "id": "blang-seupeng",
+    "name": "Blang Seupeng",
+    "district": "matangkuli"
+  },
+  {
+    "id": "blang-kuta",
+    "name": "Blang Kuta",
+    "district": "matangkuli"
+  },
+  {
+    "id": "leubok-pirak",
+    "name": "Leubok Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "beuracan-pirak",
+    "name": "Beuracan Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "matang-peusangan",
+    "name": "Matang Peusangan",
+    "district": "matangkuli"
+  },
+  {
+    "id": "kunyet-mule",
+    "name": "Kunyet Mule",
+    "district": "matangkuli"
+  },
+  {
+    "id": "aron-pirak",
+    "name": "Aron Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "mesjid-pirak",
+    "name": "Mesjid Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "pante-pirak",
+    "name": "Pante Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "beuringen",
+    "name": "Beuringen",
+    "district": "matangkuli"
+  },
+  {
+    "id": "teungoh-pirak",
+    "name": "Teungoh Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "rayeuk-pirak",
+    "name": "Rayeuk Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tutong",
+    "name": "Tutong",
+    "district": "matangkuli"
+  },
+  {
+    "id": "teungoh-seuleumak",
+    "name": "Teungoh Seuleumak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tanjong-tgk-kari",
+    "name": "Tanjong Tgk Kari",
+    "district": "matangkuli"
+  },
+  {
+    "id": "seuriweuk",
+    "name": "Seuriweuk",
+    "district": "matangkuli"
+  },
+  {
+    "id": "dayah-baro",
+    "name": "Dayah Baro",
+    "district": "matangkuli"
+  },
+  {
+    "id": "alue-tho",
+    "name": "Alue Tho",
+    "district": "matangkuli"
+  },
+  {
+    "id": "ceubrek-pirak",
+    "name": "Ceubrek Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "meunye-pirak",
+    "name": "Meunye Pirak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "siren",
+    "name": "Siren",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tanjong-haji-muda",
+    "name": "Tanjong Haji Muda",
+    "district": "matangkuli"
+  },
+  {
+    "id": "trieng-teupin-keubeu",
+    "name": "Trieng Teupin Keubeu",
+    "district": "matangkuli"
+  },
+  {
+    "id": "teupin-keubeu",
+    "name": "Teupin Keubeu",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tanjong-babah-krueng",
+    "name": "Tanjong Babah Krueng",
+    "district": "matangkuli"
+  },
+  {
+    "id": "lawang",
+    "name": "Lawang",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tanjong-tgk-ali",
+    "name": "Tanjong Tgk Ali",
+    "district": "matangkuli"
+  },
+  {
+    "id": "hagu",
+    "name": "Hagu",
+    "district": "matangkuli"
+  },
+  {
+    "id": "meuria-matang-kuli",
+    "name": "Meuria Matang Kuli",
+    "district": "matangkuli"
+  },
+  {
+    "id": "alue-entok",
+    "name": "Alue Entok",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tumpok-barat",
+    "name": "Tumpok Barat",
+    "district": "matangkuli"
+  },
+  {
+    "id": "parang-ix",
+    "name": "Parang Ix",
+    "district": "matangkuli"
+  },
+  {
+    "id": "baro",
+    "name": "Baro",
+    "district": "matangkuli"
+  },
+  {
+    "id": "mee",
+    "name": "Mee",
+    "district": "matangkuli"
+  },
+  {
+    "id": "blang",
+    "name": "Blang",
+    "district": "matangkuli"
+  },
+  {
+    "id": "keude-matang-kuli",
+    "name": "Keude Matang Kuli",
+    "district": "matangkuli"
+  },
+  {
+    "id": "punti-matang-kuli",
+    "name": "Punti Matang Kuli",
+    "district": "matangkuli"
+  },
+  {
+    "id": "matang-mee",
+    "name": "Matang Mee",
+    "district": "matangkuli"
+  },
+  {
+    "id": "rayeuk-glangglong",
+    "name": "Rayeuk Glangglong",
+    "district": "matangkuli"
+  },
+  {
+    "id": "tumpok-peureulak",
+    "name": "Tumpok Peureulak",
+    "district": "matangkuli"
+  },
+  {
+    "id": "rayeuk-matang-kuli",
+    "name": "Rayeuk Matang Kuli",
+    "district": "matangkuli"
+  },
+  {
+    "id": "ude",
+    "name": "Ude",
+    "district": "matangkuli"
+  },
+  {
+    "id": "ujong-kulam",
+    "name": "Ujong Kulam",
+    "district": "matangkuli"
+  },
+  {
+    "id": "jeumpa-glumpang-vii",
+    "name": "Jeumpa Glumpang Vii",
+    "district": "matangkuli"
+  },
+  {
+    "id": "punti-glumpang-vii",
+    "name": "Punti Glumpang Vii",
+    "district": "matangkuli"
+  },
+  {
+    "id": "glumpang-vii",
+    "name": "Glumpang Vii",
+    "district": "matangkuli"
+  },
+  {
+    "id": "teungoh-glp-vii",
+    "name": "Teungoh Glp Vii",
+    "district": "matangkuli"
+  },
+  {
+    "id": "aron-glp-vii",
+    "name": "Aron Glp Vii",
+    "district": "matangkuli"
+  },
+  {
+    "id": "matang-munye",
+    "name": "Matang Munye",
+    "district": "matangkuli"
+  }
+]

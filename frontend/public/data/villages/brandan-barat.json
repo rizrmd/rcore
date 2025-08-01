@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tangkahan-durian",
+    "name": "Tangkahan Durian",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "sei-tualang",
+    "name": "Sei Tualang",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "lubuk-kasih",
+    "name": "Lubuk Kasih",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "pangkalan-batu",
+    "name": "Pangkalan Batu",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "perlis",
+    "name": "Perlis",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "lubuk-kertang",
+    "name": "Lubuk Kertang",
+    "district": "brandan-barat"
+  },
+  {
+    "id": "kelantan",
+    "name": "Kelantan",
+    "district": "brandan-barat"
+  }
+]

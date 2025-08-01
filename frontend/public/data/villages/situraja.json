@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bangbayang",
+    "name": "Bangbayang",
+    "district": "situraja"
+  },
+  {
+    "id": "kaduwulung",
+    "name": "Kaduwulung",
+    "district": "situraja"
+  },
+  {
+    "id": "cijati",
+    "name": "Cijati",
+    "district": "situraja"
+  },
+  {
+    "id": "mekarmulya",
+    "name": "Mekarmulya",
+    "district": "situraja"
+  },
+  {
+    "id": "cikadu",
+    "name": "Cikadu",
+    "district": "situraja"
+  },
+  {
+    "id": "karangheuleut",
+    "name": "Karangheuleut",
+    "district": "situraja"
+  },
+  {
+    "id": "cijeler",
+    "name": "Cijeler",
+    "district": "situraja"
+  },
+  {
+    "id": "ambit",
+    "name": "Ambit",
+    "district": "situraja"
+  },
+  {
+    "id": "sukatali",
+    "name": "Sukatali",
+    "district": "situraja"
+  },
+  {
+    "id": "situraja",
+    "name": "Situraja",
+    "district": "situraja"
+  },
+  {
+    "id": "jatimekar",
+    "name": "Jatimekar",
+    "district": "situraja"
+  },
+  {
+    "id": "situraja-utara",
+    "name": "Situraja Utara",
+    "district": "situraja"
+  },
+  {
+    "id": "malaka",
+    "name": "Malaka",
+    "district": "situraja"
+  },
+  {
+    "id": "pamulihan",
+    "name": "Pamulihan",
+    "district": "situraja"
+  },
+  {
+    "id": "cicarimanah",
+    "name": "Cicarimanah",
+    "district": "situraja"
+  }
+]

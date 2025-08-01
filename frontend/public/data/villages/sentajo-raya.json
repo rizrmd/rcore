@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pulau-kopung",
+    "name": "Pulau Kopung",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "kampung-baru-sentajo",
+    "name": "Kampung Baru Sentajo",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "koto-sentajo",
+    "name": "Koto Sentajo",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "muaro-sentajo",
+    "name": "Muaro Sentajo",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "pulau-komang",
+    "name": "Pulau Komang",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "jalur-patah",
+    "name": "Jalur Patah",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "teratak-air-hitam",
+    "name": "Teratak Air Hitam",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "parit-teratak-air-hitam",
+    "name": "Parit Teratak Air Hitam",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "seberang-teratak-air-hitam",
+    "name": "Seberang Teratak Air Hitam",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "geringging-baru",
+    "name": "Geringging Baru",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "marsawa",
+    "name": "Marsawa",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "langsat-hulu",
+    "name": "Langsat Hulu",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "muara-langsat",
+    "name": "Muara Langsat",
+    "district": "sentajo-raya"
+  },
+  {
+    "id": "geringging-jaya",
+    "name": "Geringging Jaya",
+    "district": "sentajo-raya"
+  }
+]

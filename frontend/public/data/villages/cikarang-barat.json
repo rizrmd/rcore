@@ -1,0 +1,57 @@
+[
+  {
+    "id": "telajung",
+    "name": "Telajung",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "cikedokan",
+    "name": "Cikedokan",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "jatiwangi",
+    "name": "Jatiwangi",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "gandamekar",
+    "name": "Gandamekar",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "danauindah",
+    "name": "Danauindah",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "gandasari",
+    "name": "Gandasari",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "sukadanau",
+    "name": "Sukadanau",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "telaga-asih",
+    "name": "Telaga Asih",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "telagamurni",
+    "name": "Telagamurni",
+    "district": "cikarang-barat"
+  },
+  {
+    "id": "kalijaya",
+    "name": "Kalijaya",
+    "district": "cikarang-barat"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "bantaran"
+  },
+  {
+    "id": "bantaran",
+    "name": "Bantaran",
+    "district": "bantaran"
+  },
+  {
+    "id": "kedungrejo",
+    "name": "Kedungrejo",
+    "district": "bantaran"
+  },
+  {
+    "id": "patokan",
+    "name": "Patokan",
+    "district": "bantaran"
+  },
+  {
+    "id": "legundi",
+    "name": "Legundi",
+    "district": "bantaran"
+  },
+  {
+    "id": "tempuran",
+    "name": "Tempuran",
+    "district": "bantaran"
+  },
+  {
+    "id": "kropak",
+    "name": "Kropak",
+    "district": "bantaran"
+  },
+  {
+    "id": "kramatagung",
+    "name": "Kramatagung",
+    "district": "bantaran"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "teluk-sumbang",
+    "name": "Teluk Sumbang",
+    "district": "biduk-biduk"
+  },
+  {
+    "id": "biduk-biduk",
+    "name": "Biduk-Biduk",
+    "district": "biduk-biduk"
+  },
+  {
+    "id": "pantai-harapan",
+    "name": "Pantai Harapan",
+    "district": "biduk-biduk"
+  },
+  {
+    "id": "tanjung-perepat",
+    "name": "Tanjung Perepat",
+    "district": "biduk-biduk"
+  },
+  {
+    "id": "giring-giring",
+    "name": "Giring-Giring",
+    "district": "biduk-biduk"
+  },
+  {
+    "id": "teluk-sulaiman",
+    "name": "Teluk Sulaiman",
+    "district": "biduk-biduk"
+  }
+]

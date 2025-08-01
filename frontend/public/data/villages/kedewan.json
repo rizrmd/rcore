@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kawengan",
+    "name": "Kawengan",
+    "district": "kedewan"
+  },
+  {
+    "id": "wonocolo",
+    "name": "Wonocolo",
+    "district": "kedewan"
+  },
+  {
+    "id": "hargomulyo",
+    "name": "Hargomulyo",
+    "district": "kedewan"
+  },
+  {
+    "id": "kedewan",
+    "name": "Kedewan",
+    "district": "kedewan"
+  },
+  {
+    "id": "beji",
+    "name": "Beji",
+    "district": "kedewan"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tebon",
+    "name": "Tebon",
+    "district": "padangan"
+  },
+  {
+    "id": "prangi",
+    "name": "Prangi",
+    "district": "padangan"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "padangan"
+  },
+  {
+    "id": "sonorejo",
+    "name": "Sonorejo",
+    "district": "padangan"
+  },
+  {
+    "id": "ngradin",
+    "name": "Ngradin",
+    "district": "padangan"
+  },
+  {
+    "id": "kebunagung",
+    "name": "Kebunagung",
+    "district": "padangan"
+  },
+  {
+    "id": "banjarjo",
+    "name": "Banjarjo",
+    "district": "padangan"
+  },
+  {
+    "id": "ngasinan",
+    "name": "Ngasinan",
+    "district": "padangan"
+  },
+  {
+    "id": "cendono",
+    "name": "Cendono",
+    "district": "padangan"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "padangan"
+  },
+  {
+    "id": "padangan",
+    "name": "Padangan",
+    "district": "padangan"
+  },
+  {
+    "id": "dengok",
+    "name": "Dengok",
+    "district": "padangan"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "toyopon",
+    "name": "Toyopon",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "keroit",
+    "name": "Keroit",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "raanan-baru-i",
+    "name": "Raanan Baru I",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "raanan-baru",
+    "name": "Raanan Baru",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "raanan-baru-ii",
+    "name": "Raanan Baru Ii",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "tondei-satu",
+    "name": "Tondei Satu",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "tondei",
+    "name": "Tondei",
+    "district": "motoling-barat"
+  },
+  {
+    "id": "tondei-dua",
+    "name": "Tondei Dua",
+    "district": "motoling-barat"
+  }
+]

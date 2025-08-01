@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "sumaja-makmur",
+    "name": "Sumaja Makmur",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "fajar-indah",
+    "name": "Fajar Indah",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "kayu-ara-sakti",
+    "name": "Kayu Ara Sakti",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "penanggiran",
+    "name": "Penanggiran",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "gunung-megang-dalam",
+    "name": "Gunung Megang Dalam",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "gunung-megang-luar",
+    "name": "Gunung Megang Luar",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "lubuk-mumpo",
+    "name": "Lubuk Mumpo",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "perjito",
+    "name": "Perjito",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "tanjung-terang",
+    "name": "Tanjung Terang",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "tanjung-muning",
+    "name": "Tanjung Muning",
+    "district": "gunung-megang"
+  },
+  {
+    "id": "panang-jaya",
+    "name": "Panang Jaya",
+    "district": "gunung-megang"
+  }
+]

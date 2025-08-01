@@ -1,0 +1,42 @@
+[
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "kembangsari",
+    "name": "Kembangsari",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "pategalan",
+    "name": "Pategalan",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "semambung",
+    "name": "Semambung",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "sumberanyar",
+    "name": "Sumberanyar",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "jatibanteng",
+    "name": "Jatibanteng",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "wringinanom",
+    "name": "Wringinanom",
+    "district": "jatibanteng"
+  },
+  {
+    "id": "curahsuri",
+    "name": "Curahsuri",
+    "district": "jatibanteng"
+  }
+]

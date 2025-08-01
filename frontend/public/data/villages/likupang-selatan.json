@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wangurer",
+    "name": "Wangurer",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "kaweruan",
+    "name": "Kaweruan",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "kokoleh-dua",
+    "name": "Kokoleh Dua",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "kokoleh-satu",
+    "name": "Kokoleh Satu",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "paslaten",
+    "name": "Paslaten",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "batu",
+    "name": "Batu",
+    "district": "likupang-selatan"
+  },
+  {
+    "id": "werot",
+    "name": "Werot",
+    "district": "likupang-selatan"
+  }
+]

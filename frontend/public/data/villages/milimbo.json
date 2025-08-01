@@ -1,0 +1,42 @@
+[
+  {
+    "id": "milimbo",
+    "name": "Milimbo",
+    "district": "milimbo"
+  },
+  {
+    "id": "takobak",
+    "name": "Takobak",
+    "district": "milimbo"
+  },
+  {
+    "id": "wamindik",
+    "name": "Wamindik",
+    "district": "milimbo"
+  },
+  {
+    "id": "kugame",
+    "name": "Kugame",
+    "district": "milimbo"
+  },
+  {
+    "id": "kidoni",
+    "name": "Kidoni",
+    "district": "milimbo"
+  },
+  {
+    "id": "jinok",
+    "name": "Jinok",
+    "district": "milimbo"
+  },
+  {
+    "id": "wewolome",
+    "name": "Wewolome",
+    "district": "milimbo"
+  },
+  {
+    "id": "umbename",
+    "name": "Umbename",
+    "district": "milimbo"
+  }
+]

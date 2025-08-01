@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tang-paye",
+    "name": "Tang Paye",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "long-kelupan",
+    "name": "Long Kelupan",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "long-rungan",
+    "name": "Long Rungan",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "pa-milau",
+    "name": "Pa Milau",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "pa-yalau",
+    "name": "Pa Yalau",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "long-mutan",
+    "name": "Long Mutan",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "tang-badui",
+    "name": "Tang Badui",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "long-padi",
+    "name": "Long Padi",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "long-rian",
+    "name": "Long Rian",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "ba-liku",
+    "name": "Ba Liku",
+    "district": "krayan-tengah"
+  },
+  {
+    "id": "binuang",
+    "name": "Binuang",
+    "district": "krayan-tengah"
+  }
+]

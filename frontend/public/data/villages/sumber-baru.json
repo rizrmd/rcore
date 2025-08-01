@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "rowo-tengah",
+    "name": "Rowo Tengah",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "yosorati",
+    "name": "Yosorati",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "pringgowirawan",
+    "name": "Pringgowirawan",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "karang-bayat",
+    "name": "Karang Bayat",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "gelang",
+    "name": "Gelang",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "jatiroto",
+    "name": "Jatiroto",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "jamintoro",
+    "name": "Jamintoro",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "kaliglagah",
+    "name": "Kaliglagah",
+    "district": "sumber-baru"
+  },
+  {
+    "id": "jambesari",
+    "name": "Jambesari",
+    "district": "sumber-baru"
+  }
+]

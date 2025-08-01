@@ -1,0 +1,62 @@
+[
+  {
+    "id": "silikuan-hulu",
+    "name": "Silikuan Hulu",
+    "district": "ukui"
+  },
+  {
+    "id": "lubuk-kembang-sari",
+    "name": "Lubuk Kembang Sari",
+    "district": "ukui"
+  },
+  {
+    "id": "lubuk-kembang-bunga",
+    "name": "Lubuk Kembang Bunga",
+    "district": "ukui"
+  },
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "ukui"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "ukui"
+  },
+  {
+    "id": "ukui-satu",
+    "name": "Ukui Satu",
+    "district": "ukui"
+  },
+  {
+    "id": "ukui-dua",
+    "name": "Ukui Dua",
+    "district": "ukui"
+  },
+  {
+    "id": "bukit-gajah",
+    "name": "Bukit Gajah",
+    "district": "ukui"
+  },
+  {
+    "id": "bukit-jaya",
+    "name": "Bukit Jaya",
+    "district": "ukui"
+  },
+  {
+    "id": "air-emas",
+    "name": "Air Emas",
+    "district": "ukui"
+  },
+  {
+    "id": "tri-mulya-jaya",
+    "name": "Tri Mulya Jaya",
+    "district": "ukui"
+  },
+  {
+    "id": "bagan-limau",
+    "name": "Bagan Limau",
+    "district": "ukui"
+  }
+]

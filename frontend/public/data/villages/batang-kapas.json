@@ -1,0 +1,47 @@
+[
+  {
+    "id": "iv-koto-hilie",
+    "name": "Iv Koto Hilie",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "iv-koto-mudiek",
+    "name": "Iv Koto Mudiek",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "taluk",
+    "name": "Taluk",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "koto-nan-tigo-iv-koto-hilie",
+    "name": "Koto Nan Tigo Iv Koto Hilie",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "koto-nan-duo-iv-koto-hilie",
+    "name": "Koto Nan Duo Iv Koto Hilie",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "sungai-nyalo-iv-koto-mudiek",
+    "name": "Sungai Nyalo Iv Koto Mudiek",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "tuik-iv-koto-mudiek",
+    "name": "Tuik Iv Koto Mudiek",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "taratak-tempatih-iv-koto-mudiek",
+    "name": "Taratak Tempatih Iv Koto Mudiek",
+    "district": "batang-kapas"
+  },
+  {
+    "id": "taluk-tigo-sakato",
+    "name": "Taluk Tigo Sakato",
+    "district": "batang-kapas"
+  }
+]

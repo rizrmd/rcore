@@ -1,0 +1,27 @@
+[
+  {
+    "id": "helvetia",
+    "name": "Helvetia",
+    "district": "labuhan-deli"
+  },
+  {
+    "id": "manunggal",
+    "name": "Manunggal",
+    "district": "labuhan-deli"
+  },
+  {
+    "id": "pematang-johar",
+    "name": "Pematang Johar",
+    "district": "labuhan-deli"
+  },
+  {
+    "id": "telaga-tujuh",
+    "name": "Telaga Tujuh",
+    "district": "labuhan-deli"
+  },
+  {
+    "id": "karang-gading",
+    "name": "Karang Gading",
+    "district": "labuhan-deli"
+  }
+]

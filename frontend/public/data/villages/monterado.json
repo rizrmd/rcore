@@ -1,0 +1,57 @@
+[
+  {
+    "id": "goa-boma",
+    "name": "Goa Boma",
+    "district": "monterado"
+  },
+  {
+    "id": "monterado",
+    "name": "Monterado",
+    "district": "monterado"
+  },
+  {
+    "id": "serindu",
+    "name": "Serindu",
+    "district": "monterado"
+  },
+  {
+    "id": "beringin-baru",
+    "name": "Beringin Baru",
+    "district": "monterado"
+  },
+  {
+    "id": "gerantung",
+    "name": "Gerantung",
+    "district": "monterado"
+  },
+  {
+    "id": "jahandung",
+    "name": "Jahandung",
+    "district": "monterado"
+  },
+  {
+    "id": "siaga",
+    "name": "Siaga",
+    "district": "monterado"
+  },
+  {
+    "id": "nek-ginap",
+    "name": "Nek Ginap",
+    "district": "monterado"
+  },
+  {
+    "id": "sendoreng",
+    "name": "Sendoreng",
+    "district": "monterado"
+  },
+  {
+    "id": "rantau",
+    "name": "Rantau",
+    "district": "monterado"
+  },
+  {
+    "id": "mekar-baru",
+    "name": "Mekar Baru",
+    "district": "monterado"
+  }
+]

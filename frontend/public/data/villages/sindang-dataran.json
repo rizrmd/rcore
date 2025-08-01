@@ -1,0 +1,32 @@
+[
+  {
+    "id": "iv-suku-menanti",
+    "name": "Iv Suku Menanti",
+    "district": "sindang-dataran"
+  },
+  {
+    "id": "bengko",
+    "name": "Bengko",
+    "district": "sindang-dataran"
+  },
+  {
+    "id": "sinar-gunung",
+    "name": "Sinar Gunung",
+    "district": "sindang-dataran"
+  },
+  {
+    "id": "air-rusa",
+    "name": "Air Rusa",
+    "district": "sindang-dataran"
+  },
+  {
+    "id": "talang-belitar",
+    "name": "Talang Belitar",
+    "district": "sindang-dataran"
+  },
+  {
+    "id": "warung-pojok",
+    "name": "Warung Pojok",
+    "district": "sindang-dataran"
+  }
+]

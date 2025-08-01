@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tidu",
+    "name": "Tidu",
+    "district": "bukateja"
+  },
+  {
+    "id": "wirasaba",
+    "name": "Wirasaba",
+    "district": "bukateja"
+  },
+  {
+    "id": "kembangan",
+    "name": "Kembangan",
+    "district": "bukateja"
+  },
+  {
+    "id": "cipawon",
+    "name": "Cipawon",
+    "district": "bukateja"
+  },
+  {
+    "id": "karangcengis",
+    "name": "Karangcengis",
+    "district": "bukateja"
+  },
+  {
+    "id": "karanggedang",
+    "name": "Karanggedang",
+    "district": "bukateja"
+  },
+  {
+    "id": "karangnangka",
+    "name": "Karangnangka",
+    "district": "bukateja"
+  },
+  {
+    "id": "kutawis",
+    "name": "Kutawis",
+    "district": "bukateja"
+  },
+  {
+    "id": "penaruban",
+    "name": "Penaruban",
+    "district": "bukateja"
+  },
+  {
+    "id": "kedungjati",
+    "name": "Kedungjati",
+    "district": "bukateja"
+  },
+  {
+    "id": "bukateja",
+    "name": "Bukateja",
+    "district": "bukateja"
+  },
+  {
+    "id": "majasari",
+    "name": "Majasari",
+    "district": "bukateja"
+  },
+  {
+    "id": "bajong",
+    "name": "Bajong",
+    "district": "bukateja"
+  }
+]

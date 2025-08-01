@@ -1,0 +1,232 @@
+[
+  {
+    "id": "pulo-u",
+    "name": "Pulo U",
+    "district": "jangka"
+  },
+  {
+    "id": "abeuk-jaloh",
+    "name": "Abeuk Jaloh",
+    "district": "jangka"
+  },
+  {
+    "id": "pulo-seuna",
+    "name": "Pulo Seuna",
+    "district": "jangka"
+  },
+  {
+    "id": "pulo-blang",
+    "name": "Pulo Blang",
+    "district": "jangka"
+  },
+  {
+    "id": "pulo-iboih",
+    "name": "Pulo Iboih",
+    "district": "jangka"
+  },
+  {
+    "id": "pulo-reudeup",
+    "name": "Pulo Reudeup",
+    "district": "jangka"
+  },
+  {
+    "id": "gampong-meulinteung",
+    "name": "Gampong Meulinteung",
+    "district": "jangka"
+  },
+  {
+    "id": "lamkuta",
+    "name": "Lamkuta",
+    "district": "jangka"
+  },
+  {
+    "id": "ruseb-ara",
+    "name": "Ruseb Ara",
+    "district": "jangka"
+  },
+  {
+    "id": "lueng",
+    "name": "Lueng",
+    "district": "jangka"
+  },
+  {
+    "id": "ruseb-dayah",
+    "name": "Ruseb Dayah",
+    "district": "jangka"
+  },
+  {
+    "id": "kambuek",
+    "name": "Kambuek",
+    "district": "jangka"
+  },
+  {
+    "id": "bada-timu",
+    "name": "Bada Timu",
+    "district": "jangka"
+  },
+  {
+    "id": "bada-barat",
+    "name": "Bada Barat",
+    "district": "jangka"
+  },
+  {
+    "id": "barat-lanyan",
+    "name": "Barat Lanyan",
+    "district": "jangka"
+  },
+  {
+    "id": "geundot",
+    "name": "Geundot",
+    "district": "jangka"
+  },
+  {
+    "id": "meunasah-krueng",
+    "name": "Meunasah Krueng",
+    "district": "jangka"
+  },
+  {
+    "id": "paya-bieng",
+    "name": "Paya Bieng",
+    "district": "jangka"
+  },
+  {
+    "id": "jangka-alue",
+    "name": "Jangka Alue",
+    "district": "jangka"
+  },
+  {
+    "id": "jangka-keutapang",
+    "name": "Jangka Keutapang",
+    "district": "jangka"
+  },
+  {
+    "id": "lampoh-rayeuk",
+    "name": "Lampoh Rayeuk",
+    "district": "jangka"
+  },
+  {
+    "id": "lhok-bugeng",
+    "name": "Lhok Bugeng",
+    "district": "jangka"
+  },
+  {
+    "id": "linggong",
+    "name": "Linggong",
+    "district": "jangka"
+  },
+  {
+    "id": "alue-buya",
+    "name": "Alue Buya",
+    "district": "jangka"
+  },
+  {
+    "id": "tanoh-anoe",
+    "name": "Tanoh Anoe",
+    "district": "jangka"
+  },
+  {
+    "id": "tanjongan",
+    "name": "Tanjongan",
+    "district": "jangka"
+  },
+  {
+    "id": "jangka-alue-bie",
+    "name": "Jangka Alue Bie",
+    "district": "jangka"
+  },
+  {
+    "id": "jangka-mesjid",
+    "name": "Jangka Mesjid",
+    "district": "jangka"
+  },
+  {
+    "id": "jangka-alue-u",
+    "name": "Jangka Alue U",
+    "district": "jangka"
+  },
+  {
+    "id": "pante-peusangan",
+    "name": "Pante Peusangan",
+    "district": "jangka"
+  },
+  {
+    "id": "bugak-krueng",
+    "name": "Bugak Krueng",
+    "district": "jangka"
+  },
+  {
+    "id": "bugak-mesjid",
+    "name": "Bugak Mesjid",
+    "district": "jangka"
+  },
+  {
+    "id": "bugak-krueng-mate",
+    "name": "Bugak Krueng Mate",
+    "district": "jangka"
+  },
+  {
+    "id": "bugeng",
+    "name": "Bugeng",
+    "district": "jangka"
+  },
+  {
+    "id": "kuala-ceurape",
+    "name": "Kuala Ceurape",
+    "district": "jangka"
+  },
+  {
+    "id": "alue-bayeu-utang",
+    "name": "Alue Bayeu Utang",
+    "district": "jangka"
+  },
+  {
+    "id": "ulee-ceue",
+    "name": "Ulee Ceue",
+    "district": "jangka"
+  },
+  {
+    "id": "alue-kuta",
+    "name": "Alue Kuta",
+    "district": "jangka"
+  },
+  {
+    "id": "punjot",
+    "name": "Punjot",
+    "district": "jangka"
+  },
+  {
+    "id": "pulo-pineung-mns-ii",
+    "name": "Pulo Pineung Mns Ii",
+    "district": "jangka"
+  },
+  {
+    "id": "bugak-blang",
+    "name": "Bugak Blang",
+    "district": "jangka"
+  },
+  {
+    "id": "pante-sukon",
+    "name": "Pante Sukon",
+    "district": "jangka"
+  },
+  {
+    "id": "pante-paku",
+    "name": "Pante Paku",
+    "district": "jangka"
+  },
+  {
+    "id": "pante-ranub",
+    "name": "Pante Ranub",
+    "district": "jangka"
+  },
+  {
+    "id": "alue-buya-pasi",
+    "name": "Alue Buya Pasi",
+    "district": "jangka"
+  },
+  {
+    "id": "alue-bie-pusong",
+    "name": "Alue Bie Pusong",
+    "district": "jangka"
+  }
+]

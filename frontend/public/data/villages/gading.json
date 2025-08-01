@@ -1,0 +1,77 @@
+[
+  {
+    "id": "condong",
+    "name": "Condong",
+    "district": "gading"
+  },
+  {
+    "id": "jurangjero",
+    "name": "Jurangjero",
+    "district": "gading"
+  },
+  {
+    "id": "ranuwurung",
+    "name": "Ranuwurung",
+    "district": "gading"
+  },
+  {
+    "id": "gadingwetan",
+    "name": "Gadingwetan",
+    "district": "gading"
+  },
+  {
+    "id": "bulupandak",
+    "name": "Bulupandak",
+    "district": "gading"
+  },
+  {
+    "id": "betektaman",
+    "name": "Betektaman",
+    "district": "gading"
+  },
+  {
+    "id": "batur",
+    "name": "Batur",
+    "district": "gading"
+  },
+  {
+    "id": "dandang",
+    "name": "Dandang",
+    "district": "gading"
+  },
+  {
+    "id": "kertosono",
+    "name": "Kertosono",
+    "district": "gading"
+  },
+  {
+    "id": "prasi",
+    "name": "Prasi",
+    "district": "gading"
+  },
+  {
+    "id": "nogosaren",
+    "name": "Nogosaren",
+    "district": "gading"
+  },
+  {
+    "id": "wangkal",
+    "name": "Wangkal",
+    "district": "gading"
+  },
+  {
+    "id": "mojolegi",
+    "name": "Mojolegi",
+    "district": "gading"
+  },
+  {
+    "id": "kaliacar",
+    "name": "Kaliacar",
+    "district": "gading"
+  },
+  {
+    "id": "sumbersecang",
+    "name": "Sumbersecang",
+    "district": "gading"
+  }
+]

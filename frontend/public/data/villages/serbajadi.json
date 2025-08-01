@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kelapa-bajohom",
+    "name": "Kelapa Bajohom",
+    "district": "serbajadi"
+  },
+  {
+    "id": "kuala-bali",
+    "name": "Kuala Bali",
+    "district": "serbajadi"
+  },
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "serbajadi"
+  },
+  {
+    "id": "tanjung-harap",
+    "name": "Tanjung Harap",
+    "district": "serbajadi"
+  },
+  {
+    "id": "manggis",
+    "name": "Manggis",
+    "district": "serbajadi"
+  },
+  {
+    "id": "serbajadi",
+    "name": "Serbajadi",
+    "district": "serbajadi"
+  },
+  {
+    "id": "bah-sidua-dua",
+    "name": "Bah Sidua Dua",
+    "district": "serbajadi"
+  },
+  {
+    "id": "tambak-cekur",
+    "name": "Tambak Cekur",
+    "district": "serbajadi"
+  },
+  {
+    "id": "pulau-tagor",
+    "name": "Pulau Tagor",
+    "district": "serbajadi"
+  },
+  {
+    "id": "pulau-gambar",
+    "name": "Pulau Gambar",
+    "district": "serbajadi"
+  }
+]

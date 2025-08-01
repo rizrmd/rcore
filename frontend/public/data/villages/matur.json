@@ -1,0 +1,32 @@
+[
+  {
+    "id": "matua-mudiak",
+    "name": "Matua Mudiak",
+    "district": "matur"
+  },
+  {
+    "id": "parik-panjang",
+    "name": "Parik Panjang",
+    "district": "matur"
+  },
+  {
+    "id": "panta-pauah",
+    "name": "Panta Pauah",
+    "district": "matur"
+  },
+  {
+    "id": "matua-hilia",
+    "name": "Matua Hilia",
+    "district": "matur"
+  },
+  {
+    "id": "tigo-balai",
+    "name": "Tigo Balai",
+    "district": "matur"
+  },
+  {
+    "id": "lawang",
+    "name": "Lawang",
+    "district": "matur"
+  }
+]

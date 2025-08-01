@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tegal-selatan",
+    "name": "Tegal Selatan",
+    "regency": "kota-tegal"
+  },
+  {
+    "id": "tegal-timur",
+    "name": "Tegal Timur",
+    "regency": "kota-tegal"
+  },
+  {
+    "id": "tegal-barat",
+    "name": "Tegal Barat",
+    "regency": "kota-tegal"
+  },
+  {
+    "id": "margadana",
+    "name": "Margadana",
+    "regency": "kota-tegal"
+  }
+]

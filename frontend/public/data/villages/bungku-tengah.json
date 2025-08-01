@@ -1,0 +1,92 @@
+[
+  {
+    "id": "puungkoilu",
+    "name": "Puungkoilu",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bahontobungku",
+    "name": "Bahontobungku",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "tofuti",
+    "name": "Tofuti",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "sakita",
+    "name": "Sakita",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "mendui",
+    "name": "Mendui",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "tofoiso",
+    "name": "Tofoiso",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "marsaoleh",
+    "name": "Marsaoleh",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "lamberea",
+    "name": "Lamberea",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bungi",
+    "name": "Bungi",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "matano",
+    "name": "Matano",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "matansala",
+    "name": "Matansala",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bahoruru",
+    "name": "Bahoruru",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "ipi",
+    "name": "Ipi",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bahomohoni",
+    "name": "Bahomohoni",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bahomoleo",
+    "name": "Bahomoleo",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "bahomante",
+    "name": "Bahomante",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "lanona",
+    "name": "Lanona",
+    "district": "bungku-tengah"
+  },
+  {
+    "id": "tudua",
+    "name": "Tudua",
+    "district": "bungku-tengah"
+  }
+]

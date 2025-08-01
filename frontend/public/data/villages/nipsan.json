@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tapla",
+    "name": "Tapla",
+    "district": "nipsan"
+  },
+  {
+    "id": "nipsan",
+    "name": "Nipsan",
+    "district": "nipsan"
+  },
+  {
+    "id": "walmak",
+    "name": "Walmak",
+    "district": "nipsan"
+  },
+  {
+    "id": "serengon",
+    "name": "Serengon",
+    "district": "nipsan"
+  },
+  {
+    "id": "biu",
+    "name": "Biu",
+    "district": "nipsan"
+  },
+  {
+    "id": "ikmuk",
+    "name": "Ikmuk",
+    "district": "nipsan"
+  },
+  {
+    "id": "ilukdamon",
+    "name": "Ilukdamon",
+    "district": "nipsan"
+  },
+  {
+    "id": "yalmun",
+    "name": "Yalmun",
+    "district": "nipsan"
+  }
+]

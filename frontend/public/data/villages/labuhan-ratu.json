@@ -1,0 +1,87 @@
+[
+  {
+    "id": "labuhan-ratu-empat",
+    "name": "Labuhan Ratu Empat",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-lima",
+    "name": "Labuhan Ratu Lima",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-tiga",
+    "name": "Labuhan Ratu Tiga",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-vii",
+    "name": "Labuhan Ratu Vii",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu",
+    "name": "Labuhan Ratu",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-enam",
+    "name": "Labuhan Ratu Enam",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "raja-basa-lama",
+    "name": "Raja Basa Lama",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "raja-basa-lama-satu",
+    "name": "Raja Basa Lama Satu",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "raja-basa-lama-dua",
+    "name": "Raja Basa Lama Dua",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-viii",
+    "name": "Labuhan Ratu Viii",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-ix",
+    "name": "Labuhan Ratu Ix",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu",
+    "name": "Labuhan Ratu",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "sepang-jaya",
+    "name": "Sepang Jaya",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "labuhan-ratu-raya",
+    "name": "Labuhan Ratu Raya",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "kota-sepang",
+    "name": "Kota Sepang",
+    "district": "labuhan-ratu"
+  },
+  {
+    "id": "kampung-baru-raya",
+    "name": "Kampung Baru Raya",
+    "district": "labuhan-ratu"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "welibo",
+    "name": "Welibo",
+    "district": "lamboya"
+  },
+  {
+    "id": "patiala-bawa",
+    "name": "Patiala Bawa",
+    "district": "lamboya"
+  },
+  {
+    "id": "laboya-bawa",
+    "name": "Laboya Bawa",
+    "district": "lamboya"
+  },
+  {
+    "id": "watu-karere",
+    "name": "Watu Karere",
+    "district": "lamboya"
+  },
+  {
+    "id": "kabu-karudi",
+    "name": "Kabu Karudi",
+    "district": "lamboya"
+  },
+  {
+    "id": "laboya-dete",
+    "name": "Laboya Dete",
+    "district": "lamboya"
+  },
+  {
+    "id": "sodana",
+    "name": "Sodana",
+    "district": "lamboya"
+  },
+  {
+    "id": "rajaka",
+    "name": "Rajaka",
+    "district": "lamboya"
+  },
+  {
+    "id": "ringu-rara",
+    "name": "Ringu Rara",
+    "district": "lamboya"
+  },
+  {
+    "id": "bodo-hula",
+    "name": "Bodo Hula",
+    "district": "lamboya"
+  },
+  {
+    "id": "pala-moko",
+    "name": "Pala Moko",
+    "district": "lamboya"
+  }
+]

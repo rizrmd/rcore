@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cipedang",
+    "name": "Cipedang",
+    "district": "bongas"
+  },
+  {
+    "id": "sidamulya",
+    "name": "Sidamulya",
+    "district": "bongas"
+  },
+  {
+    "id": "margamulya",
+    "name": "Margamulya",
+    "district": "bongas"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "bongas"
+  },
+  {
+    "id": "bongas",
+    "name": "Bongas",
+    "district": "bongas"
+  },
+  {
+    "id": "cipaat",
+    "name": "Cipaat",
+    "district": "bongas"
+  },
+  {
+    "id": "kertamulya",
+    "name": "Kertamulya",
+    "district": "bongas"
+  },
+  {
+    "id": "plawangan",
+    "name": "Plawangan",
+    "district": "bongas"
+  }
+]

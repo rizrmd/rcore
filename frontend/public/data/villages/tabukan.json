@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pantang-baru",
+    "name": "Pantang Baru",
+    "district": "tabukan"
+  },
+  {
+    "id": "pantang-raya",
+    "name": "Pantang Raya",
+    "district": "tabukan"
+  },
+  {
+    "id": "bandar-karya",
+    "name": "Bandar Karya",
+    "district": "tabukan"
+  },
+  {
+    "id": "tabukan-raya",
+    "name": "Tabukan Raya",
+    "district": "tabukan"
+  },
+  {
+    "id": "karya-indah",
+    "name": "Karya Indah",
+    "district": "tabukan"
+  },
+  {
+    "id": "karya-jadi",
+    "name": "Karya Jadi",
+    "district": "tabukan"
+  },
+  {
+    "id": "karya-makmur",
+    "name": "Karya Makmur",
+    "district": "tabukan"
+  },
+  {
+    "id": "teluk-tamba",
+    "name": "Teluk Tamba",
+    "district": "tabukan"
+  },
+  {
+    "id": "tamba-jaya",
+    "name": "Tamba Jaya",
+    "district": "tabukan"
+  },
+  {
+    "id": "rantau-bamban",
+    "name": "Rantau Bamban",
+    "district": "tabukan"
+  },
+  {
+    "id": "muara-pulau",
+    "name": "Muara Pulau",
+    "district": "tabukan"
+  }
+]

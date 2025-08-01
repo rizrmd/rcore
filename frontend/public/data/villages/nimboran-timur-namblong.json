@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sanggai",
+    "name": "Sanggai",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "sarmai-atas",
+    "name": "Sarmai Atas",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "sarmai-bawah",
+    "name": "Sarmai Bawah",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "yakasib",
+    "name": "Yakasib",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "karya-bumi",
+    "name": "Karya Bumi",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "imestum",
+    "name": "Imestum",
+    "district": "nimboran-timur-namblong"
+  },
+  {
+    "id": "hanggai-hamong",
+    "name": "Hanggai Hamong",
+    "district": "nimboran-timur-namblong"
+  }
+]

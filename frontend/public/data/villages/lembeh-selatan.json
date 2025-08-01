@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pasirpanjang",
+    "name": "Pasirpanjang",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "paudean",
+    "name": "Paudean",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "batulubang",
+    "name": "Batulubang",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "dorbolaang",
+    "name": "Dorbolaang",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "pancuran",
+    "name": "Pancuran",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "papusungan",
+    "name": "Papusungan",
+    "district": "lembeh-selatan"
+  },
+  {
+    "id": "kelapa-dua",
+    "name": "Kelapa Dua",
+    "district": "lembeh-selatan"
+  }
+]

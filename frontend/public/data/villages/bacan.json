@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tomori",
+    "name": "Tomori",
+    "district": "bacan"
+  },
+  {
+    "id": "labuha",
+    "name": "Labuha",
+    "district": "bacan"
+  },
+  {
+    "id": "amasing-kota",
+    "name": "Amasing Kota",
+    "district": "bacan"
+  },
+  {
+    "id": "amasing-kali",
+    "name": "Amasing Kali",
+    "district": "bacan"
+  },
+  {
+    "id": "indomut",
+    "name": "Indomut",
+    "district": "bacan"
+  },
+  {
+    "id": "belang-belang",
+    "name": "Belang Belang",
+    "district": "bacan"
+  },
+  {
+    "id": "sumae",
+    "name": "Sumae",
+    "district": "bacan"
+  },
+  {
+    "id": "kaputusan",
+    "name": "Kaputusan",
+    "district": "bacan"
+  },
+  {
+    "id": "hidayat",
+    "name": "Hidayat",
+    "district": "bacan"
+  },
+  {
+    "id": "marabose",
+    "name": "Marabose",
+    "district": "bacan"
+  },
+  {
+    "id": "amasing-kota-barat",
+    "name": "Amasing Kota Barat",
+    "district": "bacan"
+  },
+  {
+    "id": "amasing-kota-utara",
+    "name": "Amasing Kota Utara",
+    "district": "bacan"
+  },
+  {
+    "id": "awanggoa",
+    "name": "Awanggoa",
+    "district": "bacan"
+  },
+  {
+    "id": "suma-tinggi",
+    "name": "Suma Tinggi",
+    "district": "bacan"
+  }
+]

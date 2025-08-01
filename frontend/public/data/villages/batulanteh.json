@@ -1,0 +1,27 @@
+[
+  {
+    "id": "baturotok",
+    "name": "Baturotok",
+    "district": "batulanteh"
+  },
+  {
+    "id": "tangkan-pulit",
+    "name": "Tangkan Pulit",
+    "district": "batulanteh"
+  },
+  {
+    "id": "bao-desa",
+    "name": "Bao Desa",
+    "district": "batulanteh"
+  },
+  {
+    "id": "tepal",
+    "name": "Tepal",
+    "district": "batulanteh"
+  },
+  {
+    "id": "batudulang",
+    "name": "Batudulang",
+    "district": "batulanteh"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanggari",
+    "name": "Tanggari",
+    "district": "airmadidi"
+  },
+  {
+    "id": "sampiri",
+    "name": "Sampiri",
+    "district": "airmadidi"
+  },
+  {
+    "id": "sawangan",
+    "name": "Sawangan",
+    "district": "airmadidi"
+  },
+  {
+    "id": "airmadidi-bawah",
+    "name": "Airmadidi Bawah",
+    "district": "airmadidi"
+  },
+  {
+    "id": "airmadidi-atas",
+    "name": "Airmadidi Atas",
+    "district": "airmadidi"
+  },
+  {
+    "id": "sarongsong-satu",
+    "name": "Sarongsong Satu",
+    "district": "airmadidi"
+  },
+  {
+    "id": "sarongsong-dua",
+    "name": "Sarongsong Dua",
+    "district": "airmadidi"
+  },
+  {
+    "id": "rap-rap",
+    "name": "Rap-Rap",
+    "district": "airmadidi"
+  }
+]

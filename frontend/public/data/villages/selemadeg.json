@@ -1,0 +1,47 @@
+[
+  {
+    "id": "antap",
+    "name": "Antap",
+    "district": "selemadeg"
+  },
+  {
+    "id": "bajera",
+    "name": "Bajera",
+    "district": "selemadeg"
+  },
+  {
+    "id": "serampingan",
+    "name": "Serampingan",
+    "district": "selemadeg"
+  },
+  {
+    "id": "selemadeg",
+    "name": "Selemadeg",
+    "district": "selemadeg"
+  },
+  {
+    "id": "pupuan-sawah",
+    "name": "Pupuan Sawah",
+    "district": "selemadeg"
+  },
+  {
+    "id": "wanagiri",
+    "name": "Wanagiri",
+    "district": "selemadeg"
+  },
+  {
+    "id": "wanagiri-kauh",
+    "name": "Wanagiri Kauh",
+    "district": "selemadeg"
+  },
+  {
+    "id": "manikyang",
+    "name": "Manikyang",
+    "district": "selemadeg"
+  },
+  {
+    "id": "bajera-utara",
+    "name": "Bajera Utara",
+    "district": "selemadeg"
+  }
+]

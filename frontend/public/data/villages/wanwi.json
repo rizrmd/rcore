@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bunaluk",
+    "name": "Bunaluk",
+    "district": "wanwi"
+  },
+  {
+    "id": "gereja-lama",
+    "name": "Gereja Lama",
+    "district": "wanwi"
+  },
+  {
+    "id": "anggalo",
+    "name": "Anggalo",
+    "district": "wanwi"
+  },
+  {
+    "id": "nanegeme",
+    "name": "Nanegeme",
+    "district": "wanwi"
+  },
+  {
+    "id": "ponggoname",
+    "name": "Ponggoname",
+    "district": "wanwi"
+  },
+  {
+    "id": "yunggwi",
+    "name": "Yunggwi",
+    "district": "wanwi"
+  },
+  {
+    "id": "pernaluk",
+    "name": "Pernaluk",
+    "district": "wanwi"
+  },
+  {
+    "id": "bime",
+    "name": "Bime",
+    "district": "wanwi"
+  },
+  {
+    "id": "wiyage",
+    "name": "Wiyage",
+    "district": "wanwi"
+  },
+  {
+    "id": "anggege",
+    "name": "Anggege",
+    "district": "wanwi"
+  },
+  {
+    "id": "nuwi",
+    "name": "Nuwi",
+    "district": "wanwi"
+  },
+  {
+    "id": "piyabigimbut",
+    "name": "Piyabigimbut",
+    "district": "wanwi"
+  },
+  {
+    "id": "kiburu",
+    "name": "Kiburu",
+    "district": "wanwi"
+  },
+  {
+    "id": "wanwi",
+    "name": "Wanwi",
+    "district": "wanwi"
+  },
+  {
+    "id": "gibume",
+    "name": "Gibume",
+    "district": "wanwi"
+  },
+  {
+    "id": "naburage",
+    "name": "Naburage",
+    "district": "wanwi"
+  },
+  {
+    "id": "anggagalo",
+    "name": "Anggagalo",
+    "district": "wanwi"
+  }
+]

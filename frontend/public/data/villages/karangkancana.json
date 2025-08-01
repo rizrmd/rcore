@@ -1,0 +1,47 @@
+[
+  {
+    "id": "margacina",
+    "name": "Margacina",
+    "district": "karangkancana"
+  },
+  {
+    "id": "jabranti",
+    "name": "Jabranti",
+    "district": "karangkancana"
+  },
+  {
+    "id": "karangkancana",
+    "name": "Karangkancana",
+    "district": "karangkancana"
+  },
+  {
+    "id": "kaduagung",
+    "name": "Kaduagung",
+    "district": "karangkancana"
+  },
+  {
+    "id": "segong",
+    "name": "Segong",
+    "district": "karangkancana"
+  },
+  {
+    "id": "tanjungkerta",
+    "name": "Tanjungkerta",
+    "district": "karangkancana"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "karangkancana"
+  },
+  {
+    "id": "simpay-jaya",
+    "name": "Simpay Jaya",
+    "district": "karangkancana"
+  },
+  {
+    "id": "cihanjaro",
+    "name": "Cihanjaro",
+    "district": "karangkancana"
+  }
+]

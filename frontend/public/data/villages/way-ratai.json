@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "way-ratai"
+  },
+  {
+    "id": "bunut-seberang",
+    "name": "Bunut Seberang",
+    "district": "way-ratai"
+  },
+  {
+    "id": "ceringin-asri",
+    "name": "Ceringin Asri",
+    "district": "way-ratai"
+  },
+  {
+    "id": "poncorejo",
+    "name": "Poncorejo",
+    "district": "way-ratai"
+  },
+  {
+    "id": "gunung-rejo",
+    "name": "Gunung Rejo",
+    "district": "way-ratai"
+  },
+  {
+    "id": "mulyosari",
+    "name": "Mulyosari",
+    "district": "way-ratai"
+  },
+  {
+    "id": "wates-way-ratai",
+    "name": "Wates Way Ratai",
+    "district": "way-ratai"
+  },
+  {
+    "id": "bunut",
+    "name": "Bunut",
+    "district": "way-ratai"
+  },
+  {
+    "id": "pesawaran-indah",
+    "name": "Pesawaran Indah",
+    "district": "way-ratai"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "way-ratai"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kaironi",
+    "name": "Kaironi",
+    "district": "sidey"
+  },
+  {
+    "id": "waramui",
+    "name": "Waramui",
+    "district": "sidey"
+  },
+  {
+    "id": "sidey-jaya",
+    "name": "Sidey Jaya",
+    "district": "sidey"
+  },
+  {
+    "id": "saray",
+    "name": "Saray",
+    "district": "sidey"
+  },
+  {
+    "id": "sidey-makmur",
+    "name": "Sidey Makmur",
+    "district": "sidey"
+  },
+  {
+    "id": "kasi",
+    "name": "Kasi",
+    "district": "sidey"
+  },
+  {
+    "id": "sidey",
+    "name": "Sidey",
+    "district": "sidey"
+  },
+  {
+    "id": "sidey-baru",
+    "name": "Sidey Baru",
+    "district": "sidey"
+  },
+  {
+    "id": "wamnowi",
+    "name": "Wamnowi",
+    "district": "sidey"
+  },
+  {
+    "id": "wariki",
+    "name": "Wariki",
+    "district": "sidey"
+  },
+  {
+    "id": "meyof-i",
+    "name": "Meyof I",
+    "district": "sidey"
+  },
+  {
+    "id": "manggupi",
+    "name": "Manggupi",
+    "district": "sidey"
+  }
+]

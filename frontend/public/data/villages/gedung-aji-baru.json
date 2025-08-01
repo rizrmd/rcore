@@ -1,0 +1,47 @@
+[
+  {
+    "id": "batu-ampar",
+    "name": "Batu Ampar",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "suka-bhakti",
+    "name": "Suka Bhakti",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "sido-mukti",
+    "name": "Sido Mukti",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "makarti-tama",
+    "name": "Makarti Tama",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "setia-tama",
+    "name": "Setia Tama",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "mesir-dwi-jaya",
+    "name": "Mesir Dwi Jaya",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "mekar-asri",
+    "name": "Mekar Asri",
+    "district": "gedung-aji-baru"
+  },
+  {
+    "id": "sidomekar",
+    "name": "Sidomekar",
+    "district": "gedung-aji-baru"
+  }
+]

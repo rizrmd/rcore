@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pemogan",
+    "name": "Pemogan",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "pedungan",
+    "name": "Pedungan",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "sesetan",
+    "name": "Sesetan",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "serangan",
+    "name": "Serangan",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "sidakarya",
+    "name": "Sidakarya",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "panjer",
+    "name": "Panjer",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "renon",
+    "name": "Renon",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "sanur-kauh",
+    "name": "Sanur Kauh",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "sanur",
+    "name": "Sanur",
+    "district": "denpasar-selatan"
+  },
+  {
+    "id": "sanur-kaja",
+    "name": "Sanur Kaja",
+    "district": "denpasar-selatan"
+  }
+]

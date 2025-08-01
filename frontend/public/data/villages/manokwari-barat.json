@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanah-merah-indah",
+    "name": "Tanah Merah Indah",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "soribo",
+    "name": "Soribo",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "wosi",
+    "name": "Wosi",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "sanggeng",
+    "name": "Sanggeng",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "manokwari-barat",
+    "name": "Manokwari Barat",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "padarni",
+    "name": "Padarni",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "manokwari-timur",
+    "name": "Manokwari Timur",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "amban",
+    "name": "Amban",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "inggramui",
+    "name": "Inggramui",
+    "district": "manokwari-barat"
+  },
+  {
+    "id": "udopi",
+    "name": "Udopi",
+    "district": "manokwari-barat"
+  }
+]

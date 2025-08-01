@@ -1,0 +1,22 @@
+[
+  {
+    "id": "harapan-mulya",
+    "name": "Harapan Mulya",
+    "district": "medan-satria"
+  },
+  {
+    "id": "kali-baru",
+    "name": "Kali Baru",
+    "district": "medan-satria"
+  },
+  {
+    "id": "medan-satria",
+    "name": "Medan Satria",
+    "district": "medan-satria"
+  },
+  {
+    "id": "pejuang",
+    "name": "Pejuang",
+    "district": "medan-satria"
+  }
+]

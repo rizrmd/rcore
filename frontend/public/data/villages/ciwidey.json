@@ -1,0 +1,37 @@
+[
+  {
+    "id": "panundaan",
+    "name": "Panundaan",
+    "district": "ciwidey"
+  },
+  {
+    "id": "ciwidey",
+    "name": "Ciwidey",
+    "district": "ciwidey"
+  },
+  {
+    "id": "panyocokan",
+    "name": "Panyocokan",
+    "district": "ciwidey"
+  },
+  {
+    "id": "lebakmuncang",
+    "name": "Lebakmuncang",
+    "district": "ciwidey"
+  },
+  {
+    "id": "rawabogo",
+    "name": "Rawabogo",
+    "district": "ciwidey"
+  },
+  {
+    "id": "nengkelan",
+    "name": "Nengkelan",
+    "district": "ciwidey"
+  },
+  {
+    "id": "sukawening",
+    "name": "Sukawening",
+    "district": "ciwidey"
+  }
+]

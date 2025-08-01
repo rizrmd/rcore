@@ -1,0 +1,47 @@
+[
+  {
+    "id": "batu-tambun",
+    "name": "Batu Tambun",
+    "district": "batangkawa"
+  },
+  {
+    "id": "kinipan",
+    "name": "Kinipan",
+    "district": "batangkawa"
+  },
+  {
+    "id": "ginih",
+    "name": "Ginih",
+    "district": "batangkawa"
+  },
+  {
+    "id": "benakitan",
+    "name": "Benakitan",
+    "district": "batangkawa"
+  },
+  {
+    "id": "liku",
+    "name": "Liku",
+    "district": "batangkawa"
+  },
+  {
+    "id": "mengkalang",
+    "name": "Mengkalang",
+    "district": "batangkawa"
+  },
+  {
+    "id": "karang-mas",
+    "name": "Karang Mas",
+    "district": "batangkawa"
+  },
+  {
+    "id": "kina",
+    "name": "Kina",
+    "district": "batangkawa"
+  },
+  {
+    "id": "jemuat",
+    "name": "Jemuat",
+    "district": "batangkawa"
+  }
+]

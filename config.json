@@ -1,0 +1,13 @@
+{
+  "db": {
+    "orm": "prisma"
+  },
+  "backend": { "prodPort": 3000 },
+  "sites": {
+    "main": {
+      "devPort": 7000,
+      "domains": ["localhost:7000"],
+      "isDefault": true
+    }
+  }
+}

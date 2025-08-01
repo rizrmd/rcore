@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pargarutan-jae",
+    "name": "Pargarutan Jae",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "sijungkang",
+    "name": "Sijungkang",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "huraba",
+    "name": "Huraba",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "huta-ginjang",
+    "name": "Huta Ginjang",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "pargarutan-julu",
+    "name": "Pargarutan Julu",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "pargarutan-tonga",
+    "name": "Pargarutan Tonga",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "panompuan-jae",
+    "name": "Panompuan Jae",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "lantosan-rogas",
+    "name": "Lantosan Rogas",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "pasar-pargarutan",
+    "name": "Pasar Pargarutan",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "pargarutan-dolok",
+    "name": "Pargarutan Dolok",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "pal-xi",
+    "name": "Pal Xi",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "marisi",
+    "name": "Marisi",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "panompuan",
+    "name": "Panompuan",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "batang-tura-sirumambe",
+    "name": "Batang Tura Sirumambe",
+    "district": "angkola-timur"
+  },
+  {
+    "id": "sanggapati",
+    "name": "Sanggapati",
+    "district": "angkola-timur"
+  }
+]

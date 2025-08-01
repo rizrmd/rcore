@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "sobo",
+    "name": "Sobo",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "kebalenan",
+    "name": "Kebalenan",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "penganjuran",
+    "name": "Penganjuran",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "tukangkayu",
+    "name": "Tukangkayu",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "kertosari",
+    "name": "Kertosari",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "kepatihan",
+    "name": "Kepatihan",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "panderejo",
+    "name": "Panderejo",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "singonegaran",
+    "name": "Singonegaran",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "temenggungan",
+    "name": "Temenggungan",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "kampung-melayu",
+    "name": "Kampung Melayu",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "kampungmandar",
+    "name": "Kampungmandar",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "lateng",
+    "name": "Lateng",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "singotrunan",
+    "name": "Singotrunan",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "pengantigan",
+    "name": "Pengantigan",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "sumberrejo",
+    "name": "Sumberrejo",
+    "district": "banyuwangi"
+  },
+  {
+    "id": "taman-baru",
+    "name": "Taman Baru",
+    "district": "banyuwangi"
+  }
+]

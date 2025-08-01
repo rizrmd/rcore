@@ -1,0 +1,62 @@
+[
+  {
+    "id": "namber",
+    "name": "Namber",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "baruki",
+    "name": "Baruki",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "warido",
+    "name": "Warido",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "kameri",
+    "name": "Kameri",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "subangungsi",
+    "name": "Subangungsi",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "serbin",
+    "name": "Serbin",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "kansai",
+    "name": "Kansai",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "pondori",
+    "name": "Pondori",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "rimba-raya",
+    "name": "Rimba Raya",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "semayen",
+    "name": "Semayen",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "mambondo-sawai",
+    "name": "Mambondo Sawai",
+    "district": "numfor-barat"
+  },
+  {
+    "id": "pomdori-sup",
+    "name": "Pomdori Sup",
+    "district": "numfor-barat"
+  }
+]

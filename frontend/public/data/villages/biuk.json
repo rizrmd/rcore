@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tomagipura",
+    "name": "Tomagipura",
+    "district": "biuk"
+  },
+  {
+    "id": "biuk",
+    "name": "Biuk",
+    "district": "biuk"
+  },
+  {
+    "id": "guburini",
+    "name": "Guburini",
+    "district": "biuk"
+  },
+  {
+    "id": "galuguk",
+    "name": "Galuguk",
+    "district": "biuk"
+  },
+  {
+    "id": "wonabu",
+    "name": "Wonabu",
+    "district": "biuk"
+  },
+  {
+    "id": "yugumabur",
+    "name": "Yugumabur",
+    "district": "biuk"
+  },
+  {
+    "id": "yiluk",
+    "name": "Yiluk",
+    "district": "biuk"
+  },
+  {
+    "id": "binime",
+    "name": "Binime",
+    "district": "biuk"
+  },
+  {
+    "id": "yiogobak",
+    "name": "Yiogobak",
+    "district": "biuk"
+  },
+  {
+    "id": "purugi",
+    "name": "Purugi",
+    "district": "biuk"
+  },
+  {
+    "id": "tomagi",
+    "name": "Tomagi",
+    "district": "biuk"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wiraska",
+    "name": "Wiraska",
+    "district": "wanggar"
+  },
+  {
+    "id": "wanggar-makmur",
+    "name": "Wanggar Makmur",
+    "district": "wanggar"
+  },
+  {
+    "id": "bumi-mulia",
+    "name": "Bumi Mulia",
+    "district": "wanggar"
+  },
+  {
+    "id": "karadiri",
+    "name": "Karadiri",
+    "district": "wanggar"
+  },
+  {
+    "id": "wanggar-sari",
+    "name": "Wanggar Sari",
+    "district": "wanggar"
+  }
+]

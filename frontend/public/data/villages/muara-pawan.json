@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sungai-awan-kanan",
+    "name": "Sungai Awan Kanan",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "sungai-awan-kiri",
+    "name": "Sungai Awan Kiri",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "tempurukan",
+    "name": "Tempurukan",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "tanjung-pura",
+    "name": "Tanjung Pura",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "ulak-medang",
+    "name": "Ulak Medang",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "mayak",
+    "name": "Mayak",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "tanjung-pasar",
+    "name": "Tanjung Pasar",
+    "district": "muara-pawan"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "muara-pawan"
+  }
+]

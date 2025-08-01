@@ -1,0 +1,52 @@
+[
+  {
+    "id": "silakma",
+    "name": "Silakma",
+    "district": "kwikma"
+  },
+  {
+    "id": "somarin",
+    "name": "Somarin",
+    "district": "kwikma"
+  },
+  {
+    "id": "monin",
+    "name": "Monin",
+    "district": "kwikma"
+  },
+  {
+    "id": "enggelasue",
+    "name": "Enggelasue",
+    "district": "kwikma"
+  },
+  {
+    "id": "oakbisik",
+    "name": "Oakbisik",
+    "district": "kwikma"
+  },
+  {
+    "id": "husmo",
+    "name": "Husmo",
+    "district": "kwikma"
+  },
+  {
+    "id": "karelma",
+    "name": "Karelma",
+    "district": "kwikma"
+  },
+  {
+    "id": "kenkeni",
+    "name": "Kenkeni",
+    "district": "kwikma"
+  },
+  {
+    "id": "momenggama",
+    "name": "Momenggama",
+    "district": "kwikma"
+  },
+  {
+    "id": "usabini",
+    "name": "Usabini",
+    "district": "kwikma"
+  }
+]

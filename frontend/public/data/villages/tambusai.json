@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tambusai-barat",
+    "name": "Tambusai Barat",
+    "district": "tambusai"
+  },
+  {
+    "id": "sungai-kumango",
+    "name": "Sungai Kumango",
+    "district": "tambusai"
+  },
+  {
+    "id": "batas",
+    "name": "Batas",
+    "district": "tambusai"
+  },
+  {
+    "id": "tali-kumain",
+    "name": "Tali Kumain",
+    "district": "tambusai"
+  },
+  {
+    "id": "tambusai-tengah",
+    "name": "Tambusai Tengah",
+    "district": "tambusai"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "tambusai"
+  },
+  {
+    "id": "sialang-rindang",
+    "name": "Sialang Rindang",
+    "district": "tambusai"
+  },
+  {
+    "id": "tambusai-timur",
+    "name": "Tambusai Timur",
+    "district": "tambusai"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "tambusai"
+  },
+  {
+    "id": "batang-kumu",
+    "name": "Batang Kumu",
+    "district": "tambusai"
+  },
+  {
+    "id": "tingkok",
+    "name": "Tingkok",
+    "district": "tambusai"
+  },
+  {
+    "id": "lubuk-soting",
+    "name": "Lubuk Soting",
+    "district": "tambusai"
+  }
+]

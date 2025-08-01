@@ -1,0 +1,87 @@
+[
+  {
+    "id": "gondel",
+    "name": "Gondel",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "ketuwan",
+    "name": "Ketuwan",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "jimbung",
+    "name": "Jimbung",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "panolan",
+    "name": "Panolan",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "klagen",
+    "name": "Klagen",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "kemantren",
+    "name": "Kemantren",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "wado",
+    "name": "Wado",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "sogo",
+    "name": "Sogo",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "bajo",
+    "name": "Bajo",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "nglandeyan",
+    "name": "Nglandeyan",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "kalen",
+    "name": "Kalen",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "ngraho",
+    "name": "Ngraho",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "kedungtuban",
+    "name": "Kedungtuban",
+    "district": "kedungtuban"
+  },
+  {
+    "id": "galuk",
+    "name": "Galuk",
+    "district": "kedungtuban"
+  }
+]

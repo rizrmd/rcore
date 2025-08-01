@@ -1,0 +1,42 @@
+[
+  {
+    "id": "balingbing",
+    "name": "Balingbing",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "cidadap",
+    "name": "Cidadap",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "cidahu",
+    "name": "Cidahu",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "pangsor",
+    "name": "Pangsor",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "margahayu",
+    "name": "Margahayu",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "pagaden-barat"
+  },
+  {
+    "id": "sumurgintung",
+    "name": "Sumurgintung",
+    "district": "pagaden-barat"
+  }
+]

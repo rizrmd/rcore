@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ngasem",
+    "name": "Ngasem",
+    "district": "colomadu"
+  },
+  {
+    "id": "bolon",
+    "name": "Bolon",
+    "district": "colomadu"
+  },
+  {
+    "id": "malangjiwan",
+    "name": "Malangjiwan",
+    "district": "colomadu"
+  },
+  {
+    "id": "paulan",
+    "name": "Paulan",
+    "district": "colomadu"
+  },
+  {
+    "id": "gajahan",
+    "name": "Gajahan",
+    "district": "colomadu"
+  },
+  {
+    "id": "blulukan",
+    "name": "Blulukan",
+    "district": "colomadu"
+  },
+  {
+    "id": "gawanan",
+    "name": "Gawanan",
+    "district": "colomadu"
+  },
+  {
+    "id": "gedongan",
+    "name": "Gedongan",
+    "district": "colomadu"
+  },
+  {
+    "id": "tohudan",
+    "name": "Tohudan",
+    "district": "colomadu"
+  },
+  {
+    "id": "baturan",
+    "name": "Baturan",
+    "district": "colomadu"
+  },
+  {
+    "id": "klodran",
+    "name": "Klodran",
+    "district": "colomadu"
+  }
+]

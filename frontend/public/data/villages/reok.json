@@ -1,0 +1,52 @@
+[
+  {
+    "id": "watu-tango",
+    "name": "Watu Tango",
+    "district": "reok"
+  },
+  {
+    "id": "bajak",
+    "name": "Bajak",
+    "district": "reok"
+  },
+  {
+    "id": "ruis",
+    "name": "Ruis",
+    "district": "reok"
+  },
+  {
+    "id": "mata-air",
+    "name": "Mata Air",
+    "district": "reok"
+  },
+  {
+    "id": "salama",
+    "name": "Salama",
+    "district": "reok"
+  },
+  {
+    "id": "reo",
+    "name": "Reo",
+    "district": "reok"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "reok"
+  },
+  {
+    "id": "wangkung",
+    "name": "Wangkung",
+    "district": "reok"
+  },
+  {
+    "id": "robek",
+    "name": "Robek",
+    "district": "reok"
+  },
+  {
+    "id": "watu-baur",
+    "name": "Watu Baur",
+    "district": "reok"
+  }
+]

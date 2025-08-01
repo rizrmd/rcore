@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cahaya-baru",
+    "name": "Cahaya Baru",
+    "district": "jejangkit"
+  },
+  {
+    "id": "sampurna",
+    "name": "Sampurna",
+    "district": "jejangkit"
+  },
+  {
+    "id": "bahandang",
+    "name": "Bahandang",
+    "district": "jejangkit"
+  },
+  {
+    "id": "jejangkit-muara",
+    "name": "Jejangkit Muara",
+    "district": "jejangkit"
+  },
+  {
+    "id": "jejangkit-pasar",
+    "name": "Jejangkit Pasar",
+    "district": "jejangkit"
+  },
+  {
+    "id": "jejangkit-barat",
+    "name": "Jejangkit Barat",
+    "district": "jejangkit"
+  },
+  {
+    "id": "jejangkit-timur",
+    "name": "Jejangkit Timur",
+    "district": "jejangkit"
+  }
+]

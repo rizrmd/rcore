@@ -1,0 +1,52 @@
+[
+  {
+    "id": "batu-panco",
+    "name": "Batu Panco",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "batu-kuning",
+    "name": "Batu Kuning",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "bandar-agung",
+    "name": "Bandar Agung",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "merambung",
+    "name": "Merambung",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "simpang-pino",
+    "name": "Simpang Pino",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "talang-tinggi",
+    "name": "Talang Tinggi",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "keban-jati",
+    "name": "Keban Jati",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "lubuk-tapi",
+    "name": "Lubuk Tapi",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "kayu-ajaran",
+    "name": "Kayu Ajaran",
+    "district": "ulu-manna"
+  },
+  {
+    "id": "air-tenam",
+    "name": "Air Tenam",
+    "district": "ulu-manna"
+  }
+]

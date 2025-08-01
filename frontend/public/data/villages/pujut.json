@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tumpak",
+    "name": "Tumpak",
+    "district": "pujut"
+  },
+  {
+    "id": "prabu",
+    "name": "Prabu",
+    "district": "pujut"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "pujut"
+  },
+  {
+    "id": "rembitan",
+    "name": "Rembitan",
+    "district": "pujut"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "pujut"
+  },
+  {
+    "id": "mertak",
+    "name": "Mertak",
+    "district": "pujut"
+  },
+  {
+    "id": "pengengat",
+    "name": "Pengengat",
+    "district": "pujut"
+  },
+  {
+    "id": "teruwai",
+    "name": "Teruwai",
+    "district": "pujut"
+  },
+  {
+    "id": "gapura",
+    "name": "Gapura",
+    "district": "pujut"
+  },
+  {
+    "id": "kawo",
+    "name": "Kawo",
+    "district": "pujut"
+  },
+  {
+    "id": "segale-anyar",
+    "name": "Segale Anyar",
+    "district": "pujut"
+  },
+  {
+    "id": "sengkol",
+    "name": "Sengkol",
+    "district": "pujut"
+  },
+  {
+    "id": "ketara",
+    "name": "Ketara",
+    "district": "pujut"
+  },
+  {
+    "id": "tanak-awu",
+    "name": "Tanak Awu",
+    "district": "pujut"
+  },
+  {
+    "id": "bangket-parak",
+    "name": "Bangket Parak",
+    "district": "pujut"
+  }
+]

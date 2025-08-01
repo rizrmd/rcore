@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bina",
+    "name": "Bina",
+    "district": "bina"
+  },
+  {
+    "id": "lumakluk",
+    "name": "Lumakluk",
+    "district": "bina"
+  },
+  {
+    "id": "wogot",
+    "name": "Wogot",
+    "district": "bina"
+  },
+  {
+    "id": "kabogoluk",
+    "name": "Kabogoluk",
+    "district": "bina"
+  },
+  {
+    "id": "ogomegat",
+    "name": "Ogomegat",
+    "district": "bina"
+  },
+  {
+    "id": "mamaput",
+    "name": "Mamaput",
+    "district": "bina"
+  }
+]

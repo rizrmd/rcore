@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kandang",
+    "name": "Kandang",
+    "district": "kapongan"
+  },
+  {
+    "id": "curah-cotok",
+    "name": "Curah Cotok",
+    "district": "kapongan"
+  },
+  {
+    "id": "peleyan",
+    "name": "Peleyan",
+    "district": "kapongan"
+  },
+  {
+    "id": "wonokoyo",
+    "name": "Wonokoyo",
+    "district": "kapongan"
+  },
+  {
+    "id": "landangan",
+    "name": "Landangan",
+    "district": "kapongan"
+  },
+  {
+    "id": "kapongan",
+    "name": "Kapongan",
+    "district": "kapongan"
+  },
+  {
+    "id": "kesambi-rampak",
+    "name": "Kesambi Rampak",
+    "district": "kapongan"
+  },
+  {
+    "id": "gebangan",
+    "name": "Gebangan",
+    "district": "kapongan"
+  },
+  {
+    "id": "pokaan",
+    "name": "Pokaan",
+    "district": "kapongan"
+  }
+]

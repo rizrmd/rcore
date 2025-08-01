@@ -1,0 +1,37 @@
+[
+  {
+    "id": "walandawe",
+    "name": "Walandawe",
+    "district": "routa"
+  },
+  {
+    "id": "routa",
+    "name": "Routa",
+    "district": "routa"
+  },
+  {
+    "id": "tirawonua",
+    "name": "Tirawonua",
+    "district": "routa"
+  },
+  {
+    "id": "parudongka",
+    "name": "Parudongka",
+    "district": "routa"
+  },
+  {
+    "id": "puuwiwirano",
+    "name": "Puuwiwirano",
+    "district": "routa"
+  },
+  {
+    "id": "lalomerui",
+    "name": "Lalomerui",
+    "district": "routa"
+  },
+  {
+    "id": "tanggola",
+    "name": "Tanggola",
+    "district": "routa"
+  }
+]

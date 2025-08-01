@@ -1,0 +1,52 @@
+[
+  {
+    "id": "badang",
+    "name": "Badang",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "tanjung-tayas",
+    "name": "Tanjung Tayas",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "kuala-dasal",
+    "name": "Kuala Dasal",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "pematang-pauh",
+    "name": "Pematang Pauh",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "pelabuhan-dagang",
+    "name": "Pelabuhan Dagang",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "taman-raja",
+    "name": "Taman Raja",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "brasau",
+    "name": "Brasau",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "badang-sepakat",
+    "name": "Badang Sepakat",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "gemuruh",
+    "name": "Gemuruh",
+    "district": "tungkal-ulu"
+  },
+  {
+    "id": "pematang-tembesu",
+    "name": "Pematang Tembesu",
+    "district": "tungkal-ulu"
+  }
+]

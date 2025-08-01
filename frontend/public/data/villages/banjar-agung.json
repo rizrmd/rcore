@@ -1,0 +1,57 @@
+[
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "tunggal-warga",
+    "name": "Tunggal Warga",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "dwi-warga-tunggal-jaya",
+    "name": "Dwi Warga Tunggal Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "moris-jaya",
+    "name": "Moris Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "tri-dharma-wirajaya",
+    "name": "Tri Dharma Wirajaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "tri-mulya-jaya",
+    "name": "Tri Mulya Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "tri-mukti-jaya",
+    "name": "Tri Mukti Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "tri-tunggal-jaya",
+    "name": "Tri Tunggal Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "warga-makmur-jaya",
+    "name": "Warga Makmur Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "warga-indah-jaya",
+    "name": "Warga Indah Jaya",
+    "district": "banjar-agung"
+  },
+  {
+    "id": "banjar-dewa",
+    "name": "Banjar Dewa",
+    "district": "banjar-agung"
+  }
+]

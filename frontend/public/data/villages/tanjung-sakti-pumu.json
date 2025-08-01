@@ -1,0 +1,72 @@
+[
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "gunung-raya",
+    "name": "Gunung Raya",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "talang-tinggi",
+    "name": "Talang Tinggi",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "simpang-iii-pumu",
+    "name": "Simpang Iii Pumu",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "kepala-siring",
+    "name": "Kepala Siring",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "genting",
+    "name": "Genting",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "suban",
+    "name": "Suban",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "muara-cawang",
+    "name": "Muara Cawang",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "gunung-ayu",
+    "name": "Gunung Ayu",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "ujung-pulau",
+    "name": "Ujung Pulau",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "tanjung-alam",
+    "name": "Tanjung Alam",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "batu-rancing",
+    "name": "Batu Rancing",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "gunung-meraksa",
+    "name": "Gunung Meraksa",
+    "district": "tanjung-sakti-pumu"
+  },
+  {
+    "id": "kembang-ayun",
+    "name": "Kembang Ayun",
+    "district": "tanjung-sakti-pumu"
+  }
+]

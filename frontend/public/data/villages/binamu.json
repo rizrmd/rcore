@@ -1,0 +1,67 @@
+[
+  {
+    "id": "biringkassi",
+    "name": "Biringkassi",
+    "district": "binamu"
+  },
+  {
+    "id": "pabiringa",
+    "name": "Pabiringa",
+    "district": "binamu"
+  },
+  {
+    "id": "panaikang",
+    "name": "Panaikang",
+    "district": "binamu"
+  },
+  {
+    "id": "monro-monro",
+    "name": "Monro-Monro",
+    "district": "binamu"
+  },
+  {
+    "id": "sidenre",
+    "name": "Sidenre",
+    "district": "binamu"
+  },
+  {
+    "id": "empoang-selatan",
+    "name": "Empoang Selatan",
+    "district": "binamu"
+  },
+  {
+    "id": "empoang",
+    "name": "Empoang",
+    "district": "binamu"
+  },
+  {
+    "id": "balang-toa",
+    "name": "Balang Toa",
+    "district": "binamu"
+  },
+  {
+    "id": "balang",
+    "name": "Balang",
+    "district": "binamu"
+  },
+  {
+    "id": "balang-beru",
+    "name": "Balang Beru",
+    "district": "binamu"
+  },
+  {
+    "id": "bontoa",
+    "name": "Bontoa",
+    "district": "binamu"
+  },
+  {
+    "id": "sapanang",
+    "name": "Sapanang",
+    "district": "binamu"
+  },
+  {
+    "id": "empoang-utara",
+    "name": "Empoang Utara",
+    "district": "binamu"
+  }
+]

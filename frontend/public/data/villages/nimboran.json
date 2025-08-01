@@ -1,0 +1,57 @@
+[
+  {
+    "id": "oyengsi",
+    "name": "Oyengsi",
+    "district": "nimboran"
+  },
+  {
+    "id": "singgriway",
+    "name": "Singgriway",
+    "district": "nimboran"
+  },
+  {
+    "id": "tabri",
+    "name": "Tabri",
+    "district": "nimboran"
+  },
+  {
+    "id": "singgri",
+    "name": "Singgri",
+    "district": "nimboran"
+  },
+  {
+    "id": "benyom",
+    "name": "Benyom",
+    "district": "nimboran"
+  },
+  {
+    "id": "kuipons",
+    "name": "Kuipons",
+    "district": "nimboran"
+  },
+  {
+    "id": "imsar",
+    "name": "Imsar",
+    "district": "nimboran"
+  },
+  {
+    "id": "kaitemung",
+    "name": "Kaitemung",
+    "district": "nimboran"
+  },
+  {
+    "id": "kuwase",
+    "name": "Kuwase",
+    "district": "nimboran"
+  },
+  {
+    "id": "pobaim",
+    "name": "Pobaim",
+    "district": "nimboran"
+  },
+  {
+    "id": "yenggu-baru",
+    "name": "Yenggu Baru",
+    "district": "nimboran"
+  }
+]

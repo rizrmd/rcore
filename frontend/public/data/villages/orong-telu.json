@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mungkin",
+    "name": "Mungkin",
+    "district": "orong-telu"
+  },
+  {
+    "id": "kelawis",
+    "name": "Kelawis",
+    "district": "orong-telu"
+  },
+  {
+    "id": "sebeok",
+    "name": "Sebeok",
+    "district": "orong-telu"
+  },
+  {
+    "id": "senawang",
+    "name": "Senawang",
+    "district": "orong-telu"
+  }
+]

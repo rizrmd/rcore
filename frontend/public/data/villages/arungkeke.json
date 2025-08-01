@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kampala",
+    "name": "Kampala",
+    "district": "arungkeke"
+  },
+  {
+    "id": "bulo-bulo",
+    "name": "Bulo-Bulo",
+    "district": "arungkeke"
+  },
+  {
+    "id": "kalumpang-loe",
+    "name": "Kalumpang Loe",
+    "district": "arungkeke"
+  },
+  {
+    "id": "palajau",
+    "name": "Palajau",
+    "district": "arungkeke"
+  },
+  {
+    "id": "arungkeke",
+    "name": "Arungkeke",
+    "district": "arungkeke"
+  },
+  {
+    "id": "borong-lamu",
+    "name": "Borong Lamu",
+    "district": "arungkeke"
+  },
+  {
+    "id": "arungkeke-pallantikang",
+    "name": "Arungkeke Pallantikang",
+    "district": "arungkeke"
+  }
+]

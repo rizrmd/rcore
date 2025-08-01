@@ -1,0 +1,62 @@
+[
+  {
+    "id": "polassi",
+    "name": "Polassi",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "tambolongan",
+    "name": "Tambolongan",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "appatanah",
+    "name": "Appatanah",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "lowa",
+    "name": "Lowa",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "lantimbongan",
+    "name": "Lantimbongan",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "binanga-sombaiya",
+    "name": "Binanga Sombaiya",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "laiyolo",
+    "name": "Laiyolo",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "laiyolo-baru",
+    "name": "Laiyolo Baru",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "patikarya",
+    "name": "Patikarya",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "patilereng",
+    "name": "Patilereng",
+    "district": "bontosikuyu"
+  },
+  {
+    "id": "khusus-bahuluang",
+    "name": "Khusus Bahuluang",
+    "district": "bontosikuyu"
+  }
+]

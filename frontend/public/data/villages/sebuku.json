@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sujau",
+    "name": "Sujau",
+    "district": "sebuku"
+  },
+  {
+    "id": "melasu-baru",
+    "name": "Melasu Baru",
+    "district": "sebuku"
+  },
+  {
+    "id": "bebanas",
+    "name": "Bebanas",
+    "district": "sebuku"
+  },
+  {
+    "id": "tetaban",
+    "name": "Tetaban",
+    "district": "sebuku"
+  },
+  {
+    "id": "kunyit",
+    "name": "Kunyit",
+    "district": "sebuku"
+  },
+  {
+    "id": "kekayap",
+    "name": "Kekayap",
+    "district": "sebuku"
+  },
+  {
+    "id": "apas",
+    "name": "Apas",
+    "district": "sebuku"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "sebuku"
+  },
+  {
+    "id": "pembeliangan",
+    "name": "Pembeliangan",
+    "district": "sebuku"
+  }
+]

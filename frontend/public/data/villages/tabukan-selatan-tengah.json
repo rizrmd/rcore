@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tambung",
+    "name": "Tambung",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "salurang",
+    "name": "Salurang",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "hangke",
+    "name": "Hangke",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "bowone",
+    "name": "Bowone",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "beeng-laut",
+    "name": "Beeng Laut",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "tenda",
+    "name": "Tenda",
+    "district": "tabukan-selatan-tengah"
+  },
+  {
+    "id": "aha-patung",
+    "name": "Aha Patung",
+    "district": "tabukan-selatan-tengah"
+  }
+]

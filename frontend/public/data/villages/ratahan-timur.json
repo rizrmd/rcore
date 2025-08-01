@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wioy",
+    "name": "Wioy",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wioy-satu",
+    "name": "Wioy Satu",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wioy-dua",
+    "name": "Wioy Dua",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wioy-tiga",
+    "name": "Wioy Tiga",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wioy-timur",
+    "name": "Wioy Timur",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wongkai",
+    "name": "Wongkai",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "wongkai-satu",
+    "name": "Wongkai Satu",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "pangu",
+    "name": "Pangu",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "pangu-satu",
+    "name": "Pangu Satu",
+    "district": "ratahan-timur"
+  },
+  {
+    "id": "pangu-dua",
+    "name": "Pangu Dua",
+    "district": "ratahan-timur"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kedungmentawar",
+    "name": "Kedungmentawar",
+    "district": "ngimbang"
+  },
+  {
+    "id": "ganggantingan",
+    "name": "Ganggantingan",
+    "district": "ngimbang"
+  },
+  {
+    "id": "gebangangkrik",
+    "name": "Gebangangkrik",
+    "district": "ngimbang"
+  },
+  {
+    "id": "mendogo",
+    "name": "Mendogo",
+    "district": "ngimbang"
+  },
+  {
+    "id": "durikedungjero",
+    "name": "Durikedungjero",
+    "district": "ngimbang"
+  },
+  {
+    "id": "lamongrejo",
+    "name": "Lamongrejo",
+    "district": "ngimbang"
+  },
+  {
+    "id": "lawak",
+    "name": "Lawak",
+    "district": "ngimbang"
+  },
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "ngimbang"
+  },
+  {
+    "id": "ngasemlemahbang",
+    "name": "Ngasemlemahbang",
+    "district": "ngimbang"
+  },
+  {
+    "id": "slaharwotan",
+    "name": "Slaharwotan",
+    "district": "ngimbang"
+  },
+  {
+    "id": "kakatpenjalin",
+    "name": "Kakatpenjalin",
+    "district": "ngimbang"
+  },
+  {
+    "id": "drujugurit",
+    "name": "Drujugurit",
+    "district": "ngimbang"
+  },
+  {
+    "id": "munungrejo",
+    "name": "Munungrejo",
+    "district": "ngimbang"
+  },
+  {
+    "id": "ngimbang",
+    "name": "Ngimbang",
+    "district": "ngimbang"
+  },
+  {
+    "id": "sendangrejo",
+    "name": "Sendangrejo",
+    "district": "ngimbang"
+  },
+  {
+    "id": "girik",
+    "name": "Girik",
+    "district": "ngimbang"
+  },
+  {
+    "id": "tlemang",
+    "name": "Tlemang",
+    "district": "ngimbang"
+  }
+]

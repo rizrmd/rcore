@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kelurahan-tambunan",
+    "name": "Kelurahan Tambunan",
+    "district": "makale-utara"
+  },
+  {
+    "id": "kelurahan-bungin",
+    "name": "Kelurahan Bungin",
+    "district": "makale-utara"
+  },
+  {
+    "id": "kelurahan-lion-tondok-iring",
+    "name": "Kelurahan Lion Tondok Iring",
+    "district": "makale-utara"
+  },
+  {
+    "id": "kelurahan-sarira",
+    "name": "Kelurahan Sarira",
+    "district": "makale-utara"
+  },
+  {
+    "id": "kelurahan-lemo",
+    "name": "Kelurahan  Lemo",
+    "district": "makale-utara"
+  }
+]

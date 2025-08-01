@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mansinam",
+    "name": "Mansinam",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "arowi",
+    "name": "Arowi",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "bakaro",
+    "name": "Bakaro",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "aipiri",
+    "name": "Aipiri",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "sunsweni",
+    "name": "Sunsweni",
+    "district": "manokwari-timur"
+  },
+  {
+    "id": "ayambori",
+    "name": "Ayambori",
+    "district": "manokwari-timur"
+  }
+]

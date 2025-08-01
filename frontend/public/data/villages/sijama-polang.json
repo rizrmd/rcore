@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sanggaran-i",
+    "name": "Sanggaran I",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "sitapongan",
+    "name": "Sitapongan",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "sibuntuon",
+    "name": "Sibuntuon",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "sigulok",
+    "name": "Sigulok",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "batunajagar",
+    "name": "Batunajagar",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "bonan-dolok-ii",
+    "name": "Bonan Dolok Ii",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "bonan-dolok-i",
+    "name": "Bonan Dolok I",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "hutaginjang",
+    "name": "Hutaginjang",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "siborboron",
+    "name": "Siborboron",
+    "district": "sijama-polang"
+  },
+  {
+    "id": "nagurguran",
+    "name": "Nagurguran",
+    "district": "sijama-polang"
+  }
+]

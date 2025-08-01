@@ -1,0 +1,72 @@
+[
+  {
+    "id": "parempei",
+    "name": "Parempei",
+    "district": "rungan"
+  },
+  {
+    "id": "talangkah",
+    "name": "Talangkah",
+    "district": "rungan"
+  },
+  {
+    "id": "luwuk-langkuas",
+    "name": "Luwuk Langkuas",
+    "district": "rungan"
+  },
+  {
+    "id": "tumbang-kajuei",
+    "name": "Tumbang Kajuei",
+    "district": "rungan"
+  },
+  {
+    "id": "luwuk-kantor",
+    "name": "Luwuk Kantor",
+    "district": "rungan"
+  },
+  {
+    "id": "tumbang-bunut",
+    "name": "Tumbang Bunut",
+    "district": "rungan"
+  },
+  {
+    "id": "tumbang-jutuh",
+    "name": "Tumbang Jutuh",
+    "district": "rungan"
+  },
+  {
+    "id": "linau",
+    "name": "Linau",
+    "district": "rungan"
+  },
+  {
+    "id": "tumbang-baringei",
+    "name": "Tumbang Baringei",
+    "district": "rungan"
+  },
+  {
+    "id": "tumbang-malahoi",
+    "name": "Tumbang Malahoi",
+    "district": "rungan"
+  },
+  {
+    "id": "jakatan-raya",
+    "name": "Jakatan Raya",
+    "district": "rungan"
+  },
+  {
+    "id": "bereng-baru",
+    "name": "Bereng Baru",
+    "district": "rungan"
+  },
+  {
+    "id": "bereng-malaka",
+    "name": "Bereng Malaka",
+    "district": "rungan"
+  },
+  {
+    "id": "karya-bakti",
+    "name": "Karya  Bakti",
+    "district": "rungan"
+  }
+]

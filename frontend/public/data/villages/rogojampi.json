@@ -1,0 +1,47 @@
+[
+  {
+    "id": "aliyan",
+    "name": "Aliyan",
+    "district": "rogojampi"
+  },
+  {
+    "id": "mangir",
+    "name": "Mangir",
+    "district": "rogojampi"
+  },
+  {
+    "id": "gladag",
+    "name": "Gladag",
+    "district": "rogojampi"
+  },
+  {
+    "id": "kedaleman",
+    "name": "Kedaleman",
+    "district": "rogojampi"
+  },
+  {
+    "id": "lemahbang-dewo",
+    "name": "Lemahbang Dewo",
+    "district": "rogojampi"
+  },
+  {
+    "id": "rogojampi",
+    "name": "Rogojampi",
+    "district": "rogojampi"
+  },
+  {
+    "id": "karang-bendo",
+    "name": "Karang Bendo",
+    "district": "rogojampi"
+  },
+  {
+    "id": "gitik",
+    "name": "Gitik",
+    "district": "rogojampi"
+  },
+  {
+    "id": "pengantigan",
+    "name": "Pengantigan",
+    "district": "rogojampi"
+  }
+]

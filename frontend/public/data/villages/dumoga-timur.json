@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tonom",
+    "name": "Tonom",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "mogoyunggung",
+    "name": "Mogoyunggung",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "imandi",
+    "name": "Imandi",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "pinonobatuan",
+    "name": "Pinonobatuan",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "modomang",
+    "name": "Modomang",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "dumoga",
+    "name": "Dumoga",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "kembang-mertha",
+    "name": "Kembang Mertha",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "dumoga-ii",
+    "name": "Dumoga Ii",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "pinonobatuan-barat",
+    "name": "Pinonobatuan Barat",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "mogoyunggung-ii",
+    "name": "Mogoyunggung Ii",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "mogoyunggung-i",
+    "name": "Mogoyunggung I",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "amertha-sari",
+    "name": "Amertha Sari",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "amertha-buana",
+    "name": "Amertha Buana",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "kembang-sari",
+    "name": "Kembang Sari",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "dumoga-empat",
+    "name": "Dumoga Empat",
+    "district": "dumoga-timur"
+  },
+  {
+    "id": "dumoga-tiga",
+    "name": "Dumoga Tiga",
+    "district": "dumoga-timur"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tebing-tinggi-uleh",
+    "name": "Tebing Tinggi Uleh",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "bukit-kemang",
+    "name": "Bukit Kemang",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "rambah",
+    "name": "Rambah",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "pedukun",
+    "name": "Pedukun",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "lubuk-niur",
+    "name": "Lubuk Niur",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "tanah-tumbuh",
+    "name": "Tanah Tumbuh",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "teluk-kecimbung",
+    "name": "Teluk Kecimbung",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "panjang",
+    "name": "Panjang",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "perenti-luweh",
+    "name": "Perenti Luweh",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "koto-jayo",
+    "name": "Koto Jayo",
+    "district": "tanah-tumbuh"
+  },
+  {
+    "id": "renah-jelmu",
+    "name": "Renah Jelmu",
+    "district": "tanah-tumbuh"
+  }
+]

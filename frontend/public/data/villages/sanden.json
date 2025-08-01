@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gadingsari",
+    "name": "Gadingsari",
+    "district": "sanden"
+  },
+  {
+    "id": "gadingharjo",
+    "name": "Gadingharjo",
+    "district": "sanden"
+  },
+  {
+    "id": "srigading",
+    "name": "Srigading",
+    "district": "sanden"
+  },
+  {
+    "id": "murtigading",
+    "name": "Murtigading",
+    "district": "sanden"
+  }
+]

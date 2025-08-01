@@ -1,0 +1,112 @@
+[
+  {
+    "id": "muara-telake",
+    "name": "Muara Telake",
+    "district": "long-kali"
+  },
+  {
+    "id": "sebakung",
+    "name": "Sebakung",
+    "district": "long-kali"
+  },
+  {
+    "id": "sebakung-taka",
+    "name": "Sebakung Taka",
+    "district": "long-kali"
+  },
+  {
+    "id": "sebakung-makmur",
+    "name": "Sebakung Makmur",
+    "district": "long-kali"
+  },
+  {
+    "id": "muara-adang-ii",
+    "name": "Muara Adang Ii",
+    "district": "long-kali"
+  },
+  {
+    "id": "long-kali",
+    "name": "Long Kali",
+    "district": "long-kali"
+  },
+  {
+    "id": "bentetualan",
+    "name": "Bente/Tualan",
+    "district": "long-kali"
+  },
+  {
+    "id": "mendik",
+    "name": "Mendik",
+    "district": "long-kali"
+  },
+  {
+    "id": "mendik-makmur",
+    "name": "Mendik Makmur",
+    "district": "long-kali"
+  },
+  {
+    "id": "mendik-bhakti",
+    "name": "Mendik Bhakti",
+    "district": "long-kali"
+  },
+  {
+    "id": "mendik-karya",
+    "name": "Mendik Karya",
+    "district": "long-kali"
+  },
+  {
+    "id": "muara-pias",
+    "name": "Muara Pias",
+    "district": "long-kali"
+  },
+  {
+    "id": "muara-toyu",
+    "name": "Muara Toyu",
+    "district": "long-kali"
+  },
+  {
+    "id": "perkuwin",
+    "name": "Perkuwin",
+    "district": "long-kali"
+  },
+  {
+    "id": "pinang-jatus",
+    "name": "Pinang Jatus",
+    "district": "long-kali"
+  },
+  {
+    "id": "muara-lambakan",
+    "name": "Muara Lambakan",
+    "district": "long-kali"
+  },
+  {
+    "id": "kepala-telake",
+    "name": "Kepala Telake",
+    "district": "long-kali"
+  },
+  {
+    "id": "maruat",
+    "name": "Maruat",
+    "district": "long-kali"
+  },
+  {
+    "id": "petiku",
+    "name": "Petiku",
+    "district": "long-kali"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "long-kali"
+  },
+  {
+    "id": "putang",
+    "name": "Putang",
+    "district": "long-kali"
+  },
+  {
+    "id": "gunung-putar",
+    "name": "Gunung Putar",
+    "district": "long-kali"
+  }
+]

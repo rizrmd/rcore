@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cimanyangray",
+    "name": "Cimanyangray",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "keramatjaya",
+    "name": "Keramatjaya",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "bulakan",
+    "name": "Bulakan",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "cicaringin",
+    "name": "Cicaringin",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "ciakar",
+    "name": "Ciakar",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "cisampang",
+    "name": "Cisampang",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "bojong-koneng",
+    "name": "Bojong Koneng",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "ciginggang",
+    "name": "Ciginggang",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "gunung-kencana",
+    "name": "Gunung Kencana",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "sukanegara",
+    "name": "Sukanegara",
+    "district": "gunung-kencana"
+  },
+  {
+    "id": "tanjungsari-indah",
+    "name": "Tanjungsari Indah",
+    "district": "gunung-kencana"
+  }
+]

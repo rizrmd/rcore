@@ -1,0 +1,47 @@
+[
+  {
+    "id": "siantan",
+    "name": "Siantan",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "segedong",
+    "name": "Segedong",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "sungai-pinyuh",
+    "name": "Sungai Pinyuh",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "anjongan",
+    "name": "Anjongan",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "mempawah-hilir",
+    "name": "Mempawah Hilir",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "mempawah-timur",
+    "name": "Mempawah Timur",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "sungai-kunyit",
+    "name": "Sungai Kunyit",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "toho",
+    "name": "Toho",
+    "regency": "kabupaten-mempawah"
+  },
+  {
+    "id": "sadaniang",
+    "name": "Sadaniang",
+    "regency": "kabupaten-mempawah"
+  }
+]

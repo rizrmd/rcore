@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lamokula",
+    "name": "Lamokula",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "sanggula",
+    "name": "Sanggula",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "lombuea",
+    "name": "Lombuea",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "wawatu",
+    "name": "Wawatu",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "tanjung-tiram",
+    "name": "Tanjung Tiram",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "lalowaru",
+    "name": "Lalowaru",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "puasana",
+    "name": "Puasana",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "mata-lamokula",
+    "name": "Mata Lamokula",
+    "district": "moramo-utara"
+  },
+  {
+    "id": "mata-wawatu",
+    "name": "Mata Wawatu",
+    "district": "moramo-utara"
+  }
+]

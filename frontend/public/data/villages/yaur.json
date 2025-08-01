@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wami-jaya",
+    "name": "Wami Jaya",
+    "district": "yaur"
+  },
+  {
+    "id": "sima",
+    "name": "Sima",
+    "district": "yaur"
+  },
+  {
+    "id": "akudiomi",
+    "name": "Akudiomi",
+    "district": "yaur"
+  },
+  {
+    "id": "yaur",
+    "name": "Yaur",
+    "district": "yaur"
+  }
+]

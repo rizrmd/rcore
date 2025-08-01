@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tenggaro",
+    "name": "Tenggaro",
+    "district": "keluang"
+  },
+  {
+    "id": "keluang",
+    "name": "Keluang",
+    "district": "keluang"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "keluang"
+  },
+  {
+    "id": "karya-maju",
+    "name": "Karya Maju",
+    "district": "keluang"
+  },
+  {
+    "id": "tegal-mulya",
+    "name": "Tegal Mulya",
+    "district": "keluang"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "keluang"
+  },
+  {
+    "id": "loka-jaya",
+    "name": "Loka Jaya",
+    "district": "keluang"
+  },
+  {
+    "id": "dawas",
+    "name": "Dawas",
+    "district": "keluang"
+  },
+  {
+    "id": "tanjung-dalam",
+    "name": "Tanjung Dalam",
+    "district": "keluang"
+  },
+  {
+    "id": "cipta-praja",
+    "name": "Cipta Praja",
+    "district": "keluang"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "keluang"
+  },
+  {
+    "id": "mulyo-asih",
+    "name": "Mulyo Asih",
+    "district": "keluang"
+  },
+  {
+    "id": "sido-rejo",
+    "name": "Sido Rejo",
+    "district": "keluang"
+  },
+  {
+    "id": "sridamai",
+    "name": "Sridamai",
+    "district": "keluang"
+  }
+]

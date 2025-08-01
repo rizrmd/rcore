@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "kota-manna"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "kota-manna"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "kota-manna"
+  },
+  {
+    "id": "kota-medan",
+    "name": "Kota Medan",
+    "district": "kota-manna"
+  },
+  {
+    "id": "gunung-ayu",
+    "name": "Gunung Ayu",
+    "district": "kota-manna"
+  },
+  {
+    "id": "padang-niur",
+    "name": "Padang Niur",
+    "district": "kota-manna"
+  },
+  {
+    "id": "tebat-kubu",
+    "name": "Tebat Kubu",
+    "district": "kota-manna"
+  },
+  {
+    "id": "gelumbang",
+    "name": "Gelumbang",
+    "district": "kota-manna"
+  },
+  {
+    "id": "padang-kapuk",
+    "name": "Padang Kapuk",
+    "district": "kota-manna"
+  },
+  {
+    "id": "ibul",
+    "name": "Ibul",
+    "district": "kota-manna"
+  },
+  {
+    "id": "padang-berangin",
+    "name": "Padang Berangin",
+    "district": "kota-manna"
+  }
+]

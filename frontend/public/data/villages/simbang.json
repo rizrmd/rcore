@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bonto-tallasa",
+    "name": "Bonto Tallasa",
+    "district": "simbang"
+  },
+  {
+    "id": "tanete",
+    "name": "Tanete",
+    "district": "simbang"
+  },
+  {
+    "id": "simbang",
+    "name": "Simbang",
+    "district": "simbang"
+  },
+  {
+    "id": "jenetaesa",
+    "name": "Jenetaesa",
+    "district": "simbang"
+  },
+  {
+    "id": "sambueja",
+    "name": "Sambueja",
+    "district": "simbang"
+  },
+  {
+    "id": "samangki",
+    "name": "Samangki",
+    "district": "simbang"
+  }
+]

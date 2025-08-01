@@ -1,0 +1,22 @@
+[
+  {
+    "id": "langgini",
+    "name": "Langgini",
+    "district": "bangkinang-kota"
+  },
+  {
+    "id": "bangkinang",
+    "name": "Bangkinang",
+    "district": "bangkinang-kota"
+  },
+  {
+    "id": "kumantan",
+    "name": "Kumantan",
+    "district": "bangkinang-kota"
+  },
+  {
+    "id": "ridan-permai",
+    "name": "Ridan Permai",
+    "district": "bangkinang-kota"
+  }
+]

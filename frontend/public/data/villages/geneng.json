@@ -1,0 +1,57 @@
+[
+  {
+    "id": "keras-wetan",
+    "name": "Keras Wetan",
+    "district": "geneng"
+  },
+  {
+    "id": "keniten",
+    "name": "Keniten",
+    "district": "geneng"
+  },
+  {
+    "id": "tambakromo",
+    "name": "Tambakromo",
+    "district": "geneng"
+  },
+  {
+    "id": "tepas",
+    "name": "Tepas",
+    "district": "geneng"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "geneng"
+  },
+  {
+    "id": "baderan",
+    "name": "Baderan",
+    "district": "geneng"
+  },
+  {
+    "id": "klampisan",
+    "name": "Klampisan",
+    "district": "geneng"
+  },
+  {
+    "id": "kasreman",
+    "name": "Kasreman",
+    "district": "geneng"
+  },
+  {
+    "id": "kersikan",
+    "name": "Kersikan",
+    "district": "geneng"
+  },
+  {
+    "id": "klitik",
+    "name": "Klitik",
+    "district": "geneng"
+  },
+  {
+    "id": "kersoharjo",
+    "name": "Kersoharjo",
+    "district": "geneng"
+  }
+]

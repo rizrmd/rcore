@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pahandut",
+    "name": "Pahandut",
+    "regency": "kota-palangka-raya"
+  },
+  {
+    "id": "sabangau",
+    "name": "Sabangau",
+    "regency": "kota-palangka-raya"
+  },
+  {
+    "id": "jekan-raya",
+    "name": "Jekan Raya",
+    "regency": "kota-palangka-raya"
+  },
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "regency": "kota-palangka-raya"
+  },
+  {
+    "id": "rakumpit",
+    "name": "Rakumpit",
+    "regency": "kota-palangka-raya"
+  }
+]

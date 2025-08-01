@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ladang-tengah",
+    "name": "Ladang Tengah",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "uratan",
+    "name": "Uratan",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "lobu-tua",
+    "name": "Lobu Tua",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "bondar-sihudon-ii",
+    "name": "Bondar Sihudon Ii",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "bondar-sihudon-i",
+    "name": "Bondar Sihudon I",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "rina-bolak",
+    "name": "Rina Bolak",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sosor-gonting",
+    "name": "Sosor Gonting",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sirami-ramian",
+    "name": "Sirami Ramian",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "pangaribuan",
+    "name": "Pangaribuan",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sijungkang",
+    "name": "Sijungkang",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sogar",
+    "name": "Sogar",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sigolang",
+    "name": "Sigolang",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sitiris-tiris",
+    "name": "Sitiris Tiris",
+    "district": "andam-dewi"
+  },
+  {
+    "id": "sawah-lamo",
+    "name": "Sawah Lamo",
+    "district": "andam-dewi"
+  }
+]

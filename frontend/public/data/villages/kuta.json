@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kedonganan",
+    "name": "Kedonganan",
+    "district": "kuta"
+  },
+  {
+    "id": "tuban",
+    "name": "Tuban",
+    "district": "kuta"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "kuta"
+  },
+  {
+    "id": "legian",
+    "name": "Legian",
+    "district": "kuta"
+  },
+  {
+    "id": "seminyak",
+    "name": "Seminyak",
+    "district": "kuta"
+  }
+]

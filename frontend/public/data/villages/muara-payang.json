@@ -1,0 +1,37 @@
+[
+  {
+    "id": "muara-payang",
+    "name": "Muara Payang",
+    "district": "muara-payang"
+  },
+  {
+    "id": "muara-gelumpai",
+    "name": "Muara Gelumpai",
+    "district": "muara-payang"
+  },
+  {
+    "id": "talang-tinggi",
+    "name": "Talang Tinggi",
+    "district": "muara-payang"
+  },
+  {
+    "id": "lawang-agung-lama",
+    "name": "Lawang Agung Lama",
+    "district": "muara-payang"
+  },
+  {
+    "id": "lawang-agung-baru",
+    "name": "Lawang Agung Baru",
+    "district": "muara-payang"
+  },
+  {
+    "id": "muara-jauh",
+    "name": "Muara Jauh",
+    "district": "muara-payang"
+  },
+  {
+    "id": "bandu-agung",
+    "name": "Bandu Agung",
+    "district": "muara-payang"
+  }
+]

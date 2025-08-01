@@ -1,0 +1,82 @@
+[
+  {
+    "id": "merandeh-paya",
+    "name": "Merandeh Paya",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "rusip",
+    "name": "Rusip",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "paya-tampu",
+    "name": "Paya Tampu",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "kuala-rawa",
+    "name": "Kuala Rawa",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "pantan-tengah",
+    "name": "Pantan Tengah",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "pilar",
+    "name": "Pilar",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "arul-pertik",
+    "name": "Arul Pertik",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "atu-singkih",
+    "name": "Atu Singkih",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "pantan-bener",
+    "name": "Pantan Bener",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "kerawang",
+    "name": "Kerawang",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "pilar-jaya",
+    "name": "Pilar Jaya",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "tirmi-ara",
+    "name": "Tirmi Ara",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "mekar-maju",
+    "name": "Mekar Maju",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "pilar-wih-kiri",
+    "name": "Pilar Wih Kiri",
+    "district": "rusip-antara"
+  },
+  {
+    "id": "laut-jaya",
+    "name": "Laut Jaya",
+    "district": "rusip-antara"
+  }
+]

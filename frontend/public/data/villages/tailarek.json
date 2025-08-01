@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tailarek",
+    "name": "Tailarek",
+    "district": "tailarek"
+  },
+  {
+    "id": "bokiem",
+    "name": "Bokiem",
+    "district": "tailarek"
+  },
+  {
+    "id": "iyora",
+    "name": "Iyora",
+    "district": "tailarek"
+  },
+  {
+    "id": "budliem",
+    "name": "Budliem",
+    "district": "tailarek"
+  },
+  {
+    "id": "huluaima",
+    "name": "Huluaima",
+    "district": "tailarek"
+  }
+]

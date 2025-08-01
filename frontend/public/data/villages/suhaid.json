@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jongkong-hulu",
+    "name": "Jongkong Hulu",
+    "district": "suhaid"
+  },
+  {
+    "id": "kerengas",
+    "name": "Kerengas",
+    "district": "suhaid"
+  },
+  {
+    "id": "mensusai",
+    "name": "Mensusai",
+    "district": "suhaid"
+  },
+  {
+    "id": "mantan",
+    "name": "Mantan",
+    "district": "suhaid"
+  },
+  {
+    "id": "nanga-suhaid",
+    "name": "Nanga Suhaid",
+    "district": "suhaid"
+  },
+  {
+    "id": "madang-permai",
+    "name": "Madang Permai",
+    "district": "suhaid"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "suhaid"
+  },
+  {
+    "id": "laut-tawang",
+    "name": "Laut Tawang",
+    "district": "suhaid"
+  },
+  {
+    "id": "menapar",
+    "name": "Menapar",
+    "district": "suhaid"
+  },
+  {
+    "id": "lubuk-pengail",
+    "name": "Lubuk Pengail",
+    "district": "suhaid"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "suhaid"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "hajimena",
+    "name": "Hajimena",
+    "district": "natar"
+  },
+  {
+    "id": "sidosari",
+    "name": "Sidosari",
+    "district": "natar"
+  },
+  {
+    "id": "pemanggilan",
+    "name": "Pemanggilan",
+    "district": "natar"
+  },
+  {
+    "id": "natar",
+    "name": "Natar",
+    "district": "natar"
+  },
+  {
+    "id": "merak-batin",
+    "name": "Merak Batin",
+    "district": "natar"
+  },
+  {
+    "id": "krawang-sari",
+    "name": "Krawang Sari",
+    "district": "natar"
+  },
+  {
+    "id": "muara-putih",
+    "name": "Muara Putih",
+    "district": "natar"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "natar"
+  },
+  {
+    "id": "negara-ratu",
+    "name": "Negara Ratu",
+    "district": "natar"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "natar"
+  },
+  {
+    "id": "bumisari",
+    "name": "Bumisari",
+    "district": "natar"
+  },
+  {
+    "id": "candi-mas",
+    "name": "Candi Mas",
+    "district": "natar"
+  },
+  {
+    "id": "pancasila",
+    "name": "Pancasila",
+    "district": "natar"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "natar"
+  },
+  {
+    "id": "bandarejo",
+    "name": "Bandarejo",
+    "district": "natar"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "natar"
+  },
+  {
+    "id": "rulung-raya",
+    "name": "Rulung Raya",
+    "district": "natar"
+  },
+  {
+    "id": "brantiraya",
+    "name": "Brantiraya",
+    "district": "natar"
+  },
+  {
+    "id": "haduyang",
+    "name": "Haduyang",
+    "district": "natar"
+  },
+  {
+    "id": "banjarnegeri",
+    "name": "Banjarnegeri",
+    "district": "natar"
+  },
+  {
+    "id": "mandah",
+    "name": "Mandah",
+    "district": "natar"
+  },
+  {
+    "id": "rulunghelok",
+    "name": "Rulunghelok",
+    "district": "natar"
+  },
+  {
+    "id": "kali-sari",
+    "name": "Kali Sari",
+    "district": "natar"
+  },
+  {
+    "id": "wai-sari",
+    "name": "Wai Sari",
+    "district": "natar"
+  },
+  {
+    "id": "rulung-mulya",
+    "name": "Rulung Mulya",
+    "district": "natar"
+  },
+  {
+    "id": "rulung-sari",
+    "name": "Rulung Sari",
+    "district": "natar"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "batu-sembilan",
+    "name": "Batu Sembilan",
+    "district": "tanjungpinang-timur"
+  },
+  {
+    "id": "melayu-kota-piring",
+    "name": "Melayu Kota Piring",
+    "district": "tanjungpinang-timur"
+  },
+  {
+    "id": "air-raja",
+    "name": "Air Raja",
+    "district": "tanjungpinang-timur"
+  },
+  {
+    "id": "pinang-kencana",
+    "name": "Pinang Kencana",
+    "district": "tanjungpinang-timur"
+  },
+  {
+    "id": "kampung-bulang",
+    "name": "Kampung Bulang",
+    "district": "tanjungpinang-timur"
+  }
+]

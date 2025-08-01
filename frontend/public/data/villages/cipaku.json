@@ -1,0 +1,67 @@
+[
+  {
+    "id": "muktisari",
+    "name": "Muktisari",
+    "district": "cipaku"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cipaku"
+  },
+  {
+    "id": "buniseuri",
+    "name": "Buniseuri",
+    "district": "cipaku"
+  },
+  {
+    "id": "pusakasari",
+    "name": "Pusakasari",
+    "district": "cipaku"
+  },
+  {
+    "id": "jalatrang",
+    "name": "Jalatrang",
+    "district": "cipaku"
+  },
+  {
+    "id": "sukawening",
+    "name": "Sukawening",
+    "district": "cipaku"
+  },
+  {
+    "id": "cipaku",
+    "name": "Cipaku",
+    "district": "cipaku"
+  },
+  {
+    "id": "bangbayang",
+    "name": "Bangbayang",
+    "district": "cipaku"
+  },
+  {
+    "id": "cieurih",
+    "name": "Cieurih",
+    "district": "cipaku"
+  },
+  {
+    "id": "selamanik",
+    "name": "Selamanik",
+    "district": "cipaku"
+  },
+  {
+    "id": "selacai",
+    "name": "Selacai",
+    "district": "cipaku"
+  },
+  {
+    "id": "gereba",
+    "name": "Gereba",
+    "district": "cipaku"
+  },
+  {
+    "id": "ciakar",
+    "name": "Ciakar",
+    "district": "cipaku"
+  }
+]

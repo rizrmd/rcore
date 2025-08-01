@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sangkima",
+    "name": "Sangkima",
+    "district": "sangatta-selatan"
+  },
+  {
+    "id": "sangatta-selatan",
+    "name": "Sangatta Selatan",
+    "district": "sangatta-selatan"
+  },
+  {
+    "id": "singa-geweh",
+    "name": "Singa Geweh",
+    "district": "sangatta-selatan"
+  },
+  {
+    "id": "teluk-singkama",
+    "name": "Teluk Singkama",
+    "district": "sangatta-selatan"
+  }
+]

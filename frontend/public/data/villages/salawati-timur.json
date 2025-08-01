@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ninjimor",
+    "name": "Ninjimor",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "klasof",
+    "name": "Klasof",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "klawoton",
+    "name": "Klawoton",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "klaforo",
+    "name": "Klaforo",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "klafdalim",
+    "name": "Klafdalim",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "klasari",
+    "name": "Klasari",
+    "district": "salawati-timur"
+  },
+  {
+    "id": "wonosobo",
+    "name": "Wonosobo",
+    "district": "salawati-timur"
+  }
+]

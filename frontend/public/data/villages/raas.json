@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ketupat",
+    "name": "Ketupat",
+    "district": "raas"
+  },
+  {
+    "id": "jungkat",
+    "name": "Jungkat",
+    "district": "raas"
+  },
+  {
+    "id": "karopoh",
+    "name": "Karopoh",
+    "district": "raas"
+  },
+  {
+    "id": "karangnangka",
+    "name": "Karangnangka",
+    "district": "raas"
+  },
+  {
+    "id": "alasmalang",
+    "name": "Alasmalang",
+    "district": "raas"
+  },
+  {
+    "id": "poteran",
+    "name": "Poteran",
+    "district": "raas"
+  },
+  {
+    "id": "brakas",
+    "name": "Brakas",
+    "district": "raas"
+  },
+  {
+    "id": "tonduk",
+    "name": "Tonduk",
+    "district": "raas"
+  },
+  {
+    "id": "guwa-guwa",
+    "name": "Guwa Guwa",
+    "district": "raas"
+  }
+]

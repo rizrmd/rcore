@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wara-selatan",
+    "name": "Wara Selatan",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "sendana",
+    "name": "Sendana",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "wara",
+    "name": "Wara",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "wara-timur",
+    "name": "Wara Timur",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "mungkajang",
+    "name": "Mungkajang",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "wara-utara",
+    "name": "Wara Utara",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "bara",
+    "name": "Bara",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "telluwanua",
+    "name": "Telluwanua",
+    "regency": "kota-palopo"
+  },
+  {
+    "id": "wara-barat",
+    "name": "Wara Barat",
+    "regency": "kota-palopo"
+  }
+]

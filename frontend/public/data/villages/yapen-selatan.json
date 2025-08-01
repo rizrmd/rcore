@@ -1,0 +1,62 @@
+[
+  {
+    "id": "banawa",
+    "name": "Banawa",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "serui-laut",
+    "name": "Serui Laut",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "pasir-hitam",
+    "name": "Pasir Hitam",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "tarau",
+    "name": "Tarau",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "serui-kota",
+    "name": "Serui Kota",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "serui-jaya",
+    "name": "Serui Jaya",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "barawaikap",
+    "name": "Barawaikap",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "nundawipi",
+    "name": "Nundawipi",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "bawai",
+    "name": "Bawai",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "manaini",
+    "name": "Manaini",
+    "district": "yapen-selatan"
+  },
+  {
+    "id": "imandoa",
+    "name": "Imandoa",
+    "district": "yapen-selatan"
+  }
+]

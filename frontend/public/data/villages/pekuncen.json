@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cibangkong",
+    "name": "Cibangkong",
+    "district": "pekuncen"
+  },
+  {
+    "id": "petahunan",
+    "name": "Petahunan",
+    "district": "pekuncen"
+  },
+  {
+    "id": "semedo",
+    "name": "Semedo",
+    "district": "pekuncen"
+  },
+  {
+    "id": "cikawung",
+    "name": "Cikawung",
+    "district": "pekuncen"
+  },
+  {
+    "id": "karangklesem",
+    "name": "Karangklesem",
+    "district": "pekuncen"
+  },
+  {
+    "id": "candinegara",
+    "name": "Candinegara",
+    "district": "pekuncen"
+  },
+  {
+    "id": "cikembulan",
+    "name": "Cikembulan",
+    "district": "pekuncen"
+  },
+  {
+    "id": "tumiyang",
+    "name": "Tumiyang",
+    "district": "pekuncen"
+  },
+  {
+    "id": "glempang",
+    "name": "Glempang",
+    "district": "pekuncen"
+  },
+  {
+    "id": "pasiraman-lor",
+    "name": "Pasiraman Lor",
+    "district": "pekuncen"
+  },
+  {
+    "id": "pasiraman-kidul",
+    "name": "Pasiraman Kidul",
+    "district": "pekuncen"
+  },
+  {
+    "id": "banjaranyar",
+    "name": "Banjaranyar",
+    "district": "pekuncen"
+  },
+  {
+    "id": "karangkemiri",
+    "name": "Karangkemiri",
+    "district": "pekuncen"
+  },
+  {
+    "id": "kranggan",
+    "name": "Kranggan",
+    "district": "pekuncen"
+  },
+  {
+    "id": "krajan",
+    "name": "Krajan",
+    "district": "pekuncen"
+  }
+]

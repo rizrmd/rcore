@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bulasat",
+    "name": "Bulasat",
+    "district": "pagai-selatan"
+  },
+  {
+    "id": "sinaka",
+    "name": "Sinaka",
+    "district": "pagai-selatan"
+  },
+  {
+    "id": "makalo",
+    "name": "Makalo",
+    "district": "pagai-selatan"
+  },
+  {
+    "id": "malakopa",
+    "name": "Malakopa",
+    "district": "pagai-selatan"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "taram",
+    "name": "Taram",
+    "district": "harau"
+  },
+  {
+    "id": "bukik-limbuku",
+    "name": "Bukik Limbuku",
+    "district": "harau"
+  },
+  {
+    "id": "pilubang",
+    "name": "Pilubang",
+    "district": "harau"
+  },
+  {
+    "id": "batu-balang",
+    "name": "Batu Balang",
+    "district": "harau"
+  },
+  {
+    "id": "koto-tuo",
+    "name": "Koto Tuo",
+    "district": "harau"
+  },
+  {
+    "id": "lubuak-batingkok",
+    "name": "Lubuak Batingkok",
+    "district": "harau"
+  },
+  {
+    "id": "gurun",
+    "name": "Gurun",
+    "district": "harau"
+  },
+  {
+    "id": "sarilamak",
+    "name": "Sarilamak",
+    "district": "harau"
+  },
+  {
+    "id": "tarantang",
+    "name": "Tarantang",
+    "district": "harau"
+  },
+  {
+    "id": "solok-bio-bio",
+    "name": "Solok Bio-Bio",
+    "district": "harau"
+  },
+  {
+    "id": "harau",
+    "name": "Harau",
+    "district": "harau"
+  }
+]

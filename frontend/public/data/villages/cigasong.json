@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kawunghilir",
+    "name": "Kawunghilir",
+    "district": "cigasong"
+  },
+  {
+    "id": "tajur",
+    "name": "Tajur",
+    "district": "cigasong"
+  },
+  {
+    "id": "cigasong",
+    "name": "Cigasong",
+    "district": "cigasong"
+  },
+  {
+    "id": "simpeureum",
+    "name": "Simpeureum",
+    "district": "cigasong"
+  },
+  {
+    "id": "tenjolayar",
+    "name": "Tenjolayar",
+    "district": "cigasong"
+  },
+  {
+    "id": "kutamanggu",
+    "name": "Kutamanggu",
+    "district": "cigasong"
+  },
+  {
+    "id": "cicenang",
+    "name": "Cicenang",
+    "district": "cigasong"
+  },
+  {
+    "id": "baribis",
+    "name": "Baribis",
+    "district": "cigasong"
+  },
+  {
+    "id": "batujaya",
+    "name": "Batujaya",
+    "district": "cigasong"
+  },
+  {
+    "id": "karayunan",
+    "name": "Karayunan",
+    "district": "cigasong"
+  }
+]

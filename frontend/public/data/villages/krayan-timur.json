@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "long-umung",
+    "name": "Long Umung",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-kebuan",
+    "name": "Pa Kebuan",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-betung",
+    "name": "Pa Betung",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "bungayan",
+    "name": "Bungayan",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "wa-yagung",
+    "name": "Wa Yagung",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-melade",
+    "name": "Pa Melade",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "long-sepayang",
+    "name": "Long Sepayang",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-umung",
+    "name": "Pa Umung",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-pawan",
+    "name": "Pa Pawan",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "long-nuat",
+    "name": "Long Nuat",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "long-tenem",
+    "name": "Long Tenem",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-lidung",
+    "name": "Pa Lidung",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-rangeb",
+    "name": "Pa Rangeb",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-raye",
+    "name": "Pa Raye",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "pa-pala",
+    "name": "Pa Pala",
+    "district": "krayan-timur"
+  },
+  {
+    "id": "sinar-baru",
+    "name": "Sinar Baru",
+    "district": "krayan-timur"
+  }
+]

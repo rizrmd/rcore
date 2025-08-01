@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sabau",
+    "name": "Sabau",
+    "district": "samalantan"
+  },
+  {
+    "id": "tumiang",
+    "name": "Tumiang",
+    "district": "samalantan"
+  },
+  {
+    "id": "pastijaya",
+    "name": "Pastijaya",
+    "district": "samalantan"
+  },
+  {
+    "id": "babane",
+    "name": "Babane",
+    "district": "samalantan"
+  },
+  {
+    "id": "bukit-serayan",
+    "name": "Bukit Serayan",
+    "district": "samalantan"
+  },
+  {
+    "id": "marunsu",
+    "name": "Marunsu",
+    "district": "samalantan"
+  },
+  {
+    "id": "samalantan",
+    "name": "Samalantan",
+    "district": "samalantan"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mangunjaya",
+    "name": "Mangunjaya",
+    "district": "anjatan"
+  },
+  {
+    "id": "bugistua",
+    "name": "Bugistua",
+    "district": "anjatan"
+  },
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "district": "anjatan"
+  },
+  {
+    "id": "salamdarma",
+    "name": "Salamdarma",
+    "district": "anjatan"
+  },
+  {
+    "id": "wanguk",
+    "name": "Wanguk",
+    "district": "anjatan"
+  },
+  {
+    "id": "lempuyang",
+    "name": "Lempuyang",
+    "district": "anjatan"
+  },
+  {
+    "id": "kopyah",
+    "name": "Kopyah",
+    "district": "anjatan"
+  },
+  {
+    "id": "anjatan-baru",
+    "name": "Anjatan Baru",
+    "district": "anjatan"
+  },
+  {
+    "id": "anjatan",
+    "name": "Anjatan",
+    "district": "anjatan"
+  },
+  {
+    "id": "cilandak",
+    "name": "Cilandak",
+    "district": "anjatan"
+  },
+  {
+    "id": "cilandak-lor",
+    "name": "Cilandak Lor",
+    "district": "anjatan"
+  },
+  {
+    "id": "anjatan-utara",
+    "name": "Anjatan Utara",
+    "district": "anjatan"
+  }
+]

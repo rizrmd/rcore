@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tangagah",
+    "name": "Tangagah",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "dudepo",
+    "name": "Dudepo",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "pinolantungan",
+    "name": "Pinolantungan",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "salongo",
+    "name": "Salongo",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "soguo",
+    "name": "Soguo",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "toluaya",
+    "name": "Toluaya",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "molibagu",
+    "name": "Molibagu",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "popodu",
+    "name": "Popodu",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "sondana",
+    "name": "Sondana",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "tolondadu-ii",
+    "name": "Tolondadu Ii",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "tolondadu-i",
+    "name": "Tolondadu I",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "tolondadu",
+    "name": "Tolondadu",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "tabilaa",
+    "name": "Tabilaa",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "pintadia",
+    "name": "Pintadia",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "salongo-timur",
+    "name": "Salongo Timur",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "salongo-barat",
+    "name": "Salongo Barat",
+    "district": "bolang-uki"
+  },
+  {
+    "id": "dudepo-barat",
+    "name": "Dudepo Barat",
+    "district": "bolang-uki"
+  }
+]

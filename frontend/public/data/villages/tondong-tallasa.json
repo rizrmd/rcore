@@ -1,0 +1,27 @@
+[
+  {
+    "id": "malaka",
+    "name": "Malaka",
+    "district": "tondong-tallasa"
+  },
+  {
+    "id": "bantimurung",
+    "name": "Bantimurung",
+    "district": "tondong-tallasa"
+  },
+  {
+    "id": "tondongkura",
+    "name": "Tondongkura",
+    "district": "tondong-tallasa"
+  },
+  {
+    "id": "lanne",
+    "name": "Lanne",
+    "district": "tondong-tallasa"
+  },
+  {
+    "id": "bonto-birao",
+    "name": "Bonto Birao",
+    "district": "tondong-tallasa"
+  }
+]

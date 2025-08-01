@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bale",
+    "name": "Bale",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "ori",
+    "name": "Ori",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "igobula",
+    "name": "Igobula",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "soakonora",
+    "name": "Soakonora",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "togawa",
+    "name": "Togawa",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "togawa-besi",
+    "name": "Togawa Besi",
+    "district": "galela-selatan"
+  },
+  {
+    "id": "seki",
+    "name": "Seki",
+    "district": "galela-selatan"
+  }
+]

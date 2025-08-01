@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mengkirau",
+    "name": "Mengkirau",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "mengkopot",
+    "name": "Mengkopot",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "tanjung-pisang",
+    "name": "Tanjung Pisang",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "selat-akar",
+    "name": "Selat Akar",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "bandul",
+    "name": "Bandul",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "kudap",
+    "name": "Kudap",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "dedap",
+    "name": "Dedap",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "mekar-delima",
+    "name": "Mekar Delima",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "putri-puyu",
+    "name": "Putri Puyu",
+    "district": "tasik-putri-puyu"
+  },
+  {
+    "id": "tanjung-padang",
+    "name": "Tanjung Padang",
+    "district": "tasik-putri-puyu"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "muncan",
+    "name": "Muncan",
+    "district": "selat"
+  },
+  {
+    "id": "pering-sari",
+    "name": "Pering Sari",
+    "district": "selat"
+  },
+  {
+    "id": "selat",
+    "name": "Selat",
+    "district": "selat"
+  },
+  {
+    "id": "duda",
+    "name": "Duda",
+    "district": "selat"
+  },
+  {
+    "id": "duda-timur",
+    "name": "Duda Timur",
+    "district": "selat"
+  },
+  {
+    "id": "duda-utara",
+    "name": "Duda Utara",
+    "district": "selat"
+  },
+  {
+    "id": "sebudi",
+    "name": "Sebudi",
+    "district": "selat"
+  },
+  {
+    "id": "amerta-bhuana",
+    "name": "Amerta Bhuana",
+    "district": "selat"
+  },
+  {
+    "id": "murung-keramat",
+    "name": "Murung Keramat",
+    "district": "selat"
+  },
+  {
+    "id": "selat-hilir",
+    "name": "Selat Hilir",
+    "district": "selat"
+  },
+  {
+    "id": "selat-tengah",
+    "name": "Selat Tengah",
+    "district": "selat"
+  },
+  {
+    "id": "selat-hulu",
+    "name": "Selat Hulu",
+    "district": "selat"
+  },
+  {
+    "id": "selat-dalam",
+    "name": "Selat Dalam",
+    "district": "selat"
+  },
+  {
+    "id": "pulau-telo",
+    "name": "Pulau Telo",
+    "district": "selat"
+  },
+  {
+    "id": "panamas",
+    "name": "Panamas",
+    "district": "selat"
+  },
+  {
+    "id": "selat-barat",
+    "name": "Selat Barat",
+    "district": "selat"
+  },
+  {
+    "id": "selat-utara",
+    "name": "Selat Utara",
+    "district": "selat"
+  },
+  {
+    "id": "pulau-telo-baru",
+    "name": "Pulau Telo Baru",
+    "district": "selat"
+  }
+]

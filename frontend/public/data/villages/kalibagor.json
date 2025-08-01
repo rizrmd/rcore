@@ -1,0 +1,62 @@
+[
+  {
+    "id": "srowot",
+    "name": "Srowot",
+    "district": "kalibagor"
+  },
+  {
+    "id": "suro",
+    "name": "Suro",
+    "district": "kalibagor"
+  },
+  {
+    "id": "kaliori",
+    "name": "Kaliori",
+    "district": "kalibagor"
+  },
+  {
+    "id": "wlahar-wetan",
+    "name": "Wlahar Wetan",
+    "district": "kalibagor"
+  },
+  {
+    "id": "pekaja",
+    "name": "Pekaja",
+    "district": "kalibagor"
+  },
+  {
+    "id": "karangdadap",
+    "name": "Karangdadap",
+    "district": "kalibagor"
+  },
+  {
+    "id": "kalibagor",
+    "name": "Kalibagor",
+    "district": "kalibagor"
+  },
+  {
+    "id": "pajerukan",
+    "name": "Pajerukan",
+    "district": "kalibagor"
+  },
+  {
+    "id": "petir",
+    "name": "Petir",
+    "district": "kalibagor"
+  },
+  {
+    "id": "kalicupak-kidul",
+    "name": "Kalicupak Kidul",
+    "district": "kalibagor"
+  },
+  {
+    "id": "kalicupak-lor",
+    "name": "Kalicupak Lor",
+    "district": "kalibagor"
+  },
+  {
+    "id": "kalisogra-wetan",
+    "name": "Kalisogra Wetan",
+    "district": "kalibagor"
+  }
+]

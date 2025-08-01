@@ -1,0 +1,37 @@
+[
+  {
+    "id": "aikima",
+    "name": "Aikima",
+    "district": "pisugi"
+  },
+  {
+    "id": "okoloma",
+    "name": "Okoloma",
+    "district": "pisugi"
+  },
+  {
+    "id": "pabuma",
+    "name": "Pabuma",
+    "district": "pisugi"
+  },
+  {
+    "id": "wara",
+    "name": "Wara",
+    "district": "pisugi"
+  },
+  {
+    "id": "pikhe",
+    "name": "Pikhe",
+    "district": "pisugi"
+  },
+  {
+    "id": "akiaput",
+    "name": "Akiaput",
+    "district": "pisugi"
+  },
+  {
+    "id": "suroba",
+    "name": "Suroba",
+    "district": "pisugi"
+  }
+]

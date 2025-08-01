@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rantau-makmur",
+    "name": "Rantau Makmur",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "mukti-jaya",
+    "name": "Mukti Jaya",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "tanjung-labu",
+    "name": "Tanjung Labu",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "kebon-agung",
+    "name": "Kebon Agung",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "manunggal-jaya",
+    "name": "Manunggal Jaya",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "tepian-makmur",
+    "name": "Tepian Makmur",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "pulung-sari",
+    "name": "Pulung Sari",
+    "district": "rantau-pulung"
+  },
+  {
+    "id": "margo-mulyo",
+    "name": "Margo Mulyo",
+    "district": "rantau-pulung"
+  }
+]

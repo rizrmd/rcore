@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kopo",
+    "name": "Kopo",
+    "district": "bojongloa-kaler"
+  },
+  {
+    "id": "suka-asih",
+    "name": "Suka Asih",
+    "district": "bojongloa-kaler"
+  },
+  {
+    "id": "babakan-asih",
+    "name": "Babakan Asih",
+    "district": "bojongloa-kaler"
+  },
+  {
+    "id": "babakan-tarogong",
+    "name": "Babakan Tarogong",
+    "district": "bojongloa-kaler"
+  },
+  {
+    "id": "jamika",
+    "name": "Jamika",
+    "district": "bojongloa-kaler"
+  }
+]

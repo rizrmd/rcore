@@ -1,0 +1,87 @@
+[
+  {
+    "id": "nagaraja-i",
+    "name": "Nagaraja I",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "limbong",
+    "name": "Limbong",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "panglong",
+    "name": "Panglong",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "gunung-para",
+    "name": "Gunung Para",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "dolok-merawan",
+    "name": "Dolok Merawan",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "paritokan",
+    "name": "Paritokan",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "kalembak",
+    "name": "Kalembak",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "bandarawan",
+    "name": "Bandarawan",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "pabatu-vi",
+    "name": "Pabatu Vi",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "pabatu-i",
+    "name": "Pabatu I",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "pabatu-ii",
+    "name": "Pabatu Ii",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "mainu-tongah",
+    "name": "Mainu Tongah",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "afdeling-vi-dolok-ilir",
+    "name": "Afdeling Vi Dolok Ilir",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "afdeling-vii-dolok-ilir",
+    "name": "Afdeling Vii Dolok Ilir",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "bah-damar",
+    "name": "Bah Damar",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "pabatu-iii",
+    "name": "Pabatu Iii",
+    "district": "dolok-merawan"
+  },
+  {
+    "id": "korajim",
+    "name": "Korajim",
+    "district": "dolok-merawan"
+  }
+]

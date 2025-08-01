@@ -1,0 +1,37 @@
+[
+  {
+    "id": "muara-joloi-i",
+    "name": "Muara Joloi I",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "muara-joloi-ii",
+    "name": "Muara Joloi Ii",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "parahau",
+    "name": "Parahau",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "tumbang-naan",
+    "name": "Tumbang Naan",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "tumbang-tohan",
+    "name": "Tumbang Tohan",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "tumbang-jojang",
+    "name": "Tumbang Jojang",
+    "district": "seribu-riam"
+  },
+  {
+    "id": "takajung",
+    "name": "Takajung",
+    "district": "seribu-riam"
+  }
+]

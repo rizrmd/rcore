@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dambalo",
+    "name": "Dambalo",
+    "district": "tomilito"
+  },
+  {
+    "id": "molantadu",
+    "name": "Molantadu",
+    "district": "tomilito"
+  },
+  {
+    "id": "tanjung-karang",
+    "name": "Tanjung Karang",
+    "district": "tomilito"
+  },
+  {
+    "id": "jembatan-merah",
+    "name": "Jembatan Merah",
+    "district": "tomilito"
+  },
+  {
+    "id": "leyao",
+    "name": "Leyao",
+    "district": "tomilito"
+  },
+  {
+    "id": "milango",
+    "name": "Milango",
+    "district": "tomilito"
+  },
+  {
+    "id": "bubode",
+    "name": "Bubode",
+    "district": "tomilito"
+  },
+  {
+    "id": "bulango-raya",
+    "name": "Bulango Raya",
+    "district": "tomilito"
+  },
+  {
+    "id": "huidu-melito",
+    "name": "Huidu Melito",
+    "district": "tomilito"
+  },
+  {
+    "id": "mutiara-laut",
+    "name": "Mutiara Laut",
+    "district": "tomilito"
+  }
+]

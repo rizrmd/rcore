@@ -1,0 +1,37 @@
+[
+  {
+    "id": "teluk-sono",
+    "name": "Teluk Sono",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "rawa-makmur",
+    "name": "Rawa Makmur",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "sontang",
+    "name": "Sontang",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "bonai",
+    "name": "Bonai",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "kasang-padang",
+    "name": "Kasang Padang",
+    "district": "bonai-darussalam"
+  },
+  {
+    "id": "kasang-mungkal",
+    "name": "Kasang Mungkal",
+    "district": "bonai-darussalam"
+  }
+]

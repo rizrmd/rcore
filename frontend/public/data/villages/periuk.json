@@ -1,0 +1,27 @@
+[
+  {
+    "id": "gembor",
+    "name": "Gembor",
+    "district": "periuk"
+  },
+  {
+    "id": "gebang-raya",
+    "name": "Gebang Raya",
+    "district": "periuk"
+  },
+  {
+    "id": "sangiang-jaya",
+    "name": "Sangiang Jaya",
+    "district": "periuk"
+  },
+  {
+    "id": "periuk",
+    "name": "Periuk",
+    "district": "periuk"
+  },
+  {
+    "id": "periuk-jaya",
+    "name": "Periuk Jaya",
+    "district": "periuk"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "harapan-mulia",
+    "name": "Harapan Mulia",
+    "district": "muara-belida"
+  },
+  {
+    "id": "arisan-musi",
+    "name": "Arisan Musi",
+    "district": "muara-belida"
+  },
+  {
+    "id": "gedung-buruk",
+    "name": "Gedung Buruk",
+    "district": "muara-belida"
+  },
+  {
+    "id": "kayu-ara-batu",
+    "name": "Kayu Ara Batu",
+    "district": "muara-belida"
+  },
+  {
+    "id": "arisan-musi-timur",
+    "name": "Arisan Musi Timur",
+    "district": "muara-belida"
+  },
+  {
+    "id": "patra-tani",
+    "name": "Patra Tani",
+    "district": "muara-belida"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "muara-belida"
+  },
+  {
+    "id": "mulia-abadi",
+    "name": "Mulia Abadi",
+    "district": "muara-belida"
+  }
+]

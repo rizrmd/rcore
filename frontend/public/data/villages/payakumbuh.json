@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sungai-baringin",
+    "name": "Sungai Baringin",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "koto-baru-simalanggang",
+    "name": "Koto Baru Simalanggang",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "simalanggang",
+    "name": "Simalanggang",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "koto-tangah-simalanggang",
+    "name": "Koto Tangah Simalanggang",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "taeh-baruah",
+    "name": "Taeh Baruah",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "piobang",
+    "name": "Piobang",
+    "district": "payakumbuh"
+  },
+  {
+    "id": "taeh-bukik",
+    "name": "Taeh Bukik",
+    "district": "payakumbuh"
+  }
+]

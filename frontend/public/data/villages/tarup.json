@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tarup",
+    "name": "Tarup",
+    "district": "tarup"
+  },
+  {
+    "id": "marantikin",
+    "name": "Marantikin",
+    "district": "tarup"
+  },
+  {
+    "id": "imsin",
+    "name": "Imsin",
+    "district": "tarup"
+  },
+  {
+    "id": "bitipding",
+    "name": "Bitipding",
+    "district": "tarup"
+  },
+  {
+    "id": "onkor",
+    "name": "Onkor",
+    "district": "tarup"
+  },
+  {
+    "id": "omor",
+    "name": "Omor",
+    "district": "tarup"
+  }
+]

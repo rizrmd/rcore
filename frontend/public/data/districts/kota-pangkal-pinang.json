@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rangkui",
+    "name": "Rangkui",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "bukit-intan",
+    "name": "Bukit Intan",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "girimaya",
+    "name": "Girimaya",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "pangkal-balam",
+    "name": "Pangkal Balam",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "gabek",
+    "name": "Gabek",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "regency": "kota-pangkal-pinang"
+  },
+  {
+    "id": "gerunggang",
+    "name": "Gerunggang",
+    "regency": "kota-pangkal-pinang"
+  }
+]

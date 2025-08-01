@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sukamandijaya",
+    "name": "Sukamandijaya",
+    "district": "ciasem"
+  },
+  {
+    "id": "ciasem-tengah",
+    "name": "Ciasem Tengah",
+    "district": "ciasem"
+  },
+  {
+    "id": "jatibaru",
+    "name": "Jatibaru",
+    "district": "ciasem"
+  },
+  {
+    "id": "ciasem-hilir",
+    "name": "Ciasem Hilir",
+    "district": "ciasem"
+  },
+  {
+    "id": "ciasem-baru",
+    "name": "Ciasem Baru",
+    "district": "ciasem"
+  },
+  {
+    "id": "ciasem-girang",
+    "name": "Ciasem Girang",
+    "district": "ciasem"
+  },
+  {
+    "id": "sukahaji",
+    "name": "Sukahaji",
+    "district": "ciasem"
+  },
+  {
+    "id": "pinangsari",
+    "name": "Pinangsari",
+    "district": "ciasem"
+  }
+]

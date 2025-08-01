@@ -1,0 +1,42 @@
+[
+  {
+    "id": "merempan-hilir",
+    "name": "Merempan Hilir",
+    "district": "mempura"
+  },
+  {
+    "id": "sungai-mempura",
+    "name": "Sungai Mempura",
+    "district": "mempura"
+  },
+  {
+    "id": "kampung-tengah",
+    "name": "Kampung Tengah",
+    "district": "mempura"
+  },
+  {
+    "id": "benteng-hulu",
+    "name": "Benteng Hulu",
+    "district": "mempura"
+  },
+  {
+    "id": "benteng-hilir",
+    "name": "Benteng Hilir",
+    "district": "mempura"
+  },
+  {
+    "id": "paluh",
+    "name": "Paluh",
+    "district": "mempura"
+  },
+  {
+    "id": "kota-ringin",
+    "name": "Kota Ringin",
+    "district": "mempura"
+  },
+  {
+    "id": "teluk-merempan",
+    "name": "Teluk Merempan",
+    "district": "mempura"
+  }
+]

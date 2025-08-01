@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tegal-badeng-barat",
+    "name": "Tegal Badeng Barat",
+    "district": "negara"
+  },
+  {
+    "id": "tegal-badeng-timur",
+    "name": "Tegal Badeng Timur",
+    "district": "negara"
+  },
+  {
+    "id": "pengambengan",
+    "name": "Pengambengan",
+    "district": "negara"
+  },
+  {
+    "id": "loloan-barat",
+    "name": "Loloan Barat",
+    "district": "negara"
+  },
+  {
+    "id": "lelateng",
+    "name": "Lelateng",
+    "district": "negara"
+  },
+  {
+    "id": "banjar-tengah",
+    "name": "Banjar Tengah",
+    "district": "negara"
+  },
+  {
+    "id": "baluk",
+    "name": "Baluk",
+    "district": "negara"
+  },
+  {
+    "id": "banyubiru",
+    "name": "Banyubiru",
+    "district": "negara"
+  },
+  {
+    "id": "kaliakah",
+    "name": "Kaliakah",
+    "district": "negara"
+  },
+  {
+    "id": "berangbang",
+    "name": "Berangbang",
+    "district": "negara"
+  },
+  {
+    "id": "baler-bale-agung",
+    "name": "Baler Bale Agung",
+    "district": "negara"
+  }
+]

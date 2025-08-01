@@ -1,0 +1,22 @@
+[
+  {
+    "id": "waisai",
+    "name": "Waisai",
+    "district": "kota-waisai"
+  },
+  {
+    "id": "sapordanco",
+    "name": "Sapordanco",
+    "district": "kota-waisai"
+  },
+  {
+    "id": "bonkawir",
+    "name": "Bonkawir",
+    "district": "kota-waisai"
+  },
+  {
+    "id": "warmasen",
+    "name": "Warmasen",
+    "district": "kota-waisai"
+  }
+]

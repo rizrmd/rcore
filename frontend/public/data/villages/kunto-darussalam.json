@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kota-intan",
+    "name": "Kota Intan",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "kota-lama",
+    "name": "Kota Lama",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "bukit-intan-makmur",
+    "name": "Bukit Intan Makmur",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "bagan-tujuh",
+    "name": "Bagan Tujuh",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "kota-raya",
+    "name": "Kota Raya",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "sungai-kuti",
+    "name": "Sungai Kuti",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "pasir-indah",
+    "name": "Pasir Indah",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "muara-dilam",
+    "name": "Muara Dilam",
+    "district": "kunto-darussalam"
+  },
+  {
+    "id": "pasir-luhur",
+    "name": "Pasir Luhur",
+    "district": "kunto-darussalam"
+  }
+]

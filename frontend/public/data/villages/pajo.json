@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "pajo"
+  },
+  {
+    "id": "upt-woko",
+    "name": "Upt Woko",
+    "district": "pajo"
+  },
+  {
+    "id": "ranggo",
+    "name": "Ranggo",
+    "district": "pajo"
+  },
+  {
+    "id": "lepadi",
+    "name": "Lepadi",
+    "district": "pajo"
+  },
+  {
+    "id": "temba-lae",
+    "name": "Temba Lae",
+    "district": "pajo"
+  }
+]

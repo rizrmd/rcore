@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mapa",
+    "name": "Mapa",
+    "district": "homeyo"
+  },
+  {
+    "id": "bilai-dua",
+    "name": "Bilai Dua",
+    "district": "homeyo"
+  },
+  {
+    "id": "maya",
+    "name": "Maya",
+    "district": "homeyo"
+  },
+  {
+    "id": "degesiga",
+    "name": "Degesiga",
+    "district": "homeyo"
+  },
+  {
+    "id": "pogapa",
+    "name": "Pogapa",
+    "district": "homeyo"
+  },
+  {
+    "id": "bilai-i",
+    "name": "Bilai I",
+    "district": "homeyo"
+  },
+  {
+    "id": "zomban-doga",
+    "name": "Zomban Doga",
+    "district": "homeyo"
+  },
+  {
+    "id": "kobae",
+    "name": "Kobae",
+    "district": "homeyo"
+  },
+  {
+    "id": "selemama",
+    "name": "Selemama",
+    "district": "homeyo"
+  },
+  {
+    "id": "kendetapa",
+    "name": "Kendetapa",
+    "district": "homeyo"
+  },
+  {
+    "id": "hiyabu",
+    "name": "Hiyabu",
+    "district": "homeyo"
+  },
+  {
+    "id": "bonogo",
+    "name": "Bonogo",
+    "district": "homeyo"
+  },
+  {
+    "id": "ogeapa",
+    "name": "Ogeapa",
+    "district": "homeyo"
+  },
+  {
+    "id": "engganenga",
+    "name": "Engganenga",
+    "district": "homeyo"
+  },
+  {
+    "id": "agapa",
+    "name": "Agapa",
+    "district": "homeyo"
+  },
+  {
+    "id": "waiagepa",
+    "name": "Waiagepa",
+    "district": "homeyo"
+  },
+  {
+    "id": "bubisiga",
+    "name": "Bubisiga",
+    "district": "homeyo"
+  },
+  {
+    "id": "hugitapa",
+    "name": "Hugitapa",
+    "district": "homeyo"
+  }
+]

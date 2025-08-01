@@ -1,0 +1,27 @@
+[
+  {
+    "id": "waharia",
+    "name": "Waharia",
+    "district": "teluk-kimi"
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "district": "teluk-kimi"
+  },
+  {
+    "id": "samabusa",
+    "name": "Samabusa",
+    "district": "teluk-kimi"
+  },
+  {
+    "id": "lani",
+    "name": "Lani",
+    "district": "teluk-kimi"
+  },
+  {
+    "id": "air-mandidi",
+    "name": "Air Mandidi",
+    "district": "teluk-kimi"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dembe-ii",
+    "name": "Dembe Ii",
+    "district": "kota-utara"
+  },
+  {
+    "id": "wongkaditi",
+    "name": "Wongkaditi",
+    "district": "kota-utara"
+  },
+  {
+    "id": "wongkaditi-barat",
+    "name": "Wongkaditi Barat",
+    "district": "kota-utara"
+  },
+  {
+    "id": "dulomo-selatan",
+    "name": "Dulomo Selatan",
+    "district": "kota-utara"
+  },
+  {
+    "id": "dulomo",
+    "name": "Dulomo",
+    "district": "kota-utara"
+  },
+  {
+    "id": "dembe-jaya",
+    "name": "Dembe Jaya",
+    "district": "kota-utara"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "botot",
+    "name": "Botot",
+    "district": "sorkam"
+  },
+  {
+    "id": "sorkam",
+    "name": "Sorkam",
+    "district": "sorkam"
+  },
+  {
+    "id": "pargarutan",
+    "name": "Pargarutan",
+    "district": "sorkam"
+  },
+  {
+    "id": "tarutung-bolak",
+    "name": "Tarutung Bolak",
+    "district": "sorkam"
+  },
+  {
+    "id": "gonting-mahe",
+    "name": "Gonting Mahe",
+    "district": "sorkam"
+  },
+  {
+    "id": "pardamean",
+    "name": "Pardamean",
+    "district": "sorkam"
+  },
+  {
+    "id": "pelita",
+    "name": "Pelita",
+    "district": "sorkam"
+  },
+  {
+    "id": "fajar",
+    "name": "Fajar",
+    "district": "sorkam"
+  },
+  {
+    "id": "pearaja",
+    "name": "Pearaja",
+    "district": "sorkam"
+  },
+  {
+    "id": "nai-pos-pos-barat",
+    "name": "Nai Pos Pos Barat",
+    "district": "sorkam"
+  },
+  {
+    "id": "rianiate",
+    "name": "Rianiate",
+    "district": "sorkam"
+  },
+  {
+    "id": "dolok-pantis",
+    "name": "Dolok Pantis",
+    "district": "sorkam"
+  },
+  {
+    "id": "teluk-roban",
+    "name": "Teluk Roban",
+    "district": "sorkam"
+  },
+  {
+    "id": "sorkam-kiri",
+    "name": "Sorkam Kiri",
+    "district": "sorkam"
+  },
+  {
+    "id": "sorkam-tengah",
+    "name": "Sorkam Tengah",
+    "district": "sorkam"
+  },
+  {
+    "id": "hite-urat",
+    "name": "Hite Urat",
+    "district": "sorkam"
+  },
+  {
+    "id": "pagaran-julu",
+    "name": "Pagaran Julu",
+    "district": "sorkam"
+  },
+  {
+    "id": "pananggahan",
+    "name": "Pananggahan",
+    "district": "sorkam"
+  },
+  {
+    "id": "sihapas",
+    "name": "Sihapas",
+    "district": "sorkam"
+  },
+  {
+    "id": "nauli",
+    "name": "Nauli",
+    "district": "sorkam"
+  },
+  {
+    "id": "muara-nauli",
+    "name": "Muara Nauli",
+    "district": "sorkam"
+  }
+]

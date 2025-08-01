@@ -1,0 +1,22 @@
+[
+  {
+    "id": "maronge",
+    "name": "Maronge",
+    "district": "maronge"
+  },
+  {
+    "id": "labuhan-sangoro",
+    "name": "Labuhan Sangoro",
+    "district": "maronge"
+  },
+  {
+    "id": "simu",
+    "name": "Simu",
+    "district": "maronge"
+  },
+  {
+    "id": "pemasar",
+    "name": "Pemasar",
+    "district": "maronge"
+  }
+]

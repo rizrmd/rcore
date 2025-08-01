@@ -1,0 +1,37 @@
+[
+  {
+    "id": "japoh",
+    "name": "Japoh",
+    "district": "jenar"
+  },
+  {
+    "id": "ngepringan",
+    "name": "Ngepringan",
+    "district": "jenar"
+  },
+  {
+    "id": "mlale",
+    "name": "Mlale",
+    "district": "jenar"
+  },
+  {
+    "id": "dawung",
+    "name": "Dawung",
+    "district": "jenar"
+  },
+  {
+    "id": "kandang-sapi",
+    "name": "Kandang Sapi",
+    "district": "jenar"
+  },
+  {
+    "id": "jenar",
+    "name": "Jenar",
+    "district": "jenar"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "jenar"
+  }
+]

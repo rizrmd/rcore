@@ -1,0 +1,47 @@
+[
+  {
+    "id": "meuraxa",
+    "name": "Meuraxa",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "jaya-baru",
+    "name": "Jaya Baru",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "banda-raya",
+    "name": "Banda Raya",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "baiturrahman",
+    "name": "Baiturrahman",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "lueng-bata",
+    "name": "Lueng Bata",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "kuta-alam",
+    "name": "Kuta Alam",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "kuta-raja",
+    "name": "Kuta Raja",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "syiah-kuala",
+    "name": "Syiah Kuala",
+    "regency": "kota-banda-aceh"
+  },
+  {
+    "id": "ulee-kareng",
+    "name": "Ulee Kareng",
+    "regency": "kota-banda-aceh"
+  }
+]

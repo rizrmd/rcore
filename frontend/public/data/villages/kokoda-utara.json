@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kayubiro",
+    "name": "Kayubiro",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "udagaga",
+    "name": "Udagaga",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "adona",
+    "name": "Adona",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "benawa-ii",
+    "name": "Benawa Ii",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "atori-kambur",
+    "name": "Atori / Kambur",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "kamundan",
+    "name": "Kamundan",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "bubuko",
+    "name": "Bubuko",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "karirif",
+    "name": "Karirif",
+    "district": "kokoda-utara"
+  },
+  {
+    "id": "kamundan-ii",
+    "name": "Kamundan Ii",
+    "district": "kokoda-utara"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "toari",
+    "name": "Toari",
+    "district": "toari"
+  },
+  {
+    "id": "lakito",
+    "name": "Lakito",
+    "district": "toari"
+  },
+  {
+    "id": "ranomentaa",
+    "name": "Ranomentaa",
+    "district": "toari"
+  },
+  {
+    "id": "wowoli",
+    "name": "Wowoli",
+    "district": "toari"
+  },
+  {
+    "id": "anawua",
+    "name": "Anawua",
+    "district": "toari"
+  },
+  {
+    "id": "rano-jaya",
+    "name": "Rano Jaya",
+    "district": "toari"
+  },
+  {
+    "id": "horongkuli",
+    "name": "Horongkuli",
+    "district": "toari"
+  },
+  {
+    "id": "wonua-raya",
+    "name": "Wonua Raya",
+    "district": "toari"
+  },
+  {
+    "id": "rahabite",
+    "name": "Rahabite",
+    "district": "toari"
+  },
+  {
+    "id": "rano-sangia",
+    "name": "Rano Sangia",
+    "district": "toari"
+  }
+]

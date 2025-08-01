@@ -1,0 +1,62 @@
+[
+  {
+    "id": "liangkobori",
+    "name": "Liangkobori",
+    "district": "lohia"
+  },
+  {
+    "id": "maabholu",
+    "name": "Maabholu",
+    "district": "lohia"
+  },
+  {
+    "id": "kondongia",
+    "name": "Kondongia",
+    "district": "lohia"
+  },
+  {
+    "id": "waara",
+    "name": "Waara",
+    "district": "lohia"
+  },
+  {
+    "id": "mantobua",
+    "name": "Mantobua",
+    "district": "lohia"
+  },
+  {
+    "id": "korihi",
+    "name": "Korihi",
+    "district": "lohia"
+  },
+  {
+    "id": "lakarinta",
+    "name": "Lakarinta",
+    "district": "lohia"
+  },
+  {
+    "id": "lohia",
+    "name": "Lohia",
+    "district": "lohia"
+  },
+  {
+    "id": "loghiya",
+    "name": "Loghiya",
+    "district": "lohia"
+  },
+  {
+    "id": "lawela",
+    "name": "Lawela",
+    "district": "lohia"
+  },
+  {
+    "id": "kondongia-barat",
+    "name": "Kondongia Barat",
+    "district": "lohia"
+  },
+  {
+    "id": "mantobua-barat",
+    "name": "Mantobua Barat",
+    "district": "lohia"
+  }
+]

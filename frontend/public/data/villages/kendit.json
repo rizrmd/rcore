@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rajekwesi",
+    "name": "Rajekwesi",
+    "district": "kendit"
+  },
+  {
+    "id": "tambak-ukir",
+    "name": "Tambak Ukir",
+    "district": "kendit"
+  },
+  {
+    "id": "bugeman",
+    "name": "Bugeman",
+    "district": "kendit"
+  },
+  {
+    "id": "kendit",
+    "name": "Kendit",
+    "district": "kendit"
+  },
+  {
+    "id": "balung",
+    "name": "Balung",
+    "district": "kendit"
+  },
+  {
+    "id": "kukusan",
+    "name": "Kukusan",
+    "district": "kendit"
+  },
+  {
+    "id": "klatakan",
+    "name": "Klatakan",
+    "district": "kendit"
+  }
+]

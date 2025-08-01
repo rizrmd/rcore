@@ -1,0 +1,32 @@
+[
+  {
+    "id": "marga-bakti",
+    "name": "Marga Bakti",
+    "district": "sinar-peninjauan"
+  },
+  {
+    "id": "karya-mukti",
+    "name": "Karya Mukti",
+    "district": "sinar-peninjauan"
+  },
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "sinar-peninjauan"
+  },
+  {
+    "id": "sri-mulya",
+    "name": "Sri Mulya",
+    "district": "sinar-peninjauan"
+  },
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "sinar-peninjauan"
+  },
+  {
+    "id": "tanjung-makmur",
+    "name": "Tanjung Makmur",
+    "district": "sinar-peninjauan"
+  }
+]

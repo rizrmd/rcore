@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kepau-baru",
+    "name": "Kepau Baru",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "teluk-buntal",
+    "name": "Teluk Buntal",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "tanjung-gadai",
+    "name": "Tanjung Gadai",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "nipah-sendanu",
+    "name": "Nipah Sendanu",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "sungai-tohor",
+    "name": "Sungai Tohor",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "lukun",
+    "name": "Lukun",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "sungai-tohor-barat",
+    "name": "Sungai Tohor Barat",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "sendanu-darul-ihsan",
+    "name": "Sendanu Darul Ihsan",
+    "district": "tebing-tinggi-timur"
+  },
+  {
+    "id": "batin-suir",
+    "name": "Batin Suir",
+    "district": "tebing-tinggi-timur"
+  }
+]

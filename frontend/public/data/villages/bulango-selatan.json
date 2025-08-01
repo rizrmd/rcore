@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ayula-selatan",
+    "name": "Ayula Selatan",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "huntu-selatan",
+    "name": "Huntu Selatan",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "huntu-utara",
+    "name": "Huntu Utara",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "ayula-utara",
+    "name": "Ayula Utara",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "ayula-tilango",
+    "name": "Ayula Tilango",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "lamahu",
+    "name": "Lamahu",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "huntu-barat",
+    "name": "Huntu Barat",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "ayula-timur",
+    "name": "Ayula Timur",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "sejahtera",
+    "name": "Sejahtera",
+    "district": "bulango-selatan"
+  },
+  {
+    "id": "tinelo-ayula",
+    "name": "Tinelo Ayula",
+    "district": "bulango-selatan"
+  }
+]

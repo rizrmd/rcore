@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "medan-maimun"
+  },
+  {
+    "id": "sei-mati",
+    "name": "Sei Mati",
+    "district": "medan-maimun"
+  },
+  {
+    "id": "suka-raja",
+    "name": "Suka Raja",
+    "district": "medan-maimun"
+  },
+  {
+    "id": "j-a-t-i",
+    "name": "J A T I",
+    "district": "medan-maimun"
+  },
+  {
+    "id": "h-a-m-d-a-n",
+    "name": "H A M D A N",
+    "district": "medan-maimun"
+  },
+  {
+    "id": "a-u-r",
+    "name": "A U R",
+    "district": "medan-maimun"
+  }
+]

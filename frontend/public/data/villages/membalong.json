@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pulau-seliu",
+    "name": "Pulau Seliu",
+    "district": "membalong"
+  },
+  {
+    "id": "membalong",
+    "name": "Membalong",
+    "district": "membalong"
+  },
+  {
+    "id": "mentigi",
+    "name": "Mentigi",
+    "district": "membalong"
+  },
+  {
+    "id": "tanjung-rusa",
+    "name": "Tanjung Rusa",
+    "district": "membalong"
+  },
+  {
+    "id": "kembiri",
+    "name": "Kembiri",
+    "district": "membalong"
+  },
+  {
+    "id": "perpat",
+    "name": "Perpat",
+    "district": "membalong"
+  },
+  {
+    "id": "lassar",
+    "name": "Lassar",
+    "district": "membalong"
+  },
+  {
+    "id": "simpang-rusa",
+    "name": "Simpang Rusa",
+    "district": "membalong"
+  },
+  {
+    "id": "bantan",
+    "name": "Bantan",
+    "district": "membalong"
+  },
+  {
+    "id": "pulau-sumedang",
+    "name": "Pulau Sumedang",
+    "district": "membalong"
+  },
+  {
+    "id": "gunung-riting",
+    "name": "Gunung Riting",
+    "district": "membalong"
+  },
+  {
+    "id": "padang-kandis",
+    "name": "Padang Kandis",
+    "district": "membalong"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "cibuaya"
+  },
+  {
+    "id": "kertarahayu",
+    "name": "Kertarahayu",
+    "district": "cibuaya"
+  },
+  {
+    "id": "cibuaya",
+    "name": "Cibuaya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "pejaten",
+    "name": "Pejaten",
+    "district": "cibuaya"
+  },
+  {
+    "id": "kalidungjaya",
+    "name": "Kalidungjaya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "kedungjaya",
+    "name": "Kedungjaya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "jayamulya",
+    "name": "Jayamulya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "gebangjaya",
+    "name": "Gebangjaya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "cemarajaya",
+    "name": "Cemarajaya",
+    "district": "cibuaya"
+  },
+  {
+    "id": "sedari",
+    "name": "Sedari",
+    "district": "cibuaya"
+  }
+]

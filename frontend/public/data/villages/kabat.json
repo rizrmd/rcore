@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "kabat"
+  },
+  {
+    "id": "gombolirang",
+    "name": "Gombolirang",
+    "district": "kabat"
+  },
+  {
+    "id": "benelan-lor",
+    "name": "Benelan Lor",
+    "district": "kabat"
+  },
+  {
+    "id": "labanasem",
+    "name": "Labanasem",
+    "district": "kabat"
+  },
+  {
+    "id": "pakistaji",
+    "name": "Pakistaji",
+    "district": "kabat"
+  },
+  {
+    "id": "pondoknongko",
+    "name": "Pondoknongko",
+    "district": "kabat"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "kabat"
+  },
+  {
+    "id": "kedayunan",
+    "name": "Kedayunan",
+    "district": "kabat"
+  },
+  {
+    "id": "kabat",
+    "name": "Kabat",
+    "district": "kabat"
+  },
+  {
+    "id": "macan-putih",
+    "name": "Macan Putih",
+    "district": "kabat"
+  },
+  {
+    "id": "tambong",
+    "name": "Tambong",
+    "district": "kabat"
+  },
+  {
+    "id": "pendarungan",
+    "name": "Pendarungan",
+    "district": "kabat"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "kabat"
+  }
+]

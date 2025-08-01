@@ -1,0 +1,72 @@
+[
+  {
+    "id": "air-kelinsar",
+    "name": "Air Kelinsar",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "talang-bengkulu",
+    "name": "Talang Bengkulu",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "kunduran",
+    "name": "Kunduran",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "simpang-perigi",
+    "name": "Simpang Perigi",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "muara-kalangan",
+    "name": "Muara Kalangan",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "batu-lintang",
+    "name": "Batu Lintang",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "galang",
+    "name": "Galang",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "padang-tepong",
+    "name": "Padang Tepong",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "muara-betung",
+    "name": "Muara Betung",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "pulau-kemang",
+    "name": "Pulau Kemang",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "lubuk-puding-baru",
+    "name": "Lubuk Puding Baru",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "lubuk-puding-lama",
+    "name": "Lubuk Puding Lama",
+    "district": "ulu-musi"
+  },
+  {
+    "id": "batu-bidung",
+    "name": "Batu Bidung",
+    "district": "ulu-musi"
+  }
+]

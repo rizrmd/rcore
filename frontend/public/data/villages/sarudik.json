@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sibuluan-nalambok",
+    "name": "Sibuluan Nalambok",
+    "district": "sarudik"
+  },
+  {
+    "id": "sipan",
+    "name": "Sipan",
+    "district": "sarudik"
+  },
+  {
+    "id": "sarudik",
+    "name": "Sarudik",
+    "district": "sarudik"
+  },
+  {
+    "id": "pondok-batu",
+    "name": "Pondok Batu",
+    "district": "sarudik"
+  },
+  {
+    "id": "pasir-bidang",
+    "name": "Pasir Bidang",
+    "district": "sarudik"
+  }
+]

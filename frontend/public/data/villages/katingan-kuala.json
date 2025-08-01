@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pegatan-hilir",
+    "name": "Pegatan Hilir",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "pegatan-hulu",
+    "name": "Pegatan Hulu",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "jaya-makmur",
+    "name": "Jaya Makmur",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "subur-indah",
+    "name": "Subur Indah",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "keramat",
+    "name": "Keramat",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "singam-raya",
+    "name": "Singam Raya",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "kampung-tengah",
+    "name": "Kampung Tengah",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "setia-mulia",
+    "name": "Setia Mulia",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "sebangau-jaya",
+    "name": "Sebangau Jaya",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "sungai-kaki",
+    "name": "Sungai Kaki",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "selat-baning",
+    "name": "Selat Baning",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "makmur-utama",
+    "name": "Makmur Utama",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "bumi-subur",
+    "name": "Bumi Subur",
+    "district": "katingan-kuala"
+  },
+  {
+    "id": "bakung-raya",
+    "name": "Bakung Raya",
+    "district": "katingan-kuala"
+  }
+]

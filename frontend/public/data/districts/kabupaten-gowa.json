@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bontonompo",
+    "name": "Bontonompo",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bontonompo-selatan",
+    "name": "Bontonompo Selatan",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bajeng",
+    "name": "Bajeng",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bajeng-barat",
+    "name": "Bajeng Barat",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "pallangga",
+    "name": "Pallangga",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "barombong",
+    "name": "Barombong",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "somba-opu",
+    "name": "Somba Opu",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bontomarannu",
+    "name": "Bontomarannu",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "pattallassang",
+    "name": "Pattallassang",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "parangloe",
+    "name": "Parangloe",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "manuju",
+    "name": "Manuju",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "tinggimoncong",
+    "name": "Tinggimoncong",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "tombolo-pao",
+    "name": "Tombolo Pao",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "parigi",
+    "name": "Parigi",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bungaya",
+    "name": "Bungaya",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "bontolempangan",
+    "name": "Bontolempangan",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "tompobulu",
+    "name": "Tompobulu",
+    "regency": "kabupaten-gowa"
+  },
+  {
+    "id": "biringbulu",
+    "name": "Biringbulu",
+    "regency": "kabupaten-gowa"
+  }
+]

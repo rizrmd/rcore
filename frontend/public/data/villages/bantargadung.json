@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bantargebang",
+    "name": "Bantargebang",
+    "district": "bantargadung"
+  },
+  {
+    "id": "bojonggaling",
+    "name": "Bojonggaling",
+    "district": "bantargadung"
+  },
+  {
+    "id": "bantargadung",
+    "name": "Bantargadung",
+    "district": "bantargadung"
+  },
+  {
+    "id": "mangunjaya",
+    "name": "Mangunjaya",
+    "district": "bantargadung"
+  },
+  {
+    "id": "limusnunggal",
+    "name": "Limusnunggal",
+    "district": "bantargadung"
+  },
+  {
+    "id": "buanajaya",
+    "name": "Buanajaya",
+    "district": "bantargadung"
+  },
+  {
+    "id": "boyongsari",
+    "name": "Boyongsari",
+    "district": "bantargadung"
+  }
+]

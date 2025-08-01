@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kayabo",
+    "name": "Kayabo",
+    "district": "saifi"
+  },
+  {
+    "id": "sayal-seremuk",
+    "name": "Sayal / Seremuk",
+    "district": "saifi"
+  },
+  {
+    "id": "komanggaret",
+    "name": "Komanggaret",
+    "district": "saifi"
+  },
+  {
+    "id": "manggroholo",
+    "name": "Manggroholo",
+    "district": "saifi"
+  },
+  {
+    "id": "sira",
+    "name": "Sira",
+    "district": "saifi"
+  },
+  {
+    "id": "mlaswat",
+    "name": "Mlaswat",
+    "district": "saifi"
+  },
+  {
+    "id": "kwowok",
+    "name": "Kwowok",
+    "district": "saifi"
+  },
+  {
+    "id": "sisir",
+    "name": "Sisir",
+    "district": "saifi"
+  },
+  {
+    "id": "kenaya",
+    "name": "Kenaya",
+    "district": "saifi"
+  },
+  {
+    "id": "botain",
+    "name": "Botain",
+    "district": "saifi"
+  }
+]

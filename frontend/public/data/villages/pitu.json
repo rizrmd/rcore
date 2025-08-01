@@ -1,0 +1,52 @@
+[
+  {
+    "id": "banjarbanggi",
+    "name": "Banjarbanggi",
+    "district": "pitu"
+  },
+  {
+    "id": "bangunrejo-lor",
+    "name": "Bangunrejo Lor",
+    "district": "pitu"
+  },
+  {
+    "id": "karanggeneng",
+    "name": "Karanggeneng",
+    "district": "pitu"
+  },
+  {
+    "id": "papungan",
+    "name": "Papungan",
+    "district": "pitu"
+  },
+  {
+    "id": "cantel",
+    "name": "Cantel",
+    "district": "pitu"
+  },
+  {
+    "id": "ngancar",
+    "name": "Ngancar",
+    "district": "pitu"
+  },
+  {
+    "id": "kalang",
+    "name": "Kalang",
+    "district": "pitu"
+  },
+  {
+    "id": "pitu",
+    "name": "Pitu",
+    "district": "pitu"
+  },
+  {
+    "id": "dumplengan",
+    "name": "Dumplengan",
+    "district": "pitu"
+  },
+  {
+    "id": "selopuro",
+    "name": "Selopuro",
+    "district": "pitu"
+  }
+]

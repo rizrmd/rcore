@@ -1,0 +1,112 @@
+[
+  {
+    "id": "pingaran-ilir",
+    "name": "Pingaran Ilir",
+    "district": "astambul"
+  },
+  {
+    "id": "pingaran-ulu",
+    "name": "Pingaran Ulu",
+    "district": "astambul"
+  },
+  {
+    "id": "banua-anyar-danau-salak",
+    "name": "Banua Anyar Danau Salak",
+    "district": "astambul"
+  },
+  {
+    "id": "astambul-seberang",
+    "name": "Astambul Seberang",
+    "district": "astambul"
+  },
+  {
+    "id": "astambul",
+    "name": "Astambul",
+    "district": "astambul"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "astambul"
+  },
+  {
+    "id": "danau-salak",
+    "name": "Danau Salak",
+    "district": "astambul"
+  },
+  {
+    "id": "pasar-jati",
+    "name": "Pasar Jati",
+    "district": "astambul"
+  },
+  {
+    "id": "sungai-alat",
+    "name": "Sungai Alat",
+    "district": "astambul"
+  },
+  {
+    "id": "sungai-tuan-ulu",
+    "name": "Sungai Tuan Ulu",
+    "district": "astambul"
+  },
+  {
+    "id": "sungai-tuan-ilir",
+    "name": "Sungai Tuan Ilir",
+    "district": "astambul"
+  },
+  {
+    "id": "benua-anyar",
+    "name": "Benua Anyar",
+    "district": "astambul"
+  },
+  {
+    "id": "tambangan",
+    "name": "Tambangan",
+    "district": "astambul"
+  },
+  {
+    "id": "kelampaian-ilir",
+    "name": "Kelampaian Ilir",
+    "district": "astambul"
+  },
+  {
+    "id": "munggu-raya",
+    "name": "Munggu Raya",
+    "district": "astambul"
+  },
+  {
+    "id": "kalampayan",
+    "name": "Kalampayan",
+    "district": "astambul"
+  },
+  {
+    "id": "kalampayan-ulu",
+    "name": "Kalampayan Ulu",
+    "district": "astambul"
+  },
+  {
+    "id": "limamar",
+    "name": "Limamar",
+    "district": "astambul"
+  },
+  {
+    "id": "lokgabang",
+    "name": "Lokgabang",
+    "district": "astambul"
+  },
+  {
+    "id": "kaliukan",
+    "name": "Kaliukan",
+    "district": "astambul"
+  },
+  {
+    "id": "tambak-danau",
+    "name": "Tambak Danau",
+    "district": "astambul"
+  },
+  {
+    "id": "pematang-hambawang",
+    "name": "Pematang Hambawang",
+    "district": "astambul"
+  }
+]

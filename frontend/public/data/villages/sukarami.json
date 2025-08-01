@@ -1,0 +1,37 @@
+[
+  {
+    "id": "suka-bangun",
+    "name": "Suka Bangun",
+    "district": "sukarami"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "sukarami"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "sukarami"
+  },
+  {
+    "id": "kebun-bunga",
+    "name": "Kebun Bunga",
+    "district": "sukarami"
+  },
+  {
+    "id": "talang-betutu",
+    "name": "Talang Betutu",
+    "district": "sukarami"
+  },
+  {
+    "id": "sukodadi",
+    "name": "Sukodadi",
+    "district": "sukarami"
+  },
+  {
+    "id": "talang-jambe",
+    "name": "Talang Jambe",
+    "district": "sukarami"
+  }
+]

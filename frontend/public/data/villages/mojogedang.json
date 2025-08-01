@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sewurejo",
+    "name": "Sewurejo",
+    "district": "mojogedang"
+  },
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "mojogedang"
+  },
+  {
+    "id": "mojogedang",
+    "name": "Mojogedang",
+    "district": "mojogedang"
+  },
+  {
+    "id": "pojok",
+    "name": "Pojok",
+    "district": "mojogedang"
+  },
+  {
+    "id": "mojoroto",
+    "name": "Mojoroto",
+    "district": "mojogedang"
+  },
+  {
+    "id": "kaliboto",
+    "name": "Kaliboto",
+    "district": "mojogedang"
+  },
+  {
+    "id": "buntar",
+    "name": "Buntar",
+    "district": "mojogedang"
+  },
+  {
+    "id": "gebyog",
+    "name": "Gebyog",
+    "district": "mojogedang"
+  },
+  {
+    "id": "gentungan",
+    "name": "Gentungan",
+    "district": "mojogedang"
+  }
+]

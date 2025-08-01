@@ -1,0 +1,27 @@
+[
+  {
+    "id": "birobuli-selatan",
+    "name": "Birobuli Selatan",
+    "district": "palu-selatan"
+  },
+  {
+    "id": "petobo",
+    "name": "Petobo",
+    "district": "palu-selatan"
+  },
+  {
+    "id": "birobuli-utara",
+    "name": "Birobuli Utara",
+    "district": "palu-selatan"
+  },
+  {
+    "id": "tatura-utara",
+    "name": "Tatura Utara",
+    "district": "palu-selatan"
+  },
+  {
+    "id": "tatura-selatan",
+    "name": "Tatura Selatan",
+    "district": "palu-selatan"
+  }
+]

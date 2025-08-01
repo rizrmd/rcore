@@ -1,0 +1,37 @@
+[
+  {
+    "id": "talulobutu",
+    "name": "Talulobutu",
+    "district": "tapa"
+  },
+  {
+    "id": "talumopatu",
+    "name": "Talumopatu",
+    "district": "tapa"
+  },
+  {
+    "id": "dunggala",
+    "name": "Dunggala",
+    "district": "tapa"
+  },
+  {
+    "id": "langge",
+    "name": "Langge",
+    "district": "tapa"
+  },
+  {
+    "id": "talulobutu-selatan",
+    "name": "Talulobutu Selatan",
+    "district": "tapa"
+  },
+  {
+    "id": "kramat",
+    "name": "Kramat",
+    "district": "tapa"
+  },
+  {
+    "id": "meranti",
+    "name": "Meranti",
+    "district": "tapa"
+  }
+]

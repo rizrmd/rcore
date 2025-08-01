@@ -1,0 +1,82 @@
+[
+  {
+    "id": "teluk-kabung",
+    "name": "Teluk Kabung",
+    "district": "gaung"
+  },
+  {
+    "id": "simpang-gaung",
+    "name": "Simpang Gaung",
+    "district": "gaung"
+  },
+  {
+    "id": "pungkat",
+    "name": "Pungkat",
+    "district": "gaung"
+  },
+  {
+    "id": "belantaraya",
+    "name": "Belantaraya",
+    "district": "gaung"
+  },
+  {
+    "id": "jerambang",
+    "name": "Jerambang",
+    "district": "gaung"
+  },
+  {
+    "id": "sungai-baru",
+    "name": "Sungai Baru",
+    "district": "gaung"
+  },
+  {
+    "id": "lahang-baru",
+    "name": "Lahang Baru",
+    "district": "gaung"
+  },
+  {
+    "id": "kuala-lahang",
+    "name": "Kuala Lahang",
+    "district": "gaung"
+  },
+  {
+    "id": "lahang-tengah",
+    "name": "Lahang Tengah",
+    "district": "gaung"
+  },
+  {
+    "id": "lahang-hulu",
+    "name": "Lahang Hulu",
+    "district": "gaung"
+  },
+  {
+    "id": "terusan-kempas",
+    "name": "Terusan Kempas",
+    "district": "gaung"
+  },
+  {
+    "id": "gembira",
+    "name": "Gembira",
+    "district": "gaung"
+  },
+  {
+    "id": "semambu-kuning",
+    "name": "Semambu Kuning",
+    "district": "gaung"
+  },
+  {
+    "id": "pintasan",
+    "name": "Pintasan",
+    "district": "gaung"
+  },
+  {
+    "id": "soren",
+    "name": "Soren",
+    "district": "gaung"
+  },
+  {
+    "id": "teluk-merbau",
+    "name": "Teluk Merbau",
+    "district": "gaung"
+  }
+]

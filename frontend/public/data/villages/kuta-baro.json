@@ -1,0 +1,237 @@
+[
+  {
+    "id": "gue",
+    "name": "Gue",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "babah-jurong",
+    "name": "Babah Jurong",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lambro-deyah",
+    "name": "Lambro Deyah",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-baed",
+    "name": "Lam Baed",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "krueng-anoi",
+    "name": "Krueng Anoi",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-masam",
+    "name": "Cot Masam",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-mancang",
+    "name": "Cot Mancang",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "bueng-bakjok",
+    "name": "Bueng Bakjok",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-beut",
+    "name": "Cot Beut",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "ujong-blang",
+    "name": "Ujong Blang",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "seupeu",
+    "name": "Seupeu",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-neuheun",
+    "name": "Lam Neuheun",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-puuk",
+    "name": "Lam Puuk",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lambro-bileu",
+    "name": "Lambro Bileu",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lampoh-keude",
+    "name": "Lampoh Keude",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-peutano",
+    "name": "Cot Peutano",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-cut",
+    "name": "Cot Cut",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-glumpang",
+    "name": "Lam Glumpang",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "meunasah-bak-trieng",
+    "name": "Meunasah Bak Trieng",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-asan",
+    "name": "Lam Asan",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lamceu",
+    "name": "Lamceu",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-preh",
+    "name": "Cot Preh",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "puuk",
+    "name": "Puuk",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-seunong",
+    "name": "Lam Seunong",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-trieng",
+    "name": "Lam Trieng",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "beurangong",
+    "name": "Beurangong",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "rabeu",
+    "name": "Rabeu",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "deyah",
+    "name": "Deyah",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cucum",
+    "name": "Cucum",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-yang",
+    "name": "Cot Yang",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-raya",
+    "name": "Cot Raya",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lampoh-tarom",
+    "name": "Lampoh Tarom",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "aron",
+    "name": "Aron",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-roh",
+    "name": "Lam Roh",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "bak-buloh",
+    "name": "Bak Buloh",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-raya",
+    "name": "Lam Raya",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "tumpok-lampoh",
+    "name": "Tumpok Lampoh",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lambunot-tanoh",
+    "name": "Lambunot Tanoh",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lambunot-paya",
+    "name": "Lambunot Paya",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lamteube-mon-ara",
+    "name": "Lamteube Mon Ara",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lamteubee-geupula",
+    "name": "Lamteubee Geupula",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-alu-cut",
+    "name": "Lam Alu Cut",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-sabang",
+    "name": "Lam Sabang",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "lam-alu-raya",
+    "name": "Lam Alu Raya",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "leupung-ulee-alue",
+    "name": "Leupung Ulee Alue",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "leupung-mesjid",
+    "name": "Leupung Mesjid",
+    "district": "kuta-baro"
+  },
+  {
+    "id": "cot-lamme",
+    "name": "Cot Lamme",
+    "district": "kuta-baro"
+  }
+]

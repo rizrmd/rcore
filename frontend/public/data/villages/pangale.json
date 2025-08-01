@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pangale",
+    "name": "Pangale",
+    "district": "pangale"
+  },
+  {
+    "id": "lemo-lemo",
+    "name": "Lemo-Lemo",
+    "district": "pangale"
+  },
+  {
+    "id": "polopangale",
+    "name": "Polopangale",
+    "district": "pangale"
+  },
+  {
+    "id": "sartanamaju",
+    "name": "Sartanamaju",
+    "district": "pangale"
+  },
+  {
+    "id": "kombiling",
+    "name": "Kombiling",
+    "district": "pangale"
+  },
+  {
+    "id": "lamba-lamba",
+    "name": "Lamba-Lamba",
+    "district": "pangale"
+  },
+  {
+    "id": "polocamba",
+    "name": "Polocamba",
+    "district": "pangale"
+  },
+  {
+    "id": "polo-lereng",
+    "name": "Polo Lereng",
+    "district": "pangale"
+  },
+  {
+    "id": "k-u-o",
+    "name": "K U O",
+    "district": "pangale"
+  }
+]

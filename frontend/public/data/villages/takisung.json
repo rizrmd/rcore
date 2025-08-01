@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kuala-tambangan",
+    "name": "Kuala Tambangan",
+    "district": "takisung"
+  },
+  {
+    "id": "telaga-langsat",
+    "name": "Telaga Langsat",
+    "district": "takisung"
+  },
+  {
+    "id": "takisung",
+    "name": "Takisung",
+    "district": "takisung"
+  },
+  {
+    "id": "gunung-makmur",
+    "name": "Gunung Makmur",
+    "district": "takisung"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "takisung"
+  },
+  {
+    "id": "benua-tengah",
+    "name": "Benua Tengah",
+    "district": "takisung"
+  },
+  {
+    "id": "benua-lawas",
+    "name": "Benua Lawas",
+    "district": "takisung"
+  },
+  {
+    "id": "ranggang",
+    "name": "Ranggang",
+    "district": "takisung"
+  },
+  {
+    "id": "batilai",
+    "name": "Batilai",
+    "district": "takisung"
+  },
+  {
+    "id": "ranggang-dalam",
+    "name": "Ranggang Dalam",
+    "district": "takisung"
+  },
+  {
+    "id": "pegatan-besar",
+    "name": "Pegatan Besar",
+    "district": "takisung"
+  },
+  {
+    "id": "tabanio",
+    "name": "Tabanio",
+    "district": "takisung"
+  }
+]

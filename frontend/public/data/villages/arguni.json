@@ -1,0 +1,27 @@
+[
+  {
+    "id": "andamata",
+    "name": "Andamata",
+    "district": "arguni"
+  },
+  {
+    "id": "arguni",
+    "name": "Arguni",
+    "district": "arguni"
+  },
+  {
+    "id": "fior",
+    "name": "Fior",
+    "district": "arguni"
+  },
+  {
+    "id": "porir",
+    "name": "Porir",
+    "district": "arguni"
+  },
+  {
+    "id": "arguni-barat",
+    "name": "Arguni Barat",
+    "district": "arguni"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "g-a-l-a",
+    "name": "G A L A",
+    "district": "maginti"
+  },
+  {
+    "id": "bangko",
+    "name": "Bangko",
+    "district": "maginti"
+  },
+  {
+    "id": "abadi-jaya",
+    "name": "Abadi Jaya",
+    "district": "maginti"
+  },
+  {
+    "id": "pajala",
+    "name": "Pajala",
+    "district": "maginti"
+  },
+  {
+    "id": "maginti",
+    "name": "Maginti",
+    "district": "maginti"
+  },
+  {
+    "id": "kangkunawe",
+    "name": "Kangkunawe",
+    "district": "maginti"
+  },
+  {
+    "id": "pasipadangan",
+    "name": "Pasipadangan",
+    "district": "maginti"
+  },
+  {
+    "id": "kembar-maminasa",
+    "name": "Kembar Maminasa",
+    "district": "maginti"
+  }
+]

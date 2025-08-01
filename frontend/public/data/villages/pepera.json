@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pepera",
+    "name": "Pepera",
+    "district": "pepera"
+  },
+  {
+    "id": "denom",
+    "name": "Denom",
+    "district": "pepera"
+  },
+  {
+    "id": "ok-telabe",
+    "name": "Ok Telabe",
+    "district": "pepera"
+  },
+  {
+    "id": "wok-bakon",
+    "name": "Wok Bakon",
+    "district": "pepera"
+  },
+  {
+    "id": "okbontenam",
+    "name": "Okbontenam",
+    "district": "pepera"
+  },
+  {
+    "id": "bon-yakwol",
+    "name": "Bon Yakwol",
+    "district": "pepera"
+  }
+]

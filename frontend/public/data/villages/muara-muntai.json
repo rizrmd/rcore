@@ -1,0 +1,67 @@
+[
+  {
+    "id": "perian",
+    "name": "Perian",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "muara-leka",
+    "name": "Muara Leka",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "muara-aloh",
+    "name": "Muara Aloh",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "jantur",
+    "name": "Jantur",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "batuq",
+    "name": "Batuq",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "rebaq-rinding",
+    "name": "Rebaq Rinding",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "muara-muntai-ulu",
+    "name": "Muara Muntai Ulu",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "muara-muntai-ilir",
+    "name": "Muara Muntai Ilir",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "kayu-batu",
+    "name": "Kayu Batu",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "jantur-selatan",
+    "name": "Jantur Selatan",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "tanjung-batuq-harapan",
+    "name": "Tanjung Batuq Harapan",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "pulau-harapan",
+    "name": "Pulau Harapan",
+    "district": "muara-muntai"
+  },
+  {
+    "id": "jantur-baru",
+    "name": "Jantur Baru",
+    "district": "muara-muntai"
+  }
+]

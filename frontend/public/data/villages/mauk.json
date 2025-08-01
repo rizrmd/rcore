@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "mauk"
+  },
+  {
+    "id": "sasak",
+    "name": "Sasak",
+    "district": "mauk"
+  },
+  {
+    "id": "kedung-dalem",
+    "name": "Kedung Dalem",
+    "district": "mauk"
+  },
+  {
+    "id": "tegal-kunir-kidul",
+    "name": "Tegal Kunir Kidul",
+    "district": "mauk"
+  },
+  {
+    "id": "jati-waringin",
+    "name": "Jati Waringin",
+    "district": "mauk"
+  },
+  {
+    "id": "tegal-kunir-lor",
+    "name": "Tegal Kunir Lor",
+    "district": "mauk"
+  },
+  {
+    "id": "banyu-asih",
+    "name": "Banyu Asih",
+    "district": "mauk"
+  },
+  {
+    "id": "mauk-timur",
+    "name": "Mauk Timur",
+    "district": "mauk"
+  },
+  {
+    "id": "mauk-barat",
+    "name": "Mauk Barat",
+    "district": "mauk"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "mauk"
+  },
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "mauk"
+  },
+  {
+    "id": "tanjung-anom",
+    "name": "Tanjung Anom",
+    "district": "mauk"
+  }
+]

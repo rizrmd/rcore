@@ -1,0 +1,67 @@
+[
+  {
+    "id": "margantoko",
+    "name": "Margantoko",
+    "district": "jrengik"
+  },
+  {
+    "id": "asem-nonggal",
+    "name": "Asem Nonggal",
+    "district": "jrengik"
+  },
+  {
+    "id": "majangan",
+    "name": "Majangan",
+    "district": "jrengik"
+  },
+  {
+    "id": "kalangan-prao",
+    "name": "Kalangan Prao",
+    "district": "jrengik"
+  },
+  {
+    "id": "asem-raja",
+    "name": "Asem Raja",
+    "district": "jrengik"
+  },
+  {
+    "id": "plakaran",
+    "name": "Plakaran",
+    "district": "jrengik"
+  },
+  {
+    "id": "bancelok",
+    "name": "Bancelok",
+    "district": "jrengik"
+  },
+  {
+    "id": "mlaka",
+    "name": "Mlaka",
+    "district": "jrengik"
+  },
+  {
+    "id": "jungkarang",
+    "name": "Jungkarang",
+    "district": "jrengik"
+  },
+  {
+    "id": "kotah",
+    "name": "Kotah",
+    "district": "jrengik"
+  },
+  {
+    "id": "jrengik",
+    "name": "Jrengik",
+    "district": "jrengik"
+  },
+  {
+    "id": "taman",
+    "name": "Taman",
+    "district": "jrengik"
+  },
+  {
+    "id": "panyepen",
+    "name": "Panyepen",
+    "district": "jrengik"
+  }
+]

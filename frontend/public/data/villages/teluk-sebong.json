@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sebong-pereh",
+    "name": "Sebong Pereh",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "sebong-lagoi",
+    "name": "Sebong Lagoi",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "ekang-anculai",
+    "name": "Ekang Anculai",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "sri-bintan",
+    "name": "Sri Bintan",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "pengudang",
+    "name": "Pengudang",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "berakit",
+    "name": "Berakit",
+    "district": "teluk-sebong"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "teluk-sebong"
+  }
+]

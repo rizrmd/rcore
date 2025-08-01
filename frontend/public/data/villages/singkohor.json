@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sri-kayu",
+    "name": "Sri Kayu",
+    "district": "singkohor"
+  },
+  {
+    "id": "pea-jambu",
+    "name": "Pea Jambu",
+    "district": "singkohor"
+  },
+  {
+    "id": "lae-pinang",
+    "name": "Lae Pinang",
+    "district": "singkohor"
+  },
+  {
+    "id": "singkohor",
+    "name": "Singkohor",
+    "district": "singkohor"
+  },
+  {
+    "id": "mukti-jaya",
+    "name": "Mukti Jaya",
+    "district": "singkohor"
+  },
+  {
+    "id": "lae-sipola",
+    "name": "Lae Sipola",
+    "district": "singkohor"
+  }
+]

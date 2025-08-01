@@ -1,0 +1,27 @@
+[
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "gedung-surian"
+  },
+  {
+    "id": "pura-mekar",
+    "name": "Pura Mekar",
+    "district": "gedung-surian"
+  },
+  {
+    "id": "cipta-waras",
+    "name": "Cipta Waras",
+    "district": "gedung-surian"
+  },
+  {
+    "id": "tri-mulyo",
+    "name": "Tri Mulyo",
+    "district": "gedung-surian"
+  },
+  {
+    "id": "gedung-surian",
+    "name": "Gedung Surian",
+    "district": "gedung-surian"
+  }
+]

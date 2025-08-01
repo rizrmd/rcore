@@ -1,0 +1,77 @@
+[
+  {
+    "id": "komus-dua",
+    "name": "Komus Dua",
+    "district": "kaidipang"
+  },
+  {
+    "id": "solo",
+    "name": "Solo",
+    "district": "kaidipang"
+  },
+  {
+    "id": "inomunga",
+    "name": "Inomunga",
+    "district": "kaidipang"
+  },
+  {
+    "id": "boroko",
+    "name": "Boroko",
+    "district": "kaidipang"
+  },
+  {
+    "id": "boroko-timur",
+    "name": "Boroko Timur",
+    "district": "kaidipang"
+  },
+  {
+    "id": "bigo",
+    "name": "Bigo",
+    "district": "kaidipang"
+  },
+  {
+    "id": "kuala",
+    "name": "Kuala",
+    "district": "kaidipang"
+  },
+  {
+    "id": "pontak",
+    "name": "Pontak",
+    "district": "kaidipang"
+  },
+  {
+    "id": "kuala-utara",
+    "name": "Kuala Utara",
+    "district": "kaidipang"
+  },
+  {
+    "id": "komus-dua-timur",
+    "name": "Komus Dua Timur",
+    "district": "kaidipang"
+  },
+  {
+    "id": "inomunga-utara",
+    "name": "Inomunga Utara",
+    "district": "kaidipang"
+  },
+  {
+    "id": "bigo-selatan",
+    "name": "Bigo Selatan",
+    "district": "kaidipang"
+  },
+  {
+    "id": "soligir",
+    "name": "Soligir",
+    "district": "kaidipang"
+  },
+  {
+    "id": "boroko-utara",
+    "name": "Boroko Utara",
+    "district": "kaidipang"
+  },
+  {
+    "id": "gihang",
+    "name": "Gihang",
+    "district": "kaidipang"
+  }
+]

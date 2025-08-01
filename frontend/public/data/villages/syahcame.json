@@ -1,0 +1,32 @@
+[
+  {
+    "id": "homilikia",
+    "name": "Homilikia",
+    "district": "syahcame"
+  },
+  {
+    "id": "kobeta",
+    "name": "Kobeta",
+    "district": "syahcame"
+  },
+  {
+    "id": "asset",
+    "name": "Asset",
+    "district": "syahcame"
+  },
+  {
+    "id": "osso",
+    "name": "Osso",
+    "district": "syahcame"
+  },
+  {
+    "id": "bosma",
+    "name": "Bosma",
+    "district": "syahcame"
+  },
+  {
+    "id": "ogoto",
+    "name": "Ogoto",
+    "district": "syahcame"
+  }
+]

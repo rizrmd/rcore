@@ -1,0 +1,77 @@
+[
+  {
+    "id": "galang",
+    "name": "Galang",
+    "district": "welak"
+  },
+  {
+    "id": "pong-welak",
+    "name": "Pong Welak",
+    "district": "welak"
+  },
+  {
+    "id": "rehak",
+    "name": "Rehak",
+    "district": "welak"
+  },
+  {
+    "id": "orong",
+    "name": "Orong",
+    "district": "welak"
+  },
+  {
+    "id": "lale",
+    "name": "Lale",
+    "district": "welak"
+  },
+  {
+    "id": "golo-ronggot",
+    "name": "Golo Ronggot",
+    "district": "welak"
+  },
+  {
+    "id": "watu-umpu",
+    "name": "Watu Umpu",
+    "district": "welak"
+  },
+  {
+    "id": "dunta",
+    "name": "Dunta",
+    "district": "welak"
+  },
+  {
+    "id": "semang",
+    "name": "Semang",
+    "district": "welak"
+  },
+  {
+    "id": "pengka",
+    "name": "Pengka",
+    "district": "welak"
+  },
+  {
+    "id": "racang-welak",
+    "name": "Racang Welak",
+    "district": "welak"
+  },
+  {
+    "id": "robo",
+    "name": "Robo",
+    "district": "welak"
+  },
+  {
+    "id": "wewa",
+    "name": "Wewa",
+    "district": "welak"
+  },
+  {
+    "id": "golo-ndari",
+    "name": "Golo Ndari",
+    "district": "welak"
+  },
+  {
+    "id": "sewar",
+    "name": "Sewar",
+    "district": "welak"
+  }
+]

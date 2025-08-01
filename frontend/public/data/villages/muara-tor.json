@@ -1,0 +1,22 @@
+[
+  {
+    "id": "holmafem",
+    "name": "Holmafem",
+    "district": "muara-tor"
+  },
+  {
+    "id": "ebram",
+    "name": "Ebram",
+    "district": "muara-tor"
+  },
+  {
+    "id": "tanjung-batu",
+    "name": "Tanjung Batu",
+    "district": "muara-tor"
+  },
+  {
+    "id": "omtekwepke",
+    "name": "Omte/Kwepke",
+    "district": "muara-tor"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sambiki",
+    "name": "Sambiki",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "sambiki-baru",
+    "name": "Sambiki Baru",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "sangowo",
+    "name": "Sangowo",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "mira",
+    "name": "Mira",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "rahmat",
+    "name": "Rahmat",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "wewemo",
+    "name": "Wewemo",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "buho-buho",
+    "name": "Buho Buho",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "lifao",
+    "name": "Lifao",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "gamlamo",
+    "name": "Gamlamo",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "sangowo-barat",
+    "name": "Sangowo Barat",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "sangowo-timur",
+    "name": "Sangowo Timur",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "doku-mira",
+    "name": "Doku Mira",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "gosoma-maluku",
+    "name": "Gosoma Maluku",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "hino",
+    "name": "Hino",
+    "district": "morotai-timur"
+  },
+  {
+    "id": "seseli-jaya",
+    "name": "Seseli Jaya",
+    "district": "morotai-timur"
+  }
+]

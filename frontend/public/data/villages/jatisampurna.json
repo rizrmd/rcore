@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jatikarya",
+    "name": "Jatikarya",
+    "district": "jatisampurna"
+  },
+  {
+    "id": "jatisampurna",
+    "name": "Jatisampurna",
+    "district": "jatisampurna"
+  },
+  {
+    "id": "jatirangga",
+    "name": "Jatirangga",
+    "district": "jatisampurna"
+  },
+  {
+    "id": "jatiranggon",
+    "name": "Jatiranggon",
+    "district": "jatisampurna"
+  },
+  {
+    "id": "jatiraden",
+    "name": "Jatiraden",
+    "district": "jatisampurna"
+  }
+]

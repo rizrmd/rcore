@@ -1,0 +1,32 @@
+[
+  {
+    "id": "koting-c",
+    "name": "Koting C",
+    "district": "koting"
+  },
+  {
+    "id": "koting-d",
+    "name": "Koting D",
+    "district": "koting"
+  },
+  {
+    "id": "paubekor",
+    "name": "Paubekor",
+    "district": "koting"
+  },
+  {
+    "id": "koting-b",
+    "name": "Koting B",
+    "district": "koting"
+  },
+  {
+    "id": "koting-a",
+    "name": "Koting A",
+    "district": "koting"
+  },
+  {
+    "id": "ribang",
+    "name": "Ribang",
+    "district": "koting"
+  }
+]

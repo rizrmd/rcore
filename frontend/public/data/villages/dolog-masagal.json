@@ -1,0 +1,52 @@
+[
+  {
+    "id": "parjalangan",
+    "name": "Parjalangan",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "raya-huluan",
+    "name": "Raya Huluan",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "dolog-huluan",
+    "name": "Dolog Huluan",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "raya-usang",
+    "name": "Raya Usang",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "bintang-meriah",
+    "name": "Bintang Meriah",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "bangun-pane",
+    "name": "Bangun Pane",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "partuahan",
+    "name": "Partuahan",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "bah-bolon",
+    "name": "Bah Bolon",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "sinaman-labah",
+    "name": "Sinaman Labah",
+    "district": "dolog-masagal"
+  },
+  {
+    "id": "pamatang-sinaman",
+    "name": "Pamatang Sinaman",
+    "district": "dolog-masagal"
+  }
+]

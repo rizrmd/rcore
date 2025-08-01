@@ -1,0 +1,22 @@
+[
+  {
+    "id": "warsa",
+    "name": "Warsa",
+    "district": "supiori-utara"
+  },
+  {
+    "id": "warbor",
+    "name": "Warbor",
+    "district": "supiori-utara"
+  },
+  {
+    "id": "kobari-jaya",
+    "name": "Kobari Jaya",
+    "district": "supiori-utara"
+  },
+  {
+    "id": "fanjur",
+    "name": "Fanjur",
+    "district": "supiori-utara"
+  }
+]

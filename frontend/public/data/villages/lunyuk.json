@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pada-suka",
+    "name": "Pada Suka",
+    "district": "lunyuk"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "lunyuk"
+  },
+  {
+    "id": "lunyuk-ode",
+    "name": "Lunyuk Ode",
+    "district": "lunyuk"
+  },
+  {
+    "id": "lunyuk-rea",
+    "name": "Lunyuk Rea",
+    "district": "lunyuk"
+  },
+  {
+    "id": "jamu",
+    "name": "Jamu",
+    "district": "lunyuk"
+  },
+  {
+    "id": "emang-lestari",
+    "name": "Emang Lestari",
+    "district": "lunyuk"
+  },
+  {
+    "id": "upt-brang-lamar",
+    "name": "Upt Brang Lamar",
+    "district": "lunyuk"
+  }
+]

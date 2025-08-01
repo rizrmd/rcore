@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kepatihan-kulon",
+    "name": "Kepatihan Kulon",
+    "district": "jebres"
+  },
+  {
+    "id": "kepatihan-wetan",
+    "name": "Kepatihan Wetan",
+    "district": "jebres"
+  },
+  {
+    "id": "sudiroprajan",
+    "name": "Sudiroprajan",
+    "district": "jebres"
+  },
+  {
+    "id": "gandekan",
+    "name": "Gandekan",
+    "district": "jebres"
+  },
+  {
+    "id": "pucangsawit",
+    "name": "Pucangsawit",
+    "district": "jebres"
+  },
+  {
+    "id": "jagalan",
+    "name": "Jagalan",
+    "district": "jebres"
+  },
+  {
+    "id": "purwodiningratan",
+    "name": "Purwodiningratan",
+    "district": "jebres"
+  },
+  {
+    "id": "tegalharjo",
+    "name": "Tegalharjo",
+    "district": "jebres"
+  },
+  {
+    "id": "mojosongo",
+    "name": "Mojosongo",
+    "district": "jebres"
+  }
+]

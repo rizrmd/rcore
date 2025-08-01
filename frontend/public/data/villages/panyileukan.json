@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mekar-mulya",
+    "name": "Mekar Mulya",
+    "district": "panyileukan"
+  },
+  {
+    "id": "cipadung-kidul",
+    "name": "Cipadung Kidul",
+    "district": "panyileukan"
+  },
+  {
+    "id": "cipadung-wetan",
+    "name": "Cipadung Wetan",
+    "district": "panyileukan"
+  },
+  {
+    "id": "cipadung-kulon",
+    "name": "Cipadung Kulon",
+    "district": "panyileukan"
+  }
+]

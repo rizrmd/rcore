@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dulang",
+    "name": "Dulang",
+    "district": "torjun"
+  },
+  {
+    "id": "patarongan",
+    "name": "Patarongan",
+    "district": "torjun"
+  },
+  {
+    "id": "pangongsean",
+    "name": "Pangongsean",
+    "district": "torjun"
+  },
+  {
+    "id": "krampon",
+    "name": "Krampon",
+    "district": "torjun"
+  },
+  {
+    "id": "bringin-nonggal",
+    "name": "Bringin Nonggal",
+    "district": "torjun"
+  },
+  {
+    "id": "torjun",
+    "name": "Torjun",
+    "district": "torjun"
+  },
+  {
+    "id": "patapan",
+    "name": "Patapan",
+    "district": "torjun"
+  },
+  {
+    "id": "jeruk-porot",
+    "name": "Jeruk Porot",
+    "district": "torjun"
+  },
+  {
+    "id": "kodak",
+    "name": "Kodak",
+    "district": "torjun"
+  },
+  {
+    "id": "kanjar",
+    "name": "Kanjar",
+    "district": "torjun"
+  },
+  {
+    "id": "kara",
+    "name": "Kara",
+    "district": "torjun"
+  },
+  {
+    "id": "tana-mera",
+    "name": "Tana Mera",
+    "district": "torjun"
+  }
+]

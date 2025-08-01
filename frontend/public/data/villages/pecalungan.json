@@ -1,0 +1,42 @@
+[
+  {
+    "id": "siguci",
+    "name": "Siguci",
+    "district": "pecalungan"
+  },
+  {
+    "id": "selokarto",
+    "name": "Selokarto",
+    "district": "pecalungan"
+  },
+  {
+    "id": "gumawang",
+    "name": "Gumawang",
+    "district": "pecalungan"
+  },
+  {
+    "id": "keniten",
+    "name": "Keniten",
+    "district": "pecalungan"
+  },
+  {
+    "id": "randu",
+    "name": "Randu",
+    "district": "pecalungan"
+  },
+  {
+    "id": "gombong",
+    "name": "Gombong",
+    "district": "pecalungan"
+  },
+  {
+    "id": "pecalungan",
+    "name": "Pecalungan",
+    "district": "pecalungan"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "pecalungan"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tuwa",
+    "name": "Tuwa",
+    "district": "gumbasa"
+  },
+  {
+    "id": "omu",
+    "name": "Omu",
+    "district": "gumbasa"
+  },
+  {
+    "id": "simoro",
+    "name": "Simoro",
+    "district": "gumbasa"
+  },
+  {
+    "id": "pakuli",
+    "name": "Pakuli",
+    "district": "gumbasa"
+  },
+  {
+    "id": "pandere",
+    "name": "Pandere",
+    "district": "gumbasa"
+  },
+  {
+    "id": "kalawara",
+    "name": "Kalawara",
+    "district": "gumbasa"
+  },
+  {
+    "id": "pakuli-utara",
+    "name": "Pakuli Utara",
+    "district": "gumbasa"
+  }
+]

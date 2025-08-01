@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pinang-belai",
+    "name": "Pinang Belai",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "sekutur-jaya",
+    "name": "Sekutur Jaya",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "bukit-pemuatan",
+    "name": "Bukit Pemuatan",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "napal-putih",
+    "name": "Napal Putih",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "sako-makmur",
+    "name": "Sako Makmur",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "pagar-puding-lamo",
+    "name": "Pagar Puding Lamo",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "tanjung-aur-seberang",
+    "name": "Tanjung Aur Seberang",
+    "district": "serai-serumpun"
+  },
+  {
+    "id": "teluk-melintang",
+    "name": "Teluk Melintang",
+    "district": "serai-serumpun"
+  }
+]

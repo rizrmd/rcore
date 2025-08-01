@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "sungai-nilau",
+    "name": "Sungai Nilau",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "palipan",
+    "name": "Palipan",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "seringat",
+    "name": "Seringat",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "tiangko",
+    "name": "Tiangko",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "sungai-manau",
+    "name": "Sungai Manau",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "durian-lecah",
+    "name": "Durian Lecah",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "benteng",
+    "name": "Benteng",
+    "district": "sungai-manau"
+  },
+  {
+    "id": "gelanggang",
+    "name": "Gelanggang",
+    "district": "sungai-manau"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mattiro-bulu",
+    "name": "Mattiro Bulu",
+    "district": "tiwu"
+  },
+  {
+    "id": "lawadia",
+    "name": "Lawadia",
+    "district": "tiwu"
+  },
+  {
+    "id": "watumea",
+    "name": "Watumea",
+    "district": "tiwu"
+  },
+  {
+    "id": "tiwu",
+    "name": "Tiwu",
+    "district": "tiwu"
+  },
+  {
+    "id": "tahibua",
+    "name": "Tahibua",
+    "district": "tiwu"
+  },
+  {
+    "id": "lapolu",
+    "name": "Lapolu",
+    "district": "tiwu"
+  },
+  {
+    "id": "tanggeao",
+    "name": "Tanggeao",
+    "district": "tiwu"
+  }
+]

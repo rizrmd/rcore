@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bale",
+    "name": "Bale",
+    "district": "tanantovea"
+  },
+  {
+    "id": "guntarano",
+    "name": "Guntarano",
+    "district": "tanantovea"
+  },
+  {
+    "id": "nupa-bomba",
+    "name": "Nupa Bomba",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wombo",
+    "name": "Wombo",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wani-i",
+    "name": "Wani I",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wani-ii",
+    "name": "Wani Ii",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wombo-panau",
+    "name": "Wombo Panau",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wombo-kalonggo",
+    "name": "Wombo Kalonggo",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wani-iii",
+    "name": "Wani Iii",
+    "district": "tanantovea"
+  },
+  {
+    "id": "wani-lumbumpetigo",
+    "name": "Wani Lumbumpetigo",
+    "district": "tanantovea"
+  }
+]

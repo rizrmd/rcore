@@ -1,0 +1,37 @@
+[
+  {
+    "id": "toire-sp-i",
+    "name": "Toire Sp I",
+    "district": "inggerus"
+  },
+  {
+    "id": "awaso",
+    "name": "Awaso",
+    "district": "inggerus"
+  },
+  {
+    "id": "soimiangga",
+    "name": "Soimiangga",
+    "district": "inggerus"
+  },
+  {
+    "id": "harapan-jaya-sp-ii",
+    "name": "Harapan Jaya Sp Ii",
+    "district": "inggerus"
+  },
+  {
+    "id": "demisa-sp-iii",
+    "name": "Demisa Sp Iii",
+    "district": "inggerus"
+  },
+  {
+    "id": "otodemo",
+    "name": "Otodemo",
+    "district": "inggerus"
+  },
+  {
+    "id": "firo",
+    "name": "Firo",
+    "district": "inggerus"
+  }
+]

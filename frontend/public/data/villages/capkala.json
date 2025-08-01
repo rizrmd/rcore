@@ -1,0 +1,32 @@
+[
+  {
+    "id": "capkala",
+    "name": "Capkala",
+    "district": "capkala"
+  },
+  {
+    "id": "sebandut",
+    "name": "Sebandut",
+    "district": "capkala"
+  },
+  {
+    "id": "aris",
+    "name": "Aris",
+    "district": "capkala"
+  },
+  {
+    "id": "mandor",
+    "name": "Mandor",
+    "district": "capkala"
+  },
+  {
+    "id": "setanduk",
+    "name": "Setanduk",
+    "district": "capkala"
+  },
+  {
+    "id": "pawangi",
+    "name": "Pawangi",
+    "district": "capkala"
+  }
+]

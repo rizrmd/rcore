@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lesung-bakti-jaya",
+    "name": "Lesung Bakti Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "mekar-sari-jaya",
+    "name": "Mekar Sari Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "pagar-jaya",
+    "name": "Pagar Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "kibang-budi-jaya",
+    "name": "Kibang Budi Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "kibang-yekti-jaya",
+    "name": "Kibang Yekti Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "kibang-tri-jaya",
+    "name": "Kibang Tri Jaya",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "gilang-tunggal-makarta",
+    "name": "Gilang Tunggal Makarta",
+    "district": "lambu-kibang"
+  },
+  {
+    "id": "kibang-mulya-jaya",
+    "name": "Kibang Mulya Jaya",
+    "district": "lambu-kibang"
+  }
+]

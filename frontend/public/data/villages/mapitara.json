@@ -1,0 +1,22 @@
+[
+  {
+    "id": "natakoli",
+    "name": "Natakoli",
+    "district": "mapitara"
+  },
+  {
+    "id": "hebing",
+    "name": "Hebing",
+    "district": "mapitara"
+  },
+  {
+    "id": "hale",
+    "name": "Hale",
+    "district": "mapitara"
+  },
+  {
+    "id": "egon-gahar",
+    "name": "Egon Gahar",
+    "district": "mapitara"
+  }
+]

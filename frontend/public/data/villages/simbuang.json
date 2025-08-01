@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lembang-simbuang",
+    "name": "Lembang Simbuang",
+    "district": "simbuang"
+  },
+  {
+    "id": "kelurahan-sima",
+    "name": "Kelurahan Sima",
+    "district": "simbuang"
+  },
+  {
+    "id": "lembang-pong-bembe",
+    "name": "Lembang Pong Bembe",
+    "district": "simbuang"
+  },
+  {
+    "id": "lembang-simbuang-batuallu",
+    "name": "Lembang Simbuang Batuallu",
+    "district": "simbuang"
+  },
+  {
+    "id": "lembang-makkado",
+    "name": "Lembang Makkado",
+    "district": "simbuang"
+  },
+  {
+    "id": "lembang-puang-bembe-mesakada",
+    "name": "Lembang Puang Bembe Mesakada",
+    "district": "simbuang"
+  }
+]

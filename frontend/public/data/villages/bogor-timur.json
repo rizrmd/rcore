@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "bogor-timur"
+  },
+  {
+    "id": "sindangrasa",
+    "name": "Sindangrasa",
+    "district": "bogor-timur"
+  },
+  {
+    "id": "tajur",
+    "name": "Tajur",
+    "district": "bogor-timur"
+  },
+  {
+    "id": "katulampa",
+    "name": "Katulampa",
+    "district": "bogor-timur"
+  },
+  {
+    "id": "baranangsiang",
+    "name": "Baranangsiang",
+    "district": "bogor-timur"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "bogor-timur"
+  }
+]

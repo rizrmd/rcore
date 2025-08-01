@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dempelan",
+    "name": "Dempelan",
+    "district": "madiun"
+  },
+  {
+    "id": "sendangrejo",
+    "name": "Sendangrejo",
+    "district": "madiun"
+  },
+  {
+    "id": "sirapan",
+    "name": "Sirapan",
+    "district": "madiun"
+  },
+  {
+    "id": "dimong",
+    "name": "Dimong",
+    "district": "madiun"
+  },
+  {
+    "id": "tulungrejo",
+    "name": "Tulungrejo",
+    "district": "madiun"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "madiun"
+  },
+  {
+    "id": "tanjungrejo",
+    "name": "Tanjungrejo",
+    "district": "madiun"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "madiun"
+  },
+  {
+    "id": "nglames",
+    "name": "Nglames",
+    "district": "madiun"
+  },
+  {
+    "id": "tiron",
+    "name": "Tiron",
+    "district": "madiun"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "madiun"
+  },
+  {
+    "id": "bagi",
+    "name": "Bagi",
+    "district": "madiun"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "walangkir",
+    "name": "Walangkir",
+    "district": "tanta"
+  },
+  {
+    "id": "pulau-kuu",
+    "name": "Pulau Ku'U",
+    "district": "tanta"
+  },
+  {
+    "id": "tamiyang",
+    "name": "Tamiyang",
+    "district": "tanta"
+  },
+  {
+    "id": "warukin",
+    "name": "Warukin",
+    "district": "tanta"
+  },
+  {
+    "id": "padang-panjang",
+    "name": "Padang Panjang",
+    "district": "tanta"
+  },
+  {
+    "id": "barimbun",
+    "name": "Barimbun",
+    "district": "tanta"
+  },
+  {
+    "id": "padangin",
+    "name": "Padangin",
+    "district": "tanta"
+  },
+  {
+    "id": "luk-bayur",
+    "name": "Luk Bayur",
+    "district": "tanta"
+  },
+  {
+    "id": "mangkusip",
+    "name": "Mangkusip",
+    "district": "tanta"
+  },
+  {
+    "id": "tanta",
+    "name": "Tanta",
+    "district": "tanta"
+  },
+  {
+    "id": "tanta-hulu",
+    "name": "Tanta Hulu",
+    "district": "tanta"
+  },
+  {
+    "id": "puain-kanan",
+    "name": "Puain Kanan",
+    "district": "tanta"
+  },
+  {
+    "id": "pamarangan-kanan",
+    "name": "Pamarangan Kanan",
+    "district": "tanta"
+  },
+  {
+    "id": "murung-baru",
+    "name": "Murung Baru",
+    "district": "tanta"
+  }
+]

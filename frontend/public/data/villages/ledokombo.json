@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sumber-salak",
+    "name": "Sumber Salak",
+    "district": "ledokombo"
+  },
+  {
+    "id": "lembengan",
+    "name": "Lembengan",
+    "district": "ledokombo"
+  },
+  {
+    "id": "sumber-anget",
+    "name": "Sumber Anget",
+    "district": "ledokombo"
+  },
+  {
+    "id": "ledokombo",
+    "name": "Ledokombo",
+    "district": "ledokombo"
+  },
+  {
+    "id": "slateng",
+    "name": "Slateng",
+    "district": "ledokombo"
+  },
+  {
+    "id": "sukogidri",
+    "name": "Sukogidri",
+    "district": "ledokombo"
+  },
+  {
+    "id": "karang-paiton",
+    "name": "Karang Paiton",
+    "district": "ledokombo"
+  }
+]

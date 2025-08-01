@@ -1,0 +1,37 @@
+[
+  {
+    "id": "waringin-jaya",
+    "name": "Waringin Jaya",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "sri-bawono",
+    "name": "Sri Bawono",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "sri-menanti",
+    "name": "Sri Menanti",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "sri-pendowo",
+    "name": "Sri Pendowo",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "bandar-agung",
+    "name": "Bandar Agung",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "sadar-sriwijaya",
+    "name": "Sadar Sriwijaya",
+    "district": "bandar-sribawono"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "bandar-sribawono"
+  }
+]

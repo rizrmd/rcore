@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tabbeyan",
+    "name": "Tabbeyan",
+    "district": "yapsi"
+  },
+  {
+    "id": "ongan-jaya",
+    "name": "Ongan Jaya",
+    "district": "yapsi"
+  },
+  {
+    "id": "kwarja",
+    "name": "Kwarja",
+    "district": "yapsi"
+  },
+  {
+    "id": "bumi-sahaja",
+    "name": "Bumi Sahaja",
+    "district": "yapsi"
+  },
+  {
+    "id": "nawa-mulya",
+    "name": "Nawa Mulya",
+    "district": "yapsi"
+  },
+  {
+    "id": "nawa-mukti",
+    "name": "Nawa Mukti",
+    "district": "yapsi"
+  },
+  {
+    "id": "takwa-bangun",
+    "name": "Takwa Bangun",
+    "district": "yapsi"
+  },
+  {
+    "id": "purnawa-jati",
+    "name": "Purnawa Jati",
+    "district": "yapsi"
+  }
+]

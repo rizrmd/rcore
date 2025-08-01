@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bunaken",
+    "name": "Bunaken",
+    "district": "bunaken-kepulauan"
+  },
+  {
+    "id": "alung-banua",
+    "name": "Alung Banua",
+    "district": "bunaken-kepulauan"
+  },
+  {
+    "id": "manado-tua-satu",
+    "name": "Manado Tua Satu",
+    "district": "bunaken-kepulauan"
+  },
+  {
+    "id": "manado-tua-dua",
+    "name": "Manado Tua Dua",
+    "district": "bunaken-kepulauan"
+  }
+]

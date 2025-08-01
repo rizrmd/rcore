@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jinak",
+    "name": "Jinak",
+    "district": "suator"
+  },
+  {
+    "id": "wowi",
+    "name": "Wowi",
+    "district": "suator"
+  },
+  {
+    "id": "karbis",
+    "name": "Karbis",
+    "district": "suator"
+  },
+  {
+    "id": "bubis",
+    "name": "Bubis",
+    "district": "suator"
+  },
+  {
+    "id": "binam",
+    "name": "Binam",
+    "district": "suator"
+  },
+  {
+    "id": "burbis",
+    "name": "Burbis",
+    "district": "suator"
+  },
+  {
+    "id": "waganu-dua",
+    "name": "Waganu Dua",
+    "district": "suator"
+  },
+  {
+    "id": "sorai",
+    "name": "Sorai",
+    "district": "suator"
+  },
+  {
+    "id": "wagabus",
+    "name": "Wagabus",
+    "district": "suator"
+  },
+  {
+    "id": "emnam",
+    "name": "Emnam",
+    "district": "suator"
+  }
+]

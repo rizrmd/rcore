@@ -1,0 +1,57 @@
+[
+  {
+    "id": "karyatani",
+    "name": "Karyatani",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "karya-makmur",
+    "name": "Karya Makmur",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "bandar-negeri",
+    "name": "Bandar Negeri",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "maringgai",
+    "name": "Maringgai",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "muara-gading-mas",
+    "name": "Muara Gading Mas",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "labuhan-maringai",
+    "name": "Labuhan Maringai",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "sri-gading",
+    "name": "Sri Gading",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "sri-minosari",
+    "name": "Sri Minosari",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "margasari",
+    "name": "Margasari",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "sukorahayu",
+    "name": "Sukorahayu",
+    "district": "labuhan-maringgai"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "labuhan-maringgai"
+  }
+]

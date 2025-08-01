@@ -1,0 +1,32 @@
+[
+  {
+    "id": "taipa",
+    "name": "Taipa",
+    "district": "pamona-barat"
+  },
+  {
+    "id": "meko",
+    "name": "Meko",
+    "district": "pamona-barat"
+  },
+  {
+    "id": "salukaia",
+    "name": "Salukaia",
+    "district": "pamona-barat"
+  },
+  {
+    "id": "uranosari",
+    "name": "Uranosari",
+    "district": "pamona-barat"
+  },
+  {
+    "id": "toinasa",
+    "name": "Toinasa",
+    "district": "pamona-barat"
+  },
+  {
+    "id": "owini",
+    "name": "Owini",
+    "district": "pamona-barat"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "singosari",
+    "name": "Singosari",
+    "district": "mojosongo"
+  },
+  {
+    "id": "tambak",
+    "name": "Tambak",
+    "district": "mojosongo"
+  },
+  {
+    "id": "manggis",
+    "name": "Manggis",
+    "district": "mojosongo"
+  },
+  {
+    "id": "karangnongko",
+    "name": "Karangnongko",
+    "district": "mojosongo"
+  },
+  {
+    "id": "madu",
+    "name": "Madu",
+    "district": "mojosongo"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "mojosongo"
+  },
+  {
+    "id": "mojosongo",
+    "name": "Mojosongo",
+    "district": "mojosongo"
+  },
+  {
+    "id": "kragilan",
+    "name": "Kragilan",
+    "district": "mojosongo"
+  },
+  {
+    "id": "brajan",
+    "name": "Brajan",
+    "district": "mojosongo"
+  },
+  {
+    "id": "dlingo",
+    "name": "Dlingo",
+    "district": "mojosongo"
+  }
+]

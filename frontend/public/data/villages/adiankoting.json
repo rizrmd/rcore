@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pagaran-lambung-i",
+    "name": "Pagaran Lambung I",
+    "district": "adiankoting"
+  },
+  {
+    "id": "sibalanga",
+    "name": "Sibalanga",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pagaran-lambung-ii",
+    "name": "Pagaran Lambung Ii",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pagaran-lambung-iii",
+    "name": "Pagaran Lambung Iii",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pagaran-pisang",
+    "name": "Pagaran Pisang",
+    "district": "adiankoting"
+  },
+  {
+    "id": "adiankoting",
+    "name": "Adiankoting",
+    "district": "adiankoting"
+  },
+  {
+    "id": "dolok-nauli",
+    "name": "Dolok Nauli",
+    "district": "adiankoting"
+  },
+  {
+    "id": "banuaji-iv",
+    "name": "Banuaji Iv",
+    "district": "adiankoting"
+  },
+  {
+    "id": "banuaji-i",
+    "name": "Banuaji I",
+    "district": "adiankoting"
+  },
+  {
+    "id": "banuaji-ii",
+    "name": "Banuaji Ii",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pansur-batu",
+    "name": "Pansur Batu",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pardomuan-nauli",
+    "name": "Pardomuan Nauli",
+    "district": "adiankoting"
+  },
+  {
+    "id": "siantar-nai-pospos",
+    "name": "Siantar Nai Pospos",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pagaran-lambung-iv",
+    "name": "Pagaran Lambung Iv",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pansur-batu-ii",
+    "name": "Pansur Batu Ii",
+    "district": "adiankoting"
+  },
+  {
+    "id": "pansur-batu-i",
+    "name": "Pansur Batu I",
+    "district": "adiankoting"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ibiroma",
+    "name": "Ibiroma",
+    "district": "kurima"
+  },
+  {
+    "id": "wanem",
+    "name": "Wanem",
+    "district": "kurima"
+  },
+  {
+    "id": "anjelma",
+    "name": "Anjelma",
+    "district": "kurima"
+  },
+  {
+    "id": "obolma",
+    "name": "Obolma",
+    "district": "kurima"
+  },
+  {
+    "id": "hihundes",
+    "name": "Hihundes",
+    "district": "kurima"
+  },
+  {
+    "id": "kilise",
+    "name": "Kilise",
+    "district": "kurima"
+  },
+  {
+    "id": "kima",
+    "name": "Kima",
+    "district": "kurima"
+  },
+  {
+    "id": "luhulema",
+    "name": "Luhulema",
+    "district": "kurima"
+  },
+  {
+    "id": "yagarelo",
+    "name": "Yagarelo",
+    "district": "kurima"
+  },
+  {
+    "id": "wulik-punua",
+    "name": "Wulik Punua",
+    "district": "kurima"
+  },
+  {
+    "id": "esalien",
+    "name": "Esalien",
+    "district": "kurima"
+  },
+  {
+    "id": "tukuarek",
+    "name": "Tukuarek",
+    "district": "kurima"
+  },
+  {
+    "id": "lotiahuglot",
+    "name": "Lotia/Huglot",
+    "district": "kurima"
+  },
+  {
+    "id": "pusuaga",
+    "name": "Pusuaga",
+    "district": "kurima"
+  },
+  {
+    "id": "soroh",
+    "name": "Soroh",
+    "district": "kurima"
+  },
+  {
+    "id": "eroma",
+    "name": "Eroma",
+    "district": "kurima"
+  },
+  {
+    "id": "air-garam",
+    "name": "Air Garam",
+    "district": "kurima"
+  },
+  {
+    "id": "wuluagaima",
+    "name": "Wuluagaima",
+    "district": "kurima"
+  },
+  {
+    "id": "huguma",
+    "name": "Huguma",
+    "district": "kurima"
+  },
+  {
+    "id": "parela",
+    "name": "Parela",
+    "district": "kurima"
+  },
+  {
+    "id": "hesmat",
+    "name": "Hesmat",
+    "district": "kurima"
+  }
+]

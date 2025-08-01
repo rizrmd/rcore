@@ -1,0 +1,42 @@
+[
+  {
+    "id": "naku",
+    "name": "Naku",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "kilang",
+    "name": "Kilang",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "hukurila",
+    "name": "Hukurila",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "ema",
+    "name": "Ema",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "hatalae",
+    "name": "Hatalae",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "hutumuri",
+    "name": "Hutumuri",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "rutong",
+    "name": "Rutong",
+    "district": "leitimur-selatan"
+  },
+  {
+    "id": "leahari",
+    "name": "Leahari",
+    "district": "leitimur-selatan"
+  }
+]

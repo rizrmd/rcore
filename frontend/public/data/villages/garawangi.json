@@ -1,0 +1,87 @@
+[
+  {
+    "id": "cirukem",
+    "name": "Cirukem",
+    "district": "garawangi"
+  },
+  {
+    "id": "gewok",
+    "name": "Gewok",
+    "district": "garawangi"
+  },
+  {
+    "id": "kutakembaran",
+    "name": "Kutakembaran",
+    "district": "garawangi"
+  },
+  {
+    "id": "pakembangan",
+    "name": "Pakembangan",
+    "district": "garawangi"
+  },
+  {
+    "id": "kadatuan",
+    "name": "Kadatuan",
+    "district": "garawangi"
+  },
+  {
+    "id": "tembong",
+    "name": "Tembong",
+    "district": "garawangi"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "garawangi"
+  },
+  {
+    "id": "purwasari",
+    "name": "Purwasari",
+    "district": "garawangi"
+  },
+  {
+    "id": "garawangi",
+    "name": "Garawangi",
+    "district": "garawangi"
+  },
+  {
+    "id": "karamatwangi",
+    "name": "Karamatwangi",
+    "district": "garawangi"
+  },
+  {
+    "id": "sukaimut",
+    "name": "Sukaimut",
+    "district": "garawangi"
+  },
+  {
+    "id": "cikananga",
+    "name": "Cikananga",
+    "district": "garawangi"
+  },
+  {
+    "id": "tambakbaya",
+    "name": "Tambakbaya",
+    "district": "garawangi"
+  },
+  {
+    "id": "mekarmulya",
+    "name": "Mekarmulya",
+    "district": "garawangi"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "garawangi"
+  },
+  {
+    "id": "mancagar",
+    "name": "Mancagar",
+    "district": "garawangi"
+  },
+  {
+    "id": "citiusari",
+    "name": "Citiusari",
+    "district": "garawangi"
+  }
+]

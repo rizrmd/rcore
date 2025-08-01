@@ -1,0 +1,32 @@
+[
+  {
+    "id": "allepolea",
+    "name": "Allepolea",
+    "district": "lau"
+  },
+  {
+    "id": "soreang",
+    "name": "Soreang",
+    "district": "lau"
+  },
+  {
+    "id": "marrannu",
+    "name": "Marrannu",
+    "district": "lau"
+  },
+  {
+    "id": "bonto-marannu",
+    "name": "Bonto Marannu",
+    "district": "lau"
+  },
+  {
+    "id": "maccini-baji",
+    "name": "Maccini Baji",
+    "district": "lau"
+  },
+  {
+    "id": "mattiro-deceng",
+    "name": "Mattiro Deceng",
+    "district": "lau"
+  }
+]

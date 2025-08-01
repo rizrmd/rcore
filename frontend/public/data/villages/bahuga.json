@@ -1,0 +1,57 @@
+[
+  {
+    "id": "giri-harjo",
+    "name": "Giri Harjo",
+    "district": "bahuga"
+  },
+  {
+    "id": "tulang-bawang",
+    "name": "Tulang Bawang",
+    "district": "bahuga"
+  },
+  {
+    "id": "mesir-udik",
+    "name": "Mesir Udik",
+    "district": "bahuga"
+  },
+  {
+    "id": "mesir-ilir",
+    "name": "Mesir Ilir",
+    "district": "bahuga"
+  },
+  {
+    "id": "bumi-agung-watas",
+    "name": "Bumi Agung Watas",
+    "district": "bahuga"
+  },
+  {
+    "id": "serdang-kuring",
+    "name": "Serdang Kuring",
+    "district": "bahuga"
+  },
+  {
+    "id": "sapto-renggo",
+    "name": "Sapto Renggo",
+    "district": "bahuga"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "bahuga"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "bahuga"
+  },
+  {
+    "id": "kota-dewa",
+    "name": "Kota Dewa",
+    "district": "bahuga"
+  },
+  {
+    "id": "dewa-agung",
+    "name": "Dewa Agung",
+    "district": "bahuga"
+  }
+]

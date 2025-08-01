@@ -1,0 +1,87 @@
+[
+  {
+    "id": "barangka",
+    "name": "Barangka",
+    "district": "kapontori"
+  },
+  {
+    "id": "wakalambe",
+    "name": "Wakalambe",
+    "district": "kapontori"
+  },
+  {
+    "id": "boneatiro",
+    "name": "Boneatiro",
+    "district": "kapontori"
+  },
+  {
+    "id": "lambusango",
+    "name": "Lambusango",
+    "district": "kapontori"
+  },
+  {
+    "id": "watumotobe",
+    "name": "Watumotobe",
+    "district": "kapontori"
+  },
+  {
+    "id": "waondo-wolio",
+    "name": "Waondo Wolio",
+    "district": "kapontori"
+  },
+  {
+    "id": "wakangka",
+    "name": "Wakangka",
+    "district": "kapontori"
+  },
+  {
+    "id": "tuangila",
+    "name": "Tuangila",
+    "district": "kapontori"
+  },
+  {
+    "id": "bukit-asri",
+    "name": "Bukit Asri",
+    "district": "kapontori"
+  },
+  {
+    "id": "todanga",
+    "name": "Todanga",
+    "district": "kapontori"
+  },
+  {
+    "id": "lambusango-timur",
+    "name": "Lambusango Timur",
+    "district": "kapontori"
+  },
+  {
+    "id": "kamelanta",
+    "name": "Kamelanta",
+    "district": "kapontori"
+  },
+  {
+    "id": "mabulugo",
+    "name": "Mabulugo",
+    "district": "kapontori"
+  },
+  {
+    "id": "wambulu",
+    "name": "Wambulu",
+    "district": "kapontori"
+  },
+  {
+    "id": "wakuli",
+    "name": "Wakuli",
+    "district": "kapontori"
+  },
+  {
+    "id": "tumada",
+    "name": "Tumada",
+    "district": "kapontori"
+  },
+  {
+    "id": "boneatiro-barat",
+    "name": "Boneatiro Barat",
+    "district": "kapontori"
+  }
+]

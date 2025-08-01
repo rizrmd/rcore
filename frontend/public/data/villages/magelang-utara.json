@@ -1,0 +1,27 @@
+[
+  {
+    "id": "wates",
+    "name": "Wates",
+    "district": "magelang-utara"
+  },
+  {
+    "id": "potrobangsan",
+    "name": "Potrobangsan",
+    "district": "magelang-utara"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "magelang-utara"
+  },
+  {
+    "id": "kramat-utara",
+    "name": "Kramat Utara",
+    "district": "magelang-utara"
+  },
+  {
+    "id": "kramat-selatan",
+    "name": "Kramat Selatan",
+    "district": "magelang-utara"
+  }
+]

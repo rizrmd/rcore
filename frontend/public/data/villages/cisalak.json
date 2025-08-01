@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cupunagara",
+    "name": "Cupunagara",
+    "district": "cisalak"
+  },
+  {
+    "id": "cimanggu",
+    "name": "Cimanggu",
+    "district": "cisalak"
+  },
+  {
+    "id": "gardusayang",
+    "name": "Gardusayang",
+    "district": "cisalak"
+  },
+  {
+    "id": "mayang",
+    "name": "Mayang",
+    "district": "cisalak"
+  },
+  {
+    "id": "sukakerti",
+    "name": "Sukakerti",
+    "district": "cisalak"
+  },
+  {
+    "id": "darmaga",
+    "name": "Darmaga",
+    "district": "cisalak"
+  },
+  {
+    "id": "cisalak",
+    "name": "Cisalak",
+    "district": "cisalak"
+  },
+  {
+    "id": "cigadog",
+    "name": "Cigadog",
+    "district": "cisalak"
+  },
+  {
+    "id": "pakuhaji",
+    "name": "Pakuhaji",
+    "district": "cisalak"
+  }
+]

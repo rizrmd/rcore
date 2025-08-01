@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moro",
+    "name": "Moro",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "durai",
+    "name": "Durai",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "kundur",
+    "name": "Kundur",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "kundur-utara",
+    "name": "Kundur Utara",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "kundur-barat",
+    "name": "Kundur Barat",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "ungar",
+    "name": "Ungar",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "belat",
+    "name": "Belat",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "karimun",
+    "name": "Karimun",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "buru",
+    "name": "Buru",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "meral",
+    "name": "Meral",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "tebing",
+    "name": "Tebing",
+    "regency": "kabupaten-karimun"
+  },
+  {
+    "id": "meral-barat",
+    "name": "Meral Barat",
+    "regency": "kabupaten-karimun"
+  }
+]

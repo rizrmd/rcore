@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bandungan",
+    "name": "Bandungan",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "boidu",
+    "name": "Boidu",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "tupa",
+    "name": "Tupa",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "longalo",
+    "name": "Longalo",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "tuloa",
+    "name": "Tuloa",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "lomaya",
+    "name": "Lomaya",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "kopi",
+    "name": "Kopi",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "bunuo",
+    "name": "Bunuo",
+    "district": "bulango-utara"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "bulango-utara"
+  }
+]

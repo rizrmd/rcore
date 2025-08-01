@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lok-batu",
+    "name": "Lok Batu",
+    "district": "haruai"
+  },
+  {
+    "id": "kembang-kuning",
+    "name": "Kembang Kuning",
+    "district": "haruai"
+  },
+  {
+    "id": "seradang",
+    "name": "Seradang",
+    "district": "haruai"
+  },
+  {
+    "id": "halong",
+    "name": "Halong",
+    "district": "haruai"
+  },
+  {
+    "id": "catur-karya",
+    "name": "Catur Karya",
+    "district": "haruai"
+  },
+  {
+    "id": "mahe-pasar",
+    "name": "Mahe Pasar",
+    "district": "haruai"
+  },
+  {
+    "id": "suriyan",
+    "name": "Suriyan",
+    "district": "haruai"
+  },
+  {
+    "id": "hayup",
+    "name": "Hayup",
+    "district": "haruai"
+  },
+  {
+    "id": "bongkang",
+    "name": "Bongkang",
+    "district": "haruai"
+  },
+  {
+    "id": "wirang",
+    "name": "Wirang",
+    "district": "haruai"
+  },
+  {
+    "id": "nawin",
+    "name": "Nawin",
+    "district": "haruai"
+  },
+  {
+    "id": "marindi",
+    "name": "Marindi",
+    "district": "haruai"
+  }
+]

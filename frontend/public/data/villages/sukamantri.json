@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tenggerraharja",
+    "name": "Tenggerraharja",
+    "district": "sukamantri"
+  },
+  {
+    "id": "sukamantri",
+    "name": "Sukamantri",
+    "district": "sukamantri"
+  },
+  {
+    "id": "cibeureum",
+    "name": "Cibeureum",
+    "district": "sukamantri"
+  },
+  {
+    "id": "sindanglaya",
+    "name": "Sindanglaya",
+    "district": "sukamantri"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "sukamantri"
+  }
+]

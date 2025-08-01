@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wailau",
+    "name": "Wailau",
+    "district": "sanana"
+  },
+  {
+    "id": "pastina",
+    "name": "Pastina",
+    "district": "sanana"
+  },
+  {
+    "id": "umaloya",
+    "name": "Umaloya",
+    "district": "sanana"
+  },
+  {
+    "id": "wai-ipa",
+    "name": "Wai Ipa",
+    "district": "sanana"
+  },
+  {
+    "id": "wai-hama",
+    "name": "Wai Hama",
+    "district": "sanana"
+  },
+  {
+    "id": "fogi",
+    "name": "Fogi",
+    "district": "sanana"
+  },
+  {
+    "id": "fatce",
+    "name": "Fatce",
+    "district": "sanana"
+  },
+  {
+    "id": "falahu",
+    "name": "Falahu",
+    "district": "sanana"
+  },
+  {
+    "id": "fagudu",
+    "name": "Fagudu",
+    "district": "sanana"
+  },
+  {
+    "id": "mangon",
+    "name": "Mangon",
+    "district": "sanana"
+  },
+  {
+    "id": "waibau",
+    "name": "Waibau",
+    "district": "sanana"
+  }
+]

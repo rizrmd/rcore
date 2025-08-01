@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "pelabai"
+  },
+  {
+    "id": "sukau-datang",
+    "name": "Sukau Datang",
+    "district": "pelabai"
+  },
+  {
+    "id": "sukau-datang-i",
+    "name": "Sukau Datang I",
+    "district": "pelabai"
+  },
+  {
+    "id": "gunung-alam",
+    "name": "Gunung Alam",
+    "district": "pelabai"
+  },
+  {
+    "id": "tabeak-blau-ii",
+    "name": "Tabeak Blau Ii",
+    "district": "pelabai"
+  },
+  {
+    "id": "kota-baru-santan",
+    "name": "Kota Baru Santan",
+    "district": "pelabai"
+  },
+  {
+    "id": "tik-teleu",
+    "name": "Tik Teleu",
+    "district": "pelabai"
+  },
+  {
+    "id": "pelabai",
+    "name": "Pelabai",
+    "district": "pelabai"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "duri-kosambi",
+    "name": "Duri Kosambi",
+    "district": "cengkareng"
+  },
+  {
+    "id": "rawa-buaya",
+    "name": "Rawa Buaya",
+    "district": "cengkareng"
+  },
+  {
+    "id": "kedaung-kali-angke",
+    "name": "Kedaung Kali Angke",
+    "district": "cengkareng"
+  },
+  {
+    "id": "kapuk",
+    "name": "Kapuk",
+    "district": "cengkareng"
+  },
+  {
+    "id": "cengkareng-timur",
+    "name": "Cengkareng Timur",
+    "district": "cengkareng"
+  },
+  {
+    "id": "cengkareng-barat",
+    "name": "Cengkareng Barat",
+    "district": "cengkareng"
+  }
+]

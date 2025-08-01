@@ -1,0 +1,52 @@
+[
+  {
+    "id": "inderapura",
+    "name": "Inderapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "muaro-sakai-inderapura",
+    "name": "Muaro Sakai Inderapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "inderapura-barat",
+    "name": "Inderapura Barat",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "tigo-sepakat-inderapura",
+    "name": "Tigo Sepakat Inderapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "inderapura-selatan",
+    "name": "Inderapura Selatan",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "kudo-kudo-inderapura",
+    "name": "Kudo-Kudo Inderapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "simpang-lama-inderapura",
+    "name": "Simpang Lama Inderapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "tluk-amplu-indrapura",
+    "name": "Tluk Amplu Indrapura",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "inderapura-tengah",
+    "name": "Inderapura Tengah",
+    "district": "pancung-soal"
+  },
+  {
+    "id": "tigo-sungai-inderapura",
+    "name": "Tigo Sungai Inderapura",
+    "district": "pancung-soal"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kampung-baru-nan-xx",
+    "name": "Kampung Baru Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "pampangan-nan-xx",
+    "name": "Pampangan Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "koto-baru-nan-xx",
+    "name": "Koto Baru Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "tanjuang-aur-nan-xx",
+    "name": "Tanjuang Aur Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "gurun-laweh-nan-xx",
+    "name": "Gurun Laweh Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "banuaran-nan-xx",
+    "name": "Banuaran Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "lubuk-begalung-nan-xx",
+    "name": "Lubuk Begalung Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "cengkeh-nan-xx",
+    "name": "Cengkeh Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "gates-nan-xx",
+    "name": "Gates Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "pagambiran-ampulu-nan-xx",
+    "name": "Pagambiran Ampulu Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "parak-laweh-pulau-air-nan-xx",
+    "name": "Parak Laweh Pulau Air Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "tanjung-saba-pitameh-nan-xx",
+    "name": "Tanjung Saba Pitameh Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "tanah-sirah-piai-nan-xx",
+    "name": "Tanah Sirah Piai Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "kampung-jua-nan-xx",
+    "name": "Kampung Jua Nan Xx",
+    "district": "lubuk-begalung"
+  },
+  {
+    "id": "batuang-taba-nan-xx",
+    "name": "Batuang Taba Nan Xx",
+    "district": "lubuk-begalung"
+  }
+]

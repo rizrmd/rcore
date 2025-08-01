@@ -1,0 +1,62 @@
+[
+  {
+    "id": "malunda",
+    "name": "Malunda",
+    "district": "malunda"
+  },
+  {
+    "id": "lombong",
+    "name": "Lombong",
+    "district": "malunda"
+  },
+  {
+    "id": "bambangan",
+    "name": "Bambangan",
+    "district": "malunda"
+  },
+  {
+    "id": "mekkatta",
+    "name": "Mekkatta",
+    "district": "malunda"
+  },
+  {
+    "id": "maliaya",
+    "name": "Maliaya",
+    "district": "malunda"
+  },
+  {
+    "id": "lombang",
+    "name": "Lombang",
+    "district": "malunda"
+  },
+  {
+    "id": "lamungang-batu",
+    "name": "Lamungang Batu",
+    "district": "malunda"
+  },
+  {
+    "id": "kayuangin",
+    "name": "Kayuangin",
+    "district": "malunda"
+  },
+  {
+    "id": "lombong-timur",
+    "name": "Lombong Timur",
+    "district": "malunda"
+  },
+  {
+    "id": "salutahongan",
+    "name": "Salutahongan",
+    "district": "malunda"
+  },
+  {
+    "id": "mekkatta-selatan",
+    "name": "Mekkatta Selatan",
+    "district": "malunda"
+  },
+  {
+    "id": "lombang-timur",
+    "name": "Lombang Timur",
+    "district": "malunda"
+  }
+]

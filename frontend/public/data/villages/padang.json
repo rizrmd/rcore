@@ -1,0 +1,47 @@
+[
+  {
+    "id": "barat",
+    "name": "Barat",
+    "district": "padang"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "padang"
+  },
+  {
+    "id": "mojo",
+    "name": "Mojo",
+    "district": "padang"
+  },
+  {
+    "id": "bodang",
+    "name": "Bodang",
+    "district": "padang"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "padang"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "padang"
+  },
+  {
+    "id": "kalisemut",
+    "name": "Kalisemut",
+    "district": "padang"
+  },
+  {
+    "id": "merakan",
+    "name": "Merakan",
+    "district": "padang"
+  },
+  {
+    "id": "tanggung",
+    "name": "Tanggung",
+    "district": "padang"
+  }
+]

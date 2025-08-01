@@ -1,0 +1,47 @@
+[
+  {
+    "id": "membuluh-baru",
+    "name": "Membuluh Baru",
+    "district": "air-upas"
+  },
+  {
+    "id": "gahang",
+    "name": "Gahang",
+    "district": "air-upas"
+  },
+  {
+    "id": "air-upas",
+    "name": "Air Upas",
+    "district": "air-upas"
+  },
+  {
+    "id": "air-durian-jaya",
+    "name": "Air Durian Jaya",
+    "district": "air-upas"
+  },
+  {
+    "id": "sari-bekayas",
+    "name": "Sari Bekayas",
+    "district": "air-upas"
+  },
+  {
+    "id": "banda-sari",
+    "name": "Banda Sari",
+    "district": "air-upas"
+  },
+  {
+    "id": "sukaria",
+    "name": "Sukaria",
+    "district": "air-upas"
+  },
+  {
+    "id": "harapan-baru",
+    "name": "Harapan Baru",
+    "district": "air-upas"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "air-upas"
+  }
+]

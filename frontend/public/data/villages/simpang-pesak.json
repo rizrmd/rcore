@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tanjung-kelumpang",
+    "name": "Tanjung Kelumpang",
+    "district": "simpang-pesak"
+  },
+  {
+    "id": "tanjung-batu-itam",
+    "name": "Tanjung Batu Itam",
+    "district": "simpang-pesak"
+  },
+  {
+    "id": "dukong",
+    "name": "Dukong",
+    "district": "simpang-pesak"
+  },
+  {
+    "id": "simpang-pesak",
+    "name": "Simpang Pesak",
+    "district": "simpang-pesak"
+  }
+]

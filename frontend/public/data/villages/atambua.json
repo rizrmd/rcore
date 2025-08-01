@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fatubenao",
+    "name": "Fatubenao",
+    "district": "atambua"
+  },
+  {
+    "id": "atambua",
+    "name": "Atambua",
+    "district": "atambua"
+  },
+  {
+    "id": "manumutin",
+    "name": "Manumutin",
+    "district": "atambua"
+  },
+  {
+    "id": "tenukiik",
+    "name": "Tenukiik",
+    "district": "atambua"
+  }
+]

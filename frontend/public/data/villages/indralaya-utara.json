@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "lorok",
+    "name": "Lorok",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "parit",
+    "name": "Parit",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "purnajaya",
+    "name": "Purnajaya",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "payakabung",
+    "name": "Payakabung",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "tanjung-pering",
+    "name": "Tanjung Pering",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "sungai-rambutan",
+    "name": "Sungai Rambutan",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "suak-batok",
+    "name": "Suak Batok",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "timbangan",
+    "name": "Timbangan",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "suka-mulia",
+    "name": "Suka Mulia",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "pulau-kabal",
+    "name": "Pulau Kabal",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "tanjung-pule",
+    "name": "Tanjung Pule",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "permata-baru",
+    "name": "Permata Baru",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "palem-raya",
+    "name": "Palem Raya",
+    "district": "indralaya-utara"
+  },
+  {
+    "id": "pulau-semambu",
+    "name": "Pulau Semambu",
+    "district": "indralaya-utara"
+  }
+]

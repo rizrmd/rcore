@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rambang-kapak-tengah",
+    "name": "Rambang Kapak Tengah",
+    "regency": "kota-prabumulih"
+  },
+  {
+    "id": "prabumulih-timur",
+    "name": "Prabumulih Timur",
+    "regency": "kota-prabumulih"
+  },
+  {
+    "id": "prabumulih-selatan",
+    "name": "Prabumulih Selatan",
+    "regency": "kota-prabumulih"
+  },
+  {
+    "id": "prabumulih-barat",
+    "name": "Prabumulih Barat",
+    "regency": "kota-prabumulih"
+  },
+  {
+    "id": "prabumulih-utara",
+    "name": "Prabumulih Utara",
+    "regency": "kota-prabumulih"
+  },
+  {
+    "id": "cambai",
+    "name": "Cambai",
+    "regency": "kota-prabumulih"
+  }
+]

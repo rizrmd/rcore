@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sasnek",
+    "name": "Sasnek",
+    "district": "sawiat"
+  },
+  {
+    "id": "sawiat",
+    "name": "Sawiat",
+    "district": "sawiat"
+  },
+  {
+    "id": "wendi",
+    "name": "Wendi",
+    "district": "sawiat"
+  },
+  {
+    "id": "sfagyo",
+    "name": "Sfagyo",
+    "district": "sawiat"
+  },
+  {
+    "id": "sudrofoyo",
+    "name": "Sudrofoyo",
+    "district": "sawiat"
+  },
+  {
+    "id": "wensoug",
+    "name": "Wensoug",
+    "district": "sawiat"
+  }
+]

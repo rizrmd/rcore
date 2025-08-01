@@ -1,0 +1,22 @@
+[
+  {
+    "id": "antapani-kidul",
+    "name": "Antapani Kidul",
+    "district": "antapani"
+  },
+  {
+    "id": "antapani-tengah",
+    "name": "Antapani Tengah",
+    "district": "antapani"
+  },
+  {
+    "id": "antapani-wetan",
+    "name": "Antapani Wetan",
+    "district": "antapani"
+  },
+  {
+    "id": "antapani-kulon",
+    "name": "Antapani Kulon",
+    "district": "antapani"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "waroi",
+    "name": "Waroi",
+    "district": "yendidori"
+  },
+  {
+    "id": "samber",
+    "name": "Samber",
+    "district": "yendidori"
+  },
+  {
+    "id": "sunyar",
+    "name": "Sunyar",
+    "district": "yendidori"
+  },
+  {
+    "id": "adoki",
+    "name": "Adoki",
+    "district": "yendidori"
+  },
+  {
+    "id": "yendidori",
+    "name": "Yendidori",
+    "district": "yendidori"
+  },
+  {
+    "id": "moibaken",
+    "name": "Moibaken",
+    "district": "yendidori"
+  },
+  {
+    "id": "wirmaker",
+    "name": "Wirmaker",
+    "district": "yendidori"
+  },
+  {
+    "id": "syabes",
+    "name": "Syabes",
+    "district": "yendidori"
+  },
+  {
+    "id": "samber-sup",
+    "name": "Samber Sup",
+    "district": "yendidori"
+  },
+  {
+    "id": "kabidon",
+    "name": "Kabidon",
+    "district": "yendidori"
+  },
+  {
+    "id": "rarmpimbo",
+    "name": "Rarmpimbo",
+    "district": "yendidori"
+  },
+  {
+    "id": "padwa",
+    "name": "Padwa",
+    "district": "yendidori"
+  },
+  {
+    "id": "suneri",
+    "name": "Suneri",
+    "district": "yendidori"
+  },
+  {
+    "id": "binyeri",
+    "name": "Binyeri",
+    "district": "yendidori"
+  },
+  {
+    "id": "amyabenram",
+    "name": "Amyabenram",
+    "district": "yendidori"
+  },
+  {
+    "id": "inpendi",
+    "name": "Inpendi",
+    "district": "yendidori"
+  },
+  {
+    "id": "birubi",
+    "name": "Birubi",
+    "district": "yendidori"
+  },
+  {
+    "id": "padwa-pantai",
+    "name": "Padwa Pantai",
+    "district": "yendidori"
+  }
+]

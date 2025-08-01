@@ -1,0 +1,37 @@
+[
+  {
+    "id": "jimbung",
+    "name": "Jimbung",
+    "district": "kalikotes"
+  },
+  {
+    "id": "ngemplak",
+    "name": "Ngemplak",
+    "district": "kalikotes"
+  },
+  {
+    "id": "kalikotes",
+    "name": "Kalikotes",
+    "district": "kalikotes"
+  },
+  {
+    "id": "krajan",
+    "name": "Krajan",
+    "district": "kalikotes"
+  },
+  {
+    "id": "tambongwetan",
+    "name": "Tambongwetan",
+    "district": "kalikotes"
+  },
+  {
+    "id": "gemblegan",
+    "name": "Gemblegan",
+    "district": "kalikotes"
+  },
+  {
+    "id": "jogosetran",
+    "name": "Jogosetran",
+    "district": "kalikotes"
+  }
+]

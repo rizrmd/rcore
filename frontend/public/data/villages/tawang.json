@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kahuripan",
+    "name": "Kahuripan",
+    "district": "tawang"
+  },
+  {
+    "id": "cikalang",
+    "name": "Cikalang",
+    "district": "tawang"
+  },
+  {
+    "id": "empangsari",
+    "name": "Empangsari",
+    "district": "tawang"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "tawang"
+  },
+  {
+    "id": "lengkongsari",
+    "name": "Lengkongsari",
+    "district": "tawang"
+  }
+]

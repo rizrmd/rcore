@@ -1,0 +1,52 @@
+[
+  {
+    "id": "nibung",
+    "name": "Nibung",
+    "district": "koba"
+  },
+  {
+    "id": "koba",
+    "name": "Koba",
+    "district": "koba"
+  },
+  {
+    "id": "arung-dalam",
+    "name": "Arung Dalam",
+    "district": "koba"
+  },
+  {
+    "id": "terentang-tiga",
+    "name": "Terentang Tiga",
+    "district": "koba"
+  },
+  {
+    "id": "penyak",
+    "name": "Penyak",
+    "district": "koba"
+  },
+  {
+    "id": "kurau",
+    "name": "Kurau",
+    "district": "koba"
+  },
+  {
+    "id": "kurau-barat",
+    "name": "Kurau Barat",
+    "district": "koba"
+  },
+  {
+    "id": "simpang-perlang",
+    "name": "Simpang Perlang",
+    "district": "koba"
+  },
+  {
+    "id": "padang-mulia",
+    "name": "Padang Mulia",
+    "district": "koba"
+  },
+  {
+    "id": "berok",
+    "name": "Berok",
+    "district": "koba"
+  }
+]

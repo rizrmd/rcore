@@ -1,0 +1,57 @@
+[
+  {
+    "id": "soropadan",
+    "name": "Soropadan",
+    "district": "pringsurat"
+  },
+  {
+    "id": "pringsurat",
+    "name": "Pringsurat",
+    "district": "pringsurat"
+  },
+  {
+    "id": "karangwuni",
+    "name": "Karangwuni",
+    "district": "pringsurat"
+  },
+  {
+    "id": "gowak",
+    "name": "Gowak",
+    "district": "pringsurat"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "pringsurat"
+  },
+  {
+    "id": "ngipik",
+    "name": "Ngipik",
+    "district": "pringsurat"
+  },
+  {
+    "id": "pingit",
+    "name": "Pingit",
+    "district": "pringsurat"
+  },
+  {
+    "id": "pagergunung",
+    "name": "Pagergunung",
+    "district": "pringsurat"
+  },
+  {
+    "id": "nglorog",
+    "name": "Nglorog",
+    "district": "pringsurat"
+  },
+  {
+    "id": "soborejo",
+    "name": "Soborejo",
+    "district": "pringsurat"
+  },
+  {
+    "id": "wonokerso",
+    "name": "Wonokerso",
+    "district": "pringsurat"
+  }
+]

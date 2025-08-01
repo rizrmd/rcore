@@ -1,0 +1,32 @@
+[
+  {
+    "id": "katelan",
+    "name": "Katelan",
+    "district": "tangen"
+  },
+  {
+    "id": "jekawal",
+    "name": "Jekawal",
+    "district": "tangen"
+  },
+  {
+    "id": "galeh",
+    "name": "Galeh",
+    "district": "tangen"
+  },
+  {
+    "id": "ngrombo",
+    "name": "Ngrombo",
+    "district": "tangen"
+  },
+  {
+    "id": "sigit",
+    "name": "Sigit",
+    "district": "tangen"
+  },
+  {
+    "id": "denanyar",
+    "name": "Denanyar",
+    "district": "tangen"
+  }
+]

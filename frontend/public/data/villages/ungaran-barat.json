@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gogik",
+    "name": "Gogik",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "langensari",
+    "name": "Langensari",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "nyatnyono",
+    "name": "Nyatnyono",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "ungaran",
+    "name": "Ungaran",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "bandarjo",
+    "name": "Bandarjo",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "keji",
+    "name": "Keji",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "kalisidi",
+    "name": "Kalisidi",
+    "district": "ungaran-barat"
+  },
+  {
+    "id": "branjang",
+    "name": "Branjang",
+    "district": "ungaran-barat"
+  }
+]

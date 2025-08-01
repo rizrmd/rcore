@@ -1,0 +1,52 @@
+[
+  {
+    "id": "poris-plawad-indah",
+    "name": "Poris Plawad Indah",
+    "district": "cipondoh"
+  },
+  {
+    "id": "cipondoh",
+    "name": "Cipondoh",
+    "district": "cipondoh"
+  },
+  {
+    "id": "kenanga",
+    "name": "Kenanga",
+    "district": "cipondoh"
+  },
+  {
+    "id": "gondrong",
+    "name": "Gondrong",
+    "district": "cipondoh"
+  },
+  {
+    "id": "petir",
+    "name": "Petir",
+    "district": "cipondoh"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "cipondoh"
+  },
+  {
+    "id": "cipondoh-indah",
+    "name": "Cipondoh Indah",
+    "district": "cipondoh"
+  },
+  {
+    "id": "cipondoh-makmur",
+    "name": "Cipondoh Makmur",
+    "district": "cipondoh"
+  },
+  {
+    "id": "poris-plawad-utara",
+    "name": "Poris Plawad Utara",
+    "district": "cipondoh"
+  },
+  {
+    "id": "poris-plawad",
+    "name": "Poris Plawad",
+    "district": "cipondoh"
+  }
+]

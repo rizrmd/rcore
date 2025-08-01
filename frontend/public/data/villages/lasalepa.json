@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "lasalepa"
+  },
+  {
+    "id": "lasalepa",
+    "name": "Lasalepa",
+    "district": "lasalepa"
+  },
+  {
+    "id": "parida",
+    "name": "Parida",
+    "district": "lasalepa"
+  },
+  {
+    "id": "labunti",
+    "name": "Labunti",
+    "district": "lasalepa"
+  },
+  {
+    "id": "bonea",
+    "name": "Bonea",
+    "district": "lasalepa"
+  },
+  {
+    "id": "labone",
+    "name": "Labone",
+    "district": "lasalepa"
+  },
+  {
+    "id": "kombungo",
+    "name": "Kombungo",
+    "district": "lasalepa"
+  },
+  {
+    "id": "roda",
+    "name": "Roda",
+    "district": "lasalepa"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dempo-makmur",
+    "name": "Dempo Makmur",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "bangun-rejo",
+    "name": "Bangun Rejo",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "curup-jare",
+    "name": "Curup Jare",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "pagar-alam",
+    "name": "Pagar Alam",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "alun-dua",
+    "name": "Alun Dua",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "kuripan-babas",
+    "name": "Kuripan Babas",
+    "district": "pagar-alam-utara"
+  },
+  {
+    "id": "selibar",
+    "name": "Selibar",
+    "district": "pagar-alam-utara"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cikeduk",
+    "name": "Cikeduk",
+    "district": "depok"
+  },
+  {
+    "id": "warugede",
+    "name": "Warugede",
+    "district": "depok"
+  },
+  {
+    "id": "karangwangi",
+    "name": "Karangwangi",
+    "district": "depok"
+  },
+  {
+    "id": "getasan",
+    "name": "Getasan",
+    "district": "depok"
+  },
+  {
+    "id": "keduanan",
+    "name": "Keduanan",
+    "district": "depok"
+  },
+  {
+    "id": "waruroyom",
+    "name": "Waruroyom",
+    "district": "depok"
+  },
+  {
+    "id": "warukawung",
+    "name": "Warukawung",
+    "district": "depok"
+  },
+  {
+    "id": "warujaya",
+    "name": "Warujaya",
+    "district": "depok"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "depok"
+  },
+  {
+    "id": "kasugengan-kidul",
+    "name": "Kasugengan Kidul",
+    "district": "depok"
+  },
+  {
+    "id": "kasugengan-lor",
+    "name": "Kasugengan Lor",
+    "district": "depok"
+  },
+  {
+    "id": "catur-tunggal",
+    "name": "Catur Tunggal",
+    "district": "depok"
+  },
+  {
+    "id": "maguwoharjo",
+    "name": "Maguwoharjo",
+    "district": "depok"
+  },
+  {
+    "id": "condong-catur",
+    "name": "Condong Catur",
+    "district": "depok"
+  }
+]

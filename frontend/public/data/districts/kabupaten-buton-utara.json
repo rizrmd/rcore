@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bonegunu",
+    "name": "Bonegunu",
+    "regency": "kabupaten-buton-utara"
+  },
+  {
+    "id": "kambowa",
+    "name": "Kambowa",
+    "regency": "kabupaten-buton-utara"
+  },
+  {
+    "id": "wakorumba",
+    "name": "Wakorumba",
+    "regency": "kabupaten-buton-utara"
+  },
+  {
+    "id": "kulisusu",
+    "name": "Kulisusu",
+    "regency": "kabupaten-buton-utara"
+  },
+  {
+    "id": "kulisusu-barat",
+    "name": "Kulisusu Barat",
+    "regency": "kabupaten-buton-utara"
+  },
+  {
+    "id": "kulisusu-utara",
+    "name": "Kulisusu Utara",
+    "regency": "kabupaten-buton-utara"
+  }
+]

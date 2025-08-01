@@ -1,0 +1,27 @@
+[
+  {
+    "id": "padang-hulu",
+    "name": "Padang Hulu",
+    "regency": "kota-tebing-tinggi"
+  },
+  {
+    "id": "tebing-tinggi-kota",
+    "name": "Tebing Tinggi Kota",
+    "regency": "kota-tebing-tinggi"
+  },
+  {
+    "id": "rambutan",
+    "name": "Rambutan",
+    "regency": "kota-tebing-tinggi"
+  },
+  {
+    "id": "bajenis",
+    "name": "Bajenis",
+    "regency": "kota-tebing-tinggi"
+  },
+  {
+    "id": "padang-hilir",
+    "name": "Padang Hilir",
+    "regency": "kota-tebing-tinggi"
+  }
+]

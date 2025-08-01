@@ -1,0 +1,62 @@
+[
+  {
+    "id": "poldung",
+    "name": "Poldung",
+    "district": "aek-natas"
+  },
+  {
+    "id": "rombisan",
+    "name": "Rombisan",
+    "district": "aek-natas"
+  },
+  {
+    "id": "sibito",
+    "name": "Sibito",
+    "district": "aek-natas"
+  },
+  {
+    "id": "simonis",
+    "name": "Simonis",
+    "district": "aek-natas"
+  },
+  {
+    "id": "kampung-yaman",
+    "name": "Kampung Yaman",
+    "district": "aek-natas"
+  },
+  {
+    "id": "perkebunan-aek-pamingke",
+    "name": "Perkebunan Aek Pamingke",
+    "district": "aek-natas"
+  },
+  {
+    "id": "bandar-durian",
+    "name": "Bandar Durian",
+    "district": "aek-natas"
+  },
+  {
+    "id": "perkebunan-halimbe",
+    "name": "Perkebunan Halimbe",
+    "district": "aek-natas"
+  },
+  {
+    "id": "terang-bulan",
+    "name": "Terang Bulan",
+    "district": "aek-natas"
+  },
+  {
+    "id": "adian-torop",
+    "name": "Adian Torop",
+    "district": "aek-natas"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "aek-natas"
+  },
+  {
+    "id": "ujung-padang",
+    "name": "Ujung Padang",
+    "district": "aek-natas"
+  }
+]

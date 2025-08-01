@@ -1,0 +1,32 @@
+[
+  {
+    "id": "teluk-bayur",
+    "name": "Teluk Bayur",
+    "district": "teluk-bayur"
+  },
+  {
+    "id": "rinding",
+    "name": "Rinding",
+    "district": "teluk-bayur"
+  },
+  {
+    "id": "labanan-makarti",
+    "name": "Labanan Makarti",
+    "district": "teluk-bayur"
+  },
+  {
+    "id": "labanan-makmur",
+    "name": "Labanan Makmur",
+    "district": "teluk-bayur"
+  },
+  {
+    "id": "labanan-jaya",
+    "name": "Labanan Jaya",
+    "district": "teluk-bayur"
+  },
+  {
+    "id": "tumbit-melayu",
+    "name": "Tumbit Melayu",
+    "district": "teluk-bayur"
+  }
+]

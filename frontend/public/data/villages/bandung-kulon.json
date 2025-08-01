@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gempol-sari",
+    "name": "Gempol Sari",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "cigondewah-kaler",
+    "name": "Cigondewah Kaler",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "cigondewah-kidul",
+    "name": "Cigondewah Kidul",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "cigondewah-rahayu",
+    "name": "Cigondewah Rahayu",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "warung-muncang",
+    "name": "Warung Muncang",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "cibuntu",
+    "name": "Cibuntu",
+    "district": "bandung-kulon"
+  },
+  {
+    "id": "cijerah",
+    "name": "Cijerah",
+    "district": "bandung-kulon"
+  }
+]

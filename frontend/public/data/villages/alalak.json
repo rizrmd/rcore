@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pulau-sugara",
+    "name": "Pulau Sugara",
+    "district": "alalak"
+  },
+  {
+    "id": "pulau-sewangi",
+    "name": "Pulau Sewangi",
+    "district": "alalak"
+  },
+  {
+    "id": "pulau-alalak",
+    "name": "Pulau Alalak",
+    "district": "alalak"
+  },
+  {
+    "id": "semangat-karya",
+    "name": "Semangat Karya",
+    "district": "alalak"
+  },
+  {
+    "id": "semangat-bakti",
+    "name": "Semangat Bakti",
+    "district": "alalak"
+  },
+  {
+    "id": "semangat-dalam",
+    "name": "Semangat Dalam",
+    "district": "alalak"
+  },
+  {
+    "id": "handil-bakti",
+    "name": "Handil Bakti",
+    "district": "alalak"
+  },
+  {
+    "id": "tatah-mesjid",
+    "name": "Tatah Mesjid",
+    "district": "alalak"
+  },
+  {
+    "id": "berangas-timur",
+    "name": "Berangas Timur",
+    "district": "alalak"
+  },
+  {
+    "id": "berangas",
+    "name": "Berangas",
+    "district": "alalak"
+  },
+  {
+    "id": "berangas-barat",
+    "name": "Berangas Barat",
+    "district": "alalak"
+  },
+  {
+    "id": "sungai-lumbah",
+    "name": "Sungai Lumbah",
+    "district": "alalak"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "alalak"
+  },
+  {
+    "id": "sungai-pitung",
+    "name": "Sungai Pitung",
+    "district": "alalak"
+  },
+  {
+    "id": "belandean-muara",
+    "name": "Belandean Muara",
+    "district": "alalak"
+  },
+  {
+    "id": "belandean",
+    "name": "Belandean",
+    "district": "alalak"
+  },
+  {
+    "id": "panca-karya",
+    "name": "Panca Karya",
+    "district": "alalak"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "alalak"
+  }
+]

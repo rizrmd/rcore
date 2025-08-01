@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mungo",
+    "name": "Mungo",
+    "district": "luak"
+  },
+  {
+    "id": "andaleh",
+    "name": "Andaleh",
+    "district": "luak"
+  },
+  {
+    "id": "sungai-kamuyang",
+    "name": "Sungai Kamuyang",
+    "district": "luak"
+  },
+  {
+    "id": "tanjuang-aro-sikabu-kabu-pd-panjang",
+    "name": "Tanjuang Aro Sikabu-Kabu Pd. Panjang",
+    "district": "luak"
+  }
+]

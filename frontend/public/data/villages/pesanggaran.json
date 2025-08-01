@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sarongan",
+    "name": "Sarongan",
+    "district": "pesanggaran"
+  },
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "pesanggaran"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "pesanggaran"
+  },
+  {
+    "id": "pesanggaran",
+    "name": "Pesanggaran",
+    "district": "pesanggaran"
+  },
+  {
+    "id": "sumbermulyo",
+    "name": "Sumbermulyo",
+    "district": "pesanggaran"
+  }
+]

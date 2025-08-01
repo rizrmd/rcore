@@ -1,0 +1,62 @@
+[
+  {
+    "id": "naioni",
+    "name": "Naioni",
+    "district": "alak"
+  },
+  {
+    "id": "manulai-ii",
+    "name": "Manulai Ii",
+    "district": "alak"
+  },
+  {
+    "id": "batuplat",
+    "name": "Batuplat",
+    "district": "alak"
+  },
+  {
+    "id": "alak",
+    "name": "Alak",
+    "district": "alak"
+  },
+  {
+    "id": "manutapen",
+    "name": "Manutapen",
+    "district": "alak"
+  },
+  {
+    "id": "mantasi",
+    "name": "Mantasi",
+    "district": "alak"
+  },
+  {
+    "id": "fatufeto",
+    "name": "Fatufeto",
+    "district": "alak"
+  },
+  {
+    "id": "nunhila",
+    "name": "Nunhila",
+    "district": "alak"
+  },
+  {
+    "id": "nunbaun-delha",
+    "name": "Nunbaun Delha",
+    "district": "alak"
+  },
+  {
+    "id": "nunbaun-sabu",
+    "name": "Nunbaun Sabu",
+    "district": "alak"
+  },
+  {
+    "id": "namosain",
+    "name": "Namosain",
+    "district": "alak"
+  },
+  {
+    "id": "penkase-oeleta",
+    "name": "Penkase-Oeleta",
+    "district": "alak"
+  }
+]

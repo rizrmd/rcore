@@ -1,0 +1,32 @@
+[
+  {
+    "id": "panunggangan-barat",
+    "name": "Panunggangan Barat",
+    "district": "cibodas"
+  },
+  {
+    "id": "cibodasari",
+    "name": "Cibodasari",
+    "district": "cibodas"
+  },
+  {
+    "id": "cibodas-baru",
+    "name": "Cibodas Baru",
+    "district": "cibodas"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "cibodas"
+  },
+  {
+    "id": "uwung-jaya",
+    "name": "Uwung Jaya",
+    "district": "cibodas"
+  },
+  {
+    "id": "jatiuwung",
+    "name": "Jatiuwung",
+    "district": "cibodas"
+  }
+]

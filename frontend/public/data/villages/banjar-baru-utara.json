@@ -1,0 +1,22 @@
+[
+  {
+    "id": "loktabat-utara",
+    "name": "Loktabat Utara",
+    "district": "banjar-baru-utara"
+  },
+  {
+    "id": "mentaos",
+    "name": "Mentaos",
+    "district": "banjar-baru-utara"
+  },
+  {
+    "id": "komet",
+    "name": "Komet",
+    "district": "banjar-baru-utara"
+  },
+  {
+    "id": "sungai-ulin",
+    "name": "Sungai Ulin",
+    "district": "banjar-baru-utara"
+  }
+]

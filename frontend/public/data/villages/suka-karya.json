@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rantau-alih",
+    "name": "Rantau Alih",
+    "district": "suka-karya"
+  },
+  {
+    "id": "ciptodadi",
+    "name": "Ciptodadi",
+    "district": "suka-karya"
+  },
+  {
+    "id": "sugi-waras",
+    "name": "Sugi Waras",
+    "district": "suka-karya"
+  },
+  {
+    "id": "sukowarno",
+    "name": "Sukowarno",
+    "district": "suka-karya"
+  },
+  {
+    "id": "bangun-rejo",
+    "name": "Bangun Rejo",
+    "district": "suka-karya"
+  },
+  {
+    "id": "yudha-karya",
+    "name": "Yudha Karya",
+    "district": "suka-karya"
+  },
+  {
+    "id": "sukarena",
+    "name": "Sukarena",
+    "district": "suka-karya"
+  },
+  {
+    "id": "ciptodadi-ii",
+    "name": "Ciptodadi Ii",
+    "district": "suka-karya"
+  }
+]

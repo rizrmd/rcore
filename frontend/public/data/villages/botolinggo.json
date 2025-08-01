@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumbercanting",
+    "name": "Sumbercanting",
+    "district": "botolinggo"
+  },
+  {
+    "id": "lanas",
+    "name": "Lanas",
+    "district": "botolinggo"
+  },
+  {
+    "id": "penang",
+    "name": "Penang",
+    "district": "botolinggo"
+  },
+  {
+    "id": "klekean",
+    "name": "Klekean",
+    "district": "botolinggo"
+  },
+  {
+    "id": "gayam",
+    "name": "Gayam",
+    "district": "botolinggo"
+  },
+  {
+    "id": "lumutan",
+    "name": "Lumutan",
+    "district": "botolinggo"
+  },
+  {
+    "id": "botolinggo",
+    "name": "Botolinggo",
+    "district": "botolinggo"
+  },
+  {
+    "id": "gayam-lor",
+    "name": "Gayam Lor",
+    "district": "botolinggo"
+  }
+]

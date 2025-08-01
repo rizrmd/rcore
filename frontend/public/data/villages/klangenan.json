@@ -1,0 +1,47 @@
+[
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "klangenan"
+  },
+  {
+    "id": "klangenan",
+    "name": "Klangenan",
+    "district": "klangenan"
+  },
+  {
+    "id": "danawinangun",
+    "name": "Danawinangun",
+    "district": "klangenan"
+  },
+  {
+    "id": "pekantingan",
+    "name": "Pekantingan",
+    "district": "klangenan"
+  },
+  {
+    "id": "jemaras-kidul",
+    "name": "Jemaras Kidul",
+    "district": "klangenan"
+  },
+  {
+    "id": "jemaras-lor",
+    "name": "Jemaras Lor",
+    "district": "klangenan"
+  },
+  {
+    "id": "slangit",
+    "name": "Slangit",
+    "district": "klangenan"
+  },
+  {
+    "id": "kreyo",
+    "name": "Kreyo",
+    "district": "klangenan"
+  },
+  {
+    "id": "bangodua",
+    "name": "Bangodua",
+    "district": "klangenan"
+  }
+]

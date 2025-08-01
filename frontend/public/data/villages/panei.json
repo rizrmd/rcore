@@ -1,0 +1,87 @@
+[
+  {
+    "id": "simantin-pane-dame",
+    "name": "Simantin Pane Dame",
+    "district": "panei"
+  },
+  {
+    "id": "bangun-rakyat",
+    "name": "Bangun Rakyat",
+    "district": "panei"
+  },
+  {
+    "id": "simpang-raya",
+    "name": "Simpang Raya",
+    "district": "panei"
+  },
+  {
+    "id": "siborna",
+    "name": "Siborna",
+    "district": "panei"
+  },
+  {
+    "id": "janggir-leto",
+    "name": "Janggir Leto",
+    "district": "panei"
+  },
+  {
+    "id": "pane-tongah",
+    "name": "Pane Tongah",
+    "district": "panei"
+  },
+  {
+    "id": "sipoldas",
+    "name": "Sipoldas",
+    "district": "panei"
+  },
+  {
+    "id": "sigodang",
+    "name": "Sigodang",
+    "district": "panei"
+  },
+  {
+    "id": "mekar-sari-raya",
+    "name": "Mekar Sari Raya",
+    "district": "panei"
+  },
+  {
+    "id": "bah-balon-tongah",
+    "name": "Bah Balon Tongah",
+    "district": "panei"
+  },
+  {
+    "id": "sigodang-barat",
+    "name": "Sigodang Barat",
+    "district": "panei"
+  },
+  {
+    "id": "simpang-raya-dasma",
+    "name": "Simpang Raya Dasma",
+    "district": "panei"
+  },
+  {
+    "id": "bangun-das-mariah",
+    "name": "Bangun Das Mariah",
+    "district": "panei"
+  },
+  {
+    "id": "bangun-sitoluh-bah",
+    "name": "Bangun Sitoluh Bah",
+    "district": "panei"
+  },
+  {
+    "id": "nauli-baru",
+    "name": "Nauli Baru",
+    "district": "panei"
+  },
+  {
+    "id": "bahliran-siborna",
+    "name": "Bahliran Siborna",
+    "district": "panei"
+  },
+  {
+    "id": "rawang-pardomuan-nauli",
+    "name": "Rawang Pardomuan Nauli",
+    "district": "panei"
+  }
+]

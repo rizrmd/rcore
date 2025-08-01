@@ -1,0 +1,22 @@
+[
+  {
+    "id": "belaba",
+    "name": "Belaba",
+    "district": "molanikime"
+  },
+  {
+    "id": "maloinggen",
+    "name": "Maloinggen",
+    "district": "molanikime"
+  },
+  {
+    "id": "tioleme",
+    "name": "Tioleme",
+    "district": "molanikime"
+  },
+  {
+    "id": "wanume",
+    "name": "Wanume",
+    "district": "molanikime"
+  }
+]

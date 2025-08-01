@@ -1,0 +1,37 @@
+[
+  {
+    "id": "koto-gadang",
+    "name": "Koto Gadang",
+    "district": "koto-besar"
+  },
+  {
+    "id": "koto-tinggi",
+    "name": "Koto Tinggi",
+    "district": "koto-besar"
+  },
+  {
+    "id": "bonjol",
+    "name": "Bonjol",
+    "district": "koto-besar"
+  },
+  {
+    "id": "abai-siat",
+    "name": "Abai Siat",
+    "district": "koto-besar"
+  },
+  {
+    "id": "koto-besar",
+    "name": "Koto Besar",
+    "district": "koto-besar"
+  },
+  {
+    "id": "koto-laweh",
+    "name": "Koto Laweh",
+    "district": "koto-besar"
+  },
+  {
+    "id": "koto-ranah",
+    "name": "Koto Ranah",
+    "district": "koto-besar"
+  }
+]

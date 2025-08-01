@@ -1,0 +1,52 @@
+[
+  {
+    "id": "malombu",
+    "name": "Malombu",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "rianiate",
+    "name": "Rianiate",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "sangkunur",
+    "name": "Sangkunur",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "tindoan-laut",
+    "name": "Tindoan Laut",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "simataniari",
+    "name": "Simataniari",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "batu-godang",
+    "name": "Batu Godang",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "aek-pardomuan",
+    "name": "Aek Pardomuan",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "bandar-tarutung",
+    "name": "Bandar Tarutung",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "perkebunan",
+    "name": "Perkebunan",
+    "district": "angkola-sangkunur"
+  },
+  {
+    "id": "simatohir",
+    "name": "Simatohir",
+    "district": "angkola-sangkunur"
+  }
+]

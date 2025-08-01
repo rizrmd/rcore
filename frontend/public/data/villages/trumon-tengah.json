@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lhok-raya",
+    "name": "Lhok Raya",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "ie-jeureuneh",
+    "name": "Ie Jeureuneh",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "naca",
+    "name": "Naca",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "cot-bayu",
+    "name": "Cot Bayu",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "jambo-papeun",
+    "name": "Jambo Papeun",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "ladang-rimba",
+    "name": "Ladang Rimba",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "pulo-paya",
+    "name": "Pulo Paya",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "krueng-batee",
+    "name": "Krueng Batee",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "kampong-teungoh",
+    "name": "Kampong Teungoh",
+    "district": "trumon-tengah"
+  },
+  {
+    "id": "gunong-kapho",
+    "name": "Gunong Kapho",
+    "district": "trumon-tengah"
+  }
+]

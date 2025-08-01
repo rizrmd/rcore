@@ -1,0 +1,92 @@
+[
+  {
+    "id": "banda",
+    "name": "Banda",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "tehoru",
+    "name": "Tehoru",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "telutih",
+    "name": "Telutih",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "amahai",
+    "name": "Amahai",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "kota-masohi",
+    "name": "Kota Masohi",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "teluk-elpaputih",
+    "name": "Teluk Elpaputih",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "teon-nila-serua",
+    "name": "Teon Nila Serua",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "saparua",
+    "name": "Saparua",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "nusalaut",
+    "name": "Nusalaut",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "saparua-timur",
+    "name": "Saparua Timur",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "p-haruku",
+    "name": "P. Haruku",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "salahutu",
+    "name": "Salahutu",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "leihitu",
+    "name": "Leihitu",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "leihitu-barat",
+    "name": "Leihitu Barat",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "seram-utara",
+    "name": "Seram Utara",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "seram-utara-barat",
+    "name": "Seram Utara Barat",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "seram-utara-timur-kobi",
+    "name": "Seram Utara Timur Kobi",
+    "regency": "kabupaten-maluku-tengah"
+  },
+  {
+    "id": "seram-utara-timur-seti",
+    "name": "Seram Utara Timur Seti",
+    "regency": "kabupaten-maluku-tengah"
+  }
+]

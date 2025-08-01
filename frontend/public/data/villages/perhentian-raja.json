@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pantai-raja",
+    "name": "Pantai Raja",
+    "district": "perhentian-raja"
+  },
+  {
+    "id": "sialang-kubang",
+    "name": "Sialang Kubang",
+    "district": "perhentian-raja"
+  },
+  {
+    "id": "hang-tuah",
+    "name": "Hang Tuah",
+    "district": "perhentian-raja"
+  },
+  {
+    "id": "kampung-pinang",
+    "name": "Kampung Pinang",
+    "district": "perhentian-raja"
+  },
+  {
+    "id": "lubuk-sakat",
+    "name": "Lubuk Sakat",
+    "district": "perhentian-raja"
+  }
+]

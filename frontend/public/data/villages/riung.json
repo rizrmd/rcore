@@ -1,0 +1,82 @@
+[
+  {
+    "id": "taen-terong",
+    "name": "Taen Terong",
+    "district": "riung"
+  },
+  {
+    "id": "rawangkalo",
+    "name": "Rawangkalo",
+    "district": "riung"
+  },
+  {
+    "id": "wangka",
+    "name": "Wangka",
+    "district": "riung"
+  },
+  {
+    "id": "lengkosambi",
+    "name": "Lengkosambi",
+    "district": "riung"
+  },
+  {
+    "id": "tadho",
+    "name": "Tadho",
+    "district": "riung"
+  },
+  {
+    "id": "benteng-tengah",
+    "name": "Benteng Tengah",
+    "district": "riung"
+  },
+  {
+    "id": "nangamese",
+    "name": "Nangamese",
+    "district": "riung"
+  },
+  {
+    "id": "latung",
+    "name": "Latung",
+    "district": "riung"
+  },
+  {
+    "id": "sambinasi",
+    "name": "Sambinasi",
+    "district": "riung"
+  },
+  {
+    "id": "wangka-selatan",
+    "name": "Wangka Selatan",
+    "district": "riung"
+  },
+  {
+    "id": "lengkosambi-timur",
+    "name": "Lengkosambi Timur",
+    "district": "riung"
+  },
+  {
+    "id": "lengkosambi-barat",
+    "name": "Lengkosambi Barat",
+    "district": "riung"
+  },
+  {
+    "id": "taen-terong-i",
+    "name": "Taen Terong I",
+    "district": "riung"
+  },
+  {
+    "id": "taen-terong-ii",
+    "name": "Taen Terong Ii",
+    "district": "riung"
+  },
+  {
+    "id": "lengkosambi-utara",
+    "name": "Lengkosambi Utara",
+    "district": "riung"
+  },
+  {
+    "id": "sambinasi-barat",
+    "name": "Sambinasi Barat",
+    "district": "riung"
+  }
+]

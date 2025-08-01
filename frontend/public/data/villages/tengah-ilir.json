@@ -1,0 +1,27 @@
+[
+  {
+    "id": "penapalan",
+    "name": "Penapalan",
+    "district": "tengah-ilir"
+  },
+  {
+    "id": "muara-kilis",
+    "name": "Muara Kilis",
+    "district": "tengah-ilir"
+  },
+  {
+    "id": "mengupeh",
+    "name": "Mengupeh",
+    "district": "tengah-ilir"
+  },
+  {
+    "id": "rantau-api",
+    "name": "Rantau Api",
+    "district": "tengah-ilir"
+  },
+  {
+    "id": "lubuk-mandarsah",
+    "name": "Lubuk Mandarsah",
+    "district": "tengah-ilir"
+  }
+]

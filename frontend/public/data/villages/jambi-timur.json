@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sulan-jana",
+    "name": "Sulan Jana",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "budiman",
+    "name": "Budiman",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "talang-banjar",
+    "name": "Talang Banjar",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "tanjung-pinang",
+    "name": "Tanjung Pinang",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "rajawali",
+    "name": "Rajawali",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "kasang",
+    "name": "Kasang",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "kasang-jaya",
+    "name": "Kasang Jaya",
+    "district": "jambi-timur"
+  },
+  {
+    "id": "sijinjang",
+    "name": "Sijinjang",
+    "district": "jambi-timur"
+  }
+]

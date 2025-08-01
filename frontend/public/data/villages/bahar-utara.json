@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sungai-dayo",
+    "name": "Sungai Dayo",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "bukit-mulya",
+    "name": "Bukit Mulya",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "matra-manunggal",
+    "name": "Matra Manunggal",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "pinang-tinggi",
+    "name": "Pinang Tinggi",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "bahar-mulya",
+    "name": "Bahar Mulya",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "mulya-jaya",
+    "name": "Mulya Jaya",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "talang-bukit",
+    "name": "Talang Bukit",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "talang-datar",
+    "name": "Talang Datar",
+    "district": "bahar-utara"
+  },
+  {
+    "id": "markanding",
+    "name": "Markanding",
+    "district": "bahar-utara"
+  }
+]

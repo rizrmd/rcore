@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rembang",
+    "name": "Rembang",
+    "district": "sananwetan"
+  },
+  {
+    "id": "klampok",
+    "name": "Klampok",
+    "district": "sananwetan"
+  },
+  {
+    "id": "plosokerep",
+    "name": "Plosokerep",
+    "district": "sananwetan"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "sananwetan"
+  },
+  {
+    "id": "sananwetan",
+    "name": "Sananwetan",
+    "district": "sananwetan"
+  },
+  {
+    "id": "bendogerit",
+    "name": "Bendogerit",
+    "district": "sananwetan"
+  },
+  {
+    "id": "gedog",
+    "name": "Gedog",
+    "district": "sananwetan"
+  }
+]

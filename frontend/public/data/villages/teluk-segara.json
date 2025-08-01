@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kebun-keling",
+    "name": "Kebun Keling",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "malabero",
+    "name": "Malabero",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "sumur-melele",
+    "name": "Sumur Melele",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pasar-berkas",
+    "name": "Pasar Berkas",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pasar-jitra",
+    "name": "Pasar Jitra",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pasar-melintang",
+    "name": "Pasar Melintang",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pondok-besi",
+    "name": "Pondok Besi",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "kebun-ros",
+    "name": "Kebun Ros",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "pintu-batu",
+    "name": "Pintu Batu",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "tengah-padang",
+    "name": "Tengah Padang",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "bajak",
+    "name": "Bajak",
+    "district": "teluk-segara"
+  },
+  {
+    "id": "kampung-bali",
+    "name": "Kampung Bali",
+    "district": "teluk-segara"
+  }
+]

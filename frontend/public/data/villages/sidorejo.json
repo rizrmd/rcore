@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pulutan",
+    "name": "Pulutan",
+    "district": "sidorejo"
+  },
+  {
+    "id": "blotongan",
+    "name": "Blotongan",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sidorejo-lor",
+    "name": "Sidorejo Lor",
+    "district": "sidorejo"
+  },
+  {
+    "id": "salatiga",
+    "name": "Salatiga",
+    "district": "sidorejo"
+  },
+  {
+    "id": "kauman-kidul",
+    "name": "Kauman Kidul",
+    "district": "sidorejo"
+  },
+  {
+    "id": "getasanyar",
+    "name": "Getasanyar",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "sidorejo"
+  },
+  {
+    "id": "durenan",
+    "name": "Durenan",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sambirobyong",
+    "name": "Sambirobyong",
+    "district": "sidorejo"
+  },
+  {
+    "id": "campursari",
+    "name": "Campursari",
+    "district": "sidorejo"
+  },
+  {
+    "id": "kalang",
+    "name": "Kalang",
+    "district": "sidorejo"
+  },
+  {
+    "id": "widorokandang",
+    "name": "Widorokandang",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sidokerto",
+    "name": "Sidokerto",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sumbersawit",
+    "name": "Sumbersawit",
+    "district": "sidorejo"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "sidorejo"
+  }
+]

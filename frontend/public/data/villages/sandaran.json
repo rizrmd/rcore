@@ -1,0 +1,37 @@
+[
+  {
+    "id": "susuk-luar",
+    "name": "Susuk Luar",
+    "district": "sandaran"
+  },
+  {
+    "id": "susuk-dalam",
+    "name": "Susuk Dalam",
+    "district": "sandaran"
+  },
+  {
+    "id": "marukangan",
+    "name": "Marukangan",
+    "district": "sandaran"
+  },
+  {
+    "id": "manubar",
+    "name": "Manubar",
+    "district": "sandaran"
+  },
+  {
+    "id": "tadoan",
+    "name": "Tadoan",
+    "district": "sandaran"
+  },
+  {
+    "id": "sandaran",
+    "name": "Sandaran",
+    "district": "sandaran"
+  },
+  {
+    "id": "tanjung-mangkalihat",
+    "name": "Tanjung Mangkalihat",
+    "district": "sandaran"
+  }
+]

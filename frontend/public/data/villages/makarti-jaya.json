@@ -1,0 +1,62 @@
+[
+  {
+    "id": "upang-makmur",
+    "name": "Upang Makmur",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "pangestu",
+    "name": "Pangestu",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "makarti-jaya",
+    "name": "Makarti Jaya",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "tirta-kencana",
+    "name": "Tirta Kencana",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "tirta-mulya",
+    "name": "Tirta Mulya",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "pendowo-harjo",
+    "name": "Pendowo Harjo",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "upang-mulya",
+    "name": "Upang Mulya",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "muara-baru",
+    "name": "Muara Baru",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "sungai-semut",
+    "name": "Sungai Semut",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "makarti-jaya"
+  },
+  {
+    "id": "tanjung-mas",
+    "name": "Tanjung Mas",
+    "district": "makarti-jaya"
+  }
+]

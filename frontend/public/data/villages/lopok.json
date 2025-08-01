@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pungkit",
+    "name": "Pungkit",
+    "district": "lopok"
+  },
+  {
+    "id": "lopok",
+    "name": "Lopok",
+    "district": "lopok"
+  },
+  {
+    "id": "lopok-beru",
+    "name": "Lopok Beru",
+    "district": "lopok"
+  },
+  {
+    "id": "langam",
+    "name": "Langam",
+    "district": "lopok"
+  },
+  {
+    "id": "berora",
+    "name": "Berora",
+    "district": "lopok"
+  },
+  {
+    "id": "mama",
+    "name": "Mama",
+    "district": "lopok"
+  },
+  {
+    "id": "tatede",
+    "name": "Tatede",
+    "district": "lopok"
+  }
+]

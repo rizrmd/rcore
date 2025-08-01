@@ -1,0 +1,67 @@
+[
+  {
+    "id": "nanga-ngeri",
+    "name": "Nanga Ngeri",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "landau-badai",
+    "name": "Landau Badai",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "nanga-lungu",
+    "name": "Nanga Lungu",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "nanga-luan",
+    "name": "Nanga Luan",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "belimbing",
+    "name": "Belimbing",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "nanga-dangkan-i",
+    "name": "Nanga Dangkan I",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "riam-tapang",
+    "name": "Riam Tapang",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "nanga-dangkan-ii",
+    "name": "Nanga Dangkan Ii",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "lebak-najah",
+    "name": "Lebak Najah",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "landau-rantau",
+    "name": "Landau Rantau",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "entabi",
+    "name": "Entabi",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "selangkai",
+    "name": "Selangkai",
+    "district": "silat-hulu"
+  },
+  {
+    "id": "selimu",
+    "name": "Selimu",
+    "district": "silat-hulu"
+  }
+]

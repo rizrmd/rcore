@@ -1,0 +1,37 @@
+[
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "neglasari"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "neglasari"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "neglasari"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "neglasari"
+  },
+  {
+    "id": "kedaung-baru",
+    "name": "Kedaung Baru",
+    "district": "neglasari"
+  },
+  {
+    "id": "kedaung-wetan",
+    "name": "Kedaung Wetan",
+    "district": "neglasari"
+  },
+  {
+    "id": "selapajang-jaya",
+    "name": "Selapajang Jaya",
+    "district": "neglasari"
+  }
+]

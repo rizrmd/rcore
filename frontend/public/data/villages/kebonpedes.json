@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sasagaran",
+    "name": "Sasagaran",
+    "district": "kebonpedes"
+  },
+  {
+    "id": "jambenenggang",
+    "name": "Jambenenggang",
+    "district": "kebonpedes"
+  },
+  {
+    "id": "cikaret",
+    "name": "Cikaret",
+    "district": "kebonpedes"
+  },
+  {
+    "id": "kebonpedes",
+    "name": "Kebonpedes",
+    "district": "kebonpedes"
+  },
+  {
+    "id": "bojongsawah",
+    "name": "Bojongsawah",
+    "district": "kebonpedes"
+  }
+]

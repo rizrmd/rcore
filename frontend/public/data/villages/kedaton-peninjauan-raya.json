@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bunglai",
+    "name": "Bunglai",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "kedaton",
+    "name": "Kedaton",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "kampai",
+    "name": "Kampai",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "suka-pindah",
+    "name": "Suka Pindah",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "lubuk-kemiling",
+    "name": "Lubuk Kemiling",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "sinar-kedaton",
+    "name": "Sinar Kedaton",
+    "district": "kedaton-peninjauan-raya"
+  },
+  {
+    "id": "kedaton-timur",
+    "name": "Kedaton Timur",
+    "district": "kedaton-peninjauan-raya"
+  }
+]

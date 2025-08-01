@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tanjung-uncang",
+    "name": "Tanjung Uncang",
+    "district": "batu-aji"
+  },
+  {
+    "id": "bukit-tempayan",
+    "name": "Bukit Tempayan",
+    "district": "batu-aji"
+  },
+  {
+    "id": "buliang",
+    "name": "Buliang",
+    "district": "batu-aji"
+  },
+  {
+    "id": "kibing",
+    "name": "Kibing",
+    "district": "batu-aji"
+  }
+]

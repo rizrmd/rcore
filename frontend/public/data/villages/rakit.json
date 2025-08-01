@@ -1,0 +1,52 @@
+[
+  {
+    "id": "situwangi",
+    "name": "Situwangi",
+    "district": "rakit"
+  },
+  {
+    "id": "gelang",
+    "name": "Gelang",
+    "district": "rakit"
+  },
+  {
+    "id": "rakit",
+    "name": "Rakit",
+    "district": "rakit"
+  },
+  {
+    "id": "adipasir",
+    "name": "Adipasir",
+    "district": "rakit"
+  },
+  {
+    "id": "kincang",
+    "name": "Kincang",
+    "district": "rakit"
+  },
+  {
+    "id": "tanjunganom",
+    "name": "Tanjunganom",
+    "district": "rakit"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "rakit"
+  },
+  {
+    "id": "badamita",
+    "name": "Badamita",
+    "district": "rakit"
+  },
+  {
+    "id": "bandingan",
+    "name": "Bandingan",
+    "district": "rakit"
+  },
+  {
+    "id": "pingit",
+    "name": "Pingit",
+    "district": "rakit"
+  }
+]

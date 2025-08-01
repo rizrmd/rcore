@@ -1,0 +1,127 @@
+[
+  {
+    "id": "bangkleyan",
+    "name": "Bangkleyan",
+    "district": "jati"
+  },
+  {
+    "id": "gempol",
+    "name": "Gempol",
+    "district": "jati"
+  },
+  {
+    "id": "kepoh",
+    "name": "Kepoh",
+    "district": "jati"
+  },
+  {
+    "id": "jegong",
+    "name": "Jegong",
+    "district": "jati"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "jati"
+  },
+  {
+    "id": "singget",
+    "name": "Singget",
+    "district": "jati"
+  },
+  {
+    "id": "gabusan",
+    "name": "Gabusan",
+    "district": "jati"
+  },
+  {
+    "id": "doplang",
+    "name": "Doplang",
+    "district": "jati"
+  },
+  {
+    "id": "randulawang",
+    "name": "Randulawang",
+    "district": "jati"
+  },
+  {
+    "id": "tobo",
+    "name": "Tobo",
+    "district": "jati"
+  },
+  {
+    "id": "pengkoljagong",
+    "name": "Pengkoljagong",
+    "district": "jati"
+  },
+  {
+    "id": "tanjung-karang",
+    "name": "Tanjung Karang",
+    "district": "jati"
+  },
+  {
+    "id": "jetis-kapuan",
+    "name": "Jetis Kapuan",
+    "district": "jati"
+  },
+  {
+    "id": "loram-kulon",
+    "name": "Loram Kulon",
+    "district": "jati"
+  },
+  {
+    "id": "jati-wetan",
+    "name": "Jati Wetan",
+    "district": "jati"
+  },
+  {
+    "id": "jati-kulon",
+    "name": "Jati Kulon",
+    "district": "jati"
+  },
+  {
+    "id": "pasuruhan-lor",
+    "name": "Pasuruhan Lor",
+    "district": "jati"
+  },
+  {
+    "id": "pasuruhan-kidul",
+    "name": "Pasuruhan Kidul",
+    "district": "jati"
+  },
+  {
+    "id": "ploso",
+    "name": "Ploso",
+    "district": "jati"
+  },
+  {
+    "id": "getas-pejaten",
+    "name": "Getas Pejaten",
+    "district": "jati"
+  },
+  {
+    "id": "loram-wetan",
+    "name": "Loram Wetan",
+    "district": "jati"
+  },
+  {
+    "id": "jepang-pakis",
+    "name": "Jepang Pakis",
+    "district": "jati"
+  },
+  {
+    "id": "megawon",
+    "name": "Megawon",
+    "district": "jati"
+  },
+  {
+    "id": "tumpang-krasak",
+    "name": "Tumpang Krasak",
+    "district": "jati"
+  },
+  {
+    "id": "ngembal-kulon",
+    "name": "Ngembal Kulon",
+    "district": "jati"
+  }
+]

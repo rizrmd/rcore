@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bonto-rannu",
+    "name": "Bonto Rannu",
+    "district": "uluere"
+  },
+  {
+    "id": "bonto-tallasa",
+    "name": "Bonto Tallasa",
+    "district": "uluere"
+  },
+  {
+    "id": "bonto-daeng",
+    "name": "Bonto Daeng",
+    "district": "uluere"
+  },
+  {
+    "id": "bonto-tangnga",
+    "name": "Bonto Tangnga",
+    "district": "uluere"
+  },
+  {
+    "id": "bonto-marannu",
+    "name": "Bonto Marannu",
+    "district": "uluere"
+  },
+  {
+    "id": "bonto-lojong",
+    "name": "Bonto Lojong",
+    "district": "uluere"
+  }
+]

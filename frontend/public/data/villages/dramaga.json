@@ -1,0 +1,52 @@
+[
+  {
+    "id": "purwasari",
+    "name": "Purwasari",
+    "district": "dramaga"
+  },
+  {
+    "id": "petir",
+    "name": "Petir",
+    "district": "dramaga"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "dramaga"
+  },
+  {
+    "id": "sukawening",
+    "name": "Sukawening",
+    "district": "dramaga"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "dramaga"
+  },
+  {
+    "id": "sinar-sari",
+    "name": "Sinar Sari",
+    "district": "dramaga"
+  },
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "dramaga"
+  },
+  {
+    "id": "dramaga",
+    "name": "Dramaga",
+    "district": "dramaga"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "dramaga"
+  },
+  {
+    "id": "cikarawang",
+    "name": "Cikarawang",
+    "district": "dramaga"
+  }
+]

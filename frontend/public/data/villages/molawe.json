@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "molawe"
+  },
+  {
+    "id": "bandaeha",
+    "name": "Bandaeha",
+    "district": "molawe"
+  },
+  {
+    "id": "molawe",
+    "name": "Molawe",
+    "district": "molawe"
+  },
+  {
+    "id": "awila",
+    "name": "Awila",
+    "district": "molawe"
+  },
+  {
+    "id": "mowundo",
+    "name": "Mowundo",
+    "district": "molawe"
+  },
+  {
+    "id": "mandiodo",
+    "name": "Mandiodo",
+    "district": "molawe"
+  },
+  {
+    "id": "tapunggaya",
+    "name": "Tapunggaya",
+    "district": "molawe"
+  },
+  {
+    "id": "awila-puncak",
+    "name": "Awila Puncak",
+    "district": "molawe"
+  },
+  {
+    "id": "tapuemea",
+    "name": "Tapuemea",
+    "district": "molawe"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mastur",
+    "name": "Mastur",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "ohoinol",
+    "name": "Ohoinol",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "wain",
+    "name": "Wain",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "abean",
+    "name": "Abean",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "raat",
+    "name": "Raat",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "rumat",
+    "name": "Rumat",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "rewav",
+    "name": "Rewav",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "mastur-baru",
+    "name": "Mastur Baru",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "ohoilus",
+    "name": "Ohoilus",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "semawi",
+    "name": "Semawi",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "iso",
+    "name": "Iso",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "wain-baru",
+    "name": "Wain Baru",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "disuk",
+    "name": "Disuk",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "marfun",
+    "name": "Marfun",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "yafawun",
+    "name": "Yafawun",
+    "district": "kei-kecil-timur"
+  },
+  {
+    "id": "watngon",
+    "name": "Watngon",
+    "district": "kei-kecil-timur"
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "id": "sesap",
+    "name": "Sesap",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "banglas-barat",
+    "name": "Banglas Barat",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "banglas",
+    "name": "Banglas",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "selat-panjang-timur",
+    "name": "Selat Panjang Timur",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "selat-panjang-selatan",
+    "name": "Selat Panjang Selatan",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "alah-air",
+    "name": "Alah Air",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "alah-air-timur",
+    "name": "Alah Air Timur",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "selat-panjang-barat",
+    "name": "Selat Panjang Barat",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "selat-panjang-kota",
+    "name": "Selat Panjang Kota",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "adi-jaya",
+    "name": "Adi Jaya",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kelagian",
+    "name": "Kelagian",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "sungai-keruh",
+    "name": "Sungai Keruh",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "dataran-kempas",
+    "name": "Dataran Kempas",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "delima",
+    "name": "Delima",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "talang-makmur",
+    "name": "Talang Makmur",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "teluk-pengkah",
+    "name": "Teluk Pengkah",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "ujung-alih",
+    "name": "Ujung Alih",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "lubuk-gelanggang",
+    "name": "Lubuk Gelanggang",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "ulak-mengkudu",
+    "name": "Ulak Mengkudu",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "batu-pance",
+    "name": "Batu Pance",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "aur-gading",
+    "name": "Aur Gading",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "terusan-lama",
+    "name": "Terusan Lama",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "terusan-baru",
+    "name": "Terusan Baru",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "seguring-kecil",
+    "name": "Seguring Kecil",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "rantau-tenang",
+    "name": "Rantau Tenang",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "lampar-baru",
+    "name": "Lampar Baru",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kemang-manis",
+    "name": "Kemang Manis",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kupang",
+    "name": "Kupang",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "makarti-jaya",
+    "name": "Makarti Jaya",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "pancurmas-unit-jaya",
+    "name": "Pancurmas Unit Jaya",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "tanjung-kupang",
+    "name": "Tanjung Kupang",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "pasar-tebing-tinggi",
+    "name": "Pasar Tebing Tinggi",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "tanjung-makmur",
+    "name": "Tanjung Makmur",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kelumpang-jaya",
+    "name": "Kelumpang Jaya",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "pajar-bakti",
+    "name": "Pajar Bakti",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "sugi-waras",
+    "name": "Sugi Waras",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "batu-raja-baru",
+    "name": "Batu Raja Baru",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "batu-raja-lama",
+    "name": "Batu Raja Lama",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kota-gading",
+    "name": "Kota Gading",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "jaya-loka",
+    "name": "Jaya Loka",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "tanjung-kupang-baru",
+    "name": "Tanjung Kupang Baru",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "auh",
+    "name": "Auh",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "dayak-pitap",
+    "name": "Dayak Pitap",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "mayanau",
+    "name": "Mayanau",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "simpang-bumbuan",
+    "name": "Simpang Bumbuan",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "simpang-nadung",
+    "name": "Simpang Nadung",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "gunung-batu",
+    "name": "Gunung Batu",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "ajung",
+    "name": "Ajung",
+    "district": "tebing-tinggi"
+  },
+  {
+    "id": "kambiyain",
+    "name": "Kambiyain",
+    "district": "tebing-tinggi"
+  }
+]

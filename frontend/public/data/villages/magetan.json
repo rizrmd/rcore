@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ringinagung",
+    "name": "Ringinagung",
+    "district": "magetan"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "magetan"
+  },
+  {
+    "id": "selosari",
+    "name": "Selosari",
+    "district": "magetan"
+  },
+  {
+    "id": "magetan",
+    "name": "Magetan",
+    "district": "magetan"
+  },
+  {
+    "id": "bulukerto",
+    "name": "Bulukerto",
+    "district": "magetan"
+  },
+  {
+    "id": "mangkujayan",
+    "name": "Mangkujayan",
+    "district": "magetan"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "magetan"
+  },
+  {
+    "id": "tambran",
+    "name": "Tambran",
+    "district": "magetan"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "magetan"
+  },
+  {
+    "id": "kepolorejo",
+    "name": "Kepolorejo",
+    "district": "magetan"
+  },
+  {
+    "id": "tawanganom",
+    "name": "Tawanganom",
+    "district": "magetan"
+  },
+  {
+    "id": "sukowinangun",
+    "name": "Sukowinangun",
+    "district": "magetan"
+  },
+  {
+    "id": "baron",
+    "name": "Baron",
+    "district": "magetan"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "magetan"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lampihong",
+    "name": "Lampihong",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "batu-mandi",
+    "name": "Batu Mandi",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "awayan",
+    "name": "Awayan",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "paringin",
+    "name": "Paringin",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "paringin-selatan",
+    "name": "Paringin Selatan",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "juai",
+    "name": "Juai",
+    "regency": "kabupaten-balangan"
+  },
+  {
+    "id": "halong",
+    "name": "Halong",
+    "regency": "kabupaten-balangan"
+  }
+]

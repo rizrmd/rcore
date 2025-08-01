@@ -1,0 +1,67 @@
+[
+  {
+    "id": "purba-ganda",
+    "name": "Purba Ganda",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "kerasaan-ii",
+    "name": "Kerasaan Ii",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "kerasaan-i",
+    "name": "Kerasaan I",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "pardomuan-nauli",
+    "name": "Pardomuan Nauli",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "mariah-bandar",
+    "name": "Mariah Bandar",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "talun-madear",
+    "name": "Talun Madear",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "pematang-bandar",
+    "name": "Pematang Bandar",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "bandar-manis",
+    "name": "Bandar Manis",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "talun-rejo",
+    "name": "Talun Rejo",
+    "district": "pematang-bandar"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "pematang-bandar"
+  }
+]

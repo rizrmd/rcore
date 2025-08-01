@@ -1,0 +1,67 @@
+[
+  {
+    "id": "parakan",
+    "name": "Parakan",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "lame",
+    "name": "Lame",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "mindi",
+    "name": "Mindi",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "rajawangi",
+    "name": "Rajawangi",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "leuwikujang",
+    "name": "Leuwikujang",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "nanggerang",
+    "name": "Nanggerang",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "patuanan",
+    "name": "Patuanan",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "ciparay",
+    "name": "Ciparay",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "leuwimunding",
+    "name": "Leuwimunding",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "mirat",
+    "name": "Mirat",
+    "district": "leuwimunding"
+  },
+  {
+    "id": "parungjaya",
+    "name": "Parungjaya",
+    "district": "leuwimunding"
+  }
+]

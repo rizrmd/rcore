@@ -1,0 +1,32 @@
+[
+  {
+    "id": "curahgrinting",
+    "name": "Curahgrinting",
+    "district": "kanigaran"
+  },
+  {
+    "id": "kanigaran",
+    "name": "Kanigaran",
+    "district": "kanigaran"
+  },
+  {
+    "id": "kebonsari-wetan",
+    "name": "Kebonsari Wetan",
+    "district": "kanigaran"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "kanigaran"
+  },
+  {
+    "id": "kebonsari-kulon",
+    "name": "Kebonsari Kulon",
+    "district": "kanigaran"
+  },
+  {
+    "id": "tisnonegaran",
+    "name": "Tisnonegaran",
+    "district": "kanigaran"
+  }
+]

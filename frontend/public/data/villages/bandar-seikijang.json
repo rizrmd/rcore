@@ -1,0 +1,27 @@
+[
+  {
+    "id": "simpang-beringin",
+    "name": "Simpang Beringin",
+    "district": "bandar-seikijang"
+  },
+  {
+    "id": "sekijang",
+    "name": "Sekijang",
+    "district": "bandar-seikijang"
+  },
+  {
+    "id": "lubuk-ogung",
+    "name": "Lubuk Ogung",
+    "district": "bandar-seikijang"
+  },
+  {
+    "id": "muda-setia",
+    "name": "Muda Setia",
+    "district": "bandar-seikijang"
+  },
+  {
+    "id": "kiyap-jaya",
+    "name": "Kiyap Jaya",
+    "district": "bandar-seikijang"
+  }
+]

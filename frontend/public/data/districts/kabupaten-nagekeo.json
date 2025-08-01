@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mauponggo",
+    "name": "Mauponggo",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "keo-tengah",
+    "name": "Keo Tengah",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "nangaroro",
+    "name": "Nangaroro",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "boawae",
+    "name": "Boawae",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "aesesa-selatan",
+    "name": "Aesesa Selatan",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "aesesa",
+    "name": "Aesesa",
+    "regency": "kabupaten-nagekeo"
+  },
+  {
+    "id": "wolowae",
+    "name": "Wolowae",
+    "regency": "kabupaten-nagekeo"
+  }
+]

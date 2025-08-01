@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dowora",
+    "name": "Dowora",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "yamly",
+    "name": "Yamly",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "gane-dalam",
+    "name": "Gane Dalam",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "jibubu",
+    "name": "Jibubu",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "awis",
+    "name": "Awis",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "pasi-palele",
+    "name": "Pasi Palele",
+    "district": "gane-barat-selatan"
+  },
+  {
+    "id": "tawa",
+    "name": "Tawa",
+    "district": "gane-barat-selatan"
+  }
+]

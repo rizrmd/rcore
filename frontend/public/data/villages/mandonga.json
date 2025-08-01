@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mandonga",
+    "name": "Mandonga",
+    "district": "mandonga"
+  },
+  {
+    "id": "korumba",
+    "name": "Korumba",
+    "district": "mandonga"
+  },
+  {
+    "id": "anggilowu",
+    "name": "Anggilowu",
+    "district": "mandonga"
+  },
+  {
+    "id": "alolama",
+    "name": "Alolama",
+    "district": "mandonga"
+  },
+  {
+    "id": "wawombalata",
+    "name": "Wawombalata",
+    "district": "mandonga"
+  },
+  {
+    "id": "labibia",
+    "name": "Labibia",
+    "district": "mandonga"
+  }
+]

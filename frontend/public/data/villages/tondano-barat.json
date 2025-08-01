@@ -1,0 +1,37 @@
+[
+  {
+    "id": "masarang",
+    "name": "Masarang",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "roong",
+    "name": "Roong",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "rinegetan",
+    "name": "Rinegetan",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "tounkuramber",
+    "name": "Tounkuramber",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "wawalintouan",
+    "name": "Wawalintouan",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "rerewokan",
+    "name": "Rerewokan",
+    "district": "tondano-barat"
+  },
+  {
+    "id": "watulambot",
+    "name": "Watulambot",
+    "district": "tondano-barat"
+  }
+]

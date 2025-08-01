@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pasir-panjang",
+    "name": "Pasir Panjang",
+    "district": "meral-barat"
+  },
+  {
+    "id": "pangke",
+    "name": "Pangke",
+    "district": "meral-barat"
+  },
+  {
+    "id": "darusalam",
+    "name": "Darusalam",
+    "district": "meral-barat"
+  },
+  {
+    "id": "pangke-barat",
+    "name": "Pangke Barat",
+    "district": "meral-barat"
+  }
+]

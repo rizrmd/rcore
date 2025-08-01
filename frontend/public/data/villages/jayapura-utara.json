@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gurabesi",
+    "name": "Gurabesi",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "bayangkara",
+    "name": "Bayangkara",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "mandala",
+    "name": "Mandala",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "trikora",
+    "name": "Trikora",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "angkasapura",
+    "name": "Angkasapura",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "tanjung-ria",
+    "name": "Tanjung Ria",
+    "district": "jayapura-utara"
+  },
+  {
+    "id": "kampung-kayobatu",
+    "name": "Kampung Kayobatu",
+    "district": "jayapura-utara"
+  }
+]

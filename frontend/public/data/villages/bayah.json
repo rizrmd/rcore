@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bayah-barat",
+    "name": "Bayah Barat",
+    "district": "bayah"
+  },
+  {
+    "id": "darmasari",
+    "name": "Darmasari",
+    "district": "bayah"
+  },
+  {
+    "id": "sawarna",
+    "name": "Sawarna",
+    "district": "bayah"
+  },
+  {
+    "id": "cidikit",
+    "name": "Cidikit",
+    "district": "bayah"
+  },
+  {
+    "id": "bayah-timur",
+    "name": "Bayah Timur",
+    "district": "bayah"
+  },
+  {
+    "id": "cimancak",
+    "name": "Cimancak",
+    "district": "bayah"
+  },
+  {
+    "id": "suwakan",
+    "name": "Suwakan",
+    "district": "bayah"
+  },
+  {
+    "id": "pasirgombong",
+    "name": "Pasirgombong",
+    "district": "bayah"
+  },
+  {
+    "id": "cisuren",
+    "name": "Cisuren",
+    "district": "bayah"
+  },
+  {
+    "id": "pamubulan",
+    "name": "Pamubulan",
+    "district": "bayah"
+  },
+  {
+    "id": "sawarna-timur",
+    "name": "Sawarna Timur",
+    "district": "bayah"
+  }
+]

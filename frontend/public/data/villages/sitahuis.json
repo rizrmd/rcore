@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bonan-dolok",
+    "name": "Bonan Dolok",
+    "district": "sitahuis"
+  },
+  {
+    "id": "rampa",
+    "name": "Rampa",
+    "district": "sitahuis"
+  },
+  {
+    "id": "mardame",
+    "name": "Mardame",
+    "district": "sitahuis"
+  },
+  {
+    "id": "nauli",
+    "name": "Nauli",
+    "district": "sitahuis"
+  },
+  {
+    "id": "naga-timbul",
+    "name": "Naga Timbul",
+    "district": "sitahuis"
+  },
+  {
+    "id": "simaninggir",
+    "name": "Simaninggir",
+    "district": "sitahuis"
+  }
+]

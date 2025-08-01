@@ -1,0 +1,42 @@
+[
+  {
+    "id": "patipelong",
+    "name": "Patipelong",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "tongano-barat",
+    "name": "Tongano Barat",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "bahari",
+    "name": "Bahari",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "tongano-timur",
+    "name": "Tongano Timur",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "timu",
+    "name": "Timu",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "kulati",
+    "name": "Kulati",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "wawotimu",
+    "name": "Wawotimu",
+    "district": "tomia-timur"
+  },
+  {
+    "id": "kahianga",
+    "name": "Kahianga",
+    "district": "tomia-timur"
+  }
+]

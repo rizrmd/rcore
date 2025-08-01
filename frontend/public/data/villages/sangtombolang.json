@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pangi",
+    "name": "Pangi",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "domisil-moonow",
+    "name": "Domisil Moonow",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "maelang",
+    "name": "Maelang",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "lolanan",
+    "name": "Lolanan",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "bolangat",
+    "name": "Bolangat",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "babo",
+    "name": "Babo",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "ayong",
+    "name": "Ayong",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "batu-merah",
+    "name": "Batu Merah",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "bolangat-timur",
+    "name": "Bolangat Timur",
+    "district": "sangtombolang"
+  },
+  {
+    "id": "pangi-timur",
+    "name": "Pangi Timur",
+    "district": "sangtombolang"
+  }
+]

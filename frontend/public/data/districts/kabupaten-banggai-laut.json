@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bangkurung",
+    "name": "Bangkurung",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "labobo",
+    "name": "Labobo",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "banggai-utara",
+    "name": "Banggai Utara",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "banggai",
+    "name": "Banggai",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "banggai-tengah",
+    "name": "Banggai Tengah",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "banggai-selatan",
+    "name": "Banggai Selatan",
+    "regency": "kabupaten-banggai-laut"
+  },
+  {
+    "id": "bokan-kepulauan",
+    "name": "Bokan Kepulauan",
+    "regency": "kabupaten-banggai-laut"
+  }
+]

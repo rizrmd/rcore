@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pinangraja",
+    "name": "Pinangraja",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "sukaraja-kulon",
+    "name": "Sukaraja Kulon",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "sukaraja-wetan",
+    "name": "Sukaraja Wetan",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "cibentar",
+    "name": "Cibentar",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "andir",
+    "name": "Andir",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "cicadas",
+    "name": "Cicadas",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "burujul-wetan",
+    "name": "Burujul Wetan",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "burujul-kulon",
+    "name": "Burujul Kulon",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "jatiwangi",
+    "name": "Jatiwangi",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "surawangi",
+    "name": "Surawangi",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "jatisura",
+    "name": "Jatisura",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "sutawangi",
+    "name": "Sutawangi",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "ciborelang",
+    "name": "Ciborelang",
+    "district": "jatiwangi"
+  },
+  {
+    "id": "loji",
+    "name": "Loji",
+    "district": "jatiwangi"
+  }
+]

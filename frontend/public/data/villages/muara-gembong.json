@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pantai-harapanjaya",
+    "name": "Pantai Harapanjaya",
+    "district": "muara-gembong"
+  },
+  {
+    "id": "pantaimekar",
+    "name": "Pantaimekar",
+    "district": "muara-gembong"
+  },
+  {
+    "id": "pantai-sederhana",
+    "name": "Pantai Sederhana",
+    "district": "muara-gembong"
+  },
+  {
+    "id": "pantaibakti",
+    "name": "Pantaibakti",
+    "district": "muara-gembong"
+  },
+  {
+    "id": "pantaibahagia",
+    "name": "Pantaibahagia",
+    "district": "muara-gembong"
+  },
+  {
+    "id": "jayasakti",
+    "name": "Jayasakti",
+    "district": "muara-gembong"
+  }
+]

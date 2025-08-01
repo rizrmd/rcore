@@ -1,0 +1,37 @@
+[
+  {
+    "id": "nogosari",
+    "name": "Nogosari",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "kedungrejo",
+    "name": "Kedungrejo",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "rowokangkung",
+    "name": "Rowokangkung",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "sumberanyar",
+    "name": "Sumberanyar",
+    "district": "rowokangkung"
+  },
+  {
+    "id": "dawuhan-wetan",
+    "name": "Dawuhan Wetan",
+    "district": "rowokangkung"
+  }
+]

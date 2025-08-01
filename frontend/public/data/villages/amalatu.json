@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tihulale",
+    "name": "Tihulale",
+    "district": "amalatu"
+  },
+  {
+    "id": "rumahkay",
+    "name": "Rumahkay",
+    "district": "amalatu"
+  },
+  {
+    "id": "latu",
+    "name": "Latu",
+    "district": "amalatu"
+  },
+  {
+    "id": "tomalehu",
+    "name": "Tomalehu",
+    "district": "amalatu"
+  },
+  {
+    "id": "hualoy",
+    "name": "Hualoy",
+    "district": "amalatu"
+  },
+  {
+    "id": "seriholo",
+    "name": "Seriholo",
+    "district": "amalatu"
+  },
+  {
+    "id": "tala",
+    "name": "Tala",
+    "district": "amalatu"
+  }
+]

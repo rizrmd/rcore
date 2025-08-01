@@ -1,0 +1,22 @@
+[
+  {
+    "id": "nanggoal",
+    "name": "Nanggoal",
+    "district": "kora"
+  },
+  {
+    "id": "kora",
+    "name": "Kora",
+    "district": "kora"
+  },
+  {
+    "id": "wenam",
+    "name": "Wenam",
+    "district": "kora"
+  },
+  {
+    "id": "brutnai",
+    "name": "Brutnai",
+    "district": "kora"
+  }
+]

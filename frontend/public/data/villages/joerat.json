@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yeni",
+    "name": "Yeni",
+    "district": "joerat"
+  },
+  {
+    "id": "yamas",
+    "name": "Yamas",
+    "district": "joerat"
+  },
+  {
+    "id": "omor",
+    "name": "Omor",
+    "district": "joerat"
+  },
+  {
+    "id": "onavai",
+    "name": "Onavai",
+    "district": "joerat"
+  },
+  {
+    "id": "yufri",
+    "name": "Yufri",
+    "district": "joerat"
+  },
+  {
+    "id": "yaun",
+    "name": "Yaun",
+    "district": "joerat"
+  }
+]

@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ciemas",
+    "name": "Ciemas",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "ciracap",
+    "name": "Ciracap",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "waluran",
+    "name": "Waluran",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "surade",
+    "name": "Surade",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cibitung",
+    "name": "Cibitung",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "jampang-kulon",
+    "name": "Jampang Kulon",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cimanggu",
+    "name": "Cimanggu",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "kali-bunder",
+    "name": "Kali Bunder",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "tegal-buleud",
+    "name": "Tegal Buleud",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cidolog",
+    "name": "Cidolog",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "sagaranten",
+    "name": "Sagaranten",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cidadap",
+    "name": "Cidadap",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "curugkembar",
+    "name": "Curugkembar",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "pabuaran",
+    "name": "Pabuaran",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "palabuhanratu",
+    "name": "Palabuhanratu",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "simpenan",
+    "name": "Simpenan",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "warung-kiara",
+    "name": "Warung Kiara",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "bantargadung",
+    "name": "Bantargadung",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "jampang-tengah",
+    "name": "Jampang Tengah",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "purabaya",
+    "name": "Purabaya",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cikembar",
+    "name": "Cikembar",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "nyalindung",
+    "name": "Nyalindung",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "geger-bitung",
+    "name": "Geger Bitung",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "kebonpedes",
+    "name": "Kebonpedes",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cireunghas",
+    "name": "Cireunghas",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "sukalarang",
+    "name": "Sukalarang",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "sukabumi",
+    "name": "Sukabumi",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "kadudampit",
+    "name": "Kadudampit",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cisaat",
+    "name": "Cisaat",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "gunungguruh",
+    "name": "Gunungguruh",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cibadak",
+    "name": "Cibadak",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cicantayan",
+    "name": "Cicantayan",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "nagrak",
+    "name": "Nagrak",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "ciambar",
+    "name": "Ciambar",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cicurug",
+    "name": "Cicurug",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cidahu",
+    "name": "Cidahu",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "parakan-salak",
+    "name": "Parakan Salak",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "parung-kuda",
+    "name": "Parung Kuda",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "bojong-genteng",
+    "name": "Bojong Genteng",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "kalapa-nunggal",
+    "name": "Kalapa Nunggal",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cikidang",
+    "name": "Cikidang",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cisolok",
+    "name": "Cisolok",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "cikakak",
+    "name": "Cikakak",
+    "regency": "kabupaten-sukabumi"
+  },
+  {
+    "id": "kabandungan",
+    "name": "Kabandungan",
+    "regency": "kabupaten-sukabumi"
+  }
+]

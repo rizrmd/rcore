@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "burneh"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "burneh"
+  },
+  {
+    "id": "benangkah",
+    "name": "Benangkah",
+    "district": "burneh"
+  },
+  {
+    "id": "alas-kembang",
+    "name": "Alas Kembang",
+    "district": "burneh"
+  },
+  {
+    "id": "binoh",
+    "name": "Binoh",
+    "district": "burneh"
+  },
+  {
+    "id": "pangolangan",
+    "name": "Pangolangan",
+    "district": "burneh"
+  },
+  {
+    "id": "sobih",
+    "name": "Sobih",
+    "district": "burneh"
+  },
+  {
+    "id": "tonjung",
+    "name": "Tonjung",
+    "district": "burneh"
+  },
+  {
+    "id": "kapor",
+    "name": "Kapor",
+    "district": "burneh"
+  },
+  {
+    "id": "arok",
+    "name": "Arok",
+    "district": "burneh"
+  }
+]

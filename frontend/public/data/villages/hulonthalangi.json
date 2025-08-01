@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tanjung-kramat",
+    "name": "Tanjung Kramat",
+    "district": "hulonthalangi"
+  },
+  {
+    "id": "pohe",
+    "name": "Pohe",
+    "district": "hulonthalangi"
+  },
+  {
+    "id": "tenda",
+    "name": "Tenda",
+    "district": "hulonthalangi"
+  },
+  {
+    "id": "siendeng",
+    "name": "Siendeng",
+    "district": "hulonthalangi"
+  },
+  {
+    "id": "donggala",
+    "name": "Donggala",
+    "district": "hulonthalangi"
+  }
+]

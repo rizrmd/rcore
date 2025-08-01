@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kelayu-jorong",
+    "name": "Kelayu Jorong",
+    "district": "selong"
+  },
+  {
+    "id": "kembang-sari",
+    "name": "Kembang Sari",
+    "district": "selong"
+  },
+  {
+    "id": "majidi",
+    "name": "Majidi",
+    "district": "selong"
+  },
+  {
+    "id": "rakam",
+    "name": "Rakam",
+    "district": "selong"
+  },
+  {
+    "id": "pancor",
+    "name": "Pancor",
+    "district": "selong"
+  },
+  {
+    "id": "sekarteja",
+    "name": "Sekarteja",
+    "district": "selong"
+  },
+  {
+    "id": "sandubaya",
+    "name": "Sandubaya",
+    "district": "selong"
+  },
+  {
+    "id": "khusus-kota-selong",
+    "name": "Khusus Kota Selong",
+    "district": "selong"
+  },
+  {
+    "id": "kelayu-selatan",
+    "name": "Kelayu Selatan",
+    "district": "selong"
+  },
+  {
+    "id": "kelayu-utara",
+    "name": "Kelayu Utara",
+    "district": "selong"
+  },
+  {
+    "id": "denggen-timur",
+    "name": "Denggen Timur",
+    "district": "selong"
+  }
+]

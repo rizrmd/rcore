@@ -1,0 +1,87 @@
+[
+  {
+    "id": "urat-timur",
+    "name": "Urat Timur",
+    "district": "palipi"
+  },
+  {
+    "id": "suhut-nihuta-pardomuan",
+    "name": "Suhut Nihuta Pardomuan",
+    "district": "palipi"
+  },
+  {
+    "id": "parsaoran-urat",
+    "name": "Parsaoran Urat",
+    "district": "palipi"
+  },
+  {
+    "id": "urat-ii",
+    "name": "Urat Ii",
+    "district": "palipi"
+  },
+  {
+    "id": "gorat-pallombuan",
+    "name": "Gorat Pallombuan",
+    "district": "palipi"
+  },
+  {
+    "id": "palipi",
+    "name": "Palipi",
+    "district": "palipi"
+  },
+  {
+    "id": "pardomuan-nauli",
+    "name": "Pardomuan Nauli",
+    "district": "palipi"
+  },
+  {
+    "id": "hatoguan",
+    "name": "Hatoguan",
+    "district": "palipi"
+  },
+  {
+    "id": "saor-nauli-hatoguan",
+    "name": "Saor Nauli Hatoguan",
+    "district": "palipi"
+  },
+  {
+    "id": "simbolon-purba",
+    "name": "Simbolon Purba",
+    "district": "palipi"
+  },
+  {
+    "id": "huta-ginjang",
+    "name": "Huta Ginjang",
+    "district": "palipi"
+  },
+  {
+    "id": "sigaol-marbun",
+    "name": "Sigaol Marbun",
+    "district": "palipi"
+  },
+  {
+    "id": "sigaol-simbolon",
+    "name": "Sigaol Simbolon",
+    "district": "palipi"
+  },
+  {
+    "id": "pamutaran",
+    "name": "Pamutaran",
+    "district": "palipi"
+  },
+  {
+    "id": "sideak",
+    "name": "Sideak",
+    "district": "palipi"
+  },
+  {
+    "id": "pallombuan",
+    "name": "Pallombuan",
+    "district": "palipi"
+  },
+  {
+    "id": "hutadame",
+    "name": "Hutadame",
+    "district": "palipi"
+  }
+]

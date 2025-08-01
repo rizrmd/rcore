@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sungai-damar",
+    "name": "Sungai Damar",
+    "district": "pantai-lunci"
+  },
+  {
+    "id": "sungai-tabuk",
+    "name": "Sungai Tabuk",
+    "district": "pantai-lunci"
+  },
+  {
+    "id": "sungai-cabang-barat",
+    "name": "Sungai Cabang Barat",
+    "district": "pantai-lunci"
+  },
+  {
+    "id": "sungai-pasir",
+    "name": "Sungai Pasir",
+    "district": "pantai-lunci"
+  }
+]

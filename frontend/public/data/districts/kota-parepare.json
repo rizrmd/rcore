@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bacukiki",
+    "name": "Bacukiki",
+    "regency": "kota-parepare"
+  },
+  {
+    "id": "bacukiki-barat",
+    "name": "Bacukiki Barat",
+    "regency": "kota-parepare"
+  },
+  {
+    "id": "ujung",
+    "name": "Ujung",
+    "regency": "kota-parepare"
+  },
+  {
+    "id": "soreang",
+    "name": "Soreang",
+    "regency": "kota-parepare"
+  }
+]

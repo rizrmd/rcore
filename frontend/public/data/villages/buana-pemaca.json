@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung-beringin",
+    "name": "Tanjung Beringin",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "bandar",
+    "name": "Bandar",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "jagaraga",
+    "name": "Jagaraga",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "damarpura",
+    "name": "Damarpura",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "tekana",
+    "name": "Tekana",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "sinar-danau",
+    "name": "Sinar Danau",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "tunas-jaya",
+    "name": "Tunas Jaya",
+    "district": "buana-pemaca"
+  },
+  {
+    "id": "gemiung",
+    "name": "Gemiung",
+    "district": "buana-pemaca"
+  }
+]

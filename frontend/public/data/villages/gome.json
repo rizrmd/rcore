@@ -1,0 +1,67 @@
+[
+  {
+    "id": "upaga",
+    "name": "Upaga",
+    "district": "gome"
+  },
+  {
+    "id": "misimaga",
+    "name": "Misimaga",
+    "district": "gome"
+  },
+  {
+    "id": "gome",
+    "name": "Gome",
+    "district": "gome"
+  },
+  {
+    "id": "mundidok",
+    "name": "Mundidok",
+    "district": "gome"
+  },
+  {
+    "id": "tuwanggi",
+    "name": "Tuwanggi",
+    "district": "gome"
+  },
+  {
+    "id": "yaikimaki",
+    "name": "Yaikimaki",
+    "district": "gome"
+  },
+  {
+    "id": "agiyome",
+    "name": "Agiyome",
+    "district": "gome"
+  },
+  {
+    "id": "yanggerenok",
+    "name": "Yanggerenok",
+    "district": "gome"
+  },
+  {
+    "id": "wako",
+    "name": "Wako",
+    "district": "gome"
+  },
+  {
+    "id": "tegelobak",
+    "name": "Tegelobak",
+    "district": "gome"
+  },
+  {
+    "id": "ninggabuma",
+    "name": "Ninggabuma",
+    "district": "gome"
+  },
+  {
+    "id": "kelanungin",
+    "name": "Kelanungin",
+    "district": "gome"
+  },
+  {
+    "id": "yoggolawi",
+    "name": "Yoggolawi",
+    "district": "gome"
+  }
+]

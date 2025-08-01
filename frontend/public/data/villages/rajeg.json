@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jambu-karya",
+    "name": "Jambu Karya",
+    "district": "rajeg"
+  },
+  {
+    "id": "daon",
+    "name": "Daon",
+    "district": "rajeg"
+  },
+  {
+    "id": "suka-tani",
+    "name": "Suka Tani",
+    "district": "rajeg"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "rajeg"
+  },
+  {
+    "id": "suka-sari",
+    "name": "Suka Sari",
+    "district": "rajeg"
+  },
+  {
+    "id": "rajegmulya",
+    "name": "Rajegmulya",
+    "district": "rajeg"
+  },
+  {
+    "id": "rajeg",
+    "name": "Rajeg",
+    "district": "rajeg"
+  },
+  {
+    "id": "suka-manah",
+    "name": "Suka Manah",
+    "district": "rajeg"
+  },
+  {
+    "id": "pangarengan",
+    "name": "Pangarengan",
+    "district": "rajeg"
+  },
+  {
+    "id": "ranca-bango",
+    "name": "Ranca Bango",
+    "district": "rajeg"
+  },
+  {
+    "id": "lembang-sari",
+    "name": "Lembang Sari",
+    "district": "rajeg"
+  },
+  {
+    "id": "tanjakan",
+    "name": "Tanjakan",
+    "district": "rajeg"
+  },
+  {
+    "id": "tanjakan-mekar",
+    "name": "Tanjakan Mekar",
+    "district": "rajeg"
+  }
+]

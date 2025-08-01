@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dalaka",
+    "name": "Dalaka",
+    "district": "sindue"
+  },
+  {
+    "id": "lero",
+    "name": "Lero",
+    "district": "sindue"
+  },
+  {
+    "id": "toaya",
+    "name": "Toaya",
+    "district": "sindue"
+  },
+  {
+    "id": "sumari",
+    "name": "Sumari",
+    "district": "sindue"
+  },
+  {
+    "id": "taripa",
+    "name": "Taripa",
+    "district": "sindue"
+  },
+  {
+    "id": "masaingi",
+    "name": "Masaingi",
+    "district": "sindue"
+  },
+  {
+    "id": "marana",
+    "name": "Marana",
+    "district": "sindue"
+  },
+  {
+    "id": "lero-tatari",
+    "name": "Lero Tatari",
+    "district": "sindue"
+  },
+  {
+    "id": "toaya-vunta",
+    "name": "Toaya Vunta",
+    "district": "sindue"
+  },
+  {
+    "id": "kumbasa",
+    "name": "Kumbasa",
+    "district": "sindue"
+  },
+  {
+    "id": "amal",
+    "name": "Amal",
+    "district": "sindue"
+  },
+  {
+    "id": "kavaya",
+    "name": "Kavaya",
+    "district": "sindue"
+  }
+]

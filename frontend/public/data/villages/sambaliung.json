@@ -1,0 +1,72 @@
+[
+  {
+    "id": "long-lanuk",
+    "name": "Long Lanuk",
+    "district": "sambaliung"
+  },
+  {
+    "id": "tumbit-dayak",
+    "name": "Tumbit Dayak",
+    "district": "sambaliung"
+  },
+  {
+    "id": "inaran",
+    "name": "Inaran",
+    "district": "sambaliung"
+  },
+  {
+    "id": "pegat-bukur",
+    "name": "Pegat Bukur",
+    "district": "sambaliung"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "sambaliung"
+  },
+  {
+    "id": "sambaliung",
+    "name": "Sambaliung",
+    "district": "sambaliung"
+  },
+  {
+    "id": "bebanir",
+    "name": "Bebanir",
+    "district": "sambaliung"
+  },
+  {
+    "id": "gurimbang",
+    "name": "Gurimbang",
+    "district": "sambaliung"
+  },
+  {
+    "id": "tanjung-perangat",
+    "name": "Tanjung Perangat",
+    "district": "sambaliung"
+  },
+  {
+    "id": "sukan-tengah",
+    "name": "Sukan Tengah",
+    "district": "sambaliung"
+  },
+  {
+    "id": "suaran",
+    "name": "Suaran",
+    "district": "sambaliung"
+  },
+  {
+    "id": "pesayan",
+    "name": "Pesayan",
+    "district": "sambaliung"
+  },
+  {
+    "id": "pilanjau",
+    "name": "Pilanjau",
+    "district": "sambaliung"
+  },
+  {
+    "id": "bena-baru",
+    "name": "Bena Baru",
+    "district": "sambaliung"
+  }
+]

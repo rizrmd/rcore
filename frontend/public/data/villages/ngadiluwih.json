@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tales",
+    "name": "Tales",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "branggahan",
+    "name": "Branggahan",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "seketi",
+    "name": "Seketi",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "banggle",
+    "name": "Banggle",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "ngadiluwih",
+    "name": "Ngadiluwih",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "rembangkepuh",
+    "name": "Rembangkepuh",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "rembang",
+    "name": "Rembang",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "badal",
+    "name": "Badal",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "badal-pandean",
+    "name": "Badal Pandean",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "banjarejo",
+    "name": "Banjarejo",
+    "district": "ngadiluwih"
+  },
+  {
+    "id": "mangunrejo",
+    "name": "Mangunrejo",
+    "district": "ngadiluwih"
+  }
+]

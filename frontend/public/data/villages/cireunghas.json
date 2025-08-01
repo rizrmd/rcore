@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cipurut",
+    "name": "Cipurut",
+    "district": "cireunghas"
+  },
+  {
+    "id": "cireunghas",
+    "name": "Cireunghas",
+    "district": "cireunghas"
+  },
+  {
+    "id": "bencoy",
+    "name": "Bencoy",
+    "district": "cireunghas"
+  },
+  {
+    "id": "cikurutug",
+    "name": "Cikurutug",
+    "district": "cireunghas"
+  },
+  {
+    "id": "tegalpanjang",
+    "name": "Tegalpanjang",
+    "district": "cireunghas"
+  }
+]

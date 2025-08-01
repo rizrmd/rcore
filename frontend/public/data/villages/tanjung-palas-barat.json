@@ -1,0 +1,27 @@
+[
+  {
+    "id": "long-beluah",
+    "name": "Long Beluah",
+    "district": "tanjung-palas-barat"
+  },
+  {
+    "id": "long-sam",
+    "name": "Long Sam",
+    "district": "tanjung-palas-barat"
+  },
+  {
+    "id": "long-pari",
+    "name": "Long Pari",
+    "district": "tanjung-palas-barat"
+  },
+  {
+    "id": "mara-satu",
+    "name": "Mara Satu",
+    "district": "tanjung-palas-barat"
+  },
+  {
+    "id": "mara-hilir",
+    "name": "Mara Hilir",
+    "district": "tanjung-palas-barat"
+  }
+]

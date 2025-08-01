@@ -1,0 +1,27 @@
+[
+  {
+    "id": "candi-jaya",
+    "name": "Candi Jaya",
+    "district": "dempo-tengah"
+  },
+  {
+    "id": "jokoh",
+    "name": "Jokoh",
+    "district": "dempo-tengah"
+  },
+  {
+    "id": "pelang-kenidai",
+    "name": "Pelang Kenidai",
+    "district": "dempo-tengah"
+  },
+  {
+    "id": "padang-temu",
+    "name": "Padang Temu",
+    "district": "dempo-tengah"
+  },
+  {
+    "id": "karang-dalo",
+    "name": "Karang Dalo",
+    "district": "dempo-tengah"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "catur-rahayu",
+    "name": "Catur Rahayu",
+    "district": "dendang"
+  },
+  {
+    "id": "jati-mulyo",
+    "name": "Jati Mulyo",
+    "district": "dendang"
+  },
+  {
+    "id": "sido-mukti",
+    "name": "Sido Mukti",
+    "district": "dendang"
+  },
+  {
+    "id": "kuala-dendang",
+    "name": "Kuala Dendang",
+    "district": "dendang"
+  },
+  {
+    "id": "rantau-indah",
+    "name": "Rantau Indah",
+    "district": "dendang"
+  },
+  {
+    "id": "kuta-kandis-dendang",
+    "name": "Kuta Kandis Dendang",
+    "district": "dendang"
+  },
+  {
+    "id": "koto-kandis",
+    "name": "Koto Kandis",
+    "district": "dendang"
+  },
+  {
+    "id": "dendang",
+    "name": "Dendang",
+    "district": "dendang"
+  },
+  {
+    "id": "jangkang",
+    "name": "Jangkang",
+    "district": "dendang"
+  },
+  {
+    "id": "balok",
+    "name": "Balok",
+    "district": "dendang"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kalitengah",
+    "name": "Kalitengah",
+    "district": "gombong"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "gombong"
+  },
+  {
+    "id": "panjangsari",
+    "name": "Panjangsari",
+    "district": "gombong"
+  },
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "gombong"
+  },
+  {
+    "id": "kedungpuji",
+    "name": "Kedungpuji",
+    "district": "gombong"
+  },
+  {
+    "id": "wero",
+    "name": "Wero",
+    "district": "gombong"
+  },
+  {
+    "id": "gombong",
+    "name": "Gombong",
+    "district": "gombong"
+  },
+  {
+    "id": "wonokriyo",
+    "name": "Wonokriyo",
+    "district": "gombong"
+  },
+  {
+    "id": "semondo",
+    "name": "Semondo",
+    "district": "gombong"
+  },
+  {
+    "id": "semanding",
+    "name": "Semanding",
+    "district": "gombong"
+  },
+  {
+    "id": "sidayu",
+    "name": "Sidayu",
+    "district": "gombong"
+  },
+  {
+    "id": "wonosigro",
+    "name": "Wonosigro",
+    "district": "gombong"
+  },
+  {
+    "id": "klopogodo",
+    "name": "Klopogodo",
+    "district": "gombong"
+  }
+]

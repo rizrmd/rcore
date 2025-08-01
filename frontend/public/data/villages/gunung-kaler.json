@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kanda-wati",
+    "name": "Kanda Wati",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "cibetok",
+    "name": "Cibetok",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "tamiang",
+    "name": "Tamiang",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "cipaeh",
+    "name": "Cipaeh",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "onyam",
+    "name": "Onyam",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "gunung-kaler",
+    "name": "Gunung Kaler",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "sidoko",
+    "name": "Sidoko",
+    "district": "gunung-kaler"
+  },
+  {
+    "id": "ranca-gede",
+    "name": "Ranca Gede",
+    "district": "gunung-kaler"
+  }
+]

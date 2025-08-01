@@ -1,0 +1,57 @@
+[
+  {
+    "id": "medankarya",
+    "name": "Medankarya",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "pisangsambo",
+    "name": "Pisangsambo",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "sabajaya",
+    "name": "Sabajaya",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "gempolkarya",
+    "name": "Gempolkarya",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "srijaya",
+    "name": "Srijaya",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "kutamakmur",
+    "name": "Kutamakmur",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "bolang",
+    "name": "Bolang",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "srikamulyan",
+    "name": "Srikamulyan",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "sumurlaban",
+    "name": "Sumurlaban",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "tambaksumur",
+    "name": "Tambaksumur",
+    "district": "tirtajaya"
+  },
+  {
+    "id": "tambaksari",
+    "name": "Tambaksari",
+    "district": "tirtajaya"
+  }
+]

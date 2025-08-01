@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pajang",
+    "name": "Pajang",
+    "district": "laweyan"
+  },
+  {
+    "id": "laweyan",
+    "name": "Laweyan",
+    "district": "laweyan"
+  },
+  {
+    "id": "bumi",
+    "name": "Bumi",
+    "district": "laweyan"
+  },
+  {
+    "id": "panularan",
+    "name": "Panularan",
+    "district": "laweyan"
+  },
+  {
+    "id": "sriwedari",
+    "name": "Sriwedari",
+    "district": "laweyan"
+  },
+  {
+    "id": "penumping",
+    "name": "Penumping",
+    "district": "laweyan"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "laweyan"
+  },
+  {
+    "id": "sondakan",
+    "name": "Sondakan",
+    "district": "laweyan"
+  },
+  {
+    "id": "jajar",
+    "name": "Jajar",
+    "district": "laweyan"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "laweyan"
+  }
+]

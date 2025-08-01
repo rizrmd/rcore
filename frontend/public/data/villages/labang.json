@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pangpong",
+    "name": "Pangpong",
+    "district": "labang"
+  },
+  {
+    "id": "sukolilo-barat",
+    "name": "Sukolilo Barat",
+    "district": "labang"
+  },
+  {
+    "id": "sukolilo-timur",
+    "name": "Sukolilo Timur",
+    "district": "labang"
+  },
+  {
+    "id": "bunajih",
+    "name": "Bunajih",
+    "district": "labang"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "district": "labang"
+  },
+  {
+    "id": "baengas",
+    "name": "Ba'Engas",
+    "district": "labang"
+  },
+  {
+    "id": "morkepek",
+    "name": "Morkepek",
+    "district": "labang"
+  },
+  {
+    "id": "labang",
+    "name": "Labang",
+    "district": "labang"
+  },
+  {
+    "id": "jukong",
+    "name": "Jukong",
+    "district": "labang"
+  },
+  {
+    "id": "sendang-laok",
+    "name": "Sendang Laok",
+    "district": "labang"
+  },
+  {
+    "id": "sendang-dajah",
+    "name": "Sendang Dajah",
+    "district": "labang"
+  },
+  {
+    "id": "petapan",
+    "name": "Petapan",
+    "district": "labang"
+  }
+]

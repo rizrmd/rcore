@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kabupaten-boalemo",
+    "name": "Boalemo",
+    "province": "gorontalo"
+  },
+  {
+    "id": "kabupaten-bone-bolango",
+    "name": "Bone Bolango",
+    "province": "gorontalo"
+  },
+  {
+    "id": "kabupaten-gorontalo",
+    "name": "Gorontalo",
+    "province": "gorontalo"
+  },
+  {
+    "id": "kabupaten-gorontalo-utara",
+    "name": "Gorontalo Utara",
+    "province": "gorontalo"
+  },
+  {
+    "id": "kota-gorontalo",
+    "name": "Kota Gorontalo",
+    "province": "gorontalo"
+  },
+  {
+    "id": "kabupaten-pahuwato",
+    "name": "Pahuwato",
+    "province": "gorontalo"
+  }
+]

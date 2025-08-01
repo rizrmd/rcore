@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gisting-atas",
+    "name": "Gisting Atas",
+    "district": "gisting"
+  },
+  {
+    "id": "gisting-bawah",
+    "name": "Gisting Bawah",
+    "district": "gisting"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "gisting"
+  },
+  {
+    "id": "kuta-dalom",
+    "name": "Kuta Dalom",
+    "district": "gisting"
+  },
+  {
+    "id": "banjarmanis",
+    "name": "Banjarmanis",
+    "district": "gisting"
+  },
+  {
+    "id": "campang",
+    "name": "Campang",
+    "district": "gisting"
+  },
+  {
+    "id": "sidokaton",
+    "name": "Sidokaton",
+    "district": "gisting"
+  },
+  {
+    "id": "lanbauw",
+    "name": "Lanbauw",
+    "district": "gisting"
+  },
+  {
+    "id": "gisting-permai",
+    "name": "Gisting Permai",
+    "district": "gisting"
+  }
+]

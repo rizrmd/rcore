@@ -1,0 +1,57 @@
+[
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "dusun-tunggang",
+    "name": "Dusun Tunggang",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "air-berau",
+    "name": "Air Berau",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "pondok-suguh",
+    "name": "Pondok Suguh",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "air-bikuk",
+    "name": "Air Bikuk",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "sinar-laut",
+    "name": "Sinar Laut",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "lubuk-bento",
+    "name": "Lubuk Bento",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "pondok-kandang",
+    "name": "Pondok Kandang",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "bumi-mekar-jaya",
+    "name": "Bumi Mekar Jaya",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "karya-mulya",
+    "name": "Karya Mulya",
+    "district": "pondok-suguh"
+  },
+  {
+    "id": "teluk-bakung",
+    "name": "Teluk Bakung",
+    "district": "pondok-suguh"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ulak-kembahang",
+    "name": "Ulak Kembahang",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "lubuk-keliat",
+    "name": "Lubuk Keliat",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "embacang",
+    "name": "Embacang",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "betung-i",
+    "name": "Betung I",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "kasih-raja",
+    "name": "Kasih Raja",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "talang-tengah",
+    "name": "Talang Tengah",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "ketiau",
+    "name": "Ketiau",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "betung-ii",
+    "name": "Betung Ii",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "payalingkung",
+    "name": "Payalingkung",
+    "district": "lubuk-keliat"
+  },
+  {
+    "id": "talang-tengah-laut",
+    "name": "Talang Tengah Laut",
+    "district": "lubuk-keliat"
+  }
+]

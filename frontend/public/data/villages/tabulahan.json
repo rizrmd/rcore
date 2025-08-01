@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lakahang",
+    "name": "Lakahang",
+    "district": "tabulahan"
+  },
+  {
+    "id": "periangan",
+    "name": "Periangan",
+    "district": "tabulahan"
+  },
+  {
+    "id": "malatiro",
+    "name": "Malatiro",
+    "district": "tabulahan"
+  },
+  {
+    "id": "tabulahan",
+    "name": "Tabulahan",
+    "district": "tabulahan"
+  },
+  {
+    "id": "saluleang",
+    "name": "Saluleang",
+    "district": "tabulahan"
+  },
+  {
+    "id": "tampak-kurra",
+    "name": "Tampak Kurra",
+    "district": "tabulahan"
+  },
+  {
+    "id": "gandang-dewata",
+    "name": "Gandang Dewata",
+    "district": "tabulahan"
+  },
+  {
+    "id": "burana",
+    "name": "Burana",
+    "district": "tabulahan"
+  },
+  {
+    "id": "salubakka",
+    "name": "Salubakka",
+    "district": "tabulahan"
+  },
+  {
+    "id": "pangandaran",
+    "name": "Pangandaran",
+    "district": "tabulahan"
+  },
+  {
+    "id": "lakahang-utama",
+    "name": "Lakahang Utama",
+    "district": "tabulahan"
+  },
+  {
+    "id": "talopak",
+    "name": "Talopak",
+    "district": "tabulahan"
+  },
+  {
+    "id": "timoro",
+    "name": "Timoro",
+    "district": "tabulahan"
+  }
+]

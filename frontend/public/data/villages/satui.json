@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sungai-cuka",
+    "name": "Sungai Cuka",
+    "district": "satui"
+  },
+  {
+    "id": "sejahtera-mulia",
+    "name": "Sejahtera Mulia",
+    "district": "satui"
+  },
+  {
+    "id": "jombang",
+    "name": "Jombang",
+    "district": "satui"
+  },
+  {
+    "id": "sungai-danau",
+    "name": "Sungai Danau",
+    "district": "satui"
+  },
+  {
+    "id": "satui-timur",
+    "name": "Satui Timur",
+    "district": "satui"
+  },
+  {
+    "id": "satui-barat",
+    "name": "Satui Barat",
+    "district": "satui"
+  },
+  {
+    "id": "setarap",
+    "name": "Setarap",
+    "district": "satui"
+  },
+  {
+    "id": "tegal-sari",
+    "name": "Tegal Sari",
+    "district": "satui"
+  },
+  {
+    "id": "sekapuk",
+    "name": "Sekapuk",
+    "district": "satui"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "satui"
+  },
+  {
+    "id": "wono-rejo",
+    "name": "Wono Rejo",
+    "district": "satui"
+  },
+  {
+    "id": "sumber-arum",
+    "name": "Sumber Arum",
+    "district": "satui"
+  },
+  {
+    "id": "makmur-mulia",
+    "name": "Makmur Mulia",
+    "district": "satui"
+  },
+  {
+    "id": "al-kautsar",
+    "name": "Al Kautsar",
+    "district": "satui"
+  },
+  {
+    "id": "sinar-bulan",
+    "name": "Sinar Bulan",
+    "district": "satui"
+  },
+  {
+    "id": "pendamaran-jaya",
+    "name": "Pendamaran Jaya",
+    "district": "satui"
+  }
+]

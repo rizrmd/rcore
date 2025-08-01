@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumberjaya",
+    "name": "Sumberjaya",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "buniasih",
+    "name": "Buniasih",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "tegalbuleud",
+    "name": "Tegalbuleud",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "calingcing",
+    "name": "Calingcing",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "rambay",
+    "name": "Rambay",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "nangela",
+    "name": "Nangela",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "bangbayang",
+    "name": "Bangbayang",
+    "district": "tegal-buleud"
+  },
+  {
+    "id": "sirnamekar",
+    "name": "Sirnamekar",
+    "district": "tegal-buleud"
+  }
+]

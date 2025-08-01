@@ -1,0 +1,27 @@
+[
+  {
+    "id": "soba",
+    "name": "Soba",
+    "district": "soba"
+  },
+  {
+    "id": "hepinis",
+    "name": "Hepinis",
+    "district": "soba"
+  },
+  {
+    "id": "aguluntipmu",
+    "name": "Aguluntipmu",
+    "district": "soba"
+  },
+  {
+    "id": "nilen",
+    "name": "Nilen",
+    "district": "soba"
+  },
+  {
+    "id": "tanda",
+    "name": "Tanda",
+    "district": "soba"
+  }
+]

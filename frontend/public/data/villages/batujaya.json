@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kutaampel",
+    "name": "Kutaampel",
+    "district": "batujaya"
+  },
+  {
+    "id": "karyamakmur",
+    "name": "Karyamakmur",
+    "district": "batujaya"
+  },
+  {
+    "id": "karyamulya",
+    "name": "Karyamulya",
+    "district": "batujaya"
+  },
+  {
+    "id": "telukbango",
+    "name": "Telukbango",
+    "district": "batujaya"
+  },
+  {
+    "id": "telukambulu",
+    "name": "Telukambulu",
+    "district": "batujaya"
+  },
+  {
+    "id": "karyabakti",
+    "name": "Karyabakti",
+    "district": "batujaya"
+  },
+  {
+    "id": "baturaden",
+    "name": "Baturaden",
+    "district": "batujaya"
+  },
+  {
+    "id": "batujaya",
+    "name": "Batujaya",
+    "district": "batujaya"
+  },
+  {
+    "id": "segaran",
+    "name": "Segaran",
+    "district": "batujaya"
+  },
+  {
+    "id": "segarjaya",
+    "name": "Segarjaya",
+    "district": "batujaya"
+  }
+]

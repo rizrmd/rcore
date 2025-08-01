@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bulusuka",
+    "name": "Bulusuka",
+    "district": "bontoramba"
+  },
+  {
+    "id": "maero",
+    "name": "Maero",
+    "district": "bontoramba"
+  },
+  {
+    "id": "balumbungang",
+    "name": "Balumbungang",
+    "district": "bontoramba"
+  },
+  {
+    "id": "bangkalaloe",
+    "name": "Bangkalaloe",
+    "district": "bontoramba"
+  },
+  {
+    "id": "datara",
+    "name": "Datara",
+    "district": "bontoramba"
+  },
+  {
+    "id": "baraya",
+    "name": "Baraya",
+    "district": "bontoramba"
+  },
+  {
+    "id": "bontoramba",
+    "name": "Bontoramba",
+    "district": "bontoramba"
+  },
+  {
+    "id": "batujala",
+    "name": "Batujala",
+    "district": "bontoramba"
+  },
+  {
+    "id": "bulusibatang",
+    "name": "Bulusibatang",
+    "district": "bontoramba"
+  },
+  {
+    "id": "kareloe",
+    "name": "Kareloe",
+    "district": "bontoramba"
+  },
+  {
+    "id": "tanammawang",
+    "name": "Tanammawang",
+    "district": "bontoramba"
+  }
+]

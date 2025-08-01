@@ -1,0 +1,92 @@
+[
+  {
+    "id": "bajulan",
+    "name": "Bajulan",
+    "district": "loceret"
+  },
+  {
+    "id": "macanan",
+    "name": "Macanan",
+    "district": "loceret"
+  },
+  {
+    "id": "karangsono",
+    "name": "Karangsono",
+    "district": "loceret"
+  },
+  {
+    "id": "godean",
+    "name": "Godean",
+    "district": "loceret"
+  },
+  {
+    "id": "patihan",
+    "name": "Patihan",
+    "district": "loceret"
+  },
+  {
+    "id": "sekaran",
+    "name": "Sekaran",
+    "district": "loceret"
+  },
+  {
+    "id": "loceret",
+    "name": "Loceret",
+    "district": "loceret"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "loceret"
+  },
+  {
+    "id": "tempel-wetan",
+    "name": "Tempel Wetan",
+    "district": "loceret"
+  },
+  {
+    "id": "teken-glagahan",
+    "name": "Teken Glagahan",
+    "district": "loceret"
+  },
+  {
+    "id": "gejagan",
+    "name": "Gejagan",
+    "district": "loceret"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "loceret"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "loceret"
+  },
+  {
+    "id": "kwagean",
+    "name": "Kwagean",
+    "district": "loceret"
+  },
+  {
+    "id": "putukrejo",
+    "name": "Putukrejo",
+    "district": "loceret"
+  },
+  {
+    "id": "nglaban",
+    "name": "Nglaban",
+    "district": "loceret"
+  },
+  {
+    "id": "sombron",
+    "name": "Sombron",
+    "district": "loceret"
+  },
+  {
+    "id": "tanjungrejo",
+    "name": "Tanjungrejo",
+    "district": "loceret"
+  }
+]

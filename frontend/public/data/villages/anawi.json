@@ -1,0 +1,52 @@
+[
+  {
+    "id": "yalipura",
+    "name": "Yalipura",
+    "district": "anawi"
+  },
+  {
+    "id": "anawi",
+    "name": "Anawi",
+    "district": "anawi"
+  },
+  {
+    "id": "kotori",
+    "name": "Kotori",
+    "district": "anawi"
+  },
+  {
+    "id": "linggir",
+    "name": "Linggir",
+    "district": "anawi"
+  },
+  {
+    "id": "imurik",
+    "name": "Imurik",
+    "district": "anawi"
+  },
+  {
+    "id": "talikobak",
+    "name": "Talikobak",
+    "district": "anawi"
+  },
+  {
+    "id": "gineri",
+    "name": "Gineri",
+    "district": "anawi"
+  },
+  {
+    "id": "loguk",
+    "name": "Loguk",
+    "district": "anawi"
+  },
+  {
+    "id": "bieleme",
+    "name": "Bieleme",
+    "district": "anawi"
+  },
+  {
+    "id": "aridunda",
+    "name": "Aridunda",
+    "district": "anawi"
+  }
+]

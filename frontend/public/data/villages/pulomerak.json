@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "pulomerak"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "pulomerak"
+  },
+  {
+    "id": "lebak-gede",
+    "name": "Lebak Gede",
+    "district": "pulomerak"
+  },
+  {
+    "id": "suralaya",
+    "name": "Suralaya",
+    "district": "pulomerak"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kesik",
+    "name": "Kesik",
+    "district": "masbagik"
+  },
+  {
+    "id": "paok-motong",
+    "name": "Paok Motong",
+    "district": "masbagik"
+  },
+  {
+    "id": "masbagik-selatan",
+    "name": "Masbagik Selatan",
+    "district": "masbagik"
+  },
+  {
+    "id": "masbagik-timur",
+    "name": "Masbagik Timur",
+    "district": "masbagik"
+  },
+  {
+    "id": "masbagik-utara",
+    "name": "Masbagik Utara",
+    "district": "masbagik"
+  },
+  {
+    "id": "danger",
+    "name": "Danger",
+    "district": "masbagik"
+  },
+  {
+    "id": "lendang-nangka",
+    "name": "Lendang Nangka",
+    "district": "masbagik"
+  },
+  {
+    "id": "masbagik-utara-baru",
+    "name": "Masbagik Utara Baru",
+    "district": "masbagik"
+  },
+  {
+    "id": "lendang-nangka-utara",
+    "name": "Lendang Nangka Utara",
+    "district": "masbagik"
+  },
+  {
+    "id": "kumbang",
+    "name": "Kumbang",
+    "district": "masbagik"
+  }
+]

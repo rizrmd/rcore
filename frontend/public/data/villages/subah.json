@@ -1,0 +1,142 @@
+[
+  {
+    "id": "menjangan",
+    "name": "Menjangan",
+    "district": "subah"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "subah"
+  },
+  {
+    "id": "mangunharjo",
+    "name": "Mangunharjo",
+    "district": "subah"
+  },
+  {
+    "id": "tenggulangharjo",
+    "name": "Tenggulangharjo",
+    "district": "subah"
+  },
+  {
+    "id": "keborangan",
+    "name": "Keborangan",
+    "district": "subah"
+  },
+  {
+    "id": "kalimanggis",
+    "name": "Kalimanggis",
+    "district": "subah"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "subah"
+  },
+  {
+    "id": "subah",
+    "name": "Subah",
+    "district": "subah"
+  },
+  {
+    "id": "kumejing",
+    "name": "Kumejing",
+    "district": "subah"
+  },
+  {
+    "id": "durenombo",
+    "name": "Durenombo",
+    "district": "subah"
+  },
+  {
+    "id": "clapar",
+    "name": "Clapar",
+    "district": "subah"
+  },
+  {
+    "id": "sengon",
+    "name": "Sengon",
+    "district": "subah"
+  },
+  {
+    "id": "adinuso",
+    "name": "Adinuso",
+    "district": "subah"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "subah"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "subah"
+  },
+  {
+    "id": "kemiri-barat",
+    "name": "Kemiri Barat",
+    "district": "subah"
+  },
+  {
+    "id": "kemiri-timur",
+    "name": "Kemiri Timur",
+    "district": "subah"
+  },
+  {
+    "id": "tebuah-elok",
+    "name": "Tebuah Elok",
+    "district": "subah"
+  },
+  {
+    "id": "mensade",
+    "name": "Mensade",
+    "district": "subah"
+  },
+  {
+    "id": "sei-sapak",
+    "name": "Sei Sapak",
+    "district": "subah"
+  },
+  {
+    "id": "sempurna",
+    "name": "Sempurna",
+    "district": "subah"
+  },
+  {
+    "id": "bukit-mulya",
+    "name": "Bukit Mulya",
+    "district": "subah"
+  },
+  {
+    "id": "sei-deden",
+    "name": "Sei Deden",
+    "district": "subah"
+  },
+  {
+    "id": "sabung",
+    "name": "Sabung",
+    "district": "subah"
+  },
+  {
+    "id": "mukti-raharja",
+    "name": "Mukti Raharja",
+    "district": "subah"
+  },
+  {
+    "id": "karaban-jaya",
+    "name": "Karaban Jaya",
+    "district": "subah"
+  },
+  {
+    "id": "balai-gemuruh",
+    "name": "Balai Gemuruh",
+    "district": "subah"
+  },
+  {
+    "id": "madak",
+    "name": "Madak",
+    "district": "subah"
+  }
+]

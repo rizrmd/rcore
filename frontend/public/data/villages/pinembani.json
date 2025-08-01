@@ -1,0 +1,47 @@
+[
+  {
+    "id": "palintuma",
+    "name": "Palintuma",
+    "district": "pinembani"
+  },
+  {
+    "id": "gimpubia",
+    "name": "Gimpubia",
+    "district": "pinembani"
+  },
+  {
+    "id": "bambakanini",
+    "name": "Bambakanini",
+    "district": "pinembani"
+  },
+  {
+    "id": "dangaraa",
+    "name": "Dangaraa",
+    "district": "pinembani"
+  },
+  {
+    "id": "tamodo",
+    "name": "Tamodo",
+    "district": "pinembani"
+  },
+  {
+    "id": "bambakaenu",
+    "name": "Bambakaenu",
+    "district": "pinembani"
+  },
+  {
+    "id": "karovia",
+    "name": "Karovia",
+    "district": "pinembani"
+  },
+  {
+    "id": "kanagalongga",
+    "name": "Kanagalongga",
+    "district": "pinembani"
+  },
+  {
+    "id": "tavanggeli",
+    "name": "Tavanggeli",
+    "district": "pinembani"
+  }
+]

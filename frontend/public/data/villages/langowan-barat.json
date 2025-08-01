@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tounelet",
+    "name": "Tounelet",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "koyawas",
+    "name": "Koyawas",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "walewangko",
+    "name": "Walewangko",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "noongan",
+    "name": "Noongan",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "raringis",
+    "name": "Raringis",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "ampreng",
+    "name": "Ampreng",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "paslaten",
+    "name": "Paslaten",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "kopiwangker",
+    "name": "Kopiwangker",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "lowian",
+    "name": "Lowian",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "tumaratas",
+    "name": "Tumaratas",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "tumaratas-dua",
+    "name": "Tumaratas Dua",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "noongan-dua",
+    "name": "Noongan Dua",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "noongan-tiga",
+    "name": "Noongan Tiga",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "raranon",
+    "name": "Raranon",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "raringis-selatan",
+    "name": "Raringis Selatan",
+    "district": "langowan-barat"
+  },
+  {
+    "id": "raringis-utara",
+    "name": "Raringis Utara",
+    "district": "langowan-barat"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "bunguran-timur-laut"
+  },
+  {
+    "id": "kelanga",
+    "name": "Kelanga",
+    "district": "bunguran-timur-laut"
+  },
+  {
+    "id": "pengadah",
+    "name": "Pengadah",
+    "district": "bunguran-timur-laut"
+  },
+  {
+    "id": "sebadai-hulu",
+    "name": "Sebadai Hulu",
+    "district": "bunguran-timur-laut"
+  },
+  {
+    "id": "limau-manis",
+    "name": "Limau Manis",
+    "district": "bunguran-timur-laut"
+  },
+  {
+    "id": "selemam",
+    "name": "Selemam",
+    "district": "bunguran-timur-laut"
+  }
+]

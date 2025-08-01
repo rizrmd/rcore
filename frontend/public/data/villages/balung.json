@@ -1,0 +1,37 @@
+[
+  {
+    "id": "karang-duren",
+    "name": "Karang Duren",
+    "district": "balung"
+  },
+  {
+    "id": "karang-semanding",
+    "name": "Karang Semanding",
+    "district": "balung"
+  },
+  {
+    "id": "balung-kulon",
+    "name": "Balung Kulon",
+    "district": "balung"
+  },
+  {
+    "id": "balung-kidul",
+    "name": "Balung Kidul",
+    "district": "balung"
+  },
+  {
+    "id": "balung-lor",
+    "name": "Balung Lor",
+    "district": "balung"
+  },
+  {
+    "id": "gumelar",
+    "name": "Gumelar",
+    "district": "balung"
+  },
+  {
+    "id": "curahlele",
+    "name": "Curahlele",
+    "district": "balung"
+  }
+]

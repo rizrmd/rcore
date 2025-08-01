@@ -1,0 +1,67 @@
+[
+  {
+    "id": "taaba",
+    "name": "Taaba",
+    "district": "weliman"
+  },
+  {
+    "id": "leunklot",
+    "name": "Leunklot",
+    "district": "weliman"
+  },
+  {
+    "id": "umalawain",
+    "name": "Umalawain",
+    "district": "weliman"
+  },
+  {
+    "id": "bonetasea",
+    "name": "Bonetasea",
+    "district": "weliman"
+  },
+  {
+    "id": "hauklaran",
+    "name": "Hauklaran",
+    "district": "weliman"
+  },
+  {
+    "id": "lakulo",
+    "name": "Lakulo",
+    "district": "weliman"
+  },
+  {
+    "id": "kleseleon",
+    "name": "Kleseleon",
+    "district": "weliman"
+  },
+  {
+    "id": "laleten",
+    "name": "Laleten",
+    "district": "weliman"
+  },
+  {
+    "id": "haitimuk",
+    "name": "Haitimuk",
+    "district": "weliman"
+  },
+  {
+    "id": "angkaes",
+    "name": "Angkaes",
+    "district": "weliman"
+  },
+  {
+    "id": "wederok",
+    "name": "Wederok",
+    "district": "weliman"
+  },
+  {
+    "id": "lamudur",
+    "name": "Lamudur",
+    "district": "weliman"
+  },
+  {
+    "id": "forekmodok",
+    "name": "Forekmodok",
+    "district": "weliman"
+  }
+]

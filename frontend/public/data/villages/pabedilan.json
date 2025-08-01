@@ -1,0 +1,67 @@
+[
+  {
+    "id": "babakan-losari",
+    "name": "Babakan Losari",
+    "district": "pabedilan"
+  },
+  {
+    "id": "sidaresmi",
+    "name": "Sidaresmi",
+    "district": "pabedilan"
+  },
+  {
+    "id": "kalibuntu",
+    "name": "Kalibuntu",
+    "district": "pabedilan"
+  },
+  {
+    "id": "dukuhwidara",
+    "name": "Dukuhwidara",
+    "district": "pabedilan"
+  },
+  {
+    "id": "pasuruan",
+    "name": "Pasuruan",
+    "district": "pabedilan"
+  },
+  {
+    "id": "kalimukti",
+    "name": "Kalimukti",
+    "district": "pabedilan"
+  },
+  {
+    "id": "pabedilan-kaler",
+    "name": "Pabedilan Kaler",
+    "district": "pabedilan"
+  },
+  {
+    "id": "babakan-losari-lor",
+    "name": "Babakan Losari Lor",
+    "district": "pabedilan"
+  },
+  {
+    "id": "pabedilan-kidul",
+    "name": "Pabedilan Kidul",
+    "district": "pabedilan"
+  },
+  {
+    "id": "pabedilan-kulon",
+    "name": "Pabedilan Kulon",
+    "district": "pabedilan"
+  },
+  {
+    "id": "pabedilan-wetan",
+    "name": "Pabedilan Wetan",
+    "district": "pabedilan"
+  },
+  {
+    "id": "tersana",
+    "name": "Tersana",
+    "district": "pabedilan"
+  },
+  {
+    "id": "silihasih",
+    "name": "Silihasih",
+    "district": "pabedilan"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kokapi",
+    "name": "Kokapi",
+    "district": "sawa"
+  },
+  {
+    "id": "matanggonawe",
+    "name": "Matanggonawe",
+    "district": "sawa"
+  },
+  {
+    "id": "pudonggala",
+    "name": "Pudonggala",
+    "district": "sawa"
+  },
+  {
+    "id": "tongauna",
+    "name": "Tongauna",
+    "district": "sawa"
+  },
+  {
+    "id": "sawa",
+    "name": "Sawa",
+    "district": "sawa"
+  },
+  {
+    "id": "laimeo",
+    "name": "Laimeo",
+    "district": "sawa"
+  },
+  {
+    "id": "lalembo",
+    "name": "Lalembo",
+    "district": "sawa"
+  },
+  {
+    "id": "puupi",
+    "name": "Puupi",
+    "district": "sawa"
+  },
+  {
+    "id": "puudonggala-utama",
+    "name": "Puudonggala Utama",
+    "district": "sawa"
+  },
+  {
+    "id": "ulusawa",
+    "name": "Ulusawa",
+    "district": "sawa"
+  },
+  {
+    "id": "pekaroa",
+    "name": "Pekaroa",
+    "district": "sawa"
+  },
+  {
+    "id": "panggulawu",
+    "name": "Panggulawu",
+    "district": "sawa"
+  },
+  {
+    "id": "tundungano",
+    "name": "Tundungano",
+    "district": "sawa"
+  },
+  {
+    "id": "tanjung-laimeo",
+    "name": "Tanjung Laimeo",
+    "district": "sawa"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tobai-barat",
+    "name": "Tobai Barat",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tobai-tengah",
+    "name": "Tobai Tengah",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tobai-timur",
+    "name": "Tobai Timur",
+    "district": "sokobanah"
+  },
+  {
+    "id": "bira-tengah",
+    "name": "Bira Tengah",
+    "district": "sokobanah"
+  },
+  {
+    "id": "bira-timur",
+    "name": "Bira Timur",
+    "district": "sokobanah"
+  },
+  {
+    "id": "sokobanah-laok",
+    "name": "Sokobanah Laok",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tamberu-laok",
+    "name": "Tamberu Laok",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tamberu-daya",
+    "name": "Tamberu Daya",
+    "district": "sokobanah"
+  },
+  {
+    "id": "sokobanah-tengah",
+    "name": "Sokobanah Tengah",
+    "district": "sokobanah"
+  },
+  {
+    "id": "sokobanah-daya",
+    "name": "Sokobanah Daya",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tamberu-barat",
+    "name": "Tamberu Barat",
+    "district": "sokobanah"
+  },
+  {
+    "id": "tamberu-timur",
+    "name": "Tamberu Timur",
+    "district": "sokobanah"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kuala-gasib",
+    "name": "Kuala Gasib",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "teluk-rimba",
+    "name": "Teluk Rimba",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "pangkalan-pisang",
+    "name": "Pangkalan Pisang",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "keranji-guguh",
+    "name": "Keranji Guguh",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "empang-pandan",
+    "name": "Empang Pandan",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "sengkemang",
+    "name": "Sengkemang",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "buatan-ii",
+    "name": "Buatan Ii",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "buatan-i",
+    "name": "Buatan I",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "sri-gemilang",
+    "name": "Sri Gemilang",
+    "district": "koto-gasib"
+  },
+  {
+    "id": "tasik-seminai",
+    "name": "Tasik Seminai",
+    "district": "koto-gasib"
+  }
+]

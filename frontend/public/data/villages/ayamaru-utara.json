@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hohoyar",
+    "name": "Hohoyar",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "setta",
+    "name": "Setta",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "karetubun",
+    "name": "Karetubun",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "yubiah",
+    "name": "Yubiah",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "aus-tiwit",
+    "name": "Aus Tiwit",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "yukase",
+    "name": "Yukase",
+    "district": "ayamaru-utara"
+  },
+  {
+    "id": "serma",
+    "name": "Serma",
+    "district": "ayamaru-utara"
+  }
+]

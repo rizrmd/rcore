@@ -1,0 +1,207 @@
+[
+  {
+    "id": "gle-meundong",
+    "name": "Gle Meundong",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ie-rhob-babah-lueng",
+    "name": "Ie Rhob Babah Lueng",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "lhok-tanoh",
+    "name": "Lhok Tanoh",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "krueng-meuseugob",
+    "name": "Krueng Meuseugob",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "paku",
+    "name": "Paku",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-tambue",
+    "name": "Blang Tambue",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "meunasah-mamplam",
+    "name": "Meunasah Mamplam",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "pulo-dapong",
+    "name": "Pulo Dapong",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "cot-trieng",
+    "name": "Cot Trieng",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ie-rhob-timur",
+    "name": "Ie Rhob Timur",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ie-rhob-barat",
+    "name": "Ie Rhob Barat",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "meunasah-dayah",
+    "name": "Meunasah Dayah",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "pulo-drien",
+    "name": "Pulo Drien",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ie-rhob-geulumpang",
+    "name": "Ie Rhob Geulumpang",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ceureucok",
+    "name": "Ceureucok",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "arongan",
+    "name": "Arongan",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "balee",
+    "name": "Balee",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-mane-barat",
+    "name": "Blang Mane Barat",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-mane-dua-meunasah",
+    "name": "Blang Mane Dua Meunasah",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "jurong-binje",
+    "name": "Jurong Binje",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "meunasah-mesjid",
+    "name": "Meunasah Mesjid",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-teumulek",
+    "name": "Blang Teumulek",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-kuta-dua-meunasah",
+    "name": "Blang Kuta Dua Meunasah",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-kuta-coh",
+    "name": "Blang Kuta Coh",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "rheum-timur",
+    "name": "Rheum Timur",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "rheum-barat",
+    "name": "Rheum Barat",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "rheum-barouh",
+    "name": "Rheum Barouh",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "lancang",
+    "name": "Lancang",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "keude-tambue",
+    "name": "Keude Tambue",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "meunasah-asan",
+    "name": "Meunasah Asan",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "peuneulet-tunong",
+    "name": "Peuneulet Tunong",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "cure-tunong",
+    "name": "Cure Tunong",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "cure-baroh",
+    "name": "Cure Baroh",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "peunelet-baroh",
+    "name": "Peunelet Baroh",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "ulee-kareung",
+    "name": "Ulee Kareung",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "alue-leuhob",
+    "name": "Alue Leuhob",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "blang-panyang",
+    "name": "Blang Panyang",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "calok",
+    "name": "Calok",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "meunasah-barat",
+    "name": "Meunasah Barat",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "tambue-barat",
+    "name": "Tambue Barat",
+    "district": "simpang-mamplam"
+  },
+  {
+    "id": "lhok-mane",
+    "name": "Lhok Mane",
+    "district": "simpang-mamplam"
+  }
+]

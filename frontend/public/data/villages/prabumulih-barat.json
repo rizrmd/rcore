@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gunung-kemala",
+    "name": "Gunung Kemala",
+    "district": "prabumulih-barat"
+  },
+  {
+    "id": "patih-galung",
+    "name": "Patih Galung",
+    "district": "prabumulih-barat"
+  },
+  {
+    "id": "prabumulih",
+    "name": "Prabumulih",
+    "district": "prabumulih-barat"
+  },
+  {
+    "id": "muntang-tapus",
+    "name": "Muntang Tapus",
+    "district": "prabumulih-barat"
+  },
+  {
+    "id": "payu-putat",
+    "name": "Payu Putat",
+    "district": "prabumulih-barat"
+  },
+  {
+    "id": "tanjung-telang",
+    "name": "Tanjung Telang",
+    "district": "prabumulih-barat"
+  }
+]

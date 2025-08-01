@@ -1,0 +1,97 @@
+[
+  {
+    "id": "jetaksari",
+    "name": "Jetaksari",
+    "district": "sayung"
+  },
+  {
+    "id": "dombo",
+    "name": "Dombo",
+    "district": "sayung"
+  },
+  {
+    "id": "bulusari",
+    "name": "Bulusari",
+    "district": "sayung"
+  },
+  {
+    "id": "perampelan",
+    "name": "Perampelan",
+    "district": "sayung"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "sayung"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "sayung"
+  },
+  {
+    "id": "sayung",
+    "name": "Sayung",
+    "district": "sayung"
+  },
+  {
+    "id": "tambakroto",
+    "name": "Tambakroto",
+    "district": "sayung"
+  },
+  {
+    "id": "pilangsari",
+    "name": "Pilangsari",
+    "district": "sayung"
+  },
+  {
+    "id": "loireng",
+    "name": "Loireng",
+    "district": "sayung"
+  },
+  {
+    "id": "gemulak",
+    "name": "Gemulak",
+    "district": "sayung"
+  },
+  {
+    "id": "sidogemah",
+    "name": "Sidogemah",
+    "district": "sayung"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "sayung"
+  },
+  {
+    "id": "sriwulan",
+    "name": "Sriwulan",
+    "district": "sayung"
+  },
+  {
+    "id": "bedono",
+    "name": "Bedono",
+    "district": "sayung"
+  },
+  {
+    "id": "timbulsloko",
+    "name": "Timbulsloko",
+    "district": "sayung"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "sayung"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "sayung"
+  },
+  {
+    "id": "surodadi",
+    "name": "Surodadi",
+    "district": "sayung"
+  }
+]

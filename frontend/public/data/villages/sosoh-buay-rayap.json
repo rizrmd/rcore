@@ -1,0 +1,57 @@
+[
+  {
+    "id": "negeri-sindang",
+    "name": "Negeri Sindang",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "rantau-kumpai",
+    "name": "Rantau Kumpai",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "tungku-jaya",
+    "name": "Tungku Jaya",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "lubuk-baru",
+    "name": "Lubuk Baru",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "bandar",
+    "name": "Bandar",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "lubuk-leban",
+    "name": "Lubuk Leban",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "penyandingan",
+    "name": "Penyandingan",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "kungkilan",
+    "name": "Kungkilan",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "penantian",
+    "name": "Penantian",
+    "district": "sosoh-buay-rayap"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "sosoh-buay-rayap"
+  }
+]

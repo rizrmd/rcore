@@ -1,0 +1,72 @@
+[
+  {
+    "id": "leuwibatu",
+    "name": "Leuwibatu",
+    "district": "rumpin"
+  },
+  {
+    "id": "cidokom",
+    "name": "Cidokom",
+    "district": "rumpin"
+  },
+  {
+    "id": "gobang",
+    "name": "Gobang",
+    "district": "rumpin"
+  },
+  {
+    "id": "rabak",
+    "name": "Rabak",
+    "district": "rumpin"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "rumpin"
+  },
+  {
+    "id": "kampung-sawah",
+    "name": "Kampung Sawah",
+    "district": "rumpin"
+  },
+  {
+    "id": "rumpin",
+    "name": "Rumpin",
+    "district": "rumpin"
+  },
+  {
+    "id": "cipinang",
+    "name": "Cipinang",
+    "district": "rumpin"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "rumpin"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "rumpin"
+  },
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "district": "rumpin"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "rumpin"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "rumpin"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "rumpin"
+  }
+]

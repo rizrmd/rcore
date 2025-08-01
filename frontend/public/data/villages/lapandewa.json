@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lapandewa-makmur",
+    "name": "Lapandewa Makmur",
+    "district": "lapandewa"
+  },
+  {
+    "id": "gayabaru",
+    "name": "Gayabaru",
+    "district": "lapandewa"
+  },
+  {
+    "id": "burangasi-rumbia",
+    "name": "Burangasi Rumbia",
+    "district": "lapandewa"
+  },
+  {
+    "id": "burangasi",
+    "name": "Burangasi",
+    "district": "lapandewa"
+  },
+  {
+    "id": "lapandewa",
+    "name": "Lapandewa",
+    "district": "lapandewa"
+  },
+  {
+    "id": "lapandewa-kaindea",
+    "name": "Lapandewa Kaindea",
+    "district": "lapandewa"
+  },
+  {
+    "id": "lapandewa-jaya",
+    "name": "Lapandewa Jaya",
+    "district": "lapandewa"
+  }
+]

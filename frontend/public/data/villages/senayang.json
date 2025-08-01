@@ -1,0 +1,97 @@
+[
+  {
+    "id": "mamut",
+    "name": "Mamut",
+    "district": "senayang"
+  },
+  {
+    "id": "senayang",
+    "name": "Senayang",
+    "district": "senayang"
+  },
+  {
+    "id": "rejai",
+    "name": "Rejai",
+    "district": "senayang"
+  },
+  {
+    "id": "pasir-panjang",
+    "name": "Pasir Panjang",
+    "district": "senayang"
+  },
+  {
+    "id": "temiang",
+    "name": "Temiang",
+    "district": "senayang"
+  },
+  {
+    "id": "pulau-medang",
+    "name": "Pulau Medang",
+    "district": "senayang"
+  },
+  {
+    "id": "tanjung-kelit",
+    "name": "Tanjung Kelit",
+    "district": "senayang"
+  },
+  {
+    "id": "batu-belubang",
+    "name": "Batu Belubang",
+    "district": "senayang"
+  },
+  {
+    "id": "pulau-batang",
+    "name": "Pulau Batang",
+    "district": "senayang"
+  },
+  {
+    "id": "mensanak",
+    "name": "Mensanak",
+    "district": "senayang"
+  },
+  {
+    "id": "benan",
+    "name": "Benan",
+    "district": "senayang"
+  },
+  {
+    "id": "tanjung-lipat",
+    "name": "Tanjung Lipat",
+    "district": "senayang"
+  },
+  {
+    "id": "penaah",
+    "name": "Penaah",
+    "district": "senayang"
+  },
+  {
+    "id": "laboh",
+    "name": "Laboh",
+    "district": "senayang"
+  },
+  {
+    "id": "baran",
+    "name": "Baran",
+    "district": "senayang"
+  },
+  {
+    "id": "cempa",
+    "name": "Cempa",
+    "district": "senayang"
+  },
+  {
+    "id": "tajur-biru",
+    "name": "Tajur Biru",
+    "district": "senayang"
+  },
+  {
+    "id": "pulau-duyung",
+    "name": "Pulau Duyung",
+    "district": "senayang"
+  },
+  {
+    "id": "pulau-bukit",
+    "name": "Pulau Bukit",
+    "district": "senayang"
+  }
+]

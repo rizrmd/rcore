@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fatukoa",
+    "name": "Fatukoa",
+    "district": "maulafa"
+  },
+  {
+    "id": "sikumana",
+    "name": "Sikumana",
+    "district": "maulafa"
+  },
+  {
+    "id": "bello",
+    "name": "Bello",
+    "district": "maulafa"
+  },
+  {
+    "id": "kolhua",
+    "name": "Kolhua",
+    "district": "maulafa"
+  },
+  {
+    "id": "penfui",
+    "name": "Penfui",
+    "district": "maulafa"
+  },
+  {
+    "id": "naimata",
+    "name": "Naimata",
+    "district": "maulafa"
+  },
+  {
+    "id": "maulafa",
+    "name": "Maulafa",
+    "district": "maulafa"
+  },
+  {
+    "id": "oepura",
+    "name": "Oepura",
+    "district": "maulafa"
+  },
+  {
+    "id": "naikolan",
+    "name": "Naikolan",
+    "district": "maulafa"
+  }
+]

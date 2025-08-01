@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sendang-mulyo",
+    "name": "Sendang Mulyo",
+    "district": "minggir"
+  },
+  {
+    "id": "sendang-arum",
+    "name": "Sendang Arum",
+    "district": "minggir"
+  },
+  {
+    "id": "sendang-rejo",
+    "name": "Sendang Rejo",
+    "district": "minggir"
+  },
+  {
+    "id": "sendangsari",
+    "name": "Sendangsari",
+    "district": "minggir"
+  },
+  {
+    "id": "sendangagung",
+    "name": "Sendangagung",
+    "district": "minggir"
+  }
+]

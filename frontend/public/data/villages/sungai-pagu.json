@@ -1,0 +1,57 @@
+[
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pasar-muara-labuh",
+    "name": "Pasar Muara Labuh",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pulakek-koto-baru",
+    "name": "Pulakek Koto Baru",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "sako-pasia-talang",
+    "name": "Sako Pasia Talang",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pasir-talang",
+    "name": "Pasir Talang",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "bomas",
+    "name": "Bomas",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "sako-selatan-pasia-talang",
+    "name": "Sako Selatan Pasia Talang",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "sako-utara-pasia-talang",
+    "name": "Sako Utara Pasia Talang",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pasir-talang-selatan",
+    "name": "Pasir Talang Selatan",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pasir-talang-barat",
+    "name": "Pasir Talang Barat",
+    "district": "sungai-pagu"
+  },
+  {
+    "id": "pasir-talang-timur",
+    "name": "Pasir Talang Timur",
+    "district": "sungai-pagu"
+  }
+]

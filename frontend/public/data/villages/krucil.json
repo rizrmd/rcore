@@ -1,0 +1,57 @@
+[
+  {
+    "id": "roto",
+    "name": "Roto",
+    "district": "krucil"
+  },
+  {
+    "id": "kertosuko",
+    "name": "Kertosuko",
+    "district": "krucil"
+  },
+  {
+    "id": "tambelang",
+    "name": "Tambelang",
+    "district": "krucil"
+  },
+  {
+    "id": "krucil",
+    "name": "Krucil",
+    "district": "krucil"
+  },
+  {
+    "id": "bermi",
+    "name": "Bermi",
+    "district": "krucil"
+  },
+  {
+    "id": "kalianan",
+    "name": "Kalianan",
+    "district": "krucil"
+  },
+  {
+    "id": "watupanjang",
+    "name": "Watupanjang",
+    "district": "krucil"
+  },
+  {
+    "id": "guyangan",
+    "name": "Guyangan",
+    "district": "krucil"
+  },
+  {
+    "id": "krobungan",
+    "name": "Krobungan",
+    "district": "krucil"
+  },
+  {
+    "id": "pandanlaras",
+    "name": "Pandanlaras",
+    "district": "krucil"
+  },
+  {
+    "id": "plaosan",
+    "name": "Plaosan",
+    "district": "krucil"
+  }
+]

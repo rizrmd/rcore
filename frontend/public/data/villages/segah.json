@@ -1,0 +1,67 @@
+[
+  {
+    "id": "punan-mahkam",
+    "name": "Punan Mahkam",
+    "district": "segah"
+  },
+  {
+    "id": "long-laay",
+    "name": "Long Laay",
+    "district": "segah"
+  },
+  {
+    "id": "punan-segah",
+    "name": "Punan Segah",
+    "district": "segah"
+  },
+  {
+    "id": "long-ayap",
+    "name": "Long Ayap",
+    "district": "segah"
+  },
+  {
+    "id": "long-ayan",
+    "name": "Long Ayan",
+    "district": "segah"
+  },
+  {
+    "id": "punan-malinau",
+    "name": "Punan Malinau",
+    "district": "segah"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "segah"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "segah"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "segah"
+  },
+  {
+    "id": "pandan-sari",
+    "name": "Pandan Sari",
+    "district": "segah"
+  },
+  {
+    "id": "tepian-buah",
+    "name": "Tepian Buah",
+    "district": "segah"
+  },
+  {
+    "id": "siduung-indah",
+    "name": "Siduung Indah",
+    "district": "segah"
+  },
+  {
+    "id": "batu-rajang",
+    "name": "Batu Rajang",
+    "district": "segah"
+  }
+]

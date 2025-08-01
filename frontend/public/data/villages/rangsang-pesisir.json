@@ -1,0 +1,57 @@
+[
+  {
+    "id": "beting",
+    "name": "Beting",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "sokop",
+    "name": "Sokop",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "bungur",
+    "name": "Bungur",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "tanjung-kedabu",
+    "name": "Tanjung Kedabu",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "telesung",
+    "name": "Telesung",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "tenggayun-raya",
+    "name": "Tenggayun Raya",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "sonde",
+    "name": "Sonde",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "kayu-ara",
+    "name": "Kayu Ara",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "kedabu-rapat",
+    "name": "Kedabu Rapat",
+    "district": "rangsang-pesisir"
+  },
+  {
+    "id": "sendaur",
+    "name": "Sendaur",
+    "district": "rangsang-pesisir"
+  }
+]

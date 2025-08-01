@@ -1,0 +1,87 @@
+[
+  {
+    "id": "batu-sawar",
+    "name": "Batu Sawar",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "peninjauan",
+    "name": "Peninjauan",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "teluk-leban",
+    "name": "Teluk Leban",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "padang-kelapo",
+    "name": "Padang Kelapo",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "sungai-lingkar",
+    "name": "Sungai Lingkar",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "sungai-ruan-ilir",
+    "name": "Sungai Ruan Ilir",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "sungai-ruan-ulu",
+    "name": "Sungai Ruan Ulu",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "olak-kemang",
+    "name": "Olak Kemang",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "rengas-ix",
+    "name": "Rengas Ix",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "kembang-seri",
+    "name": "Kembang Seri",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "buluh-kasab",
+    "name": "Buluh Kasab",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "simpang-sungai-rengas",
+    "name": "Simpang Sungai Rengas",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "rawa-mekar",
+    "name": "Rawa Mekar",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "maro-sebo-ulu"
+  },
+  {
+    "id": "kembang-seri-baru",
+    "name": "Kembang Seri Baru",
+    "district": "maro-sebo-ulu"
+  }
+]

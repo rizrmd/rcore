@@ -1,0 +1,47 @@
+[
+  {
+    "id": "meyado",
+    "name": "Meyado",
+    "district": "meyado"
+  },
+  {
+    "id": "barma",
+    "name": "Barma",
+    "district": "meyado"
+  },
+  {
+    "id": "barma-baru-stekool-2",
+    "name": "Barma Baru / Stekool 2",
+    "district": "meyado"
+  },
+  {
+    "id": "vesco-damnem-stenkool-3",
+    "name": "Vesco Damnem / Stenkool 3",
+    "district": "meyado"
+  },
+  {
+    "id": "meyado-ii",
+    "name": "Meyado Ii",
+    "district": "meyado"
+  },
+  {
+    "id": "dagu",
+    "name": "Dagu",
+    "district": "meyado"
+  },
+  {
+    "id": "kaibur",
+    "name": "Kaibur",
+    "district": "meyado"
+  },
+  {
+    "id": "manofi",
+    "name": "Manofi",
+    "district": "meyado"
+  },
+  {
+    "id": "kali-hitam",
+    "name": "Kali Hitam",
+    "district": "meyado"
+  }
+]

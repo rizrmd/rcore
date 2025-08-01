@@ -1,0 +1,82 @@
+[
+  {
+    "id": "antasari-hilir",
+    "name": "Antasari Hilir",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "antasari",
+    "name": "Antasari",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "kupang",
+    "name": "Kupang",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "rangda-malingkung",
+    "name": "Rangda Malingkung",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "rantau-kiwa",
+    "name": "Rantau Kiwa",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "perintis-raya",
+    "name": "Perintis Raya",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "rantau-kanan",
+    "name": "Rantau Kanan",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "banua-halat-kiri",
+    "name": "Banua Halat Kiri",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "lumbu-raya",
+    "name": "Lumbu Raya",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "keramat",
+    "name": "Keramat",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "banua-halat-kanan",
+    "name": "Banua Halat Kanan",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "jingah-babaris",
+    "name": "Jingah Babaris",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "kakaran",
+    "name": "Kakaran",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "badaun",
+    "name": "Badaun",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "banua-hanyar-hulu",
+    "name": "Banua Hanyar Hulu",
+    "district": "tapin-utara"
+  },
+  {
+    "id": "banua-hanyar",
+    "name": "Banua Hanyar",
+    "district": "tapin-utara"
+  }
+]

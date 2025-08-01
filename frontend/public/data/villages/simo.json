@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "simo"
+  },
+  {
+    "id": "temon",
+    "name": "Temon",
+    "district": "simo"
+  },
+  {
+    "id": "simo",
+    "name": "Simo",
+    "district": "simo"
+  },
+  {
+    "id": "walen",
+    "name": "Walen",
+    "district": "simo"
+  },
+  {
+    "id": "talakbroto",
+    "name": "Talakbroto",
+    "district": "simo"
+  },
+  {
+    "id": "kedunglengkong",
+    "name": "Kedunglengkong",
+    "district": "simo"
+  },
+  {
+    "id": "blagung",
+    "name": "Blagung",
+    "district": "simo"
+  },
+  {
+    "id": "wates",
+    "name": "Wates",
+    "district": "simo"
+  }
+]

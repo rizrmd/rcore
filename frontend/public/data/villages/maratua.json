@@ -1,0 +1,22 @@
+[
+  {
+    "id": "maratua-payung-payung",
+    "name": "Maratua Payung-Payung",
+    "district": "maratua"
+  },
+  {
+    "id": "maratua-bohesilian",
+    "name": "Maratua Bohesilian",
+    "district": "maratua"
+  },
+  {
+    "id": "maratua-teluk-alulu",
+    "name": "Maratua Teluk Alulu",
+    "district": "maratua"
+  },
+  {
+    "id": "maratua-teluk-harapan",
+    "name": "Maratua Teluk Harapan",
+    "district": "maratua"
+  }
+]

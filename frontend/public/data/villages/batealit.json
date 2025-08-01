@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ngasem",
+    "name": "Ngasem",
+    "district": "batealit"
+  },
+  {
+    "id": "raguklampitan",
+    "name": "Raguklampitan",
+    "district": "batealit"
+  },
+  {
+    "id": "mindahan-kidul",
+    "name": "Mindahan Kidul",
+    "district": "batealit"
+  },
+  {
+    "id": "mindahan",
+    "name": "Mindahan",
+    "district": "batealit"
+  },
+  {
+    "id": "somosari",
+    "name": "Somosari",
+    "district": "batealit"
+  },
+  {
+    "id": "batealit",
+    "name": "Batealit",
+    "district": "batealit"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "district": "batealit"
+  },
+  {
+    "id": "bantrung",
+    "name": "Bantrung",
+    "district": "batealit"
+  },
+  {
+    "id": "bawu",
+    "name": "Bawu",
+    "district": "batealit"
+  },
+  {
+    "id": "pekalongan",
+    "name": "Pekalongan",
+    "district": "batealit"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "paret",
+    "name": "Paret",
+    "district": "kotabunan"
+  },
+  {
+    "id": "kotabunan",
+    "name": "Kotabunan",
+    "district": "kotabunan"
+  },
+  {
+    "id": "bukaka",
+    "name": "Bukaka",
+    "district": "kotabunan"
+  },
+  {
+    "id": "bulawan",
+    "name": "Bulawan",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat",
+    "name": "Buyat",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat-i",
+    "name": "Buyat I",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat-ii",
+    "name": "Buyat Ii",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat-barat",
+    "name": "Buyat Barat",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat-selatan",
+    "name": "Buyat Selatan",
+    "district": "kotabunan"
+  },
+  {
+    "id": "buyat-tengah",
+    "name": "Buyat Tengah",
+    "district": "kotabunan"
+  },
+  {
+    "id": "bulawan-i",
+    "name": "Bulawan I",
+    "district": "kotabunan"
+  },
+  {
+    "id": "bulawan-ii",
+    "name": "Bulawan Ii",
+    "district": "kotabunan"
+  },
+  {
+    "id": "kotabunan-selatan",
+    "name": "Kotabunan Selatan",
+    "district": "kotabunan"
+  },
+  {
+    "id": "kotabunan-barat",
+    "name": "Kotabunan Barat",
+    "district": "kotabunan"
+  },
+  {
+    "id": "paret-timur",
+    "name": "Paret Timur",
+    "district": "kotabunan"
+  }
+]

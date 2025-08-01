@@ -1,0 +1,27 @@
+[
+  {
+    "id": "anakoli",
+    "name": "Anakoli",
+    "district": "wolowae"
+  },
+  {
+    "id": "natatoto",
+    "name": "Natatoto",
+    "district": "wolowae"
+  },
+  {
+    "id": "totomala",
+    "name": "Totomala",
+    "district": "wolowae"
+  },
+  {
+    "id": "tendatoto",
+    "name": "Tendatoto",
+    "district": "wolowae"
+  },
+  {
+    "id": "tenda-kinde",
+    "name": "Tenda Kinde",
+    "district": "wolowae"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "trijaya",
+    "name": "Trijaya",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "bukit-subur",
+    "name": "Bukit Subur",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "adipura-kencana",
+    "name": "Adipura Kencana",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "bukit-jaya",
+    "name": "Bukit Jaya",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "tanjung-mulya",
+    "name": "Tanjung Mulya",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "ujung-tanjung",
+    "name": "Ujung Tanjung",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "bahar-selatan"
+  },
+  {
+    "id": "tanjung-lebar",
+    "name": "Tanjung Lebar",
+    "district": "bahar-selatan"
+  }
+]

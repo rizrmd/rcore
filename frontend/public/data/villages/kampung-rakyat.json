@@ -1,0 +1,77 @@
+[
+  {
+    "id": "perlabian",
+    "name": "Perlabian",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "perkebunan-perlabian",
+    "name": "Perkebunan Perlabian",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "pekan-tolan",
+    "name": "Pekan Tolan",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "perkebunan-tolan-iii",
+    "name": "Perkebunan Tolan I/Ii",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "air-merah",
+    "name": "Air Merah",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "perkebunan-batang-seponggol",
+    "name": "Perkebunan Batang Seponggol",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "kebun-teluk-panji",
+    "name": "Kebun Teluk Panji",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "teluk-panji-i",
+    "name": "Teluk Panji I",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "teluk-panji-ii",
+    "name": "Teluk Panji Ii",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "teluk-panji-iii",
+    "name": "Teluk Panji Iii",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "teluk-panji-iv",
+    "name": "Teluk Panji Iv",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "kampung-teluk-panji",
+    "name": "Kampung Teluk Panji",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "tanjung-selamat",
+    "name": "Tanjung Selamat",
+    "district": "kampung-rakyat"
+  },
+  {
+    "id": "tanjung-mulia",
+    "name": "Tanjung Mulia",
+    "district": "kampung-rakyat"
+  }
+]

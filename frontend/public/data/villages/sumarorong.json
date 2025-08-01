@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sibanawa",
+    "name": "Sibanawa",
+    "district": "sumarorong"
+  },
+  {
+    "id": "batanguru",
+    "name": "Batanguru",
+    "district": "sumarorong"
+  },
+  {
+    "id": "tabone",
+    "name": "Tabone",
+    "district": "sumarorong"
+  },
+  {
+    "id": "tadisi",
+    "name": "Tadisi",
+    "district": "sumarorong"
+  },
+  {
+    "id": "sasakan",
+    "name": "Sasakan",
+    "district": "sumarorong"
+  },
+  {
+    "id": "sumarorong",
+    "name": "Sumarorong",
+    "district": "sumarorong"
+  },
+  {
+    "id": "banea",
+    "name": "Banea",
+    "district": "sumarorong"
+  },
+  {
+    "id": "salubalo",
+    "name": "Salubalo",
+    "district": "sumarorong"
+  },
+  {
+    "id": "batanguru-timur",
+    "name": "Batanguru Timur",
+    "district": "sumarorong"
+  },
+  {
+    "id": "rante-kamase",
+    "name": "Rante Kamase",
+    "district": "sumarorong"
+  }
+]

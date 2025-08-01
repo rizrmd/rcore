@@ -1,0 +1,27 @@
+[
+  {
+    "id": "supiori-selatan",
+    "name": "Supiori Selatan",
+    "regency": "kabupaten-supiori"
+  },
+  {
+    "id": "kepulauan-aruri",
+    "name": "Kepulauan Aruri",
+    "regency": "kabupaten-supiori"
+  },
+  {
+    "id": "supiori-utara",
+    "name": "Supiori Utara",
+    "regency": "kabupaten-supiori"
+  },
+  {
+    "id": "supiori-barat",
+    "name": "Supiori Barat",
+    "regency": "kabupaten-supiori"
+  },
+  {
+    "id": "supiori-timur",
+    "name": "Supiori Timur",
+    "regency": "kabupaten-supiori"
+  }
+]

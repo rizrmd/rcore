@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kambani",
+    "name": "Kambani",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "tatabau",
+    "name": "Tatabau",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "buko",
+    "name": "Buko",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "palapat",
+    "name": "Palapat",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "lumbi-lumbia",
+    "name": "Lumbi-Lumbia",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "labangun",
+    "name": "Labangun",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "seano",
+    "name": "Seano",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "apal",
+    "name": "Apal",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "lelang-matamaling",
+    "name": "Lelang Matamaling",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "landonan-bebeau",
+    "name": "Landonan Bebeau",
+    "district": "buko-selatan"
+  },
+  {
+    "id": "sapelang",
+    "name": "Sapelang",
+    "district": "buko-selatan"
+  }
+]

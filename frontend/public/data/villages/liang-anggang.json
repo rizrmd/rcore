@@ -1,0 +1,22 @@
+[
+  {
+    "id": "landasan-ulin-tengah",
+    "name": "Landasan Ulin Tengah",
+    "district": "liang-anggang"
+  },
+  {
+    "id": "landasan-ulin-utara",
+    "name": "Landasan Ulin Utara",
+    "district": "liang-anggang"
+  },
+  {
+    "id": "landasan-ulin-barat",
+    "name": "Landasan Ulin Barat",
+    "district": "liang-anggang"
+  },
+  {
+    "id": "landasan-ulin-selatan",
+    "name": "Landasan Ulin Selatan",
+    "district": "liang-anggang"
+  }
+]

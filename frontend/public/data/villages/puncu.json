@@ -1,0 +1,37 @@
+[
+  {
+    "id": "satak",
+    "name": "Satak",
+    "district": "puncu"
+  },
+  {
+    "id": "asmorobangun",
+    "name": "Asmorobangun",
+    "district": "puncu"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "puncu"
+  },
+  {
+    "id": "manggis",
+    "name": "Manggis",
+    "district": "puncu"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "puncu"
+  },
+  {
+    "id": "watugede",
+    "name": "Watugede",
+    "district": "puncu"
+  },
+  {
+    "id": "gadungan",
+    "name": "Gadungan",
+    "district": "puncu"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sukamenak",
+    "name": "Sukamenak",
+    "district": "wanaraja"
+  },
+  {
+    "id": "sindangmekar",
+    "name": "Sindangmekar",
+    "district": "wanaraja"
+  },
+  {
+    "id": "sindangratu",
+    "name": "Sindangratu",
+    "district": "wanaraja"
+  },
+  {
+    "id": "cinunuk",
+    "name": "Cinunuk",
+    "district": "wanaraja"
+  },
+  {
+    "id": "wanamekar",
+    "name": "Wanamekar",
+    "district": "wanaraja"
+  },
+  {
+    "id": "wanaraja",
+    "name": "Wanaraja",
+    "district": "wanaraja"
+  },
+  {
+    "id": "wanasari",
+    "name": "Wanasari",
+    "district": "wanaraja"
+  },
+  {
+    "id": "wanajaya",
+    "name": "Wanajaya",
+    "district": "wanaraja"
+  },
+  {
+    "id": "sindangprabu",
+    "name": "Sindangprabu",
+    "district": "wanaraja"
+  }
+]

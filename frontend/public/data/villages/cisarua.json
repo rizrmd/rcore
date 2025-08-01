@@ -1,0 +1,127 @@
+[
+  {
+    "id": "citeko",
+    "name": "Citeko",
+    "district": "cisarua"
+  },
+  {
+    "id": "cibeureum",
+    "name": "Cibeureum",
+    "district": "cisarua"
+  },
+  {
+    "id": "tugu-selatan",
+    "name": "Tugu Selatan",
+    "district": "cisarua"
+  },
+  {
+    "id": "tugu-utara",
+    "name": "Tugu Utara",
+    "district": "cisarua"
+  },
+  {
+    "id": "batu-layang",
+    "name": "Batu Layang",
+    "district": "cisarua"
+  },
+  {
+    "id": "cisarua",
+    "name": "Cisarua",
+    "district": "cisarua"
+  },
+  {
+    "id": "kopo",
+    "name": "Kopo",
+    "district": "cisarua"
+  },
+  {
+    "id": "leuwimalang",
+    "name": "Leuwimalang",
+    "district": "cisarua"
+  },
+  {
+    "id": "jogjogan",
+    "name": "Jogjogan",
+    "district": "cisarua"
+  },
+  {
+    "id": "cilember",
+    "name": "Cilember",
+    "district": "cisarua"
+  },
+  {
+    "id": "cisalak",
+    "name": "Cisalak",
+    "district": "cisarua"
+  },
+  {
+    "id": "kebonkalapa",
+    "name": "Kebonkalapa",
+    "district": "cisarua"
+  },
+  {
+    "id": "cisarua",
+    "name": "Cisarua",
+    "district": "cisarua"
+  },
+  {
+    "id": "bantarmara",
+    "name": "Bantarmara",
+    "district": "cisarua"
+  },
+  {
+    "id": "ciuyah",
+    "name": "Ciuyah",
+    "district": "cisarua"
+  },
+  {
+    "id": "cimara",
+    "name": "Cimara",
+    "district": "cisarua"
+  },
+  {
+    "id": "cipandanwangi",
+    "name": "Cipandanwangi",
+    "district": "cisarua"
+  },
+  {
+    "id": "pasirhalang",
+    "name": "Pasirhalang",
+    "district": "cisarua"
+  },
+  {
+    "id": "jambudipa",
+    "name": "Jambudipa",
+    "district": "cisarua"
+  },
+  {
+    "id": "padaasih",
+    "name": "Padaasih",
+    "district": "cisarua"
+  },
+  {
+    "id": "kertawangi",
+    "name": "Kertawangi",
+    "district": "cisarua"
+  },
+  {
+    "id": "tugumukti",
+    "name": "Tugumukti",
+    "district": "cisarua"
+  },
+  {
+    "id": "pasirlangu",
+    "name": "Pasirlangu",
+    "district": "cisarua"
+  },
+  {
+    "id": "cipada",
+    "name": "Cipada",
+    "district": "cisarua"
+  },
+  {
+    "id": "sadangmekar",
+    "name": "Sadangmekar",
+    "district": "cisarua"
+  }
+]

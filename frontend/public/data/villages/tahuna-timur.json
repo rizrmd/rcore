@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lesa",
+    "name": "Lesa",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "batulewehe",
+    "name": "Batulewehe",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "tidore",
+    "name": "Tidore",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "tona-i",
+    "name": "Tona I",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "enengpahembang",
+    "name": "Enengpahembang",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "tapuang",
+    "name": "Tapuang",
+    "district": "tahuna-timur"
+  },
+  {
+    "id": "tona-ii",
+    "name": "Tona Ii",
+    "district": "tahuna-timur"
+  }
+]

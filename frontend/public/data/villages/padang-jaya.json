@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lubuk-banyau",
+    "name": "Lubuk Banyau",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "sido-mukti",
+    "name": "Sido Mukti",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "arga-mulya",
+    "name": "Arga Mulya",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "talang-tua",
+    "name": "Talang Tua",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "padang-jaya",
+    "name": "Padang Jaya",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "marga-sakti",
+    "name": "Marga Sakti",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "marga-jaya",
+    "name": "Marga Jaya",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "tanah-hitam",
+    "name": "Tanah Hitam",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "tambak-rejo",
+    "name": "Tambak Rejo",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "tanah-tinggi",
+    "name": "Tanah Tinggi",
+    "district": "padang-jaya"
+  },
+  {
+    "id": "sido-luhur",
+    "name": "Sido Luhur",
+    "district": "padang-jaya"
+  }
+]

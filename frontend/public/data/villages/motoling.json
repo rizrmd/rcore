@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lalumpe",
+    "name": "Lalumpe",
+    "district": "motoling"
+  },
+  {
+    "id": "raanan-lama",
+    "name": "Raanan Lama",
+    "district": "motoling"
+  },
+  {
+    "id": "motoling-dua",
+    "name": "Motoling Dua",
+    "district": "motoling"
+  },
+  {
+    "id": "motoling-satu",
+    "name": "Motoling Satu",
+    "district": "motoling"
+  },
+  {
+    "id": "motoling-mawale",
+    "name": "Motoling Mawale",
+    "district": "motoling"
+  },
+  {
+    "id": "motoling",
+    "name": "Motoling",
+    "district": "motoling"
+  },
+  {
+    "id": "picuan-baru",
+    "name": "Picuan Baru",
+    "district": "motoling"
+  }
+]

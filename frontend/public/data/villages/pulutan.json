@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pulutan",
+    "name": "Pulutan",
+    "district": "pulutan"
+  },
+  {
+    "id": "pulutan-utara",
+    "name": "Pulutan Utara",
+    "district": "pulutan"
+  },
+  {
+    "id": "pulutan-selatan",
+    "name": "Pulutan Selatan",
+    "district": "pulutan"
+  },
+  {
+    "id": "daran",
+    "name": "Daran",
+    "district": "pulutan"
+  },
+  {
+    "id": "daran-utara",
+    "name": "Daran Utara",
+    "district": "pulutan"
+  }
+]

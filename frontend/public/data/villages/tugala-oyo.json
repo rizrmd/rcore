@@ -1,0 +1,42 @@
+[
+  {
+    "id": "humene-siheneasi",
+    "name": "Humene Siheneasi",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "fabaliwa-oyo",
+    "name": "Fabaliwa Oyo",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "siwawo",
+    "name": "Siwawo",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "gunung-tua",
+    "name": "Gunung Tua",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "ononazara",
+    "name": "Ononazara",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "teolo",
+    "name": "Teolo",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "botona-ai",
+    "name": "Botona Ai",
+    "district": "tugala-oyo"
+  },
+  {
+    "id": "harefa",
+    "name": "Harefa",
+    "district": "tugala-oyo"
+  }
+]

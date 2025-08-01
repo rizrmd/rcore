@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dasaq",
+    "name": "Dasaq",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "jerang-dayak",
+    "name": "Jerang Dayak",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "jerang-melayu",
+    "name": "Jerang Melayu",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "tanjung-laong",
+    "name": "Tanjung Laong",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "teluk-tempudau",
+    "name": "Teluk Tempudau",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "muara-baroh",
+    "name": "Muara Baroh",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "sebelang",
+    "name": "Sebelang",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "tepian-ulaq",
+    "name": "Tepian Ulaq",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "tanjung-pagar",
+    "name": "Tanjung Pagar",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "gunung-bayan",
+    "name": "Gunung Bayan",
+    "district": "muara-pahu"
+  },
+  {
+    "id": "muara-beloan",
+    "name": "Muara Beloan",
+    "district": "muara-pahu"
+  }
+]

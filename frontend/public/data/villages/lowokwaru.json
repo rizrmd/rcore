@@ -1,0 +1,57 @@
+[
+  {
+    "id": "merjosari",
+    "name": "Merjosari",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "dinoyo",
+    "name": "Dinoyo",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "ketawanggede",
+    "name": "Ketawanggede",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "lowokwaru",
+    "name": "Lowokwaru",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "tulusrejo",
+    "name": "Tulusrejo",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "mojolangu",
+    "name": "Mojolangu",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "tunjungsekar",
+    "name": "Tunjungsekar",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "tasikmadu",
+    "name": "Tasikmadu",
+    "district": "lowokwaru"
+  },
+  {
+    "id": "tlogomas",
+    "name": "Tlogomas",
+    "district": "lowokwaru"
+  }
+]

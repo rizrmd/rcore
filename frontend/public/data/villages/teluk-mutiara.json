@@ -1,0 +1,82 @@
+[
+  {
+    "id": "teluk-kenari",
+    "name": "Teluk Kenari",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "kalabahi-barat",
+    "name": "Kalabahi Barat",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "adang-buom",
+    "name": "Adang Buom",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "binongko",
+    "name": "Binongko",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "motongbang",
+    "name": "Motongbang",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "kalabahi-kota",
+    "name": "Kalabahi Kota",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "wetabua",
+    "name": "Wetabua",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "nusa-kenari",
+    "name": "Nusa Kenari",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "lendola",
+    "name": "Lendola",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "air-kenari",
+    "name": "Air Kenari",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "kalabahi-tengah",
+    "name": "Kalabahi Tengah",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "kalabahi-timur",
+    "name": "Kalabahi Timur",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "mutiara",
+    "name": "Mutiara",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "welai-timur",
+    "name": "Welai Timur",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "welai-barat",
+    "name": "Welai Barat",
+    "district": "teluk-mutiara"
+  },
+  {
+    "id": "fanating",
+    "name": "Fanating",
+    "district": "teluk-mutiara"
+  }
+]

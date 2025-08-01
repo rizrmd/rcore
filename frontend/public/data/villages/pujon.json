@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bendosari",
+    "name": "Bendosari",
+    "district": "pujon"
+  },
+  {
+    "id": "sukomulyo",
+    "name": "Sukomulyo",
+    "district": "pujon"
+  },
+  {
+    "id": "pujon-kidul",
+    "name": "Pujon Kidul",
+    "district": "pujon"
+  },
+  {
+    "id": "pandesari",
+    "name": "Pandesari",
+    "district": "pujon"
+  },
+  {
+    "id": "pujon-lor",
+    "name": "Pujon Lor",
+    "district": "pujon"
+  },
+  {
+    "id": "ngroto",
+    "name": "Ngroto",
+    "district": "pujon"
+  },
+  {
+    "id": "ngabab",
+    "name": "Ngabab",
+    "district": "pujon"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "pujon"
+  },
+  {
+    "id": "madiredo",
+    "name": "Madiredo",
+    "district": "pujon"
+  },
+  {
+    "id": "wiyurejo",
+    "name": "Wiyurejo",
+    "district": "pujon"
+  }
+]

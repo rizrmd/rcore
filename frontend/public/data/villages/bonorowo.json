@@ -1,0 +1,52 @@
+[
+  {
+    "id": "patukrejo",
+    "name": "Patukrejo",
+    "district": "bonorowo"
+  },
+  {
+    "id": "ngasinan",
+    "name": "Ngasinan",
+    "district": "bonorowo"
+  },
+  {
+    "id": "pujodadi",
+    "name": "Pujodadi",
+    "district": "bonorowo"
+  },
+  {
+    "id": "balorejo",
+    "name": "Balorejo",
+    "district": "bonorowo"
+  },
+  {
+    "id": "tlogorejo",
+    "name": "Tlogorejo",
+    "district": "bonorowo"
+  },
+  {
+    "id": "rowosari",
+    "name": "Rowosari",
+    "district": "bonorowo"
+  },
+  {
+    "id": "bonorowo",
+    "name": "Bonorowo",
+    "district": "bonorowo"
+  },
+  {
+    "id": "sirnoboyo",
+    "name": "Sirnoboyo",
+    "district": "bonorowo"
+  },
+  {
+    "id": "bonjokkidul",
+    "name": "Bonjokkidul",
+    "district": "bonorowo"
+  },
+  {
+    "id": "bonjoklor",
+    "name": "Bonjoklor",
+    "district": "bonorowo"
+  }
+]

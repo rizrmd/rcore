@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sungai-ulu",
+    "name": "Sungai Ulu",
+    "district": "bunguran-timur"
+  },
+  {
+    "id": "ranai",
+    "name": "Ranai",
+    "district": "bunguran-timur"
+  },
+  {
+    "id": "sepempang",
+    "name": "Sepempang",
+    "district": "bunguran-timur"
+  },
+  {
+    "id": "batu-gajah",
+    "name": "Batu Gajah",
+    "district": "bunguran-timur"
+  },
+  {
+    "id": "ranai-darat",
+    "name": "Ranai Darat",
+    "district": "bunguran-timur"
+  },
+  {
+    "id": "bandarsyah",
+    "name": "Bandarsyah",
+    "district": "bunguran-timur"
+  }
+]

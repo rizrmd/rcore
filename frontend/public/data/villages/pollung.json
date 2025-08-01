@@ -1,0 +1,67 @@
+[
+  {
+    "id": "aek-nauli-ii",
+    "name": "Aek Nauli Ii",
+    "district": "pollung"
+  },
+  {
+    "id": "aek-nauli-i",
+    "name": "Aek Nauli I",
+    "district": "pollung"
+  },
+  {
+    "id": "pandumaan",
+    "name": "Pandumaan",
+    "district": "pollung"
+  },
+  {
+    "id": "sipitu-huta",
+    "name": "Sipitu Huta",
+    "district": "pollung"
+  },
+  {
+    "id": "parsingguran-ii",
+    "name": "Parsingguran Ii",
+    "district": "pollung"
+  },
+  {
+    "id": "pollung",
+    "name": "Pollung",
+    "district": "pollung"
+  },
+  {
+    "id": "parsingguran-i",
+    "name": "Parsingguran I",
+    "district": "pollung"
+  },
+  {
+    "id": "ria-ria",
+    "name": "Ria Ria",
+    "district": "pollung"
+  },
+  {
+    "id": "huta-paung",
+    "name": "Huta Paung",
+    "district": "pollung"
+  },
+  {
+    "id": "pansur-batu",
+    "name": "Pansur Batu",
+    "district": "pollung"
+  },
+  {
+    "id": "huta-julu",
+    "name": "Huta Julu",
+    "district": "pollung"
+  },
+  {
+    "id": "pardomuan",
+    "name": "Pardomuan",
+    "district": "pollung"
+  },
+  {
+    "id": "hutapaung-utara",
+    "name": "Hutapaung Utara",
+    "district": "pollung"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "benyom-jaya-i",
+    "name": "Benyom Jaya I",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "benyom-jaya-ii",
+    "name": "Benyom Jaya Ii",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "nembukrang",
+    "name": "Nembukrang",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "nimbokrang-sari",
+    "name": "Nimbokrang Sari",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "berab",
+    "name": "Berab",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "wahab",
+    "name": "Wahab",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "hamongkrang",
+    "name": "Hamongkrang",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "bunyom",
+    "name": "Bunyom",
+    "district": "nimbokrang"
+  },
+  {
+    "id": "rhepang-muaib",
+    "name": "Rhepang Muaib",
+    "district": "nimbokrang"
+  }
+]

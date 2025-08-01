@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sine",
+    "name": "Sine",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "ngrambe",
+    "name": "Ngrambe",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "jogorogo",
+    "name": "Jogorogo",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "kendal",
+    "name": "Kendal",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "geneng",
+    "name": "Geneng",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "gerih",
+    "name": "Gerih",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "kwadungan",
+    "name": "Kwadungan",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "pangkur",
+    "name": "Pangkur",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "karangjati",
+    "name": "Karangjati",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "padas",
+    "name": "Padas",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "kasreman",
+    "name": "Kasreman",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "ngawi",
+    "name": "Ngawi",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "paron",
+    "name": "Paron",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "kedunggalar",
+    "name": "Kedunggalar",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "pitu",
+    "name": "Pitu",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "widodaren",
+    "name": "Widodaren",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "mantingan",
+    "name": "Mantingan",
+    "regency": "kabupaten-ngawi"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "regency": "kabupaten-ngawi"
+  }
+]

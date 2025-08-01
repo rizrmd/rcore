@@ -1,0 +1,52 @@
+[
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "mekurima",
+    "name": "Mekurima",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "landum-mekar",
+    "name": "Landum Mekar",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "olaroa",
+    "name": "Olaroa",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "bintang-lima",
+    "name": "Bintang Lima",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "damai",
+    "name": "Damai",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "walani",
+    "name": "Walani",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "amole",
+    "name": "Amole",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "lamopi",
+    "name": "Lamopi",
+    "district": "kwamki-narama"
+  },
+  {
+    "id": "tunas-matoa",
+    "name": "Tunas Matoa",
+    "district": "kwamki-narama"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "moronge-selatan",
+    "name": "Moronge Selatan",
+    "district": "moronge"
+  },
+  {
+    "id": "moronge-selatan-i",
+    "name": "Moronge Selatan I",
+    "district": "moronge"
+  },
+  {
+    "id": "moronge-selatan-ii",
+    "name": "Moronge Selatan Ii",
+    "district": "moronge"
+  },
+  {
+    "id": "moronge",
+    "name": "Moronge",
+    "district": "moronge"
+  },
+  {
+    "id": "moronge-i",
+    "name": "Moronge I",
+    "district": "moronge"
+  },
+  {
+    "id": "moronge-ii",
+    "name": "Moronge Ii",
+    "district": "moronge"
+  }
+]

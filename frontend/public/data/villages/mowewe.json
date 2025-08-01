@@ -1,0 +1,52 @@
+[
+  {
+    "id": "horodopi",
+    "name": "Horodopi",
+    "district": "mowewe"
+  },
+  {
+    "id": "watupute",
+    "name": "Watupute",
+    "district": "mowewe"
+  },
+  {
+    "id": "lapangisi",
+    "name": "Lapangisi",
+    "district": "mowewe"
+  },
+  {
+    "id": "inebenggi",
+    "name": "Inebenggi",
+    "district": "mowewe"
+  },
+  {
+    "id": "sabi-sabila",
+    "name": "Sabi-Sabila",
+    "district": "mowewe"
+  },
+  {
+    "id": "woitombo",
+    "name": "Woitombo",
+    "district": "mowewe"
+  },
+  {
+    "id": "lambotua",
+    "name": "Lambotua",
+    "district": "mowewe"
+  },
+  {
+    "id": "puuosu",
+    "name": "Puuosu",
+    "district": "mowewe"
+  },
+  {
+    "id": "nelombu",
+    "name": "Nelombu",
+    "district": "mowewe"
+  },
+  {
+    "id": "ulu-mowewe",
+    "name": "Ulu Mowewe",
+    "district": "mowewe"
+  }
+]

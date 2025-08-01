@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jiko",
+    "name": "Jiko",
+    "district": "motongkad"
+  },
+  {
+    "id": "jiko-utara",
+    "name": "Jiko Utara",
+    "district": "motongkad"
+  },
+  {
+    "id": "molobog-barat",
+    "name": "Molobog Barat",
+    "district": "motongkad"
+  },
+  {
+    "id": "molobog",
+    "name": "Molobog",
+    "district": "motongkad"
+  },
+  {
+    "id": "atoga",
+    "name": "Atoga",
+    "district": "motongkad"
+  },
+  {
+    "id": "atoga-timur",
+    "name": "Atoga Timur",
+    "district": "motongkad"
+  },
+  {
+    "id": "motongkad-selatan",
+    "name": "Motongkad Selatan",
+    "district": "motongkad"
+  },
+  {
+    "id": "motongkad",
+    "name": "Motongkad",
+    "district": "motongkad"
+  },
+  {
+    "id": "motongkad-tengah",
+    "name": "Motongkad Tengah",
+    "district": "motongkad"
+  },
+  {
+    "id": "motongkad-utara",
+    "name": "Motongkad Utara",
+    "district": "motongkad"
+  }
+]

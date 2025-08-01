@@ -1,0 +1,52 @@
+[
+  {
+    "id": "siapma",
+    "name": "Siapma",
+    "district": "musatfak"
+  },
+  {
+    "id": "elabukama",
+    "name": "Elabukama",
+    "district": "musatfak"
+  },
+  {
+    "id": "temia",
+    "name": "Temia",
+    "district": "musatfak"
+  },
+  {
+    "id": "anegera",
+    "name": "Anegera",
+    "district": "musatfak"
+  },
+  {
+    "id": "mulupalek",
+    "name": "Mulupalek",
+    "district": "musatfak"
+  },
+  {
+    "id": "pumasili",
+    "name": "Pumasili",
+    "district": "musatfak"
+  },
+  {
+    "id": "kosihave",
+    "name": "Kosihave",
+    "district": "musatfak"
+  },
+  {
+    "id": "hamuhi",
+    "name": "Hamuhi",
+    "district": "musatfak"
+  },
+  {
+    "id": "yumugima",
+    "name": "Yumugima",
+    "district": "musatfak"
+  },
+  {
+    "id": "abulukmo",
+    "name": "Abulukmo",
+    "district": "musatfak"
+  }
+]

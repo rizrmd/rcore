@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "batutaga",
+    "name": "Batutaga",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "parapakanda",
+    "name": "Parapakanda",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "tanjung-obit",
+    "name": "Tanjung Obit",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "bajo",
+    "name": "Bajo",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "pasimbaos",
+    "name": "Pasimbaos",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "sawanakar",
+    "name": "Sawanakar",
+    "district": "batang-lomang"
+  },
+  {
+    "id": "toin",
+    "name": "Toin",
+    "district": "batang-lomang"
+  }
+]

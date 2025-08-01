@@ -1,0 +1,62 @@
+[
+  {
+    "id": "padu-banjar",
+    "name": "Padu Banjar",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "pulau-kumbang",
+    "name": "Pulau Kumbang",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "pemangkat",
+    "name": "Pemangkat",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "nipah-kuning",
+    "name": "Nipah Kuning",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "penjalaan",
+    "name": "Penjalaan",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "teluk-melanau",
+    "name": "Teluk Melanau",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "sungai-mata-mata",
+    "name": "Sungai Mata-Mata",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "batu-barat",
+    "name": "Batu Barat",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "matan-jaya",
+    "name": "Matan Jaya",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "lubuk-batu",
+    "name": "Lubuk Batu",
+    "district": "simpang-hilir"
+  },
+  {
+    "id": "medan-jaya",
+    "name": "Medan Jaya",
+    "district": "simpang-hilir"
+  }
+]

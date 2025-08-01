@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kelurahan-bungo-barat",
+    "name": "Kelurahan Bungo Barat",
+    "district": "pasar-muara-bungo"
+  },
+  {
+    "id": "kelurahan-batang-bungo",
+    "name": "Kelurahan Batang Bungo",
+    "district": "pasar-muara-bungo"
+  },
+  {
+    "id": "kelurahan-bungo-timur",
+    "name": "Kelurahan Bungo Timur",
+    "district": "pasar-muara-bungo"
+  },
+  {
+    "id": "kelurahan-jaya-setia",
+    "name": "Kelurahan Jaya Setia",
+    "district": "pasar-muara-bungo"
+  },
+  {
+    "id": "kelurahan-tanjung-gedang",
+    "name": "Kelurahan Tanjung Gedang",
+    "district": "pasar-muara-bungo"
+  }
+]

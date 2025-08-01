@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mandonga",
+    "name": "Mandonga",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "baruga",
+    "name": "Baruga",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "puuwatu",
+    "name": "Puuwatu",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "kadia",
+    "name": "Kadia",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "wua-wua",
+    "name": "Wua-Wua",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "poasia",
+    "name": "Poasia",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "abeli",
+    "name": "Abeli",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "kambu",
+    "name": "Kambu",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "nambo",
+    "name": "Nambo",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "kendari",
+    "name": "Kendari",
+    "regency": "kota-kendari"
+  },
+  {
+    "id": "kendari-barat",
+    "name": "Kendari Barat",
+    "regency": "kota-kendari"
+  }
+]

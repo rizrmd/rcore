@@ -1,0 +1,68 @@
+[
+  {
+    "id": "kabupaten-balangan",
+    "name": "Balangan",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kota-banjarbaru",
+    "name": "Kota Banjarbaru",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-banjar",
+    "name": "Banjar",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kota-banjarmasin",
+    "name": "Kota Banjarmasin",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-barito-kuala",
+    "name": "Barito Kuala",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-hulu-sungai-selatan",
+    "name": "Hulu Sungai Selatan",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-hulu-sungai-tengah",
+    "name": "Hulu Sungai Tengah",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-hulu-sungai-utara",
+    "name": "Hulu Sungai Utara",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-kotabaru",
+    "name": "Kotabaru",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-tabalong",
+    "name": "Tabalong",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-tanah-bumbu",
+    "name": "Tanah Bumbu",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-tanah-laut",
+    "name": "Tanah Laut",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "kabupaten-tapin",
+    "name": "Tapin",
+    "province": "kalimantan-selatan"
+  }
+]
+

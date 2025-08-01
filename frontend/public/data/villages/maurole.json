@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ranokolo-selatan",
+    "name": "Ranokolo Selatan",
+    "district": "maurole"
+  },
+  {
+    "id": "ranokolo",
+    "name": "Ranokolo",
+    "district": "maurole"
+  },
+  {
+    "id": "keliwumbu",
+    "name": "Keliwumbu",
+    "district": "maurole"
+  },
+  {
+    "id": "mausambi",
+    "name": "Mausambi",
+    "district": "maurole"
+  },
+  {
+    "id": "maurole",
+    "name": "Maurole",
+    "district": "maurole"
+  },
+  {
+    "id": "watukamba",
+    "name": "Watukamba",
+    "district": "maurole"
+  },
+  {
+    "id": "aewora",
+    "name": "Aewora",
+    "district": "maurole"
+  },
+  {
+    "id": "otogedu",
+    "name": "Otogedu",
+    "district": "maurole"
+  },
+  {
+    "id": "woloau",
+    "name": "Woloau",
+    "district": "maurole"
+  },
+  {
+    "id": "uludala",
+    "name": "Uludala",
+    "district": "maurole"
+  },
+  {
+    "id": "niranusa",
+    "name": "Niranusa",
+    "district": "maurole"
+  },
+  {
+    "id": "ngalukoja",
+    "name": "Ngalukoja",
+    "district": "maurole"
+  }
+]

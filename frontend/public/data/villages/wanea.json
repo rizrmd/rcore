@@ -1,0 +1,47 @@
+[
+  {
+    "id": "karombasan-utara",
+    "name": "Karombasan Utara",
+    "district": "wanea"
+  },
+  {
+    "id": "karombasan-selatan",
+    "name": "Karombasan Selatan",
+    "district": "wanea"
+  },
+  {
+    "id": "ranotana-weru",
+    "name": "Ranotana Weru",
+    "district": "wanea"
+  },
+  {
+    "id": "pakowa",
+    "name": "Pakowa",
+    "district": "wanea"
+  },
+  {
+    "id": "bumi-nyiur",
+    "name": "Bumi Nyiur",
+    "district": "wanea"
+  },
+  {
+    "id": "teling-atas",
+    "name": "Teling Atas",
+    "district": "wanea"
+  },
+  {
+    "id": "wanea",
+    "name": "Wanea",
+    "district": "wanea"
+  },
+  {
+    "id": "tanjung-batu",
+    "name": "Tanjung Batu",
+    "district": "wanea"
+  },
+  {
+    "id": "tingkulu",
+    "name": "Tingkulu",
+    "district": "wanea"
+  }
+]

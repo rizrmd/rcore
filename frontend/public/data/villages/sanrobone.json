@@ -1,0 +1,32 @@
+[
+  {
+    "id": "laguruda",
+    "name": "Laguruda",
+    "district": "sanrobone"
+  },
+  {
+    "id": "sanrobone",
+    "name": "Sanrobone",
+    "district": "sanrobone"
+  },
+  {
+    "id": "banyuanyara",
+    "name": "Banyuanyara",
+    "district": "sanrobone"
+  },
+  {
+    "id": "paddinging",
+    "name": "Paddinging",
+    "district": "sanrobone"
+  },
+  {
+    "id": "ujung-baji",
+    "name": "Ujung Baji",
+    "district": "sanrobone"
+  },
+  {
+    "id": "tonasa",
+    "name": "Tonasa",
+    "district": "sanrobone"
+  }
+]

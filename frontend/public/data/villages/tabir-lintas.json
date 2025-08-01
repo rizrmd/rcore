@@ -1,0 +1,27 @@
+[
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "district": "tabir-lintas"
+  },
+  {
+    "id": "sido-lego",
+    "name": "Sido Lego",
+    "district": "tabir-lintas"
+  },
+  {
+    "id": "tambang-baru",
+    "name": "Tambang Baru",
+    "district": "tabir-lintas"
+  },
+  {
+    "id": "mensango",
+    "name": "Mensango",
+    "district": "tabir-lintas"
+  },
+  {
+    "id": "sido-harjo",
+    "name": "Sido Harjo",
+    "district": "tabir-lintas"
+  }
+]

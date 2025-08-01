@@ -1,0 +1,52 @@
+[
+  {
+    "id": "inderapura-timur",
+    "name": "Inderapura Timur",
+    "district": "airpura"
+  },
+  {
+    "id": "inderapura-utara",
+    "name": "Inderapura Utara",
+    "district": "airpura"
+  },
+  {
+    "id": "pulau-rajo-inderapura",
+    "name": "Pulau Rajo Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "tluk-kualo-inderapura",
+    "name": "Tluk Kualo Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "palokan-inderapura",
+    "name": "Palokan Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "tanah-bakali-inderapura",
+    "name": "Tanah Bakali Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "lubuk-betung-inderapura",
+    "name": "Lubuk Betung Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "damar-lapan-batang-inderapura",
+    "name": "Damar Lapan Batang Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "muara-inderapura",
+    "name": "Muara Inderapura",
+    "district": "airpura"
+  },
+  {
+    "id": "lalang-panjang-inderapura",
+    "name": "Lalang Panjang Inderapura",
+    "district": "airpura"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kepala-siring",
+    "name": "Kepala Siring",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "talang-rimbo-baru",
+    "name": "Talang Rimbo Baru",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "talang-rimbo-lama",
+    "name": "Talang Rimbo Lama",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "banyumas",
+    "name": "Banyumas",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "pelabuhan-baru",
+    "name": "Pelabuhan Baru",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "kampung-jawa",
+    "name": "Kampung Jawa",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "air-bang",
+    "name": "Air Bang",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "air-merah",
+    "name": "Air Merah",
+    "district": "curup-tengah"
+  },
+  {
+    "id": "batu-galing",
+    "name": "Batu Galing",
+    "district": "curup-tengah"
+  }
+]

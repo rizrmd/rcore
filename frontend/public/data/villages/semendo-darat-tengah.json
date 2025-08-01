@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gunung-agung",
+    "name": "Gunung Agung",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "kota-padang",
+    "name": "Kota Padang",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "tenam-bungkuk",
+    "name": "Tenam Bungkuk",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "muara-tenang",
+    "name": "Muara Tenang",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "seri-tanjung",
+    "name": "Seri Tanjung",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "tebing-abang",
+    "name": "Tebing Abang",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "batu-surau",
+    "name": "Batu Surau",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "rekimai-jaya",
+    "name": "Rekimai Jaya",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "palak-tanah",
+    "name": "Palak Tanah",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "district": "semendo-darat-tengah"
+  },
+  {
+    "id": "swarna-dwipa",
+    "name": "Swarna Dwipa",
+    "district": "semendo-darat-tengah"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "denpasar-selatan",
+    "name": "Denpasar Selatan",
+    "regency": "kota-denpasar"
+  },
+  {
+    "id": "denpasar-timur",
+    "name": "Denpasar Timur",
+    "regency": "kota-denpasar"
+  },
+  {
+    "id": "denpasar-barat",
+    "name": "Denpasar Barat",
+    "regency": "kota-denpasar"
+  },
+  {
+    "id": "denpasar-utara",
+    "name": "Denpasar Utara",
+    "regency": "kota-denpasar"
+  }
+]

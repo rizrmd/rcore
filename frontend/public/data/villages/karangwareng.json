@@ -1,0 +1,42 @@
+[
+  {
+    "id": "seuseupan",
+    "name": "Seuseupan",
+    "district": "karangwareng"
+  },
+  {
+    "id": "sumurkondang",
+    "name": "Sumurkondang",
+    "district": "karangwareng"
+  },
+  {
+    "id": "jatipiring",
+    "name": "Jatipiring",
+    "district": "karangwareng"
+  },
+  {
+    "id": "kubangdeleg",
+    "name": "Kubangdeleg",
+    "district": "karangwareng"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "karangwareng"
+  },
+  {
+    "id": "karangwangi",
+    "name": "Karangwangi",
+    "district": "karangwareng"
+  },
+  {
+    "id": "karangwareng",
+    "name": "Karangwareng",
+    "district": "karangwareng"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "karangwareng"
+  }
+]

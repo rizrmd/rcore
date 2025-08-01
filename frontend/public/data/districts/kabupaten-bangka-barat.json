@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kelapa",
+    "name": "Kelapa",
+    "regency": "kabupaten-bangka-barat"
+  },
+  {
+    "id": "tempilang",
+    "name": "Tempilang",
+    "regency": "kabupaten-bangka-barat"
+  },
+  {
+    "id": "mentok",
+    "name": "Mentok",
+    "regency": "kabupaten-bangka-barat"
+  },
+  {
+    "id": "simpang-teritip",
+    "name": "Simpang Teritip",
+    "regency": "kabupaten-bangka-barat"
+  },
+  {
+    "id": "jebus",
+    "name": "Jebus",
+    "regency": "kabupaten-bangka-barat"
+  },
+  {
+    "id": "parittiga",
+    "name": "Parittiga",
+    "regency": "kabupaten-bangka-barat"
+  }
+]

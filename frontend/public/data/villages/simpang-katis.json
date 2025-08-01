@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sungkap",
+    "name": "Sungkap",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "celuak",
+    "name": "Celuak",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "simpang-katis",
+    "name": "Simpang Katis",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "beruas",
+    "name": "Beruas",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "terak",
+    "name": "Terak",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "pasir-garam",
+    "name": "Pasir Garam",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "pinang-sebatang",
+    "name": "Pinang Sebatang",
+    "district": "simpang-katis"
+  },
+  {
+    "id": "katis",
+    "name": "Katis",
+    "district": "simpang-katis"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wenam",
+    "name": "Wenam",
+    "district": "pirime"
+  },
+  {
+    "id": "ekanom",
+    "name": "Ekanom",
+    "district": "pirime"
+  },
+  {
+    "id": "umbanume",
+    "name": "Umbanume",
+    "district": "pirime"
+  },
+  {
+    "id": "yalipak",
+    "name": "Yalipak",
+    "district": "pirime"
+  },
+  {
+    "id": "amberingime",
+    "name": "Amberingime",
+    "district": "pirime"
+  },
+  {
+    "id": "aniwo",
+    "name": "Aniwo",
+    "district": "pirime"
+  },
+  {
+    "id": "bugumbak",
+    "name": "Bugumbak",
+    "district": "pirime"
+  }
+]

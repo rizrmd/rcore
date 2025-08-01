@@ -1,0 +1,67 @@
+[
+  {
+    "id": "seliki",
+    "name": "Seliki",
+    "district": "muara-badak"
+  },
+  {
+    "id": "salo-palai",
+    "name": "Salo Palai",
+    "district": "muara-badak"
+  },
+  {
+    "id": "muara-badak-ulu",
+    "name": "Muara Badak Ulu",
+    "district": "muara-badak"
+  },
+  {
+    "id": "muara-badak-ilir",
+    "name": "Muara Badak Ilir",
+    "district": "muara-badak"
+  },
+  {
+    "id": "tanjung-limau",
+    "name": "Tanjung Limau",
+    "district": "muara-badak"
+  },
+  {
+    "id": "tanah-datar",
+    "name": "Tanah Datar",
+    "district": "muara-badak"
+  },
+  {
+    "id": "badak-baru",
+    "name": "Badak Baru",
+    "district": "muara-badak"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "muara-badak"
+  },
+  {
+    "id": "gas-alam-badak-satu",
+    "name": "Gas Alam Badak Satu",
+    "district": "muara-badak"
+  },
+  {
+    "id": "batu-batu",
+    "name": "Batu-Batu",
+    "district": "muara-badak"
+  },
+  {
+    "id": "badak-mekar",
+    "name": "Badak Mekar",
+    "district": "muara-badak"
+  },
+  {
+    "id": "salo-cella",
+    "name": "Salo Cella",
+    "district": "muara-badak"
+  },
+  {
+    "id": "sungai-bawang",
+    "name": "Sungai Bawang",
+    "district": "muara-badak"
+  }
+]

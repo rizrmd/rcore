@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sangtandung",
+    "name": "Sangtandung",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "bolong",
+    "name": "Bolong",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "bosso",
+    "name": "Bosso",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "buntu-awo",
+    "name": "Buntu Awo",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "marabuana",
+    "name": "Marabuana",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "salulino",
+    "name": "Salulino",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "salutubu",
+    "name": "Salutubu",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "pongko",
+    "name": "Pongko",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "siteba",
+    "name": "Siteba",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "limbong",
+    "name": "Limbong",
+    "district": "walenrang-utara"
+  },
+  {
+    "id": "bosso-timur",
+    "name": "Bosso Timur",
+    "district": "walenrang-utara"
+  }
+]

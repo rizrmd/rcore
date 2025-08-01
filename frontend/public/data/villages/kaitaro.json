@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sara",
+    "name": "Sara",
+    "district": "kaitaro"
+  },
+  {
+    "id": "warganusa",
+    "name": "Warganusa",
+    "district": "kaitaro"
+  },
+  {
+    "id": "warga-nusa-ii",
+    "name": "Warga Nusa Ii",
+    "district": "kaitaro"
+  },
+  {
+    "id": "tugerama",
+    "name": "Tugerama",
+    "district": "kaitaro"
+  },
+  {
+    "id": "irarutu-i-suga",
+    "name": "Irarutu I / Suga",
+    "district": "kaitaro"
+  },
+  {
+    "id": "kawaf",
+    "name": "Kawaf",
+    "district": "kaitaro"
+  }
+]

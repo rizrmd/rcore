@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bemo",
+    "name": "Bemo",
+    "district": "werinama"
+  },
+  {
+    "id": "werinama",
+    "name": "Werinama",
+    "district": "werinama"
+  },
+  {
+    "id": "hatumeten",
+    "name": "Hatumeten",
+    "district": "werinama"
+  },
+  {
+    "id": "batuasa",
+    "name": "Batuasa",
+    "district": "werinama"
+  },
+  {
+    "id": "tobo",
+    "name": "Tobo",
+    "district": "werinama"
+  },
+  {
+    "id": "osong",
+    "name": "Osong",
+    "district": "werinama"
+  },
+  {
+    "id": "gusalaut",
+    "name": "Gusalaut",
+    "district": "werinama"
+  },
+  {
+    "id": "bemo-perak",
+    "name": "Bemo Perak",
+    "district": "werinama"
+  },
+  {
+    "id": "funa-naiyaba",
+    "name": "Funa Naiyaba",
+    "district": "werinama"
+  }
+]

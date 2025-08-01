@@ -1,0 +1,32 @@
+[
+  {
+    "id": "manatahan",
+    "name": "Manatahan",
+    "district": "obi-barat"
+  },
+  {
+    "id": "jikohay",
+    "name": "Jikohay",
+    "district": "obi-barat"
+  },
+  {
+    "id": "alam-kenanga",
+    "name": "Alam Kenanga",
+    "district": "obi-barat"
+  },
+  {
+    "id": "soa-sangaji",
+    "name": "Soa Sangaji",
+    "district": "obi-barat"
+  },
+  {
+    "id": "alam-pelita",
+    "name": "Alam Pelita",
+    "district": "obi-barat"
+  },
+  {
+    "id": "tapa",
+    "name": "Tapa",
+    "district": "obi-barat"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sigumpar-dangsina",
+    "name": "Sigumpar Dangsina",
+    "district": "sigumpar"
+  },
+  {
+    "id": "dolok-jior",
+    "name": "Dolok Jior",
+    "district": "sigumpar"
+  },
+  {
+    "id": "sigumpar",
+    "name": "Sigumpar",
+    "district": "sigumpar"
+  },
+  {
+    "id": "sigumpar-julu",
+    "name": "Sigumpar Julu",
+    "district": "sigumpar"
+  },
+  {
+    "id": "maju",
+    "name": "Maju",
+    "district": "sigumpar"
+  },
+  {
+    "id": "marsangap",
+    "name": "Marsangap",
+    "district": "sigumpar"
+  },
+  {
+    "id": "nauli",
+    "name": "Nauli",
+    "district": "sigumpar"
+  },
+  {
+    "id": "situa-tua",
+    "name": "Situa-Tua",
+    "district": "sigumpar"
+  },
+  {
+    "id": "sigumpar-barat",
+    "name": "Sigumpar Barat",
+    "district": "sigumpar"
+  },
+  {
+    "id": "banua-huta",
+    "name": "Banua Huta",
+    "district": "sigumpar"
+  }
+]

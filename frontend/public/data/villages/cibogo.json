@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sadawarna",
+    "name": "Sadawarna",
+    "district": "cibogo"
+  },
+  {
+    "id": "sumurbarang",
+    "name": "Sumurbarang",
+    "district": "cibogo"
+  },
+  {
+    "id": "padaasih",
+    "name": "Padaasih",
+    "district": "cibogo"
+  },
+  {
+    "id": "cibogo",
+    "name": "Cibogo",
+    "district": "cibogo"
+  },
+  {
+    "id": "cinangsi",
+    "name": "Cinangsi",
+    "district": "cibogo"
+  },
+  {
+    "id": "majasari",
+    "name": "Majasari",
+    "district": "cibogo"
+  },
+  {
+    "id": "cibalandongjaya",
+    "name": "Cibalandongjaya",
+    "district": "cibogo"
+  },
+  {
+    "id": "cisaga",
+    "name": "Cisaga",
+    "district": "cibogo"
+  }
+]

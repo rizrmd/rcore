@@ -1,0 +1,107 @@
+[
+  {
+    "id": "tal",
+    "name": "Tal",
+    "district": "satar-mese"
+  },
+  {
+    "id": "paka",
+    "name": "Paka",
+    "district": "satar-mese"
+  },
+  {
+    "id": "langgo",
+    "name": "Langgo",
+    "district": "satar-mese"
+  },
+  {
+    "id": "tado",
+    "name": "Tado",
+    "district": "satar-mese"
+  },
+  {
+    "id": "koak",
+    "name": "Koak",
+    "district": "satar-mese"
+  },
+  {
+    "id": "lungar",
+    "name": "Lungar",
+    "district": "satar-mese"
+  },
+  {
+    "id": "golo-muntas",
+    "name": "Golo Muntas",
+    "district": "satar-mese"
+  },
+  {
+    "id": "gara",
+    "name": "Gara",
+    "district": "satar-mese"
+  },
+  {
+    "id": "wae-ajang",
+    "name": "Wae Ajang",
+    "district": "satar-mese"
+  },
+  {
+    "id": "wewo",
+    "name": "Wewo",
+    "district": "satar-mese"
+  },
+  {
+    "id": "mocok",
+    "name": "Mocok",
+    "district": "satar-mese"
+  },
+  {
+    "id": "ponggeok",
+    "name": "Ponggeok",
+    "district": "satar-mese"
+  },
+  {
+    "id": "papang",
+    "name": "Papang",
+    "district": "satar-mese"
+  },
+  {
+    "id": "pongkor",
+    "name": "Pongkor",
+    "district": "satar-mese"
+  },
+  {
+    "id": "ngkaer",
+    "name": "Ngkaer",
+    "district": "satar-mese"
+  },
+  {
+    "id": "golo-lambo",
+    "name": "Golo Lambo",
+    "district": "satar-mese"
+  },
+  {
+    "id": "jaong",
+    "name": "Jaong",
+    "district": "satar-mese"
+  },
+  {
+    "id": "iteng",
+    "name": "Iteng",
+    "district": "satar-mese"
+  },
+  {
+    "id": "satar-loung",
+    "name": "Satar Loung",
+    "district": "satar-mese"
+  },
+  {
+    "id": "ulu-belang",
+    "name": "Ulu Belang",
+    "district": "satar-mese"
+  },
+  {
+    "id": "lolang",
+    "name": "Lolang",
+    "district": "satar-mese"
+  }
+]

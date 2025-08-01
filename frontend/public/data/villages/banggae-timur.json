@@ -1,0 +1,47 @@
+[
+  {
+    "id": "baurung",
+    "name": "Baurung",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "labuang",
+    "name": "Labuang",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "tande",
+    "name": "Tande",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "baruga",
+    "name": "Baruga",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "baruga-dua",
+    "name": "Baruga Dua",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "lembang",
+    "name": "Lembang",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "labuang-utara",
+    "name": "Labuang Utara",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "tande-timur",
+    "name": "Tande Timur",
+    "district": "banggae-timur"
+  },
+  {
+    "id": "buttu-baruga",
+    "name": "Buttu Baruga",
+    "district": "banggae-timur"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "campakawarna",
+    "name": "Campakawarna",
+    "district": "campaka-mulya"
+  },
+  {
+    "id": "campakamulya",
+    "name": "Campakamulya",
+    "district": "campaka-mulya"
+  },
+  {
+    "id": "sukabungah",
+    "name": "Sukabungah",
+    "district": "campaka-mulya"
+  },
+  {
+    "id": "cibanggala",
+    "name": "Cibanggala",
+    "district": "campaka-mulya"
+  },
+  {
+    "id": "sukasirna",
+    "name": "Sukasirna",
+    "district": "campaka-mulya"
+  }
+]

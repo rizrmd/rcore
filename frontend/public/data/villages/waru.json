@@ -1,0 +1,157 @@
+[
+  {
+    "id": "medaeng",
+    "name": "Medaeng",
+    "district": "waru"
+  },
+  {
+    "id": "pepelegi",
+    "name": "Pepelegi",
+    "district": "waru"
+  },
+  {
+    "id": "waru",
+    "name": "Waru",
+    "district": "waru"
+  },
+  {
+    "id": "kureksari",
+    "name": "Kureksari",
+    "district": "waru"
+  },
+  {
+    "id": "ngingas",
+    "name": "Ngingas",
+    "district": "waru"
+  },
+  {
+    "id": "tropodo",
+    "name": "Tropodo",
+    "district": "waru"
+  },
+  {
+    "id": "tambak-sawah",
+    "name": "Tambak Sawah",
+    "district": "waru"
+  },
+  {
+    "id": "tambak-rejo",
+    "name": "Tambak Rejo",
+    "district": "waru"
+  },
+  {
+    "id": "tambak-oso",
+    "name": "Tambak Oso",
+    "district": "waru"
+  },
+  {
+    "id": "tambak-sumur",
+    "name": "Tambak Sumur",
+    "district": "waru"
+  },
+  {
+    "id": "wadungasri",
+    "name": "Wadungasri",
+    "district": "waru"
+  },
+  {
+    "id": "kepuh-kiriman",
+    "name": "Kepuh Kiriman",
+    "district": "waru"
+  },
+  {
+    "id": "wedoro",
+    "name": "Wedoro",
+    "district": "waru"
+  },
+  {
+    "id": "janti",
+    "name": "Janti",
+    "district": "waru"
+  },
+  {
+    "id": "kedungrejo",
+    "name": "Kedungrejo",
+    "district": "waru"
+  },
+  {
+    "id": "bungurasih",
+    "name": "Bungurasih",
+    "district": "waru"
+  },
+  {
+    "id": "sumber-waru",
+    "name": "Sumber Waru",
+    "district": "waru"
+  },
+  {
+    "id": "bajur",
+    "name": "Bajur",
+    "district": "waru"
+  },
+  {
+    "id": "ragang",
+    "name": "Ragang",
+    "district": "waru"
+  },
+  {
+    "id": "tampojung-tenggina",
+    "name": "Tampojung Tenggina",
+    "district": "waru"
+  },
+  {
+    "id": "tampojung-tengah",
+    "name": "Tampojung Tengah",
+    "district": "waru"
+  },
+  {
+    "id": "tampojung-guwa",
+    "name": "Tampojung Guwa",
+    "district": "waru"
+  },
+  {
+    "id": "tampojung-pregi",
+    "name": "Tampojung Pregi",
+    "district": "waru"
+  },
+  {
+    "id": "sana-laok",
+    "name": "Sana Laok",
+    "district": "waru"
+  },
+  {
+    "id": "waru-timur",
+    "name": "Waru Timur",
+    "district": "waru"
+  },
+  {
+    "id": "waru-barat",
+    "name": "Waru Barat",
+    "district": "waru"
+  },
+  {
+    "id": "tlontoares",
+    "name": "Tlontoares",
+    "district": "waru"
+  },
+  {
+    "id": "tegangser-laok",
+    "name": "Tegangser Laok",
+    "district": "waru"
+  },
+  {
+    "id": "api-api",
+    "name": "Api Api",
+    "district": "waru"
+  },
+  {
+    "id": "waru",
+    "name": "Waru",
+    "district": "waru"
+  },
+  {
+    "id": "bangun-mulya",
+    "name": "Bangun Mulya",
+    "district": "waru"
+  }
+]

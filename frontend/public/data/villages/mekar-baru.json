@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ganda-ria",
+    "name": "Ganda Ria",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "kosambi-dalam",
+    "name": "Kosambi Dalam",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "mekar-baru",
+    "name": "Mekar Baru",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "waliwis",
+    "name": "Waliwis",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "cijeruk",
+    "name": "Cijeruk",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "kedaung",
+    "name": "Kedaung",
+    "district": "mekar-baru"
+  },
+  {
+    "id": "jenggot",
+    "name": "Jenggot",
+    "district": "mekar-baru"
+  }
+]

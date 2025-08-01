@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sokogunung",
+    "name": "Sokogunung",
+    "district": "kenduruan"
+  },
+  {
+    "id": "jamprong",
+    "name": "Jamprong",
+    "district": "kenduruan"
+  },
+  {
+    "id": "bendonglateng",
+    "name": "Bendonglateng",
+    "district": "kenduruan"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "kenduruan"
+  },
+  {
+    "id": "sokogrenjeng",
+    "name": "Sokogrenjeng",
+    "district": "kenduruan"
+  },
+  {
+    "id": "sidohasri",
+    "name": "Sidohasri",
+    "district": "kenduruan"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "kenduruan"
+  },
+  {
+    "id": "tawaran",
+    "name": "Tawaran",
+    "district": "kenduruan"
+  },
+  {
+    "id": "jlodro",
+    "name": "Jlodro",
+    "district": "kenduruan"
+  }
+]

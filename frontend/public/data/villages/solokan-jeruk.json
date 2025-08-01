@@ -1,0 +1,37 @@
+[
+  {
+    "id": "panyadap",
+    "name": "Panyadap",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "padamukti",
+    "name": "Padamukti",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "langensari",
+    "name": "Langensari",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "solokanjeruk",
+    "name": "Solokanjeruk",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "rancakasumba",
+    "name": "Rancakasumba",
+    "district": "solokan-jeruk"
+  },
+  {
+    "id": "bojongemas",
+    "name": "Bojongemas",
+    "district": "solokan-jeruk"
+  }
+]

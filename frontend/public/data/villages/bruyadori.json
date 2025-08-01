@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mandori",
+    "name": "Mandori",
+    "district": "bruyadori"
+  },
+  {
+    "id": "bruyadori",
+    "name": "Bruyadori",
+    "district": "bruyadori"
+  },
+  {
+    "id": "dafi",
+    "name": "Dafi",
+    "district": "bruyadori"
+  },
+  {
+    "id": "sandau",
+    "name": "Sandau",
+    "district": "bruyadori"
+  },
+  {
+    "id": "amberparemamperem",
+    "name": "Amberparem/Amperem",
+    "district": "bruyadori"
+  },
+  {
+    "id": "duai",
+    "name": "Duai",
+    "district": "bruyadori"
+  },
+  {
+    "id": "mandori-sup",
+    "name": "Mandori Sup",
+    "district": "bruyadori"
+  },
+  {
+    "id": "warbukor",
+    "name": "Warbukor",
+    "district": "bruyadori"
+  },
+  {
+    "id": "arimi-jaya",
+    "name": "Arimi Jaya",
+    "district": "bruyadori"
+  },
+  {
+    "id": "kamumi",
+    "name": "Kamumi",
+    "district": "bruyadori"
+  }
+]

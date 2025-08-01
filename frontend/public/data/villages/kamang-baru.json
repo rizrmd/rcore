@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sungai-lansek",
+    "name": "Sungai Lansek",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "muaro-takung",
+    "name": "Muaro Takung",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "kunangan-parit-rantang",
+    "name": "Kunangan Parit Rantang",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "kamang",
+    "name": "Kamang",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "air-amo",
+    "name": "Air Amo",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "sungai-batuang",
+    "name": "Sungai Batuang",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "siaur",
+    "name": "Siaur",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "lubuk-tarantang",
+    "name": "Lubuk Tarantang",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "maloro",
+    "name": "Maloro",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "tanjung-kaliang",
+    "name": "Tanjung Kaliang",
+    "district": "kamang-baru"
+  },
+  {
+    "id": "padang-tarok",
+    "name": "Padang Tarok",
+    "district": "kamang-baru"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "benteng-selatan",
+    "name": "Benteng Selatan",
+    "district": "benteng"
+  },
+  {
+    "id": "benteng-utara",
+    "name": "Benteng Utara",
+    "district": "benteng"
+  }
+]

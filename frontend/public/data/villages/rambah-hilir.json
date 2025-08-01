@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pasir-jaya",
+    "name": "Pasir Jaya",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "pasir-utama",
+    "name": "Pasir Utama",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "rambah-hilir",
+    "name": "Rambah Hilir",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "rambah-muda",
+    "name": "Rambah Muda",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "sungai-sitolang",
+    "name": "Sungai Sitolang",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "lubuk-krapat",
+    "name": "Lubuk Krapat",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "rambah-hilir-tengah",
+    "name": "Rambah Hilir Tengah",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "rambah-hilir-timur",
+    "name": "Rambah Hilir Timur",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "rambah",
+    "name": "Rambah",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "serombau-indah",
+    "name": "Serombau Indah",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "sungai-dua-indah",
+    "name": "Sungai Dua Indah",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "muara-musu",
+    "name": "Muara Musu",
+    "district": "rambah-hilir"
+  },
+  {
+    "id": "sejati",
+    "name": "Sejati",
+    "district": "rambah-hilir"
+  }
+]

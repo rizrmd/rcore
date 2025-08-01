@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mancani",
+    "name": "Mancani",
+    "district": "telluwanua"
+  },
+  {
+    "id": "salubattang",
+    "name": "Salubattang",
+    "district": "telluwanua"
+  },
+  {
+    "id": "maroangin",
+    "name": "Maroangin",
+    "district": "telluwanua"
+  },
+  {
+    "id": "jaya",
+    "name": "Jaya",
+    "district": "telluwanua"
+  },
+  {
+    "id": "sumarambu",
+    "name": "Sumarambu",
+    "district": "telluwanua"
+  },
+  {
+    "id": "batu-walenrang",
+    "name": "Batu Walenrang",
+    "district": "telluwanua"
+  },
+  {
+    "id": "pentojangan",
+    "name": "Pentojangan",
+    "district": "telluwanua"
+  }
+]

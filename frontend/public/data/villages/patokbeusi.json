@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjungrasa-kidul",
+    "name": "Tanjungrasa Kidul",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "tanjungrasa",
+    "name": "Tanjungrasa",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "jatiragas-hilir",
+    "name": "Jatiragas Hilir",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "tambakjati",
+    "name": "Tambakjati",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "ciberes",
+    "name": "Ciberes",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "gempolsari",
+    "name": "Gempolsari",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "rancamulya",
+    "name": "Rancamulya",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "rancajaya",
+    "name": "Rancajaya",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "rancabango",
+    "name": "Rancabango",
+    "district": "patokbeusi"
+  },
+  {
+    "id": "rancaasih",
+    "name": "Rancaasih",
+    "district": "patokbeusi"
+  }
+]

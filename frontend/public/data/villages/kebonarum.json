@@ -1,0 +1,22 @@
+[
+  {
+    "id": "basin",
+    "name": "Basin",
+    "district": "kebonarum"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "kebonarum"
+  },
+  {
+    "id": "malangjiwan",
+    "name": "Malangjiwan",
+    "district": "kebonarum"
+  },
+  {
+    "id": "karangduren",
+    "name": "Karangduren",
+    "district": "kebonarum"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lakatuli",
+    "name": "Lakatuli",
+    "district": "mataru"
+  },
+  {
+    "id": "mataru-selatan",
+    "name": "Mataru Selatan",
+    "district": "mataru"
+  },
+  {
+    "id": "kamaifui",
+    "name": "Kamaifui",
+    "district": "mataru"
+  },
+  {
+    "id": "taman-mataru",
+    "name": "Taman Mataru",
+    "district": "mataru"
+  },
+  {
+    "id": "mataru-timur",
+    "name": "Mataru Timur",
+    "district": "mataru"
+  },
+  {
+    "id": "mataru-utara",
+    "name": "Mataru Utara",
+    "district": "mataru"
+  },
+  {
+    "id": "mataru-barat",
+    "name": "Mataru Barat",
+    "district": "mataru"
+  }
+]

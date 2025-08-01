@@ -1,0 +1,37 @@
+[
+  {
+    "id": "moanemani-ikebo",
+    "name": "Moanemani/ Ikebo",
+    "district": "kamu"
+  },
+  {
+    "id": "bukapa",
+    "name": "Bukapa",
+    "district": "kamu"
+  },
+  {
+    "id": "mauwa",
+    "name": "Mauwa",
+    "district": "kamu"
+  },
+  {
+    "id": "ekemanida",
+    "name": "Ekemanida",
+    "district": "kamu"
+  },
+  {
+    "id": "putapa",
+    "name": "Putapa",
+    "district": "kamu"
+  },
+  {
+    "id": "tokapo-dikiyouwa",
+    "name": "Tokapo / Dikiyouwa",
+    "district": "kamu"
+  },
+  {
+    "id": "idakotu",
+    "name": "Idakotu",
+    "district": "kamu"
+  }
+]

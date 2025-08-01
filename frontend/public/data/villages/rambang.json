@@ -1,0 +1,67 @@
+[
+  {
+    "id": "marga-mulia",
+    "name": "Marga Mulia",
+    "district": "rambang"
+  },
+  {
+    "id": "sumber-rahayu",
+    "name": "Sumber Rahayu",
+    "district": "rambang"
+  },
+  {
+    "id": "kencana-mulia",
+    "name": "Kencana Mulia",
+    "district": "rambang"
+  },
+  {
+    "id": "sugih-waras",
+    "name": "Sugih Waras",
+    "district": "rambang"
+  },
+  {
+    "id": "pagar-agung",
+    "name": "Pagar Agung",
+    "district": "rambang"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "rambang"
+  },
+  {
+    "id": "tanjung-dalam",
+    "name": "Tanjung Dalam",
+    "district": "rambang"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "rambang"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "rambang"
+  },
+  {
+    "id": "negeri-agung",
+    "name": "Negeri Agung",
+    "district": "rambang"
+  },
+  {
+    "id": "baru-rambang",
+    "name": "Baru Rambang",
+    "district": "rambang"
+  },
+  {
+    "id": "air-keruh",
+    "name": "Air Keruh",
+    "district": "rambang"
+  },
+  {
+    "id": "sugih-waras-barat",
+    "name": "Sugih Waras Barat",
+    "district": "rambang"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "masaloka",
+    "name": "Masaloka",
+    "district": "kep-masaloka-raya"
+  },
+  {
+    "id": "masaloka-timur",
+    "name": "Masaloka Timur",
+    "district": "kep-masaloka-raya"
+  },
+  {
+    "id": "masaloka-barat",
+    "name": "Masaloka Barat",
+    "district": "kep-masaloka-raya"
+  },
+  {
+    "id": "masaloka-selatan",
+    "name": "Masaloka Selatan",
+    "district": "kep-masaloka-raya"
+  },
+  {
+    "id": "batu-lamburi",
+    "name": "Batu Lamburi",
+    "district": "kep-masaloka-raya"
+  }
+]

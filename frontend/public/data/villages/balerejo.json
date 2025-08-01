@@ -1,0 +1,82 @@
+[
+  {
+    "id": "garon",
+    "name": "Garon",
+    "district": "balerejo"
+  },
+  {
+    "id": "balerejo",
+    "name": "Balerejo",
+    "district": "balerejo"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "balerejo"
+  },
+  {
+    "id": "gading",
+    "name": "Gading",
+    "district": "balerejo"
+  },
+  {
+    "id": "sumberbening",
+    "name": "Sumberbening",
+    "district": "balerejo"
+  },
+  {
+    "id": "bulakrejo",
+    "name": "Bulakrejo",
+    "district": "balerejo"
+  },
+  {
+    "id": "tapelan",
+    "name": "Tapelan",
+    "district": "balerejo"
+  },
+  {
+    "id": "babadan-lor",
+    "name": "Babadan Lor",
+    "district": "balerejo"
+  },
+  {
+    "id": "warurejo",
+    "name": "Warurejo",
+    "district": "balerejo"
+  },
+  {
+    "id": "kedungjati",
+    "name": "Kedungjati",
+    "district": "balerejo"
+  },
+  {
+    "id": "glonggong",
+    "name": "Glonggong",
+    "district": "balerejo"
+  },
+  {
+    "id": "sogo",
+    "name": "Sogo",
+    "district": "balerejo"
+  },
+  {
+    "id": "banaran",
+    "name": "Banaran",
+    "district": "balerejo"
+  },
+  {
+    "id": "kedungrejo",
+    "name": "Kedungrejo",
+    "district": "balerejo"
+  },
+  {
+    "id": "pacinan",
+    "name": "Pacinan",
+    "district": "balerejo"
+  },
+  {
+    "id": "simo",
+    "name": "Simo",
+    "district": "balerejo"
+  }
+]

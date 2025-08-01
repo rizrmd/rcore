@@ -1,0 +1,107 @@
+[
+  {
+    "id": "boto",
+    "name": "Boto",
+    "district": "jaken"
+  },
+  {
+    "id": "trikoyo",
+    "name": "Trikoyo",
+    "district": "jaken"
+  },
+  {
+    "id": "sumberan",
+    "name": "Sumberan",
+    "district": "jaken"
+  },
+  {
+    "id": "mojolampir",
+    "name": "Mojolampir",
+    "district": "jaken"
+  },
+  {
+    "id": "mantingan",
+    "name": "Mantingan",
+    "district": "jaken"
+  },
+  {
+    "id": "ronggo",
+    "name": "Ronggo",
+    "district": "jaken"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "jaken"
+  },
+  {
+    "id": "sidoluhur",
+    "name": "Sidoluhur",
+    "district": "jaken"
+  },
+  {
+    "id": "srikaton",
+    "name": "Srikaton",
+    "district": "jaken"
+  },
+  {
+    "id": "arumanis",
+    "name": "Arumanis",
+    "district": "jaken"
+  },
+  {
+    "id": "tegalarum",
+    "name": "Tegalarum",
+    "district": "jaken"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "jaken"
+  },
+  {
+    "id": "mojoluhur",
+    "name": "Mojoluhur",
+    "district": "jaken"
+  },
+  {
+    "id": "kebonturi",
+    "name": "Kebonturi",
+    "district": "jaken"
+  },
+  {
+    "id": "lundo",
+    "name": "Lundo",
+    "district": "jaken"
+  },
+  {
+    "id": "sukorukun",
+    "name": "Sukorukun",
+    "district": "jaken"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "jaken"
+  },
+  {
+    "id": "manjang",
+    "name": "Manjang",
+    "district": "jaken"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "jaken"
+  },
+  {
+    "id": "sumberarum",
+    "name": "Sumberarum",
+    "district": "jaken"
+  },
+  {
+    "id": "sriwedari",
+    "name": "Sriwedari",
+    "district": "jaken"
+  }
+]

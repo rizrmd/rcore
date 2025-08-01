@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sibaragas",
+    "name": "Sibaragas",
+    "district": "pagaran"
+  },
+  {
+    "id": "lumban-motung",
+    "name": "Lumban Motung",
+    "district": "pagaran"
+  },
+  {
+    "id": "banua-luhu",
+    "name": "Banua Luhu",
+    "district": "pagaran"
+  },
+  {
+    "id": "lumban-julu",
+    "name": "Lumban Julu",
+    "district": "pagaran"
+  },
+  {
+    "id": "lubis",
+    "name": "Lubis",
+    "district": "pagaran"
+  },
+  {
+    "id": "lumban-ina-ina",
+    "name": "Lumban Ina Ina",
+    "district": "pagaran"
+  },
+  {
+    "id": "pagaran",
+    "name": "Pagaran",
+    "district": "pagaran"
+  },
+  {
+    "id": "parhorboan",
+    "name": "Parhorboan",
+    "district": "pagaran"
+  },
+  {
+    "id": "sipultak",
+    "name": "Sipultak",
+    "district": "pagaran"
+  },
+  {
+    "id": "dolok-saribu",
+    "name": "Dolok Saribu",
+    "district": "pagaran"
+  },
+  {
+    "id": "lumban-silintong",
+    "name": "Lumban Silintong",
+    "district": "pagaran"
+  },
+  {
+    "id": "simamora-hasibuan",
+    "name": "Simamora Hasibuan",
+    "district": "pagaran"
+  },
+  {
+    "id": "sipultak-dolok",
+    "name": "Sipultak  Dolok",
+    "district": "pagaran"
+  },
+  {
+    "id": "hasibuan",
+    "name": "Hasibuan",
+    "district": "pagaran"
+  }
+]

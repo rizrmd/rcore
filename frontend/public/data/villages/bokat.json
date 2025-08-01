@@ -1,0 +1,77 @@
+[
+  {
+    "id": "poongan",
+    "name": "Poongan",
+    "district": "bokat"
+  },
+  {
+    "id": "tayadun",
+    "name": "Tayadun",
+    "district": "bokat"
+  },
+  {
+    "id": "bongo",
+    "name": "Bongo",
+    "district": "bokat"
+  },
+  {
+    "id": "bokat-iv",
+    "name": "Bokat Iv",
+    "district": "bokat"
+  },
+  {
+    "id": "doulan",
+    "name": "Doulan",
+    "district": "bokat"
+  },
+  {
+    "id": "kodolagon",
+    "name": "Kodolagon",
+    "district": "bokat"
+  },
+  {
+    "id": "bokat",
+    "name": "Bokat",
+    "district": "bokat"
+  },
+  {
+    "id": "kantanan",
+    "name": "Kantanan",
+    "district": "bokat"
+  },
+  {
+    "id": "negeri-lama",
+    "name": "Negeri Lama",
+    "district": "bokat"
+  },
+  {
+    "id": "tikopo",
+    "name": "Tikopo",
+    "district": "bokat"
+  },
+  {
+    "id": "duwamayo",
+    "name": "Duwamayo",
+    "district": "bokat"
+  },
+  {
+    "id": "butukan",
+    "name": "Butukan",
+    "district": "bokat"
+  },
+  {
+    "id": "tang",
+    "name": "Tang",
+    "district": "bokat"
+  },
+  {
+    "id": "bukamog",
+    "name": "Bukamog",
+    "district": "bokat"
+  },
+  {
+    "id": "langudon",
+    "name": "Langudon",
+    "district": "bokat"
+  }
+]

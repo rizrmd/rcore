@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pondok-damar",
+    "name": "Pondok Damar",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "natai-baru",
+    "name": "Natai Baru",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "bagendang-tengah",
+    "name": "Bagendang Tengah",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "bagendang-hilir",
+    "name": "Bagendang Hilir",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "bagendang-hulu",
+    "name": "Bagendang Hulu",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "mentaya-hilir-utara"
+  },
+  {
+    "id": "bagendang-hilir-permai",
+    "name": "Bagendang Hilir Permai",
+    "district": "mentaya-hilir-utara"
+  }
+]

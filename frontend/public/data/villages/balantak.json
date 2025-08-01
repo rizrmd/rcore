@@ -1,0 +1,67 @@
+[
+  {
+    "id": "talima-a",
+    "name": "Talima A",
+    "district": "balantak"
+  },
+  {
+    "id": "talima-b",
+    "name": "Talima B",
+    "district": "balantak"
+  },
+  {
+    "id": "dolom",
+    "name": "Dolom",
+    "district": "balantak"
+  },
+  {
+    "id": "kiloma",
+    "name": "Kiloma",
+    "district": "balantak"
+  },
+  {
+    "id": "rau",
+    "name": "Rau",
+    "district": "balantak"
+  },
+  {
+    "id": "tanotu",
+    "name": "Tanotu",
+    "district": "balantak"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "balantak"
+  },
+  {
+    "id": "mamping",
+    "name": "Mamping",
+    "district": "balantak"
+  },
+  {
+    "id": "balantak",
+    "name": "Balantak",
+    "district": "balantak"
+  },
+  {
+    "id": "luok",
+    "name": "Luok",
+    "district": "balantak"
+  },
+  {
+    "id": "boloak",
+    "name": "Boloak",
+    "district": "balantak"
+  },
+  {
+    "id": "dale-dale",
+    "name": "Dale- Dale",
+    "district": "balantak"
+  },
+  {
+    "id": "talang-batu",
+    "name": "Talang Batu",
+    "district": "balantak"
+  }
+]

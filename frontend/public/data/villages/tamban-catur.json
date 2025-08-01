@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bandar-raya",
+    "name": "Bandar Raya",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "tamban-baru-mekar",
+    "name": "Tamban Baru Mekar",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "tamban-baru-timur",
+    "name": "Tamban Baru Timur",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "tamban-baru-tengah",
+    "name": "Tamban Baru Tengah",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "warna-sari",
+    "name": "Warna Sari",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "sido-mulyo",
+    "name": "Sido Mulyo",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "bandar-mekar",
+    "name": "Bandar Mekar",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "tamban-makmur",
+    "name": "Tamban Makmur",
+    "district": "tamban-catur"
+  },
+  {
+    "id": "tamban-jaya",
+    "name": "Tamban Jaya",
+    "district": "tamban-catur"
+  }
+]

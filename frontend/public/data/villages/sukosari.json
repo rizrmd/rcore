@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pecalongan",
+    "name": "Pecalongan",
+    "district": "sukosari"
+  },
+  {
+    "id": "nogosari",
+    "name": "Nogosari",
+    "district": "sukosari"
+  },
+  {
+    "id": "sukosari-lor",
+    "name": "Sukosari Lor",
+    "district": "sukosari"
+  },
+  {
+    "id": "kerang",
+    "name": "Kerang",
+    "district": "sukosari"
+  }
+]

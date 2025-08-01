@@ -1,0 +1,27 @@
+[
+  {
+    "id": "isnum",
+    "name": "Isnum",
+    "district": "ayamaru-selatan-jaya"
+  },
+  {
+    "id": "arus",
+    "name": "Arus",
+    "district": "ayamaru-selatan-jaya"
+  },
+  {
+    "id": "kofait",
+    "name": "Kofait",
+    "district": "ayamaru-selatan-jaya"
+  },
+  {
+    "id": "fait-nggre",
+    "name": "Fait Nggre",
+    "district": "ayamaru-selatan-jaya"
+  },
+  {
+    "id": "faitsimar",
+    "name": "Faitsimar",
+    "district": "ayamaru-selatan-jaya"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pattallikang",
+    "name": "Pattallikang",
+    "district": "manuju"
+  },
+  {
+    "id": "moncongloe",
+    "name": "Moncongloe",
+    "district": "manuju"
+  },
+  {
+    "id": "manuju",
+    "name": "Manuju",
+    "district": "manuju"
+  },
+  {
+    "id": "tamalatea",
+    "name": "Tamalatea",
+    "district": "manuju"
+  },
+  {
+    "id": "bilalang",
+    "name": "Bilalang",
+    "district": "manuju"
+  },
+  {
+    "id": "tassese",
+    "name": "Tassese",
+    "district": "manuju"
+  },
+  {
+    "id": "tana-karaeng",
+    "name": "Tana Karaeng",
+    "district": "manuju"
+  }
+]

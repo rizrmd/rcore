@@ -1,0 +1,32 @@
+[
+  {
+    "id": "salubarana",
+    "name": "Salubarana",
+    "district": "sampaga"
+  },
+  {
+    "id": "kalonding",
+    "name": "Kalonding",
+    "district": "sampaga"
+  },
+  {
+    "id": "tanambuah",
+    "name": "Tanambuah",
+    "district": "sampaga"
+  },
+  {
+    "id": "tarailu",
+    "name": "Tarailu",
+    "district": "sampaga"
+  },
+  {
+    "id": "sampaga",
+    "name": "Sampaga",
+    "district": "sampaga"
+  },
+  {
+    "id": "losso",
+    "name": "Losso",
+    "district": "sampaga"
+  }
+]

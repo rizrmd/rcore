@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tolai",
+    "name": "Tolai",
+    "district": "torue"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "torue"
+  },
+  {
+    "id": "torue",
+    "name": "Torue",
+    "district": "torue"
+  },
+  {
+    "id": "astina",
+    "name": "Astina",
+    "district": "torue"
+  },
+  {
+    "id": "tanah-lanto",
+    "name": "Tanah Lanto",
+    "district": "torue"
+  },
+  {
+    "id": "tolai-barat",
+    "name": "Tolai Barat",
+    "district": "torue"
+  },
+  {
+    "id": "tolai-timur",
+    "name": "Tolai Timur",
+    "district": "torue"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lebakgedong",
+    "name": "Lebakgedong",
+    "district": "lebakgedong"
+  },
+  {
+    "id": "lebaksitu",
+    "name": "Lebaksitu",
+    "district": "lebakgedong"
+  },
+  {
+    "id": "ciladaeun",
+    "name": "Ciladaeun",
+    "district": "lebakgedong"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "lebakgedong"
+  },
+  {
+    "id": "lebaksangka",
+    "name": "Lebaksangka",
+    "district": "lebakgedong"
+  },
+  {
+    "id": "banjar-irigasi",
+    "name": "Banjar Irigasi",
+    "district": "lebakgedong"
+  }
+]

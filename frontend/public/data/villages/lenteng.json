@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bilapora-reba",
+    "name": "Bilapora Reba",
+    "district": "lenteng"
+  },
+  {
+    "id": "moncek-barat",
+    "name": "Moncek Barat",
+    "district": "lenteng"
+  },
+  {
+    "id": "moncek-tengah",
+    "name": "Moncek Tengah",
+    "district": "lenteng"
+  },
+  {
+    "id": "moncek-timur",
+    "name": "Moncek Timur",
+    "district": "lenteng"
+  },
+  {
+    "id": "banaresep-barat",
+    "name": "Banaresep Barat",
+    "district": "lenteng"
+  },
+  {
+    "id": "lembung-barat",
+    "name": "Lembung Barat",
+    "district": "lenteng"
+  },
+  {
+    "id": "lembung-timur",
+    "name": "Lembung Timur",
+    "district": "lenteng"
+  },
+  {
+    "id": "banaresep-timur",
+    "name": "Banaresep Timur",
+    "district": "lenteng"
+  },
+  {
+    "id": "kambingan-barat",
+    "name": "Kambingan Barat",
+    "district": "lenteng"
+  },
+  {
+    "id": "tarogan",
+    "name": "Tarogan",
+    "district": "lenteng"
+  },
+  {
+    "id": "poreh",
+    "name": "Poreh",
+    "district": "lenteng"
+  },
+  {
+    "id": "cangkreng",
+    "name": "Cangkreng",
+    "district": "lenteng"
+  },
+  {
+    "id": "medelan",
+    "name": "Medelan",
+    "district": "lenteng"
+  },
+  {
+    "id": "sendir",
+    "name": "Sendir",
+    "district": "lenteng"
+  },
+  {
+    "id": "daramesta",
+    "name": "Daramesta",
+    "district": "lenteng"
+  },
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "lenteng"
+  },
+  {
+    "id": "ellak-daya",
+    "name": "Ellak Daya",
+    "district": "lenteng"
+  },
+  {
+    "id": "ellak-laok",
+    "name": "Ellak Laok",
+    "district": "lenteng"
+  },
+  {
+    "id": "lenteng-timur",
+    "name": "Lenteng Timur",
+    "district": "lenteng"
+  },
+  {
+    "id": "lenteng-barat",
+    "name": "Lenteng Barat",
+    "district": "lenteng"
+  }
+]

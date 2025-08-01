@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tarjun",
+    "name": "Tarjun",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "mandala",
+    "name": "Mandala",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "langadai",
+    "name": "Langadai",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "pelaju-baru",
+    "name": "Pelaju Baru",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "serongga",
+    "name": "Serongga",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "tegal-rejo",
+    "name": "Tegal Rejo",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "telaga-sari",
+    "name": "Telaga Sari",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "pulau-panci",
+    "name": "Pulau Panci",
+    "district": "kelumpang-hilir"
+  },
+  {
+    "id": "sahapi",
+    "name": "Sahapi",
+    "district": "kelumpang-hilir"
+  }
+]

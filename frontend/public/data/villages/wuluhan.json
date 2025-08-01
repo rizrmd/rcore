@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lojejer",
+    "name": "Lojejer",
+    "district": "wuluhan"
+  },
+  {
+    "id": "ampel",
+    "name": "Ampel",
+    "district": "wuluhan"
+  },
+  {
+    "id": "tanjung-rejo",
+    "name": "Tanjung Rejo",
+    "district": "wuluhan"
+  },
+  {
+    "id": "kesilir",
+    "name": "Kesilir",
+    "district": "wuluhan"
+  },
+  {
+    "id": "dukuh-dempok",
+    "name": "Dukuh Dempok",
+    "district": "wuluhan"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "wuluhan"
+  },
+  {
+    "id": "glundengan",
+    "name": "Glundengan",
+    "district": "wuluhan"
+  }
+]

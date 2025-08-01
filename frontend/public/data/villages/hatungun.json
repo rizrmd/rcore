@@ -1,0 +1,42 @@
+[
+  {
+    "id": "matang-batas",
+    "name": "Matang Batas",
+    "district": "hatungun"
+  },
+  {
+    "id": "burakai",
+    "name": "Burakai",
+    "district": "hatungun"
+  },
+  {
+    "id": "hatungun",
+    "name": "Hatungun",
+    "district": "hatungun"
+  },
+  {
+    "id": "tarungin",
+    "name": "Tarungin",
+    "district": "hatungun"
+  },
+  {
+    "id": "bagak",
+    "name": "Bagak",
+    "district": "hatungun"
+  },
+  {
+    "id": "asam-randah",
+    "name": "Asam Randah",
+    "district": "hatungun"
+  },
+  {
+    "id": "batu-hapu",
+    "name": "Batu Hapu",
+    "district": "hatungun"
+  },
+  {
+    "id": "kambang-kuning",
+    "name": "Kambang Kuning",
+    "district": "hatungun"
+  }
+]

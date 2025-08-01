@@ -1,0 +1,37 @@
+[
+  {
+    "id": "patampanua",
+    "name": "Patampanua",
+    "district": "matakali"
+  },
+  {
+    "id": "matakali",
+    "name": "Matakali",
+    "district": "matakali"
+  },
+  {
+    "id": "tonro-lima",
+    "name": "Tonro Lima",
+    "district": "matakali"
+  },
+  {
+    "id": "indumakkombong",
+    "name": "Indumakkombong",
+    "district": "matakali"
+  },
+  {
+    "id": "barumbung",
+    "name": "Barumbung",
+    "district": "matakali"
+  },
+  {
+    "id": "pasiang",
+    "name": "Pasiang",
+    "district": "matakali"
+  },
+  {
+    "id": "bunga-bunga",
+    "name": "Bunga Bunga",
+    "district": "matakali"
+  }
+]

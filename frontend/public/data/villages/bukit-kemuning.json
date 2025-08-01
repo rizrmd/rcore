@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "tanjung-baru-timur",
+    "name": "Tanjung Baru Timur",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "bukit-kemuning",
+    "name": "Bukit Kemuning",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "muara-aman",
+    "name": "Muara Aman",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "suka-menanti",
+    "name": "Suka Menanti",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "tanjung-waras",
+    "name": "Tanjung Waras",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "dwikora",
+    "name": "Dwikora",
+    "district": "bukit-kemuning"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "bukit-kemuning"
+  }
+]

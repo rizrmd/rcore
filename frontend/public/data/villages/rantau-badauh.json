@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sungai-pantai",
+    "name": "Sungai Pantai",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "pindahan-baru",
+    "name": "Pindahan Baru",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "danda-jaya",
+    "name": "Danda Jaya",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "sungai-gampa-asahi",
+    "name": "Sungai Gampa Asahi",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "sungai-bamban",
+    "name": "Sungai Bamban",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "sungai-gampa",
+    "name": "Sungai Gampa",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "sungai-sahurai",
+    "name": "Sungai Sahurai",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "simpang-arja",
+    "name": "Simpang Arja",
+    "district": "rantau-badauh"
+  },
+  {
+    "id": "sinar-baru",
+    "name": "Sinar Baru",
+    "district": "rantau-badauh"
+  }
+]

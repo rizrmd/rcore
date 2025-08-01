@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tamedung",
+    "name": "Tamedung",
+    "district": "batang-batang"
+  },
+  {
+    "id": "batangbatang-laok",
+    "name": "Batangbatang Laok",
+    "district": "batang-batang"
+  },
+  {
+    "id": "totosan",
+    "name": "Totosan",
+    "district": "batang-batang"
+  },
+  {
+    "id": "banuaju-barat",
+    "name": "Banuaju Barat",
+    "district": "batang-batang"
+  },
+  {
+    "id": "banuaju-timur",
+    "name": "Banuaju Timur",
+    "district": "batang-batang"
+  },
+  {
+    "id": "jenangger",
+    "name": "Jenangger",
+    "district": "batang-batang"
+  },
+  {
+    "id": "nyabakan-timur",
+    "name": "Nyabakan Timur",
+    "district": "batang-batang"
+  },
+  {
+    "id": "lombang",
+    "name": "Lombang",
+    "district": "batang-batang"
+  },
+  {
+    "id": "bilangan",
+    "name": "Bilangan",
+    "district": "batang-batang"
+  },
+  {
+    "id": "dapenda",
+    "name": "Dapenda",
+    "district": "batang-batang"
+  },
+  {
+    "id": "legung-timur",
+    "name": "Legung Timur",
+    "district": "batang-batang"
+  },
+  {
+    "id": "legung-barat",
+    "name": "Legung Barat",
+    "district": "batang-batang"
+  },
+  {
+    "id": "jangkong",
+    "name": "Jangkong",
+    "district": "batang-batang"
+  },
+  {
+    "id": "nyabakan-barat",
+    "name": "Nyabakan Barat",
+    "district": "batang-batang"
+  },
+  {
+    "id": "batangbatang-daya",
+    "name": "Batangbatang Daya",
+    "district": "batang-batang"
+  },
+  {
+    "id": "kolpo",
+    "name": "Kolpo",
+    "district": "batang-batang"
+  }
+]

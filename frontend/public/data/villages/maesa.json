@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pakadoodan",
+    "name": "Pakadoodan",
+    "district": "maesa"
+  },
+  {
+    "id": "bitung-barat-satu",
+    "name": "Bitung Barat Satu",
+    "district": "maesa"
+  },
+  {
+    "id": "bitung-barat-dua",
+    "name": "Bitung Barat Dua",
+    "district": "maesa"
+  },
+  {
+    "id": "kakenturan-satu",
+    "name": "Kakenturan Satu",
+    "district": "maesa"
+  },
+  {
+    "id": "kakenturan-dua",
+    "name": "Kakenturan Dua",
+    "district": "maesa"
+  },
+  {
+    "id": "bitung-tengah",
+    "name": "Bitung Tengah",
+    "district": "maesa"
+  },
+  {
+    "id": "bitung-timur",
+    "name": "Bitung Timur",
+    "district": "maesa"
+  },
+  {
+    "id": "pateten-tiga",
+    "name": "Pateten Tiga",
+    "district": "maesa"
+  }
+]

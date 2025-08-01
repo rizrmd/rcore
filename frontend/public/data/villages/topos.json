@@ -1,0 +1,42 @@
+[
+  {
+    "id": "topos",
+    "name": "Topos",
+    "district": "topos"
+  },
+  {
+    "id": "tik-sirong",
+    "name": "Tik Sirong",
+    "district": "topos"
+  },
+  {
+    "id": "suka-negeri",
+    "name": "Suka Negeri",
+    "district": "topos"
+  },
+  {
+    "id": "ajai-siang",
+    "name": "Ajai Siang",
+    "district": "topos"
+  },
+  {
+    "id": "talang-donok",
+    "name": "Talang Donok",
+    "district": "topos"
+  },
+  {
+    "id": "talang-donok-i",
+    "name": "Talang Donok I",
+    "district": "topos"
+  },
+  {
+    "id": "talang-baru-i",
+    "name": "Talang Baru I",
+    "district": "topos"
+  },
+  {
+    "id": "talang-baru-ii",
+    "name": "Talang Baru Ii",
+    "district": "topos"
+  }
+]

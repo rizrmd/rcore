@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tadang-palie",
+    "name": "Tadang Palie",
+    "district": "cempa"
+  },
+  {
+    "id": "salipolo",
+    "name": "Salipolo",
+    "district": "cempa"
+  },
+  {
+    "id": "sikkuale",
+    "name": "Sikkuale",
+    "district": "cempa"
+  },
+  {
+    "id": "mattunru-tunrue",
+    "name": "Mattunru Tunrue",
+    "district": "cempa"
+  },
+  {
+    "id": "cempa",
+    "name": "Cempa",
+    "district": "cempa"
+  },
+  {
+    "id": "tanra-tuo",
+    "name": "Tanra Tuo",
+    "district": "cempa"
+  },
+  {
+    "id": "mangki",
+    "name": "Mangki",
+    "district": "cempa"
+  }
+]

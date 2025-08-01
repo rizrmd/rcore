@@ -1,0 +1,27 @@
+[
+  {
+    "id": "baloi-indah",
+    "name": "Baloi Indah",
+    "district": "lubuk-baja"
+  },
+  {
+    "id": "batu-selicin",
+    "name": "Batu Selicin",
+    "district": "lubuk-baja"
+  },
+  {
+    "id": "kampung-pelita",
+    "name": "Kampung Pelita",
+    "district": "lubuk-baja"
+  },
+  {
+    "id": "lubuk-baja-kota",
+    "name": "Lubuk Baja Kota",
+    "district": "lubuk-baja"
+  },
+  {
+    "id": "tanjung-uma",
+    "name": "Tanjung Uma",
+    "district": "lubuk-baja"
+  }
+]

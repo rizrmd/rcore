@@ -1,0 +1,72 @@
+[
+  {
+    "id": "boga-tama",
+    "name": "Boga Tama",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "tri-rejo-mulyo",
+    "name": "Tri Rejo Mulyo",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "tri-jaya",
+    "name": "Tri Jaya",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "tri-tunggal-jaya",
+    "name": "Tri Tunggal Jaya",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "wiratama",
+    "name": "Wiratama",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "pulo-gadung",
+    "name": "Pulo Gadung",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "dwimulyo",
+    "name": "Dwimulyo",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "rejo-sari",
+    "name": "Rejo Sari",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "wira-agung-sari",
+    "name": "Wira Agung Sari",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "sidomakmur",
+    "name": "Sidomakmur",
+    "district": "penawar-tama"
+  },
+  {
+    "id": "trikarya",
+    "name": "Trikarya",
+    "district": "penawar-tama"
+  }
+]

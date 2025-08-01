@@ -1,0 +1,52 @@
+[
+  {
+    "id": "latellang",
+    "name": "Latellang",
+    "district": "patimpeng"
+  },
+  {
+    "id": "patimpeng",
+    "name": "Patimpeng",
+    "district": "patimpeng"
+  },
+  {
+    "id": "maddanrengpulu",
+    "name": "Maddanrengpulu",
+    "district": "patimpeng"
+  },
+  {
+    "id": "batulappa",
+    "name": "Batulappa",
+    "district": "patimpeng"
+  },
+  {
+    "id": "masago",
+    "name": "Masago",
+    "district": "patimpeng"
+  },
+  {
+    "id": "massila",
+    "name": "Massila",
+    "district": "patimpeng"
+  },
+  {
+    "id": "paccing",
+    "name": "Paccing",
+    "district": "patimpeng"
+  },
+  {
+    "id": "bulu-ulaweng",
+    "name": "Bulu Ulaweng",
+    "district": "patimpeng"
+  },
+  {
+    "id": "talabangi",
+    "name": "Talabangi",
+    "district": "patimpeng"
+  },
+  {
+    "id": "pationgi",
+    "name": "Pationgi",
+    "district": "patimpeng"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "somi",
+    "name": "Somi",
+    "district": "bomakia"
+  },
+  {
+    "id": "bomakia-i",
+    "name": "Bomakia I",
+    "district": "bomakia"
+  },
+  {
+    "id": "bomakia-ii",
+    "name": "Bomakia Ii",
+    "district": "bomakia"
+  },
+  {
+    "id": "aifo",
+    "name": "Aifo",
+    "district": "bomakia"
+  },
+  {
+    "id": "uni",
+    "name": "Uni",
+    "district": "bomakia"
+  }
+]

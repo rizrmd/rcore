@@ -1,0 +1,42 @@
+[
+  {
+    "id": "toto-mulyo",
+    "name": "Toto Mulyo",
+    "district": "way-bungur"
+  },
+  {
+    "id": "tegal-ombo",
+    "name": "Tegal Ombo",
+    "district": "way-bungur"
+  },
+  {
+    "id": "toto-projo",
+    "name": "Toto Projo",
+    "district": "way-bungur"
+  },
+  {
+    "id": "taman-negeri",
+    "name": "Taman Negeri",
+    "district": "way-bungur"
+  },
+  {
+    "id": "tanjung-kencono",
+    "name": "Tanjung Kencono",
+    "district": "way-bungur"
+  },
+  {
+    "id": "tambah-subur",
+    "name": "Tambah Subur",
+    "district": "way-bungur"
+  },
+  {
+    "id": "tanjung-tirto",
+    "name": "Tanjung Tirto",
+    "district": "way-bungur"
+  },
+  {
+    "id": "kali-pasir",
+    "name": "Kali Pasir",
+    "district": "way-bungur"
+  }
+]

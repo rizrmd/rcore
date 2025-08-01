@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karang-baru",
+    "name": "Karang Baru",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "muara-telang-marga",
+    "name": "Muara Telang Marga",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "sri-tiga",
+    "name": "Sri Tiga",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "muara-telang",
+    "name": "Muara Telang",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "terusan-muara",
+    "name": "Terusan Muara",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "terusan-tengah",
+    "name": "Terusan Tengah",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "terusan-dalam",
+    "name": "Terusan Dalam",
+    "district": "sumber-marga-telang"
+  },
+  {
+    "id": "talang-lubuk",
+    "name": "Talang Lubuk",
+    "district": "sumber-marga-telang"
+  }
+]

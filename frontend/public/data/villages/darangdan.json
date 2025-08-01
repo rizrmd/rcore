@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pasirangin",
+    "name": "Pasirangin",
+    "district": "darangdan"
+  },
+  {
+    "id": "nangewer",
+    "name": "Nangewer",
+    "district": "darangdan"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "darangdan"
+  },
+  {
+    "id": "linggasari",
+    "name": "Linggasari",
+    "district": "darangdan"
+  },
+  {
+    "id": "sawit",
+    "name": "Sawit",
+    "district": "darangdan"
+  },
+  {
+    "id": "sirnamanah",
+    "name": "Sirnamanah",
+    "district": "darangdan"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "darangdan"
+  },
+  {
+    "id": "legoksari",
+    "name": "Legoksari",
+    "district": "darangdan"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "darangdan"
+  },
+  {
+    "id": "gununghejo",
+    "name": "Gununghejo",
+    "district": "darangdan"
+  },
+  {
+    "id": "darangdan",
+    "name": "Darangdan",
+    "district": "darangdan"
+  },
+  {
+    "id": "sadarkarya",
+    "name": "Sadarkarya",
+    "district": "darangdan"
+  },
+  {
+    "id": "linggamukti",
+    "name": "Linggamukti",
+    "district": "darangdan"
+  },
+  {
+    "id": "cilingga",
+    "name": "Cilingga",
+    "district": "darangdan"
+  },
+  {
+    "id": "nagrak",
+    "name": "Nagrak",
+    "district": "darangdan"
+  }
+]

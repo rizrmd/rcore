@@ -1,0 +1,22 @@
+[
+  {
+    "id": "telaga-tujuh",
+    "name": "Telaga Tujuh",
+    "district": "durai"
+  },
+  {
+    "id": "sanglar",
+    "name": "Sanglar",
+    "district": "durai"
+  },
+  {
+    "id": "semembang",
+    "name": "Semembang",
+    "district": "durai"
+  },
+  {
+    "id": "tanjung-kilang",
+    "name": "Tanjung Kilang",
+    "district": "durai"
+  }
+]

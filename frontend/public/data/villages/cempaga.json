@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sungai-paring",
+    "name": "Sungai Paring",
+    "district": "cempaga"
+  },
+  {
+    "id": "cempaka-mulia-barat",
+    "name": "Cempaka Mulia Barat",
+    "district": "cempaga"
+  },
+  {
+    "id": "cempaka-mulia-timur",
+    "name": "Cempaka Mulia Timur",
+    "district": "cempaga"
+  },
+  {
+    "id": "jemaras",
+    "name": "Jemaras",
+    "district": "cempaga"
+  },
+  {
+    "id": "lubuk-ranggan",
+    "name": "Lubuk Ranggan",
+    "district": "cempaga"
+  },
+  {
+    "id": "patai",
+    "name": "Patai",
+    "district": "cempaga"
+  }
+]

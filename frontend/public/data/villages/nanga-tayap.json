@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sungai-kelik",
+    "name": "Sungai Kelik",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "lembah-hijau-ii",
+    "name": "Lembah Hijau Ii",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "lembah-hijau-i",
+    "name": "Lembah Hijau I",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "nanga-tayap",
+    "name": "Nanga Tayap",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "siantau-raya",
+    "name": "Siantau Raya",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "batumas",
+    "name": "Batumas",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "pangkalan-suka",
+    "name": "Pangkalan Suka",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "pangkalan-telok",
+    "name": "Pangkalan Telok",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "sebadak-raya",
+    "name": "Sebadak Raya",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "simpang-tiga-sembelangaan",
+    "name": "Simpang Tiga Sembelangaan",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "mensubang",
+    "name": "Mensubang",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "tajok-kayong",
+    "name": "Tajok Kayong",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "kayong-utara",
+    "name": "Kayong Utara",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "kayong-hulu",
+    "name": "Kayong Hulu",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "sepakat-jaya",
+    "name": "Sepakat Jaya",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "cegolak",
+    "name": "Cegolak",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "pateh-benteng",
+    "name": "Pateh Benteng",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "nanga-tayap"
+  },
+  {
+    "id": "kayung-tuhe",
+    "name": "Kayung Tuhe",
+    "district": "nanga-tayap"
+  }
+]

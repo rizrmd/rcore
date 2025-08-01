@@ -1,0 +1,32 @@
+[
+  {
+    "id": "patriot",
+    "name": "Patriot",
+    "district": "arimop"
+  },
+  {
+    "id": "ginggimob",
+    "name": "Ginggimob",
+    "district": "arimop"
+  },
+  {
+    "id": "maju",
+    "name": "Maju",
+    "district": "arimop"
+  },
+  {
+    "id": "bukit",
+    "name": "Bukit",
+    "district": "arimop"
+  },
+  {
+    "id": "arimbit",
+    "name": "Arimbit",
+    "district": "arimop"
+  },
+  {
+    "id": "aroa",
+    "name": "Aroa",
+    "district": "arimop"
+  }
+]

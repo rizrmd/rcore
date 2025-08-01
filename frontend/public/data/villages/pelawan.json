@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pematang-kulim",
+    "name": "Pematang Kulim",
+    "district": "pelawan"
+  },
+  {
+    "id": "batu-putih",
+    "name": "Batu Putih",
+    "district": "pelawan"
+  },
+  {
+    "id": "pelawan",
+    "name": "Pelawan",
+    "district": "pelawan"
+  },
+  {
+    "id": "sungai-merah",
+    "name": "Sungai Merah",
+    "district": "pelawan"
+  },
+  {
+    "id": "penegah",
+    "name": "Penegah",
+    "district": "pelawan"
+  },
+  {
+    "id": "pulau-aro",
+    "name": "Pulau Aro",
+    "district": "pelawan"
+  },
+  {
+    "id": "bukit",
+    "name": "Bukit",
+    "district": "pelawan"
+  },
+  {
+    "id": "lubuk-sepuh",
+    "name": "Lubuk Sepuh",
+    "district": "pelawan"
+  },
+  {
+    "id": "muara-danau",
+    "name": "Muara Danau",
+    "district": "pelawan"
+  },
+  {
+    "id": "rantau-tenang",
+    "name": "Rantau Tenang",
+    "district": "pelawan"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "pelawan"
+  },
+  {
+    "id": "pasarpelawan",
+    "name": "Pasarpelawan",
+    "district": "pelawan"
+  },
+  {
+    "id": "pelawan-jaya",
+    "name": "Pelawan Jaya",
+    "district": "pelawan"
+  },
+  {
+    "id": "lubuksayak",
+    "name": "Lubuksayak",
+    "district": "pelawan"
+  }
+]

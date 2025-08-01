@@ -1,0 +1,37 @@
+[
+  {
+    "id": "daha",
+    "name": "Daha",
+    "district": "huu"
+  },
+  {
+    "id": "rasabou",
+    "name": "Rasabou",
+    "district": "huu"
+  },
+  {
+    "id": "cempi-jaya",
+    "name": "Cempi Jaya",
+    "district": "huu"
+  },
+  {
+    "id": "adu",
+    "name": "Adu",
+    "district": "huu"
+  },
+  {
+    "id": "sawe",
+    "name": "Sawe",
+    "district": "huu"
+  },
+  {
+    "id": "persiapan-jala",
+    "name": "Persiapan Jala",
+    "district": "huu"
+  },
+  {
+    "id": "marada",
+    "name": "Marada",
+    "district": "huu"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "janji-lobi",
+    "name": "Janji Lobi",
+    "district": "barumun"
+  },
+  {
+    "id": "sayur-matua",
+    "name": "Sayur Matua",
+    "district": "barumun"
+  },
+  {
+    "id": "hutarimbaru",
+    "name": "Hutarimbaru",
+    "district": "barumun"
+  },
+  {
+    "id": "tano-bato",
+    "name": "Tano Bato",
+    "district": "barumun"
+  },
+  {
+    "id": "tanjung-botung",
+    "name": "Tanjung Botung",
+    "district": "barumun"
+  },
+  {
+    "id": "tanjung-durian",
+    "name": "Tanjung Durian",
+    "district": "barumun"
+  },
+  {
+    "id": "sitarolo-julu",
+    "name": "Sitarolo Julu",
+    "district": "barumun"
+  },
+  {
+    "id": "mompang",
+    "name": "Mompang",
+    "district": "barumun"
+  },
+  {
+    "id": "sabahotang",
+    "name": "Sabahotang",
+    "district": "barumun"
+  },
+  {
+    "id": "sigorbus-julu",
+    "name": "Sigorbus Julu",
+    "district": "barumun"
+  },
+  {
+    "id": "sigurbus-jae",
+    "name": "Sigurbus Jae",
+    "district": "barumun"
+  },
+  {
+    "id": "hasahatan-julu",
+    "name": "Hasahatan Julu",
+    "district": "barumun"
+  },
+  {
+    "id": "hasahatan-jae",
+    "name": "Hasahatan Jae",
+    "district": "barumun"
+  },
+  {
+    "id": "psr-sibuhuan",
+    "name": "Psr Sibuhuan",
+    "district": "barumun"
+  },
+  {
+    "id": "pancaukan",
+    "name": "Pancaukan",
+    "district": "barumun"
+  },
+  {
+    "id": "bulu-sonik",
+    "name": "Bulu Sonik",
+    "district": "barumun"
+  },
+  {
+    "id": "pgr-baringin",
+    "name": "Pgr Baringin",
+    "district": "barumun"
+  },
+  {
+    "id": "arse-simatorkis",
+    "name": "Arse Simatorkis",
+    "district": "barumun"
+  },
+  {
+    "id": "sibuhuan-julu",
+    "name": "Sibuhuan Julu",
+    "district": "barumun"
+  },
+  {
+    "id": "bangun-raya",
+    "name": "Bangun Raya",
+    "district": "barumun"
+  },
+  {
+    "id": "purbatua",
+    "name": "Purbatua",
+    "district": "barumun"
+  },
+  {
+    "id": "sialam-bue",
+    "name": "Sialam Bue",
+    "district": "barumun"
+  },
+  {
+    "id": "sibuhuan-jae",
+    "name": "Sibuhuan Jae",
+    "district": "barumun"
+  },
+  {
+    "id": "handis-julu",
+    "name": "Handis Julu",
+    "district": "barumun"
+  },
+  {
+    "id": "siolip",
+    "name": "Siolip",
+    "district": "barumun"
+  },
+  {
+    "id": "saba-riba",
+    "name": "Saba Riba",
+    "district": "barumun"
+  },
+  {
+    "id": "limbong",
+    "name": "Limbong",
+    "district": "barumun"
+  },
+  {
+    "id": "simaninggir",
+    "name": "Simaninggir",
+    "district": "barumun"
+  },
+  {
+    "id": "binabo-jae",
+    "name": "Binabo Jae",
+    "district": "barumun"
+  },
+  {
+    "id": "binabo-julu",
+    "name": "Binabo Julu",
+    "district": "barumun"
+  }
+]

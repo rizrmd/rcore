@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sulingan",
+    "name": "Sulingan",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "pembataan",
+    "name": "Pembataan",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "mabuun",
+    "name": "Mabuun",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "maburai",
+    "name": "Maburai",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "belimbing-raya",
+    "name": "Belimbing Raya",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "belimbing",
+    "name": "Belimbing",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "kapar",
+    "name": "Kapar",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "masukau",
+    "name": "Masukau",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "kasiau",
+    "name": "Kasiau",
+    "district": "murung-pudak"
+  },
+  {
+    "id": "kasiau-raya",
+    "name": "Kasiau Raya",
+    "district": "murung-pudak"
+  }
+]

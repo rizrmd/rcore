@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gemawang",
+    "name": "Gemawang",
+    "district": "jambu"
+  },
+  {
+    "id": "bedono",
+    "name": "Bedono",
+    "district": "jambu"
+  },
+  {
+    "id": "kelurahan",
+    "name": "Kelurahan",
+    "district": "jambu"
+  },
+  {
+    "id": "brongkol",
+    "name": "Brongkol",
+    "district": "jambu"
+  },
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "jambu"
+  },
+  {
+    "id": "gondoriyo",
+    "name": "Gondoriyo",
+    "district": "jambu"
+  },
+  {
+    "id": "kuwarasan",
+    "name": "Kuwarasan",
+    "district": "jambu"
+  },
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "jambu"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "jambu"
+  },
+  {
+    "id": "genting",
+    "name": "Genting",
+    "district": "jambu"
+  }
+]

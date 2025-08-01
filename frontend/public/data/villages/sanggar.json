@@ -1,0 +1,32 @@
+[
+  {
+    "id": "oi-saro",
+    "name": "Oi Saro",
+    "district": "sanggar"
+  },
+  {
+    "id": "piong",
+    "name": "Piong",
+    "district": "sanggar"
+  },
+  {
+    "id": "boro",
+    "name": "Boro",
+    "district": "sanggar"
+  },
+  {
+    "id": "kore",
+    "name": "Kore",
+    "district": "sanggar"
+  },
+  {
+    "id": "taloko",
+    "name": "Taloko",
+    "district": "sanggar"
+  },
+  {
+    "id": "sandue",
+    "name": "Sandue",
+    "district": "sanggar"
+  }
+]

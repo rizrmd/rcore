@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karang-raja",
+    "name": "Karang Raja",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "muara-dua",
+    "name": "Muara Dua",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "gunung-ibul-barat",
+    "name": "Gunung Ibul Barat",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "gunung-ibul",
+    "name": "Gunung Ibul",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "karang-jaya",
+    "name": "Karang Jaya",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "tugu-kecil",
+    "name": "Tugu Kecil",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "prabu-jaya",
+    "name": "Prabu Jaya",
+    "district": "prabumulih-timur"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "prabumulih-timur"
+  }
+]

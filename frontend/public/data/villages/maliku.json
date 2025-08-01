@@ -1,0 +1,77 @@
+[
+  {
+    "id": "gandang",
+    "name": "Gandang",
+    "district": "maliku"
+  },
+  {
+    "id": "garantung",
+    "name": "Garantung",
+    "district": "maliku"
+  },
+  {
+    "id": "maliku-baru",
+    "name": "Maliku Baru",
+    "district": "maliku"
+  },
+  {
+    "id": "badirih",
+    "name": "Badirih",
+    "district": "maliku"
+  },
+  {
+    "id": "tahai-jaya",
+    "name": "Tahai Jaya",
+    "district": "maliku"
+  },
+  {
+    "id": "tahai-baru",
+    "name": "Tahai Baru",
+    "district": "maliku"
+  },
+  {
+    "id": "kanamit",
+    "name": "Kanamit",
+    "district": "maliku"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "maliku"
+  },
+  {
+    "id": "wono-agung",
+    "name": "Wono Agung",
+    "district": "maliku"
+  },
+  {
+    "id": "kanamit-barat",
+    "name": "Kanamit Barat",
+    "district": "maliku"
+  },
+  {
+    "id": "sei-baru-tewu",
+    "name": "Sei Baru Tewu",
+    "district": "maliku"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "maliku"
+  },
+  {
+    "id": "kanamit-jaya",
+    "name": "Kanamit Jaya",
+    "district": "maliku"
+  },
+  {
+    "id": "gandang-barat",
+    "name": "Gandang Barat",
+    "district": "maliku"
+  },
+  {
+    "id": "maliku-mulya",
+    "name": "Maliku Mulya",
+    "district": "maliku"
+  }
+]

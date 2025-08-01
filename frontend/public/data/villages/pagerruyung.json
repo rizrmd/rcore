@@ -1,0 +1,67 @@
+[
+  {
+    "id": "gondoharum",
+    "name": "Gondoharum",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "getas-blawong",
+    "name": "Getas Blawong",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "parakan-sebaran",
+    "name": "Parakan Sebaran",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "krikil",
+    "name": "Krikil",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "pucakwangi",
+    "name": "Pucakwangi",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "pageruyung",
+    "name": "Pageruyung",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "tambahrejo",
+    "name": "Tambahrejo",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "gebangan",
+    "name": "Gebangan",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "surokonto-wetan",
+    "name": "Surokonto Wetan",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "kebon-gembong",
+    "name": "Kebon Gembong",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "surokonto-kulon",
+    "name": "Surokonto Kulon",
+    "district": "pagerruyung"
+  },
+  {
+    "id": "pagergunung",
+    "name": "Pagergunung",
+    "district": "pagerruyung"
+  }
+]

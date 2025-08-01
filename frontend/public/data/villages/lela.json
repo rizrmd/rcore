@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kolidetung",
+    "name": "Kolidetung",
+    "district": "lela"
+  },
+  {
+    "id": "korowuwu",
+    "name": "Korowuwu",
+    "district": "lela"
+  },
+  {
+    "id": "hepang",
+    "name": "Hepang",
+    "district": "lela"
+  },
+  {
+    "id": "lela",
+    "name": "Lela",
+    "district": "lela"
+  },
+  {
+    "id": "watutedang",
+    "name": "Watutedang",
+    "district": "lela"
+  },
+  {
+    "id": "sikka",
+    "name": "Sikka",
+    "district": "lela"
+  },
+  {
+    "id": "iligai",
+    "name": "Iligai",
+    "district": "lela"
+  },
+  {
+    "id": "baopaat",
+    "name": "Baopaat",
+    "district": "lela"
+  }
+]

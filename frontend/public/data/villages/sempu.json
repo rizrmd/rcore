@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tegalarum",
+    "name": "Tegalarum",
+    "district": "sempu"
+  },
+  {
+    "id": "jambewangi",
+    "name": "Jambewangi",
+    "district": "sempu"
+  },
+  {
+    "id": "temuasri",
+    "name": "Temuasri",
+    "district": "sempu"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "sempu"
+  },
+  {
+    "id": "gendoh",
+    "name": "Gendoh",
+    "district": "sempu"
+  }
+]

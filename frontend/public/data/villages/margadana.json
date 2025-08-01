@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kaligangsa",
+    "name": "Kaligangsa",
+    "district": "margadana"
+  },
+  {
+    "id": "krandon",
+    "name": "Krandon",
+    "district": "margadana"
+  },
+  {
+    "id": "cabawan",
+    "name": "Cabawan",
+    "district": "margadana"
+  },
+  {
+    "id": "margadana",
+    "name": "Margadana",
+    "district": "margadana"
+  },
+  {
+    "id": "kalinyamat-kulon",
+    "name": "Kalinyamat Kulon",
+    "district": "margadana"
+  },
+  {
+    "id": "sumurpanggang",
+    "name": "Sumurpanggang",
+    "district": "margadana"
+  },
+  {
+    "id": "pesurungan-lor",
+    "name": "Pesurungan Lor",
+    "district": "margadana"
+  }
+]

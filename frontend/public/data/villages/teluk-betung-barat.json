@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "teluk-betung-barat"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "teluk-betung-barat"
+  },
+  {
+    "id": "negeri-olok-gading",
+    "name": "Negeri Olok Gading",
+    "district": "teluk-betung-barat"
+  },
+  {
+    "id": "sukarame-ii",
+    "name": "Sukarame Ii",
+    "district": "teluk-betung-barat"
+  },
+  {
+    "id": "batu-putuk",
+    "name": "Batu Putuk",
+    "district": "teluk-betung-barat"
+  }
+]

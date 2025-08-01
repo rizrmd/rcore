@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pondok-keumuning",
+    "name": "Pondok Keumuning",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "seulalah",
+    "name": "Seulalah",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "pondok-pabrik",
+    "name": "Pondok Pabrik",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "meurandeh",
+    "name": "Meurandeh",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "asam-peutek",
+    "name": "Asam Peutek",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "baroh-langsa-lama",
+    "name": "Baroh Langsa Lama",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "seulalah-baru",
+    "name": "Seulalah Baru",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "suka-jadi-kebun-ireng",
+    "name": "Suka Jadi Kebun Ireng",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "meurandeh-tengah",
+    "name": "Meurandeh Tengah",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "meurandeh-dayah",
+    "name": "Meurandeh Dayah",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "meurandeh-aceh",
+    "name": "Meurandeh Aceh",
+    "district": "langsa-lama"
+  },
+  {
+    "id": "bate-puteh",
+    "name": "Bate Puteh",
+    "district": "langsa-lama"
+  }
+]

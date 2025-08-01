@@ -1,0 +1,47 @@
+[
+  {
+    "id": "penanggungan",
+    "name": "Penanggungan",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "tanjung-kurung",
+    "name": "Tanjung Kurung",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "bumi-genap",
+    "name": "Bumi Genap",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "gedung-nyawa",
+    "name": "Gedung Nyawa",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "gedung-wani",
+    "name": "Gedung Wani",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "sura",
+    "name": "Sura",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "merpang",
+    "name": "Merpang",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "karang-endah",
+    "name": "Karang Endah",
+    "district": "runjung-agung"
+  },
+  {
+    "id": "air-baru",
+    "name": "Air Baru",
+    "district": "runjung-agung"
+  }
+]

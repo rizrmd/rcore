@@ -1,0 +1,22 @@
+[
+  {
+    "id": "baruga",
+    "name": "Baruga",
+    "district": "baruga"
+  },
+  {
+    "id": "lepo-lepo",
+    "name": "Lepo-Lepo",
+    "district": "baruga"
+  },
+  {
+    "id": "watubangga",
+    "name": "Watubangga",
+    "district": "baruga"
+  },
+  {
+    "id": "wundudopi",
+    "name": "Wundudopi",
+    "district": "baruga"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sundamekar",
+    "name": "Sundamekar",
+    "district": "cisitu"
+  },
+  {
+    "id": "cimarga",
+    "name": "Cimarga",
+    "district": "cisitu"
+  },
+  {
+    "id": "cinangsi",
+    "name": "Cinangsi",
+    "district": "cisitu"
+  },
+  {
+    "id": "linggajaya",
+    "name": "Linggajaya",
+    "district": "cisitu"
+  },
+  {
+    "id": "situmekar",
+    "name": "Situmekar",
+    "district": "cisitu"
+  },
+  {
+    "id": "cisitu",
+    "name": "Cisitu",
+    "district": "cisitu"
+  },
+  {
+    "id": "cigintung",
+    "name": "Cigintung",
+    "district": "cisitu"
+  },
+  {
+    "id": "ranjeng",
+    "name": "Ranjeng",
+    "district": "cisitu"
+  },
+  {
+    "id": "cilopang",
+    "name": "Cilopang",
+    "district": "cisitu"
+  },
+  {
+    "id": "pajagan",
+    "name": "Pajagan",
+    "district": "cisitu"
+  }
+]

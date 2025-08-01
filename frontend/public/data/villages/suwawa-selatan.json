@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bulontala",
+    "name": "Bulontala",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "libungo",
+    "name": "Libungo",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "molintogupo",
+    "name": "Molintogupo",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "bonedaa",
+    "name": "Bonedaa",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "bondawuna",
+    "name": "Bondawuna",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "bulontala-timur",
+    "name": "Bulontala Timur",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "pancuran",
+    "name": "Pancuran",
+    "district": "suwawa-selatan"
+  },
+  {
+    "id": "bonda-raya",
+    "name": "Bonda Raya",
+    "district": "suwawa-selatan"
+  }
+]

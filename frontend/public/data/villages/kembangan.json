@@ -1,0 +1,27 @@
+[
+  {
+    "id": "joglo",
+    "name": "Joglo",
+    "district": "kembangan"
+  },
+  {
+    "id": "meruya-selatan",
+    "name": "Meruya Selatan",
+    "district": "kembangan"
+  },
+  {
+    "id": "meruya-utara",
+    "name": "Meruya Utara",
+    "district": "kembangan"
+  },
+  {
+    "id": "kembangan-selatan",
+    "name": "Kembangan Selatan",
+    "district": "kembangan"
+  },
+  {
+    "id": "kembangan-utara",
+    "name": "Kembangan Utara",
+    "district": "kembangan"
+  }
+]

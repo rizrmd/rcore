@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sigedang",
+    "name": "Sigedang",
+    "district": "kejajar"
+  },
+  {
+    "id": "tambi",
+    "name": "Tambi",
+    "district": "kejajar"
+  },
+  {
+    "id": "kreo",
+    "name": "Kreo",
+    "district": "kejajar"
+  },
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "kejajar"
+  },
+  {
+    "id": "kejajar",
+    "name": "Kejajar",
+    "district": "kejajar"
+  },
+  {
+    "id": "igirmranak",
+    "name": "Igirmranak",
+    "district": "kejajar"
+  },
+  {
+    "id": "tieng",
+    "name": "Tieng",
+    "district": "kejajar"
+  },
+  {
+    "id": "parikesit",
+    "name": "Parikesit",
+    "district": "kejajar"
+  },
+  {
+    "id": "sembungan",
+    "name": "Sembungan",
+    "district": "kejajar"
+  },
+  {
+    "id": "jojogan",
+    "name": "Jojogan",
+    "district": "kejajar"
+  },
+  {
+    "id": "patakbanteng",
+    "name": "Patakbanteng",
+    "district": "kejajar"
+  },
+  {
+    "id": "dieng",
+    "name": "Dieng",
+    "district": "kejajar"
+  },
+  {
+    "id": "sikunang",
+    "name": "Sikunang",
+    "district": "kejajar"
+  },
+  {
+    "id": "campursari",
+    "name": "Campursari",
+    "district": "kejajar"
+  }
+]

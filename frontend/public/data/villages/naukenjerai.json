@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kondo",
+    "name": "Kondo",
+    "district": "naukenjerai"
+  },
+  {
+    "id": "tomerau",
+    "name": "Tomerau",
+    "district": "naukenjerai"
+  },
+  {
+    "id": "tomer",
+    "name": "Tomer",
+    "district": "naukenjerai"
+  },
+  {
+    "id": "onggaya",
+    "name": "Onggaya",
+    "district": "naukenjerai"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ngargorejo",
+    "name": "Ngargorejo",
+    "district": "ngemplak"
+  },
+  {
+    "id": "sobokerto",
+    "name": "Sobokerto",
+    "district": "ngemplak"
+  },
+  {
+    "id": "gagaksipat",
+    "name": "Gagaksipat",
+    "district": "ngemplak"
+  },
+  {
+    "id": "donohudan",
+    "name": "Donohudan",
+    "district": "ngemplak"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "ngemplak"
+  },
+  {
+    "id": "pandeyan",
+    "name": "Pandeyan",
+    "district": "ngemplak"
+  },
+  {
+    "id": "kismoyoso",
+    "name": "Kismoyoso",
+    "district": "ngemplak"
+  },
+  {
+    "id": "dibal",
+    "name": "Dibal",
+    "district": "ngemplak"
+  },
+  {
+    "id": "sindon",
+    "name": "Sindon",
+    "district": "ngemplak"
+  },
+  {
+    "id": "manggung",
+    "name": "Manggung",
+    "district": "ngemplak"
+  },
+  {
+    "id": "giriroto",
+    "name": "Giriroto",
+    "district": "ngemplak"
+  },
+  {
+    "id": "wedomartani",
+    "name": "Wedomartani",
+    "district": "ngemplak"
+  },
+  {
+    "id": "umbulmartani",
+    "name": "Umbulmartani",
+    "district": "ngemplak"
+  },
+  {
+    "id": "widodo-martani",
+    "name": "Widodo Martani",
+    "district": "ngemplak"
+  },
+  {
+    "id": "bimo-martani",
+    "name": "Bimo Martani",
+    "district": "ngemplak"
+  },
+  {
+    "id": "sindumartani",
+    "name": "Sindumartani",
+    "district": "ngemplak"
+  }
+]

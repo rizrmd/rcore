@@ -1,0 +1,52 @@
+[
+  {
+    "id": "maliwowo",
+    "name": "Maliwowo",
+    "district": "angkona"
+  },
+  {
+    "id": "tampinna",
+    "name": "Tampinna",
+    "district": "angkona"
+  },
+  {
+    "id": "lamaeto",
+    "name": "Lamaeto",
+    "district": "angkona"
+  },
+  {
+    "id": "solo",
+    "name": "Solo",
+    "district": "angkona"
+  },
+  {
+    "id": "tawakua",
+    "name": "Tawakua",
+    "district": "angkona"
+  },
+  {
+    "id": "balirejo",
+    "name": "Balirejo",
+    "district": "angkona"
+  },
+  {
+    "id": "mantadulu",
+    "name": "Mantadulu",
+    "district": "angkona"
+  },
+  {
+    "id": "taripa",
+    "name": "Taripa",
+    "district": "angkona"
+  },
+  {
+    "id": "watangpanua",
+    "name": "Watangpanua",
+    "district": "angkona"
+  },
+  {
+    "id": "wanasari",
+    "name": "Wanasari",
+    "district": "angkona"
+  }
+]

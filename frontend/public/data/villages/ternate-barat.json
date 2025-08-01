@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kulaba",
+    "name": "Kulaba",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "bula",
+    "name": "Bula",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "tobololo",
+    "name": "Tobololo",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "togafo",
+    "name": "Togafo",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "sulamadaha",
+    "name": "Sulamadaha",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "loto",
+    "name": "Loto",
+    "district": "ternate-barat"
+  },
+  {
+    "id": "takome",
+    "name": "Takome",
+    "district": "ternate-barat"
+  }
+]

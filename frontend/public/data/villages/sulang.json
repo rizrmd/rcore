@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "sulang"
+  },
+  {
+    "id": "kemadu",
+    "name": "Kemadu",
+    "district": "sulang"
+  },
+  {
+    "id": "sulang",
+    "name": "Sulang",
+    "district": "sulang"
+  },
+  {
+    "id": "pomahan",
+    "name": "Pomahan",
+    "district": "sulang"
+  },
+  {
+    "id": "korowelang",
+    "name": "Korowelang",
+    "district": "sulang"
+  },
+  {
+    "id": "karangharjo",
+    "name": "Karangharjo",
+    "district": "sulang"
+  },
+  {
+    "id": "jatimudo",
+    "name": "Jatimudo",
+    "district": "sulang"
+  },
+  {
+    "id": "kunir",
+    "name": "Kunir",
+    "district": "sulang"
+  },
+  {
+    "id": "bogorame",
+    "name": "Bogorame",
+    "district": "sulang"
+  },
+  {
+    "id": "kaliombo",
+    "name": "Kaliombo",
+    "district": "sulang"
+  },
+  {
+    "id": "sudo",
+    "name": "Sudo",
+    "district": "sulang"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "sulang"
+  },
+  {
+    "id": "pragu",
+    "name": "Pragu",
+    "district": "sulang"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "sulang"
+  },
+  {
+    "id": "pranti",
+    "name": "Pranti",
+    "district": "sulang"
+  },
+  {
+    "id": "pedak",
+    "name": "Pedak",
+    "district": "sulang"
+  },
+  {
+    "id": "landoh",
+    "name": "Landoh",
+    "district": "sulang"
+  }
+]

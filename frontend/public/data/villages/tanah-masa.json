@@ -1,0 +1,62 @@
+[
+  {
+    "id": "makole",
+    "name": "Makole",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "jeke",
+    "name": "Jeke",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "sifauruasi",
+    "name": "Sifauruasi",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "saeru-melayu",
+    "name": "Saeru Melayu",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "bawoanalita-saeru",
+    "name": "Bawoanalita Saeru",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "bawo-orudua",
+    "name": "Bawo Orudua",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "hale-baluta",
+    "name": "Hale Baluta",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "bawo-ofuloa",
+    "name": "Bawo Ofuloa",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "baluta",
+    "name": "Baluta",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "eho-baluta",
+    "name": "Eho Baluta",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "hiligeho-sogawu",
+    "name": "Hiligeho Sogawu",
+    "district": "tanah-masa"
+  },
+  {
+    "id": "hiliomasio",
+    "name": "Hiliomasio",
+    "district": "tanah-masa"
+  }
+]

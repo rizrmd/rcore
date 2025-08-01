@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lintang",
+    "name": "Lintang",
+    "district": "simpang-renggiang"
+  },
+  {
+    "id": "aik-madu",
+    "name": "Aik Madu",
+    "district": "simpang-renggiang"
+  },
+  {
+    "id": "renggiang",
+    "name": "Renggiang",
+    "district": "simpang-renggiang"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "simpang-renggiang"
+  }
+]

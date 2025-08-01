@@ -1,0 +1,42 @@
+[
+  {
+    "id": "upt-arso-x-yaturaharja",
+    "name": "Upt Arso X / Yaturaharja",
+    "district": "arso-barat"
+  },
+  {
+    "id": "upt-arso-xi-ifia-fia",
+    "name": "Upt Arso Xi / Ifia-Fia",
+    "district": "arso-barat"
+  },
+  {
+    "id": "upt-arso-vi-yammua",
+    "name": "Upt Arso Vi / Yammua",
+    "district": "arso-barat"
+  },
+  {
+    "id": "upt-arso-viii-dukwia",
+    "name": "Upt Arso Viii / Dukwia",
+    "district": "arso-barat"
+  },
+  {
+    "id": "upt-arso-i-sanggaria",
+    "name": "Upt Arso I / Sanggaria",
+    "district": "arso-barat"
+  },
+  {
+    "id": "upt-arso-vii-warbo",
+    "name": "Upt Arso Vii / Warbo",
+    "district": "arso-barat"
+  },
+  {
+    "id": "yowong",
+    "name": "Yowong",
+    "district": "arso-barat"
+  },
+  {
+    "id": "baburia",
+    "name": "Baburia",
+    "district": "arso-barat"
+  }
+]

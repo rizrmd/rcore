@@ -1,0 +1,37 @@
+[
+  {
+    "id": "buruway",
+    "name": "Buruway",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "teluk-arguni",
+    "name": "Teluk Arguni",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "teluk-arguni-bawah",
+    "name": "Teluk Arguni Bawah",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "kaimana",
+    "name": "Kaimana",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "kambrau",
+    "name": "Kambrau",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "teluk-etna",
+    "name": "Teluk Etna",
+    "regency": "kabupaten-kaimana"
+  },
+  {
+    "id": "yamor",
+    "name": "Yamor",
+    "regency": "kabupaten-kaimana"
+  }
+]

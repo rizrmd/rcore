@@ -1,0 +1,47 @@
+[
+  {
+    "id": "epomani",
+    "name": "Epomani",
+    "district": "siriwo"
+  },
+  {
+    "id": "ugida",
+    "name": "Ugida",
+    "district": "siriwo"
+  },
+  {
+    "id": "tibai",
+    "name": "Tibai",
+    "district": "siriwo"
+  },
+  {
+    "id": "siriwo-unipo",
+    "name": "Siriwo/ Unipo",
+    "district": "siriwo"
+  },
+  {
+    "id": "aibore",
+    "name": "Aibore",
+    "district": "siriwo"
+  },
+  {
+    "id": "mabou",
+    "name": "Mabou",
+    "district": "siriwo"
+  },
+  {
+    "id": "ikotu-bua",
+    "name": "Ikotu / Bua",
+    "district": "siriwo"
+  },
+  {
+    "id": "siriwo",
+    "name": "Siriwo",
+    "district": "siriwo"
+  },
+  {
+    "id": "kepi-todia",
+    "name": "Kepi / Todia",
+    "district": "siriwo"
+  }
+]

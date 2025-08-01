@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pontenikma",
+    "name": "Pontenikma",
+    "district": "panggema"
+  },
+  {
+    "id": "kuni",
+    "name": "Kuni",
+    "district": "panggema"
+  },
+  {
+    "id": "panggema",
+    "name": "Panggema",
+    "district": "panggema"
+  },
+  {
+    "id": "homtonggo",
+    "name": "Homtonggo",
+    "district": "panggema"
+  },
+  {
+    "id": "tukam",
+    "name": "Tukam",
+    "district": "panggema"
+  },
+  {
+    "id": "yangkali",
+    "name": "Yangkali",
+    "district": "panggema"
+  },
+  {
+    "id": "weresili",
+    "name": "Weresili",
+    "district": "panggema"
+  },
+  {
+    "id": "kolu",
+    "name": "Kolu",
+    "district": "panggema"
+  },
+  {
+    "id": "binteluk",
+    "name": "Binteluk",
+    "district": "panggema"
+  },
+  {
+    "id": "kemumanggen",
+    "name": "Kemumanggen",
+    "district": "panggema"
+  },
+  {
+    "id": "tonggoi",
+    "name": "Tonggoi",
+    "district": "panggema"
+  },
+  {
+    "id": "masahan",
+    "name": "Masahan",
+    "district": "panggema"
+  }
+]

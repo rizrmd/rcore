@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gombong",
+    "name": "Gombong",
+    "district": "belik"
+  },
+  {
+    "id": "belik",
+    "name": "Belik",
+    "district": "belik"
+  },
+  {
+    "id": "gunungtiga",
+    "name": "Gunungtiga",
+    "district": "belik"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "belik"
+  },
+  {
+    "id": "badak",
+    "name": "Badak",
+    "district": "belik"
+  },
+  {
+    "id": "gunungjaya",
+    "name": "Gunungjaya",
+    "district": "belik"
+  },
+  {
+    "id": "simpur",
+    "name": "Simpur",
+    "district": "belik"
+  },
+  {
+    "id": "bulakan",
+    "name": "Bulakan",
+    "district": "belik"
+  },
+  {
+    "id": "sikasur",
+    "name": "Sikasur",
+    "district": "belik"
+  },
+  {
+    "id": "kalisaleh",
+    "name": "Kalisaleh",
+    "district": "belik"
+  }
+]

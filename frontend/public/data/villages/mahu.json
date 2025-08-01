@@ -1,0 +1,32 @@
+[
+  {
+    "id": "patamawai",
+    "name": "Patamawai",
+    "district": "mahu"
+  },
+  {
+    "id": "la-hiru",
+    "name": "La Hiru",
+    "district": "mahu"
+  },
+  {
+    "id": "wairara",
+    "name": "Wairara",
+    "district": "mahu"
+  },
+  {
+    "id": "prai-kalala",
+    "name": "Prai Kalala",
+    "district": "mahu"
+  },
+  {
+    "id": "lulundilu",
+    "name": "Lulundilu",
+    "district": "mahu"
+  },
+  {
+    "id": "haray",
+    "name": "Haray",
+    "district": "mahu"
+  }
+]

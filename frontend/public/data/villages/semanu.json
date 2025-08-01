@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pacarejo",
+    "name": "Pacarejo",
+    "district": "semanu"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "semanu"
+  },
+  {
+    "id": "dadapayu",
+    "name": "Dadapayu",
+    "district": "semanu"
+  },
+  {
+    "id": "ngeposari",
+    "name": "Ngeposari",
+    "district": "semanu"
+  },
+  {
+    "id": "semanu",
+    "name": "Semanu",
+    "district": "semanu"
+  }
+]

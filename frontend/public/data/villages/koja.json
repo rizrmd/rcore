@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rawabadak-selatan",
+    "name": "Rawabadak Selatan",
+    "district": "koja"
+  },
+  {
+    "id": "tugu-selatan",
+    "name": "Tugu Selatan",
+    "district": "koja"
+  },
+  {
+    "id": "tugu-utara",
+    "name": "Tugu Utara",
+    "district": "koja"
+  },
+  {
+    "id": "lagoa",
+    "name": "Lagoa",
+    "district": "koja"
+  },
+  {
+    "id": "rawabadak-utara",
+    "name": "Rawabadak Utara",
+    "district": "koja"
+  },
+  {
+    "id": "koja",
+    "name": "Koja",
+    "district": "koja"
+  }
+]

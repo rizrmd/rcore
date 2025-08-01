@@ -1,0 +1,42 @@
+[
+  {
+    "id": "klatim",
+    "name": "Klatim",
+    "district": "maudus"
+  },
+  {
+    "id": "bousui",
+    "name": "Bousui",
+    "district": "maudus"
+  },
+  {
+    "id": "klaos",
+    "name": "Klaos",
+    "district": "maudus"
+  },
+  {
+    "id": "luwelala",
+    "name": "Luwelala",
+    "district": "maudus"
+  },
+  {
+    "id": "klagen",
+    "name": "Klagen",
+    "district": "maudus"
+  },
+  {
+    "id": "kamuyar",
+    "name": "Kamuyar",
+    "district": "maudus"
+  },
+  {
+    "id": "klaka",
+    "name": "Klaka",
+    "district": "maudus"
+  },
+  {
+    "id": "safdesa",
+    "name": "Safdesa",
+    "district": "maudus"
+  }
+]

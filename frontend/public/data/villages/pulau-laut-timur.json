@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanjung-pengharapan",
+    "name": "Tanjung Pengharapan",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "batu-tunau",
+    "name": "Batu Tunau",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "sejakah",
+    "name": "Sejakah",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "bekambit",
+    "name": "Bekambit",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "bekambit-asri",
+    "name": "Bekambit Asri",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "langkang-baru",
+    "name": "Langkang Baru",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "karang-sari-indah",
+    "name": "Karang Sari Indah",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "sungai-limau",
+    "name": "Sungai Limau",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "langkang-lama",
+    "name": "Langkang Lama",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "kulipak",
+    "name": "Kulipak",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "berangas",
+    "name": "Berangas",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "teluk-mesjid",
+    "name": "Teluk Mesjid",
+    "district": "pulau-laut-timur"
+  },
+  {
+    "id": "teluk-gosong",
+    "name": "Teluk Gosong",
+    "district": "pulau-laut-timur"
+  }
+]

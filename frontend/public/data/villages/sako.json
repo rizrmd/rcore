@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "sako"
+  },
+  {
+    "id": "sialang",
+    "name": "Sialang",
+    "district": "sako"
+  },
+  {
+    "id": "sako",
+    "name": "Sako",
+    "district": "sako"
+  },
+  {
+    "id": "sako-baru",
+    "name": "Sako Baru",
+    "district": "sako"
+  }
+]

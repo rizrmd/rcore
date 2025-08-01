@@ -1,0 +1,37 @@
+[
+  {
+    "id": "parauto",
+    "name": "Parauto",
+    "district": "yaro"
+  },
+  {
+    "id": "bomopai",
+    "name": "Bomopai",
+    "district": "yaro"
+  },
+  {
+    "id": "ororodo",
+    "name": "Ororodo",
+    "district": "yaro"
+  },
+  {
+    "id": "yaro-makmur",
+    "name": "Yaro Makmur",
+    "district": "yaro"
+  },
+  {
+    "id": "jaya-mukti",
+    "name": "Jaya Mukti",
+    "district": "yaro"
+  },
+  {
+    "id": "wanggar-pantai",
+    "name": "Wanggar Pantai",
+    "district": "yaro"
+  },
+  {
+    "id": "epougi",
+    "name": "Epougi",
+    "district": "yaro"
+  }
+]

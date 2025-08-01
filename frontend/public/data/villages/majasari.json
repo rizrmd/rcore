@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "majasari"
+  },
+  {
+    "id": "karaton",
+    "name": "Karaton",
+    "district": "majasari"
+  },
+  {
+    "id": "cilaja",
+    "name": "Cilaja",
+    "district": "majasari"
+  },
+  {
+    "id": "saruni",
+    "name": "Saruni",
+    "district": "majasari"
+  },
+  {
+    "id": "pagerbatu",
+    "name": "Pagerbatu",
+    "district": "majasari"
+  }
+]

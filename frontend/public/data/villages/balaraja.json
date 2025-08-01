@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gembong",
+    "name": "Gembong",
+    "district": "balaraja"
+  },
+  {
+    "id": "cangkudu",
+    "name": "Cangkudu",
+    "district": "balaraja"
+  },
+  {
+    "id": "sentul-jaya",
+    "name": "Sentul Jaya",
+    "district": "balaraja"
+  },
+  {
+    "id": "talagasari",
+    "name": "Talagasari",
+    "district": "balaraja"
+  },
+  {
+    "id": "bala-raja",
+    "name": "Bala Raja",
+    "district": "balaraja"
+  },
+  {
+    "id": "tobat",
+    "name": "Tobat",
+    "district": "balaraja"
+  },
+  {
+    "id": "suka-murni",
+    "name": "Suka Murni",
+    "district": "balaraja"
+  },
+  {
+    "id": "saga",
+    "name": "Saga",
+    "district": "balaraja"
+  }
+]

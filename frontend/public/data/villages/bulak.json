@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kenjeran",
+    "name": "Kenjeran",
+    "district": "bulak"
+  },
+  {
+    "id": "bulak",
+    "name": "Bulak",
+    "district": "bulak"
+  },
+  {
+    "id": "kedung-cowek",
+    "name": "Kedung Cowek",
+    "district": "bulak"
+  },
+  {
+    "id": "sukolilo-baru",
+    "name": "Sukolilo Baru",
+    "district": "bulak"
+  }
+]

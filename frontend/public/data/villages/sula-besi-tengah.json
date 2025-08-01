@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bega",
+    "name": "Bega",
+    "district": "sula-besi-tengah"
+  },
+  {
+    "id": "fat-iba",
+    "name": "Fat-Iba",
+    "district": "sula-besi-tengah"
+  },
+  {
+    "id": "waiman",
+    "name": "Waiman",
+    "district": "sula-besi-tengah"
+  },
+  {
+    "id": "soamole",
+    "name": "Soamole",
+    "district": "sula-besi-tengah"
+  },
+  {
+    "id": "wai-boga",
+    "name": "Wai Boga",
+    "district": "sula-besi-tengah"
+  },
+  {
+    "id": "manaf",
+    "name": "Manaf",
+    "district": "sula-besi-tengah"
+  }
+]

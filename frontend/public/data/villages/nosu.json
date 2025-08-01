@@ -1,0 +1,37 @@
+[
+  {
+    "id": "nosu",
+    "name": "Nosu",
+    "district": "nosu"
+  },
+  {
+    "id": "masewe",
+    "name": "Masewe",
+    "district": "nosu"
+  },
+  {
+    "id": "batu-papan",
+    "name": "Batu Papan",
+    "district": "nosu"
+  },
+  {
+    "id": "minanga",
+    "name": "Minanga",
+    "district": "nosu"
+  },
+  {
+    "id": "siwi",
+    "name": "Siwi",
+    "district": "nosu"
+  },
+  {
+    "id": "minanga-timur",
+    "name": "Minanga Timur",
+    "district": "nosu"
+  },
+  {
+    "id": "parinding",
+    "name": "Parinding",
+    "district": "nosu"
+  }
+]

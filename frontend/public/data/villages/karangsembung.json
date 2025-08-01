@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tambelang",
+    "name": "Tambelang",
+    "district": "karangsembung"
+  },
+  {
+    "id": "karangsuwung",
+    "name": "Karangsuwung",
+    "district": "karangsembung"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "karangsembung"
+  },
+  {
+    "id": "kalimeang",
+    "name": "Kalimeang",
+    "district": "karangsembung"
+  },
+  {
+    "id": "karangmalang",
+    "name": "Karangmalang",
+    "district": "karangsembung"
+  },
+  {
+    "id": "karangmekar",
+    "name": "Karangmekar",
+    "district": "karangsembung"
+  },
+  {
+    "id": "kubangkarang",
+    "name": "Kubangkarang",
+    "district": "karangsembung"
+  },
+  {
+    "id": "karangsembung",
+    "name": "Karangsembung",
+    "district": "karangsembung"
+  }
+]

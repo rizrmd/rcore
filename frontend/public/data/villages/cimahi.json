@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cileuya",
+    "name": "Cileuya",
+    "district": "cimahi"
+  },
+  {
+    "id": "margamukti",
+    "name": "Margamukti",
+    "district": "cimahi"
+  },
+  {
+    "id": "cimulya",
+    "name": "Cimulya",
+    "district": "cimahi"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "cimahi"
+  },
+  {
+    "id": "cimahi",
+    "name": "Cimahi",
+    "district": "cimahi"
+  },
+  {
+    "id": "kananga",
+    "name": "Kananga",
+    "district": "cimahi"
+  },
+  {
+    "id": "cikeusal",
+    "name": "Cikeusal",
+    "district": "cimahi"
+  },
+  {
+    "id": "mulyajaya",
+    "name": "Mulyajaya",
+    "district": "cimahi"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "cimahi"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "cimahi"
+  }
+]

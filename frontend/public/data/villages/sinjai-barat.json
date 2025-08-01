@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gunung-perak",
+    "name": "Gunung Perak",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "balakia",
+    "name": "Balakia",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "tassililu",
+    "name": "Tassililu",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "arabika",
+    "name": "Arabika",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "barania",
+    "name": "Barania",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "boto-lempangan",
+    "name": "Boto Lempangan",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "bonto-salama",
+    "name": "Bonto Salama",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "turungan-baji",
+    "name": "Turungan Baji",
+    "district": "sinjai-barat"
+  },
+  {
+    "id": "terasa",
+    "name": "Terasa",
+    "district": "sinjai-barat"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "talise",
+    "name": "Talise",
+    "district": "mantikulore"
+  },
+  {
+    "id": "tanamodindi",
+    "name": "Tanamodindi",
+    "district": "mantikulore"
+  },
+  {
+    "id": "lasoani",
+    "name": "Lasoani",
+    "district": "mantikulore"
+  },
+  {
+    "id": "kawatuna",
+    "name": "Kawatuna",
+    "district": "mantikulore"
+  },
+  {
+    "id": "poboya",
+    "name": "Poboya",
+    "district": "mantikulore"
+  },
+  {
+    "id": "tondo",
+    "name": "Tondo",
+    "district": "mantikulore"
+  },
+  {
+    "id": "layana-indah",
+    "name": "Layana Indah",
+    "district": "mantikulore"
+  },
+  {
+    "id": "talise-valangguni",
+    "name": "Talise Valangguni",
+    "district": "mantikulore"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "langkapjaya",
+    "name": "Langkapjaya",
+    "district": "lengkong"
+  },
+  {
+    "id": "cilangkap",
+    "name": "Cilangkap",
+    "district": "lengkong"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "lengkong"
+  },
+  {
+    "id": "tegallega",
+    "name": "Tegallega",
+    "district": "lengkong"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "lengkong"
+  },
+  {
+    "id": "cijagra",
+    "name": "Cijagra",
+    "district": "lengkong"
+  },
+  {
+    "id": "turangga",
+    "name": "Turangga",
+    "district": "lengkong"
+  },
+  {
+    "id": "lingkar-selatan",
+    "name": "Lingkar Selatan",
+    "district": "lengkong"
+  },
+  {
+    "id": "malabar",
+    "name": "Malabar",
+    "district": "lengkong"
+  },
+  {
+    "id": "burangrang",
+    "name": "Burangrang",
+    "district": "lengkong"
+  },
+  {
+    "id": "cikawao",
+    "name": "Cikawao",
+    "district": "lengkong"
+  },
+  {
+    "id": "paledang",
+    "name": "Paledang",
+    "district": "lengkong"
+  },
+  {
+    "id": "banjar-dowo",
+    "name": "Banjar Dowo",
+    "district": "lengkong"
+  },
+  {
+    "id": "jati-punggur",
+    "name": "Jati Punggur",
+    "district": "lengkong"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "lengkong"
+  },
+  {
+    "id": "kedung-mlaten",
+    "name": "Kedung Mlaten",
+    "district": "lengkong"
+  },
+  {
+    "id": "prayungan",
+    "name": "Prayungan",
+    "district": "lengkong"
+  },
+  {
+    "id": "balong-asem",
+    "name": "Balong Asem",
+    "district": "lengkong"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "lengkong"
+  },
+  {
+    "id": "ngringin",
+    "name": "Ngringin",
+    "district": "lengkong"
+  },
+  {
+    "id": "ketandan",
+    "name": "Ketandan",
+    "district": "lengkong"
+  },
+  {
+    "id": "banggle",
+    "name": "Banggle",
+    "district": "lengkong"
+  },
+  {
+    "id": "sumbersono",
+    "name": "Sumbersono",
+    "district": "lengkong"
+  },
+  {
+    "id": "pinggir",
+    "name": "Pinggir",
+    "district": "lengkong"
+  },
+  {
+    "id": "sumbermiri",
+    "name": "Sumbermiri",
+    "district": "lengkong"
+  }
+]

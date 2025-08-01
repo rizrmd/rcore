@@ -1,0 +1,77 @@
+[
+  {
+    "id": "dimoro",
+    "name": "Dimoro",
+    "district": "toroh"
+  },
+  {
+    "id": "genengadal",
+    "name": "Genengadal",
+    "district": "toroh"
+  },
+  {
+    "id": "sindurejo",
+    "name": "Sindurejo",
+    "district": "toroh"
+  },
+  {
+    "id": "bandungharjo",
+    "name": "Bandungharjo",
+    "district": "toroh"
+  },
+  {
+    "id": "genengsari",
+    "name": "Genengsari",
+    "district": "toroh"
+  },
+  {
+    "id": "ngrandah",
+    "name": "Ngrandah",
+    "district": "toroh"
+  },
+  {
+    "id": "tunggak",
+    "name": "Tunggak",
+    "district": "toroh"
+  },
+  {
+    "id": "boloh",
+    "name": "Boloh",
+    "district": "toroh"
+  },
+  {
+    "id": "plosoharjo",
+    "name": "Plosoharjo",
+    "district": "toroh"
+  },
+  {
+    "id": "tambirejo",
+    "name": "Tambirejo",
+    "district": "toroh"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "toroh"
+  },
+  {
+    "id": "krangganharjo",
+    "name": "Krangganharjo",
+    "district": "toroh"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "toroh"
+  },
+  {
+    "id": "pilangpayung",
+    "name": "Pilangpayung",
+    "district": "toroh"
+  },
+  {
+    "id": "katong",
+    "name": "Katong",
+    "district": "toroh"
+  }
+]

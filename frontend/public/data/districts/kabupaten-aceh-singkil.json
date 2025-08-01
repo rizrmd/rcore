@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pulau-banyak",
+    "name": "Pulau Banyak",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "pulau-banyak-barat",
+    "name": "Pulau Banyak Barat",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "singkil",
+    "name": "Singkil",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "singkil-utara",
+    "name": "Singkil Utara",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "kuala-baru",
+    "name": "Kuala Baru",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "simpang-kanan",
+    "name": "Simpang Kanan",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "gunung-meriah",
+    "name": "Gunung Meriah",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "danau-paris",
+    "name": "Danau Paris",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "suro",
+    "name": "Suro",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "singkohor",
+    "name": "Singkohor",
+    "regency": "kabupaten-aceh-singkil"
+  },
+  {
+    "id": "kota-baharu",
+    "name": "Kota Baharu",
+    "regency": "kabupaten-aceh-singkil"
+  }
+]

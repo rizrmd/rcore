@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mam",
+    "name": "Mam",
+    "district": "mam"
+  },
+  {
+    "id": "wolmbam",
+    "name": "Wolmbam",
+    "district": "mam"
+  },
+  {
+    "id": "wanduama",
+    "name": "Wanduama",
+    "district": "mam"
+  },
+  {
+    "id": "lakda",
+    "name": "Lakda",
+    "district": "mam"
+  },
+  {
+    "id": "yebandui",
+    "name": "Yebandui",
+    "district": "mam"
+  },
+  {
+    "id": "laruid",
+    "name": "Laruid",
+    "district": "mam"
+  },
+  {
+    "id": "dendamba",
+    "name": "Dendamba",
+    "district": "mam"
+  },
+  {
+    "id": "kibiarem",
+    "name": "Kibiarem",
+    "district": "mam"
+  },
+  {
+    "id": "papuarem",
+    "name": "Papuarem",
+    "district": "mam"
+  },
+  {
+    "id": "kibo",
+    "name": "Kibo",
+    "district": "mam"
+  },
+  {
+    "id": "darakma",
+    "name": "Darakma",
+    "district": "mam"
+  }
+]

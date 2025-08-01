@@ -1,0 +1,27 @@
+[
+  {
+    "id": "buang",
+    "name": "Buang",
+    "district": "biaro"
+  },
+  {
+    "id": "lamanggo",
+    "name": "Lamanggo",
+    "district": "biaro"
+  },
+  {
+    "id": "dalinsaheng",
+    "name": "Dalinsaheng",
+    "district": "biaro"
+  },
+  {
+    "id": "karungo",
+    "name": "Karungo",
+    "district": "biaro"
+  },
+  {
+    "id": "tope",
+    "name": "Tope",
+    "district": "biaro"
+  }
+]

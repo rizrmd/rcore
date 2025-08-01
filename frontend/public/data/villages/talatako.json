@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kabalutan",
+    "name": "Kabalutan",
+    "district": "talatako"
+  },
+  {
+    "id": "pautu",
+    "name": "Pautu",
+    "district": "talatako"
+  },
+  {
+    "id": "kalia",
+    "name": "Kalia",
+    "district": "talatako"
+  },
+  {
+    "id": "tumotok",
+    "name": "Tumotok",
+    "district": "talatako"
+  },
+  {
+    "id": "malenge",
+    "name": "Malenge",
+    "district": "talatako"
+  },
+  {
+    "id": "kadoda",
+    "name": "Kadoda",
+    "district": "talatako"
+  }
+]

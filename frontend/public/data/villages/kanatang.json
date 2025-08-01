@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ndapayami",
+    "name": "Ndapayami",
+    "district": "kanatang"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "kanatang"
+  },
+  {
+    "id": "hamba-praing",
+    "name": "Hamba Praing",
+    "district": "kanatang"
+  },
+  {
+    "id": "mondu",
+    "name": "Mondu",
+    "district": "kanatang"
+  }
+]

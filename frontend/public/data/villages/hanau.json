@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tanjung-hanau",
+    "name": "Tanjung Hanau",
+    "district": "hanau"
+  },
+  {
+    "id": "parang-batang",
+    "name": "Parang Batang",
+    "district": "hanau"
+  },
+  {
+    "id": "bahaur",
+    "name": "Bahaur",
+    "district": "hanau"
+  },
+  {
+    "id": "pembuang-hulu-i",
+    "name": "Pembuang Hulu I",
+    "district": "hanau"
+  },
+  {
+    "id": "pembuang-hulu-ii",
+    "name": "Pembuang Hulu Ii",
+    "district": "hanau"
+  },
+  {
+    "id": "derangga",
+    "name": "Derangga",
+    "district": "hanau"
+  },
+  {
+    "id": "paring-raya",
+    "name": "Paring Raya",
+    "district": "hanau"
+  }
+]

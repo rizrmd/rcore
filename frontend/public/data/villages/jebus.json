@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tumbak-petar",
+    "name": "Tumbak Petar",
+    "district": "jebus"
+  },
+  {
+    "id": "limbung",
+    "name": "Limbung",
+    "district": "jebus"
+  },
+  {
+    "id": "rukam",
+    "name": "Rukam",
+    "district": "jebus"
+  },
+  {
+    "id": "ranggiasam",
+    "name": "Ranggi/Asam",
+    "district": "jebus"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "jebus"
+  },
+  {
+    "id": "ketap",
+    "name": "Ketap",
+    "district": "jebus"
+  },
+  {
+    "id": "mislak",
+    "name": "Mislak",
+    "district": "jebus"
+  },
+  {
+    "id": "air-kuang",
+    "name": "Air Kuang",
+    "district": "jebus"
+  },
+  {
+    "id": "pebuar",
+    "name": "Pebuar",
+    "district": "jebus"
+  },
+  {
+    "id": "sinar-manik",
+    "name": "Sinar Manik",
+    "district": "jebus"
+  }
+]

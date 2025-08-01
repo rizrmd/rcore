@@ -1,0 +1,67 @@
+[
+  {
+    "id": "simpang-banyak-julu",
+    "name": "Simpang Banyak Julu",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "simpang-banyak-jae",
+    "name": "Simpang Banyak Jae",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "habincaran",
+    "name": "Habincaran",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "huta-padang-up",
+    "name": "Huta Padang Up",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "huta-godang",
+    "name": "Huta Godang",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "alahan-kae",
+    "name": "Alahan Kae",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "patahajang",
+    "name": "Patahajang",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "tolang",
+    "name": "Tolang",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "hutarimbaru-up",
+    "name": "Hutarimbaru Up",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "simpang-duhu-lombang",
+    "name": "Simpang Duhu Lombang",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "simpang-duhu-dolok",
+    "name": "Simpang Duhu Dolok",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "simpang-pining",
+    "name": "Simpang Pining",
+    "district": "ulu-pungkut"
+  },
+  {
+    "id": "muara-saladi",
+    "name": "Muara Saladi",
+    "district": "ulu-pungkut"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "campaka",
+    "name": "Campaka",
+    "district": "andir"
+  },
+  {
+    "id": "maleber",
+    "name": "Maleber",
+    "district": "andir"
+  },
+  {
+    "id": "garuda",
+    "name": "Garuda",
+    "district": "andir"
+  },
+  {
+    "id": "dungus-cariang",
+    "name": "Dungus Cariang",
+    "district": "andir"
+  },
+  {
+    "id": "ciroyom",
+    "name": "Ciroyom",
+    "district": "andir"
+  },
+  {
+    "id": "kebon-jeruk",
+    "name": "Kebon Jeruk",
+    "district": "andir"
+  }
+]

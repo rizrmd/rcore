@@ -1,0 +1,22 @@
+[
+  {
+    "id": "masipawa",
+    "name": "Masipawa",
+    "district": "napan"
+  },
+  {
+    "id": "napan",
+    "name": "Napan",
+    "district": "napan"
+  },
+  {
+    "id": "weinami",
+    "name": "Weinami",
+    "district": "napan"
+  },
+  {
+    "id": "mosan",
+    "name": "Mosan",
+    "district": "napan"
+  }
+]

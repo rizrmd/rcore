@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ulak-kapal",
+    "name": "Ulak Kapal",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-merindu",
+    "name": "Tanjung Merindu",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "seri-tanjung",
+    "name": "Seri Tanjung",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "pengarayan",
+    "name": "Pengarayan",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "sukamulia",
+    "name": "Sukamulia",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "pulau-gemantung",
+    "name": "Pulau Gemantung",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "kotabumi",
+    "name": "Kotabumi",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-beringin",
+    "name": "Tanjung Beringin",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "juk-dadak",
+    "name": "Juk Dadak",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "ulak-balam",
+    "name": "Ulak Balam",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-laut",
+    "name": "Tanjung Laut",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-laga",
+    "name": "Tanjung Laga",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-lubuk",
+    "name": "Tanjung Lubuk",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "jambu-ilir",
+    "name": "Jambu Ilir",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "atar-balam",
+    "name": "Atar Balam",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "pulau-gemantung-darat",
+    "name": "Pulau Gemantung Darat",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "pulau-gemantung-ulu",
+    "name": "Pulau Gemantung Ulu",
+    "district": "tanjung-lubuk"
+  },
+  {
+    "id": "pulau-gemantung-ilir",
+    "name": "Pulau Gemantung Ilir",
+    "district": "tanjung-lubuk"
+  }
+]

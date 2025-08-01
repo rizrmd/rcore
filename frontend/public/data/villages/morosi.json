@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mendikonu",
+    "name": "Mendikonu",
+    "district": "morosi"
+  },
+  {
+    "id": "wonua-morini",
+    "name": "Wonua Morini",
+    "district": "morosi"
+  },
+  {
+    "id": "p-a-k-u",
+    "name": "P A K U",
+    "district": "morosi"
+  },
+  {
+    "id": "morosi",
+    "name": "Morosi",
+    "district": "morosi"
+  },
+  {
+    "id": "porara",
+    "name": "Porara",
+    "district": "morosi"
+  },
+  {
+    "id": "tanggobu",
+    "name": "Tanggobu",
+    "district": "morosi"
+  },
+  {
+    "id": "paku-jaya",
+    "name": "Paku Jaya",
+    "district": "morosi"
+  },
+  {
+    "id": "tondowatu",
+    "name": "Tondowatu",
+    "district": "morosi"
+  }
+]

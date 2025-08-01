@@ -1,0 +1,52 @@
+[
+  {
+    "id": "seruyan-hilir",
+    "name": "Seruyan Hilir",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "seruyan-hilir-timur",
+    "name": "Seruyan Hilir Timur",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "danau-sembuluh",
+    "name": "Danau Sembuluh",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "seruyan-raya",
+    "name": "Seruyan Raya",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "hanau",
+    "name": "Hanau",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "danau-seluluk",
+    "name": "Danau Seluluk",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "seruyan-tengah",
+    "name": "Seruyan Tengah",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "batu-ampar",
+    "name": "Batu Ampar",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "seruyan-hulu",
+    "name": "Seruyan Hulu",
+    "regency": "kabupaten-seruyan"
+  },
+  {
+    "id": "suling-tambun",
+    "name": "Suling Tambun",
+    "regency": "kabupaten-seruyan"
+  }
+]

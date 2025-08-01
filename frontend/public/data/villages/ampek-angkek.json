@@ -1,0 +1,37 @@
+[
+  {
+    "id": "batu-taba",
+    "name": "Batu Taba",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "pasia",
+    "name": "Pasia",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "balai-gurah",
+    "name": "Balai Gurah",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "ampang-gadang",
+    "name": "Ampang Gadang",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "biaro-gadang",
+    "name": "Biaro Gadang",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "lambah",
+    "name": "Lambah",
+    "district": "ampek-angkek"
+  },
+  {
+    "id": "panampuang",
+    "name": "Panampuang",
+    "district": "ampek-angkek"
+  }
+]

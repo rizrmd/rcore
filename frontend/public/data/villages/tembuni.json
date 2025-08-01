@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tembuni",
+    "name": "Tembuni",
+    "district": "tembuni"
+  },
+  {
+    "id": "araisum",
+    "name": "Araisum",
+    "district": "tembuni"
+  },
+  {
+    "id": "mogoy-baru",
+    "name": "Mogoy Baru",
+    "district": "tembuni"
+  },
+  {
+    "id": "bangun-mulia-stenkool-i",
+    "name": "Bangun Mulia (Stenkool I)",
+    "district": "tembuni"
+  },
+  {
+    "id": "membera",
+    "name": "Membera",
+    "district": "tembuni"
+  },
+  {
+    "id": "ciner",
+    "name": "Ciner",
+    "district": "tembuni"
+  },
+  {
+    "id": "muntop",
+    "name": "Muntop",
+    "district": "tembuni"
+  },
+  {
+    "id": "pangkalan-tussur",
+    "name": "Pangkalan / Tussur",
+    "district": "tembuni"
+  },
+  {
+    "id": "bangun-harjo",
+    "name": "Bangun Harjo",
+    "district": "tembuni"
+  }
+]

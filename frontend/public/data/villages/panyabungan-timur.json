@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "huta-rimbaru",
+    "name": "Huta Rimbaru",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "gunung-baringin",
+    "name": "Gunung Baringin",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "aek-nabara",
+    "name": "Aek Nabara",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "pagur",
+    "name": "Pagur",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "ranto-natas",
+    "name": "Ranto Natas",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "pardomuan",
+    "name": "Pardomuan",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "sirangkap",
+    "name": "Sirangkap",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "huta-tinggi",
+    "name": "Huta Tinggi",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "huta-bangun",
+    "name": "Huta Bangun",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "parmompang",
+    "name": "Parmompang",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "tanjung-julu",
+    "name": "Tanjung Julu",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "banjar-lancat",
+    "name": "Banjar Lancat",
+    "district": "panyabungan-timur"
+  },
+  {
+    "id": "padang-laru",
+    "name": "Padang Laru",
+    "district": "panyabungan-timur"
+  }
+]

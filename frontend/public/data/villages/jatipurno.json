@@ -1,0 +1,57 @@
+[
+  {
+    "id": "giriyoso",
+    "name": "Giriyoso",
+    "district": "jatipurno"
+  },
+  {
+    "id": "kopen",
+    "name": "Kopen",
+    "district": "jatipurno"
+  },
+  {
+    "id": "jatipurno",
+    "name": "Jatipurno",
+    "district": "jatipurno"
+  },
+  {
+    "id": "tawangrejo",
+    "name": "Tawangrejo",
+    "district": "jatipurno"
+  },
+  {
+    "id": "jatipurwo",
+    "name": "Jatipurwo",
+    "district": "jatipurno"
+  },
+  {
+    "id": "slogoretno",
+    "name": "Slogoretno",
+    "district": "jatipurno"
+  },
+  {
+    "id": "kembang",
+    "name": "Kembang",
+    "district": "jatipurno"
+  },
+  {
+    "id": "girimulyo",
+    "name": "Girimulyo",
+    "district": "jatipurno"
+  },
+  {
+    "id": "balepanjang",
+    "name": "Balepanjang",
+    "district": "jatipurno"
+  },
+  {
+    "id": "jeporo",
+    "name": "Jeporo",
+    "district": "jatipurno"
+  },
+  {
+    "id": "mangunharjo",
+    "name": "Mangunharjo",
+    "district": "jatipurno"
+  }
+]

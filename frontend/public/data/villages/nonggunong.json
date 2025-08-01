@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sokarame-paseser",
+    "name": "Sokarame Paseser",
+    "district": "nonggunong"
+  },
+  {
+    "id": "sokarame-timur",
+    "name": "Sokarame Timur",
+    "district": "nonggunong"
+  },
+  {
+    "id": "tanahmerah",
+    "name": "Tanahmerah",
+    "district": "nonggunong"
+  },
+  {
+    "id": "somber",
+    "name": "Somber",
+    "district": "nonggunong"
+  },
+  {
+    "id": "sonok",
+    "name": "Sonok",
+    "district": "nonggunong"
+  },
+  {
+    "id": "nonggunong",
+    "name": "Nonggunong",
+    "district": "nonggunong"
+  },
+  {
+    "id": "rosong",
+    "name": "Rosong",
+    "district": "nonggunong"
+  },
+  {
+    "id": "talaga",
+    "name": "Talaga",
+    "district": "nonggunong"
+  }
+]

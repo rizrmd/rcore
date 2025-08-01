@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lembang-tondon",
+    "name": "Lembang Tondon",
+    "district": "tondon"
+  },
+  {
+    "id": "lembang-tondon-matallo",
+    "name": "Lembang Tondon Matallo",
+    "district": "tondon"
+  },
+  {
+    "id": "lembang-tondon-langi",
+    "name": "Lembang Tondon Langi",
+    "district": "tondon"
+  },
+  {
+    "id": "lembang-tondon-sibata",
+    "name": "Lembang Tondon Siba'Ta",
+    "district": "tondon"
+  }
+]

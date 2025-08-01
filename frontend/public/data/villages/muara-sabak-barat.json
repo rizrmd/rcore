@@ -1,0 +1,37 @@
+[
+  {
+    "id": "parit-culum-ii",
+    "name": "Parit Culum Ii",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "parit-culum-i",
+    "name": "Parit Culum I",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "teluk-dawan",
+    "name": "Teluk Dawan",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "talang-babat",
+    "name": "Talang Babat",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "rano",
+    "name": "Rano",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "nibung-putih",
+    "name": "Nibung Putih",
+    "district": "muara-sabak-barat"
+  },
+  {
+    "id": "kampung-singkep",
+    "name": "Kampung Singkep",
+    "district": "muara-sabak-barat"
+  }
+]

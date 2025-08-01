@@ -1,0 +1,57 @@
+[
+  {
+    "id": "konawe",
+    "name": "Konawe",
+    "district": "konawe"
+  },
+  {
+    "id": "tudaone",
+    "name": "Tudaone",
+    "district": "konawe"
+  },
+  {
+    "id": "bungguosu",
+    "name": "Bungguosu",
+    "district": "konawe"
+  },
+  {
+    "id": "tawanga",
+    "name": "Tawanga",
+    "district": "konawe"
+  },
+  {
+    "id": "sanggona",
+    "name": "Sanggona",
+    "district": "konawe"
+  },
+  {
+    "id": "hudoa",
+    "name": "Hudoa",
+    "district": "konawe"
+  },
+  {
+    "id": "uelawu",
+    "name": "Uelawu",
+    "district": "konawe"
+  },
+  {
+    "id": "mokowu",
+    "name": "Mokowu",
+    "district": "konawe"
+  },
+  {
+    "id": "wonua-mbae",
+    "name": "Wonua Mbae",
+    "district": "konawe"
+  },
+  {
+    "id": "asoniwowo",
+    "name": "Asoniwowo",
+    "district": "konawe"
+  },
+  {
+    "id": "puuwonua",
+    "name": "Puuwonua",
+    "district": "konawe"
+  }
+]

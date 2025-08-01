@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pematang-limau",
+    "name": "Pematang Limau",
+    "district": "sepang"
+  },
+  {
+    "id": "tampelas",
+    "name": "Tampelas",
+    "district": "sepang"
+  },
+  {
+    "id": "sepang-kota",
+    "name": "Sepang Kota",
+    "district": "sepang"
+  },
+  {
+    "id": "sepang-simin",
+    "name": "Sepang Simin",
+    "district": "sepang"
+  },
+  {
+    "id": "tewai-baru",
+    "name": "Tewai Baru",
+    "district": "sepang"
+  },
+  {
+    "id": "tanjung-karitak",
+    "name": "Tanjung Karitak",
+    "district": "sepang"
+  },
+  {
+    "id": "rabauh",
+    "name": "Rabauh",
+    "district": "sepang"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "teposua",
+    "name": "Teposua",
+    "district": "loea"
+  },
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "loea"
+  },
+  {
+    "id": "lamoare",
+    "name": "Lamoare",
+    "district": "loea"
+  },
+  {
+    "id": "tinomu",
+    "name": "Tinomu",
+    "district": "loea"
+  },
+  {
+    "id": "iwoikondo",
+    "name": "Iwoikondo",
+    "district": "loea"
+  },
+  {
+    "id": "peatoa",
+    "name": "Peatoa",
+    "district": "loea"
+  },
+  {
+    "id": "lalowura",
+    "name": "Lalowura",
+    "district": "loea"
+  },
+  {
+    "id": "loea",
+    "name": "Loea",
+    "district": "loea"
+  },
+  {
+    "id": "simbalai",
+    "name": "Simbalai",
+    "district": "loea"
+  }
+]

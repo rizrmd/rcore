@@ -1,0 +1,72 @@
+[
+  {
+    "id": "karyabakti",
+    "name": "Karyabakti",
+    "district": "cidaun"
+  },
+  {
+    "id": "sukapura",
+    "name": "Sukapura",
+    "district": "cidaun"
+  },
+  {
+    "id": "cisalak",
+    "name": "Cisalak",
+    "district": "cidaun"
+  },
+  {
+    "id": "jayapura",
+    "name": "Jayapura",
+    "district": "cidaun"
+  },
+  {
+    "id": "kertajadi",
+    "name": "Kertajadi",
+    "district": "cidaun"
+  },
+  {
+    "id": "cidamar",
+    "name": "Cidamar",
+    "district": "cidaun"
+  },
+  {
+    "id": "karangwangi",
+    "name": "Karangwangi",
+    "district": "cidaun"
+  },
+  {
+    "id": "cimaragang",
+    "name": "Cimaragang",
+    "district": "cidaun"
+  },
+  {
+    "id": "gelarpawitan",
+    "name": "Gelarpawitan",
+    "district": "cidaun"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "cidaun"
+  },
+  {
+    "id": "cibuluh",
+    "name": "Cibuluh",
+    "district": "cidaun"
+  },
+  {
+    "id": "puncakbaru",
+    "name": "Puncakbaru",
+    "district": "cidaun"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "cidaun"
+  },
+  {
+    "id": "gelarwangi",
+    "name": "Gelarwangi",
+    "district": "cidaun"
+  }
+]

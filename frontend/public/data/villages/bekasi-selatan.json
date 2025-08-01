@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jaka-mulya",
+    "name": "Jaka Mulya",
+    "district": "bekasi-selatan"
+  },
+  {
+    "id": "jaka-setia",
+    "name": "Jaka Setia",
+    "district": "bekasi-selatan"
+  },
+  {
+    "id": "pekayon-jaya",
+    "name": "Pekayon Jaya",
+    "district": "bekasi-selatan"
+  },
+  {
+    "id": "marga-jaya",
+    "name": "Marga Jaya",
+    "district": "bekasi-selatan"
+  },
+  {
+    "id": "kayuringin-jaya",
+    "name": "Kayuringin Jaya",
+    "district": "bekasi-selatan"
+  }
+]

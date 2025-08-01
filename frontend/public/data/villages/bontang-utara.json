@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bontang-kuala",
+    "name": "Bontang Kuala",
+    "district": "bontang-utara"
+  },
+  {
+    "id": "bontang-baru",
+    "name": "Bontang Baru",
+    "district": "bontang-utara"
+  },
+  {
+    "id": "api-api",
+    "name": "Api-Api",
+    "district": "bontang-utara"
+  },
+  {
+    "id": "gunung-lai",
+    "name": "Gunung Lai",
+    "district": "bontang-utara"
+  },
+  {
+    "id": "lok-tuan",
+    "name": "Lok Tuan",
+    "district": "bontang-utara"
+  }
+]

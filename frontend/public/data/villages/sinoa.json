@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bonto-matene",
+    "name": "Bonto Matene",
+    "district": "sinoa"
+  },
+  {
+    "id": "bonto-tiro",
+    "name": "Bonto Tiro",
+    "district": "sinoa"
+  },
+  {
+    "id": "bonto-majannang",
+    "name": "Bonto Majannang",
+    "district": "sinoa"
+  },
+  {
+    "id": "bonto-karaeng",
+    "name": "Bonto Karaeng",
+    "district": "sinoa"
+  },
+  {
+    "id": "bonto-maccini",
+    "name": "Bonto Maccini",
+    "district": "sinoa"
+  },
+  {
+    "id": "bonto-bulaeng",
+    "name": "Bonto Bulaeng",
+    "district": "sinoa"
+  }
+]

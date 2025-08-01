@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kacang",
+    "name": "Kacang",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "tikalak",
+    "name": "Tikalak",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "singkarak",
+    "name": "Singkarak",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "sumani",
+    "name": "Sumani",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "saniang-baka",
+    "name": "Saniang Baka",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "koto-sani",
+    "name": "Koto Sani",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "tanjuang-alai",
+    "name": "Tanjuang Alai",
+    "district": "x-koto-singkarak"
+  },
+  {
+    "id": "aripan",
+    "name": "Aripan",
+    "district": "x-koto-singkarak"
+  }
+]

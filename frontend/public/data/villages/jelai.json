@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kuala-jelai",
+    "name": "Kuala Jelai",
+    "district": "jelai"
+  },
+  {
+    "id": "sungai-baru",
+    "name": "Sungai Baru",
+    "district": "jelai"
+  },
+  {
+    "id": "sungai-bundung",
+    "name": "Sungai Bundung",
+    "district": "jelai"
+  },
+  {
+    "id": "sungai-raja",
+    "name": "Sungai Raja",
+    "district": "jelai"
+  },
+  {
+    "id": "pulau-nibung",
+    "name": "Pulau Nibung",
+    "district": "jelai"
+  }
+]

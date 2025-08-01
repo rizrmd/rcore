@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jangjangwulung",
+    "name": "Jangjangwulung",
+    "district": "puspo"
+  },
+  {
+    "id": "palang-sari",
+    "name": "Palang Sari",
+    "district": "puspo"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "puspo"
+  },
+  {
+    "id": "puspo",
+    "name": "Puspo",
+    "district": "puspo"
+  },
+  {
+    "id": "jimbaran",
+    "name": "Jimbaran",
+    "district": "puspo"
+  },
+  {
+    "id": "pusung-malang",
+    "name": "Pusung Malang",
+    "district": "puspo"
+  }
+]

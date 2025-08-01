@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bintara-jaya",
+    "name": "Bintara Jaya",
+    "district": "bekasi-barat"
+  },
+  {
+    "id": "bintara",
+    "name": "Bintara",
+    "district": "bekasi-barat"
+  },
+  {
+    "id": "kranji",
+    "name": "Kranji",
+    "district": "bekasi-barat"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "bekasi-barat"
+  },
+  {
+    "id": "jaka-sampurna",
+    "name": "Jaka Sampurna",
+    "district": "bekasi-barat"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tabangame",
+    "name": "Tabangame",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "wayaua",
+    "name": "Wayaua",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "tabajaya",
+    "name": "Tabajaya",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "silang",
+    "name": "Silang",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "liaro",
+    "name": "Liaro",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "waya-kuba",
+    "name": "Waya Kuba",
+    "district": "bacan-timur-selatan"
+  },
+  {
+    "id": "pigaraja",
+    "name": "Pigaraja",
+    "district": "bacan-timur-selatan"
+  }
+]

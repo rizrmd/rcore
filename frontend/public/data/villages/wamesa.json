@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sabubar",
+    "name": "Sabubar",
+    "district": "wamesa"
+  },
+  {
+    "id": "karuan",
+    "name": "Karuan",
+    "district": "wamesa"
+  },
+  {
+    "id": "ambuar",
+    "name": "Ambuar",
+    "district": "wamesa"
+  },
+  {
+    "id": "yarpate",
+    "name": "Yarpate",
+    "district": "wamesa"
+  },
+  {
+    "id": "wamesa-ii-idor",
+    "name": "Wamesa Ii / Idor",
+    "district": "wamesa"
+  },
+  {
+    "id": "yensei",
+    "name": "Yensei",
+    "district": "wamesa"
+  },
+  {
+    "id": "wamesa-i-yakati",
+    "name": "Wamesa I / Yakati",
+    "district": "wamesa"
+  },
+  {
+    "id": "mamuranu",
+    "name": "Mamuranu",
+    "district": "wamesa"
+  },
+  {
+    "id": "wasari",
+    "name": "Wasari",
+    "district": "wamesa"
+  },
+  {
+    "id": "anakasi",
+    "name": "Anakasi",
+    "district": "wamesa"
+  }
+]

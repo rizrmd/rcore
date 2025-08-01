@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karanggandu",
+    "name": "Karanggandu",
+    "district": "watulimo"
+  },
+  {
+    "id": "prigi",
+    "name": "Prigi",
+    "district": "watulimo"
+  },
+  {
+    "id": "tasikmadu",
+    "name": "Tasikmadu",
+    "district": "watulimo"
+  },
+  {
+    "id": "watulimo",
+    "name": "Watulimo",
+    "district": "watulimo"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "watulimo"
+  },
+  {
+    "id": "sawahan",
+    "name": "Sawahan",
+    "district": "watulimo"
+  },
+  {
+    "id": "slawe",
+    "name": "Slawe",
+    "district": "watulimo"
+  },
+  {
+    "id": "gemaharjo",
+    "name": "Gemaharjo",
+    "district": "watulimo"
+  },
+  {
+    "id": "pakel",
+    "name": "Pakel",
+    "district": "watulimo"
+  },
+  {
+    "id": "watuagung",
+    "name": "Watuagung",
+    "district": "watulimo"
+  }
+]

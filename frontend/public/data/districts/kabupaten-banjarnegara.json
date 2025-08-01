@@ -1,0 +1,102 @@
+[
+  {
+    "id": "susukan",
+    "name": "Susukan",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "purwareja-klampok",
+    "name": "Purwareja Klampok",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "mandiraja",
+    "name": "Mandiraja",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "purwanegara",
+    "name": "Purwanegara",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "bawang",
+    "name": "Bawang",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "banjarnegara",
+    "name": "Banjarnegara",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "pagedongan",
+    "name": "Pagedongan",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "sigaluh",
+    "name": "Sigaluh",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "madukara",
+    "name": "Madukara",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "banjarmangu",
+    "name": "Banjarmangu",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "wanadadi",
+    "name": "Wanadadi",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "rakit",
+    "name": "Rakit",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "punggelan",
+    "name": "Punggelan",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "karangkobar",
+    "name": "Karangkobar",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "pagentan",
+    "name": "Pagentan",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "pejawaran",
+    "name": "Pejawaran",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "batur",
+    "name": "Batur",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "wanayasa",
+    "name": "Wanayasa",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "kalibening",
+    "name": "Kalibening",
+    "regency": "kabupaten-banjarnegara"
+  },
+  {
+    "id": "pandanarum",
+    "name": "Pandanarum",
+    "regency": "kabupaten-banjarnegara"
+  }
+]

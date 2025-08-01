@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sungai-kunyit",
+    "name": "Sungai Kunyit",
+    "district": "sangir-balai-janggo"
+  },
+  {
+    "id": "talunan-maju",
+    "name": "Talunan Maju",
+    "district": "sangir-balai-janggo"
+  },
+  {
+    "id": "talao-sungai-kunyit",
+    "name": "Talao Sungai Kunyit",
+    "district": "sangir-balai-janggo"
+  },
+  {
+    "id": "sungai-kunyit-barat",
+    "name": "Sungai Kunyit Barat",
+    "district": "sangir-balai-janggo"
+  }
+]

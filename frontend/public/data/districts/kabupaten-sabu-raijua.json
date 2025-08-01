@@ -1,0 +1,32 @@
+[
+  {
+    "id": "raijua",
+    "name": "Raijua",
+    "regency": "kabupaten-sabu-raijua"
+  },
+  {
+    "id": "hawu-mehara",
+    "name": "Hawu Mehara",
+    "regency": "kabupaten-sabu-raijua"
+  },
+  {
+    "id": "sabu-liae",
+    "name": "Sabu Liae",
+    "regency": "kabupaten-sabu-raijua"
+  },
+  {
+    "id": "sabu-barat",
+    "name": "Sabu Barat",
+    "regency": "kabupaten-sabu-raijua"
+  },
+  {
+    "id": "sabu-tengah",
+    "name": "Sabu Tengah",
+    "regency": "kabupaten-sabu-raijua"
+  },
+  {
+    "id": "sabu-timur",
+    "name": "Sabu Timur",
+    "regency": "kabupaten-sabu-raijua"
+  }
+]

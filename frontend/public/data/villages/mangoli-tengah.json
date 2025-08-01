@@ -1,0 +1,42 @@
+[
+  {
+    "id": "baru-akol",
+    "name": "Baru Akol",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "capalulu",
+    "name": "Capalulu",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "orifola",
+    "name": "Orifola",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "wailoba",
+    "name": "Wailoba",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "mangoli",
+    "name": "Mangoli",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "waitulia",
+    "name": "Waitulia",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "wai-u",
+    "name": "Wai U",
+    "district": "mangoli-tengah"
+  },
+  {
+    "id": "paslal",
+    "name": "Paslal",
+    "district": "mangoli-tengah"
+  }
+]

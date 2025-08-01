@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tambakreja",
+    "name": "Tambakreja",
+    "district": "cilacap-selatan"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "cilacap-selatan"
+  },
+  {
+    "id": "sidakaya",
+    "name": "Sidakaya",
+    "district": "cilacap-selatan"
+  },
+  {
+    "id": "cilacap",
+    "name": "Cilacap",
+    "district": "cilacap-selatan"
+  },
+  {
+    "id": "tegalkamulyan",
+    "name": "Tegalkamulyan",
+    "district": "cilacap-selatan"
+  }
+]

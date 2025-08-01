@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ingin-jaya",
+    "name": "Ingin Jaya",
+    "district": "rantau"
+  },
+  {
+    "id": "paya-bedi",
+    "name": "Paya Bedi",
+    "district": "rantau"
+  },
+  {
+    "id": "landuh",
+    "name": "Landuh",
+    "district": "rantau"
+  },
+  {
+    "id": "benua-raja",
+    "name": "Benua Raja",
+    "district": "rantau"
+  },
+  {
+    "id": "kampung-durian",
+    "name": "Kampung Durian",
+    "district": "rantau"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "rantau"
+  },
+  {
+    "id": "suka-rahmat",
+    "name": "Suka Rahmat",
+    "district": "rantau"
+  },
+  {
+    "id": "suka-mulia",
+    "name": "Suka Mulia",
+    "district": "rantau"
+  },
+  {
+    "id": "suka-rakyat",
+    "name": "Suka Rakyat",
+    "district": "rantau"
+  },
+  {
+    "id": "jamur-labu",
+    "name": "Jamur Labu",
+    "district": "rantau"
+  },
+  {
+    "id": "jamur-jelatang",
+    "name": "Jamur Jelatang",
+    "district": "rantau"
+  },
+  {
+    "id": "kamp-pertamina",
+    "name": "Kamp Pertamina",
+    "district": "rantau"
+  },
+  {
+    "id": "rantau-pauh",
+    "name": "Rantau Pauh",
+    "district": "rantau"
+  },
+  {
+    "id": "alur-cucur",
+    "name": "Alur Cucur",
+    "district": "rantau"
+  },
+  {
+    "id": "kebun-rantau",
+    "name": "Kebun Rantau",
+    "district": "rantau"
+  },
+  {
+    "id": "alur-manis",
+    "name": "Alur Manis",
+    "district": "rantau"
+  }
+]

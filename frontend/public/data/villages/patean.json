@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pakisan",
+    "name": "Pakisan",
+    "district": "patean"
+  },
+  {
+    "id": "mlatiharjo",
+    "name": "Mlatiharjo",
+    "district": "patean"
+  },
+  {
+    "id": "plososari",
+    "name": "Plososari",
+    "district": "patean"
+  },
+  {
+    "id": "wirosari",
+    "name": "Wirosari",
+    "district": "patean"
+  },
+  {
+    "id": "pagersari",
+    "name": "Pagersari",
+    "district": "patean"
+  },
+  {
+    "id": "selo",
+    "name": "Selo",
+    "district": "patean"
+  },
+  {
+    "id": "gedong",
+    "name": "Gedong",
+    "district": "patean"
+  },
+  {
+    "id": "sukomangli",
+    "name": "Sukomangli",
+    "district": "patean"
+  },
+  {
+    "id": "kalibareng",
+    "name": "Kalibareng",
+    "district": "patean"
+  },
+  {
+    "id": "kalilumpang",
+    "name": "Kalilumpang",
+    "district": "patean"
+  },
+  {
+    "id": "kalices",
+    "name": "Kalices",
+    "district": "patean"
+  },
+  {
+    "id": "sidokumpul",
+    "name": "Sidokumpul",
+    "district": "patean"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "patean"
+  }
+]

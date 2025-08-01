@@ -1,0 +1,42 @@
+[
+  {
+    "id": "margamulya",
+    "name": "Margamulya",
+    "district": "sukaresik"
+  },
+  {
+    "id": "cipondok",
+    "name": "Cipondok",
+    "district": "sukaresik"
+  },
+  {
+    "id": "sukamenak",
+    "name": "Sukamenak",
+    "district": "sukaresik"
+  },
+  {
+    "id": "sukaresik",
+    "name": "Sukaresik",
+    "district": "sukaresik"
+  },
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "sukaresik"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "sukaresik"
+  },
+  {
+    "id": "sukapancar",
+    "name": "Sukapancar",
+    "district": "sukaresik"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "sukaresik"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "galis-dajah",
+    "name": "Galis Dajah",
+    "district": "konang"
+  },
+  {
+    "id": "durin-barat",
+    "name": "Durin Barat",
+    "district": "konang"
+  },
+  {
+    "id": "kanegarah",
+    "name": "Kanegarah",
+    "district": "konang"
+  },
+  {
+    "id": "batokaban",
+    "name": "Batokaban",
+    "district": "konang"
+  },
+  {
+    "id": "durin-timur",
+    "name": "Durin Timur",
+    "district": "konang"
+  },
+  {
+    "id": "pakes",
+    "name": "Pakes",
+    "district": "konang"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "konang"
+  },
+  {
+    "id": "konang",
+    "name": "Konang",
+    "district": "konang"
+  },
+  {
+    "id": "senasen",
+    "name": "Senasen",
+    "district": "konang"
+  },
+  {
+    "id": "campor",
+    "name": "Campor",
+    "district": "konang"
+  },
+  {
+    "id": "sambiyan",
+    "name": "Sambiyan",
+    "district": "konang"
+  },
+  {
+    "id": "cangkarman",
+    "name": "Cangkarman",
+    "district": "konang"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "faennake",
+    "name": "Faennake",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "baas",
+    "name": "Baas",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "haumeni",
+    "name": "Haumeni",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "napan",
+    "name": "Napan",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "sainoni",
+    "name": "Sainoni",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "banain",
+    "name": "Banain",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "banain-b",
+    "name": "Banain B",
+    "district": "bikomi-utara"
+  },
+  {
+    "id": "banain-c",
+    "name": "Banain C",
+    "district": "bikomi-utara"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cemaga",
+    "name": "Cemaga",
+    "district": "bunguran-selatan"
+  },
+  {
+    "id": "cemaga-utara",
+    "name": "Cemaga Utara",
+    "district": "bunguran-selatan"
+  },
+  {
+    "id": "cemaga-selatan",
+    "name": "Cemaga Selatan",
+    "district": "bunguran-selatan"
+  },
+  {
+    "id": "cemaga-tengah",
+    "name": "Cemaga Tengah",
+    "district": "bunguran-selatan"
+  }
+]

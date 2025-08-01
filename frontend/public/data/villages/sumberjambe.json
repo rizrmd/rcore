@@ -1,0 +1,47 @@
+[
+  {
+    "id": "randu-agung",
+    "name": "Randu Agung",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "cumedak",
+    "name": "Cumedak",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "gunung-malang",
+    "name": "Gunung Malang",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "rowosari",
+    "name": "Rowosari",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "sumberjambe",
+    "name": "Sumberjambe",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "sumber-pakem",
+    "name": "Sumber Pakem",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "plereyan",
+    "name": "Plereyan",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "pringgondani",
+    "name": "Pringgondani",
+    "district": "sumberjambe"
+  },
+  {
+    "id": "jambe-arum",
+    "name": "Jambe Arum",
+    "district": "sumberjambe"
+  }
+]

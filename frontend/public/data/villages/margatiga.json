@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jaya-guna",
+    "name": "Jaya Guna",
+    "district": "margatiga"
+  },
+  {
+    "id": "sukaraja-tiga",
+    "name": "Sukaraja Tiga",
+    "district": "margatiga"
+  },
+  {
+    "id": "gedung-wani",
+    "name": "Gedung Wani",
+    "district": "margatiga"
+  },
+  {
+    "id": "gedung-wani-timur",
+    "name": "Gedung Wani Timur",
+    "district": "margatiga"
+  },
+  {
+    "id": "surya-mataram",
+    "name": "Surya Mataram",
+    "district": "margatiga"
+  },
+  {
+    "id": "nabang-baru",
+    "name": "Nabang Baru",
+    "district": "margatiga"
+  },
+  {
+    "id": "negeri-jemanten",
+    "name": "Negeri Jemanten",
+    "district": "margatiga"
+  },
+  {
+    "id": "negeri-agung",
+    "name": "Negeri Agung",
+    "district": "margatiga"
+  },
+  {
+    "id": "negeri-katon",
+    "name": "Negeri Katon",
+    "district": "margatiga"
+  },
+  {
+    "id": "sukadana-baru",
+    "name": "Sukadana Baru",
+    "district": "margatiga"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "margatiga"
+  },
+  {
+    "id": "negeri-tua",
+    "name": "Negeri Tua",
+    "district": "margatiga"
+  },
+  {
+    "id": "tri-sinar",
+    "name": "Tri Sinar",
+    "district": "margatiga"
+  }
+]

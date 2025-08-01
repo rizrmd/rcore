@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mandalajaya",
+    "name": "Mandalajaya",
+    "district": "cikalong"
+  },
+  {
+    "id": "cikalong",
+    "name": "Cikalong",
+    "district": "cikalong"
+  },
+  {
+    "id": "cikancra",
+    "name": "Cikancra",
+    "district": "cikalong"
+  },
+  {
+    "id": "tonjongsari",
+    "name": "Tonjongsari",
+    "district": "cikalong"
+  },
+  {
+    "id": "singkir",
+    "name": "Singkir",
+    "district": "cikalong"
+  },
+  {
+    "id": "panyiaran",
+    "name": "Panyiaran",
+    "district": "cikalong"
+  },
+  {
+    "id": "cibeber",
+    "name": "Cibeber",
+    "district": "cikalong"
+  },
+  {
+    "id": "cidadali",
+    "name": "Cidadali",
+    "district": "cikalong"
+  },
+  {
+    "id": "kubangsari",
+    "name": "Kubangsari",
+    "district": "cikalong"
+  },
+  {
+    "id": "cikadu",
+    "name": "Cikadu",
+    "district": "cikalong"
+  },
+  {
+    "id": "sindangjaya",
+    "name": "Sindangjaya",
+    "district": "cikalong"
+  },
+  {
+    "id": "kalapagenep",
+    "name": "Kalapagenep",
+    "district": "cikalong"
+  },
+  {
+    "id": "cimanuk",
+    "name": "Cimanuk",
+    "district": "cikalong"
+  }
+]

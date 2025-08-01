@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jair",
+    "name": "Jair",
+    "district": "kouh"
+  },
+  {
+    "id": "mandobo",
+    "name": "Mandobo",
+    "district": "kouh"
+  },
+  {
+    "id": "kouh",
+    "name": "Kouh",
+    "district": "kouh"
+  }
+]

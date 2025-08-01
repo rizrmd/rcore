@@ -1,0 +1,27 @@
+[
+  {
+    "id": "membalong",
+    "name": "Membalong",
+    "regency": "kabupaten-belitung"
+  },
+  {
+    "id": "tanjung-pandan",
+    "name": "Tanjung Pandan",
+    "regency": "kabupaten-belitung"
+  },
+  {
+    "id": "badau",
+    "name": "Badau",
+    "regency": "kabupaten-belitung"
+  },
+  {
+    "id": "sijuk",
+    "name": "Sijuk",
+    "regency": "kabupaten-belitung"
+  },
+  {
+    "id": "selat-nasik",
+    "name": "Selat Nasik",
+    "regency": "kabupaten-belitung"
+  }
+]

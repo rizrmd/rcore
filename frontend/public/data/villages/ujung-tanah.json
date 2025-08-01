@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ujung-tanah",
+    "name": "Ujung Tanah",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "tamalabba",
+    "name": "Tamalabba",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "tabaringan",
+    "name": "Tabaringan",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "totaka",
+    "name": "Totaka",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "pattingalloang",
+    "name": "Pattingalloang",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "pattingalloang-baru",
+    "name": "Pattingalloang Baru",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "camba-berua",
+    "name": "Camba Berua",
+    "district": "ujung-tanah"
+  },
+  {
+    "id": "cambaya",
+    "name": "Cambaya",
+    "district": "ujung-tanah"
+  }
+]

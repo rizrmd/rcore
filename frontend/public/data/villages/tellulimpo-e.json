@@ -1,0 +1,47 @@
+[
+  {
+    "id": "teppo",
+    "name": "Teppo",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "massepe",
+    "name": "Massepe",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "pajalele",
+    "name": "Pajalele",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "polewali",
+    "name": "Polewali",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "teteaji",
+    "name": "Teteaji",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "amparita",
+    "name": "Amparita",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "baula",
+    "name": "Baula",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "todang-pulu",
+    "name": "Todang Pulu",
+    "district": "tellulimpo-e"
+  },
+  {
+    "id": "arateng",
+    "name": "Arateng",
+    "district": "tellulimpo-e"
+  }
+]

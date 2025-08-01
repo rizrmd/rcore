@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bubulan",
+    "name": "Bubulan",
+    "district": "bubulan"
+  },
+  {
+    "id": "cancung",
+    "name": "Cancung",
+    "district": "bubulan"
+  },
+  {
+    "id": "sumber-bendo",
+    "name": "Sumber Bendo",
+    "district": "bubulan"
+  },
+  {
+    "id": "ngorogunung",
+    "name": "Ngorogunung",
+    "district": "bubulan"
+  }
+]

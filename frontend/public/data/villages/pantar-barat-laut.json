@@ -1,0 +1,37 @@
+[
+  {
+    "id": "marisa",
+    "name": "Marisa",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "allumang",
+    "name": "Allumang",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "kayang",
+    "name": "Kayang",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "lamma",
+    "name": "Lamma",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "beang-onong",
+    "name": "Beang Onong",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "kalondama-barat",
+    "name": "Kalondama Barat",
+    "district": "pantar-barat-laut"
+  },
+  {
+    "id": "kalondama-tengah",
+    "name": "Kalondama Tengah",
+    "district": "pantar-barat-laut"
+  }
+]

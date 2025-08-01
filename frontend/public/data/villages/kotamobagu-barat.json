@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mongkonai",
+    "name": "Mongkonai",
+    "district": "kotamobagu-barat"
+  },
+  {
+    "id": "molinow",
+    "name": "Molinow",
+    "district": "kotamobagu-barat"
+  },
+  {
+    "id": "mogolaing",
+    "name": "Mogolaing",
+    "district": "kotamobagu-barat"
+  },
+  {
+    "id": "gogagoman",
+    "name": "Gogagoman",
+    "district": "kotamobagu-barat"
+  },
+  {
+    "id": "kotamobagu",
+    "name": "Kotamobagu",
+    "district": "kotamobagu-barat"
+  },
+  {
+    "id": "mongkonai-barat",
+    "name": "Mongkonai Barat",
+    "district": "kotamobagu-barat"
+  }
+]

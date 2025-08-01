@@ -1,0 +1,42 @@
+[
+  {
+    "id": "palir",
+    "name": "Palir",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "astapada",
+    "name": "Astapada",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "gesik",
+    "name": "Gesik",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "kemlakagede",
+    "name": "Kemlakagede",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "dawuan",
+    "name": "Dawuan",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "batembat",
+    "name": "Batembat",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "kalibaru",
+    "name": "Kalibaru",
+    "district": "tengah-tani"
+  },
+  {
+    "id": "kalitengah",
+    "name": "Kalitengah",
+    "district": "tengah-tani"
+  }
+]

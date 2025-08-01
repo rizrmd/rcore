@@ -1,0 +1,17 @@
+[
+  {
+    "id": "magek",
+    "name": "Magek",
+    "district": "kamang-magek"
+  },
+  {
+    "id": "kamang-hilia",
+    "name": "Kamang Hilia",
+    "district": "kamang-magek"
+  },
+  {
+    "id": "kamang-mudiak",
+    "name": "Kamang Mudiak",
+    "district": "kamang-magek"
+  }
+]

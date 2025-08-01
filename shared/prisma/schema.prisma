@@ -1,0 +1,105 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../models"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model user {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  email           String    @unique @db.VarChar
+  username        String?   @unique
+  name            String    @db.VarChar
+  password_hash   String?
+  email_verified  Boolean   @default(false)
+  avatar_url      String?
+  role            String    @default("user")
+  is_active       Boolean   @default(true)
+  metadata        Json?
+  created_at      DateTime  @default(now())
+  updated_at      DateTime  @updatedAt
+  deleted_at      DateTime?
+  
+  sessions        session[]
+  posts           post[]
+  comments        comment[]
+}
+
+model session {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  user_id         String    @db.Uuid
+  token           String    @unique
+  expires_at      DateTime
+  ip_address      String?
+  user_agent      String?
+  created_at      DateTime  @default(now())
+  
+  user            user      @relation(fields: [user_id], references: [id], onDelete: Cascade)
+}
+
+model post {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  user_id         String    @db.Uuid
+  title           String
+  slug            String    @unique
+  content         String?   @db.Text
+  excerpt         String?
+  featured_image  String?
+  status          String    @default("draft")
+  published_at    DateTime?
+  metadata        Json?
+  created_at      DateTime  @default(now())
+  updated_at      DateTime  @updatedAt
+  deleted_at      DateTime?
+  
+  user            user      @relation(fields: [user_id], references: [id])
+  comments        comment[]
+  tags            post_tag[]
+}
+
+model comment {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  post_id         String    @db.Uuid
+  user_id         String    @db.Uuid
+  content         String    @db.Text
+  is_approved     Boolean   @default(true)
+  created_at      DateTime  @default(now())
+  updated_at      DateTime  @updatedAt
+  deleted_at      DateTime?
+  
+  post            post      @relation(fields: [post_id], references: [id], onDelete: Cascade)
+  user            user      @relation(fields: [user_id], references: [id])
+}
+
+model tag {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  name            String    @unique
+  slug            String    @unique
+  description     String?
+  created_at      DateTime  @default(now())
+  
+  posts           post_tag[]
+}
+
+model post_tag {
+  post_id         String    @db.Uuid
+  tag_id          String    @db.Uuid
+  created_at      DateTime  @default(now())
+  
+  post            post      @relation(fields: [post_id], references: [id], onDelete: Cascade)
+  tag             tag       @relation(fields: [tag_id], references: [id], onDelete: Cascade)
+  
+  @@id([post_id, tag_id])
+}
+
+model setting {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  key             String    @unique
+  value           Json
+  description     String?
+  created_at      DateTime  @default(now())
+  updated_at      DateTime  @updatedAt
+}

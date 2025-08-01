@@ -1,0 +1,142 @@
+[
+  {
+    "id": "igor",
+    "name": "Igor",
+    "district": "masni"
+  },
+  {
+    "id": "membowi",
+    "name": "Membowi",
+    "district": "masni"
+  },
+  {
+    "id": "makwan",
+    "name": "Makwan",
+    "district": "masni"
+  },
+  {
+    "id": "macuansp-v",
+    "name": "Macuan/Sp V",
+    "district": "masni"
+  },
+  {
+    "id": "prafi-barat",
+    "name": "Prafi Barat",
+    "district": "masni"
+  },
+  {
+    "id": "meiforga",
+    "name": "Meiforga",
+    "district": "masni"
+  },
+  {
+    "id": "kali-merah",
+    "name": "Kali Merah",
+    "district": "masni"
+  },
+  {
+    "id": "muara-prafiprafi-timur",
+    "name": "Muara Prafi/Prafi Timur",
+    "district": "masni"
+  },
+  {
+    "id": "bowi-subursp-vi",
+    "name": "Bowi Subur/Sp Vi",
+    "district": "masni"
+  },
+  {
+    "id": "sembab",
+    "name": "Sembab",
+    "district": "masni"
+  },
+  {
+    "id": "sumber-bogasp-vii",
+    "name": "Sumber Boga/Sp Vii",
+    "district": "masni"
+  },
+  {
+    "id": "wariori",
+    "name": "Wariori",
+    "district": "masni"
+  },
+  {
+    "id": "aurmios",
+    "name": "Aurmios",
+    "district": "masni"
+  },
+  {
+    "id": "mansaburismaryam",
+    "name": "Mansaburi/Smaryam",
+    "district": "masni"
+  },
+  {
+    "id": "masni",
+    "name": "Masni",
+    "district": "masni"
+  },
+  {
+    "id": "sibuni",
+    "name": "Sibuni",
+    "district": "masni"
+  },
+  {
+    "id": "wam-bola",
+    "name": "Wam Bola",
+    "district": "masni"
+  },
+  {
+    "id": "wariori-indah",
+    "name": "Wariori Indah",
+    "district": "masni"
+  },
+  {
+    "id": "ririnfos",
+    "name": "Ririnfos",
+    "district": "masni"
+  },
+  {
+    "id": "mobja",
+    "name": "Mobja",
+    "district": "masni"
+  },
+  {
+    "id": "jowen",
+    "name": "Jowen",
+    "district": "masni"
+  },
+  {
+    "id": "aska",
+    "name": "Aska",
+    "district": "masni"
+  },
+  {
+    "id": "mantedi",
+    "name": "Mantedi",
+    "district": "masni"
+  },
+  {
+    "id": "koyani",
+    "name": "Koyani",
+    "district": "masni"
+  },
+  {
+    "id": "muara-wariori",
+    "name": "Muara Wariori",
+    "district": "masni"
+  },
+  {
+    "id": "undi",
+    "name": "Undi",
+    "district": "masni"
+  },
+  {
+    "id": "yen-soribo",
+    "name": "Yen Soribo",
+    "district": "masni"
+  },
+  {
+    "id": "meyof-ii",
+    "name": "Meyof Ii",
+    "district": "masni"
+  }
+]

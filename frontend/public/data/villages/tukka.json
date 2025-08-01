@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sipange",
+    "name": "Sipange",
+    "district": "tukka"
+  },
+  {
+    "id": "hutanabolon",
+    "name": "Hutanabolon",
+    "district": "tukka"
+  },
+  {
+    "id": "sigiring-giring",
+    "name": "Sigiring Giring",
+    "district": "tukka"
+  },
+  {
+    "id": "sait-kalangan-ii",
+    "name": "Sait Kalangan Ii",
+    "district": "tukka"
+  },
+  {
+    "id": "aek-bontar",
+    "name": "Aek Bontar",
+    "district": "tukka"
+  },
+  {
+    "id": "tapian-naulisaurmanggita",
+    "name": "Tapian Nauli/Saurmanggita",
+    "district": "tukka"
+  },
+  {
+    "id": "bonalumban",
+    "name": "Bonalumban",
+    "district": "tukka"
+  },
+  {
+    "id": "tukka",
+    "name": "Tukka",
+    "district": "tukka"
+  },
+  {
+    "id": "aek-tolang-induk",
+    "name": "Aek Tolang Induk",
+    "district": "tukka"
+  }
+]

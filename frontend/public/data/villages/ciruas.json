@@ -1,0 +1,77 @@
+[
+  {
+    "id": "citerep",
+    "name": "Citerep",
+    "district": "ciruas"
+  },
+  {
+    "id": "ranjeng",
+    "name": "Ranjeng",
+    "district": "ciruas"
+  },
+  {
+    "id": "ciruas",
+    "name": "Ciruas",
+    "district": "ciruas"
+  },
+  {
+    "id": "kadikaran",
+    "name": "Kadikaran",
+    "district": "ciruas"
+  },
+  {
+    "id": "singamerta",
+    "name": "Singamerta",
+    "district": "ciruas"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "ciruas"
+  },
+  {
+    "id": "gosara",
+    "name": "Gosara",
+    "district": "ciruas"
+  },
+  {
+    "id": "kepandean",
+    "name": "Kepandean",
+    "district": "ciruas"
+  },
+  {
+    "id": "pamong",
+    "name": "Pamong",
+    "district": "ciruas"
+  },
+  {
+    "id": "cigelam",
+    "name": "Cigelam",
+    "district": "ciruas"
+  },
+  {
+    "id": "penggalang",
+    "name": "Penggalang",
+    "district": "ciruas"
+  },
+  {
+    "id": "bumijaya",
+    "name": "Bumijaya",
+    "district": "ciruas"
+  },
+  {
+    "id": "keserangan",
+    "name": "Keserangan",
+    "district": "ciruas"
+  },
+  {
+    "id": "beberan",
+    "name": "Beberan",
+    "district": "ciruas"
+  },
+  {
+    "id": "pelawad",
+    "name": "Pelawad",
+    "district": "ciruas"
+  }
+]

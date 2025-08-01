@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pammase",
+    "name": "Pammase",
+    "district": "tiroang"
+  },
+  {
+    "id": "marawi",
+    "name": "Marawi",
+    "district": "tiroang"
+  },
+  {
+    "id": "mattiro-deceng",
+    "name": "Mattiro Deceng",
+    "district": "tiroang"
+  },
+  {
+    "id": "fakkie",
+    "name": "Fakkie",
+    "district": "tiroang"
+  },
+  {
+    "id": "tiroang",
+    "name": "Tiroang",
+    "district": "tiroang"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kebun-durian",
+    "name": "Kebun Durian",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "subarak",
+    "name": "Subarak",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "gunung-sahilan",
+    "name": "Gunung Sahilan",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "makmur-sejahtera",
+    "name": "Makmur Sejahtera",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "sungai-lipai",
+    "name": "Sungai Lipai",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "sahilan-darussalam",
+    "name": "Sahilan Darussalam",
+    "district": "gunung-sahilan"
+  },
+  {
+    "id": "gunung-mulya",
+    "name": "Gunung Mulya",
+    "district": "gunung-sahilan"
+  }
+]

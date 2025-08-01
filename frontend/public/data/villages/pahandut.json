@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pahandut",
+    "name": "Pahandut",
+    "district": "pahandut"
+  },
+  {
+    "id": "panarung",
+    "name": "Panarung",
+    "district": "pahandut"
+  },
+  {
+    "id": "langkai",
+    "name": "Langkai",
+    "district": "pahandut"
+  },
+  {
+    "id": "tumbang-rungan",
+    "name": "Tumbang Rungan",
+    "district": "pahandut"
+  },
+  {
+    "id": "tanjung-pinang",
+    "name": "Tanjung Pinang",
+    "district": "pahandut"
+  },
+  {
+    "id": "pahandut-seberang",
+    "name": "Pahandut Seberang",
+    "district": "pahandut"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "telaga-itar",
+    "name": "Telaga Itar",
+    "district": "kelua"
+  },
+  {
+    "id": "pudak-setegal",
+    "name": "Pudak Setegal",
+    "district": "kelua"
+  },
+  {
+    "id": "bahungin",
+    "name": "Bahungin",
+    "district": "kelua"
+  },
+  {
+    "id": "takulat",
+    "name": "Takulat",
+    "district": "kelua"
+  },
+  {
+    "id": "pulau",
+    "name": "Pulau",
+    "district": "kelua"
+  },
+  {
+    "id": "masintan",
+    "name": "Masintan",
+    "district": "kelua"
+  },
+  {
+    "id": "paliat",
+    "name": "Paliat",
+    "district": "kelua"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "kelua"
+  },
+  {
+    "id": "binturu",
+    "name": "Binturu",
+    "district": "kelua"
+  },
+  {
+    "id": "karangan-putih",
+    "name": "Karangan Putih",
+    "district": "kelua"
+  },
+  {
+    "id": "pasar-panas",
+    "name": "Pasar Panas",
+    "district": "kelua"
+  },
+  {
+    "id": "ampukung",
+    "name": "Ampukung",
+    "district": "kelua"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kedatuan",
+    "name": "Kedatuan",
+    "district": "bekri"
+  },
+  {
+    "id": "binjai-agung",
+    "name": "Binjai Agung",
+    "district": "bekri"
+  },
+  {
+    "id": "rengas",
+    "name": "Rengas",
+    "district": "bekri"
+  },
+  {
+    "id": "kesumadadi",
+    "name": "Kesumadadi",
+    "district": "bekri"
+  },
+  {
+    "id": "goras-jaya",
+    "name": "Goras Jaya",
+    "district": "bekri"
+  },
+  {
+    "id": "sinar-bantenbekri",
+    "name": "Sinar Banten/Bekri",
+    "district": "bekri"
+  },
+  {
+    "id": "kesuma-jaya",
+    "name": "Kesuma Jaya",
+    "district": "bekri"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "bekri"
+  }
+]

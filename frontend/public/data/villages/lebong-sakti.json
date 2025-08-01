@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ujung-tanjung-i",
+    "name": "Ujung Tanjung I",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "muning-agung",
+    "name": "Muning Agung",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "ujung-tanjung-ii",
+    "name": "Ujung Tanjung Ii",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "ujung-tanjung-iii",
+    "name": "Ujung Tanjung Iii",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "magelang-baru",
+    "name": "Magelang Baru",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "lemeu-pit",
+    "name": "Lemeu Pit",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "tabeak-kauk",
+    "name": "Tabeak Kauk",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "tabeak-dipoa",
+    "name": "Tabeak Dipoa",
+    "district": "lebong-sakti"
+  },
+  {
+    "id": "suka-bumi",
+    "name": "Suka Bumi",
+    "district": "lebong-sakti"
+  }
+]

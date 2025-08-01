@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kalilunjar",
+    "name": "Kalilunjar",
+    "district": "pejawaran"
+  },
+  {
+    "id": "biting",
+    "name": "Biting",
+    "district": "pejawaran"
+  },
+  {
+    "id": "tlahab",
+    "name": "Tlahab",
+    "district": "pejawaran"
+  },
+  {
+    "id": "dermayasa",
+    "name": "Dermayasa",
+    "district": "pejawaran"
+  },
+  {
+    "id": "pejawaran",
+    "name": "Pejawaran",
+    "district": "pejawaran"
+  },
+  {
+    "id": "pegundungan",
+    "name": "Pegundungan",
+    "district": "pejawaran"
+  },
+  {
+    "id": "beji",
+    "name": "Beji",
+    "district": "pejawaran"
+  },
+  {
+    "id": "semangkung",
+    "name": "Semangkung",
+    "district": "pejawaran"
+  },
+  {
+    "id": "condongcampur",
+    "name": "Condongcampur",
+    "district": "pejawaran"
+  },
+  {
+    "id": "gembol",
+    "name": "Gembol",
+    "district": "pejawaran"
+  },
+  {
+    "id": "sidengok",
+    "name": "Sidengok",
+    "district": "pejawaran"
+  },
+  {
+    "id": "ratamba",
+    "name": "Ratamba",
+    "district": "pejawaran"
+  },
+  {
+    "id": "penusupan",
+    "name": "Penusupan",
+    "district": "pejawaran"
+  },
+  {
+    "id": "giritirta",
+    "name": "Giritirta",
+    "district": "pejawaran"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "pejawaran"
+  },
+  {
+    "id": "sarwodadi",
+    "name": "Sarwodadi",
+    "district": "pejawaran"
+  },
+  {
+    "id": "grogol",
+    "name": "Grogol",
+    "district": "pejawaran"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "titi-akar",
+    "name": "Titi Akar",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "tanjung-medang",
+    "name": "Tanjung Medang",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "teluk-rhu",
+    "name": "Teluk Rhu",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "tanjung-punak",
+    "name": "Tanjung Punak",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "kadur",
+    "name": "Kadur",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "hutan-ayu",
+    "name": "Hutan Ayu",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "rupat-utara"
+  },
+  {
+    "id": "putri-sembilan",
+    "name": "Putri Sembilan",
+    "district": "rupat-utara"
+  }
+]

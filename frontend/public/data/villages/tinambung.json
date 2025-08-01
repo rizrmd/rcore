@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tandung",
+    "name": "Tandung",
+    "district": "tinambung"
+  },
+  {
+    "id": "sepa-batu",
+    "name": "Sepa Batu",
+    "district": "tinambung"
+  },
+  {
+    "id": "tangnga-tangnga",
+    "name": "Tangnga-Tangnga",
+    "district": "tinambung"
+  },
+  {
+    "id": "karama",
+    "name": "Karama",
+    "district": "tinambung"
+  },
+  {
+    "id": "batulaya",
+    "name": "Batulaya",
+    "district": "tinambung"
+  },
+  {
+    "id": "tinambung",
+    "name": "Tinambung",
+    "district": "tinambung"
+  },
+  {
+    "id": "lekopadis",
+    "name": "Lekopadis",
+    "district": "tinambung"
+  },
+  {
+    "id": "galung-lombok",
+    "name": "Galung Lombok",
+    "district": "tinambung"
+  }
+]

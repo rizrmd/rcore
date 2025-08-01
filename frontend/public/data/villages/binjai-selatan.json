@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "bhakti-karya",
+    "name": "Bhakti Karya",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "tanah-seribu",
+    "name": "Tanah Seribu",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "puji-dadi",
+    "name": "Puji Dadi",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "binjai-estate",
+    "name": "Binjai Estate",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "rambung-barat",
+    "name": "Rambung Barat",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "rambung-dalam",
+    "name": "Rambung Dalam",
+    "district": "binjai-selatan"
+  },
+  {
+    "id": "rambung-timur",
+    "name": "Rambung Timur",
+    "district": "binjai-selatan"
+  }
+]

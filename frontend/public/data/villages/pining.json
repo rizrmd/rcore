@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gajah",
+    "name": "Gajah",
+    "district": "pining"
+  },
+  {
+    "id": "uring",
+    "name": "Uring",
+    "district": "pining"
+  },
+  {
+    "id": "pintu-rime",
+    "name": "Pintu Rime",
+    "district": "pining"
+  },
+  {
+    "id": "ekan",
+    "name": "Ekan",
+    "district": "pining"
+  },
+  {
+    "id": "pertik",
+    "name": "Pertik",
+    "district": "pining"
+  },
+  {
+    "id": "pining",
+    "name": "Pining",
+    "district": "pining"
+  },
+  {
+    "id": "pepalah",
+    "name": "Pepalah",
+    "district": "pining"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "pining"
+  },
+  {
+    "id": "lesten",
+    "name": "Lesten",
+    "district": "pining"
+  }
+]

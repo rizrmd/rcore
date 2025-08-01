@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mulyonegoro",
+    "name": "Mulyonegoro",
+    "district": "pulubala"
+  },
+  {
+    "id": "bakti",
+    "name": "Bakti",
+    "district": "pulubala"
+  },
+  {
+    "id": "pulubala",
+    "name": "Pulubala",
+    "district": "pulubala"
+  },
+  {
+    "id": "tridarma",
+    "name": "Tridarma",
+    "district": "pulubala"
+  },
+  {
+    "id": "pongongaila",
+    "name": "Pongongaila",
+    "district": "pulubala"
+  },
+  {
+    "id": "puncak",
+    "name": "Puncak",
+    "district": "pulubala"
+  },
+  {
+    "id": "molamahu",
+    "name": "Molamahu",
+    "district": "pulubala"
+  },
+  {
+    "id": "molalahu",
+    "name": "Molalahu",
+    "district": "pulubala"
+  },
+  {
+    "id": "toydito",
+    "name": "Toydito",
+    "district": "pulubala"
+  },
+  {
+    "id": "ayumolingo",
+    "name": "Ayumolingo",
+    "district": "pulubala"
+  },
+  {
+    "id": "bukit-aren",
+    "name": "Bukit Aren",
+    "district": "pulubala"
+  },
+  {
+    "id": "upt-ayumolingo",
+    "name": "Upt Ayumolingo",
+    "district": "pulubala"
+  },
+  {
+    "id": "upt-puncak",
+    "name": "Upt Puncak",
+    "district": "pulubala"
+  }
+]

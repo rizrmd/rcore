@@ -1,0 +1,42 @@
+[
+  {
+    "id": "way-redak",
+    "name": "Way Redak",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "seray",
+    "name": "Seray",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "rawas",
+    "name": "Rawas",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "kampung-jawa",
+    "name": "Kampung Jawa",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "pasar-krui",
+    "name": "Pasar Krui",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "pasar-kota-krui",
+    "name": "Pasar Kota Krui",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "sukanegara",
+    "name": "Sukanegara",
+    "district": "pesisir-tengah"
+  },
+  {
+    "id": "pahmungan",
+    "name": "Pahmungan",
+    "district": "pesisir-tengah"
+  }
+]

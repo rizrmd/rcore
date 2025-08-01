@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lempur-mudik",
+    "name": "Lempur Mudik",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "dusun-baru-lempur",
+    "name": "Dusun Baru Lempur",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "lempur-tengah",
+    "name": "Lempur Tengah",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "lempur-hilir",
+    "name": "Lempur Hilir",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "perikan-tengah",
+    "name": "Perikan Tengah",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "selampaung",
+    "name": "Selampaung",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "masgo",
+    "name": "Masgo",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "air-mumu",
+    "name": "Air Mumu",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "kebun-baru",
+    "name": "Kebun Baru",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "sungai-hangat",
+    "name": "Sungai Hangat",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "manjunto-lempur",
+    "name": "Manjunto Lempur",
+    "district": "gunung-raya"
+  },
+  {
+    "id": "kebun-lima",
+    "name": "Kebun Lima",
+    "district": "gunung-raya"
+  }
+]

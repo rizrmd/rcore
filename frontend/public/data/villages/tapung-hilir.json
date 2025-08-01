@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sekijang",
+    "name": "Sekijang",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "tebing-lestari",
+    "name": "Tebing Lestari",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "kijang-jaya",
+    "name": "Kijang Jaya",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "tanah-tinggi",
+    "name": "Tanah Tinggi",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "tapung-makmur",
+    "name": "Tapung Makmur",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "tapung-lestari",
+    "name": "Tapung Lestari",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "kota-garo",
+    "name": "Kota Garo",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "koto-bangun",
+    "name": "Koto Bangun",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "cinta-damai",
+    "name": "Cinta Damai",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "beringin-lestari",
+    "name": "Beringin Lestari",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "tandan-sari",
+    "name": "Tandan Sari",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "kijang-makmur",
+    "name": "Kijang Makmur",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "koto-aman",
+    "name": "Koto Aman",
+    "district": "tapung-hilir"
+  },
+  {
+    "id": "gerbang-sari",
+    "name": "Gerbang Sari",
+    "district": "tapung-hilir"
+  }
+]

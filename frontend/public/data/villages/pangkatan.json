@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sidorukun",
+    "name": "Sidorukun",
+    "district": "pangkatan"
+  },
+  {
+    "id": "perkebunan-pangkatan",
+    "name": "Perkebunan Pangkatan",
+    "district": "pangkatan"
+  },
+  {
+    "id": "tebing-tinggi-pangkatan",
+    "name": "Tebing Tinggi Pangkatan",
+    "district": "pangkatan"
+  },
+  {
+    "id": "kampung-padang",
+    "name": "Kampung Padang",
+    "district": "pangkatan"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "pangkatan"
+  },
+  {
+    "id": "pangkatan",
+    "name": "Pangkatan",
+    "district": "pangkatan"
+  },
+  {
+    "id": "sennah",
+    "name": "Sennah",
+    "district": "pangkatan"
+  }
+]

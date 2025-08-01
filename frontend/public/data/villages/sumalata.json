@@ -1,0 +1,57 @@
+[
+  {
+    "id": "buloila",
+    "name": "Buloila",
+    "district": "sumalata"
+  },
+  {
+    "id": "bulontio-barat",
+    "name": "Bulontio Barat",
+    "district": "sumalata"
+  },
+  {
+    "id": "bulontio-timur",
+    "name": "Bulontio Timur",
+    "district": "sumalata"
+  },
+  {
+    "id": "kikia",
+    "name": "Kikia",
+    "district": "sumalata"
+  },
+  {
+    "id": "kasia",
+    "name": "Kasia",
+    "district": "sumalata"
+  },
+  {
+    "id": "lelato",
+    "name": "Lelato",
+    "district": "sumalata"
+  },
+  {
+    "id": "tumba",
+    "name": "Tumba",
+    "district": "sumalata"
+  },
+  {
+    "id": "mebongo",
+    "name": "Mebongo",
+    "district": "sumalata"
+  },
+  {
+    "id": "pulohenti",
+    "name": "Pulohenti",
+    "district": "sumalata"
+  },
+  {
+    "id": "hutakalo",
+    "name": "Hutakalo",
+    "district": "sumalata"
+  },
+  {
+    "id": "puncak-mandiri",
+    "name": "Puncak Mandiri",
+    "district": "sumalata"
+  }
+]

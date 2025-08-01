@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lorulun",
+    "name": "Lorulun",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "amdasa",
+    "name": "Amdasa",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "sangliat-dol",
+    "name": "Sangliat Dol",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "sangliat-krawain",
+    "name": "Sangliat Krawain",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "arui-bab",
+    "name": "Arui Bab",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "arui-das",
+    "name": "Arui Das",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "atubul-da",
+    "name": "Atubul Da",
+    "district": "wer-tamrian"
+  },
+  {
+    "id": "atubul-dol",
+    "name": "Atubul Dol",
+    "district": "wer-tamrian"
+  }
+]

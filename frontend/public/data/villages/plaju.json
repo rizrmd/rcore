@@ -1,0 +1,37 @@
+[
+  {
+    "id": "plaju-darat",
+    "name": "Plaju Darat",
+    "district": "plaju"
+  },
+  {
+    "id": "talang-putri",
+    "name": "Talang Putri",
+    "district": "plaju"
+  },
+  {
+    "id": "komperta",
+    "name": "Komperta",
+    "district": "plaju"
+  },
+  {
+    "id": "plaju-ilir",
+    "name": "Plaju Ilir",
+    "district": "plaju"
+  },
+  {
+    "id": "talang-bubuk",
+    "name": "Talang Bubuk",
+    "district": "plaju"
+  },
+  {
+    "id": "plaju-ulu",
+    "name": "Plaju Ulu",
+    "district": "plaju"
+  },
+  {
+    "id": "bagus-kuning",
+    "name": "Bagus Kuning",
+    "district": "plaju"
+  }
+]

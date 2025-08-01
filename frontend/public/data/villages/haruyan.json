@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pangambau-hilir-luar",
+    "name": "Pangambau Hilir Luar",
+    "district": "haruyan"
+  },
+  {
+    "id": "pengambau-hilir-dalam",
+    "name": "Pengambau Hilir Dalam",
+    "district": "haruyan"
+  },
+  {
+    "id": "tabat-padang",
+    "name": "Tabat Padang",
+    "district": "haruyan"
+  },
+  {
+    "id": "lokbuntar",
+    "name": "Lokbuntar",
+    "district": "haruyan"
+  },
+  {
+    "id": "pengambau-hulu",
+    "name": "Pengambau Hulu",
+    "district": "haruyan"
+  },
+  {
+    "id": "sungai-harang",
+    "name": "Sungai Harang",
+    "district": "haruyan"
+  },
+  {
+    "id": "batu-panggung",
+    "name": "Batu Panggung",
+    "district": "haruyan"
+  },
+  {
+    "id": "hapulang",
+    "name": "Hapulang",
+    "district": "haruyan"
+  },
+  {
+    "id": "mangunang",
+    "name": "Mangunang",
+    "district": "haruyan"
+  },
+  {
+    "id": "mangunang-seberang",
+    "name": "Mangunang Seberang",
+    "district": "haruyan"
+  },
+  {
+    "id": "haruyan-seberang",
+    "name": "Haruyan Seberang",
+    "district": "haruyan"
+  },
+  {
+    "id": "haruyan",
+    "name": "Haruyan",
+    "district": "haruyan"
+  },
+  {
+    "id": "andang",
+    "name": "Andang",
+    "district": "haruyan"
+  },
+  {
+    "id": "teluk-mesjid",
+    "name": "Teluk Mesjid",
+    "district": "haruyan"
+  },
+  {
+    "id": "barikin",
+    "name": "Barikin",
+    "district": "haruyan"
+  },
+  {
+    "id": "panggung",
+    "name": "Panggung",
+    "district": "haruyan"
+  },
+  {
+    "id": "pandanu",
+    "name": "Pandanu",
+    "district": "haruyan"
+  }
+]

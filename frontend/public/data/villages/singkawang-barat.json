@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pasiran",
+    "name": "Pasiran",
+    "district": "singkawang-barat"
+  },
+  {
+    "id": "melayu",
+    "name": "Melayu",
+    "district": "singkawang-barat"
+  },
+  {
+    "id": "tengah",
+    "name": "Tengah",
+    "district": "singkawang-barat"
+  },
+  {
+    "id": "kuala",
+    "name": "Kuala",
+    "district": "singkawang-barat"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sasahan",
+    "name": "Sasahan",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "cokopsulanjana",
+    "name": "Cokopsulanjana",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "telaga-luhur",
+    "name": "Telaga Luhur",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "binangun",
+    "name": "Binangun",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "sukabares",
+    "name": "Sukabares",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "sambilawang",
+    "name": "Sambilawang",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "melati",
+    "name": "Melati",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "sampir",
+    "name": "Sampir",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "waringinkurung",
+    "name": "Waringinkurung",
+    "district": "waringinkurung"
+  },
+  {
+    "id": "sukadalem",
+    "name": "Sukadalem",
+    "district": "waringinkurung"
+  }
+]

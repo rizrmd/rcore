@@ -1,0 +1,97 @@
+[
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "rimba-seminai",
+    "name": "Rimba Seminai",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "kuantan-tenang",
+    "name": "Kuantan Tenang",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "kelayang",
+    "name": "Kelayang",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "lubuk-sitarak",
+    "name": "Lubuk Sitarak",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "petonggan",
+    "name": "Petonggan",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "batu-sawar",
+    "name": "Batu Sawar",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-sungai-parit",
+    "name": "Talang Sungai Parit",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-selantai",
+    "name": "Talang Selantai",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-perigi",
+    "name": "Talang Perigi",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-gedabu",
+    "name": "Talang Gedabu",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-sungai-limau",
+    "name": "Talang Sungai Limau",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-durian-cacar",
+    "name": "Talang Durian Cacar",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-tujuh-buah-tangga",
+    "name": "Talang Tujuh Buah Tangga",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "kampung-bunga",
+    "name": "Kampung Bunga",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-pring-jaya",
+    "name": "Talang Pring Jaya",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-sungai-ekok",
+    "name": "Talang Sungai Ekok",
+    "district": "rakit-kulim"
+  },
+  {
+    "id": "talang-suka-maju",
+    "name": "Talang Suka Maju",
+    "district": "rakit-kulim"
+  }
+]

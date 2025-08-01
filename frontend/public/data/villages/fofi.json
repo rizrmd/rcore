@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bangun",
+    "name": "Bangun",
+    "district": "fofi"
+  },
+  {
+    "id": "sadar",
+    "name": "Sadar",
+    "district": "fofi"
+  },
+  {
+    "id": "makmur",
+    "name": "Makmur",
+    "district": "fofi"
+  },
+  {
+    "id": "hamkhu",
+    "name": "Hamkhu",
+    "district": "fofi"
+  },
+  {
+    "id": "hello",
+    "name": "Hello",
+    "district": "fofi"
+  },
+  {
+    "id": "domo",
+    "name": "Domo",
+    "district": "fofi"
+  },
+  {
+    "id": "sohokanggo",
+    "name": "Sohokanggo",
+    "district": "fofi"
+  },
+  {
+    "id": "navini",
+    "name": "Navini",
+    "district": "fofi"
+  }
+]

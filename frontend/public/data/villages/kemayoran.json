@@ -1,0 +1,42 @@
+[
+  {
+    "id": "harapan-mulya",
+    "name": "Harapan Mulya",
+    "district": "kemayoran"
+  },
+  {
+    "id": "cempaka-baru",
+    "name": "Cempaka Baru",
+    "district": "kemayoran"
+  },
+  {
+    "id": "sumur-batu",
+    "name": "Sumur Batu",
+    "district": "kemayoran"
+  },
+  {
+    "id": "serdang",
+    "name": "Serdang",
+    "district": "kemayoran"
+  },
+  {
+    "id": "utan-panjang",
+    "name": "Utan Panjang",
+    "district": "kemayoran"
+  },
+  {
+    "id": "kebon-kosong",
+    "name": "Kebon Kosong",
+    "district": "kemayoran"
+  },
+  {
+    "id": "kemayoran",
+    "name": "Kemayoran",
+    "district": "kemayoran"
+  },
+  {
+    "id": "gunung-sahari-selatan",
+    "name": "Gunung Sahari Selatan",
+    "district": "kemayoran"
+  }
+]

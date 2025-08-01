@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mesat-jaya",
+    "name": "Mesat Jaya",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "mesat-seni",
+    "name": "Mesat Seni",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "jawa-kanan",
+    "name": "Jawa Kanan",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "jawa-kanan-ss",
+    "name": "Jawa Kanan Ss",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "jawa-kiri",
+    "name": "Jawa Kiri",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "wira-karya",
+    "name": "Wira Karya",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "dempo",
+    "name": "Dempo",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "karya-bhakti",
+    "name": "Karya Bhakti",
+    "district": "lubuk-linggau-timur-ii"
+  },
+  {
+    "id": "cereme-taba",
+    "name": "Cereme Taba",
+    "district": "lubuk-linggau-timur-ii"
+  }
+]

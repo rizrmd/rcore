@@ -1,0 +1,62 @@
+[
+  {
+    "id": "belatikan",
+    "name": "Belatikan",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "naputi",
+    "name": "Naputi",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "tau-baru",
+    "name": "Tau Baru",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "tinampak-ii",
+    "name": "Tinampak Ii",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "tinampak-i",
+    "name": "Tinampak I",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "salang",
+    "name": "Salang",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "tembalang",
+    "name": "Tembalang",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "kalun-sayan",
+    "name": "Kalun Sayan",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "sekikilan",
+    "name": "Sekikilan",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "semunad",
+    "name": "Semunad",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "sanur",
+    "name": "Sanur",
+    "district": "tulin-onsoi"
+  },
+  {
+    "id": "makmur",
+    "name": "Makmur",
+    "district": "tulin-onsoi"
+  }
+]

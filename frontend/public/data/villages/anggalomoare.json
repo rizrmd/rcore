@@ -1,0 +1,52 @@
+[
+  {
+    "id": "anggalomoare-jaya",
+    "name": "Anggalomoare Jaya",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "anggalomoare",
+    "name": "Anggalomoare",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "lasoso",
+    "name": "Lasoso",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "lakomea",
+    "name": "Lakomea",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "abelisawah",
+    "name": "Abelisawah",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "puusawah",
+    "name": "Puusawah",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "andobeu-jaya",
+    "name": "Andobeu Jaya",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "galu",
+    "name": "Galu",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "puusangi",
+    "name": "Puusangi",
+    "district": "anggalomoare"
+  },
+  {
+    "id": "tabanggele",
+    "name": "Tabanggele",
+    "district": "anggalomoare"
+  }
+]

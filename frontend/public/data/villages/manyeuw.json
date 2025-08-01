@@ -1,0 +1,42 @@
+[
+  {
+    "id": "rumadian",
+    "name": "Rumadian",
+    "district": "manyeuw"
+  },
+  {
+    "id": "namar",
+    "name": "Namar",
+    "district": "manyeuw"
+  },
+  {
+    "id": "lairngangas",
+    "name": "Lairngangas",
+    "district": "manyeuw"
+  },
+  {
+    "id": "selayar",
+    "name": "Selayar",
+    "district": "manyeuw"
+  },
+  {
+    "id": "ngayub",
+    "name": "Ngayub",
+    "district": "manyeuw"
+  },
+  {
+    "id": "ohoiluk",
+    "name": "Ohoiluk",
+    "district": "manyeuw"
+  },
+  {
+    "id": "ngilngof",
+    "name": "Ngilngof",
+    "district": "manyeuw"
+  },
+  {
+    "id": "ohoililir",
+    "name": "Ohoililir",
+    "district": "manyeuw"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sinar-bentang",
+    "name": "Sinar Bentang",
+    "district": "sagaranten"
+  },
+  {
+    "id": "gunung-bentang",
+    "name": "Gunung Bentang",
+    "district": "sagaranten"
+  },
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "sagaranten"
+  },
+  {
+    "id": "datarnangka",
+    "name": "Datarnangka",
+    "district": "sagaranten"
+  },
+  {
+    "id": "sagaranten",
+    "name": "Sagaranten",
+    "district": "sagaranten"
+  },
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "sagaranten"
+  },
+  {
+    "id": "cibitung",
+    "name": "Cibitung",
+    "district": "sagaranten"
+  },
+  {
+    "id": "hegarmanah",
+    "name": "Hegarmanah",
+    "district": "sagaranten"
+  },
+  {
+    "id": "cibaregbeg",
+    "name": "Cibaregbeg",
+    "district": "sagaranten"
+  },
+  {
+    "id": "puncakmanggis",
+    "name": "Puncakmanggis",
+    "district": "sagaranten"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "sagaranten"
+  }
+]

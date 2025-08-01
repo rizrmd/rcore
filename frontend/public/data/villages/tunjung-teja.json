@@ -1,0 +1,47 @@
+[
+  {
+    "id": "panunggulan",
+    "name": "Panunggulan",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "bojong-menteng",
+    "name": "Bojong Menteng",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "kamuning",
+    "name": "Kamuning",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "bojong-pandan",
+    "name": "Bojong Pandan",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "bojong-catang",
+    "name": "Bojong Catang",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "malanggah",
+    "name": "Malanggah",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "tunjung-jaya",
+    "name": "Tunjung Jaya",
+    "district": "tunjung-teja"
+  },
+  {
+    "id": "pancaregang",
+    "name": "Pancaregang",
+    "district": "tunjung-teja"
+  }
+]

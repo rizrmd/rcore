@@ -1,0 +1,32 @@
+[
+  {
+    "id": "siabu",
+    "name": "Siabu",
+    "district": "salo"
+  },
+  {
+    "id": "ganting",
+    "name": "Ganting",
+    "district": "salo"
+  },
+  {
+    "id": "sipungguk",
+    "name": "Sipungguk",
+    "district": "salo"
+  },
+  {
+    "id": "ganting-damai",
+    "name": "Ganting Damai",
+    "district": "salo"
+  },
+  {
+    "id": "salo",
+    "name": "Salo",
+    "district": "salo"
+  },
+  {
+    "id": "salo-timur",
+    "name": "Salo Timur",
+    "district": "salo"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "karangkemiri",
+    "name": "Karangkemiri",
+    "district": "maos"
+  },
+  {
+    "id": "karangreja",
+    "name": "Karangreja",
+    "district": "maos"
+  },
+  {
+    "id": "klapagada",
+    "name": "Klapagada",
+    "district": "maos"
+  },
+  {
+    "id": "karangrena",
+    "name": "Karangrena",
+    "district": "maos"
+  },
+  {
+    "id": "maos-kidul",
+    "name": "Maos Kidul",
+    "district": "maos"
+  },
+  {
+    "id": "maos-lor",
+    "name": "Maos Lor",
+    "district": "maos"
+  },
+  {
+    "id": "kalijaran",
+    "name": "Kalijaran",
+    "district": "maos"
+  },
+  {
+    "id": "penisihan",
+    "name": "Penisihan",
+    "district": "maos"
+  },
+  {
+    "id": "glempang",
+    "name": "Glempang",
+    "district": "maos"
+  }
+]

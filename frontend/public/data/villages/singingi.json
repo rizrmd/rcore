@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pangkalan-indarung",
+    "name": "Pangkalan Indarung",
+    "district": "singingi"
+  },
+  {
+    "id": "pulau-padang",
+    "name": "Pulau Padang",
+    "district": "singingi"
+  },
+  {
+    "id": "muara-lembu",
+    "name": "Muara Lembu",
+    "district": "singingi"
+  },
+  {
+    "id": "logas",
+    "name": "Logas",
+    "district": "singingi"
+  },
+  {
+    "id": "sungai-bawang",
+    "name": "Sungai Bawang",
+    "district": "singingi"
+  },
+  {
+    "id": "air-mas",
+    "name": "Air Mas",
+    "district": "singingi"
+  },
+  {
+    "id": "sumber-datar",
+    "name": "Sumber Datar",
+    "district": "singingi"
+  },
+  {
+    "id": "sungai-keranji",
+    "name": "Sungai Keranji",
+    "district": "singingi"
+  },
+  {
+    "id": "pasir-emas",
+    "name": "Pasir Emas",
+    "district": "singingi"
+  },
+  {
+    "id": "sungai-sirih",
+    "name": "Sungai Sirih",
+    "district": "singingi"
+  },
+  {
+    "id": "kebun-lado",
+    "name": "Kebun Lado",
+    "district": "singingi"
+  },
+  {
+    "id": "sungai-kuning",
+    "name": "Sungai Kuning",
+    "district": "singingi"
+  },
+  {
+    "id": "petai-baru",
+    "name": "Petai Baru",
+    "district": "singingi"
+  },
+  {
+    "id": "logas-hilir",
+    "name": "Logas Hilir",
+    "district": "singingi"
+  }
+]

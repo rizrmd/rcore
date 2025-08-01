@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lebak",
+    "name": "Lebak",
+    "district": "munjul"
+  },
+  {
+    "id": "gunungbatu",
+    "name": "Gunungbatu",
+    "district": "munjul"
+  },
+  {
+    "id": "panacaran",
+    "name": "Panacaran",
+    "district": "munjul"
+  },
+  {
+    "id": "curuglanglang",
+    "name": "Curuglanglang",
+    "district": "munjul"
+  },
+  {
+    "id": "cibitung",
+    "name": "Cibitung",
+    "district": "munjul"
+  },
+  {
+    "id": "kotadukuh",
+    "name": "Kotadukuh",
+    "district": "munjul"
+  },
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "munjul"
+  },
+  {
+    "id": "sukasaba",
+    "name": "Sukasaba",
+    "district": "munjul"
+  }
+]

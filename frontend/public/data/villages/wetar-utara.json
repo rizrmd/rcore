@@ -1,0 +1,32 @@
+[
+  {
+    "id": "eray",
+    "name": "Eray",
+    "district": "wetar-utara"
+  },
+  {
+    "id": "nabar",
+    "name": "Nabar",
+    "district": "wetar-utara"
+  },
+  {
+    "id": "esulit",
+    "name": "Esulit",
+    "district": "wetar-utara"
+  },
+  {
+    "id": "naumatang",
+    "name": "Naumatang",
+    "district": "wetar-utara"
+  },
+  {
+    "id": "lurang",
+    "name": "Lurang",
+    "district": "wetar-utara"
+  },
+  {
+    "id": "uhak",
+    "name": "Uhak",
+    "district": "wetar-utara"
+  }
+]

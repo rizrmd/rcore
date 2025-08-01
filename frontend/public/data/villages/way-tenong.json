@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tambak-jaya",
+    "name": "Tambak Jaya",
+    "district": "way-tenong"
+  },
+  {
+    "id": "padang-tambak",
+    "name": "Padang Tambak",
+    "district": "way-tenong"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "way-tenong"
+  },
+  {
+    "id": "sukananti",
+    "name": "Sukananti",
+    "district": "way-tenong"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "way-tenong"
+  },
+  {
+    "id": "mutar-alam",
+    "name": "Mutar Alam",
+    "district": "way-tenong"
+  },
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "way-tenong"
+  },
+  {
+    "id": "pura-laksana",
+    "name": "Pura Laksana",
+    "district": "way-tenong"
+  },
+  {
+    "id": "fajar-bulan",
+    "name": "Fajar Bulan",
+    "district": "way-tenong"
+  }
+]

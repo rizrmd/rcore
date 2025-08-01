@@ -1,0 +1,82 @@
+[
+  {
+    "id": "koto-majidin-mudik",
+    "name": "Koto Majidin Mudik",
+    "district": "air-hangat"
+  },
+  {
+    "id": "koto-majidin-hilir",
+    "name": "Koto Majidin Hilir",
+    "district": "air-hangat"
+  },
+  {
+    "id": "air-tenang",
+    "name": "Air Tenang",
+    "district": "air-hangat"
+  },
+  {
+    "id": "koto-baru-semurup",
+    "name": "Koto Baru Semurup",
+    "district": "air-hangat"
+  },
+  {
+    "id": "koto-diair",
+    "name": "Koto Diair",
+    "district": "air-hangat"
+  },
+  {
+    "id": "pasar-semurup",
+    "name": "Pasar Semurup",
+    "district": "air-hangat"
+  },
+  {
+    "id": "muara-semerah",
+    "name": "Muara Semerah",
+    "district": "air-hangat"
+  },
+  {
+    "id": "balai",
+    "name": "Balai",
+    "district": "air-hangat"
+  },
+  {
+    "id": "koto-dua-lama",
+    "name": "Koto Dua Lama",
+    "district": "air-hangat"
+  },
+  {
+    "id": "pendung-hilir",
+    "name": "Pendung Hilir",
+    "district": "air-hangat"
+  },
+  {
+    "id": "pendung-mudik",
+    "name": "Pendung Mudik",
+    "district": "air-hangat"
+  },
+  {
+    "id": "sawahan-koto-majidin",
+    "name": "Sawahan Koto Majidin",
+    "district": "air-hangat"
+  },
+  {
+    "id": "muara-semerah-mudik",
+    "name": "Muara Semerah Mudik",
+    "district": "air-hangat"
+  },
+  {
+    "id": "pendung-tengah",
+    "name": "Pendung Tengah",
+    "district": "air-hangat"
+  },
+  {
+    "id": "koto-majidin-di-air",
+    "name": "Koto Majidin Di Air",
+    "district": "air-hangat"
+  },
+  {
+    "id": "sawahan-jaya",
+    "name": "Sawahan Jaya",
+    "district": "air-hangat"
+  }
+]

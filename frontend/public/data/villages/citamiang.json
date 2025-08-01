@@ -1,0 +1,27 @@
+[
+  {
+    "id": "cikondang",
+    "name": "Cikondang",
+    "district": "citamiang"
+  },
+  {
+    "id": "gedong-panjang",
+    "name": "Gedong Panjang",
+    "district": "citamiang"
+  },
+  {
+    "id": "citamiang",
+    "name": "Citamiang",
+    "district": "citamiang"
+  },
+  {
+    "id": "nanggeleng",
+    "name": "Nanggeleng",
+    "district": "citamiang"
+  },
+  {
+    "id": "tipar",
+    "name": "Tipar",
+    "district": "citamiang"
+  }
+]

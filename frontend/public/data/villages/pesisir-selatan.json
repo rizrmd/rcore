@@ -1,0 +1,77 @@
+[
+  {
+    "id": "marang",
+    "name": "Marang",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "bangun-negara",
+    "name": "Bangun Negara",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "way-jambu",
+    "name": "Way Jambu",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "paku-negara",
+    "name": "Paku Negara",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "ulok-manik",
+    "name": "Ulok Manik",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "biha",
+    "name": "Biha",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "tanjung-setia",
+    "name": "Tanjung Setia",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "sumur-jaya",
+    "name": "Sumur Jaya",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "pagar-dalam",
+    "name": "Pagar Dalam",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "tanjung-jati",
+    "name": "Tanjung Jati",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "pelita-jaya",
+    "name": "Pelita Jaya",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "negeri-ratu-tenumbang",
+    "name": "Negeri Ratu Tenumbang",
+    "district": "pesisir-selatan"
+  },
+  {
+    "id": "tulung-bamban",
+    "name": "Tulung Bamban",
+    "district": "pesisir-selatan"
+  }
+]

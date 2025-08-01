@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gununggeni",
+    "name": "Gununggeni",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "liprak-kidul",
+    "name": "Liprak Kidul",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "sentulan",
+    "name": "Sentulan",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "gading-kulon",
+    "name": "Gading Kulon",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "klenang-kidul",
+    "name": "Klenang Kidul",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "klenang-lor",
+    "name": "Klenang Lor",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "tarokan",
+    "name": "Tarokan",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "liprak-wetan",
+    "name": "Liprak Wetan",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "liprak-kulon",
+    "name": "Liprak Kulon",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "banyuanyar-kidul",
+    "name": "Banyuanyar Kidul",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "blado-wetan",
+    "name": "Blado Wetan",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "banyuanyar-tengah",
+    "name": "Banyuanyar Tengah",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "pendil",
+    "name": "Pendil",
+    "district": "banyuanyar"
+  },
+  {
+    "id": "alassapi",
+    "name": "Alassapi",
+    "district": "banyuanyar"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ngancar",
+    "name": "Ngancar",
+    "district": "plaosan"
+  },
+  {
+    "id": "puntukdoro",
+    "name": "Puntukdoro",
+    "district": "plaosan"
+  },
+  {
+    "id": "bogoarum",
+    "name": "Bogoarum",
+    "district": "plaosan"
+  },
+  {
+    "id": "randugede",
+    "name": "Randugede",
+    "district": "plaosan"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "plaosan"
+  },
+  {
+    "id": "nitikan",
+    "name": "Nitikan",
+    "district": "plaosan"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "plaosan"
+  },
+  {
+    "id": "buluharjo",
+    "name": "Buluharjo",
+    "district": "plaosan"
+  },
+  {
+    "id": "plaosan",
+    "name": "Plaosan",
+    "district": "plaosan"
+  },
+  {
+    "id": "dadi",
+    "name": "Dadi",
+    "district": "plaosan"
+  },
+  {
+    "id": "sarangan",
+    "name": "Sarangan",
+    "district": "plaosan"
+  },
+  {
+    "id": "pacalan",
+    "name": "Pacalan",
+    "district": "plaosan"
+  },
+  {
+    "id": "sendangagung",
+    "name": "Sendangagung",
+    "district": "plaosan"
+  }
+]

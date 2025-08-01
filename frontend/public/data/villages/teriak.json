@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "teriak"
+  },
+  {
+    "id": "setia-jaya",
+    "name": "Setia Jaya",
+    "district": "teriak"
+  },
+  {
+    "id": "sumber-karya",
+    "name": "Sumber Karya",
+    "district": "teriak"
+  },
+  {
+    "id": "dharma-bhakti",
+    "name": "Dharma Bhakti",
+    "district": "teriak"
+  },
+  {
+    "id": "lulang",
+    "name": "Lulang",
+    "district": "teriak"
+  },
+  {
+    "id": "teriak",
+    "name": "Teriak",
+    "district": "teriak"
+  },
+  {
+    "id": "temiasio",
+    "name": "Temiasio",
+    "district": "teriak"
+  },
+  {
+    "id": "bana",
+    "name": "Bana",
+    "district": "teriak"
+  },
+  {
+    "id": "tubajur",
+    "name": "Tubajur",
+    "district": "teriak"
+  },
+  {
+    "id": "ampar-benteng",
+    "name": "Ampar Benteng",
+    "district": "teriak"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "teriak"
+  },
+  {
+    "id": "telidik",
+    "name": "Telidik",
+    "district": "teriak"
+  },
+  {
+    "id": "sekaruh",
+    "name": "Sekaruh",
+    "district": "teriak"
+  },
+  {
+    "id": "sebetung-menyala",
+    "name": "Sebetung Menyala",
+    "district": "teriak"
+  },
+  {
+    "id": "malo-jelayan",
+    "name": "Malo Jelayan",
+    "district": "teriak"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "batakan",
+    "name": "Batakan",
+    "district": "panyipatan"
+  },
+  {
+    "id": "tanjung-dewa",
+    "name": "Tanjung Dewa",
+    "district": "panyipatan"
+  },
+  {
+    "id": "kandangan-lama",
+    "name": "Kandangan Lama",
+    "district": "panyipatan"
+  },
+  {
+    "id": "batu-tungku",
+    "name": "Batu Tungku",
+    "district": "panyipatan"
+  },
+  {
+    "id": "kuringkit",
+    "name": "Kuringkit",
+    "district": "panyipatan"
+  },
+  {
+    "id": "bumi-asih",
+    "name": "Bumi Asih",
+    "district": "panyipatan"
+  },
+  {
+    "id": "batu-mulya",
+    "name": "Batu Mulya",
+    "district": "panyipatan"
+  },
+  {
+    "id": "suka-ramah",
+    "name": "Suka Ramah",
+    "district": "panyipatan"
+  },
+  {
+    "id": "panyipatan",
+    "name": "Panyipatan",
+    "district": "panyipatan"
+  },
+  {
+    "id": "kandangan-baru",
+    "name": "Kandangan Baru",
+    "district": "panyipatan"
+  }
+]

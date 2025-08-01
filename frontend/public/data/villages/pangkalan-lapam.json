@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sungai-bungin",
+    "name": "Sungai Bungin",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "suka-raja",
+    "name": "Suka Raja",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "darat",
+    "name": "Darat",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "lebung-batang",
+    "name": "Lebung Batang",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "pangkalan-lampam",
+    "name": "Pangkalan Lampam",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "lirik",
+    "name": "Lirik",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "deling",
+    "name": "Deling",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "talang-daya",
+    "name": "Talang Daya",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "air-pedara",
+    "name": "Air Pedara",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "rimba-samak",
+    "name": "Rimba Samak",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "pulawan",
+    "name": "Pulawan",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "riding",
+    "name": "Riding",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "sunggutan",
+    "name": "Sunggutan",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "air-rumbai",
+    "name": "Air Rumbai",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "rambai",
+    "name": "Rambai",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "perigi",
+    "name": "Perigi",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "district": "pangkalan-lapam"
+  },
+  {
+    "id": "rawa-tenam",
+    "name": "Rawa Tenam",
+    "district": "pangkalan-lapam"
+  }
+]

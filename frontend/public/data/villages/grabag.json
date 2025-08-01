@@ -1,0 +1,287 @@
+[
+  {
+    "id": "kertojayan",
+    "name": "Kertojayan",
+    "district": "grabag"
+  },
+  {
+    "id": "ukirsari",
+    "name": "Ukirsari",
+    "district": "grabag"
+  },
+  {
+    "id": "pasaranom",
+    "name": "Pasaranom",
+    "district": "grabag"
+  },
+  {
+    "id": "munggangsari",
+    "name": "Munggangsari",
+    "district": "grabag"
+  },
+  {
+    "id": "ketawangrejo",
+    "name": "Ketawangrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "patutrejo",
+    "name": "Patutrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "harjobinangun",
+    "name": "Harjobinangun",
+    "district": "grabag"
+  },
+  {
+    "id": "roworejo",
+    "name": "Roworejo",
+    "district": "grabag"
+  },
+  {
+    "id": "tunggulrejo",
+    "name": "Tunggulrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "aglik",
+    "name": "Aglik",
+    "district": "grabag"
+  },
+  {
+    "id": "grabag",
+    "name": "Grabag",
+    "district": "grabag"
+  },
+  {
+    "id": "banyuyoso",
+    "name": "Banyuyoso",
+    "district": "grabag"
+  },
+  {
+    "id": "wonoenggal",
+    "name": "Wonoenggal",
+    "district": "grabag"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "grabag"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "grabag"
+  },
+  {
+    "id": "duduwetan",
+    "name": "Duduwetan",
+    "district": "grabag"
+  },
+  {
+    "id": "dudukulon",
+    "name": "Dudukulon",
+    "district": "grabag"
+  },
+  {
+    "id": "bakurejo",
+    "name": "Bakurejo",
+    "district": "grabag"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "grabag"
+  },
+  {
+    "id": "nambangan",
+    "name": "Nambangan",
+    "district": "grabag"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "grabag"
+  },
+  {
+    "id": "rowodadi",
+    "name": "Rowodadi",
+    "district": "grabag"
+  },
+  {
+    "id": "trimulyo",
+    "name": "Trimulyo",
+    "district": "grabag"
+  },
+  {
+    "id": "tulusrejo",
+    "name": "Tulusrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "kumpulrejo",
+    "name": "Kumpulrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "tlepok-kulon",
+    "name": "Tlepok Kulon",
+    "district": "grabag"
+  },
+  {
+    "id": "tlepok-wetan",
+    "name": "Tlepok Wetan",
+    "district": "grabag"
+  },
+  {
+    "id": "sangubanyu",
+    "name": "Sangubanyu",
+    "district": "grabag"
+  },
+  {
+    "id": "kedung-kamal",
+    "name": "Kedung Kamal",
+    "district": "grabag"
+  },
+  {
+    "id": "lebak",
+    "name": "Lebak",
+    "district": "grabag"
+  },
+  {
+    "id": "pucungsari",
+    "name": "Pucungsari",
+    "district": "grabag"
+  },
+  {
+    "id": "sugihmas",
+    "name": "Sugihmas",
+    "district": "grabag"
+  },
+  {
+    "id": "pesidi",
+    "name": "Pesidi",
+    "district": "grabag"
+  },
+  {
+    "id": "giriwetan",
+    "name": "Giriwetan",
+    "district": "grabag"
+  },
+  {
+    "id": "cokro",
+    "name": "Cokro",
+    "district": "grabag"
+  },
+  {
+    "id": "salam",
+    "name": "Salam",
+    "district": "grabag"
+  },
+  {
+    "id": "ketawang",
+    "name": "Ketawang",
+    "district": "grabag"
+  },
+  {
+    "id": "banaran",
+    "name": "Banaran",
+    "district": "grabag"
+  },
+  {
+    "id": "baleagung",
+    "name": "Baleagung",
+    "district": "grabag"
+  },
+  {
+    "id": "sumurarum",
+    "name": "Sumurarum",
+    "district": "grabag"
+  },
+  {
+    "id": "kalikuto",
+    "name": "Kalikuto",
+    "district": "grabag"
+  },
+  {
+    "id": "banyusari",
+    "name": "Banyusari",
+    "district": "grabag"
+  },
+  {
+    "id": "kartoharjo",
+    "name": "Kartoharjo",
+    "district": "grabag"
+  },
+  {
+    "id": "grabag",
+    "name": "Grabag",
+    "district": "grabag"
+  },
+  {
+    "id": "kleteran",
+    "name": "Kleteran",
+    "district": "grabag"
+  },
+  {
+    "id": "ngasinan",
+    "name": "Ngasinan",
+    "district": "grabag"
+  },
+  {
+    "id": "tirto",
+    "name": "Tirto",
+    "district": "grabag"
+  },
+  {
+    "id": "tlogorejo",
+    "name": "Tlogorejo",
+    "district": "grabag"
+  },
+  {
+    "id": "sambungrejo",
+    "name": "Sambungrejo",
+    "district": "grabag"
+  },
+  {
+    "id": "citrosono",
+    "name": "Citrosono",
+    "district": "grabag"
+  },
+  {
+    "id": "sidogede",
+    "name": "Sidogede",
+    "district": "grabag"
+  },
+  {
+    "id": "kalipucang",
+    "name": "Kalipucang",
+    "district": "grabag"
+  },
+  {
+    "id": "seworan",
+    "name": "Seworan",
+    "district": "grabag"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "grabag"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "grabag"
+  },
+  {
+    "id": "ngrancah",
+    "name": "Ngrancah",
+    "district": "grabag"
+  }
+]

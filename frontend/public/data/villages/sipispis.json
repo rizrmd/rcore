@@ -1,0 +1,102 @@
+[
+  {
+    "id": "rimbun",
+    "name": "Rimbun",
+    "district": "sipispis"
+  },
+  {
+    "id": "mariah-nagur",
+    "name": "Mariah Nagur",
+    "district": "sipispis"
+  },
+  {
+    "id": "parlambean",
+    "name": "Parlambean",
+    "district": "sipispis"
+  },
+  {
+    "id": "naga-raja",
+    "name": "Naga Raja",
+    "district": "sipispis"
+  },
+  {
+    "id": "tinokkah",
+    "name": "Tinokkah",
+    "district": "sipispis"
+  },
+  {
+    "id": "bartong",
+    "name": "Bartong",
+    "district": "sipispis"
+  },
+  {
+    "id": "nagur-pane",
+    "name": "Nagur Pane",
+    "district": "sipispis"
+  },
+  {
+    "id": "baja-dolok",
+    "name": "Baja Dolok",
+    "district": "sipispis"
+  },
+  {
+    "id": "pispis",
+    "name": "Pispis",
+    "district": "sipispis"
+  },
+  {
+    "id": "marubun",
+    "name": "Marubun",
+    "district": "sipispis"
+  },
+  {
+    "id": "serbananti",
+    "name": "Serbananti",
+    "district": "sipispis"
+  },
+  {
+    "id": "sipispis",
+    "name": "Sipispis",
+    "district": "sipispis"
+  },
+  {
+    "id": "silau-padang",
+    "name": "Silau Padang",
+    "district": "sipispis"
+  },
+  {
+    "id": "marjanji",
+    "name": "Marjanji",
+    "district": "sipispis"
+  },
+  {
+    "id": "buluh-duri",
+    "name": "Buluh Duri",
+    "district": "sipispis"
+  },
+  {
+    "id": "gunung-manako",
+    "name": "Gunung Manako",
+    "district": "sipispis"
+  },
+  {
+    "id": "damak-urat",
+    "name": "Damak Urat",
+    "district": "sipispis"
+  },
+  {
+    "id": "simalas",
+    "name": "Simalas",
+    "district": "sipispis"
+  },
+  {
+    "id": "sibarau",
+    "name": "Sibarau",
+    "district": "sipispis"
+  },
+  {
+    "id": "gunung-pane",
+    "name": "Gunung Pane",
+    "district": "sipispis"
+  }
+]

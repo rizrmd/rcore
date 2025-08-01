@@ -1,0 +1,52 @@
+[
+  {
+    "id": "taganik",
+    "name": "Taganik",
+    "district": "yalengga"
+  },
+  {
+    "id": "yelengga",
+    "name": "Yelengga",
+    "district": "yalengga"
+  },
+  {
+    "id": "wananuk",
+    "name": "Wananuk",
+    "district": "yalengga"
+  },
+  {
+    "id": "pilimo",
+    "name": "Pilimo",
+    "district": "yalengga"
+  },
+  {
+    "id": "akorek",
+    "name": "Akorek",
+    "district": "yalengga"
+  },
+  {
+    "id": "manili",
+    "name": "Manili",
+    "district": "yalengga"
+  },
+  {
+    "id": "aipakma",
+    "name": "Aipakma",
+    "district": "yalengga"
+  },
+  {
+    "id": "wugurima",
+    "name": "Wugurima",
+    "district": "yalengga"
+  },
+  {
+    "id": "bitti",
+    "name": "Bitti",
+    "district": "yalengga"
+  },
+  {
+    "id": "wananuk-dua",
+    "name": "Wananuk Dua",
+    "district": "yalengga"
+  }
+]

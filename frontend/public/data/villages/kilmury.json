@@ -1,0 +1,67 @@
+[
+  {
+    "id": "selor",
+    "name": "Selor",
+    "district": "kilmury"
+  },
+  {
+    "id": "kilmury",
+    "name": "Kilmury",
+    "district": "kilmury"
+  },
+  {
+    "id": "kilbon-kway",
+    "name": "Kilbon Kway",
+    "district": "kilmury"
+  },
+  {
+    "id": "nekan",
+    "name": "Nekan",
+    "district": "kilmury"
+  },
+  {
+    "id": "afang-kota",
+    "name": "Afang Kota",
+    "district": "kilmury"
+  },
+  {
+    "id": "afang-defol",
+    "name": "Afang Defol",
+    "district": "kilmury"
+  },
+  {
+    "id": "kumelang",
+    "name": "Kumelang",
+    "district": "kilmury"
+  },
+  {
+    "id": "kamar",
+    "name": "Kamar",
+    "district": "kilmury"
+  },
+  {
+    "id": "gunak",
+    "name": "Gunak",
+    "district": "kilmury"
+  },
+  {
+    "id": "sumbawa",
+    "name": "Sumbawa",
+    "district": "kilmury"
+  },
+  {
+    "id": "mising",
+    "name": "Mising",
+    "district": "kilmury"
+  },
+  {
+    "id": "taa",
+    "name": "Taa",
+    "district": "kilmury"
+  },
+  {
+    "id": "bitorik",
+    "name": "Bitorik",
+    "district": "kilmury"
+  }
+]

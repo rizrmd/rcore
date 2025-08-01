@@ -1,0 +1,22 @@
+[
+  {
+    "id": "balansiku",
+    "name": "Balansiku",
+    "district": "sebatik"
+  },
+  {
+    "id": "tanjung-karang",
+    "name": "Tanjung Karang",
+    "district": "sebatik"
+  },
+  {
+    "id": "sei-manurung",
+    "name": "Sei Manurung",
+    "district": "sebatik"
+  },
+  {
+    "id": "padaidi",
+    "name": "Padaidi",
+    "district": "sebatik"
+  }
+]

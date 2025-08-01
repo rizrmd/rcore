@@ -1,0 +1,27 @@
+[
+  {
+    "id": "biawu",
+    "name": "Biawu",
+    "district": "kota-selatan"
+  },
+  {
+    "id": "biawao",
+    "name": "Biawao",
+    "district": "kota-selatan"
+  },
+  {
+    "id": "limba-b",
+    "name": "Limba B",
+    "district": "kota-selatan"
+  },
+  {
+    "id": "limba-u-satu",
+    "name": "Limba U Satu",
+    "district": "kota-selatan"
+  },
+  {
+    "id": "limba-u-dua",
+    "name": "Limba U Dua",
+    "district": "kota-selatan"
+  }
+]

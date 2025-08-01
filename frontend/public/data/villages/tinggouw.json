@@ -1,0 +1,22 @@
+[
+  {
+    "id": "soon",
+    "name": "Soon",
+    "district": "tinggouw"
+  },
+  {
+    "id": "ruriay",
+    "name": "Ruriay",
+    "district": "tinggouw"
+  },
+  {
+    "id": "tinggouw",
+    "name": "Tinggouw",
+    "district": "tinggouw"
+  },
+  {
+    "id": "hohair",
+    "name": "Hohair",
+    "district": "tinggouw"
+  }
+]

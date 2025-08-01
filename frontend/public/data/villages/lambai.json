@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lapasi-pasi",
+    "name": "Lapasi-Pasi",
+    "district": "lambai"
+  },
+  {
+    "id": "lambai",
+    "name": "Lambai",
+    "district": "lambai"
+  },
+  {
+    "id": "latawaro",
+    "name": "Latawaro",
+    "district": "lambai"
+  },
+  {
+    "id": "raoda",
+    "name": "Raoda",
+    "district": "lambai"
+  },
+  {
+    "id": "woise",
+    "name": "Woise",
+    "district": "lambai"
+  },
+  {
+    "id": "woitombo",
+    "name": "Woitombo",
+    "district": "lambai"
+  },
+  {
+    "id": "tebongeano",
+    "name": "Tebongeano",
+    "district": "lambai"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "blang-seunong",
+    "name": "Blang Seunong",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "pante-labu",
+    "name": "Pante Labu",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "pante-rambong",
+    "name": "Pante Rambong",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "alue-ie-mirah",
+    "name": "Alue Ie Mirah",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "seuneubok-tuha",
+    "name": "Seuneubok Tuha",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "seuneubok-saboh",
+    "name": "Seuneubok Saboh",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "buket-kareng",
+    "name": "Buket Kareng",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "buket-bata",
+    "name": "Buket Bata",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "grong-grong",
+    "name": "Grong Grong",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "meunasah-tunong",
+    "name": "Meunasah Tunong",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "matang-peureulak",
+    "name": "Matang Peureulak",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "meunasah-leubok",
+    "name": "Meunasah Leubok",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "meunasah-teungoh",
+    "name": "Meunasah Teungoh",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "keude-baro",
+    "name": "Keude Baro",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "pante-panah",
+    "name": "Pante Panah",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "matang-pudeng",
+    "name": "Matang Pudeng",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "gampong-putoh-dua",
+    "name": "Gampong Putoh Dua",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "matang-kruet",
+    "name": "Matang Kruet",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "paya-deumam-satu",
+    "name": "Paya Deumam Satu",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "paya-deumam-lhee",
+    "name": "Paya Deumam Lhee",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "paya-deumam-dua",
+    "name": "Paya Deumam Dua",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "putoh-satu",
+    "name": "Putoh Satu",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "sah-raja",
+    "name": "Sah Raja",
+    "district": "pante-bidari"
+  },
+  {
+    "id": "sijudo",
+    "name": "Sijudo",
+    "district": "pante-bidari"
+  }
+]

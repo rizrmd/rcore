@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pirawun",
+    "name": "Pirawun",
+    "district": "gamelia"
+  },
+  {
+    "id": "gamelia",
+    "name": "Gamelia",
+    "district": "gamelia"
+  },
+  {
+    "id": "gawiwarak",
+    "name": "Gawiwarak",
+    "district": "gamelia"
+  },
+  {
+    "id": "meyagale",
+    "name": "Meyagale",
+    "district": "gamelia"
+  },
+  {
+    "id": "wulaipas",
+    "name": "Wulaipas",
+    "district": "gamelia"
+  },
+  {
+    "id": "gunagewak",
+    "name": "Gunagewak",
+    "district": "gamelia"
+  }
+]

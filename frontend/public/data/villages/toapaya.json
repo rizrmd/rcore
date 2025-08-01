@@ -1,0 +1,22 @@
+[
+  {
+    "id": "toapaya-utara",
+    "name": "Toapaya Utara",
+    "district": "toapaya"
+  },
+  {
+    "id": "toapaya",
+    "name": "Toapaya",
+    "district": "toapaya"
+  },
+  {
+    "id": "toapaya-asri",
+    "name": "Toapaya Asri",
+    "district": "toapaya"
+  },
+  {
+    "id": "toapaya-selatan",
+    "name": "Toapaya Selatan",
+    "district": "toapaya"
+  }
+]

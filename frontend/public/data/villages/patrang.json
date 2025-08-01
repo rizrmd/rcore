@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gebang",
+    "name": "Gebang",
+    "district": "patrang"
+  },
+  {
+    "id": "jember-lor",
+    "name": "Jember Lor",
+    "district": "patrang"
+  },
+  {
+    "id": "patrang",
+    "name": "Patrang",
+    "district": "patrang"
+  },
+  {
+    "id": "baratan",
+    "name": "Baratan",
+    "district": "patrang"
+  },
+  {
+    "id": "bintoro",
+    "name": "Bintoro",
+    "district": "patrang"
+  },
+  {
+    "id": "slawu",
+    "name": "Slawu",
+    "district": "patrang"
+  },
+  {
+    "id": "jumerto",
+    "name": "Jumerto",
+    "district": "patrang"
+  },
+  {
+    "id": "banjar-sengon",
+    "name": "Banjar Sengon",
+    "district": "patrang"
+  }
+]

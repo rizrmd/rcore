@@ -1,0 +1,67 @@
+[
+  {
+    "id": "banjarejo",
+    "name": "Banjarejo",
+    "district": "barat"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "barat"
+  },
+  {
+    "id": "karangsono",
+    "name": "Karangsono",
+    "district": "barat"
+  },
+  {
+    "id": "bogorejo",
+    "name": "Bogorejo",
+    "district": "barat"
+  },
+  {
+    "id": "tebon",
+    "name": "Tebon",
+    "district": "barat"
+  },
+  {
+    "id": "manjung",
+    "name": "Manjung",
+    "district": "barat"
+  },
+  {
+    "id": "panggung",
+    "name": "Panggung",
+    "district": "barat"
+  },
+  {
+    "id": "klagen",
+    "name": "Klagen",
+    "district": "barat"
+  },
+  {
+    "id": "bangunasri",
+    "name": "Bangunasri",
+    "district": "barat"
+  },
+  {
+    "id": "blaran",
+    "name": "Blaran",
+    "district": "barat"
+  },
+  {
+    "id": "mangge",
+    "name": "Mangge",
+    "district": "barat"
+  },
+  {
+    "id": "jonggrang",
+    "name": "Jonggrang",
+    "district": "barat"
+  },
+  {
+    "id": "rejomulyo",
+    "name": "Rejomulyo",
+    "district": "barat"
+  }
+]

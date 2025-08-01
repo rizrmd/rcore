@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "purbalingga"
+  },
+  {
+    "id": "toyareja",
+    "name": "Toyareja",
+    "district": "purbalingga"
+  },
+  {
+    "id": "kedung-menjangan",
+    "name": "Kedung Menjangan",
+    "district": "purbalingga"
+  },
+  {
+    "id": "jatisaba",
+    "name": "Jatisaba",
+    "district": "purbalingga"
+  },
+  {
+    "id": "bancar",
+    "name": "Bancar",
+    "district": "purbalingga"
+  },
+  {
+    "id": "purbalingga-wetan",
+    "name": "Purbalingga Wetan",
+    "district": "purbalingga"
+  },
+  {
+    "id": "penambongan",
+    "name": "Penambongan",
+    "district": "purbalingga"
+  },
+  {
+    "id": "purbalingga-kidul",
+    "name": "Purbalingga Kidul",
+    "district": "purbalingga"
+  },
+  {
+    "id": "kandang-gampang",
+    "name": "Kandang Gampang",
+    "district": "purbalingga"
+  },
+  {
+    "id": "purbalingga-kulon",
+    "name": "Purbalingga Kulon",
+    "district": "purbalingga"
+  },
+  {
+    "id": "purbalingga-lor",
+    "name": "Purbalingga Lor",
+    "district": "purbalingga"
+  },
+  {
+    "id": "kembaran-kulon",
+    "name": "Kembaran Kulon",
+    "district": "purbalingga"
+  },
+  {
+    "id": "wirasana",
+    "name": "Wirasana",
+    "district": "purbalingga"
+  }
+]

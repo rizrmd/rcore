@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sendang",
+    "name": "Sendang",
+    "district": "wonogiri"
+  },
+  {
+    "id": "wuryorejo",
+    "name": "Wuryorejo",
+    "district": "wonogiri"
+  },
+  {
+    "id": "pokohkidul",
+    "name": "Pokohkidul",
+    "district": "wonogiri"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "wonogiri"
+  },
+  {
+    "id": "wonoboyo",
+    "name": "Wonoboyo",
+    "district": "wonogiri"
+  },
+  {
+    "id": "giripurwo",
+    "name": "Giripurwo",
+    "district": "wonogiri"
+  },
+  {
+    "id": "giritirto",
+    "name": "Giritirto",
+    "district": "wonogiri"
+  },
+  {
+    "id": "giriwono",
+    "name": "Giriwono",
+    "district": "wonogiri"
+  },
+  {
+    "id": "wonokarto",
+    "name": "Wonokarto",
+    "district": "wonogiri"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "wonogiri"
+  },
+  {
+    "id": "manjung",
+    "name": "Manjung",
+    "district": "wonogiri"
+  },
+  {
+    "id": "sonoharjo",
+    "name": "Sonoharjo",
+    "district": "wonogiri"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "wonogiri"
+  },
+  {
+    "id": "wonoharjo",
+    "name": "Wonoharjo",
+    "district": "wonogiri"
+  }
+]

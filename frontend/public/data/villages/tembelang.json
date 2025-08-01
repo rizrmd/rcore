@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mojokrapak",
+    "name": "Mojokrapak",
+    "district": "tembelang"
+  },
+  {
+    "id": "kali-kejambon",
+    "name": "Kali Kejambon",
+    "district": "tembelang"
+  },
+  {
+    "id": "kedung-losari",
+    "name": "Kedung Losari",
+    "district": "tembelang"
+  },
+  {
+    "id": "tamping-mojo",
+    "name": "Tamping Mojo",
+    "district": "tembelang"
+  },
+  {
+    "id": "pesantren",
+    "name": "Pesantren",
+    "district": "tembelang"
+  },
+  {
+    "id": "tembelang",
+    "name": "Tembelang",
+    "district": "tembelang"
+  },
+  {
+    "id": "kedung-otok",
+    "name": "Kedung Otok",
+    "district": "tembelang"
+  },
+  {
+    "id": "rejoso-pinggir",
+    "name": "Rejoso Pinggir",
+    "district": "tembelang"
+  },
+  {
+    "id": "pulorejo",
+    "name": "Pulorejo",
+    "district": "tembelang"
+  },
+  {
+    "id": "bedah-lawak",
+    "name": "Bedah Lawak",
+    "district": "tembelang"
+  },
+  {
+    "id": "gabusbanaran",
+    "name": "Gabusbanaran",
+    "district": "tembelang"
+  },
+  {
+    "id": "pulo-gedang",
+    "name": "Pulo Gedang",
+    "district": "tembelang"
+  },
+  {
+    "id": "jati-wates",
+    "name": "Jati Wates",
+    "district": "tembelang"
+  },
+  {
+    "id": "kepuh-doko",
+    "name": "Kepuh Doko",
+    "district": "tembelang"
+  }
+]

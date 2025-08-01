@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "cilebar"
+  },
+  {
+    "id": "ciptamargi",
+    "name": "Ciptamargi",
+    "district": "cilebar"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "cilebar"
+  },
+  {
+    "id": "mekarpohaci",
+    "name": "Mekarpohaci",
+    "district": "cilebar"
+  },
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "cilebar"
+  },
+  {
+    "id": "cikande",
+    "name": "Cikande",
+    "district": "cilebar"
+  },
+  {
+    "id": "rawasari",
+    "name": "Rawasari",
+    "district": "cilebar"
+  },
+  {
+    "id": "kosambibatu",
+    "name": "Kosambibatu",
+    "district": "cilebar"
+  },
+  {
+    "id": "pusakajaya-selatan",
+    "name": "Pusakajaya Selatan",
+    "district": "cilebar"
+  },
+  {
+    "id": "pusakajaya-utara",
+    "name": "Pusakajaya Utara",
+    "district": "cilebar"
+  }
+]

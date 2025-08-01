@@ -1,0 +1,52 @@
+[
+  {
+    "id": "majanggut-ii",
+    "name": "Majanggut Ii",
+    "district": "kerajaan"
+  },
+  {
+    "id": "majanggut-i",
+    "name": "Majanggut I",
+    "district": "kerajaan"
+  },
+  {
+    "id": "pardomuan",
+    "name": "Pardomuan",
+    "district": "kerajaan"
+  },
+  {
+    "id": "parpulungan",
+    "name": "Parpulungan",
+    "district": "kerajaan"
+  },
+  {
+    "id": "kutasaga",
+    "name": "Kutasaga",
+    "district": "kerajaan"
+  },
+  {
+    "id": "kutadame",
+    "name": "Kutadame",
+    "district": "kerajaan"
+  },
+  {
+    "id": "kuta-meriah",
+    "name": "Kuta Meriah",
+    "district": "kerajaan"
+  },
+  {
+    "id": "sukaramai",
+    "name": "Sukaramai",
+    "district": "kerajaan"
+  },
+  {
+    "id": "surung-mersada",
+    "name": "Surung Mersada",
+    "district": "kerajaan"
+  },
+  {
+    "id": "perduhapen",
+    "name": "Perduhapen",
+    "district": "kerajaan"
+  }
+]

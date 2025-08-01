@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gunung-raya",
+    "name": "Gunung Raya",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "bukit-kerman",
+    "name": "Bukit Kerman",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "batang-merangin",
+    "name": "Batang Merangin",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "keliling-danau",
+    "name": "Keliling Danau",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "danau-kerinci",
+    "name": "Danau Kerinci",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "sitinjau-laut",
+    "name": "Sitinjau Laut",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "air-hangat",
+    "name": "Air Hangat",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "air-hangat-timur",
+    "name": "Air Hangat Timur",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "depati-vii",
+    "name": "Depati Vii",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "air-hangat-barat",
+    "name": "Air Hangat Barat",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "gunung-kerinci",
+    "name": "Gunung Kerinci",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "siulak",
+    "name": "Siulak",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "siulak-mukai",
+    "name": "Siulak Mukai",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "kayu-aro",
+    "name": "Kayu Aro",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "gunung-tujuh",
+    "name": "Gunung Tujuh",
+    "regency": "kabupaten-kerinci"
+  },
+  {
+    "id": "kayu-aro-barat",
+    "name": "Kayu Aro Barat",
+    "regency": "kabupaten-kerinci"
+  }
+]

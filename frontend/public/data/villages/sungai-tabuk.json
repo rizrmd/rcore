@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sungai-lulut",
+    "name": "Sungai Lulut",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "gudang-hirang",
+    "name": "Gudang Hirang",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "pematang-panjang",
+    "name": "Pematang Panjang",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "gudang-tengah",
+    "name": "Gudang Tengah",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "abumbun-jaya",
+    "name": "Abumbun Jaya",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-tabuk-kota",
+    "name": "Sungai Tabuk Kota",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-tabuk-keramat",
+    "name": "Sungai Tabuk Keramat",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "pemakuan",
+    "name": "Pemakuan",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-pinang-lama",
+    "name": "Sungai Pinang Lama",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "lok-baintan",
+    "name": "Lok Baintan",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-bakung",
+    "name": "Sungai Bakung",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-tandipah",
+    "name": "Sungai Tandipah",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "paku-alam",
+    "name": "Paku Alam",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "lok-baintan-dalam",
+    "name": "Lok Baintan Dalam",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-pinang-baru",
+    "name": "Sungai Pinang Baru",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "pembantanan",
+    "name": "Pembantanan",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "lokbuntar",
+    "name": "Lokbuntar",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "pejambuan",
+    "name": "Pejambuan",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "sungai-bangkal",
+    "name": "Sungai Bangkal",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "keliling-benteng-ilir",
+    "name": "Keliling Benteng Ilir",
+    "district": "sungai-tabuk"
+  },
+  {
+    "id": "tajau-landung",
+    "name": "Tajau Landung",
+    "district": "sungai-tabuk"
+  }
+]

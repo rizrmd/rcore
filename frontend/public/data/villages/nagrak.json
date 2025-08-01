@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cisarua",
+    "name": "Cisarua",
+    "district": "nagrak"
+  },
+  {
+    "id": "balekambang",
+    "name": "Balekambang",
+    "district": "nagrak"
+  },
+  {
+    "id": "nagrak-selatan",
+    "name": "Nagrak Selatan",
+    "district": "nagrak"
+  },
+  {
+    "id": "nagrak-utara",
+    "name": "Nagrak Utara",
+    "district": "nagrak"
+  },
+  {
+    "id": "kalaparea",
+    "name": "Kalaparea",
+    "district": "nagrak"
+  },
+  {
+    "id": "darmareja",
+    "name": "Darmareja",
+    "district": "nagrak"
+  },
+  {
+    "id": "girijaya",
+    "name": "Girijaya",
+    "district": "nagrak"
+  },
+  {
+    "id": "babakan-panjang",
+    "name": "Babakan Panjang",
+    "district": "nagrak"
+  },
+  {
+    "id": "pawenang",
+    "name": "Pawenang",
+    "district": "nagrak"
+  },
+  {
+    "id": "cihanyawar",
+    "name": "Cihanyawar",
+    "district": "nagrak"
+  }
+]

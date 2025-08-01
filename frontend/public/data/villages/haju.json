@@ -1,0 +1,92 @@
+[
+  {
+    "id": "pagai",
+    "name": "Pagai",
+    "district": "haju"
+  },
+  {
+    "id": "arare",
+    "name": "Arare",
+    "district": "haju"
+  },
+  {
+    "id": "katage",
+    "name": "Katage",
+    "district": "haju"
+  },
+  {
+    "id": "yagatsu",
+    "name": "Yagatsu",
+    "district": "haju"
+  },
+  {
+    "id": "sogophe",
+    "name": "Sogophe",
+    "district": "haju"
+  },
+  {
+    "id": "wiyage",
+    "name": "Wiyage",
+    "district": "haju"
+  },
+  {
+    "id": "tsemtaipim",
+    "name": "Tsemtaipim",
+    "district": "haju"
+  },
+  {
+    "id": "amagatsu",
+    "name": "Amagatsu",
+    "district": "haju"
+  },
+  {
+    "id": "atsipim",
+    "name": "Atsipim",
+    "district": "haju"
+  },
+  {
+    "id": "okor",
+    "name": "Okor",
+    "district": "haju"
+  },
+  {
+    "id": "warogom",
+    "name": "Warogom",
+    "district": "haju"
+  },
+  {
+    "id": "gairipim",
+    "name": "Gairipim",
+    "district": "haju"
+  },
+  {
+    "id": "kaibusene",
+    "name": "Kaibusene",
+    "district": "haju"
+  },
+  {
+    "id": "kasima",
+    "name": "Kasima",
+    "district": "haju"
+  },
+  {
+    "id": "kaibu",
+    "name": "Kaibu",
+    "district": "haju"
+  },
+  {
+    "id": "amenda",
+    "name": "Amenda",
+    "district": "haju"
+  },
+  {
+    "id": "a-m-u-r-o",
+    "name": "A M U R O",
+    "district": "haju"
+  },
+  {
+    "id": "mani",
+    "name": "Mani",
+    "district": "haju"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "suka-bandung",
+    "name": "Suka Bandung",
+    "district": "air-nipis"
+  },
+  {
+    "id": "penandingan",
+    "name": "Penandingan",
+    "district": "air-nipis"
+  },
+  {
+    "id": "maras",
+    "name": "Maras",
+    "district": "air-nipis"
+  },
+  {
+    "id": "keban-jati",
+    "name": "Keban Jati",
+    "district": "air-nipis"
+  },
+  {
+    "id": "tanjung-beringin",
+    "name": "Tanjung Beringin",
+    "district": "air-nipis"
+  },
+  {
+    "id": "palak-bengkerung",
+    "name": "Palak Bengkerung",
+    "district": "air-nipis"
+  },
+  {
+    "id": "suka-negeri",
+    "name": "Suka Negeri",
+    "district": "air-nipis"
+  },
+  {
+    "id": "pino-baru",
+    "name": "Pino Baru",
+    "district": "air-nipis"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "air-nipis"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "air-nipis"
+  }
+]

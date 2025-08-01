@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sungai-benuh",
+    "name": "Sungai Benuh",
+    "district": "sadu"
+  },
+  {
+    "id": "labuhan-pering",
+    "name": "Labuhan Pering",
+    "district": "sadu"
+  },
+  {
+    "id": "sungai-cemara",
+    "name": "Sungai Cemara",
+    "district": "sadu"
+  },
+  {
+    "id": "air-hitam-laut",
+    "name": "Air Hitam Laut",
+    "district": "sadu"
+  },
+  {
+    "id": "remau-baku-tuo",
+    "name": "Remau Baku Tuo",
+    "district": "sadu"
+  },
+  {
+    "id": "sungai-sayang",
+    "name": "Sungai Sayang",
+    "district": "sadu"
+  },
+  {
+    "id": "sungai-jambat",
+    "name": "Sungai Jambat",
+    "district": "sadu"
+  },
+  {
+    "id": "sungai-lokan",
+    "name": "Sungai Lokan",
+    "district": "sadu"
+  },
+  {
+    "id": "sungai-itik",
+    "name": "Sungai Itik",
+    "district": "sadu"
+  }
+]

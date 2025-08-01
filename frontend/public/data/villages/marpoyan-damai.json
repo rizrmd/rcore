@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tengkerang-tengah",
+    "name": "Tengkerang Tengah",
+    "district": "marpoyan-damai"
+  },
+  {
+    "id": "tengkerang-barat",
+    "name": "Tengkerang Barat",
+    "district": "marpoyan-damai"
+  },
+  {
+    "id": "maharatu",
+    "name": "Maharatu",
+    "district": "marpoyan-damai"
+  },
+  {
+    "id": "sidomulyo-timur",
+    "name": "Sidomulyo Timur",
+    "district": "marpoyan-damai"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "marpoyan-damai"
+  },
+  {
+    "id": "perhentian-marpoyan",
+    "name": "Perhentian Marpoyan",
+    "district": "marpoyan-damai"
+  }
+]

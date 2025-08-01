@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kiritana",
+    "name": "Kiritana",
+    "district": "kambera"
+  },
+  {
+    "id": "malumbi",
+    "name": "Malumbi",
+    "district": "kambera"
+  },
+  {
+    "id": "lambanapu",
+    "name": "Lambanapu",
+    "district": "kambera"
+  },
+  {
+    "id": "mauliru",
+    "name": "Mauliru",
+    "district": "kambera"
+  },
+  {
+    "id": "mau-hau",
+    "name": "Mau Hau",
+    "district": "kambera"
+  },
+  {
+    "id": "kambaniru",
+    "name": "Kambaniru",
+    "district": "kambera"
+  },
+  {
+    "id": "prailiu",
+    "name": "Prailiu",
+    "district": "kambera"
+  },
+  {
+    "id": "wangga",
+    "name": "Wangga",
+    "district": "kambera"
+  }
+]

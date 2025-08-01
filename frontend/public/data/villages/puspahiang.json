@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mandalasari",
+    "name": "Mandalasari",
+    "district": "puspahiang"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "puspahiang"
+  },
+  {
+    "id": "puspasari",
+    "name": "Puspasari",
+    "district": "puspahiang"
+  },
+  {
+    "id": "puspahiang",
+    "name": "Puspahiang",
+    "district": "puspahiang"
+  },
+  {
+    "id": "pusparahayu",
+    "name": "Pusparahayu",
+    "district": "puspahiang"
+  },
+  {
+    "id": "luyubakti",
+    "name": "Luyubakti",
+    "district": "puspahiang"
+  },
+  {
+    "id": "cimanggu",
+    "name": "Cimanggu",
+    "district": "puspahiang"
+  },
+  {
+    "id": "puspajaya",
+    "name": "Puspajaya",
+    "district": "puspahiang"
+  }
+]

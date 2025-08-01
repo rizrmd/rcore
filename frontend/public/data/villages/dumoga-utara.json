@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tumokang-baru",
+    "name": "Tumokang Baru",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopugad-utara",
+    "name": "Mopugad Utara",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopugad-selatan",
+    "name": "Mopugad Selatan",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-utara",
+    "name": "Mopuya Utara",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-selatan",
+    "name": "Mopuya Selatan",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "dondomon",
+    "name": "Dondomon",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopugad-selatan-i",
+    "name": "Mopugad Selatan I",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopugad-utara-ii",
+    "name": "Mopugad Utara Ii",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopugad-utara-i",
+    "name": "Mopugad Utara I",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "tumokang-timur",
+    "name": "Tumokang Timur",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-utara-i",
+    "name": "Mopuya Utara I",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-utara-ii",
+    "name": "Mopuya Utara Ii",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-selatan-i",
+    "name": "Mopuya Selatan I",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "mopuya-selatan-ii",
+    "name": "Mopuya Selatan Ii",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "dondomon-utara",
+    "name": "Dondomon Utara",
+    "district": "dumoga-utara"
+  },
+  {
+    "id": "dondomon-selatan",
+    "name": "Dondomon Selatan",
+    "district": "dumoga-utara"
+  }
+]

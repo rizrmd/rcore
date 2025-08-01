@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cinta-damai",
+    "name": "Cinta Damai",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "sei-sikambing-c-ii",
+    "name": "Sei Sikambing C Ii",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "dwi-kora",
+    "name": "Dwi Kora",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "helvetia-timur",
+    "name": "Helvetia Timur",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "helvetia-tengah",
+    "name": "Helvetia Tengah",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "helvetia",
+    "name": "Helvetia",
+    "district": "medan-helvetia"
+  },
+  {
+    "id": "tanjung-gusta",
+    "name": "Tanjung Gusta",
+    "district": "medan-helvetia"
+  }
+]

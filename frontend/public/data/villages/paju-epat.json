@@ -1,0 +1,42 @@
+[
+  {
+    "id": "telang",
+    "name": "Telang",
+    "district": "paju-epat"
+  },
+  {
+    "id": "balawa",
+    "name": "Balawa",
+    "district": "paju-epat"
+  },
+  {
+    "id": "maipe",
+    "name": "Maipe",
+    "district": "paju-epat"
+  },
+  {
+    "id": "telang-baru",
+    "name": "Telang Baru",
+    "district": "paju-epat"
+  },
+  {
+    "id": "juru-banu",
+    "name": "Juru Banu",
+    "district": "paju-epat"
+  },
+  {
+    "id": "tampu-langit",
+    "name": "Tampu Langit",
+    "district": "paju-epat"
+  },
+  {
+    "id": "siong",
+    "name": "Siong",
+    "district": "paju-epat"
+  },
+  {
+    "id": "kalinapu",
+    "name": "Kalinapu",
+    "district": "paju-epat"
+  }
+]

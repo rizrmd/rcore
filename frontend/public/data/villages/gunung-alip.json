@@ -1,0 +1,62 @@
+[
+  {
+    "id": "banjar-negeri",
+    "name": "Banjar Negeri",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "kedaloman",
+    "name": "Kedaloman",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "sukabanjar",
+    "name": "Sukabanjar",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "sukamernah",
+    "name": "Sukamernah",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "pariaman",
+    "name": "Pariaman",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "way-halom",
+    "name": "Way Halom",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "penanggungan",
+    "name": "Penanggungan",
+    "district": "gunung-alip"
+  },
+  {
+    "id": "darus-salam",
+    "name": "Darus Salam",
+    "district": "gunung-alip"
+  }
+]

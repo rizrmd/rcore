@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ranotana",
+    "name": "Ranotana",
+    "district": "sario"
+  },
+  {
+    "id": "sario-kota-baru",
+    "name": "Sario Kota Baru",
+    "district": "sario"
+  },
+  {
+    "id": "sario",
+    "name": "Sario",
+    "district": "sario"
+  },
+  {
+    "id": "sario-tumpaan",
+    "name": "Sario Tumpaan",
+    "district": "sario"
+  },
+  {
+    "id": "sario-utara",
+    "name": "Sario Utara",
+    "district": "sario"
+  },
+  {
+    "id": "titiwungen-selatan",
+    "name": "Titiwungen Selatan",
+    "district": "sario"
+  },
+  {
+    "id": "titiwungen-utara",
+    "name": "Titiwungen Utara",
+    "district": "sario"
+  }
+]

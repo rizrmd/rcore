@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tibul",
+    "name": "Tibul",
+    "district": "talambo"
+  },
+  {
+    "id": "lelambo",
+    "name": "Lelambo",
+    "district": "talambo"
+  },
+  {
+    "id": "kikila",
+    "name": "Kikila",
+    "district": "talambo"
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "district": "talambo"
+  },
+  {
+    "id": "palukae",
+    "name": "Palukae",
+    "district": "talambo"
+  },
+  {
+    "id": "wubri",
+    "name": "Wubri",
+    "district": "talambo"
+  },
+  {
+    "id": "paleromon",
+    "name": "Paleromon",
+    "district": "talambo"
+  },
+  {
+    "id": "lelambo-2",
+    "name": "Lelambo 2",
+    "district": "talambo"
+  }
+]

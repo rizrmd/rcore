@@ -1,0 +1,32 @@
+[
+  {
+    "id": "maba-sangaji",
+    "name": "Maba Sangaji",
+    "district": "kota-maba"
+  },
+  {
+    "id": "soa-gimalaha",
+    "name": "Soa Gimalaha",
+    "district": "kota-maba"
+  },
+  {
+    "id": "wailukum",
+    "name": "Wailukum",
+    "district": "kota-maba"
+  },
+  {
+    "id": "soa-sangaji",
+    "name": "Soa Sangaji",
+    "district": "kota-maba"
+  },
+  {
+    "id": "soa-laipoh",
+    "name": "Soa Laipoh",
+    "district": "kota-maba"
+  },
+  {
+    "id": "tewil",
+    "name": "Tewil",
+    "district": "kota-maba"
+  }
+]

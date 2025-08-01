@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kelarik-barat",
+    "name": "Kelarik Barat",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "kelarik",
+    "name": "Kelarik",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "kelarik-utara",
+    "name": "Kelarik Utara",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "kelarik-air-mali",
+    "name": "Kelarik Air Mali",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "teluk-buton",
+    "name": "Teluk Buton",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "belakang-gunung",
+    "name": "Belakang Gunung",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "seluan-barat",
+    "name": "Seluan Barat",
+    "district": "bunguran-utara"
+  },
+  {
+    "id": "gunung-durian",
+    "name": "Gunung Durian",
+    "district": "bunguran-utara"
+  }
+]

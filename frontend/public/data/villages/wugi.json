@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pindelo",
+    "name": "Pindelo",
+    "district": "wugi"
+  },
+  {
+    "id": "wugi",
+    "name": "Wugi",
+    "district": "wugi"
+  },
+  {
+    "id": "lena",
+    "name": "Lena",
+    "district": "wugi"
+  },
+  {
+    "id": "kuagembur",
+    "name": "Kuagembur",
+    "district": "wugi"
+  },
+  {
+    "id": "loma",
+    "name": "Loma",
+    "district": "wugi"
+  },
+  {
+    "id": "gitar",
+    "name": "Gitar",
+    "district": "wugi"
+  },
+  {
+    "id": "gilome",
+    "name": "Gilome",
+    "district": "wugi"
+  },
+  {
+    "id": "timoneri",
+    "name": "Timoneri",
+    "district": "wugi"
+  },
+  {
+    "id": "wuronggi-wuragi",
+    "name": "Wuronggi / Wuragi",
+    "district": "wugi"
+  },
+  {
+    "id": "buang-luda",
+    "name": "Buang Luda",
+    "district": "wugi"
+  },
+  {
+    "id": "koli",
+    "name": "Koli",
+    "district": "wugi"
+  }
+]

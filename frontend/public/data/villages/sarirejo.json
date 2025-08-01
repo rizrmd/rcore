@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dermolemahbang",
+    "name": "Dermolemahbang",
+    "district": "sarirejo"
+  },
+  {
+    "id": "gempoltukmloko",
+    "name": "Gempoltukmloko",
+    "district": "sarirejo"
+  },
+  {
+    "id": "sarirejo",
+    "name": "Sarirejo",
+    "district": "sarirejo"
+  },
+  {
+    "id": "tambakmenjangan",
+    "name": "Tambakmenjangan",
+    "district": "sarirejo"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "sarirejo"
+  },
+  {
+    "id": "simbatan",
+    "name": "Simbatan",
+    "district": "sarirejo"
+  },
+  {
+    "id": "canggah",
+    "name": "Canggah",
+    "district": "sarirejo"
+  }
+]

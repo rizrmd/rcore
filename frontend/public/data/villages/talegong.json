@@ -1,0 +1,37 @@
+[
+  {
+    "id": "selaawi",
+    "name": "Selaawi",
+    "district": "talegong"
+  },
+  {
+    "id": "mekarmukti",
+    "name": "Mekarmukti",
+    "district": "talegong"
+  },
+  {
+    "id": "mekarmulya",
+    "name": "Mekarmulya",
+    "district": "talegong"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "talegong"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "talegong"
+  },
+  {
+    "id": "sukalaksana",
+    "name": "Sukalaksana",
+    "district": "talegong"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "talegong"
+  }
+]

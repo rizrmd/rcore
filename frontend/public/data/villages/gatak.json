@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sanggung",
+    "name": "Sanggung",
+    "district": "gatak"
+  },
+  {
+    "id": "kagokan",
+    "name": "Kagokan",
+    "district": "gatak"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "gatak"
+  },
+  {
+    "id": "krajan",
+    "name": "Krajan",
+    "district": "gatak"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "gatak"
+  },
+  {
+    "id": "trosemi",
+    "name": "Trosemi",
+    "district": "gatak"
+  },
+  {
+    "id": "luwang",
+    "name": "Luwang",
+    "district": "gatak"
+  },
+  {
+    "id": "klaseman",
+    "name": "Klaseman",
+    "district": "gatak"
+  },
+  {
+    "id": "sraten",
+    "name": "Sraten",
+    "district": "gatak"
+  },
+  {
+    "id": "wironanggan",
+    "name": "Wironanggan",
+    "district": "gatak"
+  },
+  {
+    "id": "trangsan",
+    "name": "Trangsan",
+    "district": "gatak"
+  },
+  {
+    "id": "mayang",
+    "name": "Mayang",
+    "district": "gatak"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tabek-patah",
+    "name": "Tabek Patah",
+    "district": "salimpaung"
+  },
+  {
+    "id": "lawang-mandahiliang",
+    "name": "Lawang Mandahiliang",
+    "district": "salimpaung"
+  },
+  {
+    "id": "salimpaung",
+    "name": "Salimpaung",
+    "district": "salimpaung"
+  },
+  {
+    "id": "supayang",
+    "name": "Supayang",
+    "district": "salimpaung"
+  },
+  {
+    "id": "situmbuk",
+    "name": "Situmbuk",
+    "district": "salimpaung"
+  },
+  {
+    "id": "sumaniak",
+    "name": "Sumaniak",
+    "district": "salimpaung"
+  }
+]

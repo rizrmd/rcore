@@ -1,0 +1,42 @@
+[
+  {
+    "id": "komor",
+    "name": "Komor",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "warer",
+    "name": "Warer",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "ayir",
+    "name": "Ayir",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "paar",
+    "name": "Paar",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "amor",
+    "name": "Amor",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "berip",
+    "name": "Berip",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "jipawer",
+    "name": "Jipawer",
+    "district": "unir-sirau"
+  },
+  {
+    "id": "abamu",
+    "name": "Abamu",
+    "district": "unir-sirau"
+  }
+]

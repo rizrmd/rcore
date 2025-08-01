@@ -1,0 +1,32 @@
+[
+  {
+    "id": "miyono",
+    "name": "Miyono",
+    "district": "sekar"
+  },
+  {
+    "id": "sekar",
+    "name": "Sekar",
+    "district": "sekar"
+  },
+  {
+    "id": "klino",
+    "name": "Klino",
+    "district": "sekar"
+  },
+  {
+    "id": "deling",
+    "name": "Deling",
+    "district": "sekar"
+  },
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "sekar"
+  },
+  {
+    "id": "bobol",
+    "name": "Bobol",
+    "district": "sekar"
+  }
+]

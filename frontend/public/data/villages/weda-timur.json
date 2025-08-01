@@ -1,0 +1,22 @@
+[
+  {
+    "id": "messa",
+    "name": "Messa",
+    "district": "weda-timur"
+  },
+  {
+    "id": "dotte",
+    "name": "Dotte",
+    "district": "weda-timur"
+  },
+  {
+    "id": "kotalo",
+    "name": "Kotalo",
+    "district": "weda-timur"
+  },
+  {
+    "id": "desa-persiapan-trans-sp-ii",
+    "name": "Desa Persiapan Trans Sp Ii",
+    "district": "weda-timur"
+  }
+]

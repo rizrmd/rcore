@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wano-talla",
+    "name": "Wano Talla",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "wee-paboba",
+    "name": "Wee Paboba",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "mataloko",
+    "name": "Mataloko",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "puu-potto",
+    "name": "Puu Potto",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "wee-namba",
+    "name": "Wee Namba",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "mali-mada",
+    "name": "Mali Mada",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "mawo-maliti",
+    "name": "Mawo Maliti",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "jela-manu",
+    "name": "Jela Manu",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "bodo-ponda",
+    "name": "Bodo Ponda",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "pandua-tana",
+    "name": "Pandua Tana",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "odi-paurata",
+    "name": "Odi Paurata",
+    "district": "wewewa-utara"
+  },
+  {
+    "id": "reda-wano",
+    "name": "Reda Wano",
+    "district": "wewewa-utara"
+  }
+]

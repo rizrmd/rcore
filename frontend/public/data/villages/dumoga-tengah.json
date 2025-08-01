@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kosio",
+    "name": "Kosio",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "kinomaligan",
+    "name": "Kinomaligan",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "ibolian",
+    "name": "Ibolian",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "ibolian-i",
+    "name": "Ibolian I",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "werdhi-agung",
+    "name": "Werdhi Agung",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "werdhi-agung-timur",
+    "name": "Werdhi Agung Timur",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "werdhi-agung-utara",
+    "name": "Werdhi Agung Utara",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "werdhi-agung-selatan",
+    "name": "Werdhi Agung Selatan",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "kosio-timur",
+    "name": "Kosio Timur",
+    "district": "dumoga-tengah"
+  },
+  {
+    "id": "kosio-barat",
+    "name": "Kosio Barat",
+    "district": "dumoga-tengah"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-payang",
+    "name": "Tanjung Payang",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "banjar-negara",
+    "name": "Banjar Negara",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "tanjung-tebat",
+    "name": "Tanjung Tebat",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "nantal",
+    "name": "Nantal",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "karang-baru",
+    "name": "Karang Baru",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "talang-sejemput",
+    "name": "Talang Sejemput",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "muara-cawang",
+    "name": "Muara Cawang",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "talang-sawah",
+    "name": "Talang Sawah",
+    "district": "lahat-selatan"
+  },
+  {
+    "id": "kerung",
+    "name": "Kerung",
+    "district": "lahat-selatan"
+  }
+]

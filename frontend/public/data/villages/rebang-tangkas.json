@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "lebak-peniangan",
+    "name": "Lebak Peniangan",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "madang-jaya",
+    "name": "Madang Jaya",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "tanjung-tiga",
+    "name": "Tanjung Tiga",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "air-ringkih",
+    "name": "Air Ringkih",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "tanjung-raya",
+    "name": "Tanjung Raya",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "karya-maju",
+    "name": "Karya Maju",
+    "district": "rebang-tangkas"
+  },
+  {
+    "id": "mulya-jaya",
+    "name": "Mulya Jaya",
+    "district": "rebang-tangkas"
+  }
+]

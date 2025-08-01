@@ -1,0 +1,82 @@
+[
+  {
+    "id": "migori",
+    "name": "Migori",
+    "district": "kokoda"
+  },
+  {
+    "id": "siwatori",
+    "name": "Siwatori",
+    "district": "kokoda"
+  },
+  {
+    "id": "tarof",
+    "name": "Tarof",
+    "district": "kokoda"
+  },
+  {
+    "id": "tambani",
+    "name": "Tambani",
+    "district": "kokoda"
+  },
+  {
+    "id": "negeri-besar",
+    "name": "Negeri Besar",
+    "district": "kokoda"
+  },
+  {
+    "id": "kasuweri",
+    "name": "Kasuweri",
+    "district": "kokoda"
+  },
+  {
+    "id": "korewatara",
+    "name": "Korewatara",
+    "district": "kokoda"
+  },
+  {
+    "id": "tapas",
+    "name": "Tapas",
+    "district": "kokoda"
+  },
+  {
+    "id": "totona",
+    "name": "Totona",
+    "district": "kokoda"
+  },
+  {
+    "id": "daubak",
+    "name": "Daubak",
+    "district": "kokoda"
+  },
+  {
+    "id": "topdan",
+    "name": "Topdan",
+    "district": "kokoda"
+  },
+  {
+    "id": "nayakore",
+    "name": "Nayakore",
+    "district": "kokoda"
+  },
+  {
+    "id": "migirito",
+    "name": "Migirito",
+    "district": "kokoda"
+  },
+  {
+    "id": "arbasina",
+    "name": "Arbasina",
+    "district": "kokoda"
+  },
+  {
+    "id": "birawaku",
+    "name": "Birawaku",
+    "district": "kokoda"
+  },
+  {
+    "id": "daimar",
+    "name": "Daimar",
+    "district": "kokoda"
+  }
+]

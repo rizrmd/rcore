@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cimara",
+    "name": "Cimara",
+    "district": "cibeureum"
+  },
+  {
+    "id": "kawungsari",
+    "name": "Kawungsari",
+    "district": "cibeureum"
+  },
+  {
+    "id": "sukarapih",
+    "name": "Sukarapih",
+    "district": "cibeureum"
+  },
+  {
+    "id": "sumurwiru",
+    "name": "Sumurwiru",
+    "district": "cibeureum"
+  },
+  {
+    "id": "cibeureum",
+    "name": "Cibeureum",
+    "district": "cibeureum"
+  },
+  {
+    "id": "randusari",
+    "name": "Randusari",
+    "district": "cibeureum"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "cibeureum"
+  },
+  {
+    "id": "tarikolot",
+    "name": "Tarikolot",
+    "district": "cibeureum"
+  },
+  {
+    "id": "sindangpalay",
+    "name": "Sindangpalay",
+    "district": "cibeureum"
+  },
+  {
+    "id": "limusnunggal",
+    "name": "Limusnunggal",
+    "district": "cibeureum"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "cibeureum"
+  },
+  {
+    "id": "cibeureum-hilir",
+    "name": "Cibeureum Hilir",
+    "district": "cibeureum"
+  },
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "cibeureum"
+  },
+  {
+    "id": "ciakar",
+    "name": "Ciakar",
+    "district": "cibeureum"
+  },
+  {
+    "id": "margabakti",
+    "name": "Margabakti",
+    "district": "cibeureum"
+  },
+  {
+    "id": "awipari",
+    "name": "Awipari",
+    "district": "cibeureum"
+  },
+  {
+    "id": "kotabaru",
+    "name": "Kotabaru",
+    "district": "cibeureum"
+  },
+  {
+    "id": "kersanagara",
+    "name": "Kersanagara",
+    "district": "cibeureum"
+  },
+  {
+    "id": "setiajaya",
+    "name": "Setiajaya",
+    "district": "cibeureum"
+  },
+  {
+    "id": "setiaratu",
+    "name": "Setiaratu",
+    "district": "cibeureum"
+  },
+  {
+    "id": "setianagara",
+    "name": "Setianagara",
+    "district": "cibeureum"
+  }
+]

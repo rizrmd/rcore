@@ -1,0 +1,67 @@
+[
+  {
+    "id": "weragati",
+    "name": "Weragati",
+    "district": "palasah"
+  },
+  {
+    "id": "trajaya",
+    "name": "Trajaya",
+    "district": "palasah"
+  },
+  {
+    "id": "tarikolot",
+    "name": "Tarikolot",
+    "district": "palasah"
+  },
+  {
+    "id": "sindanghaji",
+    "name": "Sindanghaji",
+    "district": "palasah"
+  },
+  {
+    "id": "enggalwangi",
+    "name": "Enggalwangi",
+    "district": "palasah"
+  },
+  {
+    "id": "buniwangi",
+    "name": "Buniwangi",
+    "district": "palasah"
+  },
+  {
+    "id": "palasah",
+    "name": "Palasah",
+    "district": "palasah"
+  },
+  {
+    "id": "pasir",
+    "name": "Pasir",
+    "district": "palasah"
+  },
+  {
+    "id": "waringin",
+    "name": "Waringin",
+    "district": "palasah"
+  },
+  {
+    "id": "karamat",
+    "name": "Karamat",
+    "district": "palasah"
+  },
+  {
+    "id": "sindangwasa",
+    "name": "Sindangwasa",
+    "district": "palasah"
+  },
+  {
+    "id": "cisambeng",
+    "name": "Cisambeng",
+    "district": "palasah"
+  },
+  {
+    "id": "majasuka",
+    "name": "Majasuka",
+    "district": "palasah"
+  }
+]

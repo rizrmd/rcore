@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pantai-gelam",
+    "name": "Pantai Gelam",
+    "district": "bulang"
+  },
+  {
+    "id": "temoyong",
+    "name": "Temoyong",
+    "district": "bulang"
+  },
+  {
+    "id": "pulau-setokok",
+    "name": "Pulau Setokok",
+    "district": "bulang"
+  },
+  {
+    "id": "batu-legong",
+    "name": "Batu Legong",
+    "district": "bulang"
+  },
+  {
+    "id": "bulang-lintang",
+    "name": "Bulang Lintang",
+    "district": "bulang"
+  },
+  {
+    "id": "pulau-buluh",
+    "name": "Pulau Buluh",
+    "district": "bulang"
+  }
+]

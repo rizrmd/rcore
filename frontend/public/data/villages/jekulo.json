@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sadang",
+    "name": "Sadang",
+    "district": "jekulo"
+  },
+  {
+    "id": "bulung-cangkring",
+    "name": "Bulung Cangkring",
+    "district": "jekulo"
+  },
+  {
+    "id": "bulung-kulon",
+    "name": "Bulung Kulon",
+    "district": "jekulo"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "jekulo"
+  },
+  {
+    "id": "gondoharum",
+    "name": "Gondoharum",
+    "district": "jekulo"
+  },
+  {
+    "id": "terban",
+    "name": "Terban",
+    "district": "jekulo"
+  },
+  {
+    "id": "pladen",
+    "name": "Pladen",
+    "district": "jekulo"
+  },
+  {
+    "id": "klaling",
+    "name": "Klaling",
+    "district": "jekulo"
+  },
+  {
+    "id": "jekulo",
+    "name": "Jekulo",
+    "district": "jekulo"
+  },
+  {
+    "id": "hadipolo",
+    "name": "Hadipolo",
+    "district": "jekulo"
+  },
+  {
+    "id": "tanjung-rejo",
+    "name": "Tanjung Rejo",
+    "district": "jekulo"
+  },
+  {
+    "id": "honggosoco",
+    "name": "Honggosoco",
+    "district": "jekulo"
+  }
+]

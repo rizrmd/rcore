@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mantang-lama",
+    "name": "Mantang Lama",
+    "district": "mantang"
+  },
+  {
+    "id": "mantang-besar",
+    "name": "Mantang Besar",
+    "district": "mantang"
+  },
+  {
+    "id": "mantang-baru",
+    "name": "Mantang Baru",
+    "district": "mantang"
+  }
+]

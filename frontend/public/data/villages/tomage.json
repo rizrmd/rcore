@@ -1,0 +1,47 @@
+[
+  {
+    "id": "otoweri",
+    "name": "Otoweri",
+    "district": "tomage"
+  },
+  {
+    "id": "mbima-jaya",
+    "name": "Mbima Jaya",
+    "district": "tomage"
+  },
+  {
+    "id": "warisa-mulia",
+    "name": "Warisa Mulia",
+    "district": "tomage"
+  },
+  {
+    "id": "bomberay-vii-upt-wonodadi-mulya",
+    "name": "Bomberay Vii (Upt) / Wonodadi Mulya",
+    "district": "tomage"
+  },
+  {
+    "id": "tomage",
+    "name": "Tomage",
+    "district": "tomage"
+  },
+  {
+    "id": "wamosan",
+    "name": "Wamosan",
+    "district": "tomage"
+  },
+  {
+    "id": "wammar",
+    "name": "Wammar",
+    "district": "tomage"
+  },
+  {
+    "id": "wasa-mulya",
+    "name": "Wasa Mulya",
+    "district": "tomage"
+  },
+  {
+    "id": "syena-salawir",
+    "name": "Syena Salawir",
+    "district": "tomage"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "juku-batu",
+    "name": "Juku Batu",
+    "district": "banjit"
+  },
+  {
+    "id": "bandar-agung",
+    "name": "Bandar Agung",
+    "district": "banjit"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "banjit"
+  },
+  {
+    "id": "bonglai",
+    "name": "Bonglai",
+    "district": "banjit"
+  },
+  {
+    "id": "campang-delapan",
+    "name": "Campang Delapan",
+    "district": "banjit"
+  },
+  {
+    "id": "kemu",
+    "name": "Kemu",
+    "district": "banjit"
+  },
+  {
+    "id": "sumber-baru",
+    "name": "Sumber Baru",
+    "district": "banjit"
+  },
+  {
+    "id": "neki",
+    "name": "Neki",
+    "district": "banjit"
+  },
+  {
+    "id": "rantau-temiang",
+    "name": "Rantau Temiang",
+    "district": "banjit"
+  },
+  {
+    "id": "menanga-siamang",
+    "name": "Menanga Siamang",
+    "district": "banjit"
+  },
+  {
+    "id": "menanga-jaya",
+    "name": "Menanga Jaya",
+    "district": "banjit"
+  },
+  {
+    "id": "rebang-tinggi",
+    "name": "Rebang Tinggi",
+    "district": "banjit"
+  },
+  {
+    "id": "argomulyo",
+    "name": "Argomulyo",
+    "district": "banjit"
+  },
+  {
+    "id": "rantau-jaya",
+    "name": "Rantau Jaya",
+    "district": "banjit"
+  },
+  {
+    "id": "simpang-asam",
+    "name": "Simpang Asam",
+    "district": "banjit"
+  },
+  {
+    "id": "pasar-banjit",
+    "name": "Pasar Banjit",
+    "district": "banjit"
+  },
+  {
+    "id": "bali-sadar-selatan",
+    "name": "Bali Sadar Selatan",
+    "district": "banjit"
+  },
+  {
+    "id": "bali-sadar-tengah",
+    "name": "Bali Sadar Tengah",
+    "district": "banjit"
+  },
+  {
+    "id": "bali-sadar-utara",
+    "name": "Bali Sadar Utara",
+    "district": "banjit"
+  },
+  {
+    "id": "dono-mulyo",
+    "name": "Dono Mulyo",
+    "district": "banjit"
+  }
+]

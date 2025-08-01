@@ -1,0 +1,57 @@
+[
+  {
+    "id": "simpang-pane",
+    "name": "Simpang Pane",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "marjandi",
+    "name": "Marjandi",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "panombean",
+    "name": "Panombean",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "nagori-bosar",
+    "name": "Nagori Bosar",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "talun-kondot",
+    "name": "Talun Kondot",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "pematang-panombean",
+    "name": "Pematang Panombean",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "simbolon-tengkoh",
+    "name": "Simbolon Tengkoh",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "pematang-pane",
+    "name": "Pematang Pane",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "marjandi-pisang",
+    "name": "Marjandi Pisang",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "banuh-raya",
+    "name": "Banuh Raya",
+    "district": "panombean-panei"
+  },
+  {
+    "id": "rukun-mulyo",
+    "name": "Rukun Mulyo",
+    "district": "panombean-panei"
+  }
+]

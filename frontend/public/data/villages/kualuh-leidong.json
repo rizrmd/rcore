@@ -1,0 +1,37 @@
+[
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "teluk-pulai-dalam",
+    "name": "Teluk Pulai Dalam",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "teluk-pulai-luar",
+    "name": "Teluk Pulai Luar",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "kelapa-sebatang",
+    "name": "Kelapa Sebatang",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "pangkalan-lunang",
+    "name": "Pangkalan Lunang",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "tanjung-leidong",
+    "name": "Tanjung Leidong",
+    "district": "kualuh-leidong"
+  },
+  {
+    "id": "simandulang",
+    "name": "Simandulang",
+    "district": "kualuh-leidong"
+  }
+]

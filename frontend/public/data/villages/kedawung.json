@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kalikoa",
+    "name": "Kalikoa",
+    "district": "kedawung"
+  },
+  {
+    "id": "kedungdawa",
+    "name": "Kedungdawa",
+    "district": "kedawung"
+  },
+  {
+    "id": "kedungjaya",
+    "name": "Kedungjaya",
+    "district": "kedawung"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "kedawung"
+  },
+  {
+    "id": "kertawinangun",
+    "name": "Kertawinangun",
+    "district": "kedawung"
+  },
+  {
+    "id": "sutawinangun",
+    "name": "Sutawinangun",
+    "district": "kedawung"
+  },
+  {
+    "id": "pilangsari",
+    "name": "Pilangsari",
+    "district": "kedawung"
+  },
+  {
+    "id": "karang-pelem",
+    "name": "Karang Pelem",
+    "district": "kedawung"
+  },
+  {
+    "id": "mojodoyong",
+    "name": "Mojodoyong",
+    "district": "kedawung"
+  },
+  {
+    "id": "jenggrik",
+    "name": "Jenggrik",
+    "district": "kedawung"
+  },
+  {
+    "id": "mojokerto",
+    "name": "Mojokerto",
+    "district": "kedawung"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "kedawung"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "kedawung"
+  },
+  {
+    "id": "wonokerso",
+    "name": "Wonokerso",
+    "district": "kedawung"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "kedawung"
+  },
+  {
+    "id": "pengkok",
+    "name": "Pengkok",
+    "district": "kedawung"
+  }
+]

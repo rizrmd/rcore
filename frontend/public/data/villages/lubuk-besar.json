@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kulur-ilir",
+    "name": "Kulur Ilir",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "perlang",
+    "name": "Perlang",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "lubuk-besar",
+    "name": "Lubuk Besar",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "lubuk-pabrik",
+    "name": "Lubuk Pabrik",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "lubuk-lingkuk",
+    "name": "Lubuk Lingkuk",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "batu-beriga",
+    "name": "Batu Beriga",
+    "district": "lubuk-besar"
+  },
+  {
+    "id": "belimbing",
+    "name": "Belimbing",
+    "district": "lubuk-besar"
+  }
+]

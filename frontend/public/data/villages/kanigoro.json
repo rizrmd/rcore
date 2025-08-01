@@ -1,0 +1,62 @@
+[
+  {
+    "id": "minggirsari",
+    "name": "Minggirsari",
+    "district": "kanigoro"
+  },
+  {
+    "id": "gogodeso",
+    "name": "Gogodeso",
+    "district": "kanigoro"
+  },
+  {
+    "id": "karangsono",
+    "name": "Karangsono",
+    "district": "kanigoro"
+  },
+  {
+    "id": "satreyan",
+    "name": "Satreyan",
+    "district": "kanigoro"
+  },
+  {
+    "id": "kanigoro",
+    "name": "Kanigoro",
+    "district": "kanigoro"
+  },
+  {
+    "id": "tlogo",
+    "name": "Tlogo",
+    "district": "kanigoro"
+  },
+  {
+    "id": "gaprang",
+    "name": "Gaprang",
+    "district": "kanigoro"
+  },
+  {
+    "id": "jatinom",
+    "name": "Jatinom",
+    "district": "kanigoro"
+  },
+  {
+    "id": "kuningan",
+    "name": "Kuningan",
+    "district": "kanigoro"
+  },
+  {
+    "id": "papungan",
+    "name": "Papungan",
+    "district": "kanigoro"
+  },
+  {
+    "id": "banggle",
+    "name": "Banggle",
+    "district": "kanigoro"
+  },
+  {
+    "id": "sawentar",
+    "name": "Sawentar",
+    "district": "kanigoro"
+  }
+]

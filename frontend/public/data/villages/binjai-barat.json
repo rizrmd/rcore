@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bandar-senembah",
+    "name": "Bandar Senembah",
+    "district": "binjai-barat"
+  },
+  {
+    "id": "limau-mungkur",
+    "name": "Limau Mungkur",
+    "district": "binjai-barat"
+  },
+  {
+    "id": "limau-sundai",
+    "name": "Limau Sundai",
+    "district": "binjai-barat"
+  },
+  {
+    "id": "paya-roba",
+    "name": "Paya Roba",
+    "district": "binjai-barat"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "binjai-barat"
+  },
+  {
+    "id": "suka-ramai",
+    "name": "Suka Ramai",
+    "district": "binjai-barat"
+  }
+]

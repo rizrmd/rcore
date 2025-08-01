@@ -1,0 +1,67 @@
+[
+  {
+    "id": "nambo-udik",
+    "name": "Nambo Udik",
+    "district": "cikande"
+  },
+  {
+    "id": "situterate",
+    "name": "Situterate",
+    "district": "cikande"
+  },
+  {
+    "id": "cikande",
+    "name": "Cikande",
+    "district": "cikande"
+  },
+  {
+    "id": "leuwilimus",
+    "name": "Leuwilimus",
+    "district": "cikande"
+  },
+  {
+    "id": "parigi",
+    "name": "Parigi",
+    "district": "cikande"
+  },
+  {
+    "id": "songgom-jaya",
+    "name": "Songgom Jaya",
+    "district": "cikande"
+  },
+  {
+    "id": "koper",
+    "name": "Koper",
+    "district": "cikande"
+  },
+  {
+    "id": "kamurang",
+    "name": "Kamurang",
+    "district": "cikande"
+  },
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "cikande"
+  },
+  {
+    "id": "gembor-udik",
+    "name": "Gembor Udik",
+    "district": "cikande"
+  },
+  {
+    "id": "julang",
+    "name": "Julang",
+    "district": "cikande"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "cikande"
+  },
+  {
+    "id": "cikande-permai",
+    "name": "Cikande Permai",
+    "district": "cikande"
+  }
+]

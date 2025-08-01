@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mandalare",
+    "name": "Mandalare",
+    "district": "panjalu"
+  },
+  {
+    "id": "kertamandala",
+    "name": "Kertamandala",
+    "district": "panjalu"
+  },
+  {
+    "id": "ciomas",
+    "name": "Ciomas",
+    "district": "panjalu"
+  },
+  {
+    "id": "sandingtaman",
+    "name": "Sandingtaman",
+    "district": "panjalu"
+  },
+  {
+    "id": "maparah",
+    "name": "Maparah",
+    "district": "panjalu"
+  },
+  {
+    "id": "panjalu",
+    "name": "Panjalu",
+    "district": "panjalu"
+  },
+  {
+    "id": "bahara",
+    "name": "Bahara",
+    "district": "panjalu"
+  },
+  {
+    "id": "hujungtiwu",
+    "name": "Hujungtiwu",
+    "district": "panjalu"
+  }
+]

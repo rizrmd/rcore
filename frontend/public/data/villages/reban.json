@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pacet",
+    "name": "Pacet",
+    "district": "reban"
+  },
+  {
+    "id": "mojotengah",
+    "name": "Mojotengah",
+    "district": "reban"
+  },
+  {
+    "id": "cablikan",
+    "name": "Cablikan",
+    "district": "reban"
+  },
+  {
+    "id": "ngroto",
+    "name": "Ngroto",
+    "district": "reban"
+  },
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "reban"
+  },
+  {
+    "id": "reban",
+    "name": "Reban",
+    "district": "reban"
+  },
+  {
+    "id": "tambakboyo",
+    "name": "Tambakboyo",
+    "district": "reban"
+  },
+  {
+    "id": "adinuso",
+    "name": "Adinuso",
+    "district": "reban"
+  },
+  {
+    "id": "padomasan",
+    "name": "Padomasan",
+    "district": "reban"
+  },
+  {
+    "id": "semampir",
+    "name": "Semampir",
+    "district": "reban"
+  },
+  {
+    "id": "wonosobo",
+    "name": "Wonosobo",
+    "district": "reban"
+  },
+  {
+    "id": "sojomerto",
+    "name": "Sojomerto",
+    "district": "reban"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "reban"
+  },
+  {
+    "id": "polodoro",
+    "name": "Polodoro",
+    "district": "reban"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "reban"
+  },
+  {
+    "id": "sukomangli",
+    "name": "Sukomangli",
+    "district": "reban"
+  },
+  {
+    "id": "wonorojo",
+    "name": "Wonorojo",
+    "district": "reban"
+  }
+]

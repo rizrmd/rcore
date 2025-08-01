@@ -1,0 +1,112 @@
+[
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "tumapel",
+    "name": "Tumapel",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "panjunan",
+    "name": "Panjunan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "setrohadi",
+    "name": "Setrohadi",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "sumengko",
+    "name": "Sumengko",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "sumari",
+    "name": "Sumari",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "tirem",
+    "name": "Tirem",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "ambeng-ambeng-watangrejo",
+    "name": "Ambeng Ambeng Watangrejo",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "tebaloan",
+    "name": "Tebaloan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "samirplapan",
+    "name": "Samirplapan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "duduksampeyan",
+    "name": "Duduksampeyan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "petisbenem",
+    "name": "Petisbenem",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "palebon",
+    "name": "Palebon",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "glanggang",
+    "name": "Glanggang",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "pandanan",
+    "name": "Pandanan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "wadak-lor",
+    "name": "Wadak Lor",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "wadak-kidul",
+    "name": "Wadak Kidul",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "kawistowindu",
+    "name": "Kawistowindu",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "kemudi",
+    "name": "Kemudi",
+    "district": "duduksampeyan"
+  },
+  {
+    "id": "kramat",
+    "name": "Kramat",
+    "district": "duduksampeyan"
+  }
+]

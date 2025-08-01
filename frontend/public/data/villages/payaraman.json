@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tebedak-i",
+    "name": "Tebedak I",
+    "district": "payaraman"
+  },
+  {
+    "id": "lubuk-bandung",
+    "name": "Lubuk Bandung",
+    "district": "payaraman"
+  },
+  {
+    "id": "rengas-i",
+    "name": "Rengas I",
+    "district": "payaraman"
+  },
+  {
+    "id": "paya-besar",
+    "name": "Paya Besar",
+    "district": "payaraman"
+  },
+  {
+    "id": "talang-seleman",
+    "name": "Talang Seleman",
+    "district": "payaraman"
+  },
+  {
+    "id": "payaraman-timur",
+    "name": "Payaraman Timur",
+    "district": "payaraman"
+  },
+  {
+    "id": "seri-kembang-i",
+    "name": "Seri Kembang I",
+    "district": "payaraman"
+  },
+  {
+    "id": "tanjung-lalang",
+    "name": "Tanjung Lalang",
+    "district": "payaraman"
+  },
+  {
+    "id": "seri-kembang-ii",
+    "name": "Seri Kembang Ii",
+    "district": "payaraman"
+  },
+  {
+    "id": "seri-kembang-iii",
+    "name": "Seri Kembang Iii",
+    "district": "payaraman"
+  },
+  {
+    "id": "tebedak-ii",
+    "name": "Tebedak Ii",
+    "district": "payaraman"
+  },
+  {
+    "id": "rengas-ii",
+    "name": "Rengas Ii",
+    "district": "payaraman"
+  },
+  {
+    "id": "payaraman-barat",
+    "name": "Payaraman Barat",
+    "district": "payaraman"
+  }
+]

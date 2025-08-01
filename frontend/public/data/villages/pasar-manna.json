@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pasar-bawah",
+    "name": "Pasar Bawah",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "gunung-mesir",
+    "name": "Gunung Mesir",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "ketapang-besar",
+    "name": "Ketapang Besar",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "padang-sialang",
+    "name": "Padang Sialang",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "belakang-gedung",
+    "name": "Belakang Gedung",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "pasar-mulia",
+    "name": "Pasar Mulia",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "batu-lambang",
+    "name": "Batu Lambang",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "batu-kuning",
+    "name": "Batu Kuning",
+    "district": "pasar-manna"
+  },
+  {
+    "id": "tanjung-mulia",
+    "name": "Tanjung Mulia",
+    "district": "pasar-manna"
+  }
+]

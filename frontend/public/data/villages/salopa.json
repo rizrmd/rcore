@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mandalahayu",
+    "name": "Mandalahayu",
+    "district": "salopa"
+  },
+  {
+    "id": "karyamandala",
+    "name": "Karyamandala",
+    "district": "salopa"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "salopa"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "salopa"
+  },
+  {
+    "id": "mandalaguna",
+    "name": "Mandalaguna",
+    "district": "salopa"
+  },
+  {
+    "id": "kawitan",
+    "name": "Kawitan",
+    "district": "salopa"
+  },
+  {
+    "id": "mandalawangi",
+    "name": "Mandalawangi",
+    "district": "salopa"
+  },
+  {
+    "id": "banjarwaringin",
+    "name": "Banjarwaringin",
+    "district": "salopa"
+  },
+  {
+    "id": "karyawangi",
+    "name": "Karyawangi",
+    "district": "salopa"
+  }
+]

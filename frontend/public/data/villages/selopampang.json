@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tanggulanom",
+    "name": "Tanggulanom",
+    "district": "selopampang"
+  },
+  {
+    "id": "jetis",
+    "name": "Jetis",
+    "district": "selopampang"
+  },
+  {
+    "id": "ngaditirto",
+    "name": "Ngaditirto",
+    "district": "selopampang"
+  },
+  {
+    "id": "bulan",
+    "name": "Bulan",
+    "district": "selopampang"
+  },
+  {
+    "id": "salamrejo",
+    "name": "Salamrejo",
+    "district": "selopampang"
+  },
+  {
+    "id": "selopampang",
+    "name": "Selopampang",
+    "district": "selopampang"
+  },
+  {
+    "id": "kacepit",
+    "name": "Kacepit",
+    "district": "selopampang"
+  },
+  {
+    "id": "gambasan",
+    "name": "Gambasan",
+    "district": "selopampang"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "selopampang"
+  },
+  {
+    "id": "bagusan",
+    "name": "Bagusan",
+    "district": "selopampang"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "selopampang"
+  },
+  {
+    "id": "bumiayu",
+    "name": "Bumiayu",
+    "district": "selopampang"
+  }
+]

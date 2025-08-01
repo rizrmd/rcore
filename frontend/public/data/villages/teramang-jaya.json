@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pasar-bantal",
+    "name": "Pasar Bantal",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "teramang-jaya",
+    "name": "Teramang Jaya",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "nenggalo",
+    "name": "Nenggalo",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "pondok-baru",
+    "name": "Pondok Baru",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "sido-makmur",
+    "name": "Sido Makmur",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "lubuk-selandak",
+    "name": "Lubuk Selandak",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "bandar-jaya",
+    "name": "Bandar Jaya",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "mandi-angin-jaya",
+    "name": "Mandi Angin Jaya",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "nelan-indah",
+    "name": "Nelan Indah",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "pernyah",
+    "name": "Pernyah",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "batu-ejung",
+    "name": "Batu Ejung",
+    "district": "teramang-jaya"
+  },
+  {
+    "id": "brangan-mulya",
+    "name": "Brangan Mulya",
+    "district": "teramang-jaya"
+  }
+]

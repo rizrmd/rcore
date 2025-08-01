@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bumi-dipasena-sentosa",
+    "name": "Bumi Dipasena Sentosa",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-utama",
+    "name": "Bumi Dipasena Utama",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-agung",
+    "name": "Bumi Dipasena Agung",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-jaya",
+    "name": "Bumi Dipasena Jaya",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-mulya",
+    "name": "Bumi Dipasena Mulya",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-makmur",
+    "name": "Bumi Dipasena Makmur",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-sejahtera",
+    "name": "Bumi Dipasena Sejahtera",
+    "district": "rawajitu-timur"
+  },
+  {
+    "id": "bumi-dipasena-abadi",
+    "name": "Bumi Dipasena Abadi",
+    "district": "rawajitu-timur"
+  }
+]

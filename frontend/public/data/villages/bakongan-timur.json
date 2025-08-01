@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ujung-pulo-cut",
+    "name": "Ujung Pulo Cut",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "ujung-pulo-rayeuk",
+    "name": "Ujung Pulo Rayeuk",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "pasi-seubadeh",
+    "name": "Pasi Seubadeh",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "ladang-rimba",
+    "name": "Ladang Rimba",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "simpang",
+    "name": "Simpang",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "sawah-tingkeum",
+    "name": "Sawah Tingkeum",
+    "district": "bakongan-timur"
+  },
+  {
+    "id": "seuleukat",
+    "name": "Seuleukat",
+    "district": "bakongan-timur"
+  }
+]

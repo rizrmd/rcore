@@ -1,0 +1,62 @@
+[
+  {
+    "id": "talang-ulu",
+    "name": "Talang Ulu",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "kampung-muara-aman",
+    "name": "Kampung Muara Aman",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "nangai-amen",
+    "name": "Nangai Amen",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "pasar-muara-aman",
+    "name": "Pasar Muara Aman",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "kampung-dalam",
+    "name": "Kampung Dalam",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "gandung",
+    "name": "Gandung",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "lokasari",
+    "name": "Lokasari",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "lebong-tambang",
+    "name": "Lebong Tambang",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "kampung-jawa",
+    "name": "Kampung Jawa",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "ladang-palembang",
+    "name": "Ladang Palembang",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "tunggang",
+    "name": "Tunggang",
+    "district": "lebong-utara"
+  },
+  {
+    "id": "gandung-baru",
+    "name": "Gandung Baru",
+    "district": "lebong-utara"
+  }
+]

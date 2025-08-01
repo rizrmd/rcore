@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tuladenggi",
+    "name": "Tuladenggi",
+    "district": "dungingi"
+  },
+  {
+    "id": "libuo",
+    "name": "Libuo",
+    "district": "dungingi"
+  },
+  {
+    "id": "tomulabutao",
+    "name": "Tomulabutao",
+    "district": "dungingi"
+  },
+  {
+    "id": "huangobotu",
+    "name": "Huangobotu",
+    "district": "dungingi"
+  },
+  {
+    "id": "tomulabutao-selatan",
+    "name": "Tomulabutao Selatan",
+    "district": "dungingi"
+  }
+]

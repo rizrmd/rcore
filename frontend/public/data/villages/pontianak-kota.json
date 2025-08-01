@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sungai-bangkong",
+    "name": "Sungai Bangkong",
+    "district": "pontianak-kota"
+  },
+  {
+    "id": "darat-sekip",
+    "name": "Darat Sekip",
+    "district": "pontianak-kota"
+  },
+  {
+    "id": "tengah",
+    "name": "Tengah",
+    "district": "pontianak-kota"
+  },
+  {
+    "id": "mariana",
+    "name": "Mariana",
+    "district": "pontianak-kota"
+  },
+  {
+    "id": "sungai-jawi",
+    "name": "Sungai Jawi",
+    "district": "pontianak-kota"
+  }
+]

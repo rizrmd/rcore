@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bobos",
+    "name": "Bobos",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "cikalahang",
+    "name": "Cikalahang",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "mandala",
+    "name": "Mandala",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "cisaat",
+    "name": "Cisaat",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "sindangjawa",
+    "name": "Sindangjawa",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "sindangmekar",
+    "name": "Sindangmekar",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "cangkoak",
+    "name": "Cangkoak",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "kepunduan",
+    "name": "Kepunduan",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "balad",
+    "name": "Balad",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "dukupuntang",
+    "name": "Dukupuntang",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "cipanas",
+    "name": "Cipanas",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "girinata",
+    "name": "Girinata",
+    "district": "dukupuntang"
+  },
+  {
+    "id": "kedongdong-kidul",
+    "name": "Kedongdong Kidul",
+    "district": "dukupuntang"
+  }
+]

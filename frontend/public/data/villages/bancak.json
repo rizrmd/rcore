@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "bancak"
+  },
+  {
+    "id": "plumutan",
+    "name": "Plumutan",
+    "district": "bancak"
+  },
+  {
+    "id": "bantal",
+    "name": "Bantal",
+    "district": "bancak"
+  },
+  {
+    "id": "jlumpang",
+    "name": "Jlumpang",
+    "district": "bancak"
+  },
+  {
+    "id": "bancak",
+    "name": "Bancak",
+    "district": "bancak"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "bancak"
+  },
+  {
+    "id": "boto",
+    "name": "Boto",
+    "district": "bancak"
+  }
+]

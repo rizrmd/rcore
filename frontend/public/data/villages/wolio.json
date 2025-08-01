@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bataraguru",
+    "name": "Bataraguru",
+    "district": "wolio"
+  },
+  {
+    "id": "tomba",
+    "name": "Tomba",
+    "district": "wolio"
+  },
+  {
+    "id": "wale",
+    "name": "Wale",
+    "district": "wolio"
+  },
+  {
+    "id": "batulo",
+    "name": "Batulo",
+    "district": "wolio"
+  },
+  {
+    "id": "wangkanapi",
+    "name": "Wangkanapi",
+    "district": "wolio"
+  },
+  {
+    "id": "bukit-wolio-indah",
+    "name": "Bukit Wolio Indah",
+    "district": "wolio"
+  },
+  {
+    "id": "kadolo-katapi",
+    "name": "Kadolo Katapi",
+    "district": "wolio"
+  }
+]

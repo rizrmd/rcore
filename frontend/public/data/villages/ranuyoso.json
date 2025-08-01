@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jenggrong",
+    "name": "Jenggrong",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "meninjo",
+    "name": "Meninjo",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "tegalbangsri",
+    "name": "Tegalbangsri",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "alun-alun",
+    "name": "Alun Alun",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "ranubedali",
+    "name": "Ranubedali",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "ranuyoso",
+    "name": "Ranuyoso",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "wonoayu",
+    "name": "Wonoayu",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "penawungan",
+    "name": "Penawungan",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "wates-kulon",
+    "name": "Wates Kulon",
+    "district": "ranuyoso"
+  },
+  {
+    "id": "wates-wetan",
+    "name": "Wates Wetan",
+    "district": "ranuyoso"
+  }
+]

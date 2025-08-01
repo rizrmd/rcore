@@ -1,0 +1,72 @@
+[
+  {
+    "id": "karawaci-baru",
+    "name": "Karawaci Baru",
+    "district": "karawaci"
+  },
+  {
+    "id": "nusajaya",
+    "name": "Nusajaya",
+    "district": "karawaci"
+  },
+  {
+    "id": "bojongjaya",
+    "name": "Bojongjaya",
+    "district": "karawaci"
+  },
+  {
+    "id": "karawaci",
+    "name": "Karawaci",
+    "district": "karawaci"
+  },
+  {
+    "id": "cimone-jaya",
+    "name": "Cimone Jaya",
+    "district": "karawaci"
+  },
+  {
+    "id": "cimone",
+    "name": "Cimone",
+    "district": "karawaci"
+  },
+  {
+    "id": "margasari",
+    "name": "Margasari",
+    "district": "karawaci"
+  },
+  {
+    "id": "pabuaran",
+    "name": "Pabuaran",
+    "district": "karawaci"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "karawaci"
+  },
+  {
+    "id": "koangjaya",
+    "name": "Koangjaya",
+    "district": "karawaci"
+  },
+  {
+    "id": "pasarbaru",
+    "name": "Pasarbaru",
+    "district": "karawaci"
+  },
+  {
+    "id": "sumur-pacing",
+    "name": "Sumur Pacing",
+    "district": "karawaci"
+  },
+  {
+    "id": "pabuaran-tumpeng",
+    "name": "Pabuaran Tumpeng",
+    "district": "karawaci"
+  },
+  {
+    "id": "nambojaya",
+    "name": "Nambojaya",
+    "district": "karawaci"
+  }
+]

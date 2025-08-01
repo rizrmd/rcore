@@ -1,0 +1,77 @@
+[
+  {
+    "id": "dusun-baru",
+    "name": "Dusun Baru",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "padang-batu",
+    "name": "Padang Batu",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "penago-i",
+    "name": "Penago I",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "penago-baru",
+    "name": "Penago Baru",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "rawa-indah",
+    "name": "Rawa Indah",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "tanah-abang",
+    "name": "Tanah Abang",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "penago-ii",
+    "name": "Penago Ii",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "talang-kabu",
+    "name": "Talang Kabu",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "talang-panjang",
+    "name": "Talang Panjang",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "padang-cekur",
+    "name": "Padang Cekur",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "nanti-agung",
+    "name": "Nanti Agung",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "pasar-talo",
+    "name": "Pasar Talo",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "margo-sari",
+    "name": "Margo Sari",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "paluh-terap",
+    "name": "Paluh Terap",
+    "district": "ilir-talo"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "ilir-talo"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tanjung-luar",
+    "name": "Tanjung Luar",
+    "district": "keruak"
+  },
+  {
+    "id": "pijot",
+    "name": "Pijot",
+    "district": "keruak"
+  },
+  {
+    "id": "selebung-ketangga",
+    "name": "Selebung Ketangga",
+    "district": "keruak"
+  },
+  {
+    "id": "sepit",
+    "name": "Sepit",
+    "district": "keruak"
+  },
+  {
+    "id": "keruak",
+    "name": "Keruak",
+    "district": "keruak"
+  },
+  {
+    "id": "batu-putik",
+    "name": "Batu Putik",
+    "district": "keruak"
+  },
+  {
+    "id": "senyiur",
+    "name": "Senyiur",
+    "district": "keruak"
+  },
+  {
+    "id": "ketapang-raya",
+    "name": "Ketapang Raya",
+    "district": "keruak"
+  },
+  {
+    "id": "pijot-utara",
+    "name": "Pijot Utara",
+    "district": "keruak"
+  },
+  {
+    "id": "ketangga-jeraing",
+    "name": "Ketangga Jeraing",
+    "district": "keruak"
+  },
+  {
+    "id": "mendana-raya",
+    "name": "Mendana Raya",
+    "district": "keruak"
+  },
+  {
+    "id": "setungkep-lingsar",
+    "name": "Setungkep Lingsar",
+    "district": "keruak"
+  },
+  {
+    "id": "danerase",
+    "name": "Danerase",
+    "district": "keruak"
+  },
+  {
+    "id": "montong-belae",
+    "name": "Montong Belae",
+    "district": "keruak"
+  },
+  {
+    "id": "pulau-maringkik",
+    "name": "Pulau Maringkik",
+    "district": "keruak"
+  }
+]

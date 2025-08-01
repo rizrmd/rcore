@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tondowolio",
+    "name": "Tondowolio",
+    "district": "tanggetada"
+  },
+  {
+    "id": "popalia",
+    "name": "Popalia",
+    "district": "tanggetada"
+  },
+  {
+    "id": "anaiwoi",
+    "name": "Anaiwoi",
+    "district": "tanggetada"
+  },
+  {
+    "id": "tanggetada",
+    "name": "Tanggetada",
+    "district": "tanggetada"
+  },
+  {
+    "id": "petudua",
+    "name": "Petudua",
+    "district": "tanggetada"
+  },
+  {
+    "id": "rahanggada",
+    "name": "Rahanggada",
+    "district": "tanggetada"
+  },
+  {
+    "id": "pewisoa-jaya",
+    "name": "Pewisoa Jaya",
+    "district": "tanggetada"
+  },
+  {
+    "id": "lalonggolosua",
+    "name": "Lalonggolosua",
+    "district": "tanggetada"
+  },
+  {
+    "id": "lamedai",
+    "name": "Lamedai",
+    "district": "tanggetada"
+  },
+  {
+    "id": "palewai",
+    "name": "Palewai",
+    "district": "tanggetada"
+  },
+  {
+    "id": "oneeha",
+    "name": "Oneeha",
+    "district": "tanggetada"
+  },
+  {
+    "id": "puundaipa",
+    "name": "Puundaipa",
+    "district": "tanggetada"
+  },
+  {
+    "id": "lamoiko",
+    "name": "Lamoiko",
+    "district": "tanggetada"
+  },
+  {
+    "id": "tinggo",
+    "name": "Tinggo",
+    "district": "tanggetada"
+  }
+]

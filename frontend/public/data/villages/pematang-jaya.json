@@ -1,0 +1,42 @@
+[
+  {
+    "id": "salahaji",
+    "name": "Salahaji",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "serang-jaya",
+    "name": "Serang Jaya",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "pematang-tengah",
+    "name": "Pematang Tengah",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "perkebunan-perapen",
+    "name": "Perkebunan Perapen",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "limau-mungkur",
+    "name": "Limau Mungkur",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "perkebunan-damar-condong",
+    "name": "Perkebunan Damar Condong",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "damar-condong",
+    "name": "Damar Condong",
+    "district": "pematang-jaya"
+  },
+  {
+    "id": "serang-jaya-hilir",
+    "name": "Serang Jaya Hilir",
+    "district": "pematang-jaya"
+  }
+]

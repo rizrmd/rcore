@@ -1,0 +1,62 @@
+[
+  {
+    "id": "oko-oko",
+    "name": "Oko Oko",
+    "district": "pomalaa"
+  },
+  {
+    "id": "sopura",
+    "name": "Sopura",
+    "district": "pomalaa"
+  },
+  {
+    "id": "hakatutobu",
+    "name": "Hakatutobu",
+    "district": "pomalaa"
+  },
+  {
+    "id": "tambea",
+    "name": "Tambea",
+    "district": "pomalaa"
+  },
+  {
+    "id": "pomalaa",
+    "name": "Pomalaa",
+    "district": "pomalaa"
+  },
+  {
+    "id": "kumoro",
+    "name": "Kumoro",
+    "district": "pomalaa"
+  },
+  {
+    "id": "dawi-dawi",
+    "name": "Dawi-Dawi",
+    "district": "pomalaa"
+  },
+  {
+    "id": "tonggoni",
+    "name": "Tonggoni",
+    "district": "pomalaa"
+  },
+  {
+    "id": "totobo",
+    "name": "Totobo",
+    "district": "pomalaa"
+  },
+  {
+    "id": "pelambua",
+    "name": "Pelambua",
+    "district": "pomalaa"
+  },
+  {
+    "id": "pesouha",
+    "name": "Pesouha",
+    "district": "pomalaa"
+  },
+  {
+    "id": "huko-huko",
+    "name": "Huko Huko",
+    "district": "pomalaa"
+  }
+]

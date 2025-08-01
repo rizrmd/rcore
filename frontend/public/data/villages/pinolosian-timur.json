@@ -1,0 +1,62 @@
+[
+  {
+    "id": "motandoi",
+    "name": "Motandoi",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "dumagin-b",
+    "name": "Dumagin B",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "dumagin-a",
+    "name": "Dumagin A",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "dayow",
+    "name": "Dayow",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "pidung",
+    "name": "Pidung",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "onggunoi",
+    "name": "Onggunoi",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "modisi",
+    "name": "Modisi",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "posilagon",
+    "name": "Posilagon",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "iligon",
+    "name": "Iligon",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "motandoi-selatan",
+    "name": "Motandoi Selatan",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "perjuangan",
+    "name": "Perjuangan",
+    "district": "pinolosian-timur"
+  },
+  {
+    "id": "onggunoi-selatan",
+    "name": "Onggunoi Selatan",
+    "district": "pinolosian-timur"
+  }
+]

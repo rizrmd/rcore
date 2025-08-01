@@ -1,0 +1,27 @@
+[
+  {
+    "id": "selumit-pantai",
+    "name": "Selumit Pantai",
+    "district": "tarakan-tengah"
+  },
+  {
+    "id": "selumit",
+    "name": "Selumit",
+    "district": "tarakan-tengah"
+  },
+  {
+    "id": "sebengkok",
+    "name": "Sebengkok",
+    "district": "tarakan-tengah"
+  },
+  {
+    "id": "pamusian",
+    "name": "Pamusian",
+    "district": "tarakan-tengah"
+  },
+  {
+    "id": "kampung-satu-skip",
+    "name": "Kampung Satu Skip",
+    "district": "tarakan-tengah"
+  }
+]

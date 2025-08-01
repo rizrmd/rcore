@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ampenan",
+    "name": "Ampenan",
+    "regency": "kota-mataram"
+  },
+  {
+    "id": "sekarbela",
+    "name": "Sekarbela",
+    "regency": "kota-mataram"
+  },
+  {
+    "id": "mataram",
+    "name": "Mataram",
+    "regency": "kota-mataram"
+  },
+  {
+    "id": "selaparang",
+    "name": "Selaparang",
+    "regency": "kota-mataram"
+  },
+  {
+    "id": "cakranegara",
+    "name": "Cakranegara",
+    "regency": "kota-mataram"
+  },
+  {
+    "id": "sandubaya",
+    "name": "Sandubaya",
+    "regency": "kota-mataram"
+  }
+]

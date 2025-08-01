@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kobi",
+    "name": "Kobi",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "kobimukti",
+    "name": "Kobimukti",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "maneo-rendah",
+    "name": "Maneo Rendah",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "leaway",
+    "name": "Leaway",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "samal",
+    "name": "Samal",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "waitonipa",
+    "name": "Waitonipa",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "morokai",
+    "name": "Morokai",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "waimusi",
+    "name": "Waimusi",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "wai-asih",
+    "name": "Wai Asih",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "marasahua",
+    "name": "Marasahua",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "sariputih",
+    "name": "Sariputih",
+    "district": "seram-utara-timur-kobi"
+  },
+  {
+    "id": "kabauhari",
+    "name": "Kabauhari",
+    "district": "seram-utara-timur-kobi"
+  }
+]

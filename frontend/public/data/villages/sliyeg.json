@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sleman",
+    "name": "Sleman",
+    "district": "sliyeg"
+  },
+  {
+    "id": "tambi",
+    "name": "Tambi",
+    "district": "sliyeg"
+  },
+  {
+    "id": "sudikampiran",
+    "name": "Sudikampiran",
+    "district": "sliyeg"
+  },
+  {
+    "id": "tambi-lor",
+    "name": "Tambi Lor",
+    "district": "sliyeg"
+  },
+  {
+    "id": "sleman-lor",
+    "name": "Sleman Lor",
+    "district": "sliyeg"
+  },
+  {
+    "id": "majasari",
+    "name": "Majasari",
+    "district": "sliyeg"
+  },
+  {
+    "id": "majasih",
+    "name": "Majasih",
+    "district": "sliyeg"
+  },
+  {
+    "id": "sliyeg",
+    "name": "Sliyeg",
+    "district": "sliyeg"
+  },
+  {
+    "id": "gadingan",
+    "name": "Gadingan",
+    "district": "sliyeg"
+  },
+  {
+    "id": "mekargading",
+    "name": "Mekargading",
+    "district": "sliyeg"
+  },
+  {
+    "id": "sliyeglor",
+    "name": "Sliyeglor",
+    "district": "sliyeg"
+  },
+  {
+    "id": "tugu-kidul",
+    "name": "Tugu Kidul",
+    "district": "sliyeg"
+  },
+  {
+    "id": "longok",
+    "name": "Longok",
+    "district": "sliyeg"
+  }
+]

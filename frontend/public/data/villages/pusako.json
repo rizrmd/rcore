@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sungai-berbari",
+    "name": "Sungai Berbari",
+    "district": "pusako"
+  },
+  {
+    "id": "sungai-limau",
+    "name": "Sungai Limau",
+    "district": "pusako"
+  },
+  {
+    "id": "dosan",
+    "name": "Dosan",
+    "district": "pusako"
+  },
+  {
+    "id": "benayah",
+    "name": "Benayah",
+    "district": "pusako"
+  },
+  {
+    "id": "pebadaran",
+    "name": "Pebadaran",
+    "district": "pusako"
+  },
+  {
+    "id": "dusun-pusaka",
+    "name": "Dusun Pusaka",
+    "district": "pusako"
+  },
+  {
+    "id": "perincit",
+    "name": "Perincit",
+    "district": "pusako"
+  }
+]

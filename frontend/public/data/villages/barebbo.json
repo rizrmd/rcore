@@ -1,0 +1,92 @@
+[
+  {
+    "id": "cempaniga",
+    "name": "Cempaniga",
+    "district": "barebbo"
+  },
+  {
+    "id": "bacu",
+    "name": "Bacu",
+    "district": "barebbo"
+  },
+  {
+    "id": "cingkang",
+    "name": "Cingkang",
+    "district": "barebbo"
+  },
+  {
+    "id": "congko",
+    "name": "Congko",
+    "district": "barebbo"
+  },
+  {
+    "id": "cinnong",
+    "name": "Cinnong",
+    "district": "barebbo"
+  },
+  {
+    "id": "lampoko",
+    "name": "Lampoko",
+    "district": "barebbo"
+  },
+  {
+    "id": "wollangi",
+    "name": "Wollangi",
+    "district": "barebbo"
+  },
+  {
+    "id": "kajaolaliddong",
+    "name": "Kajaolaliddong",
+    "district": "barebbo"
+  },
+  {
+    "id": "samaelo",
+    "name": "Samaelo",
+    "district": "barebbo"
+  },
+  {
+    "id": "parippung",
+    "name": "Parippung",
+    "district": "barebbo"
+  },
+  {
+    "id": "apala",
+    "name": "Apala",
+    "district": "barebbo"
+  },
+  {
+    "id": "sugiale",
+    "name": "Sugiale",
+    "district": "barebbo"
+  },
+  {
+    "id": "kampuno",
+    "name": "Kampuno",
+    "district": "barebbo"
+  },
+  {
+    "id": "corawalie",
+    "name": "Corawalie",
+    "district": "barebbo"
+  },
+  {
+    "id": "talungeng",
+    "name": "Talungeng",
+    "district": "barebbo"
+  },
+  {
+    "id": "barebbo",
+    "name": "Barebbo",
+    "district": "barebbo"
+  },
+  {
+    "id": "watu",
+    "name": "Watu",
+    "district": "barebbo"
+  },
+  {
+    "id": "kading",
+    "name": "Kading",
+    "district": "barebbo"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "barangka",
+    "name": "Barangka",
+    "district": "barangka"
+  },
+  {
+    "id": "sawerigadi",
+    "name": "Sawerigadi",
+    "district": "barangka"
+  },
+  {
+    "id": "bungkolo",
+    "name": "Bungkolo",
+    "district": "barangka"
+  },
+  {
+    "id": "lapolea",
+    "name": "Lapolea",
+    "district": "barangka"
+  },
+  {
+    "id": "walelei",
+    "name": "Walelei",
+    "district": "barangka"
+  },
+  {
+    "id": "waulai",
+    "name": "Waulai",
+    "district": "barangka"
+  },
+  {
+    "id": "lafinde",
+    "name": "Lafinde",
+    "district": "barangka"
+  },
+  {
+    "id": "w-u-n-a",
+    "name": "W U N A",
+    "district": "barangka"
+  }
+]

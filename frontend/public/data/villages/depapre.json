@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kendate",
+    "name": "Kendate",
+    "district": "depapre"
+  },
+  {
+    "id": "entiyebo",
+    "name": "Entiyebo",
+    "district": "depapre"
+  },
+  {
+    "id": "waiya",
+    "name": "Waiya",
+    "district": "depapre"
+  },
+  {
+    "id": "tablasupa",
+    "name": "Tablasupa",
+    "district": "depapre"
+  },
+  {
+    "id": "yepase",
+    "name": "Yepase",
+    "district": "depapre"
+  },
+  {
+    "id": "wambena",
+    "name": "Wambena",
+    "district": "depapre"
+  },
+  {
+    "id": "yewena",
+    "name": "Yewena",
+    "district": "depapre"
+  },
+  {
+    "id": "doromena",
+    "name": "Doromena",
+    "district": "depapre"
+  }
+]

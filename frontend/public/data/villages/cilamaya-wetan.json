@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cikarang",
+    "name": "Cikarang",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "cikalong",
+    "name": "Cikalong",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "tegalwaru",
+    "name": "Tegalwaru",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "mekarmaya",
+    "name": "Mekarmaya",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "cilamaya",
+    "name": "Cilamaya",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "sukakerta",
+    "name": "Sukakerta",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "rawagempol-kulon",
+    "name": "Rawagempol Kulon",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "rawagempol-wetan",
+    "name": "Rawagempol Wetan",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "muarabaru",
+    "name": "Muarabaru",
+    "district": "cilamaya-wetan"
+  },
+  {
+    "id": "muara",
+    "name": "Muara",
+    "district": "cilamaya-wetan"
+  }
+]

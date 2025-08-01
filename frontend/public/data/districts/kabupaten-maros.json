@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mandai",
+    "name": "Mandai",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "moncongloe",
+    "name": "Moncongloe",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "maros-baru",
+    "name": "Maros Baru",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "marusu",
+    "name": "Marusu",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "turikale",
+    "name": "Turikale",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "lau",
+    "name": "Lau",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "bontoa",
+    "name": "Bontoa",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "bantimurung",
+    "name": "Bantimurung",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "simbang",
+    "name": "Simbang",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "tanralili",
+    "name": "Tanralili",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "tompu-bulu",
+    "name": "Tompu Bulu",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "camba",
+    "name": "Camba",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "cenrana",
+    "name": "Cenrana",
+    "regency": "kabupaten-maros"
+  },
+  {
+    "id": "mallawa",
+    "name": "Mallawa",
+    "regency": "kabupaten-maros"
+  }
+]

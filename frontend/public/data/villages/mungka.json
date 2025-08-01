@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jopang-manganti",
+    "name": "Jopang Manganti",
+    "district": "mungka"
+  },
+  {
+    "id": "mungka",
+    "name": "Mungka",
+    "district": "mungka"
+  },
+  {
+    "id": "talang-maua",
+    "name": "Talang Maua",
+    "district": "mungka"
+  },
+  {
+    "id": "simpang-kapuak",
+    "name": "Simpang Kapuak",
+    "district": "mungka"
+  },
+  {
+    "id": "sungai-antuan",
+    "name": "Sungai Antuan",
+    "district": "mungka"
+  }
+]

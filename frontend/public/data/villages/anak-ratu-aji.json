@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gedung-ratu",
+    "name": "Gedung Ratu",
+    "district": "anak-ratu-aji"
+  },
+  {
+    "id": "sri-mulyo",
+    "name": "Sri Mulyo",
+    "district": "anak-ratu-aji"
+  },
+  {
+    "id": "gedung-sari",
+    "name": "Gedung Sari",
+    "district": "anak-ratu-aji"
+  },
+  {
+    "id": "bandar-putih-tua",
+    "name": "Bandar Putih Tua",
+    "district": "anak-ratu-aji"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "anak-ratu-aji"
+  },
+  {
+    "id": "karang-jawa",
+    "name": "Karang Jawa",
+    "district": "anak-ratu-aji"
+  }
+]

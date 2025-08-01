@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sungai-limau",
+    "name": "Sungai Limau",
+    "district": "sebatik-tengah"
+  },
+  {
+    "id": "maspul",
+    "name": "Maspul",
+    "district": "sebatik-tengah"
+  },
+  {
+    "id": "aji-kuning",
+    "name": "Aji Kuning",
+    "district": "sebatik-tengah"
+  },
+  {
+    "id": "bukit-harapan",
+    "name": "Bukit Harapan",
+    "district": "sebatik-tengah"
+  }
+]

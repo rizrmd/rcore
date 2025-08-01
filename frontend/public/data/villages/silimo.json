@@ -1,0 +1,97 @@
+[
+  {
+    "id": "momnowak",
+    "name": "Momnowak",
+    "district": "silimo"
+  },
+  {
+    "id": "eksa",
+    "name": "Eksa",
+    "district": "silimo"
+  },
+  {
+    "id": "silimo",
+    "name": "Silimo",
+    "district": "silimo"
+  },
+  {
+    "id": "siloma",
+    "name": "Siloma",
+    "district": "silimo"
+  },
+  {
+    "id": "walkruk",
+    "name": "Walkruk",
+    "district": "silimo"
+  },
+  {
+    "id": "sodule",
+    "name": "Sodule",
+    "district": "silimo"
+  },
+  {
+    "id": "sagaduk",
+    "name": "Sagaduk",
+    "district": "silimo"
+  },
+  {
+    "id": "asia",
+    "name": "Asia",
+    "district": "silimo"
+  },
+  {
+    "id": "nekilei",
+    "name": "Nekilei",
+    "district": "silimo"
+  },
+  {
+    "id": "suok",
+    "name": "Suok",
+    "district": "silimo"
+  },
+  {
+    "id": "sianele",
+    "name": "Sianele",
+    "district": "silimo"
+  },
+  {
+    "id": "eremnahom",
+    "name": "Eremnahom",
+    "district": "silimo"
+  },
+  {
+    "id": "silon",
+    "name": "Silon",
+    "district": "silimo"
+  },
+  {
+    "id": "fabe",
+    "name": "Fabe",
+    "district": "silimo"
+  },
+  {
+    "id": "weakma",
+    "name": "Weakma",
+    "district": "silimo"
+  },
+  {
+    "id": "pinda",
+    "name": "Pinda",
+    "district": "silimo"
+  },
+  {
+    "id": "hwesalome",
+    "name": "Hwesalome",
+    "district": "silimo"
+  },
+  {
+    "id": "sebin",
+    "name": "Sebin",
+    "district": "silimo"
+  },
+  {
+    "id": "wubialo",
+    "name": "Wubialo",
+    "district": "silimo"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bandar-tengah",
+    "name": "Bandar Tengah",
+    "district": "bandar-khalipah"
+  },
+  {
+    "id": "juhar",
+    "name": "Juhar",
+    "district": "bandar-khalipah"
+  },
+  {
+    "id": "kayu-besar",
+    "name": "Kayu Besar",
+    "district": "bandar-khalipah"
+  },
+  {
+    "id": "pekan-bandar-khalipah",
+    "name": "Pekan Bandar Khalipah",
+    "district": "bandar-khalipah"
+  },
+  {
+    "id": "gelam-sei-serimah",
+    "name": "Gelam Sei Serimah",
+    "district": "bandar-khalipah"
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "id": "jakarta-pusat",
+    "name": "Jakarta Pusat",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "jakarta-utara",
+    "name": "Jakarta Utara",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "jakarta-selatan",
+    "name": "Jakarta Selatan",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "jakarta-timur",
+    "name": "Jakarta Timur",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "jakarta-barat",
+    "name": "Jakarta Barat",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "kepulauan-seribu",
+    "name": "Kepulauan Seribu",
+    "province": "dki-jakarta"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "bekasi",
+    "name": "Bekasi",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "bogor",
+    "name": "Bogor",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "cimahi",
+    "name": "Cimahi",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "cirebon",
+    "name": "Cirebon",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "sukabumi",
+    "name": "Sukabumi",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "tasikmalaya",
+    "name": "Tasikmalaya",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "banjar",
+    "name": "Banjar",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "garut",
+    "name": "Garut",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "indramayu",
+    "name": "Indramayu",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "karawang",
+    "name": "Karawang",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "kuningan",
+    "name": "Kuningan",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "majalengka",
+    "name": "Majalengka",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "pangandaran",
+    "name": "Pangandaran",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "purwakarta",
+    "name": "Purwakarta",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "subang",
+    "name": "Subang",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "sumedang",
+    "name": "Sumedang",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "cianjur",
+    "name": "Cianjur",
+    "province": "jawa-barat"
+  },
+  {
+    "id": "semarang",
+    "name": "Semarang",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "surakarta",
+    "name": "Surakarta",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "tegal",
+    "name": "Tegal",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "salatiga",
+    "name": "Salatiga",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "pekalongan",
+    "name": "Pekalongan",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "magelang",
+    "name": "Magelang",
+    "province": "jawa-tengah"
+  },
+  {
+    "id": "surabaya",
+    "name": "Surabaya",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "malang",
+    "name": "Malang",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "kediri",
+    "name": "Kediri",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "blitar",
+    "name": "Blitar",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "mojokerto",
+    "name": "Mojokerto",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "madiun",
+    "name": "Madiun",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "pasuruan",
+    "name": "Pasuruan",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "probolinggo",
+    "name": "Probolinggo",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "batu",
+    "name": "Batu",
+    "province": "jawa-timur"
+  },
+  {
+    "id": "yogyakarta",
+    "name": "Yogyakarta",
+    "province": "diy-yogyakarta"
+  },
+  {
+    "id": "sleman",
+    "name": "Sleman",
+    "province": "diy-yogyakarta"
+  },
+  {
+    "id": "bantul",
+    "name": "Bantul",
+    "province": "diy-yogyakarta"
+  },
+  {
+    "id": "kulon-progo",
+    "name": "Kulon Progo",
+    "province": "diy-yogyakarta"
+  },
+  {
+    "id": "gunung-kidul",
+    "name": "Gunung Kidul",
+    "province": "diy-yogyakarta"
+  },
+  {
+    "id": "denpasar",
+    "name": "Denpasar",
+    "province": "bali"
+  },
+  {
+    "id": "badung",
+    "name": "Badung",
+    "province": "bali"
+  },
+  {
+    "id": "gianyar",
+    "name": "Gianyar",
+    "province": "bali"
+  },
+  {
+    "id": "tabanan",
+    "name": "Tabanan",
+    "province": "bali"
+  },
+  {
+    "id": "klungkung",
+    "name": "Klungkung",
+    "province": "bali"
+  },
+  {
+    "id": "bangli",
+    "name": "Bangli",
+    "province": "bali"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "province": "bali"
+  },
+  {
+    "id": "buleleng",
+    "name": "Buleleng",
+    "province": "bali"
+  },
+  {
+    "id": "jembrana",
+    "name": "Jembrana",
+    "province": "bali"
+  },
+  {
+    "id": "medan",
+    "name": "Medan",
+    "province": "sumatera-utara"
+  },
+  {
+    "id": "binjai",
+    "name": "Binjai",
+    "province": "sumatera-utara"
+  },
+  {
+    "id": "pematangsiantar",
+    "name": "Pematangsiantar",
+    "province": "sumatera-utara"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "province": "sumatera-utara"
+  },
+  {
+    "id": "tanjungbalai",
+    "name": "Tanjungbalai",
+    "province": "sumatera-utara"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "bukittinggi",
+    "name": "Bukittinggi",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "padangpanjang",
+    "name": "Padangpanjang",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "payakumbuh",
+    "name": "Payakumbuh",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "sawahlunto",
+    "name": "Sawahlunto",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "solok",
+    "name": "Solok",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "pariaman",
+    "name": "Pariaman",
+    "province": "sumatera-barat"
+  },
+  {
+    "id": "pekanbaru",
+    "name": "Pekanbaru",
+    "province": "riau"
+  },
+  {
+    "id": "dumai",
+    "name": "Dumai",
+    "province": "riau"
+  },
+  {
+    "id": "batam",
+    "name": "Batam",
+    "province": "kepulauan-riau"
+  },
+  {
+    "id": "tanjungpinang",
+    "name": "Tanjungpinang",
+    "province": "kepulauan-riau"
+  },
+  {
+    "id": "jambi-city",
+    "name": "Jambi",
+    "province": "jambi"
+  },
+  {
+    "id": "sungai-penuh",
+    "name": "Sungai Penuh",
+    "province": "jambi"
+  },
+  {
+    "id": "palembang",
+    "name": "Palembang",
+    "province": "sumatera-selatan"
+  },
+  {
+    "id": "prabumulih",
+    "name": "Prabumulih",
+    "province": "sumatera-selatan"
+  },
+  {
+    "id": "lubuklinggau",
+    "name": "Lubuklinggau",
+    "province": "sumatera-selatan"
+  },
+  {
+    "id": "pagar-alam",
+    "name": "Pagar Alam",
+    "province": "sumatera-selatan"
+  },
+  {
+    "id": "bengkulu-city",
+    "name": "Bengkulu",
+    "province": "bengkulu"
+  },
+  {
+    "id": "bandar-lampung",
+    "name": "Bandar Lampung",
+    "province": "lampung"
+  },
+  {
+    "id": "metro",
+    "name": "Metro",
+    "province": "lampung"
+  },
+  {
+    "id": "pangkal-pinang",
+    "name": "Pangkal Pinang",
+    "province": "bangka-belitung"
+  },
+  {
+    "id": "serang",
+    "name": "Serang",
+    "province": "banten"
+  },
+  {
+    "id": "cilegon",
+    "name": "Cilegon",
+    "province": "banten"
+  },
+  {
+    "id": "tangerang",
+    "name": "Tangerang",
+    "province": "banten"
+  },
+  {
+    "id": "tangerang-selatan",
+    "name": "Tangerang Selatan",
+    "province": "banten"
+  },
+  {
+    "id": "mataram",
+    "name": "Mataram",
+    "province": "nusa-tenggara-barat"
+  },
+  {
+    "id": "bima",
+    "name": "Bima",
+    "province": "nusa-tenggara-barat"
+  },
+  {
+    "id": "kupang",
+    "name": "Kupang",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "pontianak",
+    "name": "Pontianak",
+    "province": "kalimantan-barat"
+  },
+  {
+    "id": "singkawang",
+    "name": "Singkawang",
+    "province": "kalimantan-barat"
+  },
+  {
+    "id": "palangka-raya",
+    "name": "Palangka Raya",
+    "province": "kalimantan-tengah"
+  },
+  {
+    "id": "banjarmasin",
+    "name": "Banjarmasin",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "banjarbaru",
+    "name": "Banjarbaru",
+    "province": "kalimantan-selatan"
+  },
+  {
+    "id": "samarinda",
+    "name": "Samarinda",
+    "province": "kalimantan-timur"
+  },
+  {
+    "id": "balikpapan",
+    "name": "Balikpapan",
+    "province": "kalimantan-timur"
+  },
+  {
+    "id": "bontang",
+    "name": "Bontang",
+    "province": "kalimantan-timur"
+  },
+  {
+    "id": "tarakan",
+    "name": "Tarakan",
+    "province": "kalimantan-utara"
+  },
+  {
+    "id": "manado",
+    "name": "Manado",
+    "province": "sulawesi-utara"
+  },
+  {
+    "id": "bitung",
+    "name": "Bitung",
+    "province": "sulawesi-utara"
+  },
+  {
+    "id": "tomohon",
+    "name": "Tomohon",
+    "province": "sulawesi-utara"
+  },
+  {
+    "id": "kotamobagu",
+    "name": "Kotamobagu",
+    "province": "sulawesi-utara"
+  },
+  {
+    "id": "palu",
+    "name": "Palu",
+    "province": "sulawesi-tengah"
+  },
+  {
+    "id": "makassar",
+    "name": "Makassar",
+    "province": "sulawesi-selatan"
+  },
+  {
+    "id": "parepare",
+    "name": "Parepare",
+    "province": "sulawesi-selatan"
+  },
+  {
+    "id": "palopo",
+    "name": "Palopo",
+    "province": "sulawesi-selatan"
+  },
+  {
+    "id": "kendari",
+    "name": "Kendari",
+    "province": "sulawesi-tenggara"
+  },
+  {
+    "id": "bau-bau",
+    "name": "Bau-Bau",
+    "province": "sulawesi-tenggara"
+  },
+  {
+    "id": "gorontalo-city",
+    "name": "Gorontalo",
+    "province": "gorontalo"
+  },
+  {
+    "id": "mamuju",
+    "name": "Mamuju",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "ambon",
+    "name": "Ambon",
+    "province": "maluku"
+  },
+  {
+    "id": "tual",
+    "name": "Tual",
+    "province": "maluku"
+  },
+  {
+    "id": "ternate",
+    "name": "Ternate",
+    "province": "maluku-utara"
+  },
+  {
+    "id": "tidore-kepulauan",
+    "name": "Tidore Kepulauan",
+    "province": "maluku-utara"
+  },
+  {
+    "id": "jayapura",
+    "name": "Jayapura",
+    "province": "papua"
+  },
+  {
+    "id": "sorong",
+    "name": "Sorong",
+    "province": "papua-barat"
+  }
+]

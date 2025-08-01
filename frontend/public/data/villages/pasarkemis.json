@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sukaasih",
+    "name": "Sukaasih",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "pasar-kemis",
+    "name": "Pasar Kemis",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "sukamantri",
+    "name": "Sukamantri",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "kuta-jaya",
+    "name": "Kuta Jaya",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "gelam-jaya",
+    "name": "Gelam Jaya",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "kuta-baru",
+    "name": "Kuta Baru",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "kuta-bumi",
+    "name": "Kuta Bumi",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "pangadegan",
+    "name": "Pangadegan",
+    "district": "pasarkemis"
+  },
+  {
+    "id": "sindang-sari",
+    "name": "Sindang Sari",
+    "district": "pasarkemis"
+  }
+]

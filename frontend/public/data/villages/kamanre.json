@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tabbaja",
+    "name": "Tabbaja",
+    "district": "kamanre"
+  },
+  {
+    "id": "libukang",
+    "name": "Libukang",
+    "district": "kamanre"
+  },
+  {
+    "id": "kamanre",
+    "name": "Kamanre",
+    "district": "kamanre"
+  },
+  {
+    "id": "cilallang",
+    "name": "Cilallang",
+    "district": "kamanre"
+  },
+  {
+    "id": "wara",
+    "name": "Wara",
+    "district": "kamanre"
+  },
+  {
+    "id": "salu-paremang",
+    "name": "Salu Paremang",
+    "district": "kamanre"
+  },
+  {
+    "id": "bunga-eja",
+    "name": "Bunga Eja",
+    "district": "kamanre"
+  },
+  {
+    "id": "saluparemang-selatan",
+    "name": "Saluparemang Selatan",
+    "district": "kamanre"
+  }
+]

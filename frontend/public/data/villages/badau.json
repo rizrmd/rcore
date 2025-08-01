@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pegantungan",
+    "name": "Pegantungan",
+    "district": "badau"
+  },
+  {
+    "id": "sungai-samak",
+    "name": "Sungai Samak",
+    "district": "badau"
+  },
+  {
+    "id": "badau",
+    "name": "Badau",
+    "district": "badau"
+  },
+  {
+    "id": "kacang-botor",
+    "name": "Kacang Botor",
+    "district": "badau"
+  },
+  {
+    "id": "air-batu-buding",
+    "name": "Air Batu Buding",
+    "district": "badau"
+  },
+  {
+    "id": "ibul",
+    "name": "Ibul",
+    "district": "badau"
+  },
+  {
+    "id": "pulau-majang",
+    "name": "Pulau Majang",
+    "district": "badau"
+  },
+  {
+    "id": "kekurak",
+    "name": "Kekurak",
+    "district": "badau"
+  },
+  {
+    "id": "semuntik",
+    "name": "Semuntik",
+    "district": "badau"
+  },
+  {
+    "id": "janting",
+    "name": "Janting",
+    "district": "badau"
+  },
+  {
+    "id": "seriang",
+    "name": "Seriang",
+    "district": "badau"
+  },
+  {
+    "id": "badau",
+    "name": "Badau",
+    "district": "badau"
+  },
+  {
+    "id": "sebindang",
+    "name": "Sebindang",
+    "district": "badau"
+  },
+  {
+    "id": "tinting-seligi",
+    "name": "Tinting Seligi",
+    "district": "badau"
+  },
+  {
+    "id": "tajum",
+    "name": "Tajum",
+    "district": "badau"
+  }
+]

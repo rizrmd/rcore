@@ -1,0 +1,112 @@
+[
+  {
+    "id": "suka-ramai",
+    "name": "Suka Ramai",
+    "district": "manis-mata"
+  },
+  {
+    "id": "manis-mata",
+    "name": "Manis Mata",
+    "district": "manis-mata"
+  },
+  {
+    "id": "suak-burung",
+    "name": "Suak Burung",
+    "district": "manis-mata"
+  },
+  {
+    "id": "air-dekakah",
+    "name": "Air Dekakah",
+    "district": "manis-mata"
+  },
+  {
+    "id": "silat",
+    "name": "Silat",
+    "district": "manis-mata"
+  },
+  {
+    "id": "terusan",
+    "name": "Terusan",
+    "district": "manis-mata"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "manis-mata"
+  },
+  {
+    "id": "kelampai",
+    "name": "Kelampai",
+    "district": "manis-mata"
+  },
+  {
+    "id": "bukit-gajah",
+    "name": "Bukit Gajah",
+    "district": "manis-mata"
+  },
+  {
+    "id": "lembah-mukti",
+    "name": "Lembah Mukti",
+    "district": "manis-mata"
+  },
+  {
+    "id": "asam-besar",
+    "name": "Asam Besar",
+    "district": "manis-mata"
+  },
+  {
+    "id": "batu-sedau",
+    "name": "Batu Sedau",
+    "district": "manis-mata"
+  },
+  {
+    "id": "jambi",
+    "name": "Jambi",
+    "district": "manis-mata"
+  },
+  {
+    "id": "seguling",
+    "name": "Seguling",
+    "district": "manis-mata"
+  },
+  {
+    "id": "kalimantan",
+    "name": "Kalimantan",
+    "district": "manis-mata"
+  },
+  {
+    "id": "pelempangan",
+    "name": "Pelempangan",
+    "district": "manis-mata"
+  },
+  {
+    "id": "sengkuang-merabong",
+    "name": "Sengkuang Merabong",
+    "district": "manis-mata"
+  },
+  {
+    "id": "pakit-selaba",
+    "name": "Pakit Selaba",
+    "district": "manis-mata"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "manis-mata"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "manis-mata"
+  },
+  {
+    "id": "ratu-elok",
+    "name": "Ratu Elok",
+    "district": "manis-mata"
+  },
+  {
+    "id": "tribun-jaya",
+    "name": "Tribun Jaya",
+    "district": "manis-mata"
+  }
+]

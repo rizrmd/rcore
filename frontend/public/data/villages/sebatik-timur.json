@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sungai-nyamuk",
+    "name": "Sungai Nyamuk",
+    "district": "sebatik-timur"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "sebatik-timur"
+  },
+  {
+    "id": "bukit-aru-indah",
+    "name": "Bukit Aru Indah",
+    "district": "sebatik-timur"
+  },
+  {
+    "id": "tanjung-aru",
+    "name": "Tanjung Aru",
+    "district": "sebatik-timur"
+  }
+]

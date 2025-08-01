@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pogon",
+    "name": "Pogon",
+    "district": "waigete"
+  },
+  {
+    "id": "aibura",
+    "name": "Aibura",
+    "district": "waigete"
+  },
+  {
+    "id": "wairbleler",
+    "name": "Wairbleler",
+    "district": "waigete"
+  },
+  {
+    "id": "hoder",
+    "name": "Hoder",
+    "district": "waigete"
+  },
+  {
+    "id": "egon",
+    "name": "Egon",
+    "district": "waigete"
+  },
+  {
+    "id": "nangatobong",
+    "name": "Nangatobong",
+    "district": "waigete"
+  },
+  {
+    "id": "wairterang",
+    "name": "Wairterang",
+    "district": "waigete"
+  },
+  {
+    "id": "watudiran",
+    "name": "Watudiran",
+    "district": "waigete"
+  }
+]

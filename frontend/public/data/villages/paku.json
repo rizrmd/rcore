@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tampa",
+    "name": "Tampa",
+    "district": "paku"
+  },
+  {
+    "id": "runggu-raya",
+    "name": "Runggu Raya",
+    "district": "paku"
+  },
+  {
+    "id": "patung",
+    "name": "Patung",
+    "district": "paku"
+  },
+  {
+    "id": "kalamus",
+    "name": "Kalamus",
+    "district": "paku"
+  },
+  {
+    "id": "simpang-bingkuang",
+    "name": "Simpang Bingkuang",
+    "district": "paku"
+  },
+  {
+    "id": "kupang-baru",
+    "name": "Kupang Baru",
+    "district": "paku"
+  },
+  {
+    "id": "luau-jawuk",
+    "name": "Luau Jawuk",
+    "district": "paku"
+  },
+  {
+    "id": "tarinsing",
+    "name": "Tarinsing",
+    "district": "paku"
+  },
+  {
+    "id": "bantai-napu",
+    "name": "Bantai Napu",
+    "district": "paku"
+  },
+  {
+    "id": "pangkan",
+    "name": "Pangkan",
+    "district": "paku"
+  },
+  {
+    "id": "gandrung",
+    "name": "Gandrung",
+    "district": "paku"
+  },
+  {
+    "id": "paku-beto",
+    "name": "Paku Beto",
+    "district": "paku"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lera",
+    "name": "Lera",
+    "district": "wotu"
+  },
+  {
+    "id": "bawalipu",
+    "name": "Bawalipu",
+    "district": "wotu"
+  },
+  {
+    "id": "lampenai",
+    "name": "Lampenai",
+    "district": "wotu"
+  },
+  {
+    "id": "bahari",
+    "name": "Bahari",
+    "district": "wotu"
+  },
+  {
+    "id": "kalaena",
+    "name": "Kalaena",
+    "district": "wotu"
+  },
+  {
+    "id": "korombua",
+    "name": "Korombua",
+    "district": "wotu"
+  },
+  {
+    "id": "kanawatu",
+    "name": "Kanawatu",
+    "district": "wotu"
+  },
+  {
+    "id": "maramba",
+    "name": "Maramba",
+    "district": "wotu"
+  },
+  {
+    "id": "tarengge",
+    "name": "Tarengge",
+    "district": "wotu"
+  },
+  {
+    "id": "cendana-hijau",
+    "name": "Cendana Hijau",
+    "district": "wotu"
+  },
+  {
+    "id": "balo-balo",
+    "name": "Balo Balo",
+    "district": "wotu"
+  },
+  {
+    "id": "pepuro-barat",
+    "name": "Pepuro Barat",
+    "district": "wotu"
+  },
+  {
+    "id": "rinjani",
+    "name": "Rinjani",
+    "district": "wotu"
+  },
+  {
+    "id": "madani",
+    "name": "Madani",
+    "district": "wotu"
+  },
+  {
+    "id": "tarengge-timur",
+    "name": "Tarengge Timur",
+    "district": "wotu"
+  },
+  {
+    "id": "tabaroge",
+    "name": "Tabaroge",
+    "district": "wotu"
+  }
+]

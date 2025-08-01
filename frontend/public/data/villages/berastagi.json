@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gurusinga",
+    "name": "Gurusinga",
+    "district": "berastagi"
+  },
+  {
+    "id": "r-a-y-a",
+    "name": "R A Y A",
+    "district": "berastagi"
+  },
+  {
+    "id": "rumah-berastagi",
+    "name": "Rumah Berastagi",
+    "district": "berastagi"
+  },
+  {
+    "id": "tambak-lau-mulgap-ii",
+    "name": "Tambak Lau Mulgap Ii",
+    "district": "berastagi"
+  },
+  {
+    "id": "gundaling-ii",
+    "name": "Gundaling Ii",
+    "district": "berastagi"
+  },
+  {
+    "id": "gundaling-i",
+    "name": "Gundaling I",
+    "district": "berastagi"
+  },
+  {
+    "id": "tambak-lau-mulgap-i",
+    "name": "Tambak Lau Mulgap I",
+    "district": "berastagi"
+  },
+  {
+    "id": "sempajaya",
+    "name": "Sempajaya",
+    "district": "berastagi"
+  },
+  {
+    "id": "d-a-u-l-u",
+    "name": "D A U L U",
+    "district": "berastagi"
+  },
+  {
+    "id": "lau-gumba",
+    "name": "Lau Gumba",
+    "district": "berastagi"
+  }
+]

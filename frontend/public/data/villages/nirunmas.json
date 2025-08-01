@@ -1,0 +1,27 @@
+[
+  {
+    "id": "waturu",
+    "name": "Waturu",
+    "district": "nirunmas"
+  },
+  {
+    "id": "tutukembong",
+    "name": "Tutukembong",
+    "district": "nirunmas"
+  },
+  {
+    "id": "manglusi",
+    "name": "Manglusi",
+    "district": "nirunmas"
+  },
+  {
+    "id": "arma",
+    "name": "Arma",
+    "district": "nirunmas"
+  },
+  {
+    "id": "watmuri",
+    "name": "Watmuri",
+    "district": "nirunmas"
+  }
+]

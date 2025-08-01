@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "jayakerta"
+  },
+  {
+    "id": "makmurjaya",
+    "name": "Makmurjaya",
+    "district": "jayakerta"
+  },
+  {
+    "id": "jayamakmur",
+    "name": "Jayamakmur",
+    "district": "jayakerta"
+  },
+  {
+    "id": "jayakerta",
+    "name": "Jayakerta",
+    "district": "jayakerta"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "jayakerta"
+  },
+  {
+    "id": "ciptamarga",
+    "name": "Ciptamarga",
+    "district": "jayakerta"
+  },
+  {
+    "id": "medangasem",
+    "name": "Medangasem",
+    "district": "jayakerta"
+  },
+  {
+    "id": "kampungsawah",
+    "name": "Kampungsawah",
+    "district": "jayakerta"
+  }
+]

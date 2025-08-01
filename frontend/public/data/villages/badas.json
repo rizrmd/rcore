@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sekoto",
+    "name": "Sekoto",
+    "district": "badas"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "district": "badas"
+  },
+  {
+    "id": "lamong",
+    "name": "Lamong",
+    "district": "badas"
+  },
+  {
+    "id": "canggu",
+    "name": "Canggu",
+    "district": "badas"
+  },
+  {
+    "id": "badas",
+    "name": "Badas",
+    "district": "badas"
+  },
+  {
+    "id": "blaru",
+    "name": "Blaru",
+    "district": "badas"
+  }
+]

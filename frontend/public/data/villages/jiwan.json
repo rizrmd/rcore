@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sambirejo",
+    "name": "Sambirejo",
+    "district": "jiwan"
+  },
+  {
+    "id": "metesih",
+    "name": "Metesih",
+    "district": "jiwan"
+  },
+  {
+    "id": "jiwan",
+    "name": "Jiwan",
+    "district": "jiwan"
+  },
+  {
+    "id": "sukolilo",
+    "name": "Sukolilo",
+    "district": "jiwan"
+  },
+  {
+    "id": "kincang-wetan",
+    "name": "Kincang Wetan",
+    "district": "jiwan"
+  },
+  {
+    "id": "kwangsen",
+    "name": "Kwangsen",
+    "district": "jiwan"
+  },
+  {
+    "id": "grobogan",
+    "name": "Grobogan",
+    "district": "jiwan"
+  },
+  {
+    "id": "wayut",
+    "name": "Wayut",
+    "district": "jiwan"
+  },
+  {
+    "id": "klagen-serut",
+    "name": "Klagen Serut",
+    "district": "jiwan"
+  },
+  {
+    "id": "teguhan",
+    "name": "Teguhan",
+    "district": "jiwan"
+  },
+  {
+    "id": "bedoho",
+    "name": "Bedoho",
+    "district": "jiwan"
+  },
+  {
+    "id": "bibrik",
+    "name": "Bibrik",
+    "district": "jiwan"
+  }
+]

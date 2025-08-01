@@ -1,0 +1,42 @@
+[
+  {
+    "id": "teluk-pulai-raya",
+    "name": "Teluk Pulai Raya",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "tungkal-v",
+    "name": "Tungkal V",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "tungkal-iv-desa",
+    "name": "Tungkal Iv Desa",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "kuala-baru",
+    "name": "Kuala Baru",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "kuala-kahar",
+    "name": "Kuala Kahar",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "mekar-alam",
+    "name": "Mekar Alam",
+    "district": "seberang-kota"
+  },
+  {
+    "id": "muara-seberang",
+    "name": "Muara Seberang",
+    "district": "seberang-kota"
+  }
+]

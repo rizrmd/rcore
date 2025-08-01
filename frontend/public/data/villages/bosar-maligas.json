@@ -1,0 +1,87 @@
+[
+  {
+    "id": "parbutaran",
+    "name": "Parbutaran",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "mayang",
+    "name": "Mayang",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "dusun-pengkolan",
+    "name": "Dusun Pengkolan",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "bosar-maligas",
+    "name": "Bosar Maligas",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "boluk",
+    "name": "Boluk",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "sei-mangkei",
+    "name": "Sei Mangkei",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "gunung-bayu",
+    "name": "Gunung Bayu",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "talun-saragih",
+    "name": "Talun Saragih",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "marihat-tanjung",
+    "name": "Marihat Tanjung",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "marihat-butar",
+    "name": "Marihat Butar",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "sei-torop",
+    "name": "Sei Torop",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "adil-makmur",
+    "name": "Adil Makmur",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "teladan",
+    "name": "Teladan",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "tempel-jaya",
+    "name": "Tempel Jaya",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "nanggar-bayu",
+    "name": "Nanggar Bayu",
+    "district": "bosar-maligas"
+  },
+  {
+    "id": "mekar-rejo",
+    "name": "Mekar Rejo",
+    "district": "bosar-maligas"
+  }
+]

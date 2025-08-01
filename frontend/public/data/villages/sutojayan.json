@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pandanarum",
+    "name": "Pandanarum",
+    "district": "sutojayan"
+  },
+  {
+    "id": "sotojayan",
+    "name": "Sotojayan",
+    "district": "sutojayan"
+  },
+  {
+    "id": "bacem",
+    "name": "Bacem",
+    "district": "sutojayan"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "sutojayan"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "sutojayan"
+  },
+  {
+    "id": "kalipang",
+    "name": "Kalipang",
+    "district": "sutojayan"
+  },
+  {
+    "id": "kembangarum",
+    "name": "Kembangarum",
+    "district": "sutojayan"
+  },
+  {
+    "id": "jingglong",
+    "name": "Jingglong",
+    "district": "sutojayan"
+  },
+  {
+    "id": "kaulon",
+    "name": "Kaulon",
+    "district": "sutojayan"
+  }
+]

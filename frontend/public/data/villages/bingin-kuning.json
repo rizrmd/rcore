@@ -1,0 +1,47 @@
+[
+  {
+    "id": "karang-dapo-atas",
+    "name": "Karang Dapo Atas",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "bukit-nibung",
+    "name": "Bukit Nibung",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "karang-dapo-bawah",
+    "name": "Karang Dapo Bawah",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "pungguk-pedaro",
+    "name": "Pungguk Pedaro",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "talang-kerinci",
+    "name": "Talang Kerinci",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "pelabuhan-talang-liak",
+    "name": "Pelabuhan Talang Liak",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "talang-liak-i",
+    "name": "Talang Liak I",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "talang-liak-ii",
+    "name": "Talang Liak Ii",
+    "district": "bingin-kuning"
+  },
+  {
+    "id": "bungin",
+    "name": "Bungin",
+    "district": "bingin-kuning"
+  }
+]

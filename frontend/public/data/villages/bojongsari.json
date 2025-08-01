@@ -1,0 +1,92 @@
+[
+  {
+    "id": "duren-seribu",
+    "name": "Duren Seribu",
+    "district": "bojongsari"
+  },
+  {
+    "id": "duren-mekar",
+    "name": "Duren Mekar",
+    "district": "bojongsari"
+  },
+  {
+    "id": "bojongsari-lama",
+    "name": "Bojongsari Lama",
+    "district": "bojongsari"
+  },
+  {
+    "id": "bojongsari-baru",
+    "name": "Bojongsari Baru",
+    "district": "bojongsari"
+  },
+  {
+    "id": "pondok-petir",
+    "name": "Pondok Petir",
+    "district": "bojongsari"
+  },
+  {
+    "id": "serua",
+    "name": "Serua",
+    "district": "bojongsari"
+  },
+  {
+    "id": "brobot",
+    "name": "Brobot",
+    "district": "bojongsari"
+  },
+  {
+    "id": "gembong",
+    "name": "Gembong",
+    "district": "bojongsari"
+  },
+  {
+    "id": "galuh",
+    "name": "Galuh",
+    "district": "bojongsari"
+  },
+  {
+    "id": "banjaran",
+    "name": "Banjaran",
+    "district": "bojongsari"
+  },
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "bojongsari"
+  },
+  {
+    "id": "bojongsari",
+    "name": "Bojongsari",
+    "district": "bojongsari"
+  },
+  {
+    "id": "kajongan",
+    "name": "Kajongan",
+    "district": "bojongsari"
+  },
+  {
+    "id": "karangbanjar",
+    "name": "Karangbanjar",
+    "district": "bojongsari"
+  },
+  {
+    "id": "beji",
+    "name": "Beji",
+    "district": "bojongsari"
+  },
+  {
+    "id": "pagedangan",
+    "name": "Pagedangan",
+    "district": "bojongsari"
+  },
+  {
+    "id": "pekalongan",
+    "name": "Pekalongan",
+    "district": "bojongsari"
+  },
+  {
+    "id": "bumisari",
+    "name": "Bumisari",
+    "district": "bojongsari"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tasikhargo",
+    "name": "Tasikhargo",
+    "district": "jatisrono"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "jatisrono"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "jatisrono"
+  },
+  {
+    "id": "gondangsari",
+    "name": "Gondangsari",
+    "district": "jatisrono"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "jatisrono"
+  },
+  {
+    "id": "ngrompak",
+    "name": "Ngrompak",
+    "district": "jatisrono"
+  },
+  {
+    "id": "sambirejo",
+    "name": "Sambirejo",
+    "district": "jatisrono"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "jatisrono"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "jatisrono"
+  },
+  {
+    "id": "pandeyan",
+    "name": "Pandeyan",
+    "district": "jatisrono"
+  },
+  {
+    "id": "watangsono",
+    "name": "Watangsono",
+    "district": "jatisrono"
+  },
+  {
+    "id": "jatisrono",
+    "name": "Jatisrono",
+    "district": "jatisrono"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "jatisrono"
+  },
+  {
+    "id": "tanggulangin",
+    "name": "Tanggulangin",
+    "district": "jatisrono"
+  }
+]

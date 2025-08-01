@@ -1,0 +1,77 @@
+[
+  {
+    "id": "karangpatihan",
+    "name": "Karangpatihan",
+    "district": "pulung"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "pulung"
+  },
+  {
+    "id": "wagirkidul",
+    "name": "Wagirkidul",
+    "district": "pulung"
+  },
+  {
+    "id": "singgahan",
+    "name": "Singgahan",
+    "district": "pulung"
+  },
+  {
+    "id": "patik",
+    "name": "Patik",
+    "district": "pulung"
+  },
+  {
+    "id": "pulung-merdiko",
+    "name": "Pulung Merdiko",
+    "district": "pulung"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "pulung"
+  },
+  {
+    "id": "wotan",
+    "name": "Wotan",
+    "district": "pulung"
+  },
+  {
+    "id": "plunturan",
+    "name": "Plunturan",
+    "district": "pulung"
+  },
+  {
+    "id": "pomahan",
+    "name": "Pomahan",
+    "district": "pulung"
+  },
+  {
+    "id": "kesugihan",
+    "name": "Kesugihan",
+    "district": "pulung"
+  },
+  {
+    "id": "serag",
+    "name": "Serag",
+    "district": "pulung"
+  },
+  {
+    "id": "wayang",
+    "name": "Wayang",
+    "district": "pulung"
+  },
+  {
+    "id": "bekiring",
+    "name": "Bekiring",
+    "district": "pulung"
+  },
+  {
+    "id": "banaran",
+    "name": "Banaran",
+    "district": "pulung"
+  }
+]

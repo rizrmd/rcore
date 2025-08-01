@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sambiroto",
+    "name": "Sambiroto",
+    "district": "baron"
+  },
+  {
+    "id": "gebang-kerep",
+    "name": "Gebang Kerep",
+    "district": "baron"
+  },
+  {
+    "id": "baron",
+    "name": "Baron",
+    "district": "baron"
+  },
+  {
+    "id": "waung",
+    "name": "Waung",
+    "district": "baron"
+  },
+  {
+    "id": "kemlokolegi",
+    "name": "Kemlokolegi",
+    "district": "baron"
+  },
+  {
+    "id": "kemaduh",
+    "name": "Kemaduh",
+    "district": "baron"
+  },
+  {
+    "id": "garu",
+    "name": "Garu",
+    "district": "baron"
+  },
+  {
+    "id": "jambi",
+    "name": "Jambi",
+    "district": "baron"
+  },
+  {
+    "id": "mabung",
+    "name": "Mabung",
+    "district": "baron"
+  },
+  {
+    "id": "katerban",
+    "name": "Katerban",
+    "district": "baron"
+  }
+]

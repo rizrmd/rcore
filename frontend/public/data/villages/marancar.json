@@ -1,0 +1,62 @@
+[
+  {
+    "id": "huraba",
+    "name": "Huraba",
+    "district": "marancar"
+  },
+  {
+    "id": "gunung-binanga",
+    "name": "Gunung Binanga",
+    "district": "marancar"
+  },
+  {
+    "id": "marancar-godang",
+    "name": "Marancar Godang",
+    "district": "marancar"
+  },
+  {
+    "id": "simaninggir",
+    "name": "Simaninggir",
+    "district": "marancar"
+  },
+  {
+    "id": "marancar-julu",
+    "name": "Marancar Julu",
+    "district": "marancar"
+  },
+  {
+    "id": "hau-natas",
+    "name": "Hau Natas",
+    "district": "marancar"
+  },
+  {
+    "id": "aek-nabara",
+    "name": "Aek Nabara",
+    "district": "marancar"
+  },
+  {
+    "id": "gapuk-tua",
+    "name": "Gapuk Tua",
+    "district": "marancar"
+  },
+  {
+    "id": "pasar-sempurna",
+    "name": "Pasar Sempurna",
+    "district": "marancar"
+  },
+  {
+    "id": "aek-sabaon",
+    "name": "Aek Sabaon",
+    "district": "marancar"
+  },
+  {
+    "id": "sugi",
+    "name": "Sugi",
+    "district": "marancar"
+  },
+  {
+    "id": "tanjung-dolok",
+    "name": "Tanjung Dolok",
+    "district": "marancar"
+  }
+]

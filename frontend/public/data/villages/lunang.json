@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lunang",
+    "name": "Lunang",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-selatan",
+    "name": "Lunang Selatan",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-utara",
+    "name": "Lunang Utara",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-barat",
+    "name": "Lunang Barat",
+    "district": "lunang"
+  },
+  {
+    "id": "sindang-lunang",
+    "name": "Sindang Lunang",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-satu",
+    "name": "Lunang Satu",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-tengah",
+    "name": "Lunang Tengah",
+    "district": "lunang"
+  },
+  {
+    "id": "pondok-parian-lunang",
+    "name": "Pondok Parian Lunang",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-dua",
+    "name": "Lunang Dua",
+    "district": "lunang"
+  },
+  {
+    "id": "lunang-tiga",
+    "name": "Lunang Tiga",
+    "district": "lunang"
+  }
+]

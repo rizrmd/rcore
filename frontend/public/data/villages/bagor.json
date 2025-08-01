@@ -1,0 +1,92 @@
+[
+  {
+    "id": "balongrejo",
+    "name": "Balongrejo",
+    "district": "bagor"
+  },
+  {
+    "id": "girirejo",
+    "name": "Girirejo",
+    "district": "bagor"
+  },
+  {
+    "id": "sekar-putih",
+    "name": "Sekar Putih",
+    "district": "bagor"
+  },
+  {
+    "id": "buduran",
+    "name": "Buduran",
+    "district": "bagor"
+  },
+  {
+    "id": "bagor-kulon",
+    "name": "Bagor Kulon",
+    "district": "bagor"
+  },
+  {
+    "id": "petak",
+    "name": "Petak",
+    "district": "bagor"
+  },
+  {
+    "id": "paron",
+    "name": "Paron",
+    "district": "bagor"
+  },
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "bagor"
+  },
+  {
+    "id": "selorejo",
+    "name": "Selorejo",
+    "district": "bagor"
+  },
+  {
+    "id": "gandu",
+    "name": "Gandu",
+    "district": "bagor"
+  },
+  {
+    "id": "guyangan",
+    "name": "Guyangan",
+    "district": "bagor"
+  },
+  {
+    "id": "kedondong",
+    "name": "Kedondong",
+    "district": "bagor"
+  },
+  {
+    "id": "sugih-waras",
+    "name": "Sugih Waras",
+    "district": "bagor"
+  },
+  {
+    "id": "kutorejo",
+    "name": "Kutorejo",
+    "district": "bagor"
+  },
+  {
+    "id": "kerep-kidul",
+    "name": "Kerep Kidul",
+    "district": "bagor"
+  },
+  {
+    "id": "kendal-rejo",
+    "name": "Kendal Rejo",
+    "district": "bagor"
+  },
+  {
+    "id": "banaran-kulon",
+    "name": "Banaran Kulon",
+    "district": "bagor"
+  },
+  {
+    "id": "banaran-wetan",
+    "name": "Banaran Wetan",
+    "district": "bagor"
+  }
+]

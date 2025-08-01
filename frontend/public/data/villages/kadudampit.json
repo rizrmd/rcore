@@ -1,0 +1,47 @@
+[
+  {
+    "id": "muaradua",
+    "name": "Muaradua",
+    "district": "kadudampit"
+  },
+  {
+    "id": "citamiang",
+    "name": "Citamiang",
+    "district": "kadudampit"
+  },
+  {
+    "id": "cikahuripan",
+    "name": "Cikahuripan",
+    "district": "kadudampit"
+  },
+  {
+    "id": "sukamanis",
+    "name": "Sukamanis",
+    "district": "kadudampit"
+  },
+  {
+    "id": "kadudampit",
+    "name": "Kadudampit",
+    "district": "kadudampit"
+  },
+  {
+    "id": "gede-pangrango",
+    "name": "Gede Pangrango",
+    "district": "kadudampit"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "kadudampit"
+  },
+  {
+    "id": "cipetir",
+    "name": "Cipetir",
+    "district": "kadudampit"
+  },
+  {
+    "id": "undrus-binangun",
+    "name": "Undrus Binangun",
+    "district": "kadudampit"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sawang",
+    "name": "Sawang",
+    "district": "kundur-barat"
+  },
+  {
+    "id": "sawang-laut",
+    "name": "Sawang Laut",
+    "district": "kundur-barat"
+  },
+  {
+    "id": "sawang-selatan",
+    "name": "Sawang Selatan",
+    "district": "kundur-barat"
+  }
+]

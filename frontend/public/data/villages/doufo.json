@@ -1,0 +1,32 @@
+[
+  {
+    "id": "iratoi",
+    "name": "Iratoi",
+    "district": "doufo"
+  },
+  {
+    "id": "doufo",
+    "name": "Doufo",
+    "district": "doufo"
+  },
+  {
+    "id": "sibita",
+    "name": "Sibita",
+    "district": "doufo"
+  },
+  {
+    "id": "rawa",
+    "name": "Rawa",
+    "district": "doufo"
+  },
+  {
+    "id": "lani",
+    "name": "Lani",
+    "district": "doufo"
+  },
+  {
+    "id": "wahuka",
+    "name": "Wahuka",
+    "district": "doufo"
+  }
+]

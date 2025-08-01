@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gadingsari",
+    "name": "Gadingsari",
+    "district": "binakal"
+  },
+  {
+    "id": "binakal",
+    "name": "Binakal",
+    "district": "binakal"
+  },
+  {
+    "id": "sumber-waru",
+    "name": "Sumber Waru",
+    "district": "binakal"
+  },
+  {
+    "id": "kembangan",
+    "name": "Kembangan",
+    "district": "binakal"
+  },
+  {
+    "id": "baratan",
+    "name": "Baratan",
+    "district": "binakal"
+  },
+  {
+    "id": "jeruk-soksok",
+    "name": "Jeruk Soksok",
+    "district": "binakal"
+  },
+  {
+    "id": "bendelan",
+    "name": "Bendelan",
+    "district": "binakal"
+  },
+  {
+    "id": "sumber-tengah",
+    "name": "Sumber Tengah",
+    "district": "binakal"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kijang-kota",
+    "name": "Kijang Kota",
+    "district": "bintan-timur"
+  },
+  {
+    "id": "sungai-enam",
+    "name": "Sungai Enam",
+    "district": "bintan-timur"
+  },
+  {
+    "id": "gunung-lengkuas",
+    "name": "Gunung Lengkuas",
+    "district": "bintan-timur"
+  },
+  {
+    "id": "sungai-lekop",
+    "name": "Sungai Lekop",
+    "district": "bintan-timur"
+  }
+]

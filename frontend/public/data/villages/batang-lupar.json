@@ -1,0 +1,52 @@
+[
+  {
+    "id": "setulang",
+    "name": "Setulang",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "sepandan",
+    "name": "Sepandan",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "melemba",
+    "name": "Melemba",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "sungai-ajung",
+    "name": "Sungai Ajung",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "sungai-abau",
+    "name": "Sungai Abau",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "labian",
+    "name": "Labian",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "mensiau",
+    "name": "Mensiau",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "sungai-senunuk",
+    "name": "Sungai Senunuk",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "lanjak-deras",
+    "name": "Lanjak Deras",
+    "district": "batang-lupar"
+  },
+  {
+    "id": "labian-iraang",
+    "name": "Labian Iraang",
+    "district": "batang-lupar"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dolok-maraja",
+    "name": "Dolok Maraja",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "sinaksak",
+    "name": "Sinaksak",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "batu-silangit",
+    "name": "Batu Silangit",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "dolok-ulu",
+    "name": "Dolok Ulu",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "nagur-usang",
+    "name": "Nagur Usang",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "naga-dolok",
+    "name": "Naga Dolok",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "dolok-kahean",
+    "name": "Dolok Kahean",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "purbasari",
+    "name": "Purbasari",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "pematang-dolok-kahean",
+    "name": "Pematang Dolok Kahean",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "negeri-bayu-muslimin",
+    "name": "Negeri Bayu Muslimin",
+    "district": "tapian-dolok"
+  },
+  {
+    "id": "dolok-simbolon",
+    "name": "Dolok Simbolon",
+    "district": "tapian-dolok"
+  }
+]

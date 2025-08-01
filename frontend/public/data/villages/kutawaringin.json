@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cilame",
+    "name": "Cilame",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "buninagara",
+    "name": "Buninagara",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "kutawaringin",
+    "name": "Kutawaringin",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "kopo",
+    "name": "Kopo",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "jelegong",
+    "name": "Jelegong",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "gajahmekar",
+    "name": "Gajahmekar",
+    "district": "kutawaringin"
+  },
+  {
+    "id": "pameuntasan",
+    "name": "Pameuntasan",
+    "district": "kutawaringin"
+  }
+]

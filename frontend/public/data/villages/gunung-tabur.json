@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tasuk",
+    "name": "Tasuk",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "birang",
+    "name": "Birang",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "gunung-tabur",
+    "name": "Gunung Tabur",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "maluang",
+    "name": "Maluang",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "samburakat",
+    "name": "Samburakat",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "sambakungan",
+    "name": "Sambakungan",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "melati-jaya",
+    "name": "Melati Jaya",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "merancang-ulu",
+    "name": "Merancang Ulu",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "pulau-besing",
+    "name": "Pulau Besing",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "merancang-ilir",
+    "name": "Merancang Ilir",
+    "district": "gunung-tabur"
+  },
+  {
+    "id": "batu-batu",
+    "name": "Batu-Batu",
+    "district": "gunung-tabur"
+  }
+]

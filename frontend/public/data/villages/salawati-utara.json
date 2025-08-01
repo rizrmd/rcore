@@ -1,0 +1,32 @@
+[
+  {
+    "id": "samate",
+    "name": "Samate",
+    "district": "salawati-utara"
+  },
+  {
+    "id": "kapatlap",
+    "name": "Kapatlap",
+    "district": "salawati-utara"
+  },
+  {
+    "id": "wamega",
+    "name": "Wamega",
+    "district": "salawati-utara"
+  },
+  {
+    "id": "waidim",
+    "name": "Waidim",
+    "district": "salawati-utara"
+  },
+  {
+    "id": "jefman-barat",
+    "name": "Jefman Barat",
+    "district": "salawati-utara"
+  },
+  {
+    "id": "jefman-timur",
+    "name": "Jefman Timur",
+    "district": "salawati-utara"
+  }
+]

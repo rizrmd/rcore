@@ -1,0 +1,22 @@
+export type User = {
+  id: string;
+  name: string;
+  email: string;
+  emailVerified: boolean;
+  createdAt: Date;
+  updatedAt: Date;
+  image?: string | null;
+  username?: string | null;
+  displayUsername?: string | null;
+  idCustomer?: string | null;
+  idAuthor?: string | null;
+  idAffiliate?: string | null;
+  idInternal?: string | null;
+  idPublisher?: string | null;
+  twoFactorEnabled?: boolean | null;
+  customer?: any | null;
+  author?: any | null;
+  affiliate?: any | null;
+  internal?: any | null;
+  publisher?: any | null;
+};

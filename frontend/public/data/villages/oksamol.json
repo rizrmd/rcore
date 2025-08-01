@@ -1,0 +1,62 @@
+[
+  {
+    "id": "okma",
+    "name": "Okma",
+    "district": "oksamol"
+  },
+  {
+    "id": "paune",
+    "name": "Paune",
+    "district": "oksamol"
+  },
+  {
+    "id": "tinibil",
+    "name": "Tinibil",
+    "district": "oksamol"
+  },
+  {
+    "id": "oktae",
+    "name": "Oktae",
+    "district": "oksamol"
+  },
+  {
+    "id": "okdilan",
+    "name": "Okdilan",
+    "district": "oksamol"
+  },
+  {
+    "id": "autpahit",
+    "name": "Autpahit",
+    "district": "oksamol"
+  },
+  {
+    "id": "tomka",
+    "name": "Tomka",
+    "district": "oksamol"
+  },
+  {
+    "id": "okpa",
+    "name": "Okpa",
+    "district": "oksamol"
+  },
+  {
+    "id": "okhaha",
+    "name": "Okhaha",
+    "district": "oksamol"
+  },
+  {
+    "id": "honkuding",
+    "name": "Honkuding",
+    "district": "oksamol"
+  },
+  {
+    "id": "bomding",
+    "name": "Bomding",
+    "district": "oksamol"
+  },
+  {
+    "id": "okdunan",
+    "name": "Okdunan",
+    "district": "oksamol"
+  }
+]

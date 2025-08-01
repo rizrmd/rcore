@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ganal",
+    "name": "Ganal",
+    "district": "huristak"
+  },
+  {
+    "id": "gunung-matinggi",
+    "name": "Gunung Matinggi",
+    "district": "huristak"
+  },
+  {
+    "id": "gunung-manaon-hr",
+    "name": "Gunung Manaon Hr",
+    "district": "huristak"
+  },
+  {
+    "id": "paya-bujing",
+    "name": "Paya Bujing",
+    "district": "huristak"
+  },
+  {
+    "id": "bulu-cina",
+    "name": "Bulu Cina",
+    "district": "huristak"
+  },
+  {
+    "id": "gonting-julu",
+    "name": "Gonting Julu",
+    "district": "huristak"
+  },
+  {
+    "id": "gonting-jae",
+    "name": "Gonting Jae",
+    "district": "huristak"
+  },
+  {
+    "id": "binanga-tolu",
+    "name": "Binanga Tolu",
+    "district": "huristak"
+  },
+  {
+    "id": "pasir-lancat-lama",
+    "name": "Pasir Lancat Lama",
+    "district": "huristak"
+  },
+  {
+    "id": "pasir-lancat-baru",
+    "name": "Pasir Lancat Baru",
+    "district": "huristak"
+  },
+  {
+    "id": "ramba",
+    "name": "Ramba",
+    "district": "huristak"
+  },
+  {
+    "id": "tarutung-sihoda-hoda",
+    "name": "Tarutung Sihoda-Hoda",
+    "district": "huristak"
+  },
+  {
+    "id": "pasir-pinang",
+    "name": "Pasir Pinang",
+    "district": "huristak"
+  },
+  {
+    "id": "pulo-bariang",
+    "name": "Pulo Bariang",
+    "district": "huristak"
+  },
+  {
+    "id": "pasar-huristak",
+    "name": "Pasar Huristak",
+    "district": "huristak"
+  },
+  {
+    "id": "huristak",
+    "name": "Huristak",
+    "district": "huristak"
+  },
+  {
+    "id": "sipirok-baru",
+    "name": "Sipirok Baru",
+    "district": "huristak"
+  },
+  {
+    "id": "paran-tonga-hr-an",
+    "name": "Paran Tonga Hr (An)",
+    "district": "huristak"
+  },
+  {
+    "id": "tobing-tinggi-hr",
+    "name": "Tobing Tinggi Hr",
+    "district": "huristak"
+  },
+  {
+    "id": "tobing-julu",
+    "name": "Tobing Julu",
+    "district": "huristak"
+  },
+  {
+    "id": "huta-pasir-ulak-tano",
+    "name": "Huta Pasir Ulak Tano",
+    "district": "huristak"
+  },
+  {
+    "id": "gala-bonang",
+    "name": "Gala Bonang",
+    "district": "huristak"
+  },
+  {
+    "id": "tobing-jae",
+    "name": "Tobing Jae",
+    "district": "huristak"
+  },
+  {
+    "id": "siala-gundi",
+    "name": "Siala Gundi",
+    "district": "huristak"
+  },
+  {
+    "id": "tanjung-morang-hr",
+    "name": "Tanjung Morang Hr",
+    "district": "huristak"
+  },
+  {
+    "id": "tanjung-baringin",
+    "name": "Tanjung Baringin",
+    "district": "huristak"
+  },
+  {
+    "id": "sigading",
+    "name": "Sigading",
+    "district": "huristak"
+  }
+]

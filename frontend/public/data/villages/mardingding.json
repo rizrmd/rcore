@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lau-solu",
+    "name": "Lau Solu",
+    "district": "mardingding"
+  },
+  {
+    "id": "kuta-pengkih",
+    "name": "Kuta Pengkih",
+    "district": "mardingding"
+  },
+  {
+    "id": "rimo-bunga",
+    "name": "Rimo Bunga",
+    "district": "mardingding"
+  },
+  {
+    "id": "lau-mulgap",
+    "name": "Lau Mulgap",
+    "district": "mardingding"
+  },
+  {
+    "id": "tanjung-pamah",
+    "name": "Tanjung Pamah",
+    "district": "mardingding"
+  },
+  {
+    "id": "mardingding",
+    "name": "Mardingding",
+    "district": "mardingding"
+  },
+  {
+    "id": "lau-kasumpat",
+    "name": "Lau Kasumpat",
+    "district": "mardingding"
+  },
+  {
+    "id": "bandar-purba",
+    "name": "Bandar Purba",
+    "district": "mardingding"
+  },
+  {
+    "id": "lau-pengulu",
+    "name": "Lau Pengulu",
+    "district": "mardingding"
+  },
+  {
+    "id": "lau-pakam",
+    "name": "Lau Pakam",
+    "district": "mardingding"
+  },
+  {
+    "id": "lau-garut",
+    "name": "Lau Garut",
+    "district": "mardingding"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "mardingding"
+  }
+]

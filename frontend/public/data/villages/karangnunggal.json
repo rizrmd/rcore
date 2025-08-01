@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cidadap",
+    "name": "Cidadap",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "kujang",
+    "name": "Kujang",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "sarimukti",
+    "name": "Sarimukti",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "ciawi",
+    "name": "Ciawi",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cikapinis",
+    "name": "Cikapinis",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cikupa",
+    "name": "Cikupa",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "karangnunggal",
+    "name": "Karangnunggal",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "karangmekar",
+    "name": "Karangmekar",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cibatuireng",
+    "name": "Cibatuireng",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cibatu",
+    "name": "Cibatu",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "sukawangun",
+    "name": "Sukawangun",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cintawangi",
+    "name": "Cintawangi",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "cikukulu",
+    "name": "Cikukulu",
+    "district": "karangnunggal"
+  },
+  {
+    "id": "sarimanggu",
+    "name": "Sarimanggu",
+    "district": "karangnunggal"
+  }
+]

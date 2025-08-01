@@ -1,0 +1,82 @@
+[
+  {
+    "id": "jenggik",
+    "name": "Jenggik",
+    "district": "terara"
+  },
+  {
+    "id": "rarang",
+    "name": "Rarang",
+    "district": "terara"
+  },
+  {
+    "id": "suradadi",
+    "name": "Suradadi",
+    "district": "terara"
+  },
+  {
+    "id": "santong",
+    "name": "Santong",
+    "district": "terara"
+  },
+  {
+    "id": "terara",
+    "name": "Terara",
+    "district": "terara"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "terara"
+  },
+  {
+    "id": "rarang-selatan",
+    "name": "Rarang Selatan",
+    "district": "terara"
+  },
+  {
+    "id": "lando",
+    "name": "Lando",
+    "district": "terara"
+  },
+  {
+    "id": "rarang-tengah",
+    "name": "Rarang Tengah",
+    "district": "terara"
+  },
+  {
+    "id": "leming",
+    "name": "Leming",
+    "district": "terara"
+  },
+  {
+    "id": "selagik",
+    "name": "Selagik",
+    "district": "terara"
+  },
+  {
+    "id": "embung-raja",
+    "name": "Embung Raja",
+    "district": "terara"
+  },
+  {
+    "id": "kalianyar",
+    "name": "Kalianyar",
+    "district": "terara"
+  },
+  {
+    "id": "embung-kandong",
+    "name": "Embung Kandong",
+    "district": "terara"
+  },
+  {
+    "id": "rarang-batas",
+    "name": "Rarang Batas",
+    "district": "terara"
+  },
+  {
+    "id": "pandan-duri",
+    "name": "Pandan Duri",
+    "district": "terara"
+  }
+]

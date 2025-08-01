@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kesamben",
+    "name": "Kesamben",
+    "district": "plumpang"
+  },
+  {
+    "id": "kepohagung",
+    "name": "Kepohagung",
+    "district": "plumpang"
+  },
+  {
+    "id": "kedungrojo",
+    "name": "Kedungrojo",
+    "district": "plumpang"
+  },
+  {
+    "id": "cangkring",
+    "name": "Cangkring",
+    "district": "plumpang"
+  },
+  {
+    "id": "sembungrejo",
+    "name": "Sembungrejo",
+    "district": "plumpang"
+  },
+  {
+    "id": "plandirejo",
+    "name": "Plandirejo",
+    "district": "plumpang"
+  },
+  {
+    "id": "bandungrejo",
+    "name": "Bandungrejo",
+    "district": "plumpang"
+  },
+  {
+    "id": "klotok",
+    "name": "Klotok",
+    "district": "plumpang"
+  },
+  {
+    "id": "kebomlati",
+    "name": "Kebomlati",
+    "district": "plumpang"
+  },
+  {
+    "id": "kedungsoko",
+    "name": "Kedungsoko",
+    "district": "plumpang"
+  },
+  {
+    "id": "penidon",
+    "name": "Penidon",
+    "district": "plumpang"
+  },
+  {
+    "id": "magersari",
+    "name": "Magersari",
+    "district": "plumpang"
+  },
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "plumpang"
+  },
+  {
+    "id": "plumpang",
+    "name": "Plumpang",
+    "district": "plumpang"
+  },
+  {
+    "id": "sumurjalak",
+    "name": "Sumurjalak",
+    "district": "plumpang"
+  },
+  {
+    "id": "ngrayung",
+    "name": "Ngrayung",
+    "district": "plumpang"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "plumpang"
+  }
+]

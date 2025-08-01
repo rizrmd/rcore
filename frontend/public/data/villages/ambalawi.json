@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rite",
+    "name": "Rite",
+    "district": "ambalawi"
+  },
+  {
+    "id": "talapiti",
+    "name": "Talapiti",
+    "district": "ambalawi"
+  },
+  {
+    "id": "tolowata",
+    "name": "Tolowata",
+    "district": "ambalawi"
+  },
+  {
+    "id": "nipa",
+    "name": "Nipa",
+    "district": "ambalawi"
+  },
+  {
+    "id": "mawu",
+    "name": "Mawu",
+    "district": "ambalawi"
+  },
+  {
+    "id": "kole",
+    "name": "Kole",
+    "district": "ambalawi"
+  }
+]

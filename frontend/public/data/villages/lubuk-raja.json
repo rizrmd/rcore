@@ -1,0 +1,37 @@
+[
+  {
+    "id": "batumarta-i",
+    "name": "Batumarta I",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "batumarta-ii",
+    "name": "Batumarta Ii",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "battu-winangun",
+    "name": "Battu Winangun",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "lekis-rejo",
+    "name": "Lekis Rejo",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "lubuk-banjar",
+    "name": "Lubuk Banjar",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "batu-raden",
+    "name": "Batu Raden",
+    "district": "lubuk-raja"
+  },
+  {
+    "id": "marta-jaya",
+    "name": "Marta Jaya",
+    "district": "lubuk-raja"
+  }
+]

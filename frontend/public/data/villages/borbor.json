@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pangururan",
+    "name": "Pangururan",
+    "district": "borbor"
+  },
+  {
+    "id": "pardomuan-nauli",
+    "name": "Pardomuan Nauli",
+    "district": "borbor"
+  },
+  {
+    "id": "lintong",
+    "name": "Lintong",
+    "district": "borbor"
+  },
+  {
+    "id": "natumingka",
+    "name": "Natumingka",
+    "district": "borbor"
+  },
+  {
+    "id": "rianiate",
+    "name": "Rianiate",
+    "district": "borbor"
+  },
+  {
+    "id": "aek-unsin",
+    "name": "Aek Unsin",
+    "district": "borbor"
+  },
+  {
+    "id": "purba-tua",
+    "name": "Purba Tua",
+    "district": "borbor"
+  },
+  {
+    "id": "janji-maria",
+    "name": "Janji Maria",
+    "district": "borbor"
+  },
+  {
+    "id": "pangururan-ii",
+    "name": "Pangururan Ii",
+    "district": "borbor"
+  },
+  {
+    "id": "pangururan-iii",
+    "name": "Pangururan Iii",
+    "district": "borbor"
+  },
+  {
+    "id": "riganjang",
+    "name": "Riganjang",
+    "district": "borbor"
+  },
+  {
+    "id": "pasar-borbor",
+    "name": "Pasar Borbor",
+    "district": "borbor"
+  },
+  {
+    "id": "lumban-sewa",
+    "name": "Lumban Sewa",
+    "district": "borbor"
+  },
+  {
+    "id": "huta-gurgur",
+    "name": "Huta Gurgur",
+    "district": "borbor"
+  },
+  {
+    "id": "simare",
+    "name": "Simare",
+    "district": "borbor"
+  }
+]

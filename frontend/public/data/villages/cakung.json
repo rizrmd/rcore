@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jatinegara",
+    "name": "Jatinegara",
+    "district": "cakung"
+  },
+  {
+    "id": "penggilingan",
+    "name": "Penggilingan",
+    "district": "cakung"
+  },
+  {
+    "id": "pulo-gebang",
+    "name": "Pulo Gebang",
+    "district": "cakung"
+  },
+  {
+    "id": "cakung-timur",
+    "name": "Cakung Timur",
+    "district": "cakung"
+  },
+  {
+    "id": "cakung-barat",
+    "name": "Cakung Barat",
+    "district": "cakung"
+  },
+  {
+    "id": "rawa-terate",
+    "name": "Rawa Terate",
+    "district": "cakung"
+  }
+]

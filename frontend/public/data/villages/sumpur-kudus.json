@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kumanis",
+    "name": "Kumanis",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "tanjung-bonai-aur",
+    "name": "Tanjung Bonai Aur",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "sisawah",
+    "name": "Sisawah",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "tamparungo",
+    "name": "Tamparungo",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "sumpur-kudus",
+    "name": "Sumpur Kudus",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "mengganti",
+    "name": "Mengganti",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "sepakat-silantai",
+    "name": "Sepakat Silantai",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "unggan",
+    "name": "Unggan",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "tanjung-bonai-aur-selatan",
+    "name": "Tanjung Bonai Aur Selatan",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "tanjuang-labuah",
+    "name": "Tanjuang Labuah",
+    "district": "sumpur-kudus"
+  },
+  {
+    "id": "sumpur-kudus-selatan",
+    "name": "Sumpur Kudus Selatan",
+    "district": "sumpur-kudus"
+  }
+]

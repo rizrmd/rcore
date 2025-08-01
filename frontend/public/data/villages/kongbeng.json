@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "kongbeng"
+  },
+  {
+    "id": "sri-pantun",
+    "name": "Sri Pantun",
+    "district": "kongbeng"
+  },
+  {
+    "id": "kongbeng-indah",
+    "name": "Kongbeng Indah",
+    "district": "kongbeng"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "kongbeng"
+  },
+  {
+    "id": "marga-mulia",
+    "name": "Marga Mulia",
+    "district": "kongbeng"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "kongbeng"
+  },
+  {
+    "id": "miau-baru",
+    "name": "Miau Baru",
+    "district": "kongbeng"
+  }
+]

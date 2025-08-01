@@ -1,0 +1,42 @@
+[
+  {
+    "id": "samaenre",
+    "name": "Samaenre",
+    "district": "bengo"
+  },
+  {
+    "id": "walimpong",
+    "name": "Walimpong",
+    "district": "bengo"
+  },
+  {
+    "id": "selli",
+    "name": "Selli",
+    "district": "bengo"
+  },
+  {
+    "id": "bulu-allapporenge",
+    "name": "Bulu Allapporenge",
+    "district": "bengo"
+  },
+  {
+    "id": "bengo",
+    "name": "Bengo",
+    "district": "bengo"
+  },
+  {
+    "id": "mattaro-puli",
+    "name": "Mattaro Puli",
+    "district": "bengo"
+  },
+  {
+    "id": "mattiro-walie",
+    "name": "Mattiro Walie",
+    "district": "bengo"
+  },
+  {
+    "id": "liliriawang",
+    "name": "Liliriawang",
+    "district": "bengo"
+  }
+]

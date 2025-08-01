@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ngareskidul",
+    "name": "Ngareskidul",
+    "district": "gedek"
+  },
+  {
+    "id": "gembongan",
+    "name": "Gembongan",
+    "district": "gedek"
+  },
+  {
+    "id": "gempolkrep",
+    "name": "Gempolkrep",
+    "district": "gedek"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "gedek"
+  },
+  {
+    "id": "pagerluyung",
+    "name": "Pagerluyung",
+    "district": "gedek"
+  },
+  {
+    "id": "kemantren",
+    "name": "Kemantren",
+    "district": "gedek"
+  },
+  {
+    "id": "terusan",
+    "name": "Terusan",
+    "district": "gedek"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "gedek"
+  },
+  {
+    "id": "balongsari",
+    "name": "Balongsari",
+    "district": "gedek"
+  },
+  {
+    "id": "batankrajan",
+    "name": "Batankrajan",
+    "district": "gedek"
+  },
+  {
+    "id": "pagerjo",
+    "name": "Pagerjo",
+    "district": "gedek"
+  },
+  {
+    "id": "beratwetan",
+    "name": "Beratwetan",
+    "district": "gedek"
+  }
+]

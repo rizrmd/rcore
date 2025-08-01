@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jantho-baru",
+    "name": "Jantho Baru",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "weu",
+    "name": "Weu",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "aweek",
+    "name": "Aweek",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "bueng",
+    "name": "Bueng",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "jalin",
+    "name": "Jalin",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "suka-tani",
+    "name": "Suka Tani",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "data-cut",
+    "name": "Data Cut",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "jantho",
+    "name": "Jantho",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "barueh",
+    "name": "Barueh",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "jantho-makmur",
+    "name": "Jantho Makmur",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "bukit-meusara",
+    "name": "Bukit Meusara",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "teureubeh",
+    "name": "Teureubeh",
+    "district": "kota-jantho"
+  },
+  {
+    "id": "cucum",
+    "name": "Cucum",
+    "district": "kota-jantho"
+  }
+]

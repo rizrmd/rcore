@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sukaresmi",
+    "name": "Sukaresmi",
+    "district": "megamendung"
+  },
+  {
+    "id": "sukagalih",
+    "name": "Sukagalih",
+    "district": "megamendung"
+  },
+  {
+    "id": "kuta",
+    "name": "Kuta",
+    "district": "megamendung"
+  },
+  {
+    "id": "sukakarya",
+    "name": "Sukakarya",
+    "district": "megamendung"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "megamendung"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "megamendung"
+  },
+  {
+    "id": "sukamahi",
+    "name": "Sukamahi",
+    "district": "megamendung"
+  },
+  {
+    "id": "gadog",
+    "name": "Gadog",
+    "district": "megamendung"
+  },
+  {
+    "id": "cipayung",
+    "name": "Cipayung",
+    "district": "megamendung"
+  },
+  {
+    "id": "cipayung-girang",
+    "name": "Cipayung Girang",
+    "district": "megamendung"
+  },
+  {
+    "id": "megamendung",
+    "name": "Megamendung",
+    "district": "megamendung"
+  },
+  {
+    "id": "pasir-angin",
+    "name": "Pasir Angin",
+    "district": "megamendung"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "guntung",
+    "name": "Guntung",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "bagan-dalam",
+    "name": "Bagan Dalam",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "tanjung-tiram",
+    "name": "Tanjung Tiram",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "bogak",
+    "name": "Bogak",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "suka-jaya",
+    "name": "Suka Jaya",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "kampung-lalang",
+    "name": "Kampung Lalang",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "bagan-arya",
+    "name": "Bagan Arya",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "pahlawan",
+    "name": "Pahlawan",
+    "district": "tanjung-tiram"
+  },
+  {
+    "id": "bandar-rahmad",
+    "name": "Bandar Rahmad",
+    "district": "tanjung-tiram"
+  }
+]

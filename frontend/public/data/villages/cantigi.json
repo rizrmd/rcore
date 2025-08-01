@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cangkring",
+    "name": "Cangkring",
+    "district": "cantigi"
+  },
+  {
+    "id": "cantigi-kulon",
+    "name": "Cantigi Kulon",
+    "district": "cantigi"
+  },
+  {
+    "id": "cantigi-wetan",
+    "name": "Cantigi Wetan",
+    "district": "cantigi"
+  },
+  {
+    "id": "panyingkiran-lor",
+    "name": "Panyingkiran Lor",
+    "district": "cantigi"
+  },
+  {
+    "id": "panyingkiran-kidul",
+    "name": "Panyingkiran Kidul",
+    "district": "cantigi"
+  },
+  {
+    "id": "lamarantarung",
+    "name": "Lamarantarung",
+    "district": "cantigi"
+  },
+  {
+    "id": "cemara",
+    "name": "Cemara",
+    "district": "cantigi"
+  }
+]

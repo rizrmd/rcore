@@ -1,0 +1,42 @@
+[
+  {
+    "id": "waninggap-nanggo",
+    "name": "Waninggap Nanggo",
+    "district": "semangga"
+  },
+  {
+    "id": "matara",
+    "name": "Matara",
+    "district": "semangga"
+  },
+  {
+    "id": "muram-sari",
+    "name": "Muram Sari",
+    "district": "semangga"
+  },
+  {
+    "id": "semangga-jaya",
+    "name": "Semangga Jaya",
+    "district": "semangga"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "semangga"
+  },
+  {
+    "id": "kuprik",
+    "name": "Kuprik",
+    "district": "semangga"
+  },
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "semangga"
+  },
+  {
+    "id": "waninggap-kai",
+    "name": "Waninggap Kai",
+    "district": "semangga"
+  }
+]

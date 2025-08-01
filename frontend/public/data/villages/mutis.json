@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tasinifu",
+    "name": "Tasinifu",
+    "district": "mutis"
+  },
+  {
+    "id": "naekake-a",
+    "name": "Naekake A",
+    "district": "mutis"
+  },
+  {
+    "id": "naekake-b",
+    "name": "Naekake B",
+    "district": "mutis"
+  },
+  {
+    "id": "noelelo",
+    "name": "Noelelo",
+    "district": "mutis"
+  }
+]

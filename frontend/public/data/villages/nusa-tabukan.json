@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nusa",
+    "name": "Nusa",
+    "district": "nusa-tabukan"
+  },
+  {
+    "id": "nanedakele",
+    "name": "Nanedakele",
+    "district": "nusa-tabukan"
+  },
+  {
+    "id": "bukide",
+    "name": "Bukide",
+    "district": "nusa-tabukan"
+  },
+  {
+    "id": "bukide-timur",
+    "name": "Bukide Timur",
+    "district": "nusa-tabukan"
+  },
+  {
+    "id": "nanusa",
+    "name": "Nanusa",
+    "district": "nusa-tabukan"
+  }
+]

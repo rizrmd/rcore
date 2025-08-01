@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mapur",
+    "name": "Mapur",
+    "district": "bintan-pesisir"
+  },
+  {
+    "id": "numbing",
+    "name": "Numbing",
+    "district": "bintan-pesisir"
+  },
+  {
+    "id": "kelong",
+    "name": "Kelong",
+    "district": "bintan-pesisir"
+  },
+  {
+    "id": "air-glubi",
+    "name": "Air Glubi",
+    "district": "bintan-pesisir"
+  }
+]

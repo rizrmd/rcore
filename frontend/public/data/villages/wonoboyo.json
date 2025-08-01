@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wates",
+    "name": "Wates",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "cemoro",
+    "name": "Cemoro",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "pitrosari",
+    "name": "Pitrosari",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "pateken",
+    "name": "Pateken",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "kebonsari",
+    "name": "Kebonsari",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "wonoboyo",
+    "name": "Wonoboyo",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "pesantren",
+    "name": "Pesantren",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "wonocoyo",
+    "name": "Wonocoyo",
+    "district": "wonoboyo"
+  },
+  {
+    "id": "tening",
+    "name": "Tening",
+    "district": "wonoboyo"
+  }
+]

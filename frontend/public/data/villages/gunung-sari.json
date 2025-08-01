@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "tamiang",
+    "name": "Tamiang",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "sukalaba",
+    "name": "Sukalaba",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "kadu-agung",
+    "name": "Kadu Agung",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "curug-sulanjana",
+    "name": "Curug Sulanjana",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "jati-sela",
+    "name": "Jati Sela",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "sesela",
+    "name": "Sesela",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "midang",
+    "name": "Midang",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "kekeri",
+    "name": "Kekeri",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "penimbung",
+    "name": "Penimbung",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "mambalan",
+    "name": "Mambalan",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "dopang",
+    "name": "Dopang",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "kekait",
+    "name": "Kekait",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "guntur-macan",
+    "name": "Guntur Macan",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "gelangsar",
+    "name": "Gelangsar",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "ranjok",
+    "name": "Ranjok",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "bukit-tinggi",
+    "name": "Bukit Tinggi",
+    "district": "gunung-sari"
+  },
+  {
+    "id": "jeringo",
+    "name": "Jeringo",
+    "district": "gunung-sari"
+  }
+]

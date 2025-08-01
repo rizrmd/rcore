@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tadulako",
+    "name": "Tadulako",
+    "district": "tomoni"
+  },
+  {
+    "id": "bangun-karya",
+    "name": "Bangun Karya",
+    "district": "tomoni"
+  },
+  {
+    "id": "lestari",
+    "name": "Lestari",
+    "district": "tomoni"
+  },
+  {
+    "id": "bayondo",
+    "name": "Bayondo",
+    "district": "tomoni"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "tomoni"
+  },
+  {
+    "id": "mandiri",
+    "name": "Mandiri",
+    "district": "tomoni"
+  },
+  {
+    "id": "sumber-alam",
+    "name": "Sumber Alam",
+    "district": "tomoni"
+  },
+  {
+    "id": "ujung-baru",
+    "name": "Ujung Baru",
+    "district": "tomoni"
+  },
+  {
+    "id": "kalpataru",
+    "name": "Kalpataru",
+    "district": "tomoni"
+  },
+  {
+    "id": "tomoni",
+    "name": "Tomoni",
+    "district": "tomoni"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "tomoni"
+  },
+  {
+    "id": "mulyasri",
+    "name": "Mulyasri",
+    "district": "tomoni"
+  },
+  {
+    "id": "rante-mario",
+    "name": "Rante Mario",
+    "district": "tomoni"
+  }
+]

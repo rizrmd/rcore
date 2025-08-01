@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumbermanjing-kulon",
+    "name": "Sumbermanjing Kulon",
+    "district": "pagak"
+  },
+  {
+    "id": "pandanrejo",
+    "name": "Pandanrejo",
+    "district": "pagak"
+  },
+  {
+    "id": "sumberkerto",
+    "name": "Sumberkerto",
+    "district": "pagak"
+  },
+  {
+    "id": "sempol",
+    "name": "Sempol",
+    "district": "pagak"
+  },
+  {
+    "id": "pagak",
+    "name": "Pagak",
+    "district": "pagak"
+  },
+  {
+    "id": "sumberrejo",
+    "name": "Sumberrejo",
+    "district": "pagak"
+  },
+  {
+    "id": "gampingan",
+    "name": "Gampingan",
+    "district": "pagak"
+  },
+  {
+    "id": "tlogorejo",
+    "name": "Tlogorejo",
+    "district": "pagak"
+  }
+]

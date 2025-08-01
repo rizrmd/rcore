@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pimping",
+    "name": "Pimping",
+    "district": "tanjung-palas-utara"
+  },
+  {
+    "id": "kelubir",
+    "name": "Kelubir",
+    "district": "tanjung-palas-utara"
+  },
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "tanjung-palas-utara"
+  },
+  {
+    "id": "ruhui-rahayu",
+    "name": "Ruhui Rahayu",
+    "district": "tanjung-palas-utara"
+  },
+  {
+    "id": "panca-agung",
+    "name": "Panca Agung",
+    "district": "tanjung-palas-utara"
+  },
+  {
+    "id": "ardi-mulya",
+    "name": "Ardi Mulya",
+    "district": "tanjung-palas-utara"
+  }
+]

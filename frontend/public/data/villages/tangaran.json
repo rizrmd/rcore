@@ -1,0 +1,42 @@
+[
+  {
+    "id": "semata",
+    "name": "Semata",
+    "district": "tangaran"
+  },
+  {
+    "id": "tangaran",
+    "name": "Tangaran",
+    "district": "tangaran"
+  },
+  {
+    "id": "merpati",
+    "name": "Merpati",
+    "district": "tangaran"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "tangaran"
+  },
+  {
+    "id": "pancur",
+    "name": "Pancur",
+    "district": "tangaran"
+  },
+  {
+    "id": "arung-parak",
+    "name": "Arung Parak",
+    "district": "tangaran"
+  },
+  {
+    "id": "merabuan",
+    "name": "Merabuan",
+    "district": "tangaran"
+  },
+  {
+    "id": "arung-medang",
+    "name": "Arung Medang",
+    "district": "tangaran"
+  }
+]

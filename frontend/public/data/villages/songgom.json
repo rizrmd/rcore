@@ -1,0 +1,52 @@
+[
+  {
+    "id": "songgom",
+    "name": "Songgom",
+    "district": "songgom"
+  },
+  {
+    "id": "songgom-lor",
+    "name": "Songgom Lor",
+    "district": "songgom"
+  },
+  {
+    "id": "gegerkunci",
+    "name": "Gegerkunci",
+    "district": "songgom"
+  },
+  {
+    "id": "jatimakmur",
+    "name": "Jatimakmur",
+    "district": "songgom"
+  },
+  {
+    "id": "jatirokeh",
+    "name": "Jatirokeh",
+    "district": "songgom"
+  },
+  {
+    "id": "cenang",
+    "name": "Cenang",
+    "district": "songgom"
+  },
+  {
+    "id": "wanatawang",
+    "name": "Wanatawang",
+    "district": "songgom"
+  },
+  {
+    "id": "wanacala",
+    "name": "Wanacala",
+    "district": "songgom"
+  },
+  {
+    "id": "karangsembung",
+    "name": "Karangsembung",
+    "district": "songgom"
+  },
+  {
+    "id": "dukuhmaja",
+    "name": "Dukuhmaja",
+    "district": "songgom"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kalimantan",
+    "name": "Kalimantan",
+    "district": "paloh"
+  },
+  {
+    "id": "matang-danau",
+    "name": "Matang Danau",
+    "district": "paloh"
+  },
+  {
+    "id": "tanah-hitam",
+    "name": "Tanah Hitam",
+    "district": "paloh"
+  },
+  {
+    "id": "malek",
+    "name": "Malek",
+    "district": "paloh"
+  },
+  {
+    "id": "nibung",
+    "name": "Nibung",
+    "district": "paloh"
+  },
+  {
+    "id": "temajuk",
+    "name": "Temajuk",
+    "district": "paloh"
+  },
+  {
+    "id": "mentibar",
+    "name": "Mentibar",
+    "district": "paloh"
+  }
+]

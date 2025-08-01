@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lengkiti",
+    "name": "Lengkiti",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "sosoh-buay-rayap",
+    "name": "Sosoh Buay Rayap",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "pengandonan",
+    "name": "Pengandonan",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "semidang-aji",
+    "name": "Semidang Aji",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "ulu-ogan",
+    "name": "Ulu Ogan",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "muara-jaya",
+    "name": "Muara Jaya",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "peninjauan",
+    "name": "Peninjauan",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "lubuk-batang",
+    "name": "Lubuk Batang",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "sinar-peninjauan",
+    "name": "Sinar Peninjauan",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "kedaton-peninjauan-raya",
+    "name": "Kedaton Peninjauan Raya",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "batu-raja-timur",
+    "name": "Batu Raja Timur",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "lubuk-raja",
+    "name": "Lubuk Raja",
+    "regency": "kabupaten-ogan-komering-ulu"
+  },
+  {
+    "id": "batu-raja-barat",
+    "name": "Batu Raja Barat",
+    "regency": "kabupaten-ogan-komering-ulu"
+  }
+]

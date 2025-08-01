@@ -1,0 +1,57 @@
+[
+  {
+    "id": "gang-buntu",
+    "name": "Gang Buntu",
+    "district": "medan-timur"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "medan-timur"
+  },
+  {
+    "id": "perintis",
+    "name": "Perintis",
+    "district": "medan-timur"
+  },
+  {
+    "id": "gaharu",
+    "name": "Gaharu",
+    "district": "medan-timur"
+  },
+  {
+    "id": "durian",
+    "name": "Durian",
+    "district": "medan-timur"
+  },
+  {
+    "id": "glugur-darat-ii",
+    "name": "Glugur Darat Ii",
+    "district": "medan-timur"
+  },
+  {
+    "id": "glugur-darat-i",
+    "name": "Glugur Darat I",
+    "district": "medan-timur"
+  },
+  {
+    "id": "pulo-brayan-darat-i",
+    "name": "Pulo Brayan Darat I",
+    "district": "medan-timur"
+  },
+  {
+    "id": "pulo-brayan-darat-ii",
+    "name": "Pulo Brayan Darat Ii",
+    "district": "medan-timur"
+  },
+  {
+    "id": "pulo-brayan-bengkel-baru",
+    "name": "Pulo Brayan Bengkel Baru",
+    "district": "medan-timur"
+  },
+  {
+    "id": "pulo-brayan-bengkel",
+    "name": "Pulo Brayan Bengkel",
+    "district": "medan-timur"
+  }
+]

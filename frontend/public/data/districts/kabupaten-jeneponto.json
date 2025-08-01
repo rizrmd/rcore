@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bangkala",
+    "name": "Bangkala",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "bangkala-barat",
+    "name": "Bangkala Barat",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "tamalatea",
+    "name": "Tamalatea",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "bontoramba",
+    "name": "Bontoramba",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "binamu",
+    "name": "Binamu",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "turatea",
+    "name": "Turatea",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "batang",
+    "name": "Batang",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "arungkeke",
+    "name": "Arungkeke",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "tarowang",
+    "name": "Tarowang",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "kelara",
+    "name": "Kelara",
+    "regency": "kabupaten-jeneponto"
+  },
+  {
+    "id": "rumbia",
+    "name": "Rumbia",
+    "regency": "kabupaten-jeneponto"
+  }
+]

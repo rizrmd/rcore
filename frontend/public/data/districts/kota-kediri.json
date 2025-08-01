@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mojoroto",
+    "name": "Mojoroto",
+    "regency": "kota-kediri"
+  },
+  {
+    "id": "kota-kediri",
+    "name": "Kota Kediri",
+    "regency": "kota-kediri"
+  },
+  {
+    "id": "pesantren",
+    "name": "Pesantren",
+    "regency": "kota-kediri"
+  }
+]

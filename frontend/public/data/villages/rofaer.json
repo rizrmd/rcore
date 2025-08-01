@@ -1,0 +1,32 @@
+[
+  {
+    "id": "taiyai",
+    "name": "Taiyai",
+    "district": "rofaer"
+  },
+  {
+    "id": "bareri",
+    "name": "Bareri",
+    "district": "rofaer"
+  },
+  {
+    "id": "kayi-kay-seta",
+    "name": "Kayi / Kay Seta",
+    "district": "rofaer"
+  },
+  {
+    "id": "sikari",
+    "name": "Sikari",
+    "district": "rofaer"
+  },
+  {
+    "id": "fona",
+    "name": "Fona",
+    "district": "rofaer"
+  },
+  {
+    "id": "haya",
+    "name": "Haya",
+    "district": "rofaer"
+  }
+]

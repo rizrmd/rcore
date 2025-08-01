@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bandengan",
+    "name": "Bandengan",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "kandangpanjang",
+    "name": "Kandangpanjang",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "panjang-wetan",
+    "name": "Panjang Wetan",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "degayu",
+    "name": "Degayu",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "panjang-baru",
+    "name": "Panjang Baru",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "krapyak",
+    "name": "Krapyak",
+    "district": "pekalongan-utara"
+  },
+  {
+    "id": "padukuhan-kraton",
+    "name": "Padukuhan Kraton",
+    "district": "pekalongan-utara"
+  }
+]

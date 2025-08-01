@@ -1,0 +1,47 @@
+[
+  {
+    "id": "limpasu",
+    "name": "Limpasu",
+    "district": "limpasu"
+  },
+  {
+    "id": "kabang",
+    "name": "Kabang",
+    "district": "limpasu"
+  },
+  {
+    "id": "tapuk",
+    "name": "Tapuk",
+    "district": "limpasu"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "limpasu"
+  },
+  {
+    "id": "hawang",
+    "name": "Hawang",
+    "district": "limpasu"
+  },
+  {
+    "id": "karatungan",
+    "name": "Karatungan",
+    "district": "limpasu"
+  },
+  {
+    "id": "abung",
+    "name": "Abung",
+    "district": "limpasu"
+  },
+  {
+    "id": "abung-surapati",
+    "name": "Abung Surapati",
+    "district": "limpasu"
+  },
+  {
+    "id": "karau",
+    "name": "Karau",
+    "district": "limpasu"
+  }
+]

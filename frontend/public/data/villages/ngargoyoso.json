@@ -1,0 +1,42 @@
+[
+  {
+    "id": "puntukrejo",
+    "name": "Puntukrejo",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "berjo",
+    "name": "Berjo",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "girimulyo",
+    "name": "Girimulyo",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "segorogunung",
+    "name": "Segorogunung",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "nglegok",
+    "name": "Nglegok",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "ngargoyoso"
+  },
+  {
+    "id": "ngargoyoso",
+    "name": "Ngargoyoso",
+    "district": "ngargoyoso"
+  }
+]

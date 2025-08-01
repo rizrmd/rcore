@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lubuk-bernai",
+    "name": "Lubuk Bernai",
+    "district": "batang-asam"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "batang-asam"
+  },
+  {
+    "id": "tanjung-bojo",
+    "name": "Tanjung Bojo",
+    "district": "batang-asam"
+  },
+  {
+    "id": "dusun-kebon",
+    "name": "Dusun Kebon",
+    "district": "batang-asam"
+  },
+  {
+    "id": "suban",
+    "name": "Suban",
+    "district": "batang-asam"
+  },
+  {
+    "id": "sri-agung",
+    "name": "Sri Agung",
+    "district": "batang-asam"
+  },
+  {
+    "id": "lubuk-lawas",
+    "name": "Lubuk Lawas",
+    "district": "batang-asam"
+  },
+  {
+    "id": "sungai-badar",
+    "name": "Sungai Badar",
+    "district": "batang-asam"
+  },
+  {
+    "id": "sungai-penoban",
+    "name": "Sungai Penoban",
+    "district": "batang-asam"
+  },
+  {
+    "id": "rawang-kempas",
+    "name": "Rawang Kempas",
+    "district": "batang-asam"
+  },
+  {
+    "id": "rawa-medang",
+    "name": "Rawa Medang",
+    "district": "batang-asam"
+  }
+]

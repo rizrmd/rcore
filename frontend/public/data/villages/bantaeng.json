@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tappanjeng",
+    "name": "Tappanjeng",
+    "district": "bantaeng"
+  },
+  {
+    "id": "pallantikang",
+    "name": "Pallantikang",
+    "district": "bantaeng"
+  },
+  {
+    "id": "letta",
+    "name": "Letta",
+    "district": "bantaeng"
+  },
+  {
+    "id": "mallilingi",
+    "name": "Mallilingi",
+    "district": "bantaeng"
+  },
+  {
+    "id": "lembang",
+    "name": "Lembang",
+    "district": "bantaeng"
+  },
+  {
+    "id": "lamalaka",
+    "name": "Lamalaka",
+    "district": "bantaeng"
+  },
+  {
+    "id": "karatuang",
+    "name": "Karatuang",
+    "district": "bantaeng"
+  },
+  {
+    "id": "onto",
+    "name": "Onto",
+    "district": "bantaeng"
+  },
+  {
+    "id": "kayu-loe",
+    "name": "Kayu Loe",
+    "district": "bantaeng"
+  }
+]

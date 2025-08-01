@@ -1,0 +1,102 @@
+[
+  {
+    "id": "batuanten",
+    "name": "Batuanten",
+    "district": "cilongok"
+  },
+  {
+    "id": "kasegeran",
+    "name": "Kasegeran",
+    "district": "cilongok"
+  },
+  {
+    "id": "jatisaba",
+    "name": "Jatisaba",
+    "district": "cilongok"
+  },
+  {
+    "id": "panusupan",
+    "name": "Panusupan",
+    "district": "cilongok"
+  },
+  {
+    "id": "pejogol",
+    "name": "Pejogol",
+    "district": "cilongok"
+  },
+  {
+    "id": "pageraji",
+    "name": "Pageraji",
+    "district": "cilongok"
+  },
+  {
+    "id": "sudimara",
+    "name": "Sudimara",
+    "district": "cilongok"
+  },
+  {
+    "id": "cilongok",
+    "name": "Cilongok",
+    "district": "cilongok"
+  },
+  {
+    "id": "cipete",
+    "name": "Cipete",
+    "district": "cilongok"
+  },
+  {
+    "id": "cikidang",
+    "name": "Cikidang",
+    "district": "cilongok"
+  },
+  {
+    "id": "pernasidi",
+    "name": "Pernasidi",
+    "district": "cilongok"
+  },
+  {
+    "id": "langgongsari",
+    "name": "Langgongsari",
+    "district": "cilongok"
+  },
+  {
+    "id": "rancamaya",
+    "name": "Rancamaya",
+    "district": "cilongok"
+  },
+  {
+    "id": "panembangan",
+    "name": "Panembangan",
+    "district": "cilongok"
+  },
+  {
+    "id": "karanglo",
+    "name": "Karanglo",
+    "district": "cilongok"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "cilongok"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "cilongok"
+  },
+  {
+    "id": "sambirata",
+    "name": "Sambirata",
+    "district": "cilongok"
+  },
+  {
+    "id": "gununglurah",
+    "name": "Gununglurah",
+    "district": "cilongok"
+  },
+  {
+    "id": "sokawera",
+    "name": "Sokawera",
+    "district": "cilongok"
+  }
+]

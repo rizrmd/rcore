@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tanjung-raja",
+    "name": "Tanjung Raja",
+    "district": "muara-enim"
+  },
+  {
+    "id": "karang-raja",
+    "name": "Karang Raja",
+    "district": "muara-enim"
+  },
+  {
+    "id": "saka-jaya",
+    "name": "Saka Jaya",
+    "district": "muara-enim"
+  },
+  {
+    "id": "pasar-i",
+    "name": "Pasar I",
+    "district": "muara-enim"
+  },
+  {
+    "id": "pasar-ii",
+    "name": "Pasar Ii",
+    "district": "muara-enim"
+  },
+  {
+    "id": "pasar-iii",
+    "name": "Pasar Iii",
+    "district": "muara-enim"
+  },
+  {
+    "id": "tungkal",
+    "name": "Tungkal",
+    "district": "muara-enim"
+  },
+  {
+    "id": "lubuk-empelas",
+    "name": "Lubuk Empelas",
+    "district": "muara-enim"
+  },
+  {
+    "id": "tanjung-jati",
+    "name": "Tanjung Jati",
+    "district": "muara-enim"
+  },
+  {
+    "id": "muara-lawai",
+    "name": "Muara Lawai",
+    "district": "muara-enim"
+  },
+  {
+    "id": "muara-enim",
+    "name": "Muara Enim",
+    "district": "muara-enim"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "muara-enim"
+  },
+  {
+    "id": "muara-harapan",
+    "name": "Muara Harapan",
+    "district": "muara-enim"
+  },
+  {
+    "id": "kepur",
+    "name": "Kepur",
+    "district": "muara-enim"
+  },
+  {
+    "id": "tanjung-serian",
+    "name": "Tanjung Serian",
+    "district": "muara-enim"
+  },
+  {
+    "id": "air-lintang",
+    "name": "Air Lintang",
+    "district": "muara-enim"
+  }
+]

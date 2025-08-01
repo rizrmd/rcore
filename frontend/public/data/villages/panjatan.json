@@ -1,0 +1,42 @@
+[
+  {
+    "id": "garongan",
+    "name": "Garongan",
+    "district": "panjatan"
+  },
+  {
+    "id": "kanoman",
+    "name": "Kanoman",
+    "district": "panjatan"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "panjatan"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "panjatan"
+  },
+  {
+    "id": "tayuban",
+    "name": "Tayuban",
+    "district": "panjatan"
+  },
+  {
+    "id": "gotakan",
+    "name": "Gotakan",
+    "district": "panjatan"
+  },
+  {
+    "id": "panjatan",
+    "name": "Panjatan",
+    "district": "panjatan"
+  },
+  {
+    "id": "krembangan",
+    "name": "Krembangan",
+    "district": "panjatan"
+  }
+]

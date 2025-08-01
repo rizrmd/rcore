@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cipancar",
+    "name": "Cipancar",
+    "district": "serangpanjang"
+  },
+  {
+    "id": "cikujang",
+    "name": "Cikujang",
+    "district": "serangpanjang"
+  },
+  {
+    "id": "cijengkol",
+    "name": "Cijengkol",
+    "district": "serangpanjang"
+  },
+  {
+    "id": "cintamekar",
+    "name": "Cintamekar",
+    "district": "serangpanjang"
+  },
+  {
+    "id": "ponggang",
+    "name": "Ponggang",
+    "district": "serangpanjang"
+  },
+  {
+    "id": "talagasari",
+    "name": "Talagasari",
+    "district": "serangpanjang"
+  }
+]

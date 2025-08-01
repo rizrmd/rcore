@@ -1,0 +1,22 @@
+[
+  {
+    "id": "firiwage",
+    "name": "Firiwage",
+    "district": "firiwage"
+  },
+  {
+    "id": "karuwage",
+    "name": "Karuwage",
+    "district": "firiwage"
+  },
+  {
+    "id": "waliburu",
+    "name": "Waliburu",
+    "district": "firiwage"
+  },
+  {
+    "id": "kabuwage",
+    "name": "Kabuwage",
+    "district": "firiwage"
+  }
+]

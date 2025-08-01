@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tampemadoro",
+    "name": "Tampemadoro",
+    "district": "lage"
+  },
+  {
+    "id": "pandiri",
+    "name": "Pandiri",
+    "district": "lage"
+  },
+  {
+    "id": "watuawu",
+    "name": "Watuawu",
+    "district": "lage"
+  },
+  {
+    "id": "tambaro",
+    "name": "Tambaro",
+    "district": "lage"
+  },
+  {
+    "id": "sintuwulemba",
+    "name": "Sintuwulemba",
+    "district": "lage"
+  },
+  {
+    "id": "tagolu",
+    "name": "Tagolu",
+    "district": "lage"
+  },
+  {
+    "id": "maliwuko",
+    "name": "Maliwuko",
+    "district": "lage"
+  },
+  {
+    "id": "silanca",
+    "name": "Silanca",
+    "district": "lage"
+  },
+  {
+    "id": "bategencu",
+    "name": "Bategencu",
+    "district": "lage"
+  },
+  {
+    "id": "toyado",
+    "name": "Toyado",
+    "district": "lage"
+  },
+  {
+    "id": "tongko",
+    "name": "Tongko",
+    "district": "lage"
+  },
+  {
+    "id": "malei",
+    "name": "Malei",
+    "district": "lage"
+  },
+  {
+    "id": "labuan",
+    "name": "Labuan",
+    "district": "lage"
+  },
+  {
+    "id": "ratoombu",
+    "name": "Ratoombu",
+    "district": "lage"
+  },
+  {
+    "id": "labuadago",
+    "name": "Labuadago",
+    "district": "lage"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lawulo",
+    "name": "Lawulo",
+    "district": "anggaberi"
+  },
+  {
+    "id": "unaasi",
+    "name": "Unaasi",
+    "district": "anggaberi"
+  },
+  {
+    "id": "parauna",
+    "name": "Parauna",
+    "district": "anggaberi"
+  },
+  {
+    "id": "anggaberi",
+    "name": "Anggaberi",
+    "district": "anggaberi"
+  },
+  {
+    "id": "andabia",
+    "name": "Andabia",
+    "district": "anggaberi"
+  },
+  {
+    "id": "lerehoma",
+    "name": "Lerehoma",
+    "district": "anggaberi"
+  },
+  {
+    "id": "wunduongohi",
+    "name": "Wunduongohi",
+    "district": "anggaberi"
+  },
+  {
+    "id": "toriki",
+    "name": "Toriki",
+    "district": "anggaberi"
+  }
+]

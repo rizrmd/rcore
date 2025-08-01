@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kota-uneng",
+    "name": "Kota Uneng",
+    "district": "alok"
+  },
+  {
+    "id": "nangalimang",
+    "name": "Nangalimang",
+    "district": "alok"
+  },
+  {
+    "id": "madawat",
+    "name": "Madawat",
+    "district": "alok"
+  },
+  {
+    "id": "kabor",
+    "name": "Kabor",
+    "district": "alok"
+  },
+  {
+    "id": "pemana",
+    "name": "Pemana",
+    "district": "alok"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "alok"
+  },
+  {
+    "id": "samparong",
+    "name": "Samparong",
+    "district": "alok"
+  }
+]

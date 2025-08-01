@@ -1,0 +1,37 @@
+[
+  {
+    "id": "karangharjo",
+    "name": "Karangharjo",
+    "district": "glenmore"
+  },
+  {
+    "id": "tulungrejo",
+    "name": "Tulungrejo",
+    "district": "glenmore"
+  },
+  {
+    "id": "sumbergondo",
+    "name": "Sumbergondo",
+    "district": "glenmore"
+  },
+  {
+    "id": "bumiharjo",
+    "name": "Bumiharjo",
+    "district": "glenmore"
+  },
+  {
+    "id": "sepanjang",
+    "name": "Sepanjang",
+    "district": "glenmore"
+  },
+  {
+    "id": "tegalharjo",
+    "name": "Tegalharjo",
+    "district": "glenmore"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "glenmore"
+  }
+]

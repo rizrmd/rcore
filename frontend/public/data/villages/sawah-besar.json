@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "sawah-besar"
+  },
+  {
+    "id": "gunung-sahari-utara",
+    "name": "Gunung Sahari Utara",
+    "district": "sawah-besar"
+  },
+  {
+    "id": "kartini",
+    "name": "Kartini",
+    "district": "sawah-besar"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "sawah-besar"
+  },
+  {
+    "id": "mangga-dua-selatan",
+    "name": "Mangga Dua Selatan",
+    "district": "sawah-besar"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sulamu",
+    "name": "Sulamu",
+    "district": "sulamu"
+  },
+  {
+    "id": "pitai",
+    "name": "Pitai",
+    "district": "sulamu"
+  },
+  {
+    "id": "pariti",
+    "name": "Pariti",
+    "district": "sulamu"
+  },
+  {
+    "id": "oeteta",
+    "name": "Oeteta",
+    "district": "sulamu"
+  },
+  {
+    "id": "bipolo",
+    "name": "Bipolo",
+    "district": "sulamu"
+  },
+  {
+    "id": "pantulan",
+    "name": "Pantulan",
+    "district": "sulamu"
+  },
+  {
+    "id": "pantai-beringin",
+    "name": "Pantai Beringin",
+    "district": "sulamu"
+  }
+]

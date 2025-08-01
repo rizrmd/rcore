@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bodi",
+    "name": "Bodi",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "tayokan",
+    "name": "Tayokan",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "harmoni",
+    "name": "Harmoni",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "lunguto",
+    "name": "Lunguto",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "timbulon",
+    "name": "Timbulon",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "oyak",
+    "name": "Oyak",
+    "district": "paleleh-barat"
+  },
+  {
+    "id": "hulubalang",
+    "name": "Hulubalang",
+    "district": "paleleh-barat"
+  }
+]

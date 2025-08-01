@@ -1,0 +1,67 @@
+[
+  {
+    "id": "wanamukti",
+    "name": "Wanamukti",
+    "district": "bolano"
+  },
+  {
+    "id": "sritabaang",
+    "name": "Sritabaang",
+    "district": "bolano"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "bolano"
+  },
+  {
+    "id": "bajo",
+    "name": "Bajo",
+    "district": "bolano"
+  },
+  {
+    "id": "bolano",
+    "name": "Bolano",
+    "district": "bolano"
+  },
+  {
+    "id": "lembah-bomban",
+    "name": "Lembah Bomban",
+    "district": "bolano"
+  },
+  {
+    "id": "bolano-barat",
+    "name": "Bolano Barat",
+    "district": "bolano"
+  },
+  {
+    "id": "wanamukti-utara",
+    "name": "Wanamukti Utara",
+    "district": "bolano"
+  },
+  {
+    "id": "bolano-tengah",
+    "name": "Bolano Tengah",
+    "district": "bolano"
+  },
+  {
+    "id": "bolano-utara",
+    "name": "Bolano Utara",
+    "district": "bolano"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "bolano"
+  },
+  {
+    "id": "wanamukti-barat",
+    "name": "Wanamukti Barat",
+    "district": "bolano"
+  },
+  {
+    "id": "sama-bahari",
+    "name": "Sama Bahari",
+    "district": "bolano"
+  }
+]

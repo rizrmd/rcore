@@ -1,0 +1,54 @@
+# fly.toml app configuration file
+# See https://fly.io/docs/reference/configuration/
+
+app = "app-name"
+primary_region = "iad" # Change to your preferred region
+
+# Static files configuration removed - handled by the app
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  PORT = "3000"
+  CONFIG_PATH = "/app/config.json"
+
+# Single instance configuration to handle WebSockets and file uploads
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = true      # Machine stops when idle
+  auto_start_machines = true     # Machine starts on request
+  min_machines_running = 0       # Scale to zero when idle
+  max_machines_running = 1       # Single instance only (WebSocket/file limitations)
+  
+  [http_service.concurrency]
+    type = "requests"
+    hard_limit = 1000
+    soft_limit = 800
+
+# Vertical scaling - can upgrade these if needed
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory_mb = 512  # Increased to 512MB for better performance
+
+# Mount persistent volume for file uploads
+[mounts]
+  source = "app_uploads"
+  destination = "/app/_file"
+  
+# Create volume on first deploy with: fly volumes create app_uploads --size 10 --region iad
+
+# Health check configuration
+[[http_service.checks]]
+  interval = "30s"
+  timeout = "5s"
+  grace_period = "10s"
+  method = "GET"
+  path = "/api/health"
+
+# All domains will be handled by the same app instance
+# The app will route internally based on the Host header
+# Domains are added via fly certs add command

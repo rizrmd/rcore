@@ -1,0 +1,27 @@
+[
+  {
+    "id": "panau",
+    "name": "Panau",
+    "district": "tawaeli"
+  },
+  {
+    "id": "lambara",
+    "name": "Lambara",
+    "district": "tawaeli"
+  },
+  {
+    "id": "baiya",
+    "name": "Baiya",
+    "district": "tawaeli"
+  },
+  {
+    "id": "pantoloan",
+    "name": "Pantoloan",
+    "district": "tawaeli"
+  },
+  {
+    "id": "pantoloan-boya",
+    "name": "Pantoloan Boya",
+    "district": "tawaeli"
+  }
+]

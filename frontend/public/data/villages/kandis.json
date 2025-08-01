@@ -1,0 +1,117 @@
+[
+  {
+    "id": "telaga-sam-sam",
+    "name": "Telaga Sam Sam",
+    "district": "kandis"
+  },
+  {
+    "id": "sam-sam",
+    "name": "Sam Sam",
+    "district": "kandis"
+  },
+  {
+    "id": "kandis-kota",
+    "name": "Kandis Kota",
+    "district": "kandis"
+  },
+  {
+    "id": "kandis",
+    "name": "Kandis",
+    "district": "kandis"
+  },
+  {
+    "id": "simpang-belutu",
+    "name": "Simpang Belutu",
+    "district": "kandis"
+  },
+  {
+    "id": "belutu",
+    "name": "Belutu",
+    "district": "kandis"
+  },
+  {
+    "id": "bekalar",
+    "name": "Bekalar",
+    "district": "kandis"
+  },
+  {
+    "id": "jambai-makmur",
+    "name": "Jambai Makmur",
+    "district": "kandis"
+  },
+  {
+    "id": "pencing-bekulo",
+    "name": "Pencing Bekulo",
+    "district": "kandis"
+  },
+  {
+    "id": "sungai-gondang",
+    "name": "Sungai Gondang",
+    "district": "kandis"
+  },
+  {
+    "id": "libo-jaya",
+    "name": "Libo Jaya",
+    "district": "kandis"
+  },
+  {
+    "id": "kumbang-ulu",
+    "name": "Kumbang Ulu",
+    "district": "kandis"
+  },
+  {
+    "id": "kumbang-ilir",
+    "name": "Kumbang Ilir",
+    "district": "kandis"
+  },
+  {
+    "id": "tanjung-alai",
+    "name": "Tanjung Alai",
+    "district": "kandis"
+  },
+  {
+    "id": "muara-kumbang",
+    "name": "Muara Kumbang",
+    "district": "kandis"
+  },
+  {
+    "id": "lubuk-rukam",
+    "name": "Lubuk Rukam",
+    "district": "kandis"
+  },
+  {
+    "id": "pandan-arang",
+    "name": "Pandan Arang",
+    "district": "kandis"
+  },
+  {
+    "id": "kandis-i",
+    "name": "Kandis I",
+    "district": "kandis"
+  },
+  {
+    "id": "santapan-barat",
+    "name": "Santapan Barat",
+    "district": "kandis"
+  },
+  {
+    "id": "miji",
+    "name": "Miji",
+    "district": "kandis"
+  },
+  {
+    "id": "santapan-timur",
+    "name": "Santapan Timur",
+    "district": "kandis"
+  },
+  {
+    "id": "kandis-ii",
+    "name": "Kandis Ii",
+    "district": "kandis"
+  },
+  {
+    "id": "lubuk-segonang",
+    "name": "Lubuk Segonang",
+    "district": "kandis"
+  }
+]

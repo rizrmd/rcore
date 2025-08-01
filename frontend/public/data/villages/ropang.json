@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lebangkar",
+    "name": "Lebangkar",
+    "district": "ropang"
+  },
+  {
+    "id": "lebin",
+    "name": "Lebin",
+    "district": "ropang"
+  },
+  {
+    "id": "lawin",
+    "name": "Lawin",
+    "district": "ropang"
+  },
+  {
+    "id": "ropang",
+    "name": "Ropang",
+    "district": "ropang"
+  },
+  {
+    "id": "ranan",
+    "name": "Ranan",
+    "district": "ropang"
+  }
+]

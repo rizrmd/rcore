@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kalikidang",
+    "name": "Kalikidang",
+    "district": "sokaraja"
+  },
+  {
+    "id": "sokaraja-tengah",
+    "name": "Sokaraja Tengah",
+    "district": "sokaraja"
+  },
+  {
+    "id": "sokaraja-kidul",
+    "name": "Sokaraja Kidul",
+    "district": "sokaraja"
+  },
+  {
+    "id": "sokaraja-wetan",
+    "name": "Sokaraja Wetan",
+    "district": "sokaraja"
+  },
+  {
+    "id": "klahang",
+    "name": "Klahang",
+    "district": "sokaraja"
+  },
+  {
+    "id": "banjarsari-kidul",
+    "name": "Banjarsari Kidul",
+    "district": "sokaraja"
+  },
+  {
+    "id": "jompo-kulon",
+    "name": "Jompo Kulon",
+    "district": "sokaraja"
+  },
+  {
+    "id": "banjaranyar",
+    "name": "Banjaranyar",
+    "district": "sokaraja"
+  },
+  {
+    "id": "lemberang",
+    "name": "Lemberang",
+    "district": "sokaraja"
+  },
+  {
+    "id": "karangduren",
+    "name": "Karangduren",
+    "district": "sokaraja"
+  },
+  {
+    "id": "sokaraja-lor",
+    "name": "Sokaraja Lor",
+    "district": "sokaraja"
+  },
+  {
+    "id": "kedondong",
+    "name": "Kedondong",
+    "district": "sokaraja"
+  },
+  {
+    "id": "pamijen",
+    "name": "Pamijen",
+    "district": "sokaraja"
+  },
+  {
+    "id": "sokaraja-kulon",
+    "name": "Sokaraja Kulon",
+    "district": "sokaraja"
+  },
+  {
+    "id": "karangkedawung",
+    "name": "Karangkedawung",
+    "district": "sokaraja"
+  },
+  {
+    "id": "wiradadi",
+    "name": "Wiradadi",
+    "district": "sokaraja"
+  },
+  {
+    "id": "karangnanas",
+    "name": "Karangnanas",
+    "district": "sokaraja"
+  },
+  {
+    "id": "karangrau",
+    "name": "Karangrau",
+    "district": "sokaraja"
+  }
+]

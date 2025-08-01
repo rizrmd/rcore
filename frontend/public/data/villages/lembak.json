@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kemang",
+    "name": "Kemang",
+    "district": "lembak"
+  },
+  {
+    "id": "lembak",
+    "name": "Lembak",
+    "district": "lembak"
+  },
+  {
+    "id": "sungai-duren",
+    "name": "Sungai Duren",
+    "district": "lembak"
+  },
+  {
+    "id": "tapus",
+    "name": "Tapus",
+    "district": "lembak"
+  },
+  {
+    "id": "petanang",
+    "name": "Petanang",
+    "district": "lembak"
+  },
+  {
+    "id": "talang-nangka",
+    "name": "Talang Nangka",
+    "district": "lembak"
+  },
+  {
+    "id": "alai",
+    "name": "Alai",
+    "district": "lembak"
+  },
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "lembak"
+  },
+  {
+    "id": "lubuk-enau",
+    "name": "Lubuk Enau",
+    "district": "lembak"
+  },
+  {
+    "id": "alai-selatan",
+    "name": "Alai Selatan",
+    "district": "lembak"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "oeletsala",
+    "name": "Oeletsala",
+    "district": "taebenu"
+  },
+  {
+    "id": "kuaklalo",
+    "name": "Kuaklalo",
+    "district": "taebenu"
+  },
+  {
+    "id": "bokong",
+    "name": "Bokong",
+    "district": "taebenu"
+  },
+  {
+    "id": "baumata-timur",
+    "name": "Baumata Timur",
+    "district": "taebenu"
+  },
+  {
+    "id": "oeltua",
+    "name": "Oeltua",
+    "district": "taebenu"
+  },
+  {
+    "id": "baumata",
+    "name": "Baumata",
+    "district": "taebenu"
+  },
+  {
+    "id": "baumata-barat",
+    "name": "Baumata Barat",
+    "district": "taebenu"
+  },
+  {
+    "id": "baumata-utara",
+    "name": "Baumata Utara",
+    "district": "taebenu"
+  }
+]

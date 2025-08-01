@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pampanan",
+    "name": "Pampanan",
+    "district": "pugaan"
+  },
+  {
+    "id": "tamunti",
+    "name": "Tamunti",
+    "district": "pugaan"
+  },
+  {
+    "id": "pugaan",
+    "name": "Pugaan",
+    "district": "pugaan"
+  },
+  {
+    "id": "halangan",
+    "name": "Halangan",
+    "district": "pugaan"
+  },
+  {
+    "id": "sungai-rukam-i",
+    "name": "Sungai Rukam I",
+    "district": "pugaan"
+  },
+  {
+    "id": "sungai-rukam-ii",
+    "name": "Sungai Rukam Ii",
+    "district": "pugaan"
+  },
+  {
+    "id": "jirak",
+    "name": "Jirak",
+    "district": "pugaan"
+  }
+]

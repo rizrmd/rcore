@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kuok",
+    "name": "Kuok",
+    "district": "kuok"
+  },
+  {
+    "id": "merangin",
+    "name": "Merangin",
+    "district": "kuok"
+  },
+  {
+    "id": "empat-balai",
+    "name": "Empat Balai",
+    "district": "kuok"
+  },
+  {
+    "id": "pulau-jambu",
+    "name": "Pulau Jambu",
+    "district": "kuok"
+  },
+  {
+    "id": "silam",
+    "name": "Silam",
+    "district": "kuok"
+  },
+  {
+    "id": "bukit-melintang",
+    "name": "Bukit Melintang",
+    "district": "kuok"
+  },
+  {
+    "id": "lereng",
+    "name": "Lereng",
+    "district": "kuok"
+  },
+  {
+    "id": "pulau-terap",
+    "name": "Pulau Terap",
+    "district": "kuok"
+  },
+  {
+    "id": "batu-langka-kecil",
+    "name": "Batu Langka Kecil",
+    "district": "kuok"
+  }
+]

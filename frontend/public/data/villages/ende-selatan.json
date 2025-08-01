@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kel-paupanda",
+    "name": "Kel. Paupanda",
+    "district": "ende-selatan"
+  },
+  {
+    "id": "kel-rukunlima",
+    "name": "Kel. Rukunlima",
+    "district": "ende-selatan"
+  },
+  {
+    "id": "kel-mbongawani",
+    "name": "Kel. Mbongawani",
+    "district": "ende-selatan"
+  },
+  {
+    "id": "kel-tetandara",
+    "name": "Kel. Tetandara",
+    "district": "ende-selatan"
+  },
+  {
+    "id": "kel-tanjung",
+    "name": "Kel. Tanjung",
+    "district": "ende-selatan"
+  }
+]

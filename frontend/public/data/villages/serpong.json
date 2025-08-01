@@ -1,0 +1,47 @@
+[
+  {
+    "id": "buaran",
+    "name": "Buaran",
+    "district": "serpong"
+  },
+  {
+    "id": "ciater",
+    "name": "Ciater",
+    "district": "serpong"
+  },
+  {
+    "id": "rawa-mekar-jaya",
+    "name": "Rawa Mekar Jaya",
+    "district": "serpong"
+  },
+  {
+    "id": "rawa-buntu",
+    "name": "Rawa Buntu",
+    "district": "serpong"
+  },
+  {
+    "id": "serpong",
+    "name": "Serpong",
+    "district": "serpong"
+  },
+  {
+    "id": "cilenggang",
+    "name": "Cilenggang",
+    "district": "serpong"
+  },
+  {
+    "id": "lengkong-gudang",
+    "name": "Lengkong Gudang",
+    "district": "serpong"
+  },
+  {
+    "id": "lengkong-gudang-timur",
+    "name": "Lengkong Gudang Timur",
+    "district": "serpong"
+  },
+  {
+    "id": "lengkong-wetan",
+    "name": "Lengkong Wetan",
+    "district": "serpong"
+  }
+]

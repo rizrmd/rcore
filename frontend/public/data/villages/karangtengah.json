@@ -1,0 +1,127 @@
+[
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sindangasih",
+    "name": "Sindangasih",
+    "district": "karangtengah"
+  },
+  {
+    "id": "langensari",
+    "name": "Langensari",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "karangtengah"
+  },
+  {
+    "id": "maleber",
+    "name": "Maleber",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sabandar",
+    "name": "Sabandar",
+    "district": "karangtengah"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "karangtengah"
+  },
+  {
+    "id": "hegarmanah",
+    "name": "Hegarmanah",
+    "district": "karangtengah"
+  },
+  {
+    "id": "babakancaringin",
+    "name": "Babakancaringin",
+    "district": "karangtengah"
+  },
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukasarana",
+    "name": "Sukasarana",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukamantri",
+    "name": "Sukamantri",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sindanglaka",
+    "name": "Sindanglaka",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sukataris",
+    "name": "Sukataris",
+    "district": "karangtengah"
+  },
+  {
+    "id": "sindanggalih",
+    "name": "Sindanggalih",
+    "district": "karangtengah"
+  },
+  {
+    "id": "cinta",
+    "name": "Cinta",
+    "district": "karangtengah"
+  },
+  {
+    "id": "cintamanik",
+    "name": "Cintamanik",
+    "district": "karangtengah"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "district": "karangtengah"
+  },
+  {
+    "id": "jeblogan",
+    "name": "Jeblogan",
+    "district": "karangtengah"
+  },
+  {
+    "id": "ngambarsari",
+    "name": "Ngambarsari",
+    "district": "karangtengah"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "karangtengah"
+  },
+  {
+    "id": "purwoharjo",
+    "name": "Purwoharjo",
+    "district": "karangtengah"
+  },
+  {
+    "id": "temboro",
+    "name": "Temboro",
+    "district": "karangtengah"
+  }
+]

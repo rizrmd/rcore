@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bokonusan",
+    "name": "Bokonusan",
+    "district": "semau"
+  },
+  {
+    "id": "otan",
+    "name": "Otan",
+    "district": "semau"
+  },
+  {
+    "id": "uitao",
+    "name": "Uitao",
+    "district": "semau"
+  },
+  {
+    "id": "huilelot",
+    "name": "Huilelot",
+    "district": "semau"
+  },
+  {
+    "id": "uiasa",
+    "name": "Uiasa",
+    "district": "semau"
+  },
+  {
+    "id": "hansisi",
+    "name": "Hansisi",
+    "district": "semau"
+  },
+  {
+    "id": "batuinan",
+    "name": "Batuinan",
+    "district": "semau"
+  },
+  {
+    "id": "letbaun",
+    "name": "Letbaun",
+    "district": "semau"
+  }
+]

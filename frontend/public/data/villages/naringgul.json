@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cinerang",
+    "name": "Cinerang",
+    "district": "naringgul"
+  },
+  {
+    "id": "wangunjaya",
+    "name": "Wangunjaya",
+    "district": "naringgul"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "naringgul"
+  },
+  {
+    "id": "wangunsari",
+    "name": "Wangunsari",
+    "district": "naringgul"
+  },
+  {
+    "id": "malati",
+    "name": "Malati",
+    "district": "naringgul"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "naringgul"
+  },
+  {
+    "id": "naringgul",
+    "name": "Naringgul",
+    "district": "naringgul"
+  },
+  {
+    "id": "wanasari",
+    "name": "Wanasari",
+    "district": "naringgul"
+  },
+  {
+    "id": "sukabakti",
+    "name": "Sukabakti",
+    "district": "naringgul"
+  },
+  {
+    "id": "balegede",
+    "name": "Balegede",
+    "district": "naringgul"
+  },
+  {
+    "id": "margasari",
+    "name": "Margasari",
+    "district": "naringgul"
+  }
+]

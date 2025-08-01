@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tumpatan",
+    "name": "Tumpatan",
+    "district": "beringin"
+  },
+  {
+    "id": "emplasmen-kuala-namu",
+    "name": "Emplasmen Kuala Namu",
+    "district": "beringin"
+  },
+  {
+    "id": "sidodadi-ramunia",
+    "name": "Sidodadi Ramunia",
+    "district": "beringin"
+  },
+  {
+    "id": "pasar-lima-kebun-kelapa",
+    "name": "Pasar Lima Kebun Kelapa",
+    "district": "beringin"
+  },
+  {
+    "id": "aras-kabu",
+    "name": "Aras Kabu",
+    "district": "beringin"
+  },
+  {
+    "id": "serdang",
+    "name": "Serdang",
+    "district": "beringin"
+  },
+  {
+    "id": "sidourip",
+    "name": "Sidourip",
+    "district": "beringin"
+  },
+  {
+    "id": "pasar-enam-kuala-namu",
+    "name": "Pasar Enam Kuala Namu",
+    "district": "beringin"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "beringin"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "beringin"
+  },
+  {
+    "id": "sidoarjo-dua-ramunia",
+    "name": "Sidoarjo Dua Ramunia",
+    "district": "beringin"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "moutong-timur",
+    "name": "Moutong Timur",
+    "district": "moutong"
+  },
+  {
+    "id": "moutong-tengah",
+    "name": "Moutong Tengah",
+    "district": "moutong"
+  },
+  {
+    "id": "moutong-barat",
+    "name": "Moutong Barat",
+    "district": "moutong"
+  },
+  {
+    "id": "tuladenggi-pantai",
+    "name": "Tuladenggi Pantai",
+    "district": "moutong"
+  },
+  {
+    "id": "gio",
+    "name": "Gio",
+    "district": "moutong"
+  },
+  {
+    "id": "lobu",
+    "name": "Lobu",
+    "district": "moutong"
+  },
+  {
+    "id": "pandelalap",
+    "name": "Pandelalap",
+    "district": "moutong"
+  },
+  {
+    "id": "sejoli",
+    "name": "Sejoli",
+    "district": "moutong"
+  },
+  {
+    "id": "boloung-olonggata",
+    "name": "Boloung Olonggata",
+    "district": "moutong"
+  },
+  {
+    "id": "salumpengut",
+    "name": "Salumpengut",
+    "district": "moutong"
+  },
+  {
+    "id": "aedan-raya",
+    "name": "Aedan Raya",
+    "district": "moutong"
+  },
+  {
+    "id": "labuan",
+    "name": "Labuan",
+    "district": "moutong"
+  },
+  {
+    "id": "salepae",
+    "name": "Salepae",
+    "district": "moutong"
+  },
+  {
+    "id": "moutong-utara",
+    "name": "Moutong Utara",
+    "district": "moutong"
+  },
+  {
+    "id": "pande",
+    "name": "Pande",
+    "district": "moutong"
+  },
+  {
+    "id": "olonggata",
+    "name": "Olonggata",
+    "district": "moutong"
+  },
+  {
+    "id": "mbelang-mbelang",
+    "name": "Mbelang-Mbelang",
+    "district": "moutong"
+  },
+  {
+    "id": "gio-timur",
+    "name": "Gio Timur",
+    "district": "moutong"
+  },
+  {
+    "id": "gio-barat",
+    "name": "Gio Barat",
+    "district": "moutong"
+  },
+  {
+    "id": "sialopa",
+    "name": "Sialopa",
+    "district": "moutong"
+  }
+]

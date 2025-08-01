@@ -1,0 +1,322 @@
+[
+  {
+    "id": "tumpok-laweung",
+    "name": "Tumpok Laweung",
+    "district": "pidie"
+  },
+  {
+    "id": "ulee-ceue-keulibeut",
+    "name": "Ulee Ceue Keulibeut",
+    "district": "pidie"
+  },
+  {
+    "id": "keudee",
+    "name": "Keudee",
+    "district": "pidie"
+  },
+  {
+    "id": "ulee-tutue",
+    "name": "Ulee Tutue",
+    "district": "pidie"
+  },
+  {
+    "id": "dalueng",
+    "name": "Dalueng",
+    "district": "pidie"
+  },
+  {
+    "id": "jawa",
+    "name": "Jawa",
+    "district": "pidie"
+  },
+  {
+    "id": "abo",
+    "name": "Abo",
+    "district": "pidie"
+  },
+  {
+    "id": "meucat",
+    "name": "Meucat",
+    "district": "pidie"
+  },
+  {
+    "id": "bayu",
+    "name": "Bayu",
+    "district": "pidie"
+  },
+  {
+    "id": "dayah-teubeng",
+    "name": "Dayah Teubeng",
+    "district": "pidie"
+  },
+  {
+    "id": "gampong",
+    "name": "Gampong",
+    "district": "pidie"
+  },
+  {
+    "id": "cot-geunduek",
+    "name": "Cot Geunduek",
+    "district": "pidie"
+  },
+  {
+    "id": "dayah-tanoh",
+    "name": "Dayah Tanoh",
+    "district": "pidie"
+  },
+  {
+    "id": "dayah-tutong",
+    "name": "Dayah Tutong",
+    "district": "pidie"
+  },
+  {
+    "id": "raya-sanggeue",
+    "name": "Raya Sanggeue",
+    "district": "pidie"
+  },
+  {
+    "id": "sirong",
+    "name": "Sirong",
+    "district": "pidie"
+  },
+  {
+    "id": "keutumbu",
+    "name": "Keutumbu",
+    "district": "pidie"
+  },
+  {
+    "id": "jeuleupe",
+    "name": "Jeuleupe",
+    "district": "pidie"
+  },
+  {
+    "id": "krueng-dhoe",
+    "name": "Krueng Dhoe",
+    "district": "pidie"
+  },
+  {
+    "id": "keutapang",
+    "name": "Keutapang",
+    "district": "pidie"
+  },
+  {
+    "id": "kampung-barat",
+    "name": "Kampung Barat",
+    "district": "pidie"
+  },
+  {
+    "id": "kampong-pukat",
+    "name": "Kampong Pukat",
+    "district": "pidie"
+  },
+  {
+    "id": "labui",
+    "name": "Labui",
+    "district": "pidie"
+  },
+  {
+    "id": "tanjong",
+    "name": "Tanjong",
+    "district": "pidie"
+  },
+  {
+    "id": "tijue",
+    "name": "Tijue",
+    "district": "pidie"
+  },
+  {
+    "id": "paya",
+    "name": "Paya",
+    "district": "pidie"
+  },
+  {
+    "id": "ulee-ceue-teubeng",
+    "name": "Ulee Ceue Teubeng",
+    "district": "pidie"
+  },
+  {
+    "id": "dayah-teungoh",
+    "name": "Dayah Teungoh",
+    "district": "pidie"
+  },
+  {
+    "id": "mesjid-runtoh",
+    "name": "Mesjid Runtoh",
+    "district": "pidie"
+  },
+  {
+    "id": "baroh",
+    "name": "Baroh",
+    "district": "pidie"
+  },
+  {
+    "id": "puuk",
+    "name": "Puuk",
+    "district": "pidie"
+  },
+  {
+    "id": "lampeudeu-tunong",
+    "name": "Lampeudeu Tunong",
+    "district": "pidie"
+  },
+  {
+    "id": "lampeudeu-baroh",
+    "name": "Lampeudeu Baroh",
+    "district": "pidie"
+  },
+  {
+    "id": "lampoh-lada",
+    "name": "Lampoh Lada",
+    "district": "pidie"
+  },
+  {
+    "id": "keuniree",
+    "name": "Keuniree",
+    "district": "pidie"
+  },
+  {
+    "id": "cot-teungoh",
+    "name": "Cot Teungoh",
+    "district": "pidie"
+  },
+  {
+    "id": "cot-rheng",
+    "name": "Cot Rheng",
+    "district": "pidie"
+  },
+  {
+    "id": "tumpok-40",
+    "name": "Tumpok 40",
+    "district": "pidie"
+  },
+  {
+    "id": "pulo-pisang",
+    "name": "Pulo Pisang",
+    "district": "pidie"
+  },
+  {
+    "id": "paloh",
+    "name": "Paloh",
+    "district": "pidie"
+  },
+  {
+    "id": "lamkuta",
+    "name": "Lamkuta",
+    "district": "pidie"
+  },
+  {
+    "id": "lhok-keutapang",
+    "name": "Lhok Keutapang",
+    "district": "pidie"
+  },
+  {
+    "id": "tibang",
+    "name": "Tibang",
+    "district": "pidie"
+  },
+  {
+    "id": "jeumpa",
+    "name": "Jeumpa",
+    "district": "pidie"
+  },
+  {
+    "id": "ujong-langgo",
+    "name": "Ujong Langgo",
+    "district": "pidie"
+  },
+  {
+    "id": "batee",
+    "name": "Batee",
+    "district": "pidie"
+  },
+  {
+    "id": "bie",
+    "name": "Bie",
+    "district": "pidie"
+  },
+  {
+    "id": "blangkula",
+    "name": "Blangkula",
+    "district": "pidie"
+  },
+  {
+    "id": "alue",
+    "name": "Alue",
+    "district": "pidie"
+  },
+  {
+    "id": "paya-linteung",
+    "name": "Paya Linteung",
+    "district": "pidie"
+  },
+  {
+    "id": "seukee",
+    "name": "Seukee",
+    "district": "pidie"
+  },
+  {
+    "id": "seuri-weuk",
+    "name": "Seuri Weuk",
+    "district": "pidie"
+  },
+  {
+    "id": "puli",
+    "name": "Puli",
+    "district": "pidie"
+  },
+  {
+    "id": "mesjid-utue",
+    "name": "Mesjid Utue",
+    "district": "pidie"
+  },
+  {
+    "id": "seukeumbrok",
+    "name": "Seukeumbrok",
+    "district": "pidie"
+  },
+  {
+    "id": "leubue",
+    "name": "Leubue",
+    "district": "pidie"
+  },
+  {
+    "id": "cot-geulumpang",
+    "name": "Cot Geulumpang",
+    "district": "pidie"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "pidie"
+  },
+  {
+    "id": "gajah-ayee",
+    "name": "Gajah Ayee",
+    "district": "pidie"
+  },
+  {
+    "id": "rawa",
+    "name": "Rawa",
+    "district": "pidie"
+  },
+  {
+    "id": "peukan-baro",
+    "name": "Peukan Baro",
+    "district": "pidie"
+  },
+  {
+    "id": "pulo-bubee",
+    "name": "Pulo Bubee",
+    "district": "pidie"
+  },
+  {
+    "id": "mancang",
+    "name": "Mancang",
+    "district": "pidie"
+  },
+  {
+    "id": "raya-utue",
+    "name": "Raya Utue",
+    "district": "pidie"
+  }
+]

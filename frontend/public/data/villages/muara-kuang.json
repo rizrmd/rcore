@@ -1,0 +1,72 @@
+[
+  {
+    "id": "munggu",
+    "name": "Munggu",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "seri-menanti",
+    "name": "Seri Menanti",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "rantau-sialang",
+    "name": "Rantau Sialang",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "kuang-anyar",
+    "name": "Kuang Anyar",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "kasah",
+    "name": "Kasah",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "muara-kuang",
+    "name": "Muara Kuang",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "tanabang-ilir",
+    "name": "Tanabang Ilir",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "seri-kembang",
+    "name": "Seri Kembang",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "naga-sari",
+    "name": "Naga Sari",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "suka-cinta",
+    "name": "Suka Cinta",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "kelampadu",
+    "name": "Kelampadu",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "rama-kasih",
+    "name": "Rama Kasih",
+    "district": "muara-kuang"
+  },
+  {
+    "id": "tanabang-ulu",
+    "name": "Tanabang Ulu",
+    "district": "muara-kuang"
+  }
+]

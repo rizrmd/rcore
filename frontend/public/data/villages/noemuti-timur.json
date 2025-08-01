@@ -1,0 +1,22 @@
+[
+  {
+    "id": "naob",
+    "name": "Naob",
+    "district": "noemuti-timur"
+  },
+  {
+    "id": "haekto",
+    "name": "Haekto",
+    "district": "noemuti-timur"
+  },
+  {
+    "id": "manikin",
+    "name": "Manikin",
+    "district": "noemuti-timur"
+  },
+  {
+    "id": "kuaken",
+    "name": "Kuaken",
+    "district": "noemuti-timur"
+  }
+]

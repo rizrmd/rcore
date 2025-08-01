@@ -1,0 +1,52 @@
+[
+  {
+    "id": "assilulu",
+    "name": "Assilulu",
+    "district": "leihitu"
+  },
+  {
+    "id": "negeri-lima",
+    "name": "Negeri Lima",
+    "district": "leihitu"
+  },
+  {
+    "id": "seith",
+    "name": "Seith",
+    "district": "leihitu"
+  },
+  {
+    "id": "kaitetu",
+    "name": "Kaitetu",
+    "district": "leihitu"
+  },
+  {
+    "id": "hila",
+    "name": "Hila",
+    "district": "leihitu"
+  },
+  {
+    "id": "wakal",
+    "name": "Wakal",
+    "district": "leihitu"
+  },
+  {
+    "id": "hitulama",
+    "name": "Hitulama",
+    "district": "leihitu"
+  },
+  {
+    "id": "hitumesing",
+    "name": "Hitumesing",
+    "district": "leihitu"
+  },
+  {
+    "id": "mamala",
+    "name": "Mamala",
+    "district": "leihitu"
+  },
+  {
+    "id": "morella",
+    "name": "Morella",
+    "district": "leihitu"
+  }
+]

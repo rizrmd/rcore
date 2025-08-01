@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lebanu",
+    "name": "Lebanu",
+    "district": "marawola"
+  },
+  {
+    "id": "bomba",
+    "name": "Bomba",
+    "district": "marawola"
+  },
+  {
+    "id": "beka",
+    "name": "Beka",
+    "district": "marawola"
+  },
+  {
+    "id": "sibedi",
+    "name": "Sibedi",
+    "district": "marawola"
+  },
+  {
+    "id": "padende",
+    "name": "Padende",
+    "district": "marawola"
+  },
+  {
+    "id": "binangga",
+    "name": "Binangga",
+    "district": "marawola"
+  },
+  {
+    "id": "tinggede",
+    "name": "Tinggede",
+    "district": "marawola"
+  },
+  {
+    "id": "baliase",
+    "name": "Baliase",
+    "district": "marawola"
+  },
+  {
+    "id": "boyabaliase",
+    "name": "Boyabaliase",
+    "district": "marawola"
+  },
+  {
+    "id": "tinggede-selatan",
+    "name": "Tinggede Selatan",
+    "district": "marawola"
+  }
+]

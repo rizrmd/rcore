@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lawey",
+    "name": "Lawey",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "puuwatu",
+    "name": "Puuwatu",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "wawouso",
+    "name": "Wawouso",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "wawouso-baru",
+    "name": "Wawouso Baru",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "baku-baku",
+    "name": "Baku-Baku",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "bobolio",
+    "name": "Bobolio",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "sawaea",
+    "name": "Sawaea",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "sawapatani",
+    "name": "Sawapatani",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "wungkolo",
+    "name": "Wungkolo",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "langara-jaya",
+    "name": "Langara Jaya",
+    "district": "wawonii-selatan"
+  },
+  {
+    "id": "wawoone",
+    "name": "Wawoone",
+    "district": "wawonii-selatan"
+  }
+]

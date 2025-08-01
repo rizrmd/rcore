@@ -1,0 +1,47 @@
+[
+  {
+    "id": "paisumosoni",
+    "name": "Paisumosoni",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "tobing",
+    "name": "Tobing",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "tobungin",
+    "name": "Tobungin",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "mansamat-b",
+    "name": "Mansamat B",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "mansamat-a",
+    "name": "Mansamat A",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "tinangkung",
+    "name": "Tinangkung",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "gansal",
+    "name": "Gansal",
+    "district": "tinangkung-selatan"
+  },
+  {
+    "id": "bobu",
+    "name": "Bobu",
+    "district": "tinangkung-selatan"
+  }
+]

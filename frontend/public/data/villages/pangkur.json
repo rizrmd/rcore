@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gandri",
+    "name": "Gandri",
+    "district": "pangkur"
+  },
+  {
+    "id": "babadan",
+    "name": "Babadan",
+    "district": "pangkur"
+  },
+  {
+    "id": "poh-konyal",
+    "name": "Poh Konyal",
+    "district": "pangkur"
+  },
+  {
+    "id": "paras",
+    "name": "Paras",
+    "district": "pangkur"
+  },
+  {
+    "id": "pangkur",
+    "name": "Pangkur",
+    "district": "pangkur"
+  },
+  {
+    "id": "waruk-tengah",
+    "name": "Waruk Tengah",
+    "district": "pangkur"
+  },
+  {
+    "id": "ngompro",
+    "name": "Ngompro",
+    "district": "pangkur"
+  }
+]

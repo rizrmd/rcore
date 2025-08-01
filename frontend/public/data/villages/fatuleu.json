@@ -1,0 +1,52 @@
+[
+  {
+    "id": "camplong-ii",
+    "name": "Camplong Ii",
+    "district": "fatuleu"
+  },
+  {
+    "id": "camplong-i",
+    "name": "Camplong I",
+    "district": "fatuleu"
+  },
+  {
+    "id": "naunu",
+    "name": "Naunu",
+    "district": "fatuleu"
+  },
+  {
+    "id": "oebola",
+    "name": "Oebola",
+    "district": "fatuleu"
+  },
+  {
+    "id": "sillu",
+    "name": "Sillu",
+    "district": "fatuleu"
+  },
+  {
+    "id": "ekateta",
+    "name": "Ekateta",
+    "district": "fatuleu"
+  },
+  {
+    "id": "tolnaku",
+    "name": "Tolnaku",
+    "district": "fatuleu"
+  },
+  {
+    "id": "kuimasi",
+    "name": "Kuimasi",
+    "district": "fatuleu"
+  },
+  {
+    "id": "oebola-dalam",
+    "name": "Oebola Dalam",
+    "district": "fatuleu"
+  },
+  {
+    "id": "kiuoni",
+    "name": "Kiuoni",
+    "district": "fatuleu"
+  }
+]

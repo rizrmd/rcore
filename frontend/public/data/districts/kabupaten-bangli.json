@@ -1,0 +1,22 @@
+[
+  {
+    "id": "susut",
+    "name": "Susut",
+    "regency": "kabupaten-bangli"
+  },
+  {
+    "id": "bangli",
+    "name": "Bangli",
+    "regency": "kabupaten-bangli"
+  },
+  {
+    "id": "tembuku",
+    "name": "Tembuku",
+    "regency": "kabupaten-bangli"
+  },
+  {
+    "id": "kintamani",
+    "name": "Kintamani",
+    "regency": "kabupaten-bangli"
+  }
+]

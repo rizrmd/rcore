@@ -1,0 +1,287 @@
+[
+  {
+    "id": "leupon-siren",
+    "name": "Leupon Siren",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "ulee-buket",
+    "name": "Ulee Buket",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "blang-pie",
+    "name": "Blang Pie",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "blang-trieng",
+    "name": "Blang Trieng",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "cot-barat",
+    "name": "Cot Barat",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "plu-pakam",
+    "name": "Plu Pakam",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "tumpok-aceh",
+    "name": "Tumpok Aceh",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "cot-dah",
+    "name": "Cot Dah",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "alue-sijuek",
+    "name": "Alue Sijuek",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "hagu",
+    "name": "Hagu",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "bayi",
+    "name": "Bayi",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "leu-hong",
+    "name": "Leu Hong",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "punti-seuleumak-barat",
+    "name": "Punti Seuleumak Barat",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "serba-jaman-tunong",
+    "name": "Serba Jaman Tunong",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "alue-gampong",
+    "name": "Alue Gampong",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "matang-baloy",
+    "name": "Matang Baloy",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "teupin-me",
+    "name": "Teupin Me",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "blang",
+    "name": "Blang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "matang-mane",
+    "name": "Matang Mane",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "tanjong-mesjid",
+    "name": "Tanjong Mesjid",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "keutapang",
+    "name": "Keutapang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "ceubrek",
+    "name": "Ceubrek",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "manyang-seuleumak-barat",
+    "name": "Manyang Seuleumak Barat",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "trieng",
+    "name": "Trieng",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "serba-jaman-baroh",
+    "name": "Serba Jaman Baroh",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "ujong-baroh-sb",
+    "name": "Ujong Baroh Sb",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "blang-jruen",
+    "name": "Blang Jruen",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "rayeuk-kuta",
+    "name": "Rayeuk Kuta",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "paya",
+    "name": "Paya",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "rangkaya",
+    "name": "Rangkaya",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "rayeuk-meunye",
+    "name": "Rayeuk Meunye",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "keude-blang-jruen",
+    "name": "Keude Blang Jruen",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "ampeh",
+    "name": "Ampeh",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "tutong",
+    "name": "Tutong",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "alue",
+    "name": "Alue",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "teungoh-beureghang",
+    "name": "Teungoh Beureghang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "jeumpa-beureghang",
+    "name": "Jeumpa Beureghang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "pante",
+    "name": "Pante",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "tgk-dibale",
+    "name": "Tgk Dibale",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "serba-jaman",
+    "name": "Serba Jaman",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "rayeuk-naleung",
+    "name": "Rayeuk Naleung",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "blang-bidok",
+    "name": "Blang Bidok",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "punti-pulo-agam",
+    "name": "Punti Pulo Agam",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "teungoh-pulo-agam",
+    "name": "Teungoh Pulo Agam",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "rawa",
+    "name": "Rawa",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "matang-ben",
+    "name": "Matang Ben",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "ujong-baroh-beureghang",
+    "name": "Ujong Baroh Beureghang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "manyang-tunong",
+    "name": "Manyang Tunong",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "alue-pangkat",
+    "name": "Alue Pangkat",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "pulo-blang",
+    "name": "Pulo Blang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "matang-ceubrek",
+    "name": "Matang Ceubrek",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "hueng",
+    "name": "Hueng",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "deng",
+    "name": "Deng",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "paya-beurandang",
+    "name": "Paya Beurandang",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "pulo-u",
+    "name": "Pulo U",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "alue-keujruen",
+    "name": "Alue Keujruen",
+    "district": "tanah-luas"
+  },
+  {
+    "id": "buket-makarti",
+    "name": "Buket Makarti",
+    "district": "tanah-luas"
+  }
+]

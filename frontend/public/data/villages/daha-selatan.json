@@ -1,0 +1,82 @@
+[
+  {
+    "id": "muning-dalam",
+    "name": "Muning Dalam",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "muning-baru",
+    "name": "Muning Baru",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "muning-tengah",
+    "name": "Muning Tengah",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "samuda",
+    "name": "Samuda",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "banua-hanyar",
+    "name": "Banua Hanyar",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "parigi",
+    "name": "Parigi",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "baruh-jaya",
+    "name": "Baruh Jaya",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "tambangan",
+    "name": "Tambangan",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "habirau-tengah",
+    "name": "Habirau Tengah",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "habirau",
+    "name": "Habirau",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "tumbukan-banyu",
+    "name": "Tumbukan Banyu",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "banjar-baru",
+    "name": "Banjar Baru",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "bayanan",
+    "name": "Bayanan",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "pandan-sari",
+    "name": "Pandan Sari",
+    "district": "daha-selatan"
+  },
+  {
+    "id": "pihanin-raya",
+    "name": "Pihanin Raya",
+    "district": "daha-selatan"
+  }
+]

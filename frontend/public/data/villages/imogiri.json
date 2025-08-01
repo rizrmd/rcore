@@ -1,0 +1,42 @@
+[
+  {
+    "id": "selopamioro",
+    "name": "Selopamioro",
+    "district": "imogiri"
+  },
+  {
+    "id": "sriharjo",
+    "name": "Sriharjo",
+    "district": "imogiri"
+  },
+  {
+    "id": "kebon-agung",
+    "name": "Kebon Agung",
+    "district": "imogiri"
+  },
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "imogiri"
+  },
+  {
+    "id": "girirejo",
+    "name": "Girirejo",
+    "district": "imogiri"
+  },
+  {
+    "id": "karangtalun",
+    "name": "Karangtalun",
+    "district": "imogiri"
+  },
+  {
+    "id": "imogiri",
+    "name": "Imogiri",
+    "district": "imogiri"
+  },
+  {
+    "id": "wukirsari",
+    "name": "Wukirsari",
+    "district": "imogiri"
+  }
+]

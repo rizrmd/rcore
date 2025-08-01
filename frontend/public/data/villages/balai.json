@@ -1,0 +1,57 @@
+[
+  {
+    "id": "semoncol",
+    "name": "Semoncol",
+    "district": "balai"
+  },
+  {
+    "id": "mak-kawing",
+    "name": "Mak Kawing",
+    "district": "balai"
+  },
+  {
+    "id": "bulu-bala",
+    "name": "Bulu Bala",
+    "district": "balai"
+  },
+  {
+    "id": "temiang-taba",
+    "name": "Temiang Taba",
+    "district": "balai"
+  },
+  {
+    "id": "senyabang",
+    "name": "Senyabang",
+    "district": "balai"
+  },
+  {
+    "id": "kebadu",
+    "name": "Kebadu",
+    "district": "balai"
+  },
+  {
+    "id": "hilir",
+    "name": "Hilir",
+    "district": "balai"
+  },
+  {
+    "id": "temiang-mali",
+    "name": "Temiang Mali",
+    "district": "balai"
+  },
+  {
+    "id": "tae",
+    "name": "Tae",
+    "district": "balai"
+  },
+  {
+    "id": "padi-kaye",
+    "name": "Padi Kaye",
+    "district": "balai"
+  },
+  {
+    "id": "empirang-ujung",
+    "name": "Empirang Ujung",
+    "district": "balai"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "karangreja"
+  },
+  {
+    "id": "kutabawa",
+    "name": "Kutabawa",
+    "district": "karangreja"
+  },
+  {
+    "id": "siwarak",
+    "name": "Siwarak",
+    "district": "karangreja"
+  },
+  {
+    "id": "tlahab-lor",
+    "name": "Tlahab Lor",
+    "district": "karangreja"
+  },
+  {
+    "id": "tlahab-kidul",
+    "name": "Tlahab Kidul",
+    "district": "karangreja"
+  },
+  {
+    "id": "karangreja",
+    "name": "Karangreja",
+    "district": "karangreja"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "karangreja"
+  }
+]

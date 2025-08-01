@@ -1,0 +1,52 @@
+[
+  {
+    "id": "plosoarang",
+    "name": "Plosoarang",
+    "district": "sanankulon"
+  },
+  {
+    "id": "tuliskriyo",
+    "name": "Tuliskriyo",
+    "district": "sanankulon"
+  },
+  {
+    "id": "bendowulung",
+    "name": "Bendowulung",
+    "district": "sanankulon"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "sanankulon"
+  },
+  {
+    "id": "bendosari",
+    "name": "Bendosari",
+    "district": "sanankulon"
+  },
+  {
+    "id": "sanankulon",
+    "name": "Sanankulon",
+    "district": "sanankulon"
+  },
+  {
+    "id": "kalipucung",
+    "name": "Kalipucung",
+    "district": "sanankulon"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "sanankulon"
+  },
+  {
+    "id": "jeding",
+    "name": "Jeding",
+    "district": "sanankulon"
+  },
+  {
+    "id": "sumberingin",
+    "name": "Sumberingin",
+    "district": "sanankulon"
+  }
+]

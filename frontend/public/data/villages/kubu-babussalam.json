@@ -1,0 +1,62 @@
+[
+  {
+    "id": "teluk-nilap",
+    "name": "Teluk Nilap",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "sungai-majo",
+    "name": "Sungai Majo",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "rantau-panjang-kiri",
+    "name": "Rantau Panjang Kiri",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "rantau-panjang-kiri-hilir",
+    "name": "Rantau Panjang Kiri Hilir",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "jojol",
+    "name": "Jojol",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "sungai-panji-panji",
+    "name": "Sungai Panji Panji",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "pulau-halang-belakang",
+    "name": "Pulau Halang Belakang",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "pulau-halang-muka",
+    "name": "Pulau Halang Muka",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "sungai-majo-pusako",
+    "name": "Sungai Majo Pusako",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "pulau-halang-hulu",
+    "name": "Pulau Halang Hulu",
+    "district": "kubu-babussalam"
+  },
+  {
+    "id": "teluk-nilap-jaya",
+    "name": "Teluk Nilap Jaya",
+    "district": "kubu-babussalam"
+  }
+]

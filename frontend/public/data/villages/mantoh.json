@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lonas",
+    "name": "Lonas",
+    "district": "mantoh"
+  },
+  {
+    "id": "boras",
+    "name": "Boras",
+    "district": "mantoh"
+  },
+  {
+    "id": "sulubombong",
+    "name": "Sulubombong",
+    "district": "mantoh"
+  },
+  {
+    "id": "bollo",
+    "name": "Bollo",
+    "district": "mantoh"
+  },
+  {
+    "id": "bombanon",
+    "name": "Bombanon",
+    "district": "mantoh"
+  },
+  {
+    "id": "binotik",
+    "name": "Binotik",
+    "district": "mantoh"
+  },
+  {
+    "id": "sobol",
+    "name": "Sobol",
+    "district": "mantoh"
+  },
+  {
+    "id": "pondan",
+    "name": "Pondan",
+    "district": "mantoh"
+  },
+  {
+    "id": "garuga",
+    "name": "Garuga",
+    "district": "mantoh"
+  },
+  {
+    "id": "sobol-baru",
+    "name": "Sobol Baru",
+    "district": "mantoh"
+  }
+]

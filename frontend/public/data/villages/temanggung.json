@@ -1,0 +1,107 @@
+[
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "temanggung"
+  },
+  {
+    "id": "mudal",
+    "name": "Mudal",
+    "district": "temanggung"
+  },
+  {
+    "id": "nampirejo",
+    "name": "Nampirejo",
+    "district": "temanggung"
+  },
+  {
+    "id": "madureso",
+    "name": "Madureso",
+    "district": "temanggung"
+  },
+  {
+    "id": "kowangan",
+    "name": "Kowangan",
+    "district": "temanggung"
+  },
+  {
+    "id": "jampirejo",
+    "name": "Jampirejo",
+    "district": "temanggung"
+  },
+  {
+    "id": "giyanti",
+    "name": "Giyanti",
+    "district": "temanggung"
+  },
+  {
+    "id": "gilingsari",
+    "name": "Gilingsari",
+    "district": "temanggung"
+  },
+  {
+    "id": "kebonsari",
+    "name": "Kebonsari",
+    "district": "temanggung"
+  },
+  {
+    "id": "manding",
+    "name": "Manding",
+    "district": "temanggung"
+  },
+  {
+    "id": "temanggung-ii",
+    "name": "Temanggung Ii",
+    "district": "temanggung"
+  },
+  {
+    "id": "temanggung-i",
+    "name": "Temanggung I",
+    "district": "temanggung"
+  },
+  {
+    "id": "jampiroso",
+    "name": "Jampiroso",
+    "district": "temanggung"
+  },
+  {
+    "id": "kertosari",
+    "name": "Kertosari",
+    "district": "temanggung"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "temanggung"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "temanggung"
+  },
+  {
+    "id": "jurang",
+    "name": "Jurang",
+    "district": "temanggung"
+  },
+  {
+    "id": "tlogorejo",
+    "name": "Tlogorejo",
+    "district": "temanggung"
+  },
+  {
+    "id": "joho",
+    "name": "Joho",
+    "district": "temanggung"
+  },
+  {
+    "id": "walitelon-selatan",
+    "name": "Walitelon Selatan",
+    "district": "temanggung"
+  },
+  {
+    "id": "walitelon-utara",
+    "name": "Walitelon Utara",
+    "district": "temanggung"
+  }
+]

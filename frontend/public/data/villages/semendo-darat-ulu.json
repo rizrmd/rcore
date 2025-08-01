@@ -1,0 +1,52 @@
+[
+  {
+    "id": "segamit",
+    "name": "Segamit",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "cahaya-alam",
+    "name": "Cahaya Alam",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "tanjung-tiga",
+    "name": "Tanjung Tiga",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "datar-lebar",
+    "name": "Datar Lebar",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "siring-agung",
+    "name": "Siring Agung",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "aremantai",
+    "name": "Aremantai",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "pelakat",
+    "name": "Pelakat",
+    "district": "semendo-darat-ulu"
+  },
+  {
+    "id": "danau-gerak",
+    "name": "Danau Gerak",
+    "district": "semendo-darat-ulu"
+  }
+]

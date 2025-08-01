@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mestong",
+    "name": "Mestong",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "sungai-bahar",
+    "name": "Sungai Bahar",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "bahar-selatan",
+    "name": "Bahar Selatan",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "bahar-utara",
+    "name": "Bahar Utara",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "kumpeh-ulu",
+    "name": "Kumpeh Ulu",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "sungai-gelam",
+    "name": "Sungai Gelam",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "kumpeh",
+    "name": "Kumpeh",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "maro-sebo",
+    "name": "Maro Sebo",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "taman-rajo",
+    "name": "Taman Rajo",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "jambi-luar-kota",
+    "name": "Jambi Luar Kota",
+    "regency": "kabupaten-muaro-jambi"
+  },
+  {
+    "id": "sekernan",
+    "name": "Sekernan",
+    "regency": "kabupaten-muaro-jambi"
+  }
+]

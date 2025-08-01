@@ -1,0 +1,107 @@
+[
+  {
+    "id": "pondowan",
+    "name": "Pondowan",
+    "district": "tayu"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "tayu"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "tayu"
+  },
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "tayu"
+  },
+  {
+    "id": "sendangrejo",
+    "name": "Sendangrejo",
+    "district": "tayu"
+  },
+  {
+    "id": "jepat-kidul",
+    "name": "Jepat Kidul",
+    "district": "tayu"
+  },
+  {
+    "id": "tunggulsari",
+    "name": "Tunggulsari",
+    "district": "tayu"
+  },
+  {
+    "id": "jepat-lor",
+    "name": "Jepat Lor",
+    "district": "tayu"
+  },
+  {
+    "id": "tendas",
+    "name": "Tendas",
+    "district": "tayu"
+  },
+  {
+    "id": "keboromo",
+    "name": "Keboromo",
+    "district": "tayu"
+  },
+  {
+    "id": "sambiroto",
+    "name": "Sambiroto",
+    "district": "tayu"
+  },
+  {
+    "id": "tayu-wetan",
+    "name": "Tayu Wetan",
+    "district": "tayu"
+  },
+  {
+    "id": "tayu-kulon",
+    "name": "Tayu Kulon",
+    "district": "tayu"
+  },
+  {
+    "id": "pundenrejo",
+    "name": "Pundenrejo",
+    "district": "tayu"
+  },
+  {
+    "id": "kedungbang",
+    "name": "Kedungbang",
+    "district": "tayu"
+  },
+  {
+    "id": "bendokaton-kidul",
+    "name": "Bendokaton Kidul",
+    "district": "tayu"
+  },
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "tayu"
+  },
+  {
+    "id": "bulungan",
+    "name": "Bulungan",
+    "district": "tayu"
+  },
+  {
+    "id": "luwang",
+    "name": "Luwang",
+    "district": "tayu"
+  },
+  {
+    "id": "dororejo",
+    "name": "Dororejo",
+    "district": "tayu"
+  },
+  {
+    "id": "kalikalong",
+    "name": "Kalikalong",
+    "district": "tayu"
+  }
+]

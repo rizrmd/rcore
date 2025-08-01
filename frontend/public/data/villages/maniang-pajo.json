@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tangkoli",
+    "name": "Tangkoli",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "dua-limpoe",
+    "name": "Dua Limpoe",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "anabanua",
+    "name": "Anabanua",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "abbanuange",
+    "name": "Abbanuange",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "mattirowalie",
+    "name": "Mattirowalie",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "kalola",
+    "name": "Kalola",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "sogi",
+    "name": "Sogi",
+    "district": "maniang-pajo"
+  },
+  {
+    "id": "minanga-tellue",
+    "name": "Minanga Tellue",
+    "district": "maniang-pajo"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dowora",
+    "name": "Dowora",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "kalaodi",
+    "name": "Kalaodi",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "mafututu",
+    "name": "Mafututu",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "tosa",
+    "name": "Tosa",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "cobodoe",
+    "name": "Cobodoe",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "doyado",
+    "name": "Doyado",
+    "district": "tidore-timur"
+  },
+  {
+    "id": "jikocobo",
+    "name": "Jikocobo",
+    "district": "tidore-timur"
+  }
+]

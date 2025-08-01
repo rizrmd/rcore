@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sijambi",
+    "name": "Sijambi",
+    "district": "datuk-bandar"
+  },
+  {
+    "id": "pahang",
+    "name": "Pahang",
+    "district": "datuk-bandar"
+  },
+  {
+    "id": "gading",
+    "name": "Gading",
+    "district": "datuk-bandar"
+  },
+  {
+    "id": "sirantau",
+    "name": "Sirantau",
+    "district": "datuk-bandar"
+  },
+  {
+    "id": "pantai-johor",
+    "name": "Pantai Johor",
+    "district": "datuk-bandar"
+  }
+]

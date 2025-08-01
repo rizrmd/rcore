@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cilukrak",
+    "name": "Cilukrak",
+    "district": "palimanan"
+  },
+  {
+    "id": "balerante",
+    "name": "Balerante",
+    "district": "palimanan"
+  },
+  {
+    "id": "panongan",
+    "name": "Panongan",
+    "district": "palimanan"
+  },
+  {
+    "id": "beberan",
+    "name": "Beberan",
+    "district": "palimanan"
+  },
+  {
+    "id": "semplo",
+    "name": "Semplo",
+    "district": "palimanan"
+  },
+  {
+    "id": "palimanan-timur",
+    "name": "Palimanan Timur",
+    "district": "palimanan"
+  },
+  {
+    "id": "pegagan",
+    "name": "Pegagan",
+    "district": "palimanan"
+  },
+  {
+    "id": "lungbenda",
+    "name": "Lungbenda",
+    "district": "palimanan"
+  },
+  {
+    "id": "ciawi",
+    "name": "Ciawi",
+    "district": "palimanan"
+  },
+  {
+    "id": "cengkuang",
+    "name": "Cengkuang",
+    "district": "palimanan"
+  },
+  {
+    "id": "tegalkarang",
+    "name": "Tegalkarang",
+    "district": "palimanan"
+  }
+]

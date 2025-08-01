@@ -1,0 +1,57 @@
+[
+  {
+    "id": "karangdoro",
+    "name": "Karangdoro",
+    "district": "tegalsari"
+  },
+  {
+    "id": "karangmulyo",
+    "name": "Karangmulyo",
+    "district": "tegalsari"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "tegalsari"
+  },
+  {
+    "id": "dasri",
+    "name": "Dasri",
+    "district": "tegalsari"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "tegalsari"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "tegalsari"
+  },
+  {
+    "id": "keputran",
+    "name": "Keputran",
+    "district": "tegalsari"
+  },
+  {
+    "id": "dr-sutomo",
+    "name": "Dr. Sutomo",
+    "district": "tegalsari"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "tegalsari"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "tegalsari"
+  },
+  {
+    "id": "kedungdoro",
+    "name": "Kedungdoro",
+    "district": "tegalsari"
+  }
+]

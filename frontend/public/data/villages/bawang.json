@@ -1,0 +1,182 @@
+[
+  {
+    "id": "wanadri",
+    "name": "Wanadri",
+    "district": "bawang"
+  },
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "bawang"
+  },
+  {
+    "id": "majalengka",
+    "name": "Majalengka",
+    "district": "bawang"
+  },
+  {
+    "id": "wiramastra",
+    "name": "Wiramastra",
+    "district": "bawang"
+  },
+  {
+    "id": "kutayasa",
+    "name": "Kutayasa",
+    "district": "bawang"
+  },
+  {
+    "id": "winong",
+    "name": "Winong",
+    "district": "bawang"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "bawang"
+  },
+  {
+    "id": "watuurip",
+    "name": "Watuurip",
+    "district": "bawang"
+  },
+  {
+    "id": "masaran",
+    "name": "Masaran",
+    "district": "bawang"
+  },
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "bawang"
+  },
+  {
+    "id": "mantrianom",
+    "name": "Mantrianom",
+    "district": "bawang"
+  },
+  {
+    "id": "binorong",
+    "name": "Binorong",
+    "district": "bawang"
+  },
+  {
+    "id": "joho",
+    "name": "Joho",
+    "district": "bawang"
+  },
+  {
+    "id": "bawang",
+    "name": "Bawang",
+    "district": "bawang"
+  },
+  {
+    "id": "bandingan",
+    "name": "Bandingan",
+    "district": "bawang"
+  },
+  {
+    "id": "blambangan",
+    "name": "Blambangan",
+    "district": "bawang"
+  },
+  {
+    "id": "pucang",
+    "name": "Pucang",
+    "district": "bawang"
+  },
+  {
+    "id": "pranten",
+    "name": "Pranten",
+    "district": "bawang"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "bawang"
+  },
+  {
+    "id": "jambangan",
+    "name": "Jambangan",
+    "district": "bawang"
+  },
+  {
+    "id": "kebaturan",
+    "name": "Kebaturan",
+    "district": "bawang"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "bawang"
+  },
+  {
+    "id": "sangubanyu",
+    "name": "Sangubanyu",
+    "district": "bawang"
+  },
+  {
+    "id": "wono-sari",
+    "name": "Wono Sari",
+    "district": "bawang"
+  },
+  {
+    "id": "jlamprang",
+    "name": "Jlamprang",
+    "district": "bawang"
+  },
+  {
+    "id": "bawang",
+    "name": "Bawang",
+    "district": "bawang"
+  },
+  {
+    "id": "candigugur",
+    "name": "Candigugur",
+    "district": "bawang"
+  },
+  {
+    "id": "pangempon",
+    "name": "Pangempon",
+    "district": "bawang"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "bawang"
+  },
+  {
+    "id": "surjo",
+    "name": "Surjo",
+    "district": "bawang"
+  },
+  {
+    "id": "soka",
+    "name": "Soka",
+    "district": "bawang"
+  },
+  {
+    "id": "sibebek",
+    "name": "Sibebek",
+    "district": "bawang"
+  },
+  {
+    "id": "getas",
+    "name": "Getas",
+    "district": "bawang"
+  },
+  {
+    "id": "pasusukan",
+    "name": "Pasusukan",
+    "district": "bawang"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "bawang"
+  },
+  {
+    "id": "purbo",
+    "name": "Purbo",
+    "district": "bawang"
+  }
+]

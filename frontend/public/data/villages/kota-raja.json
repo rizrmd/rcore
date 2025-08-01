@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bakunase",
+    "name": "Bakunase",
+    "district": "kota-raja"
+  },
+  {
+    "id": "bakunase-ii",
+    "name": "Bakunase Ii",
+    "district": "kota-raja"
+  },
+  {
+    "id": "air-nona",
+    "name": "Air Nona",
+    "district": "kota-raja"
+  },
+  {
+    "id": "naikoten-i",
+    "name": "Naikoten I",
+    "district": "kota-raja"
+  },
+  {
+    "id": "naikoten-ii",
+    "name": "Naikoten Ii",
+    "district": "kota-raja"
+  },
+  {
+    "id": "kuanino",
+    "name": "Kuanino",
+    "district": "kota-raja"
+  },
+  {
+    "id": "fontein",
+    "name": "Fontein",
+    "district": "kota-raja"
+  }
+]

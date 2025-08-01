@@ -1,0 +1,52 @@
+[
+  {
+    "id": "numba",
+    "name": "Numba",
+    "district": "numba"
+  },
+  {
+    "id": "baliminggi",
+    "name": "Baliminggi",
+    "district": "numba"
+  },
+  {
+    "id": "kuma",
+    "name": "Kuma",
+    "district": "numba"
+  },
+  {
+    "id": "yugumena",
+    "name": "Yugumena",
+    "district": "numba"
+  },
+  {
+    "id": "yalogo",
+    "name": "Yalogo",
+    "district": "numba"
+  },
+  {
+    "id": "yiragame",
+    "name": "Yiragame",
+    "district": "numba"
+  },
+  {
+    "id": "tingwineri",
+    "name": "Tingwineri",
+    "district": "numba"
+  },
+  {
+    "id": "guniki",
+    "name": "Guniki",
+    "district": "numba"
+  },
+  {
+    "id": "karagigelok",
+    "name": "Karagigelok",
+    "district": "numba"
+  },
+  {
+    "id": "jinuwanu",
+    "name": "Jinuwanu",
+    "district": "numba"
+  }
+]

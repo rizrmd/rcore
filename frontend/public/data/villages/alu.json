@@ -1,0 +1,42 @@
+[
+  {
+    "id": "saragian",
+    "name": "Saragian",
+    "district": "alu"
+  },
+  {
+    "id": "mombi",
+    "name": "Mombi",
+    "district": "alu"
+  },
+  {
+    "id": "petoosang",
+    "name": "Petoosang",
+    "district": "alu"
+  },
+  {
+    "id": "kalumammang",
+    "name": "Kalumammang",
+    "district": "alu"
+  },
+  {
+    "id": "pao-pao",
+    "name": "Pao Pao",
+    "district": "alu"
+  },
+  {
+    "id": "pupuuring",
+    "name": "Pupuuring",
+    "district": "alu"
+  },
+  {
+    "id": "sayoang",
+    "name": "Sayoang",
+    "district": "alu"
+  },
+  {
+    "id": "alu",
+    "name": "Alu",
+    "district": "alu"
+  }
+]

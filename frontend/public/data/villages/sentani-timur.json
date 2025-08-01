@@ -1,0 +1,37 @@
+[
+  {
+    "id": "puai",
+    "name": "Puai",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "itakiwa",
+    "name": "Itakiwa",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "asei-besar",
+    "name": "Asei Besar",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "asei-kecil",
+    "name": "Asei Kecil",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "nolokla",
+    "name": "Nolokla",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "nendali",
+    "name": "Nendali",
+    "district": "sentani-timur"
+  },
+  {
+    "id": "yokiwa",
+    "name": "Yokiwa",
+    "district": "sentani-timur"
+  }
+]

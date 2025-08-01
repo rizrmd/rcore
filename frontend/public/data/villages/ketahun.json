@@ -1,0 +1,57 @@
+[
+  {
+    "id": "urai",
+    "name": "Urai",
+    "district": "ketahun"
+  },
+  {
+    "id": "pasar-ketahun",
+    "name": "Pasar Ketahun",
+    "district": "ketahun"
+  },
+  {
+    "id": "giri-kencana",
+    "name": "Giri Kencana",
+    "district": "ketahun"
+  },
+  {
+    "id": "kuala-lelangi",
+    "name": "Kuala Lelangi",
+    "district": "ketahun"
+  },
+  {
+    "id": "talang-baru",
+    "name": "Talang Baru",
+    "district": "ketahun"
+  },
+  {
+    "id": "dusun-raja",
+    "name": "Dusun Raja",
+    "district": "ketahun"
+  },
+  {
+    "id": "fajar-baru",
+    "name": "Fajar Baru",
+    "district": "ketahun"
+  },
+  {
+    "id": "lubuk-mindai",
+    "name": "Lubuk Mindai",
+    "district": "ketahun"
+  },
+  {
+    "id": "melati-harjo",
+    "name": "Melati Harjo",
+    "district": "ketahun"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "ketahun"
+  },
+  {
+    "id": "bukit-tinggi",
+    "name": "Bukit Tinggi",
+    "district": "ketahun"
+  }
+]

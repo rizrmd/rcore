@@ -1,0 +1,57 @@
+[
+  {
+    "id": "loang-maka",
+    "name": "Loang Maka",
+    "district": "janapria"
+  },
+  {
+    "id": "langko",
+    "name": "Langko",
+    "district": "janapria"
+  },
+  {
+    "id": "selebung-rembiga",
+    "name": "Selebung Rembiga",
+    "district": "janapria"
+  },
+  {
+    "id": "bakan",
+    "name": "Bakan",
+    "district": "janapria"
+  },
+  {
+    "id": "durian",
+    "name": "Durian",
+    "district": "janapria"
+  },
+  {
+    "id": "janapria",
+    "name": "Janapria",
+    "district": "janapria"
+  },
+  {
+    "id": "saba",
+    "name": "Saba",
+    "district": "janapria"
+  },
+  {
+    "id": "lekor",
+    "name": "Lekor",
+    "district": "janapria"
+  },
+  {
+    "id": "kerembong",
+    "name": "Kerembong",
+    "district": "janapria"
+  },
+  {
+    "id": "jango",
+    "name": "Jango",
+    "district": "janapria"
+  },
+  {
+    "id": "setuta",
+    "name": "Setuta",
+    "district": "janapria"
+  }
+]

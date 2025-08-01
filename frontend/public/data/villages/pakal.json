@@ -1,0 +1,22 @@
+[
+  {
+    "id": "babat-jerawat",
+    "name": "Babat Jerawat",
+    "district": "pakal"
+  },
+  {
+    "id": "pakal",
+    "name": "Pakal",
+    "district": "pakal"
+  },
+  {
+    "id": "benowo",
+    "name": "Benowo",
+    "district": "pakal"
+  },
+  {
+    "id": "sumberrejo",
+    "name": "Sumberrejo",
+    "district": "pakal"
+  }
+]

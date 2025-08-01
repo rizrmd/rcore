@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dorari-isa",
+    "name": "Dorari Isa",
+    "district": "pulau-hiri"
+  },
+  {
+    "id": "tafraka",
+    "name": "Tafraka",
+    "district": "pulau-hiri"
+  },
+  {
+    "id": "togolobe",
+    "name": "Togolobe",
+    "district": "pulau-hiri"
+  },
+  {
+    "id": "mado",
+    "name": "Mado",
+    "district": "pulau-hiri"
+  },
+  {
+    "id": "faudu",
+    "name": "Faudu",
+    "district": "pulau-hiri"
+  },
+  {
+    "id": "tomajiko",
+    "name": "Tomajiko",
+    "district": "pulau-hiri"
+  }
+]

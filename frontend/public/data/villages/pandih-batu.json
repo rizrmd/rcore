@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dandang",
+    "name": "Dandang",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "talio",
+    "name": "Talio",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "gadabung",
+    "name": "Gadabung",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "belanti-siam",
+    "name": "Belanti Siam",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "pangkoh-hilir",
+    "name": "Pangkoh Hilir",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "talio-muara",
+    "name": "Talio Muara",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "talio-hulu",
+    "name": "Talio Hulu",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "pangkoh-sari",
+    "name": "Pangkoh Sari",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "kantan-muara",
+    "name": "Kantan Muara",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "pangkoh-hulu",
+    "name": "Pangkoh Hulu",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "sanggang",
+    "name": "Sanggang",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "pantik",
+    "name": "Pantik",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "kantan-dalam",
+    "name": "Kantan Dalam",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "kantan-atas",
+    "name": "Kantan Atas",
+    "district": "pandih-batu"
+  },
+  {
+    "id": "karya-bersama",
+    "name": "Karya Bersama",
+    "district": "pandih-batu"
+  }
+]

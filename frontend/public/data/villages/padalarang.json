@@ -1,0 +1,52 @@
+[
+  {
+    "id": "laksanamekar",
+    "name": "Laksanamekar",
+    "district": "padalarang"
+  },
+  {
+    "id": "cimerang",
+    "name": "Cimerang",
+    "district": "padalarang"
+  },
+  {
+    "id": "cipeundeuy",
+    "name": "Cipeundeuy",
+    "district": "padalarang"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "padalarang"
+  },
+  {
+    "id": "jayamekar",
+    "name": "Jayamekar",
+    "district": "padalarang"
+  },
+  {
+    "id": "padalarang",
+    "name": "Padalarang",
+    "district": "padalarang"
+  },
+  {
+    "id": "kertamulya",
+    "name": "Kertamulya",
+    "district": "padalarang"
+  },
+  {
+    "id": "ciburuy",
+    "name": "Ciburuy",
+    "district": "padalarang"
+  },
+  {
+    "id": "tagogapu",
+    "name": "Tagogapu",
+    "district": "padalarang"
+  },
+  {
+    "id": "cempakamekar",
+    "name": "Cempakamekar",
+    "district": "padalarang"
+  }
+]

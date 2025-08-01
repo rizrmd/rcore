@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jatipurus",
+    "name": "Jatipurus",
+    "district": "poncowarno"
+  },
+  {
+    "id": "blater",
+    "name": "Blater",
+    "district": "poncowarno"
+  },
+  {
+    "id": "poncowarno",
+    "name": "Poncowarno",
+    "district": "poncowarno"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "poncowarno"
+  },
+  {
+    "id": "jembangan",
+    "name": "Jembangan",
+    "district": "poncowarno"
+  },
+  {
+    "id": "kedungdowo",
+    "name": "Kedungdowo",
+    "district": "poncowarno"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "poncowarno"
+  },
+  {
+    "id": "tirtomoyo",
+    "name": "Tirtomoyo",
+    "district": "poncowarno"
+  },
+  {
+    "id": "soka",
+    "name": "Soka",
+    "district": "poncowarno"
+  },
+  {
+    "id": "kebapangan",
+    "name": "Kebapangan",
+    "district": "poncowarno"
+  }
+]

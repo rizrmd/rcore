@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jaya-makmur",
+    "name": "Jaya Makmur",
+    "district": "labangka"
+  },
+  {
+    "id": "sekokat",
+    "name": "Sekokat",
+    "district": "labangka"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "labangka"
+  },
+  {
+    "id": "labangka",
+    "name": "Labangka",
+    "district": "labangka"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "labangka"
+  }
+]

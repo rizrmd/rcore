@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kambayang",
+    "name": "Kambayang",
+    "district": "dampelas"
+  },
+  {
+    "id": "budimukti",
+    "name": "Budimukti",
+    "district": "dampelas"
+  },
+  {
+    "id": "talaga",
+    "name": "Talaga",
+    "district": "dampelas"
+  },
+  {
+    "id": "sabang",
+    "name": "Sabang",
+    "district": "dampelas"
+  },
+  {
+    "id": "sioyong",
+    "name": "Sioyong",
+    "district": "dampelas"
+  },
+  {
+    "id": "karyamukti",
+    "name": "Karyamukti",
+    "district": "dampelas"
+  },
+  {
+    "id": "panii",
+    "name": "Panii",
+    "district": "dampelas"
+  },
+  {
+    "id": "ponggerang",
+    "name": "Ponggerang",
+    "district": "dampelas"
+  },
+  {
+    "id": "malonas",
+    "name": "Malonas",
+    "district": "dampelas"
+  },
+  {
+    "id": "rerang",
+    "name": "Rerang",
+    "district": "dampelas"
+  },
+  {
+    "id": "lemba-mukti",
+    "name": "Lemba Mukti",
+    "district": "dampelas"
+  },
+  {
+    "id": "parisan-agung",
+    "name": "Parisan Agung",
+    "district": "dampelas"
+  },
+  {
+    "id": "long",
+    "name": "Long",
+    "district": "dampelas"
+  }
+]

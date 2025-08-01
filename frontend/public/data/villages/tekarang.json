@@ -1,0 +1,37 @@
+[
+  {
+    "id": "matang-segarau",
+    "name": "Matang Segarau",
+    "district": "tekarang"
+  },
+  {
+    "id": "rambayan",
+    "name": "Rambayan",
+    "district": "tekarang"
+  },
+  {
+    "id": "sari-makmur",
+    "name": "Sari Makmur",
+    "district": "tekarang"
+  },
+  {
+    "id": "tekarang",
+    "name": "Tekarang",
+    "district": "tekarang"
+  },
+  {
+    "id": "sempadian",
+    "name": "Sempadian",
+    "district": "tekarang"
+  },
+  {
+    "id": "cepala",
+    "name": "Cepala",
+    "district": "tekarang"
+  },
+  {
+    "id": "merubong",
+    "name": "Merubong",
+    "district": "tekarang"
+  }
+]

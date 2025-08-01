@@ -1,0 +1,52 @@
+[
+  {
+    "id": "medani",
+    "name": "Medani",
+    "district": "cluwak"
+  },
+  {
+    "id": "plaosan",
+    "name": "Plaosan",
+    "district": "cluwak"
+  },
+  {
+    "id": "payak",
+    "name": "Payak",
+    "district": "cluwak"
+  },
+  {
+    "id": "sirahan",
+    "name": "Sirahan",
+    "district": "cluwak"
+  },
+  {
+    "id": "mojo",
+    "name": "Mojo",
+    "district": "cluwak"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "cluwak"
+  },
+  {
+    "id": "ngawen",
+    "name": "Ngawen",
+    "district": "cluwak"
+  },
+  {
+    "id": "ngablak",
+    "name": "Ngablak",
+    "district": "cluwak"
+  },
+  {
+    "id": "gesengan",
+    "name": "Gesengan",
+    "district": "cluwak"
+  },
+  {
+    "id": "gerit",
+    "name": "Gerit",
+    "district": "cluwak"
+  }
+]

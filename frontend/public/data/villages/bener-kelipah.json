@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bener-lukup-ii",
+    "name": "Bener Lukup Ii",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "bener-kelipah-utara",
+    "name": "Bener Kelipah Utara",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "bener-kelipah-selatan",
+    "name": "Bener Kelipah Selatan",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "bintang-musara",
+    "name": "Bintang Musara",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "bandar-jaya",
+    "name": "Bandar Jaya",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "nosar-tawar-jaya",
+    "name": "Nosar Tawar Jaya",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "jongok-meluem",
+    "name": "Jongok Meluem",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "suku-bener",
+    "name": "Suku Bener",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "lot-bener-kelipah",
+    "name": "Lot Bener Kelipah",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "kala-tenang",
+    "name": "Kala Tenang",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "gunung-musara",
+    "name": "Gunung Musara",
+    "district": "bener-kelipah"
+  },
+  {
+    "id": "nosar-baru",
+    "name": "Nosar Baru",
+    "district": "bener-kelipah"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "weda",
+    "name": "Weda",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "weda-selatan",
+    "name": "Weda Selatan",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "weda-utara",
+    "name": "Weda Utara",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "weda-tengah",
+    "name": "Weda Tengah",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "weda-timur",
+    "name": "Weda Timur",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "pulau-gebe",
+    "name": "Pulau Gebe",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "patani",
+    "name": "Patani",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "patani-utara",
+    "name": "Patani Utara",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "patani-barat",
+    "name": "Patani Barat",
+    "regency": "kabupaten-halmahera-tengah"
+  },
+  {
+    "id": "patani-timur",
+    "name": "Patani Timur",
+    "regency": "kabupaten-halmahera-tengah"
+  }
+]

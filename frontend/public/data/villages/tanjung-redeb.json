@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sungai-bedungun",
+    "name": "Sungai Bedungun",
+    "district": "tanjung-redeb"
+  },
+  {
+    "id": "tanjung-redeb",
+    "name": "Tanjung Redeb",
+    "district": "tanjung-redeb"
+  },
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "district": "tanjung-redeb"
+  },
+  {
+    "id": "gunung-panjang",
+    "name": "Gunung Panjang",
+    "district": "tanjung-redeb"
+  },
+  {
+    "id": "karang-ambun",
+    "name": "Karang Ambun",
+    "district": "tanjung-redeb"
+  },
+  {
+    "id": "gayam",
+    "name": "Gayam",
+    "district": "tanjung-redeb"
+  }
+]

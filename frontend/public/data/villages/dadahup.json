@@ -1,0 +1,77 @@
+[
+  {
+    "id": "menteng-karya",
+    "name": "Menteng Karya",
+    "district": "dadahup"
+  },
+  {
+    "id": "dadahup-raya",
+    "name": "Dadahup Raya",
+    "district": "dadahup"
+  },
+  {
+    "id": "sumber-alaska",
+    "name": "Sumber Alaska",
+    "district": "dadahup"
+  },
+  {
+    "id": "upt-dadahup-f2",
+    "name": "Upt Dadahup F2",
+    "district": "dadahup"
+  },
+  {
+    "id": "upt-dadahup-f5",
+    "name": "Upt Dadahup F5",
+    "district": "dadahup"
+  },
+  {
+    "id": "dadahup",
+    "name": "Dadahup",
+    "district": "dadahup"
+  },
+  {
+    "id": "petak-batuah",
+    "name": "Petak Batuah",
+    "district": "dadahup"
+  },
+  {
+    "id": "harapan-baru",
+    "name": "Harapan Baru",
+    "district": "dadahup"
+  },
+  {
+    "id": "bentuk-jaya",
+    "name": "Bentuk Jaya",
+    "district": "dadahup"
+  },
+  {
+    "id": "bina-jaya",
+    "name": "Bina Jaya",
+    "district": "dadahup"
+  },
+  {
+    "id": "manuntung",
+    "name": "Manuntung",
+    "district": "dadahup"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "dadahup"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "dadahup"
+  },
+  {
+    "id": "kahuripan-permai",
+    "name": "Kahuripan Permai",
+    "district": "dadahup"
+  },
+  {
+    "id": "tambak-bajai",
+    "name": "Tambak Bajai",
+    "district": "dadahup"
+  }
+]

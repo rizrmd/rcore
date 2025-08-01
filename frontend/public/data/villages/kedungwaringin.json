@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bojongsari",
+    "name": "Bojongsari",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "kedungwaringin",
+    "name": "Kedungwaringin",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "waringinjaya",
+    "name": "Waringinjaya",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "karangsambung",
+    "name": "Karangsambung",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "karangharum",
+    "name": "Karangharum",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "kedungwaringin"
+  },
+  {
+    "id": "karangmekar",
+    "name": "Karangmekar",
+    "district": "kedungwaringin"
+  }
+]

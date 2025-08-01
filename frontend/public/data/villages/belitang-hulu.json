@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kumpang-ilong",
+    "name": "Kumpang Ilong",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "ijok",
+    "name": "Ijok",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "balai-sepuak",
+    "name": "Balai Sepuak",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "tabuk-hulu",
+    "name": "Tabuk Hulu",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "batuk-mulau",
+    "name": "Batuk Mulau",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "sei-tapah",
+    "name": "Sei Tapah",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "seburuk-satu",
+    "name": "Seburuk Satu",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "paket-mulau",
+    "name": "Paket Mulau",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "mengaret",
+    "name": "Mengaret",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "terduk-dampak",
+    "name": "Terduk Dampak",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "sei-antu-hulu",
+    "name": "Sei Antu Hulu",
+    "district": "belitang-hulu"
+  },
+  {
+    "id": "bukit-rambat",
+    "name": "Bukit Rambat",
+    "district": "belitang-hulu"
+  }
+]

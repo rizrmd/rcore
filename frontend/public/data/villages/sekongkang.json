@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sekongkang-bawah",
+    "name": "Sekongkang Bawah",
+    "district": "sekongkang"
+  },
+  {
+    "id": "sekongkang-atas",
+    "name": "Sekongkang Atas",
+    "district": "sekongkang"
+  },
+  {
+    "id": "tongo",
+    "name": "Tongo",
+    "district": "sekongkang"
+  },
+  {
+    "id": "ai-kangkung",
+    "name": "Ai Kangkung",
+    "district": "sekongkang"
+  },
+  {
+    "id": "tatar",
+    "name": "Tatar",
+    "district": "sekongkang"
+  },
+  {
+    "id": "talonang-baru",
+    "name": "Talonang Baru",
+    "district": "sekongkang"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "sekongkang"
+  },
+  {
+    "id": "upt-tongo-ii-sp2",
+    "name": "Upt Tongo Ii Sp.2",
+    "district": "sekongkang"
+  }
+]

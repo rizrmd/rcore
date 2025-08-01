@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tambakmas",
+    "name": "Tambakmas",
+    "district": "kebonsari"
+  },
+  {
+    "id": "tanjungrejo",
+    "name": "Tanjungrejo",
+    "district": "kebonsari"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "kebonsari"
+  },
+  {
+    "id": "pucanganom",
+    "name": "Pucanganom",
+    "district": "kebonsari"
+  },
+  {
+    "id": "krandegan",
+    "name": "Krandegan",
+    "district": "kebonsari"
+  },
+  {
+    "id": "singgahan",
+    "name": "Singgahan",
+    "district": "kebonsari"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "kebonsari"
+  },
+  {
+    "id": "palur",
+    "name": "Palur",
+    "district": "kebonsari"
+  },
+  {
+    "id": "mojorejo",
+    "name": "Mojorejo",
+    "district": "kebonsari"
+  },
+  {
+    "id": "kebonsari",
+    "name": "Kebonsari",
+    "district": "kebonsari"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "kebonsari"
+  },
+  {
+    "id": "balerejo",
+    "name": "Balerejo",
+    "district": "kebonsari"
+  },
+  {
+    "id": "bacem",
+    "name": "Bacem",
+    "district": "kebonsari"
+  },
+  {
+    "id": "kedondong",
+    "name": "Kedondong",
+    "district": "kebonsari"
+  }
+]

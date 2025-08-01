@@ -1,0 +1,37 @@
+[
+  {
+    "id": "koto-tangah-batu-hampa",
+    "name": "Koto Tangah Batu Hampa",
+    "district": "akabiluru"
+  },
+  {
+    "id": "batu-hampa",
+    "name": "Batu Hampa",
+    "district": "akabiluru"
+  },
+  {
+    "id": "sariak-laweh",
+    "name": "Sariak Laweh",
+    "district": "akabiluru"
+  },
+  {
+    "id": "sungai-balantiak",
+    "name": "Sungai Balantiak",
+    "district": "akabiluru"
+  },
+  {
+    "id": "suayan",
+    "name": "Suayan",
+    "district": "akabiluru"
+  },
+  {
+    "id": "pauah-sangik",
+    "name": "Pauah Sangik",
+    "district": "akabiluru"
+  },
+  {
+    "id": "durian-gadang",
+    "name": "Durian Gadang",
+    "district": "akabiluru"
+  }
+]

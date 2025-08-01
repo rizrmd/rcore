@@ -1,0 +1,32 @@
+[
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "pekanbaru-kota"
+  },
+  {
+    "id": "sumahilang",
+    "name": "Sumahilang",
+    "district": "pekanbaru-kota"
+  },
+  {
+    "id": "tanah-datar",
+    "name": "Tanah Datar",
+    "district": "pekanbaru-kota"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "pekanbaru-kota"
+  },
+  {
+    "id": "sukaramai",
+    "name": "Sukaramai",
+    "district": "pekanbaru-kota"
+  },
+  {
+    "id": "kota-tinggi",
+    "name": "Kota Tinggi",
+    "district": "pekanbaru-kota"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rasi",
+    "name": "Rasi",
+    "district": "ratahan"
+  },
+  {
+    "id": "tosuraya",
+    "name": "Tosuraya",
+    "district": "ratahan"
+  },
+  {
+    "id": "lowu-satu",
+    "name": "Lowu Satu",
+    "district": "ratahan"
+  },
+  {
+    "id": "lowu-dua",
+    "name": "Lowu Dua",
+    "district": "ratahan"
+  },
+  {
+    "id": "wawali",
+    "name": "Wawali",
+    "district": "ratahan"
+  },
+  {
+    "id": "rasi-satu",
+    "name": "Rasi Satu",
+    "district": "ratahan"
+  },
+  {
+    "id": "tosuraya-barat",
+    "name": "Tosuraya Barat",
+    "district": "ratahan"
+  },
+  {
+    "id": "tosuraya-selatan",
+    "name": "Tosuraya Selatan",
+    "district": "ratahan"
+  },
+  {
+    "id": "lowu-utara",
+    "name": "Lowu Utara",
+    "district": "ratahan"
+  },
+  {
+    "id": "nataan",
+    "name": "Nataan",
+    "district": "ratahan"
+  },
+  {
+    "id": "wawali-pasan",
+    "name": "Wawali Pasan",
+    "district": "ratahan"
+  }
+]

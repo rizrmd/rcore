@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "toyogo",
+    "name": "Toyogo",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "gringging",
+    "name": "Gringging",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "banaran",
+    "name": "Banaran",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "sambungmacan",
+    "name": "Sambungmacan",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "bedoro",
+    "name": "Bedoro",
+    "district": "sambung-macan"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "sambung-macan"
+  }
+]

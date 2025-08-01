@@ -1,0 +1,32 @@
+[
+  {
+    "id": "baros",
+    "name": "Baros",
+    "district": "cimahi-tengah"
+  },
+  {
+    "id": "cigugur-tengah",
+    "name": "Cigugur Tengah",
+    "district": "cimahi-tengah"
+  },
+  {
+    "id": "karangmekar",
+    "name": "Karangmekar",
+    "district": "cimahi-tengah"
+  },
+  {
+    "id": "setiamanah",
+    "name": "Setiamanah",
+    "district": "cimahi-tengah"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "cimahi-tengah"
+  },
+  {
+    "id": "cimahi",
+    "name": "Cimahi",
+    "district": "cimahi-tengah"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "plintahan",
+    "name": "Plintahan",
+    "district": "pandaan"
+  },
+  {
+    "id": "karang-jati",
+    "name": "Karang Jati",
+    "district": "pandaan"
+  },
+  {
+    "id": "wedoro",
+    "name": "Wedoro",
+    "district": "pandaan"
+  },
+  {
+    "id": "kutorejo",
+    "name": "Kutorejo",
+    "district": "pandaan"
+  },
+  {
+    "id": "jogosari",
+    "name": "Jogosari",
+    "district": "pandaan"
+  },
+  {
+    "id": "pandaan",
+    "name": "Pandaan",
+    "district": "pandaan"
+  },
+  {
+    "id": "petungasri",
+    "name": "Petungasri",
+    "district": "pandaan"
+  },
+  {
+    "id": "sumber-gedang",
+    "name": "Sumber Gedang",
+    "district": "pandaan"
+  },
+  {
+    "id": "tawang-rejo",
+    "name": "Tawang Rejo",
+    "district": "pandaan"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "pandaan"
+  },
+  {
+    "id": "nogosari",
+    "name": "Nogosari",
+    "district": "pandaan"
+  },
+  {
+    "id": "kemiri-sewu",
+    "name": "Kemiri Sewu",
+    "district": "pandaan"
+  },
+  {
+    "id": "kebon-waris",
+    "name": "Kebon Waris",
+    "district": "pandaan"
+  },
+  {
+    "id": "sebani",
+    "name": "Sebani",
+    "district": "pandaan"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "pandaan"
+  },
+  {
+    "id": "banjar-kejen",
+    "name": "Banjar Kejen",
+    "district": "pandaan"
+  }
+]

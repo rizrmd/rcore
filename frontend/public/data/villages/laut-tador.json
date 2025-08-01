@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-prapat",
+    "name": "Tanjung Prapat",
+    "district": "laut-tador"
+  },
+  {
+    "id": "laut-tador",
+    "name": "Laut Tador",
+    "district": "laut-tador"
+  },
+  {
+    "id": "perkebunan-tanjung-kasau",
+    "name": "Perkebunan Tanjung Kasau",
+    "district": "laut-tador"
+  },
+  {
+    "id": "tanjung-kasau",
+    "name": "Tanjung Kasau",
+    "district": "laut-tador"
+  },
+  {
+    "id": "tanjung-seri",
+    "name": "Tanjung Seri",
+    "district": "laut-tador"
+  },
+  {
+    "id": "sei-simujur",
+    "name": "Sei Simujur",
+    "district": "laut-tador"
+  },
+  {
+    "id": "pelanggiran-laut-tador",
+    "name": "Pelanggiran Laut Tador",
+    "district": "laut-tador"
+  },
+  {
+    "id": "dwi-sri",
+    "name": "Dwi Sri",
+    "district": "laut-tador"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "laut-tador"
+  },
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "laut-tador"
+  }
+]

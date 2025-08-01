@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanggung-kramat",
+    "name": "Tanggung Kramat",
+    "district": "ploso"
+  },
+  {
+    "id": "rejoagung",
+    "name": "Rejoagung",
+    "district": "ploso"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "ploso"
+  },
+  {
+    "id": "ploso",
+    "name": "Ploso",
+    "district": "ploso"
+  },
+  {
+    "id": "jatigedong",
+    "name": "Jatigedong",
+    "district": "ploso"
+  },
+  {
+    "id": "dadi-tunggal",
+    "name": "Dadi Tunggal",
+    "district": "ploso"
+  },
+  {
+    "id": "gedongombo",
+    "name": "Gedongombo",
+    "district": "ploso"
+  },
+  {
+    "id": "jatibanjar",
+    "name": "Jatibanjar",
+    "district": "ploso"
+  },
+  {
+    "id": "pager-tanjung",
+    "name": "Pager Tanjung",
+    "district": "ploso"
+  },
+  {
+    "id": "pandan-blole",
+    "name": "Pandan Blole",
+    "district": "ploso"
+  },
+  {
+    "id": "kedungdowo",
+    "name": "Kedungdowo",
+    "district": "ploso"
+  },
+  {
+    "id": "bawangan",
+    "name": "Bawangan",
+    "district": "ploso"
+  },
+  {
+    "id": "kebon-agung",
+    "name": "Kebon Agung",
+    "district": "ploso"
+  }
+]

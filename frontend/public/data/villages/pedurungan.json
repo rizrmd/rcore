@@ -1,0 +1,62 @@
+[
+  {
+    "id": "gemah",
+    "name": "Gemah",
+    "district": "pedurungan"
+  },
+  {
+    "id": "pedurungan-kidul",
+    "name": "Pedurungan Kidul",
+    "district": "pedurungan"
+  },
+  {
+    "id": "plamongan-sari",
+    "name": "Plamongan Sari",
+    "district": "pedurungan"
+  },
+  {
+    "id": "penggaron-kidul",
+    "name": "Penggaron Kidul",
+    "district": "pedurungan"
+  },
+  {
+    "id": "pedurungan-lor",
+    "name": "Pedurungan Lor",
+    "district": "pedurungan"
+  },
+  {
+    "id": "tlogomulyo",
+    "name": "Tlogomulyo",
+    "district": "pedurungan"
+  },
+  {
+    "id": "pedurungan-tengah",
+    "name": "Pedurungan Tengah",
+    "district": "pedurungan"
+  },
+  {
+    "id": "palebon",
+    "name": "Palebon",
+    "district": "pedurungan"
+  },
+  {
+    "id": "kalicari",
+    "name": "Kalicari",
+    "district": "pedurungan"
+  },
+  {
+    "id": "tlogosari-kulon",
+    "name": "Tlogosari Kulon",
+    "district": "pedurungan"
+  },
+  {
+    "id": "tlogosari-wetan",
+    "name": "Tlogosari Wetan",
+    "district": "pedurungan"
+  },
+  {
+    "id": "muktiharjo-kidul",
+    "name": "Muktiharjo Kidul",
+    "district": "pedurungan"
+  }
+]

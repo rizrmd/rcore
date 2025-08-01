@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nanga-mua",
+    "name": "Nanga Mua",
+    "district": "arut-utara"
+  },
+  {
+    "id": "pangkut",
+    "name": "Pangkut",
+    "district": "arut-utara"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "arut-utara"
+  },
+  {
+    "id": "gandis",
+    "name": "Gandis",
+    "district": "arut-utara"
+  },
+  {
+    "id": "kerabu",
+    "name": "Kerabu",
+    "district": "arut-utara"
+  },
+  {
+    "id": "sambi",
+    "name": "Sambi",
+    "district": "arut-utara"
+  },
+  {
+    "id": "penyombaan",
+    "name": "Penyombaan",
+    "district": "arut-utara"
+  },
+  {
+    "id": "pandau",
+    "name": "Pandau",
+    "district": "arut-utara"
+  },
+  {
+    "id": "riam",
+    "name": "Riam",
+    "district": "arut-utara"
+  },
+  {
+    "id": "penahan",
+    "name": "Penahan",
+    "district": "arut-utara"
+  },
+  {
+    "id": "sungai-dau",
+    "name": "Sungai Dau",
+    "district": "arut-utara"
+  }
+]

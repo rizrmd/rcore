@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumalangka",
+    "name": "Sumalangka",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "sasaran",
+    "name": "Sasaran",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "kembuan",
+    "name": "Kembuan",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "tonsea-lama",
+    "name": "Tonsea Lama",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "kampung-jawa",
+    "name": "Kampung Jawa",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "wulauan",
+    "name": "Wulauan",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "marawas",
+    "name": "Marawas",
+    "district": "tondano-utara"
+  },
+  {
+    "id": "kembuan-satu",
+    "name": "Kembuan Satu",
+    "district": "tondano-utara"
+  }
+]

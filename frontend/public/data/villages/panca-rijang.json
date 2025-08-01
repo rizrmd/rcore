@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kadidi",
+    "name": "Kadidi",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "macorawalie",
+    "name": "Macorawalie",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "timoreng-panua",
+    "name": "Timoreng Panua",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "cipotakari",
+    "name": "Cipotakari",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "bulo",
+    "name": "Bulo",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "bulo-wattang",
+    "name": "Bulo Wattang",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "lalebata",
+    "name": "Lalebata",
+    "district": "panca-rijang"
+  },
+  {
+    "id": "rappang",
+    "name": "Rappang",
+    "district": "panca-rijang"
+  }
+]

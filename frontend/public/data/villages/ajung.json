@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mangaran",
+    "name": "Mangaran",
+    "district": "ajung"
+  },
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "ajung"
+  },
+  {
+    "id": "klompangan",
+    "name": "Klompangan",
+    "district": "ajung"
+  },
+  {
+    "id": "pancakarya",
+    "name": "Pancakarya",
+    "district": "ajung"
+  },
+  {
+    "id": "ajung",
+    "name": "Ajung",
+    "district": "ajung"
+  },
+  {
+    "id": "wirowongso",
+    "name": "Wirowongso",
+    "district": "ajung"
+  },
+  {
+    "id": "rowo-indah",
+    "name": "Rowo Indah",
+    "district": "ajung"
+  }
+]

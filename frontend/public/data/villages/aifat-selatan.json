@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sabah",
+    "name": "Sabah",
+    "district": "aifat-selatan"
+  },
+  {
+    "id": "fuog",
+    "name": "Fuog",
+    "district": "aifat-selatan"
+  },
+  {
+    "id": "imsun",
+    "name": "Imsun",
+    "district": "aifat-selatan"
+  },
+  {
+    "id": "kisor",
+    "name": "Kisor",
+    "district": "aifat-selatan"
+  },
+  {
+    "id": "sory",
+    "name": "Sory",
+    "district": "aifat-selatan"
+  },
+  {
+    "id": "tasimara",
+    "name": "Tasimara",
+    "district": "aifat-selatan"
+  }
+]

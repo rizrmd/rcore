@@ -1,0 +1,22 @@
+[
+  {
+    "id": "made",
+    "name": "Made",
+    "district": "sambikerep"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "district": "sambikerep"
+  },
+  {
+    "id": "sambikerep",
+    "name": "Sambikerep",
+    "district": "sambikerep"
+  },
+  {
+    "id": "lontar",
+    "name": "Lontar",
+    "district": "sambikerep"
+  }
+]

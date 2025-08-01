@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sidomakmur",
+    "name": "Sidomakmur",
+    "district": "melinting"
+  },
+  {
+    "id": "tanjung-aji",
+    "name": "Tanjung Aji",
+    "district": "melinting"
+  },
+  {
+    "id": "tebing",
+    "name": "Tebing",
+    "district": "melinting"
+  },
+  {
+    "id": "wana",
+    "name": "Wana",
+    "district": "melinting"
+  },
+  {
+    "id": "sumberhadi",
+    "name": "Sumberhadi",
+    "district": "melinting"
+  },
+  {
+    "id": "itik-rendai",
+    "name": "Itik Rendai",
+    "district": "melinting"
+  }
+]

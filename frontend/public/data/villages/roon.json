@@ -1,0 +1,32 @@
+[
+  {
+    "id": "menarbu",
+    "name": "Menarbu",
+    "district": "roon"
+  },
+  {
+    "id": "sariay",
+    "name": "Sariay",
+    "district": "roon"
+  },
+  {
+    "id": "niab",
+    "name": "Niab",
+    "district": "roon"
+  },
+  {
+    "id": "inday",
+    "name": "Inday",
+    "district": "roon"
+  },
+  {
+    "id": "syabes",
+    "name": "Syabes",
+    "district": "roon"
+  },
+  {
+    "id": "mena",
+    "name": "Mena",
+    "district": "roon"
+  }
+]

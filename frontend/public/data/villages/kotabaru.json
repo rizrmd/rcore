@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sarimulya",
+    "name": "Sarimulya",
+    "district": "kotabaru"
+  },
+  {
+    "id": "jomin-barat",
+    "name": "Jomin Barat",
+    "district": "kotabaru"
+  },
+  {
+    "id": "jomin-timur",
+    "name": "Jomin Timur",
+    "district": "kotabaru"
+  },
+  {
+    "id": "pangulah-selatan",
+    "name": "Pangulah Selatan",
+    "district": "kotabaru"
+  },
+  {
+    "id": "pangulah-utara",
+    "name": "Pangulah Utara",
+    "district": "kotabaru"
+  },
+  {
+    "id": "pangulah-baru",
+    "name": "Pangulah Baru",
+    "district": "kotabaru"
+  },
+  {
+    "id": "wancimekar",
+    "name": "Wancimekar",
+    "district": "kotabaru"
+  },
+  {
+    "id": "cikampek-utara",
+    "name": "Cikampek Utara",
+    "district": "kotabaru"
+  },
+  {
+    "id": "hangalande",
+    "name": "Hangalande",
+    "district": "kotabaru"
+  },
+  {
+    "id": "tou-timur",
+    "name": "Tou Timur",
+    "district": "kotabaru"
+  },
+  {
+    "id": "tou",
+    "name": "Tou",
+    "district": "kotabaru"
+  },
+  {
+    "id": "niopanda",
+    "name": "Niopanda",
+    "district": "kotabaru"
+  },
+  {
+    "id": "loboniki",
+    "name": "Loboniki",
+    "district": "kotabaru"
+  },
+  {
+    "id": "ndondo",
+    "name": "Ndondo",
+    "district": "kotabaru"
+  },
+  {
+    "id": "kotabaru",
+    "name": "Kotabaru",
+    "district": "kotabaru"
+  },
+  {
+    "id": "liselande",
+    "name": "Liselande",
+    "district": "kotabaru"
+  },
+  {
+    "id": "tou-barat",
+    "name": "Tou Barat",
+    "district": "kotabaru"
+  },
+  {
+    "id": "rangalaka",
+    "name": "Rangalaka",
+    "district": "kotabaru"
+  },
+  {
+    "id": "pise",
+    "name": "Pise",
+    "district": "kotabaru"
+  },
+  {
+    "id": "nuanaga",
+    "name": "Nuanaga",
+    "district": "kotabaru"
+  },
+  {
+    "id": "neotonda",
+    "name": "Neotonda",
+    "district": "kotabaru"
+  }
+]

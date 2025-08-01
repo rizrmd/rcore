@@ -1,0 +1,22 @@
+[
+  {
+    "id": "fatukbot",
+    "name": "Fatukbot",
+    "district": "atambua-selatan"
+  },
+  {
+    "id": "lidak",
+    "name": "Lidak",
+    "district": "atambua-selatan"
+  },
+  {
+    "id": "manuaman",
+    "name": "Manuaman",
+    "district": "atambua-selatan"
+  },
+  {
+    "id": "rinbesi",
+    "name": "Rinbesi",
+    "district": "atambua-selatan"
+  }
+]

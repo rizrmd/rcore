@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sembalun-bumbung",
+    "name": "Sembalun Bumbung",
+    "district": "sembalun"
+  },
+  {
+    "id": "sembalun-lawang",
+    "name": "Sembalun Lawang",
+    "district": "sembalun"
+  },
+  {
+    "id": "sajang",
+    "name": "Sajang",
+    "district": "sembalun"
+  },
+  {
+    "id": "bilok-petung",
+    "name": "Bilok Petung",
+    "district": "sembalun"
+  },
+  {
+    "id": "sembalun",
+    "name": "Sembalun",
+    "district": "sembalun"
+  },
+  {
+    "id": "sembalun-timba-gading",
+    "name": "Sembalun Timba Gading",
+    "district": "sembalun"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "huta-tinggi",
+    "name": "Huta Tinggi",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "hutanamale",
+    "name": "Hutanamale",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "huta-baringin",
+    "name": "Huta Baringin",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "sibanggor-julu",
+    "name": "Sibanggor Julu",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "sibanggor-jae",
+    "name": "Sibanggor Jae",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "purba-julu",
+    "name": "Purba Julu",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "sibanggor-tonga",
+    "name": "Sibanggor Tonga",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "huta-lombang",
+    "name": "Huta Lombang",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "huta-baru",
+    "name": "Huta Baru",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "handel",
+    "name": "Handel",
+    "district": "puncak-sorik-marapi"
+  },
+  {
+    "id": "huta-baringin-julu",
+    "name": "Huta Baringin Julu",
+    "district": "puncak-sorik-marapi"
+  }
+]

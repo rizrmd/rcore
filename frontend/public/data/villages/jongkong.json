@@ -1,0 +1,72 @@
+[
+  {
+    "id": "temenang",
+    "name": "Temenang",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-kanan",
+    "name": "Jongkong Kanan",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-pasar",
+    "name": "Jongkong Pasar",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-kiri-hilir",
+    "name": "Jongkong Kiri Hilir",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-kiri-hulu",
+    "name": "Jongkong Kiri Hulu",
+    "district": "jongkong"
+  },
+  {
+    "id": "ujung-said",
+    "name": "Ujung Said",
+    "district": "jongkong"
+  },
+  {
+    "id": "ujung-jambu",
+    "name": "Ujung Jambu",
+    "district": "jongkong"
+  },
+  {
+    "id": "bontai",
+    "name": "Bontai",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-kiri-tengah",
+    "name": "Jongkong Kiri Tengah",
+    "district": "jongkong"
+  },
+  {
+    "id": "jongkong-tanjung",
+    "name": "Jongkong Tanjung",
+    "district": "jongkong"
+  },
+  {
+    "id": "kandung-suli",
+    "name": "Kandung Suli",
+    "district": "jongkong"
+  },
+  {
+    "id": "penepian-raya",
+    "name": "Penepian Raya",
+    "district": "jongkong"
+  },
+  {
+    "id": "karya-baru",
+    "name": "Karya Baru",
+    "district": "jongkong"
+  },
+  {
+    "id": "nanga-serian",
+    "name": "Nanga Serian",
+    "district": "jongkong"
+  }
+]

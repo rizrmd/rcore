@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sikakak",
+    "name": "Sikakak",
+    "district": "cerenti"
+  },
+  {
+    "id": "pulau-jambu",
+    "name": "Pulau Jambu",
+    "district": "cerenti"
+  },
+  {
+    "id": "pulau-bayur",
+    "name": "Pulau Bayur",
+    "district": "cerenti"
+  },
+  {
+    "id": "pulau-panjang-cerenti",
+    "name": "Pulau Panjang Cerenti",
+    "district": "cerenti"
+  },
+  {
+    "id": "teluk-pauh",
+    "name": "Teluk Pauh",
+    "district": "cerenti"
+  },
+  {
+    "id": "pesikaian",
+    "name": "Pesikaian",
+    "district": "cerenti"
+  },
+  {
+    "id": "koto-cerenti",
+    "name": "Koto Cerenti",
+    "district": "cerenti"
+  },
+  {
+    "id": "koto-peraku",
+    "name": "Koto Peraku",
+    "district": "cerenti"
+  },
+  {
+    "id": "pasar-cerenti",
+    "name": "Pasar Cerenti",
+    "district": "cerenti"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "cerenti"
+  },
+  {
+    "id": "kompe-berangin",
+    "name": "Kompe Berangin",
+    "district": "cerenti"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "cerenti"
+  },
+  {
+    "id": "kampung-baru-timur",
+    "name": "Kampung Baru Timur",
+    "district": "cerenti"
+  }
+]

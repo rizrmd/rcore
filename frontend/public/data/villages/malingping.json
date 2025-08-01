@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "malingping"
+  },
+  {
+    "id": "malingping-selatan",
+    "name": "Malingping Selatan",
+    "district": "malingping"
+  },
+  {
+    "id": "cilangkahan",
+    "name": "Cilangkahan",
+    "district": "malingping"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "malingping"
+  },
+  {
+    "id": "kersaratu",
+    "name": "Kersaratu",
+    "district": "malingping"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "malingping"
+  },
+  {
+    "id": "kadujajar",
+    "name": "Kadujajar",
+    "district": "malingping"
+  },
+  {
+    "id": "malingping-utara",
+    "name": "Malingping Utara",
+    "district": "malingping"
+  },
+  {
+    "id": "rahong",
+    "name": "Rahong",
+    "district": "malingping"
+  },
+  {
+    "id": "sanghiang",
+    "name": "Sanghiang",
+    "district": "malingping"
+  },
+  {
+    "id": "bolang",
+    "name": "Bolang",
+    "district": "malingping"
+  },
+  {
+    "id": "sumber-waras",
+    "name": "Sumber Waras",
+    "district": "malingping"
+  },
+  {
+    "id": "cipeundeuy",
+    "name": "Cipeundeuy",
+    "district": "malingping"
+  },
+  {
+    "id": "senanghati",
+    "name": "Senanghati",
+    "district": "malingping"
+  }
+]

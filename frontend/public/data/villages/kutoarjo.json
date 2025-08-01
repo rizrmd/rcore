@@ -1,0 +1,127 @@
+[
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "karangwuluh",
+    "name": "Karangwuluh",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "tuntungpahit",
+    "name": "Tuntungpahit",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kiyangkongrejo",
+    "name": "Kiyangkongrejo",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "pringgowijayan",
+    "name": "Pringgowijayan",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "majir",
+    "name": "Majir",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "semawung-daleman",
+    "name": "Semawung Daleman",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "semawung-kembaran",
+    "name": "Semawung Kembaran",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kuwurejo",
+    "name": "Kuwurejo",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "sidarum",
+    "name": "Sidarum",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "bayem",
+    "name": "Bayem",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "katerban",
+    "name": "Katerban",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kutoarjo",
+    "name": "Kutoarjo",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "sokoharjo",
+    "name": "Sokoharjo",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "pacor",
+    "name": "Pacor",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "tunggorono",
+    "name": "Tunggorono",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "tepus-kulon",
+    "name": "Tepus Kulon",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "tepus-wetan",
+    "name": "Tepus Wetan",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kemadu-lor",
+    "name": "Kemadu Lor",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "kaligesing",
+    "name": "Kaligesing",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "wirun",
+    "name": "Wirun",
+    "district": "kutoarjo"
+  },
+  {
+    "id": "tursino",
+    "name": "Tursino",
+    "district": "kutoarjo"
+  }
+]

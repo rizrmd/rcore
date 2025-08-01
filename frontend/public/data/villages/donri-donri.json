@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pising",
+    "name": "Pising",
+    "district": "donri-donri"
+  },
+  {
+    "id": "labokong",
+    "name": "Labokong",
+    "district": "donri-donri"
+  },
+  {
+    "id": "donri-donri",
+    "name": "Donri-Donri",
+    "district": "donri-donri"
+  },
+  {
+    "id": "sering",
+    "name": "Sering",
+    "district": "donri-donri"
+  },
+  {
+    "id": "lalabata-riaja",
+    "name": "Lalabata Riaja",
+    "district": "donri-donri"
+  },
+  {
+    "id": "tottong",
+    "name": "Tottong",
+    "district": "donri-donri"
+  },
+  {
+    "id": "leworeng",
+    "name": "Leworeng",
+    "district": "donri-donri"
+  },
+  {
+    "id": "kessing",
+    "name": "Kessing",
+    "district": "donri-donri"
+  }
+]

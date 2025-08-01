@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lasada",
+    "name": "Lasada",
+    "district": "asinua"
+  },
+  {
+    "id": "awua-jaya",
+    "name": "Awua Jaya",
+    "district": "asinua"
+  },
+  {
+    "id": "asinua-jaya",
+    "name": "Asinua Jaya",
+    "district": "asinua"
+  },
+  {
+    "id": "ambondia",
+    "name": "Ambondia",
+    "district": "asinua"
+  },
+  {
+    "id": "angohi",
+    "name": "Angohi",
+    "district": "asinua"
+  },
+  {
+    "id": "awua-sari",
+    "name": "Awua Sari",
+    "district": "asinua"
+  },
+  {
+    "id": "asipako",
+    "name": "Asipako",
+    "district": "asinua"
+  },
+  {
+    "id": "upt-asinua-jaya",
+    "name": "Upt Asinua Jaya",
+    "district": "asinua"
+  }
+]

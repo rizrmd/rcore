@@ -1,0 +1,52 @@
+[
+  {
+    "id": "labonu",
+    "name": "Labonu",
+    "district": "basidondo"
+  },
+  {
+    "id": "sibaluton",
+    "name": "Sibaluton",
+    "district": "basidondo"
+  },
+  {
+    "id": "kayulompa",
+    "name": "Kayulompa",
+    "district": "basidondo"
+  },
+  {
+    "id": "silondou",
+    "name": "Silondou",
+    "district": "basidondo"
+  },
+  {
+    "id": "kinapasan",
+    "name": "Kinapasan",
+    "district": "basidondo"
+  },
+  {
+    "id": "ogosipat",
+    "name": "Ogosipat",
+    "district": "basidondo"
+  },
+  {
+    "id": "konkomos",
+    "name": "Konkomos",
+    "district": "basidondo"
+  },
+  {
+    "id": "galandau",
+    "name": "Galandau",
+    "district": "basidondo"
+  },
+  {
+    "id": "marisa",
+    "name": "Marisa",
+    "district": "basidondo"
+  },
+  {
+    "id": "basi",
+    "name": "Basi",
+    "district": "basidondo"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": "huta-imbaru-gul",
+    "name": "Huta Imbaru Gul",
+    "district": "dolok"
+  },
+  {
+    "id": "gumaruntar",
+    "name": "Gumaruntar",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-rao-tapian-nadenggan",
+    "name": "Aek Rao Tapian Nadenggan",
+    "district": "dolok"
+  },
+  {
+    "id": "situmbaga",
+    "name": "Situmbaga",
+    "district": "dolok"
+  },
+  {
+    "id": "sungai-datar",
+    "name": "Sungai Datar",
+    "district": "dolok"
+  },
+  {
+    "id": "sijantung-julu",
+    "name": "Sijantung Julu",
+    "district": "dolok"
+  },
+  {
+    "id": "parigi",
+    "name": "Parigi",
+    "district": "dolok"
+  },
+  {
+    "id": "sijantung-jae",
+    "name": "Sijantung Jae",
+    "district": "dolok"
+  },
+  {
+    "id": "tanjung-longat",
+    "name": "Tanjung Longat",
+    "district": "dolok"
+  },
+  {
+    "id": "pp-merdeka",
+    "name": "Pp Merdeka",
+    "district": "dolok"
+  },
+  {
+    "id": "dalihan-natolu",
+    "name": "Dalihan Natolu",
+    "district": "dolok"
+  },
+  {
+    "id": "sinabongan",
+    "name": "Sinabongan",
+    "district": "dolok"
+  },
+  {
+    "id": "binanga-panosahan",
+    "name": "Binanga Panosahan",
+    "district": "dolok"
+  },
+  {
+    "id": "singanyal",
+    "name": "Singanyal",
+    "district": "dolok"
+  },
+  {
+    "id": "simatorkis",
+    "name": "Simatorkis",
+    "district": "dolok"
+  },
+  {
+    "id": "bahap",
+    "name": "Bahap",
+    "district": "dolok"
+  },
+  {
+    "id": "janji-manahan-sil",
+    "name": "Janji Manahan Sil",
+    "district": "dolok"
+  },
+  {
+    "id": "sijara-jara",
+    "name": "Sijara-Jara",
+    "district": "dolok"
+  },
+  {
+    "id": "silangge",
+    "name": "Silangge",
+    "district": "dolok"
+  },
+  {
+    "id": "baringin-sil",
+    "name": "Baringin Sil",
+    "district": "dolok"
+  },
+  {
+    "id": "pijor-koling",
+    "name": "Pijor Koling",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-ilung",
+    "name": "Aek Ilung",
+    "district": "dolok"
+  },
+  {
+    "id": "sibayo-jae",
+    "name": "Sibayo Jae",
+    "district": "dolok"
+  },
+  {
+    "id": "bukit-tinggi",
+    "name": "Bukit Tinggi",
+    "district": "dolok"
+  },
+  {
+    "id": "pasar-sipiongot",
+    "name": "Pasar Sipiongot",
+    "district": "dolok"
+  },
+  {
+    "id": "batu-runding",
+    "name": "Batu Runding",
+    "district": "dolok"
+  },
+  {
+    "id": "parmeraan",
+    "name": "Parmeraan",
+    "district": "dolok"
+  },
+  {
+    "id": "bintais-julu",
+    "name": "Bintais Julu",
+    "district": "dolok"
+  },
+  {
+    "id": "huta-baru-sil",
+    "name": "Huta Baru Sil",
+    "district": "dolok"
+  },
+  {
+    "id": "nabonggal",
+    "name": "Nabonggal",
+    "district": "dolok"
+  },
+  {
+    "id": "gumbot",
+    "name": "Gumbot",
+    "district": "dolok"
+  },
+  {
+    "id": "sipiongot",
+    "name": "Sipiongot",
+    "district": "dolok"
+  },
+  {
+    "id": "bunut",
+    "name": "Bunut",
+    "district": "dolok"
+  },
+  {
+    "id": "huta-baru-sip",
+    "name": "Huta Baru (Sip)",
+    "district": "dolok"
+  },
+  {
+    "id": "purbatua-purbabatu",
+    "name": "Purbatua (Purbabatu)",
+    "district": "dolok"
+  },
+  {
+    "id": "lubuk-godang",
+    "name": "Lubuk Godang",
+    "district": "dolok"
+  },
+  {
+    "id": "tarutung-bolak",
+    "name": "Tarutung Bolak",
+    "district": "dolok"
+  },
+  {
+    "id": "tanjung-baru-b",
+    "name": "Tanjung Baru B",
+    "district": "dolok"
+  },
+  {
+    "id": "sibur-bur",
+    "name": "Sibur Bur",
+    "district": "dolok"
+  },
+  {
+    "id": "siraga-huta-padang",
+    "name": "Siraga Huta Padang",
+    "district": "dolok"
+  },
+  {
+    "id": "gunung-salamat",
+    "name": "Gunung Salamat",
+    "district": "dolok"
+  },
+  {
+    "id": "janji-manahan-gul",
+    "name": "Janji Manahan Gul",
+    "district": "dolok"
+  },
+  {
+    "id": "sibayo",
+    "name": "Sibayo",
+    "district": "dolok"
+  },
+  {
+    "id": "rancaran",
+    "name": "Rancaran",
+    "district": "dolok"
+  },
+  {
+    "id": "rongkare",
+    "name": "Rongkare",
+    "district": "dolok"
+  },
+  {
+    "id": "arse",
+    "name": "Arse",
+    "district": "dolok"
+  },
+  {
+    "id": "simangambat-tua",
+    "name": "Simangambat Tua",
+    "district": "dolok"
+  },
+  {
+    "id": "simataniari",
+    "name": "Simataniari",
+    "district": "dolok"
+  },
+  {
+    "id": "simanosor",
+    "name": "Simanosor",
+    "district": "dolok"
+  },
+  {
+    "id": "simataniari-jae",
+    "name": "Simataniari Jae",
+    "district": "dolok"
+  },
+  {
+    "id": "lubuk-kundur",
+    "name": "Lubuk Kundur",
+    "district": "dolok"
+  },
+  {
+    "id": "lubuk-lanjang",
+    "name": "Lubuk Lanjang",
+    "district": "dolok"
+  },
+  {
+    "id": "sigala-gala",
+    "name": "Sigala Gala",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-sundur",
+    "name": "Aek Sundur",
+    "district": "dolok"
+  },
+  {
+    "id": "janji-matogu",
+    "name": "Janji Matogu",
+    "district": "dolok"
+  },
+  {
+    "id": "binanga-gumbot",
+    "name": "Binanga Gumbot",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-haruaya",
+    "name": "Aek Haruaya",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-suhat-tr",
+    "name": "Aek Suhat Tr",
+    "district": "dolok"
+  },
+  {
+    "id": "sialang-dolok",
+    "name": "Sialang Dolok",
+    "district": "dolok"
+  },
+  {
+    "id": "siranap",
+    "name": "Siranap",
+    "district": "dolok"
+  },
+  {
+    "id": "jambur-batu",
+    "name": "Jambur Batu",
+    "district": "dolok"
+  },
+  {
+    "id": "mompang-dolok",
+    "name": "Mompang Dolok",
+    "district": "dolok"
+  },
+  {
+    "id": "mompang-lombang",
+    "name": "Mompang Lombang",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-tangga",
+    "name": "Aek Tangga",
+    "district": "dolok"
+  },
+  {
+    "id": "simaninggir-sip",
+    "name": "Simaninggir Sip",
+    "district": "dolok"
+  },
+  {
+    "id": "pagaran-julu-i",
+    "name": "Pagaran Julu I",
+    "district": "dolok"
+  },
+  {
+    "id": "silogo-logo",
+    "name": "Silogo-Logo",
+    "district": "dolok"
+  },
+  {
+    "id": "pagaran-siregar",
+    "name": "Pagaran Siregar",
+    "district": "dolok"
+  },
+  {
+    "id": "siala-gundi",
+    "name": "Siala Gundi",
+    "district": "dolok"
+  },
+  {
+    "id": "simambal",
+    "name": "Simambal",
+    "district": "dolok"
+  },
+  {
+    "id": "baringin-sip",
+    "name": "Baringin Sip",
+    "district": "dolok"
+  },
+  {
+    "id": "siloung",
+    "name": "Siloung",
+    "district": "dolok"
+  },
+  {
+    "id": "napa-sundali",
+    "name": "Napa Sundali",
+    "district": "dolok"
+  },
+  {
+    "id": "sijorang",
+    "name": "Sijorang",
+    "district": "dolok"
+  },
+  {
+    "id": "sibio-bio",
+    "name": "Sibio-Bio",
+    "district": "dolok"
+  },
+  {
+    "id": "sunge-pining",
+    "name": "Sunge Pining",
+    "district": "dolok"
+  },
+  {
+    "id": "paya-ombik",
+    "name": "Paya Ombik",
+    "district": "dolok"
+  },
+  {
+    "id": "panca",
+    "name": "Panca",
+    "district": "dolok"
+  },
+  {
+    "id": "siguga",
+    "name": "Siguga",
+    "district": "dolok"
+  },
+  {
+    "id": "bandar-nauli",
+    "name": "Bandar Nauli",
+    "district": "dolok"
+  },
+  {
+    "id": "gunung-maria",
+    "name": "Gunung Maria",
+    "district": "dolok"
+  },
+  {
+    "id": "pagaran-julu-ii",
+    "name": "Pagaran Julu Ii",
+    "district": "dolok"
+  },
+  {
+    "id": "aek-suhat-jae",
+    "name": "Aek Suhat Jae",
+    "district": "dolok"
+  },
+  {
+    "id": "naga-saribu",
+    "name": "Naga Saribu",
+    "district": "dolok"
+  },
+  {
+    "id": "huala-baringin",
+    "name": "Huala Baringin",
+    "district": "dolok"
+  },
+  {
+    "id": "dolok-sanggul",
+    "name": "Dolok Sanggul",
+    "district": "dolok"
+  }
+]

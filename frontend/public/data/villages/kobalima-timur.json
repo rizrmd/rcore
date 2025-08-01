@@ -1,0 +1,22 @@
+[
+  {
+    "id": "alas-selatan",
+    "name": "Alas Selatan",
+    "district": "kobalima-timur"
+  },
+  {
+    "id": "alas",
+    "name": "Alas",
+    "district": "kobalima-timur"
+  },
+  {
+    "id": "kotabiru",
+    "name": "Kotabiru",
+    "district": "kobalima-timur"
+  },
+  {
+    "id": "alas-utara",
+    "name": "Alas Utara",
+    "district": "kobalima-timur"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rangkendak",
+    "name": "Rangkendak",
+    "district": "kayauni"
+  },
+  {
+    "id": "hamorkokma",
+    "name": "Hamorkokma",
+    "district": "kayauni"
+  },
+  {
+    "id": "kuagas",
+    "name": "Kuagas",
+    "district": "kayauni"
+  },
+  {
+    "id": "kayuni",
+    "name": "Kayuni",
+    "district": "kayauni"
+  },
+  {
+    "id": "ubadari",
+    "name": "Ubadari",
+    "district": "kayauni"
+  },
+  {
+    "id": "kaburbur",
+    "name": "Kaburbur",
+    "district": "kayauni"
+  },
+  {
+    "id": "mananmurrangkendak-ii",
+    "name": "Mananmur/Rangkendak Ii",
+    "district": "kayauni"
+  },
+  {
+    "id": "pattukar",
+    "name": "Pattukar",
+    "district": "kayauni"
+  },
+  {
+    "id": "warpa",
+    "name": "Warpa",
+    "district": "kayauni"
+  }
+]

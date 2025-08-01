@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "tana-lia"
+  },
+  {
+    "id": "sambungan",
+    "name": "Sambungan",
+    "district": "tana-lia"
+  },
+  {
+    "id": "tengku-dacing",
+    "name": "Tengku Dacing",
+    "district": "tana-lia"
+  },
+  {
+    "id": "tanah-merah-barat",
+    "name": "Tanah Merah Barat",
+    "district": "tana-lia"
+  },
+  {
+    "id": "sambungan-selatan",
+    "name": "Sambungan Selatan",
+    "district": "tana-lia"
+  }
+]

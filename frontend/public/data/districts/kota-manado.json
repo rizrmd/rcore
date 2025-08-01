@@ -1,0 +1,57 @@
+[
+  {
+    "id": "malalayang",
+    "name": "Malalayang",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "sario",
+    "name": "Sario",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "wanea",
+    "name": "Wanea",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "wenang",
+    "name": "Wenang",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "tikala",
+    "name": "Tikala",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "paal-dua",
+    "name": "Paal Dua",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "mapanget",
+    "name": "Mapanget",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "singkil",
+    "name": "Singkil",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "tuminting",
+    "name": "Tuminting",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "bunaken",
+    "name": "Bunaken",
+    "regency": "kota-manado"
+  },
+  {
+    "id": "bunaken-kepulauan",
+    "name": "Bunaken Kepulauan",
+    "regency": "kota-manado"
+  }
+]

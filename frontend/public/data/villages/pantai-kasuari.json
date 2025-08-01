@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sanapai",
+    "name": "Sanapai",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "eseib",
+    "name": "Eseib",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "bawor",
+    "name": "Bawor",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "seramit",
+    "name": "Seramit",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "yagamit",
+    "name": "Yagamit",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "yahui",
+    "name": "Yahui",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "kamur",
+    "name": "Kamur",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "hainam",
+    "name": "Hainam",
+    "district": "pantai-kasuari"
+  },
+  {
+    "id": "sarmafo",
+    "name": "Sarmafo",
+    "district": "pantai-kasuari"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "manumean",
+    "name": "Manumean",
+    "district": "biboki-feotleu"
+  },
+  {
+    "id": "kuluan",
+    "name": "Kuluan",
+    "district": "biboki-feotleu"
+  },
+  {
+    "id": "naku",
+    "name": "Naku",
+    "district": "biboki-feotleu"
+  },
+  {
+    "id": "makun",
+    "name": "Makun",
+    "district": "biboki-feotleu"
+  },
+  {
+    "id": "birunatun",
+    "name": "Birunatun",
+    "district": "biboki-feotleu"
+  }
+]

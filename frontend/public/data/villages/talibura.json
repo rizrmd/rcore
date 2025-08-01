@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nangahale",
+    "name": "Nangahale",
+    "district": "talibura"
+  },
+  {
+    "id": "talibura",
+    "name": "Talibura",
+    "district": "talibura"
+  },
+  {
+    "id": "darat-gunung",
+    "name": "Darat Gunung",
+    "district": "talibura"
+  },
+  {
+    "id": "darat-pantai",
+    "name": "Darat Pantai",
+    "district": "talibura"
+  },
+  {
+    "id": "hikong",
+    "name": "Hikong",
+    "district": "talibura"
+  },
+  {
+    "id": "kringa",
+    "name": "Kringa",
+    "district": "talibura"
+  },
+  {
+    "id": "ojang",
+    "name": "Ojang",
+    "district": "talibura"
+  },
+  {
+    "id": "wailamung",
+    "name": "Wailamung",
+    "district": "talibura"
+  },
+  {
+    "id": "lewomada",
+    "name": "Lewomada",
+    "district": "talibura"
+  },
+  {
+    "id": "timutawa",
+    "name": "Timutawa",
+    "district": "talibura"
+  },
+  {
+    "id": "baang-koor",
+    "name": "Baang Koor",
+    "district": "talibura"
+  }
+]

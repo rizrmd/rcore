@@ -1,0 +1,107 @@
+[
+  {
+    "id": "sungai-dalam",
+    "name": "Sungai Dalam",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "koto-tuo",
+    "name": "Koto Tuo",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "bedeng-baru",
+    "name": "Bedeng Baru",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "sungai-tanduk",
+    "name": "Sungai Tanduk",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "koto-panjang",
+    "name": "Koto Panjang",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "sungai-sampun",
+    "name": "Sungai Sampun",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "koto-tengah",
+    "name": "Koto Tengah",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "sungai-bendung-air",
+    "name": "Sungai Bendung Air",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "sangir",
+    "name": "Sangir",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "batang-sangir",
+    "name": "Batang Sangir",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "kersik-tuo",
+    "name": "Kersik Tuo",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "koto-periang",
+    "name": "Koto Periang",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "lindung-jaya",
+    "name": "Lindung Jaya",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "pasar-sungai-tanduk",
+    "name": "Pasar Sungai Tanduk",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "renah-kasah",
+    "name": "Renah Kasah",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "sangir-tengah",
+    "name": "Sangir Tengah",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "bendung-air-timur",
+    "name": "Bendung Air Timur",
+    "district": "kayu-aro"
+  },
+  {
+    "id": "tanjung-bungo",
+    "name": "Tanjung Bungo",
+    "district": "kayu-aro"
+  }
+]

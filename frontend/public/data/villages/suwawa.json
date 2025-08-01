@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tingkohubu",
+    "name": "Tingkohubu",
+    "district": "suwawa"
+  },
+  {
+    "id": "boludawa",
+    "name": "Boludawa",
+    "district": "suwawa"
+  },
+  {
+    "id": "huluduotamo",
+    "name": "Huluduotamo",
+    "district": "suwawa"
+  },
+  {
+    "id": "bubeya",
+    "name": "Bubeya",
+    "district": "suwawa"
+  },
+  {
+    "id": "bube-baru",
+    "name": "Bube Baru",
+    "district": "suwawa"
+  },
+  {
+    "id": "tinelo",
+    "name": "Tinelo",
+    "district": "suwawa"
+  },
+  {
+    "id": "ulanta",
+    "name": "Ulanta",
+    "district": "suwawa"
+  },
+  {
+    "id": "tingkohubu-timur",
+    "name": "Tingkohubu Timur",
+    "district": "suwawa"
+  },
+  {
+    "id": "helumo",
+    "name": "Helumo",
+    "district": "suwawa"
+  }
+]

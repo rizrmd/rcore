@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kertasari",
+    "name": "Kertasari",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "rantau-kadam",
+    "name": "Rantau Kadam",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "karang-dapo-i",
+    "name": "Karang Dapo I",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "karang-dapo",
+    "name": "Karang Dapo",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "setia-marga",
+    "name": "Setia Marga",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "biaro-baru",
+    "name": "Biaro Baru",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "biaro-lama",
+    "name": "Biaro Lama",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "aringin",
+    "name": "Aringin",
+    "district": "karang-dapo"
+  },
+  {
+    "id": "bina-karya",
+    "name": "Bina Karya",
+    "district": "karang-dapo"
+  }
+]

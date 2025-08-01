@@ -1,0 +1,47 @@
+[
+  {
+    "id": "meredan",
+    "name": "Meredan",
+    "district": "tualang"
+  },
+  {
+    "id": "tualang",
+    "name": "Tualang",
+    "district": "tualang"
+  },
+  {
+    "id": "pinang-sebatang",
+    "name": "Pinang Sebatang",
+    "district": "tualang"
+  },
+  {
+    "id": "meredan-barat",
+    "name": "Meredan Barat",
+    "district": "tualang"
+  },
+  {
+    "id": "pinang-sebatang-barat",
+    "name": "Pinang Sebatang Barat",
+    "district": "tualang"
+  },
+  {
+    "id": "pinang-sebatang-timur",
+    "name": "Pinang Sebatang Timur",
+    "district": "tualang"
+  },
+  {
+    "id": "perawang-barat",
+    "name": "Perawang Barat",
+    "district": "tualang"
+  },
+  {
+    "id": "perawang",
+    "name": "Perawang",
+    "district": "tualang"
+  },
+  {
+    "id": "tualang-timur",
+    "name": "Tualang Timur",
+    "district": "tualang"
+  }
+]

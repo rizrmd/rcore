@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gunia",
+    "name": "Gunia",
+    "district": "moba"
+  },
+  {
+    "id": "kwegono",
+    "name": "Kwegono",
+    "district": "moba"
+  },
+  {
+    "id": "yeretma",
+    "name": "Yeretma",
+    "district": "moba"
+  },
+  {
+    "id": "anggulpa",
+    "name": "Anggulpa",
+    "district": "moba"
+  },
+  {
+    "id": "moba-dua",
+    "name": "Moba Dua",
+    "district": "moba"
+  },
+  {
+    "id": "langpang",
+    "name": "Langpang",
+    "district": "moba"
+  },
+  {
+    "id": "pijama",
+    "name": "Pijama",
+    "district": "moba"
+  },
+  {
+    "id": "moba",
+    "name": "Moba",
+    "district": "moba"
+  }
+]

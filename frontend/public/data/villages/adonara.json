@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tikatukang",
+    "name": "Tikatukang",
+    "district": "adonara"
+  },
+  {
+    "id": "lamahoda",
+    "name": "Lamahoda",
+    "district": "adonara"
+  },
+  {
+    "id": "kolilanang",
+    "name": "Kolilanang",
+    "district": "adonara"
+  },
+  {
+    "id": "sagu",
+    "name": "Sagu",
+    "district": "adonara"
+  },
+  {
+    "id": "adonara",
+    "name": "Adonara",
+    "district": "adonara"
+  },
+  {
+    "id": "nisa-nulan",
+    "name": "Nisa Nulan",
+    "district": "adonara"
+  },
+  {
+    "id": "koli-masang",
+    "name": "Koli Masang",
+    "district": "adonara"
+  },
+  {
+    "id": "kolipetung",
+    "name": "Kolipetung",
+    "district": "adonara"
+  }
+]

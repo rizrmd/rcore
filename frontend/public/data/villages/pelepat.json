@@ -1,0 +1,77 @@
+[
+  {
+    "id": "batu-kerbau",
+    "name": "Batu Kerbau",
+    "district": "pelepat"
+  },
+  {
+    "id": "baru-pelepat",
+    "name": "Baru Pelepat",
+    "district": "pelepat"
+  },
+  {
+    "id": "rantel",
+    "name": "Rantel",
+    "district": "pelepat"
+  },
+  {
+    "id": "balai-jaya",
+    "name": "Balai Jaya",
+    "district": "pelepat"
+  },
+  {
+    "id": "sungai-beringin",
+    "name": "Sungai Beringin",
+    "district": "pelepat"
+  },
+  {
+    "id": "rantau-keloyang",
+    "name": "Rantau Keloyang",
+    "district": "pelepat"
+  },
+  {
+    "id": "dwi-karya-bakti",
+    "name": "Dwi Karya Bakti",
+    "district": "pelepat"
+  },
+  {
+    "id": "mulia-jaya",
+    "name": "Mulia Jaya",
+    "district": "pelepat"
+  },
+  {
+    "id": "gapura-suci",
+    "name": "Gapura Suci",
+    "district": "pelepat"
+  },
+  {
+    "id": "mulia-bakti",
+    "name": "Mulia Bakti",
+    "district": "pelepat"
+  },
+  {
+    "id": "cilodang",
+    "name": "Cilodang",
+    "district": "pelepat"
+  },
+  {
+    "id": "sungai-gurun",
+    "name": "Sungai Gurun",
+    "district": "pelepat"
+  },
+  {
+    "id": "senamat",
+    "name": "Senamat",
+    "district": "pelepat"
+  },
+  {
+    "id": "sekampil",
+    "name": "Sekampil",
+    "district": "pelepat"
+  },
+  {
+    "id": "bukit-telago",
+    "name": "Bukit Telago",
+    "district": "pelepat"
+  }
+]

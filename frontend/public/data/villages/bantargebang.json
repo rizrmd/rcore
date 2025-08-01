@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ciketingudik",
+    "name": "Ciketingudik",
+    "district": "bantargebang"
+  },
+  {
+    "id": "sumur-batu",
+    "name": "Sumur Batu",
+    "district": "bantargebang"
+  },
+  {
+    "id": "cikiwul",
+    "name": "Cikiwul",
+    "district": "bantargebang"
+  },
+  {
+    "id": "bantargebang",
+    "name": "Bantargebang",
+    "district": "bantargebang"
+  }
+]

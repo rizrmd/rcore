@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sinarjaya",
+    "name": "Sinarjaya",
+    "district": "bungbulang"
+  },
+  {
+    "id": "tegalega",
+    "name": "Tegalega",
+    "district": "bungbulang"
+  },
+  {
+    "id": "wangunjaya",
+    "name": "Wangunjaya",
+    "district": "bungbulang"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "bungbulang"
+  },
+  {
+    "id": "hanjuang",
+    "name": "Hanjuang",
+    "district": "bungbulang"
+  },
+  {
+    "id": "margalaksana",
+    "name": "Margalaksana",
+    "district": "bungbulang"
+  },
+  {
+    "id": "gunamekar",
+    "name": "Gunamekar",
+    "district": "bungbulang"
+  },
+  {
+    "id": "bungbulang",
+    "name": "Bungbulang",
+    "district": "bungbulang"
+  },
+  {
+    "id": "cihikeu",
+    "name": "Cihikeu",
+    "district": "bungbulang"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "bungbulang"
+  },
+  {
+    "id": "mekarbakti",
+    "name": "Mekarbakti",
+    "district": "bungbulang"
+  },
+  {
+    "id": "gunung-jampang",
+    "name": "Gunung Jampang",
+    "district": "bungbulang"
+  },
+  {
+    "id": "hegarmanah",
+    "name": "Hegarmanah",
+    "district": "bungbulang"
+  }
+]

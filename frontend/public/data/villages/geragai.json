@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rantau-karya",
+    "name": "Rantau Karya",
+    "district": "geragai"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "geragai"
+  },
+  {
+    "id": "pandan-lagan",
+    "name": "Pandan Lagan",
+    "district": "geragai"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "geragai"
+  },
+  {
+    "id": "pandan-makmur",
+    "name": "Pandan Makmur",
+    "district": "geragai"
+  },
+  {
+    "id": "pandan-sejahtera",
+    "name": "Pandan Sejahtera",
+    "district": "geragai"
+  },
+  {
+    "id": "pandan-jaya",
+    "name": "Pandan Jaya",
+    "district": "geragai"
+  },
+  {
+    "id": "lagan-ulu",
+    "name": "Lagan Ulu",
+    "district": "geragai"
+  },
+  {
+    "id": "lagan-tengah",
+    "name": "Lagan Tengah",
+    "district": "geragai"
+  }
+]

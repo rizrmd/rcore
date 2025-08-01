@@ -1,0 +1,22 @@
+[
+  {
+    "id": "langkuru",
+    "name": "Langkuru",
+    "district": "pureman"
+  },
+  {
+    "id": "kailesa",
+    "name": "Kailesa",
+    "district": "pureman"
+  },
+  {
+    "id": "purnama",
+    "name": "Purnama",
+    "district": "pureman"
+  },
+  {
+    "id": "langkuru-utara",
+    "name": "Langkuru Utara",
+    "district": "pureman"
+  }
+]

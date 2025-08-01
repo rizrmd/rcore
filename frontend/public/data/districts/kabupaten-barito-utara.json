@@ -1,0 +1,47 @@
+[
+  {
+    "id": "montallat",
+    "name": "Montallat",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "gunung-timang",
+    "name": "Gunung Timang",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "gunung-purei",
+    "name": "Gunung Purei",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "teweh-timur",
+    "name": "Teweh Timur",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "teweh-tengah",
+    "name": "Teweh Tengah",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "teweh-baru",
+    "name": "Teweh  Baru",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "teweh-selatan",
+    "name": "Teweh Selatan",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "lahei",
+    "name": "Lahei",
+    "regency": "kabupaten-barito-utara"
+  },
+  {
+    "id": "lahei-barat",
+    "name": "Lahei Barat",
+    "regency": "kabupaten-barito-utara"
+  }
+]

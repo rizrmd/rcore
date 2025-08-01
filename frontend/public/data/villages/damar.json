@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sukamandi",
+    "name": "Sukamandi",
+    "district": "damar"
+  },
+  {
+    "id": "mengkubang",
+    "name": "Mengkubang",
+    "district": "damar"
+  },
+  {
+    "id": "burung-mandi",
+    "name": "Burung Mandi",
+    "district": "damar"
+  },
+  {
+    "id": "mempaya",
+    "name": "Mempaya",
+    "district": "damar"
+  },
+  {
+    "id": "air-kelik",
+    "name": "Air Kelik",
+    "district": "damar"
+  }
+]

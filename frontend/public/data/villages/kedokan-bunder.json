@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kedokanbunder-wetan",
+    "name": "Kedokanbunder Wetan",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "kaplongan",
+    "name": "Kaplongan",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "kedokan-agung",
+    "name": "Kedokan Agung",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "kedokanbunder",
+    "name": "Kedokanbunder",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "jayawinangun",
+    "name": "Jayawinangun",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "cangkingan",
+    "name": "Cangkingan",
+    "district": "kedokan-bunder"
+  },
+  {
+    "id": "jayalaksana",
+    "name": "Jayalaksana",
+    "district": "kedokan-bunder"
+  }
+]

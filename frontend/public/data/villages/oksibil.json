@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kabiding",
+    "name": "Kabiding",
+    "district": "oksibil"
+  },
+  {
+    "id": "mabilabol",
+    "name": "Mabilabol",
+    "district": "oksibil"
+  },
+  {
+    "id": "okmakot",
+    "name": "Okmakot",
+    "district": "oksibil"
+  },
+  {
+    "id": "polsam",
+    "name": "Polsam",
+    "district": "oksibil"
+  },
+  {
+    "id": "banumdol",
+    "name": "Banumdol",
+    "district": "oksibil"
+  },
+  {
+    "id": "molbib-silibib",
+    "name": "Molbib Silibib",
+    "district": "oksibil"
+  },
+  {
+    "id": "aldom",
+    "name": "Aldom",
+    "district": "oksibil"
+  },
+  {
+    "id": "kotdol",
+    "name": "Kotdol",
+    "district": "oksibil"
+  }
+]

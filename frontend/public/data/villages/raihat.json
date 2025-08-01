@@ -1,0 +1,32 @@
+[
+  {
+    "id": "asumanu",
+    "name": "Asumanu",
+    "district": "raihat"
+  },
+  {
+    "id": "tohe",
+    "name": "Tohe",
+    "district": "raihat"
+  },
+  {
+    "id": "raifatus",
+    "name": "Raifatus",
+    "district": "raihat"
+  },
+  {
+    "id": "aitoun",
+    "name": "Aitoun",
+    "district": "raihat"
+  },
+  {
+    "id": "maumutin",
+    "name": "Maumutin",
+    "district": "raihat"
+  },
+  {
+    "id": "tohe-leten",
+    "name": "Tohe Leten",
+    "district": "raihat"
+  }
+]

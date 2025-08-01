@@ -1,0 +1,47 @@
+[
+  {
+    "id": "air-putih-lama",
+    "name": "Air Putih Lama",
+    "district": "curup"
+  },
+  {
+    "id": "air-rambai",
+    "name": "Air Rambai",
+    "district": "curup"
+  },
+  {
+    "id": "dwi-tunggal",
+    "name": "Dwi Tunggal",
+    "district": "curup"
+  },
+  {
+    "id": "adirejo",
+    "name": "Adirejo",
+    "district": "curup"
+  },
+  {
+    "id": "talang-benih",
+    "name": "Talang Benih",
+    "district": "curup"
+  },
+  {
+    "id": "jalan-baru",
+    "name": "Jalan Baru",
+    "district": "curup"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "curup"
+  },
+  {
+    "id": "pasar-tengah",
+    "name": "Pasar Tengah",
+    "district": "curup"
+  },
+  {
+    "id": "timbul-rejo",
+    "name": "Timbul Rejo",
+    "district": "curup"
+  }
+]

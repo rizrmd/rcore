@@ -1,0 +1,37 @@
+[
+  {
+    "id": "menteng-dalam",
+    "name": "Menteng Dalam",
+    "district": "tebet"
+  },
+  {
+    "id": "tebet-barat",
+    "name": "Tebet Barat",
+    "district": "tebet"
+  },
+  {
+    "id": "tebet-timur",
+    "name": "Tebet Timur",
+    "district": "tebet"
+  },
+  {
+    "id": "kebon-baru",
+    "name": "Kebon Baru",
+    "district": "tebet"
+  },
+  {
+    "id": "bukit-duri",
+    "name": "Bukit Duri",
+    "district": "tebet"
+  },
+  {
+    "id": "manggarai-selatan",
+    "name": "Manggarai Selatan",
+    "district": "tebet"
+  },
+  {
+    "id": "manggarai",
+    "name": "Manggarai",
+    "district": "tebet"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "makkawaru",
+    "name": "Makkawaru",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "alitta",
+    "name": "Alitta",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "pannanrang",
+    "name": "Pannanrang",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "padaidi",
+    "name": "Padaidi",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "manarang",
+    "name": "Manarang",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "padaelo",
+    "name": "Padaelo",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "padakkalawa",
+    "name": "Padakkalawa",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "marannu",
+    "name": "Marannu",
+    "district": "mattiro-bulu"
+  },
+  {
+    "id": "bunga",
+    "name": "Bunga",
+    "district": "mattiro-bulu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "onang",
+    "name": "Onang",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "onang-utara",
+    "name": "Onang Utara",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "tubo-selatan",
+    "name": "Tubo Selatan",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "tubo",
+    "name": "Tubo",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "bonde-bonde",
+    "name": "Bonde-Bonde",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "tubo-tengah",
+    "name": "Tubo Tengah",
+    "district": "tubo-sendana"
+  },
+  {
+    "id": "tubo-poang",
+    "name": "Tubo Poang",
+    "district": "tubo-sendana"
+  }
+]

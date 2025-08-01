@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sepatin",
+    "name": "Sepatin",
+    "district": "anggana"
+  },
+  {
+    "id": "muara-pantuan",
+    "name": "Muara Pantuan",
+    "district": "anggana"
+  },
+  {
+    "id": "tani-baru",
+    "name": "Tani Baru",
+    "district": "anggana"
+  },
+  {
+    "id": "kutai-lama",
+    "name": "Kutai Lama",
+    "district": "anggana"
+  },
+  {
+    "id": "anggana",
+    "name": "Anggana",
+    "district": "anggana"
+  },
+  {
+    "id": "sungai-meriam",
+    "name": "Sungai Meriam",
+    "district": "anggana"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "anggana"
+  },
+  {
+    "id": "handil-terusan",
+    "name": "Handil Terusan",
+    "district": "anggana"
+  }
+]

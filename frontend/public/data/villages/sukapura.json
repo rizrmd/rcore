@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ngadisari",
+    "name": "Ngadisari",
+    "district": "sukapura"
+  },
+  {
+    "id": "sariwani",
+    "name": "Sariwani",
+    "district": "sukapura"
+  },
+  {
+    "id": "kedasih",
+    "name": "Kedasih",
+    "district": "sukapura"
+  },
+  {
+    "id": "pakel",
+    "name": "Pakel",
+    "district": "sukapura"
+  },
+  {
+    "id": "sukapura",
+    "name": "Sukapura",
+    "district": "sukapura"
+  },
+  {
+    "id": "sapikerep",
+    "name": "Sapikerep",
+    "district": "sukapura"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "sukapura"
+  },
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "sukapura"
+  },
+  {
+    "id": "ngadas",
+    "name": "Ngadas",
+    "district": "sukapura"
+  },
+  {
+    "id": "jetak",
+    "name": "Jetak",
+    "district": "sukapura"
+  },
+  {
+    "id": "wonotoro",
+    "name": "Wonotoro",
+    "district": "sukapura"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ambunten-barat",
+    "name": "Ambunten Barat",
+    "district": "ambunten"
+  },
+  {
+    "id": "ambunten-tengah",
+    "name": "Ambunten Tengah",
+    "district": "ambunten"
+  },
+  {
+    "id": "ambunten-timur",
+    "name": "Ambunten Timur",
+    "district": "ambunten"
+  },
+  {
+    "id": "tambaagung-barat",
+    "name": "Tambaagung Barat",
+    "district": "ambunten"
+  },
+  {
+    "id": "tambaagung-tengah",
+    "name": "Tambaagung Tengah",
+    "district": "ambunten"
+  },
+  {
+    "id": "tambaagung-ares",
+    "name": "Tambaagung Ares",
+    "district": "ambunten"
+  },
+  {
+    "id": "sogian",
+    "name": "Sogian",
+    "district": "ambunten"
+  },
+  {
+    "id": "tambaagung-timur",
+    "name": "Tambaagung Timur",
+    "district": "ambunten"
+  },
+  {
+    "id": "bukabu",
+    "name": "Bukabu",
+    "district": "ambunten"
+  },
+  {
+    "id": "campor-barat",
+    "name": "Campor Barat",
+    "district": "ambunten"
+  },
+  {
+    "id": "campor-timur",
+    "name": "Campor Timur",
+    "district": "ambunten"
+  },
+  {
+    "id": "beluk-ares",
+    "name": "Beluk Ares",
+    "district": "ambunten"
+  },
+  {
+    "id": "beluk-raja",
+    "name": "Beluk Raja",
+    "district": "ambunten"
+  }
+]

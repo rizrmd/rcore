@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nglampin",
+    "name": "Nglampin",
+    "district": "ngambon"
+  },
+  {
+    "id": "karangmangu",
+    "name": "Karangmangu",
+    "district": "ngambon"
+  },
+  {
+    "id": "ngambon",
+    "name": "Ngambon",
+    "district": "ngambon"
+  },
+  {
+    "id": "sengon",
+    "name": "Sengon",
+    "district": "ngambon"
+  },
+  {
+    "id": "bondol",
+    "name": "Bondol",
+    "district": "ngambon"
+  }
+]

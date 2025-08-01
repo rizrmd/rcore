@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sibolga-ilir",
+    "name": "Sibolga Ilir",
+    "district": "sibolga-utara"
+  },
+  {
+    "id": "angin-nauli",
+    "name": "Angin Nauli",
+    "district": "sibolga-utara"
+  },
+  {
+    "id": "huta-tonga-tonga",
+    "name": "Huta Tonga Tonga",
+    "district": "sibolga-utara"
+  },
+  {
+    "id": "huta-barangan",
+    "name": "Huta Barangan",
+    "district": "sibolga-utara"
+  },
+  {
+    "id": "simare-mare",
+    "name": "Simare-Mare",
+    "district": "sibolga-utara"
+  }
+]

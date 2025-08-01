@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pandak",
+    "name": "Pandak",
+    "district": "balong"
+  },
+  {
+    "id": "bulukidul",
+    "name": "Bulukidul",
+    "district": "balong"
+  },
+  {
+    "id": "bulak",
+    "name": "Bulak",
+    "district": "balong"
+  },
+  {
+    "id": "karangpatihan",
+    "name": "Karangpatihan",
+    "district": "balong"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "balong"
+  },
+  {
+    "id": "ngraket",
+    "name": "Ngraket",
+    "district": "balong"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "balong"
+  },
+  {
+    "id": "singkil",
+    "name": "Singkil",
+    "district": "balong"
+  },
+  {
+    "id": "karangan",
+    "name": "Karangan",
+    "district": "balong"
+  },
+  {
+    "id": "bajang",
+    "name": "Bajang",
+    "district": "balong"
+  },
+  {
+    "id": "balong",
+    "name": "Balong",
+    "district": "balong"
+  },
+  {
+    "id": "jalen",
+    "name": "Jalen",
+    "district": "balong"
+  },
+  {
+    "id": "karangmojo",
+    "name": "Karangmojo",
+    "district": "balong"
+  },
+  {
+    "id": "sedarat",
+    "name": "Sedarat",
+    "district": "balong"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "balong"
+  },
+  {
+    "id": "tatung",
+    "name": "Tatung",
+    "district": "balong"
+  },
+  {
+    "id": "ngampel",
+    "name": "Ngampel",
+    "district": "balong"
+  }
+]

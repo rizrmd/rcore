@@ -1,0 +1,52 @@
+[
+  {
+    "id": "salamahu",
+    "name": "Salamahu",
+    "district": "tehoru"
+  },
+  {
+    "id": "haya",
+    "name": "Haya",
+    "district": "tehoru"
+  },
+  {
+    "id": "tehoru",
+    "name": "Tehoru",
+    "district": "tehoru"
+  },
+  {
+    "id": "saunulu",
+    "name": "Saunulu",
+    "district": "tehoru"
+  },
+  {
+    "id": "yaputih",
+    "name": "Yaputih",
+    "district": "tehoru"
+  },
+  {
+    "id": "piliana",
+    "name": "Piliana",
+    "district": "tehoru"
+  },
+  {
+    "id": "hatu",
+    "name": "Hatu",
+    "district": "tehoru"
+  },
+  {
+    "id": "hatumete",
+    "name": "Hatumete",
+    "district": "tehoru"
+  },
+  {
+    "id": "mosso",
+    "name": "Mosso",
+    "district": "tehoru"
+  },
+  {
+    "id": "telutih-baru",
+    "name": "Telutih Baru",
+    "district": "tehoru"
+  }
+]

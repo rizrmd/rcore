@@ -1,0 +1,42 @@
+[
+  {
+    "id": "payung",
+    "name": "Payung",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "pulau-besar",
+    "name": "Pulau Besar",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "simpang-rimba",
+    "name": "Simpang Rimba",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "toboali",
+    "name": "Toboali",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "tukak-sadai",
+    "name": "Tukak Sadai",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "air-gegas",
+    "name": "Air Gegas",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "lepar-pongok",
+    "name": "Lepar Pongok",
+    "regency": "kabupaten-bangka-selatan"
+  },
+  {
+    "id": "kepulauan-pongok",
+    "name": "Kepulauan Pongok",
+    "regency": "kabupaten-bangka-selatan"
+  }
+]

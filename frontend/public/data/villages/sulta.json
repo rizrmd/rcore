@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kapoya",
+    "name": "Kapoya",
+    "district": "sulta"
+  },
+  {
+    "id": "pinapalangkow",
+    "name": "Pinapalangkow",
+    "district": "sulta"
+  },
+  {
+    "id": "suluun-dua",
+    "name": "Suluun Dua",
+    "district": "sulta"
+  },
+  {
+    "id": "suluun-empat",
+    "name": "Suluun Empat",
+    "district": "sulta"
+  },
+  {
+    "id": "suluun-satu",
+    "name": "Suluun Satu",
+    "district": "sulta"
+  },
+  {
+    "id": "suluun-tiga",
+    "name": "Suluun Tiga",
+    "district": "sulta"
+  },
+  {
+    "id": "talaitad",
+    "name": "Talaitad",
+    "district": "sulta"
+  },
+  {
+    "id": "kapoya-satu",
+    "name": "Kapoya Satu",
+    "district": "sulta"
+  },
+  {
+    "id": "talaitad-utara",
+    "name": "Talaitad Utara",
+    "district": "sulta"
+  }
+]

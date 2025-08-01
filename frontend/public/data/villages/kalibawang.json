@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mergolangu",
+    "name": "Mergolangu",
+    "district": "kalibawang"
+  },
+  {
+    "id": "pengarengan",
+    "name": "Pengarengan",
+    "district": "kalibawang"
+  },
+  {
+    "id": "kalikarung",
+    "name": "Kalikarung",
+    "district": "kalibawang"
+  },
+  {
+    "id": "karangsambung",
+    "name": "Karangsambung",
+    "district": "kalibawang"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "kalibawang"
+  },
+  {
+    "id": "kalialang",
+    "name": "Kalialang",
+    "district": "kalibawang"
+  },
+  {
+    "id": "tempurejo",
+    "name": "Tempurejo",
+    "district": "kalibawang"
+  },
+  {
+    "id": "banjararum",
+    "name": "Banjararum",
+    "district": "kalibawang"
+  },
+  {
+    "id": "banjarasri",
+    "name": "Banjarasri",
+    "district": "kalibawang"
+  },
+  {
+    "id": "banjarharjo",
+    "name": "Banjarharjo",
+    "district": "kalibawang"
+  },
+  {
+    "id": "banjaroyo",
+    "name": "Banjaroyo",
+    "district": "kalibawang"
+  }
+]

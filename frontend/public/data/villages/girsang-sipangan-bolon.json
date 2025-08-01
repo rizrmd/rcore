@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sipangan-bolon",
+    "name": "Sipangan Bolon",
+    "district": "girsang-sipangan-bolon"
+  },
+  {
+    "id": "girsang",
+    "name": "Girsang",
+    "district": "girsang-sipangan-bolon"
+  },
+  {
+    "id": "parapat",
+    "name": "Parapat",
+    "district": "girsang-sipangan-bolon"
+  },
+  {
+    "id": "tiga-raja",
+    "name": "Tiga Raja",
+    "district": "girsang-sipangan-bolon"
+  },
+  {
+    "id": "sibaganding",
+    "name": "Sibaganding",
+    "district": "girsang-sipangan-bolon"
+  },
+  {
+    "id": "sipangan-bolon-mekar",
+    "name": "Sipangan Bolon Mekar",
+    "district": "girsang-sipangan-bolon"
+  }
+]

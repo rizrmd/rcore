@@ -1,0 +1,32 @@
+[
+  {
+    "id": "layeun",
+    "name": "Layeun",
+    "district": "leupung"
+  },
+  {
+    "id": "pulot",
+    "name": "Pulot",
+    "district": "leupung"
+  },
+  {
+    "id": "lamseunia",
+    "name": "Lamseunia",
+    "district": "leupung"
+  },
+  {
+    "id": "meunasah-mesjid",
+    "name": "Meunasah Mesjid",
+    "district": "leupung"
+  },
+  {
+    "id": "meunasah-bak-u",
+    "name": "Meunasah Bak U",
+    "district": "leupung"
+  },
+  {
+    "id": "dayah-mamplam",
+    "name": "Dayah Mamplam",
+    "district": "leupung"
+  }
+]

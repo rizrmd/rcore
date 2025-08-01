@@ -1,0 +1,227 @@
+[
+  {
+    "id": "gahru",
+    "name": "Gahru",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "kumba",
+    "name": "Kumba",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "blang-miroe",
+    "name": "Blang Miroe",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "beurasan",
+    "name": "Beurasan",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "cot-keng",
+    "name": "Cot Keng",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "krueng-kiran",
+    "name": "Krueng Kiran",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "asan-kumbang",
+    "name": "Asan Kumbang",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "pulo-gapu",
+    "name": "Pulo Gapu",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "cot-gurufai",
+    "name": "Cot Gurufai",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "alue-sane",
+    "name": "Alue Sane",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "lhok-pusong",
+    "name": "Lhok Pusong",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "alue-keutapang",
+    "name": "Alue Keutapang",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "jeulanga-barat",
+    "name": "Jeulanga Barat",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "jeulanga-mata-ie",
+    "name": "Jeulanga Mata Ie",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "jeulanga-mesjid",
+    "name": "Jeulanga Mesjid",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "meunasah-paku",
+    "name": "Meunasah Paku",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "meurandeh-alue",
+    "name": "Meurandeh Alue",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "reudeup-melayu",
+    "name": "Reudeup Melayu",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "paya-pisang-klat",
+    "name": "Paya Pisang Klat",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "alue-mee",
+    "name": "Alue Mee",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "drien-tujoh",
+    "name": "Drien Tujoh",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "blang-kuta",
+    "name": "Blang Kuta",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "seunong",
+    "name": "Seunong",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "pohroh",
+    "name": "Pohroh",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "babah-krueng",
+    "name": "Babah Krueng",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "uteun-bayu",
+    "name": "Uteun Bayu",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "muko-buloh",
+    "name": "Muko Buloh",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "drien-bungong",
+    "name": "Drien Bungong",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "meugit-sagoe",
+    "name": "Meugit Sagoe",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "meugit-kayee-panyang",
+    "name": "Meugit Kayee Panyang",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "adan",
+    "name": "Adan",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "muko-dayah",
+    "name": "Muko Dayah",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "keude-ulee-gle",
+    "name": "Keude Ulee Gle",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "gampong-ulee-gle",
+    "name": "Gampong Ulee Gle",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "muko-kuthang",
+    "name": "Muko Kuthang",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "peulakan-tunong",
+    "name": "Peulakan Tunong",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "peulakan-tambo",
+    "name": "Peulakan Tambo",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "kuta-krueng",
+    "name": "Kuta Krueng",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "paya-tunong",
+    "name": "Paya Tunong",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "paya-baroh",
+    "name": "Paya Baroh",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "blang-dalam",
+    "name": "Blang Dalam",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "mukoe-baroh",
+    "name": "Mukoe Baroh",
+    "district": "bandar-dua"
+  },
+  {
+    "id": "peulakan-cibrek",
+    "name": "Peulakan Cibrek",
+    "district": "bandar-dua"
+  }
+]

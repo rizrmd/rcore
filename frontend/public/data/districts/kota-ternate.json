@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pulau-ternate",
+    "name": "Pulau Ternate",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "moti",
+    "name": "Moti",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "pulau-batang-dua",
+    "name": "Pulau Batang Dua",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "pulau-hiri",
+    "name": "Pulau Hiri",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "ternate-barat",
+    "name": "Ternate Barat",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "ternate-selatan",
+    "name": "Ternate Selatan",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "ternate-tengah",
+    "name": "Ternate Tengah",
+    "regency": "kota-ternate"
+  },
+  {
+    "id": "ternate-utara",
+    "name": "Ternate Utara",
+    "regency": "kota-ternate"
+  }
+]

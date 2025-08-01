@@ -1,0 +1,52 @@
+[
+  {
+    "id": "redisari",
+    "name": "Redisari",
+    "district": "rowokele"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "rowokele"
+  },
+  {
+    "id": "pringtutul",
+    "name": "Pringtutul",
+    "district": "rowokele"
+  },
+  {
+    "id": "rowokele",
+    "name": "Rowokele",
+    "district": "rowokele"
+  },
+  {
+    "id": "bumiagung",
+    "name": "Bumiagung",
+    "district": "rowokele"
+  },
+  {
+    "id": "jatiluhur",
+    "name": "Jatiluhur",
+    "district": "rowokele"
+  },
+  {
+    "id": "sukomulyo",
+    "name": "Sukomulyo",
+    "district": "rowokele"
+  },
+  {
+    "id": "giyanti",
+    "name": "Giyanti",
+    "district": "rowokele"
+  },
+  {
+    "id": "wonoharjo",
+    "name": "Wonoharjo",
+    "district": "rowokele"
+  },
+  {
+    "id": "wagirpandan",
+    "name": "Wagirpandan",
+    "district": "rowokele"
+  }
+]

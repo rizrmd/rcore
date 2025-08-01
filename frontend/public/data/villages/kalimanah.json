@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jompo",
+    "name": "Jompo",
+    "district": "kalimanah"
+  },
+  {
+    "id": "rabak",
+    "name": "Rabak",
+    "district": "kalimanah"
+  },
+  {
+    "id": "blater",
+    "name": "Blater",
+    "district": "kalimanah"
+  },
+  {
+    "id": "sidakangen",
+    "name": "Sidakangen",
+    "district": "kalimanah"
+  },
+  {
+    "id": "karangpetir",
+    "name": "Karangpetir",
+    "district": "kalimanah"
+  },
+  {
+    "id": "grecol",
+    "name": "Grecol",
+    "district": "kalimanah"
+  },
+  {
+    "id": "karangmanyar",
+    "name": "Karangmanyar",
+    "district": "kalimanah"
+  },
+  {
+    "id": "kalikabong",
+    "name": "Kalikabong",
+    "district": "kalimanah"
+  },
+  {
+    "id": "selabaya",
+    "name": "Selabaya",
+    "district": "kalimanah"
+  },
+  {
+    "id": "kalimanah-wetan",
+    "name": "Kalimanah Wetan",
+    "district": "kalimanah"
+  },
+  {
+    "id": "kalimanah-kulon",
+    "name": "Kalimanah Kulon",
+    "district": "kalimanah"
+  },
+  {
+    "id": "manduraga",
+    "name": "Manduraga",
+    "district": "kalimanah"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "kalimanah"
+  },
+  {
+    "id": "klapasawit",
+    "name": "Klapasawit",
+    "district": "kalimanah"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "kalimanah"
+  }
+]

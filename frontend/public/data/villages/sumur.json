@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ujungjaya",
+    "name": "Ujungjaya",
+    "district": "sumur"
+  },
+  {
+    "id": "tamanjaya",
+    "name": "Tamanjaya",
+    "district": "sumur"
+  },
+  {
+    "id": "cigorondong",
+    "name": "Cigorondong",
+    "district": "sumur"
+  },
+  {
+    "id": "tunggaljaya",
+    "name": "Tunggaljaya",
+    "district": "sumur"
+  },
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "sumur"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "sumur"
+  },
+  {
+    "id": "sumberjaya",
+    "name": "Sumberjaya",
+    "district": "sumur"
+  }
+]

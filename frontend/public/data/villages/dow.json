@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bijere",
+    "name": "Bijere",
+    "district": "dow"
+  },
+  {
+    "id": "takri",
+    "name": "Takri",
+    "district": "dow"
+  },
+  {
+    "id": "prawa",
+    "name": "Prawa",
+    "district": "dow"
+  },
+  {
+    "id": "sigou",
+    "name": "Sigou",
+    "district": "dow"
+  },
+  {
+    "id": "dagari",
+    "name": "Dagari",
+    "district": "dow"
+  },
+  {
+    "id": "warka",
+    "name": "Warka",
+    "district": "dow"
+  },
+  {
+    "id": "pakare",
+    "name": "Pakare",
+    "district": "dow"
+  },
+  {
+    "id": "tigou",
+    "name": "Tigou",
+    "district": "dow"
+  },
+  {
+    "id": "bire",
+    "name": "Bire",
+    "district": "dow"
+  },
+  {
+    "id": "itoli",
+    "name": "Itoli",
+    "district": "dow"
+  },
+  {
+    "id": "vakuyo",
+    "name": "Vakuyo",
+    "district": "dow"
+  }
+]

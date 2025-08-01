@@ -1,0 +1,42 @@
+[
+  {
+    "id": "balla",
+    "name": "Balla",
+    "district": "balla"
+  },
+  {
+    "id": "balla-satanetean",
+    "name": "Balla Satanetean",
+    "district": "balla"
+  },
+  {
+    "id": "balla-barat",
+    "name": "Balla Barat",
+    "district": "balla"
+  },
+  {
+    "id": "pidara",
+    "name": "Pidara",
+    "district": "balla"
+  },
+  {
+    "id": "balla-tumuka",
+    "name": "Balla Tumuka'",
+    "district": "balla"
+  },
+  {
+    "id": "bambapuang",
+    "name": "Bambapuang",
+    "district": "balla"
+  },
+  {
+    "id": "sepakuan",
+    "name": "Sepakuan",
+    "district": "balla"
+  },
+  {
+    "id": "balla-timur",
+    "name": "Balla Timur",
+    "district": "balla"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "trikora",
+    "name": "Trikora",
+    "district": "trikora"
+  },
+  {
+    "id": "nanggo",
+    "name": "Nanggo",
+    "district": "trikora"
+  },
+  {
+    "id": "dinggilmo",
+    "name": "Dinggilmo",
+    "district": "trikora"
+  },
+  {
+    "id": "kora-jaya",
+    "name": "Kora Jaya",
+    "district": "trikora"
+  },
+  {
+    "id": "korambirik",
+    "name": "Korambirik",
+    "district": "trikora"
+  },
+  {
+    "id": "anggulpa",
+    "name": "Anggulpa",
+    "district": "trikora"
+  }
+]

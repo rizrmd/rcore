@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "datuk-bandar-timur"
+  },
+  {
+    "id": "selat-lancang",
+    "name": "Selat Lancang",
+    "district": "datuk-bandar-timur"
+  },
+  {
+    "id": "selat-tanjung-medan",
+    "name": "Selat Tanjung Medan",
+    "district": "datuk-bandar-timur"
+  },
+  {
+    "id": "semula-jadi",
+    "name": "Semula Jadi",
+    "district": "datuk-bandar-timur"
+  },
+  {
+    "id": "pulau-simardan",
+    "name": "Pulau Simardan",
+    "district": "datuk-bandar-timur"
+  }
+]

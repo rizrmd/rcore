@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kel-kotaraja",
+    "name": "Kel. Kotaraja",
+    "district": "ende-utara"
+  },
+  {
+    "id": "kel-kotaratu",
+    "name": "Kel. Kotaratu",
+    "district": "ende-utara"
+  },
+  {
+    "id": "kel-roworena",
+    "name": "Kel. Roworena",
+    "district": "ende-utara"
+  },
+  {
+    "id": "gheoghoma",
+    "name": "Gheoghoma",
+    "district": "ende-utara"
+  },
+  {
+    "id": "borokanda",
+    "name": "Borokanda",
+    "district": "ende-utara"
+  },
+  {
+    "id": "watusipi",
+    "name": "Watusipi",
+    "district": "ende-utara"
+  },
+  {
+    "id": "kel-roworena-barat",
+    "name": "Kel. Roworena Barat",
+    "district": "ende-utara"
+  },
+  {
+    "id": "mbomba",
+    "name": "Mbomba",
+    "district": "ende-utara"
+  },
+  {
+    "id": "embundoa",
+    "name": "Embundoa",
+    "district": "ende-utara"
+  },
+  {
+    "id": "raterua",
+    "name": "Raterua",
+    "district": "ende-utara"
+  }
+]

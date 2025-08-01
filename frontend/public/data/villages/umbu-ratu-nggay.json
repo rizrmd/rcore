@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mbilur-pangadu",
+    "name": "Mbilur Pangadu",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "prai-karoku-jangga",
+    "name": "Prai Karoku Jangga",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "padira-tana",
+    "name": "Padira Tana",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "soru",
+    "name": "Soru",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "weluk-prai-memang",
+    "name": "Weluk Prai Memang",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "maradesa",
+    "name": "Maradesa",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "bolubokat",
+    "name": "Bolubokat",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "bolubokat-utara",
+    "name": "Bolubokat Utara",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "lenang",
+    "name": "Lenang",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "ngadu-mbolu",
+    "name": "Ngadu Mbolu",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "tana-mbanas",
+    "name": "Tana Mbanas",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "maradesa-timur",
+    "name": "Maradesa Timur",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "maradesa-selatan",
+    "name": "Maradesa Selatan",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "tana-mbanas-selatan",
+    "name": "Tana Mbanas Selatan",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "tana-mbanas-barat",
+    "name": "Tana Mbanas Barat",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "ngadu-olu",
+    "name": "Ngadu Olu",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "lenang-selatan",
+    "name": "Lenang Selatan",
+    "district": "umbu-ratu-nggay"
+  },
+  {
+    "id": "bolubokat-barat",
+    "name": "Bolubokat Barat",
+    "district": "umbu-ratu-nggay"
+  }
+]

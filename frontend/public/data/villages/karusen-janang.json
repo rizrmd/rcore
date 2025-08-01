@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dayu",
+    "name": "Dayu",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "wuran",
+    "name": "Wuran",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "ipu-mea",
+    "name": "Ipu Mea",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "simpang-naneng",
+    "name": "Simpang Naneng",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "lagan",
+    "name": "Lagan",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "putut-tawuluh",
+    "name": "Putut Tawuluh",
+    "district": "karusen-janang"
+  },
+  {
+    "id": "kandris",
+    "name": "Kandris",
+    "district": "karusen-janang"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pasir-panjang",
+    "name": "Pasir Panjang",
+    "district": "danau-teluk"
+  },
+  {
+    "id": "tanjung-raden",
+    "name": "Tanjung Raden",
+    "district": "danau-teluk"
+  },
+  {
+    "id": "tanjung-pasir",
+    "name": "Tanjung Pasir",
+    "district": "danau-teluk"
+  },
+  {
+    "id": "olak-kemang",
+    "name": "Olak Kemang",
+    "district": "danau-teluk"
+  },
+  {
+    "id": "ulu-gedong",
+    "name": "Ulu Gedong",
+    "district": "danau-teluk"
+  }
+]

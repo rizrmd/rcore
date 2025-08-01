@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dairi",
+    "name": "Dairi",
+    "district": "kirihi"
+  },
+  {
+    "id": "spoiri",
+    "name": "Spoiri",
+    "district": "kirihi"
+  },
+  {
+    "id": "sooh",
+    "name": "Sooh",
+    "district": "kirihi"
+  },
+  {
+    "id": "diwa",
+    "name": "Diwa",
+    "district": "kirihi"
+  },
+  {
+    "id": "kawari",
+    "name": "Kawari",
+    "district": "kirihi"
+  },
+  {
+    "id": "kuaisa",
+    "name": "Kuaisa",
+    "district": "kirihi"
+  },
+  {
+    "id": "foida",
+    "name": "Foida",
+    "district": "kirihi"
+  },
+  {
+    "id": "dirou",
+    "name": "Dirou",
+    "district": "kirihi"
+  },
+  {
+    "id": "antu-aru",
+    "name": "Antu Aru",
+    "district": "kirihi"
+  },
+  {
+    "id": "wauka",
+    "name": "Wauka",
+    "district": "kirihi"
+  }
+]

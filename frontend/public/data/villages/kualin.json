@@ -1,0 +1,37 @@
+[
+  {
+    "id": "toineke",
+    "name": "Toineke",
+    "district": "kualin"
+  },
+  {
+    "id": "tuafanu",
+    "name": "Tuafanu",
+    "district": "kualin"
+  },
+  {
+    "id": "kiufatu",
+    "name": "Kiufatu",
+    "district": "kualin"
+  },
+  {
+    "id": "kualin",
+    "name": "Kualin",
+    "district": "kualin"
+  },
+  {
+    "id": "oni",
+    "name": "Oni",
+    "district": "kualin"
+  },
+  {
+    "id": "tuapakas",
+    "name": "Tuapakas",
+    "district": "kualin"
+  },
+  {
+    "id": "oemaman",
+    "name": "Oemaman",
+    "district": "kualin"
+  }
+]

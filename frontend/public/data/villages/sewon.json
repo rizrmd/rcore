@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pendowoharjo",
+    "name": "Pendowoharjo",
+    "district": "sewon"
+  },
+  {
+    "id": "timbulharjo",
+    "name": "Timbulharjo",
+    "district": "sewon"
+  },
+  {
+    "id": "bangunharjo",
+    "name": "Bangunharjo",
+    "district": "sewon"
+  },
+  {
+    "id": "panggungharjo",
+    "name": "Panggungharjo",
+    "district": "sewon"
+  }
+]

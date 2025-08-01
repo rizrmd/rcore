@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bendo",
+    "name": "Bendo",
+    "district": "ponggok"
+  },
+  {
+    "id": "jatilengger",
+    "name": "Jatilengger",
+    "district": "ponggok"
+  },
+  {
+    "id": "maliran",
+    "name": "Maliran",
+    "district": "ponggok"
+  },
+  {
+    "id": "kawedusan",
+    "name": "Kawedusan",
+    "district": "ponggok"
+  },
+  {
+    "id": "langon",
+    "name": "Langon",
+    "district": "ponggok"
+  },
+  {
+    "id": "dadaplangu",
+    "name": "Dadaplangu",
+    "district": "ponggok"
+  },
+  {
+    "id": "kebonduren",
+    "name": "Kebonduren",
+    "district": "ponggok"
+  },
+  {
+    "id": "pojok",
+    "name": "Pojok",
+    "district": "ponggok"
+  },
+  {
+    "id": "ponggok",
+    "name": "Ponggok",
+    "district": "ponggok"
+  },
+  {
+    "id": "karangbendo",
+    "name": "Karangbendo",
+    "district": "ponggok"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "ponggok"
+  },
+  {
+    "id": "bacem",
+    "name": "Bacem",
+    "district": "ponggok"
+  },
+  {
+    "id": "ringinanyar",
+    "name": "Ringinanyar",
+    "district": "ponggok"
+  },
+  {
+    "id": "gembongan",
+    "name": "Gembongan",
+    "district": "ponggok"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "ponggok"
+  }
+]

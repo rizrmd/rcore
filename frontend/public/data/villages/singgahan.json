@@ -1,0 +1,62 @@
+[
+  {
+    "id": "binangun",
+    "name": "Binangun",
+    "district": "singgahan"
+  },
+  {
+    "id": "saringembat",
+    "name": "Saringembat",
+    "district": "singgahan"
+  },
+  {
+    "id": "kedungjambe",
+    "name": "Kedungjambe",
+    "district": "singgahan"
+  },
+  {
+    "id": "tunggulrejo",
+    "name": "Tunggulrejo",
+    "district": "singgahan"
+  },
+  {
+    "id": "tanjungrejo",
+    "name": "Tanjungrejo",
+    "district": "singgahan"
+  },
+  {
+    "id": "lajo-kidul",
+    "name": "Lajo Kidul",
+    "district": "singgahan"
+  },
+  {
+    "id": "tanggir",
+    "name": "Tanggir",
+    "district": "singgahan"
+  },
+  {
+    "id": "mergosari",
+    "name": "Mergosari",
+    "district": "singgahan"
+  },
+  {
+    "id": "mulyorejo",
+    "name": "Mulyorejo",
+    "district": "singgahan"
+  },
+  {
+    "id": "tingkis",
+    "name": "Tingkis",
+    "district": "singgahan"
+  },
+  {
+    "id": "mulyoagung",
+    "name": "Mulyoagung",
+    "district": "singgahan"
+  },
+  {
+    "id": "lajo-lor",
+    "name": "Lajo Lor",
+    "district": "singgahan"
+  }
+]

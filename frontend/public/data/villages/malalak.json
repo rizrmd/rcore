@@ -1,0 +1,22 @@
+[
+  {
+    "id": "malalak-selatan",
+    "name": "Malalak Selatan",
+    "district": "malalak"
+  },
+  {
+    "id": "malalak-barat",
+    "name": "Malalak Barat",
+    "district": "malalak"
+  },
+  {
+    "id": "malalak-timur",
+    "name": "Malalak Timur",
+    "district": "malalak"
+  },
+  {
+    "id": "malalak-utara",
+    "name": "Malalak Utara",
+    "district": "malalak"
+  }
+]

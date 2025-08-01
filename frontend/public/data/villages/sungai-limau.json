@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pilubang",
+    "name": "Pilubang",
+    "district": "sungai-limau"
+  },
+  {
+    "id": "kuranji-hilir",
+    "name": "Kuranji Hilir",
+    "district": "sungai-limau"
+  },
+  {
+    "id": "koto-tinggi-kuranji-hilir",
+    "name": "Koto Tinggi Kuranji Hilir",
+    "district": "sungai-limau"
+  },
+  {
+    "id": "guguak-kuranji-hilir",
+    "name": "Guguak Kuranji Hilir",
+    "district": "sungai-limau"
+  }
+]

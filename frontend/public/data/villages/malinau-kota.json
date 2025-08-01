@@ -1,0 +1,32 @@
+[
+  {
+    "id": "batu-lidung",
+    "name": "Batu Lidung",
+    "district": "malinau-kota"
+  },
+  {
+    "id": "tanjung-keranjang",
+    "name": "Tanjung Keranjang",
+    "district": "malinau-kota"
+  },
+  {
+    "id": "malinau-hilir",
+    "name": "Malinau Hilir",
+    "district": "malinau-kota"
+  },
+  {
+    "id": "malinau-kota",
+    "name": "Malinau Kota",
+    "district": "malinau-kota"
+  },
+  {
+    "id": "pelita-kanaan",
+    "name": "Pelita Kanaan",
+    "district": "malinau-kota"
+  },
+  {
+    "id": "malinau-hulu",
+    "name": "Malinau Hulu",
+    "district": "malinau-kota"
+  }
+]

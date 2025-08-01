@@ -1,0 +1,62 @@
+[
+  {
+    "id": "logede",
+    "name": "Logede",
+    "district": "pejagoan"
+  },
+  {
+    "id": "kuwayuhan",
+    "name": "Kuwayuhan",
+    "district": "pejagoan"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "pejagoan"
+  },
+  {
+    "id": "pejagoan",
+    "name": "Pejagoan",
+    "district": "pejagoan"
+  },
+  {
+    "id": "kebulusan",
+    "name": "Kebulusan",
+    "district": "pejagoan"
+  },
+  {
+    "id": "aditirto",
+    "name": "Aditirto",
+    "district": "pejagoan"
+  },
+  {
+    "id": "karangpoh",
+    "name": "Karangpoh",
+    "district": "pejagoan"
+  },
+  {
+    "id": "prigi",
+    "name": "Prigi",
+    "district": "pejagoan"
+  },
+  {
+    "id": "kebagoran",
+    "name": "Kebagoran",
+    "district": "pejagoan"
+  },
+  {
+    "id": "pengaringan",
+    "name": "Pengaringan",
+    "district": "pejagoan"
+  },
+  {
+    "id": "peniron",
+    "name": "Peniron",
+    "district": "pejagoan"
+  },
+  {
+    "id": "watulawang",
+    "name": "Watulawang",
+    "district": "pejagoan"
+  }
+]

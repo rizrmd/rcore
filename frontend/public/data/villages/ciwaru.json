@@ -1,0 +1,62 @@
+[
+  {
+    "id": "citundun",
+    "name": "Citundun",
+    "district": "ciwaru"
+  },
+  {
+    "id": "sagaranten",
+    "name": "Sagaranten",
+    "district": "ciwaru"
+  },
+  {
+    "id": "sumberjaya",
+    "name": "Sumberjaya",
+    "district": "ciwaru"
+  },
+  {
+    "id": "lebakherang",
+    "name": "Lebakherang",
+    "district": "ciwaru"
+  },
+  {
+    "id": "cilayung",
+    "name": "Cilayung",
+    "district": "ciwaru"
+  },
+  {
+    "id": "ciwaru",
+    "name": "Ciwaru",
+    "district": "ciwaru"
+  },
+  {
+    "id": "lingga-jaya",
+    "name": "Lingga Jaya",
+    "district": "ciwaru"
+  },
+  {
+    "id": "karangbaru",
+    "name": "Karangbaru",
+    "district": "ciwaru"
+  },
+  {
+    "id": "garajati",
+    "name": "Garajati",
+    "district": "ciwaru"
+  },
+  {
+    "id": "baok",
+    "name": "Baok",
+    "district": "ciwaru"
+  },
+  {
+    "id": "andamui",
+    "name": "Andamui",
+    "district": "ciwaru"
+  },
+  {
+    "id": "citikur",
+    "name": "Citikur",
+    "district": "ciwaru"
+  }
+]

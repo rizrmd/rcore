@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jatimekar",
+    "name": "Jatimekar",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "cikaobandung",
+    "name": "Cikaobandung",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "jatiluhur",
+    "name": "Jatiluhur",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "cilegong",
+    "name": "Cilegong",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "kembangkuning",
+    "name": "Kembangkuning",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "cibinong",
+    "name": "Cibinong",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "parakanlima",
+    "name": "Parakanlima",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "cisalada",
+    "name": "Cisalada",
+    "district": "jatiluhur"
+  },
+  {
+    "id": "mekargalih",
+    "name": "Mekargalih",
+    "district": "jatiluhur"
+  }
+]

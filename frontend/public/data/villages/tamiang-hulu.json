@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kaloy",
+    "name": "Kaloy",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "rongoh",
+    "name": "Rongoh",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "alur-tani-i",
+    "name": "Alur Tani I",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "alur-tani-ii",
+    "name": "Alur Tani Ii",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "bandar-khalifah",
+    "name": "Bandar Khalifah",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "perk-pulau-tiga",
+    "name": "Perk Pulau Tiga",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "bandar-setia",
+    "name": "Bandar Setia",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "harum-sari",
+    "name": "Harum Sari",
+    "district": "tamiang-hulu"
+  },
+  {
+    "id": "wono-sari",
+    "name": "Wono Sari",
+    "district": "tamiang-hulu"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "buntu-sarong",
+    "name": "Buntu Sarong",
+    "district": "masalle"
+  },
+  {
+    "id": "masalle",
+    "name": "Masalle",
+    "district": "masalle"
+  },
+  {
+    "id": "rampunan",
+    "name": "Rampunan",
+    "district": "masalle"
+  },
+  {
+    "id": "mundan",
+    "name": "Mundan",
+    "district": "masalle"
+  },
+  {
+    "id": "tongkonan-basse",
+    "name": "Tongkonan Basse",
+    "district": "masalle"
+  },
+  {
+    "id": "batu-kede",
+    "name": "Batu Kede",
+    "district": "masalle"
+  }
+]

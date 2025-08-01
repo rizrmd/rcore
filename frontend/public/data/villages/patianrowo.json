@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lestari",
+    "name": "Lestari",
+    "district": "patianrowo"
+  },
+  {
+    "id": "pisang",
+    "name": "Pisang",
+    "district": "patianrowo"
+  },
+  {
+    "id": "ngrombot",
+    "name": "Ngrombot",
+    "district": "patianrowo"
+  },
+  {
+    "id": "tirtobinangun",
+    "name": "Tirtobinangun",
+    "district": "patianrowo"
+  },
+  {
+    "id": "rowomarto",
+    "name": "Rowomarto",
+    "district": "patianrowo"
+  },
+  {
+    "id": "pakuncen",
+    "name": "Pakuncen",
+    "district": "patianrowo"
+  },
+  {
+    "id": "patianrowo",
+    "name": "Patianrowo",
+    "district": "patianrowo"
+  },
+  {
+    "id": "babadan",
+    "name": "Babadan",
+    "district": "patianrowo"
+  }
+]

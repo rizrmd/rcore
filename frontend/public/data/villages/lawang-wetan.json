@@ -1,0 +1,77 @@
+[
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "karang-waru",
+    "name": "Karang Waru",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "bumi-ayu",
+    "name": "Bumi Ayu",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "ulak-paceh",
+    "name": "Ulak Paceh",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "tanjung-durian",
+    "name": "Tanjung Durian",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "napal",
+    "name": "Napal",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "rantau-kasih",
+    "name": "Rantau Kasih",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "karang-ringin-ii",
+    "name": "Karang Ringin Ii",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "karang-ringin-i",
+    "name": "Karang Ringin I",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "ulak-teberau",
+    "name": "Ulak Teberau",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "simpang-sari",
+    "name": "Simpang Sari",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "ulak-paceh-jaya",
+    "name": "Ulak Paceh Jaya",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "talang-piase",
+    "name": "Talang Piase",
+    "district": "lawang-wetan"
+  },
+  {
+    "id": "pandan-dulang",
+    "name": "Pandan Dulang",
+    "district": "lawang-wetan"
+  }
+]

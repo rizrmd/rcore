@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dokome",
+    "name": "Dokome",
+    "district": "dokome"
+  },
+  {
+    "id": "urage",
+    "name": "Urage",
+    "district": "dokome"
+  },
+  {
+    "id": "nungwawi",
+    "name": "Nungwawi",
+    "district": "dokome"
+  },
+  {
+    "id": "nowoneri",
+    "name": "Nowoneri",
+    "district": "dokome"
+  },
+  {
+    "id": "nowome",
+    "name": "Nowome",
+    "district": "dokome"
+  },
+  {
+    "id": "imulineri",
+    "name": "Imulineri",
+    "district": "dokome"
+  },
+  {
+    "id": "molobak",
+    "name": "Molobak",
+    "district": "dokome"
+  },
+  {
+    "id": "purbalo",
+    "name": "Purbalo",
+    "district": "dokome"
+  },
+  {
+    "id": "kumibut",
+    "name": "Kumibut",
+    "district": "dokome"
+  }
+]

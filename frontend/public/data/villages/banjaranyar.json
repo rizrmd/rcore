@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cikupa",
+    "name": "Cikupa",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "karyamukti",
+    "name": "Karyamukti",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "cigayam",
+    "name": "Cigayam",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "banjaranyar",
+    "name": "Banjaranyar",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "kalijaya",
+    "name": "Kalijaya",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "pasawahan",
+    "name": "Pasawahan",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "cikaso",
+    "name": "Cikaso",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "sindangrasa",
+    "name": "Sindangrasa",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "langkapsari",
+    "name": "Langkapsari",
+    "district": "banjaranyar"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "banjaranyar"
+  }
+]

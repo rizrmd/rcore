@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kwala-bekala",
+    "name": "Kwala Bekala",
+    "district": "medan-johor"
+  },
+  {
+    "id": "gedung-johor",
+    "name": "Gedung Johor",
+    "district": "medan-johor"
+  },
+  {
+    "id": "kedai-durian",
+    "name": "Kedai Durian",
+    "district": "medan-johor"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "medan-johor"
+  },
+  {
+    "id": "titi-kuning",
+    "name": "Titi Kuning",
+    "district": "medan-johor"
+  },
+  {
+    "id": "pangkalan-masyhur",
+    "name": "Pangkalan Masyhur",
+    "district": "medan-johor"
+  }
+]

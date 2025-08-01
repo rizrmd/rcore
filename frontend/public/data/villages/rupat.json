@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tanjung-kapal",
+    "name": "Tanjung Kapal",
+    "district": "rupat"
+  },
+  {
+    "id": "batu-panjang",
+    "name": "Batu Panjang",
+    "district": "rupat"
+  },
+  {
+    "id": "terkul",
+    "name": "Terkul",
+    "district": "rupat"
+  },
+  {
+    "id": "pergam",
+    "name": "Pergam",
+    "district": "rupat"
+  },
+  {
+    "id": "teluk-lecah",
+    "name": "Teluk Lecah",
+    "district": "rupat"
+  },
+  {
+    "id": "sei-cingam",
+    "name": "Sei Cingam",
+    "district": "rupat"
+  },
+  {
+    "id": "pangkalan-nyirih",
+    "name": "Pangkalan Nyirih",
+    "district": "rupat"
+  },
+  {
+    "id": "hutan-panjang",
+    "name": "Hutan Panjang",
+    "district": "rupat"
+  },
+  {
+    "id": "makeruh",
+    "name": "Makeruh",
+    "district": "rupat"
+  },
+  {
+    "id": "sukarjo-mesim",
+    "name": "Sukarjo Mesim",
+    "district": "rupat"
+  },
+  {
+    "id": "parit-kebumen",
+    "name": "Parit Kebumen",
+    "district": "rupat"
+  },
+  {
+    "id": "darul-aman",
+    "name": "Darul Aman",
+    "district": "rupat"
+  },
+  {
+    "id": "sri-tanjung",
+    "name": "Sri Tanjung",
+    "district": "rupat"
+  },
+  {
+    "id": "pancur-jaya",
+    "name": "Pancur Jaya",
+    "district": "rupat"
+  },
+  {
+    "id": "pangkalan-pinang",
+    "name": "Pangkalan Pinang",
+    "district": "rupat"
+  },
+  {
+    "id": "dungun-baru",
+    "name": "Dungun Baru",
+    "district": "rupat"
+  }
+]

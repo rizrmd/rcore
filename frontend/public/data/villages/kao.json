@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kao",
+    "name": "Kao",
+    "district": "kao"
+  },
+  {
+    "id": "waringin-lelewi",
+    "name": "Waringin Lelewi",
+    "district": "kao"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "kao"
+  },
+  {
+    "id": "soasangaji-dim-dim",
+    "name": "Soasangaji Dim Dim",
+    "district": "kao"
+  },
+  {
+    "id": "sasur",
+    "name": "Sasur",
+    "district": "kao"
+  },
+  {
+    "id": "popon",
+    "name": "Popon",
+    "district": "kao"
+  },
+  {
+    "id": "patang",
+    "name": "Patang",
+    "district": "kao"
+  },
+  {
+    "id": "biang",
+    "name": "Biang",
+    "district": "kao"
+  },
+  {
+    "id": "waringin-lamo",
+    "name": "Waringin Lamo",
+    "district": "kao"
+  },
+  {
+    "id": "goruang",
+    "name": "Goruang",
+    "district": "kao"
+  },
+  {
+    "id": "kusu-lovra",
+    "name": "Kusu Lovra",
+    "district": "kao"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "kao"
+  }
+]

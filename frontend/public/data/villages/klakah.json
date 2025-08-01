@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kebonan",
+    "name": "Kebonan",
+    "district": "klakah"
+  },
+  {
+    "id": "sumberwringin",
+    "name": "Sumberwringin",
+    "district": "klakah"
+  },
+  {
+    "id": "papringan",
+    "name": "Papringan",
+    "district": "klakah"
+  },
+  {
+    "id": "ranupakis",
+    "name": "Ranupakis",
+    "district": "klakah"
+  },
+  {
+    "id": "tegalrandu",
+    "name": "Tegalrandu",
+    "district": "klakah"
+  },
+  {
+    "id": "klakah",
+    "name": "Klakah",
+    "district": "klakah"
+  },
+  {
+    "id": "mlawang",
+    "name": "Mlawang",
+    "district": "klakah"
+  },
+  {
+    "id": "sruni",
+    "name": "Sruni",
+    "district": "klakah"
+  },
+  {
+    "id": "tegalciut",
+    "name": "Tegalciut",
+    "district": "klakah"
+  },
+  {
+    "id": "sawaran-lor",
+    "name": "Sawaran Lor",
+    "district": "klakah"
+  }
+]

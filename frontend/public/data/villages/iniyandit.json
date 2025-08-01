@@ -1,0 +1,27 @@
+[
+  {
+    "id": "autriop",
+    "name": "Autriop",
+    "district": "iniyandit"
+  },
+  {
+    "id": "ogenatan",
+    "name": "Ogenatan",
+    "district": "iniyandit"
+  },
+  {
+    "id": "langgoan",
+    "name": "Langgoan",
+    "district": "iniyandit"
+  },
+  {
+    "id": "warik-toop",
+    "name": "Warik Toop",
+    "district": "iniyandit"
+  },
+  {
+    "id": "tetop",
+    "name": "Tetop",
+    "district": "iniyandit"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "penjawaan",
+    "name": "Penjawaan",
+    "district": "sandai"
+  },
+  {
+    "id": "sandai",
+    "name": "Sandai",
+    "district": "sandai"
+  },
+  {
+    "id": "muara-jekak",
+    "name": "Muara Jekak",
+    "district": "sandai"
+  },
+  {
+    "id": "petai-patah",
+    "name": "Petai Patah",
+    "district": "sandai"
+  },
+  {
+    "id": "randau-jungkal",
+    "name": "Randau Jungkal",
+    "district": "sandai"
+  },
+  {
+    "id": "randau",
+    "name": "Randau",
+    "district": "sandai"
+  },
+  {
+    "id": "sandai-kiri",
+    "name": "Sandai Kiri",
+    "district": "sandai"
+  },
+  {
+    "id": "demit",
+    "name": "Demit",
+    "district": "sandai"
+  },
+  {
+    "id": "jago-bersatu",
+    "name": "Jago Bersatu",
+    "district": "sandai"
+  },
+  {
+    "id": "pendamar-indah",
+    "name": "Pendamar Indah",
+    "district": "sandai"
+  },
+  {
+    "id": "merimbang-jaya",
+    "name": "Merimbang Jaya",
+    "district": "sandai"
+  },
+  {
+    "id": "alam-pakuan",
+    "name": "Alam Pakuan",
+    "district": "sandai"
+  },
+  {
+    "id": "istana",
+    "name": "Istana",
+    "district": "sandai"
+  }
+]

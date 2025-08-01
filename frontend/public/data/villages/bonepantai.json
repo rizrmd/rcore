@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tolotio",
+    "name": "Tolotio",
+    "district": "bonepantai"
+  },
+  {
+    "id": "tamboo",
+    "name": "Tamboo",
+    "district": "bonepantai"
+  },
+  {
+    "id": "bilungala",
+    "name": "Bilungala",
+    "district": "bonepantai"
+  },
+  {
+    "id": "tongo",
+    "name": "Tongo",
+    "district": "bonepantai"
+  },
+  {
+    "id": "uabanga",
+    "name": "Uabanga",
+    "district": "bonepantai"
+  },
+  {
+    "id": "bilungala-utara",
+    "name": "Bilungala Utara",
+    "district": "bonepantai"
+  },
+  {
+    "id": "tihu",
+    "name": "Tihu",
+    "district": "bonepantai"
+  },
+  {
+    "id": "lembah-hijau",
+    "name": "Lembah Hijau",
+    "district": "bonepantai"
+  },
+  {
+    "id": "tunas-jaya",
+    "name": "Tunas Jaya",
+    "district": "bonepantai"
+  },
+  {
+    "id": "ombulo-hijau",
+    "name": "Ombulo Hijau",
+    "district": "bonepantai"
+  },
+  {
+    "id": "batu-hijau",
+    "name": "Batu Hijau",
+    "district": "bonepantai"
+  },
+  {
+    "id": "kamiri",
+    "name": "Kamiri",
+    "district": "bonepantai"
+  },
+  {
+    "id": "pelita-hijau",
+    "name": "Pelita Hijau",
+    "district": "bonepantai"
+  }
+]

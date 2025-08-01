@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mauleum",
+    "name": "Mauleum",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "oelet",
+    "name": "Oelet",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "oe-ekam",
+    "name": "Oe Ekam",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "pisan",
+    "name": "Pisan",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "mnelaanen",
+    "name": "Mnelaanen",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "nifukiu",
+    "name": "Nifukiu",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "billa",
+    "name": "Billa",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "sini",
+    "name": "Sini",
+    "district": "amanuban-timur"
+  },
+  {
+    "id": "tliu",
+    "name": "Tliu",
+    "district": "amanuban-timur"
+  }
+]

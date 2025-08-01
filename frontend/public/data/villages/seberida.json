@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bukit-meranti",
+    "name": "Bukit Meranti",
+    "district": "seberida"
+  },
+  {
+    "id": "paya-rumbai",
+    "name": "Paya Rumbai",
+    "district": "seberida"
+  },
+  {
+    "id": "kelesa",
+    "name": "Kelesa",
+    "district": "seberida"
+  },
+  {
+    "id": "beligan",
+    "name": "Beligan",
+    "district": "seberida"
+  },
+  {
+    "id": "seresam",
+    "name": "Seresam",
+    "district": "seberida"
+  },
+  {
+    "id": "petala-bumi",
+    "name": "Petala Bumi",
+    "district": "seberida"
+  },
+  {
+    "id": "titian-resak",
+    "name": "Titian Resak",
+    "district": "seberida"
+  },
+  {
+    "id": "sibabat",
+    "name": "Sibabat",
+    "district": "seberida"
+  },
+  {
+    "id": "pangkalan-kasai",
+    "name": "Pangkalan Kasai",
+    "district": "seberida"
+  },
+  {
+    "id": "buluh-rampai",
+    "name": "Buluh Rampai",
+    "district": "seberida"
+  },
+  {
+    "id": "bandar-padang",
+    "name": "Bandar Padang",
+    "district": "seberida"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kundi",
+    "name": "Kundi",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "mayang",
+    "name": "Mayang",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "rambat",
+    "name": "Rambat",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "simpang-gong",
+    "name": "Simpang Gong",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "pelangas",
+    "name": "Pelangas",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "berang",
+    "name": "Berang",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "ibul",
+    "name": "Ibul",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "peradong",
+    "name": "Peradong",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "air-nyatoh",
+    "name": "Air Nyatoh",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "pangek",
+    "name": "Pangek",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "air-menduyung",
+    "name": "Air Menduyung",
+    "district": "simpang-teritip"
+  },
+  {
+    "id": "bukit-terak",
+    "name": "Bukit Terak",
+    "district": "simpang-teritip"
+  }
+]

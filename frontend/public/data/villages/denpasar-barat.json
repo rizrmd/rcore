@@ -1,0 +1,57 @@
+[
+  {
+    "id": "padangsambian-klod",
+    "name": "Padangsambian Klod",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "pemecutan-klod",
+    "name": "Pemecutan Klod",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "dauh-puri-kauh",
+    "name": "Dauh Puri Kauh",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "dauh-puri-klod",
+    "name": "Dauh Puri Klod",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "dauh-puri",
+    "name": "Dauh Puri",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "dauh-puri-kangin",
+    "name": "Dauh Puri Kangin",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "pemecutan",
+    "name": "Pemecutan",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "tegal-harum",
+    "name": "Tegal Harum",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "tegal-kertha",
+    "name": "Tegal Kertha",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "padangsambian",
+    "name": "Padangsambian",
+    "district": "denpasar-barat"
+  },
+  {
+    "id": "padangsambian-kaja",
+    "name": "Padangsambian Kaja",
+    "district": "denpasar-barat"
+  }
+]

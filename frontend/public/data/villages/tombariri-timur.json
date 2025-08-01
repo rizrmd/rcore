@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ranotongkor",
+    "name": "Ranotongkor",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lolah-satu",
+    "name": "Lolah Satu",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lolah-dua",
+    "name": "Lolah Dua",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lemoh",
+    "name": "Lemoh",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lemoh-timur",
+    "name": "Lemoh Timur",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lemoh-barat",
+    "name": "Lemoh Barat",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "ranotongkor-timur",
+    "name": "Ranotongkor Timur",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lolah-tiga",
+    "name": "Lolah Tiga",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lolah",
+    "name": "Lolah",
+    "district": "tombariri-timur"
+  },
+  {
+    "id": "lemoh-uner",
+    "name": "Lemoh Uner",
+    "district": "tombariri-timur"
+  }
+]

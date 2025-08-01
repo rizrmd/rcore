@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pulau",
+    "name": "Pulau",
+    "district": "sembawa"
+  },
+  {
+    "id": "lalang-sembawa",
+    "name": "Lalang Sembawa",
+    "district": "sembawa"
+  },
+  {
+    "id": "rejodadi",
+    "name": "Rejodadi",
+    "district": "sembawa"
+  },
+  {
+    "id": "mainan",
+    "name": "Mainan",
+    "district": "sembawa"
+  },
+  {
+    "id": "limau",
+    "name": "Limau",
+    "district": "sembawa"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "sembawa"
+  },
+  {
+    "id": "limbang-mulya",
+    "name": "Limbang Mulya",
+    "district": "sembawa"
+  },
+  {
+    "id": "sakomakmur",
+    "name": "Sakomakmur",
+    "district": "sembawa"
+  },
+  {
+    "id": "air-rengit-pulau-muning",
+    "name": "Air Rengit / Pulau Muning",
+    "district": "sembawa"
+  },
+  {
+    "id": "muara-damai",
+    "name": "Muara Damai",
+    "district": "sembawa"
+  },
+  {
+    "id": "santan-sari",
+    "name": "Santan Sari",
+    "district": "sembawa"
+  }
+]

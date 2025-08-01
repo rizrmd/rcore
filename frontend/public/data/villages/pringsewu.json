@@ -1,0 +1,77 @@
+[
+  {
+    "id": "margakaya",
+    "name": "Margakaya",
+    "district": "pringsewu"
+  },
+  {
+    "id": "waluyojati",
+    "name": "Waluyojati",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pajar-esuk",
+    "name": "Pajar Esuk",
+    "district": "pringsewu"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "pringsewu"
+  },
+  {
+    "id": "podomoro",
+    "name": "Podomoro",
+    "district": "pringsewu"
+  },
+  {
+    "id": "bumi-arum",
+    "name": "Bumi Arum",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pajar-agung",
+    "name": "Pajar Agung",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pringsewu-utara",
+    "name": "Pringsewu Utara",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pringsewu-selatan",
+    "name": "Pringsewu Selatan",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pringsewu-barat",
+    "name": "Pringsewu Barat",
+    "district": "pringsewu"
+  },
+  {
+    "id": "pringsewu-timur",
+    "name": "Pringsewu Timur",
+    "district": "pringsewu"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "pringsewu"
+  },
+  {
+    "id": "bumi-ayu",
+    "name": "Bumi Ayu",
+    "district": "pringsewu"
+  },
+  {
+    "id": "podosari",
+    "name": "Podosari",
+    "district": "pringsewu"
+  },
+  {
+    "id": "fajar-agung-barat",
+    "name": "Fajar Agung Barat",
+    "district": "pringsewu"
+  }
+]

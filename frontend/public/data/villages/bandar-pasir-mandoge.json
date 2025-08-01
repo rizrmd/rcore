@@ -1,0 +1,47 @@
+[
+  {
+    "id": "huta-padang",
+    "name": "Huta Padang",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "huta-bagasan",
+    "name": "Huta Bagasan",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "bandar-pasir-mandoge",
+    "name": "Bandar Pasir Mandoge",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "sei-kopas",
+    "name": "Sei Kopas",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "silau-jawa",
+    "name": "Silau Jawa",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "sei-nadoras",
+    "name": "Sei Nadoras",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "tomuan-holbung",
+    "name": "Tomuan Holbung",
+    "district": "bandar-pasir-mandoge"
+  },
+  {
+    "id": "gotting-sidodadi",
+    "name": "Gotting Sidodadi",
+    "district": "bandar-pasir-mandoge"
+  }
+]

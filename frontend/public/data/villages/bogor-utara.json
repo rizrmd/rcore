@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bantarjati",
+    "name": "Bantarjati",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "tegalgundil",
+    "name": "Tegalgundil",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "tanahbaru",
+    "name": "Tanahbaru",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "cimahpar",
+    "name": "Cimahpar",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "ciluar",
+    "name": "Ciluar",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "cibuluh",
+    "name": "Cibuluh",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "kedunghalang",
+    "name": "Kedunghalang",
+    "district": "bogor-utara"
+  },
+  {
+    "id": "ciparigi",
+    "name": "Ciparigi",
+    "district": "bogor-utara"
+  }
+]

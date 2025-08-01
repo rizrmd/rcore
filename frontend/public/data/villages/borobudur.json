@@ -1,0 +1,102 @@
+[
+  {
+    "id": "giripurno",
+    "name": "Giripurno",
+    "district": "borobudur"
+  },
+  {
+    "id": "giritengah",
+    "name": "Giritengah",
+    "district": "borobudur"
+  },
+  {
+    "id": "tuksongo",
+    "name": "Tuksongo",
+    "district": "borobudur"
+  },
+  {
+    "id": "majaksingi",
+    "name": "Majaksingi",
+    "district": "borobudur"
+  },
+  {
+    "id": "kenalan",
+    "name": "Kenalan",
+    "district": "borobudur"
+  },
+  {
+    "id": "bigaran",
+    "name": "Bigaran",
+    "district": "borobudur"
+  },
+  {
+    "id": "sambeng",
+    "name": "Sambeng",
+    "district": "borobudur"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "borobudur"
+  },
+  {
+    "id": "ngargogondo",
+    "name": "Ngargogondo",
+    "district": "borobudur"
+  },
+  {
+    "id": "wanurejo",
+    "name": "Wanurejo",
+    "district": "borobudur"
+  },
+  {
+    "id": "borobudur",
+    "name": "Borobudur",
+    "district": "borobudur"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "borobudur"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "borobudur"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "borobudur"
+  },
+  {
+    "id": "ngadiharjo",
+    "name": "Ngadiharjo",
+    "district": "borobudur"
+  },
+  {
+    "id": "kebonsari",
+    "name": "Kebonsari",
+    "district": "borobudur"
+  },
+  {
+    "id": "tegalarum",
+    "name": "Tegalarum",
+    "district": "borobudur"
+  },
+  {
+    "id": "kembanglimus",
+    "name": "Kembanglimus",
+    "district": "borobudur"
+  },
+  {
+    "id": "wringinputih",
+    "name": "Wringinputih",
+    "district": "borobudur"
+  },
+  {
+    "id": "bumiharjo",
+    "name": "Bumiharjo",
+    "district": "borobudur"
+  }
+]

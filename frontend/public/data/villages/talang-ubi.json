@@ -1,0 +1,102 @@
+[
+  {
+    "id": "semangus",
+    "name": "Semangus",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "benakat-minyak",
+    "name": "Benakat Minyak",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "sungai-baung",
+    "name": "Sungai Baung",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-ubi-barat",
+    "name": "Talang Ubi Barat",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "pasar-bhayangkara",
+    "name": "Pasar Bhayangkara",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-ubi-selatan",
+    "name": "Talang Ubi Selatan",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-ubi-timur",
+    "name": "Talang Ubi Timur",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "handayani-mulia",
+    "name": "Handayani Mulia",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "simpang-tais",
+    "name": "Simpang Tais",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-bulang",
+    "name": "Talang Bulang",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "benuang",
+    "name": "Benuang",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "beruge-darat",
+    "name": "Beruge Darat",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "kertadewa",
+    "name": "Kertadewa",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "sinar-dewa",
+    "name": "Sinar Dewa",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "panta-dewa",
+    "name": "Panta Dewa",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "sungai-ibul",
+    "name": "Sungai Ibul",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-ubi-utara",
+    "name": "Talang Ubi Utara",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "talang-ubi"
+  },
+  {
+    "id": "talang-akar",
+    "name": "Talang Akar",
+    "district": "talang-ubi"
+  }
+]

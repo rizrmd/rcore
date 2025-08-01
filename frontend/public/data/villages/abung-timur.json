@@ -1,0 +1,62 @@
+[
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "abung-timur"
+  },
+  {
+    "id": "bumi-agung-marga",
+    "name": "Bumi Agung Marga",
+    "district": "abung-timur"
+  },
+  {
+    "id": "peraduan-waras",
+    "name": "Peraduan Waras",
+    "district": "abung-timur"
+  },
+  {
+    "id": "penagan-ratu",
+    "name": "Penagan Ratu",
+    "district": "abung-timur"
+  },
+  {
+    "id": "gedung-nyapah",
+    "name": "Gedung Nyapah",
+    "district": "abung-timur"
+  },
+  {
+    "id": "pungguk-lama",
+    "name": "Pungguk Lama",
+    "district": "abung-timur"
+  },
+  {
+    "id": "surakarta",
+    "name": "Surakarta",
+    "district": "abung-timur"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "abung-timur"
+  },
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "abung-timur"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "abung-timur"
+  },
+  {
+    "id": "rejo-mulyo",
+    "name": "Rejo Mulyo",
+    "district": "abung-timur"
+  },
+  {
+    "id": "papan-rejo",
+    "name": "Papan Rejo",
+    "district": "abung-timur"
+  }
+]

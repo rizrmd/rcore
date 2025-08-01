@@ -1,0 +1,52 @@
+[
+  {
+    "id": "baye",
+    "name": "Baye",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "bangsongan",
+    "name": "Bangsongan",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "sambirobyong",
+    "name": "Sambirobyong",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "sekaran",
+    "name": "Sekaran",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "padangan",
+    "name": "Padangan",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "kayen-kidul",
+    "name": "Kayen Kidul",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "nanggungan",
+    "name": "Nanggungan",
+    "district": "kayen-kidul"
+  },
+  {
+    "id": "semambung",
+    "name": "Semambung",
+    "district": "kayen-kidul"
+  }
+]

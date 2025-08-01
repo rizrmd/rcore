@@ -1,0 +1,37 @@
+[
+  {
+    "id": "linggamukti",
+    "name": "Linggamukti",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "sukalaksana",
+    "name": "Sukalaksana",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "cigadog",
+    "name": "Cigadog",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "tenjonagara",
+    "name": "Tenjonagara",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "tegalpanjang",
+    "name": "Tegalpanjang",
+    "district": "sucinaraja"
+  },
+  {
+    "id": "sadang",
+    "name": "Sadang",
+    "district": "sucinaraja"
+  }
+]

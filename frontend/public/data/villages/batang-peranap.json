@@ -1,0 +1,52 @@
+[
+  {
+    "id": "punti-kayu",
+    "name": "Punti Kayu",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "pematang",
+    "name": "Pematang",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "pesajian",
+    "name": "Pesajian",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "selunak",
+    "name": "Selunak",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "pematang-benteng",
+    "name": "Pematang Benteng",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "sencano-jaya",
+    "name": "Sencano Jaya",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "sungai-aur",
+    "name": "Sungai Aur",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "peladangan",
+    "name": "Peladangan",
+    "district": "batang-peranap"
+  },
+  {
+    "id": "koto-tuo",
+    "name": "Koto Tuo",
+    "district": "batang-peranap"
+  }
+]

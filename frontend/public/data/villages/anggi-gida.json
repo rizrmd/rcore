@@ -1,0 +1,42 @@
+[
+  {
+    "id": "itkau",
+    "name": "Itkau",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "tuabyam",
+    "name": "Tuabyam",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "sibiogud",
+    "name": "Sibiogud",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "tombrok",
+    "name": "Tombrok",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "ingisrow",
+    "name": "Ingisrow",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "seseran-sisrang",
+    "name": "Seseran / Sisrang",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "krobut-kiwot",
+    "name": "Krobut / Kiwot",
+    "district": "anggi-gida"
+  },
+  {
+    "id": "sakunisakurai",
+    "name": "Sakuni/Sakurai",
+    "district": "anggi-gida"
+  }
+]

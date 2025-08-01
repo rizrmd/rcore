@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kedungmalang",
+    "name": "Kedungmalang",
+    "district": "kedung"
+  },
+  {
+    "id": "kalianyar",
+    "name": "Kalianyar",
+    "district": "kedung"
+  },
+  {
+    "id": "karangaji",
+    "name": "Karangaji",
+    "district": "kedung"
+  },
+  {
+    "id": "tedunan",
+    "name": "Tedunan",
+    "district": "kedung"
+  },
+  {
+    "id": "sowan-lor",
+    "name": "Sowan Lor",
+    "district": "kedung"
+  },
+  {
+    "id": "jondang",
+    "name": "Jondang",
+    "district": "kedung"
+  },
+  {
+    "id": "wanusobo",
+    "name": "Wanusobo",
+    "district": "kedung"
+  },
+  {
+    "id": "sowan-kidul",
+    "name": "Sowan Kidul",
+    "district": "kedung"
+  },
+  {
+    "id": "surodadi",
+    "name": "Surodadi",
+    "district": "kedung"
+  },
+  {
+    "id": "panggung",
+    "name": "Panggung",
+    "district": "kedung"
+  },
+  {
+    "id": "bulakbaru",
+    "name": "Bulakbaru",
+    "district": "kedung"
+  },
+  {
+    "id": "dongos",
+    "name": "Dongos",
+    "district": "kedung"
+  },
+  {
+    "id": "menganti",
+    "name": "Menganti",
+    "district": "kedung"
+  },
+  {
+    "id": "kerso",
+    "name": "Kerso",
+    "district": "kedung"
+  },
+  {
+    "id": "tanggultlare",
+    "name": "Tanggultlare",
+    "district": "kedung"
+  },
+  {
+    "id": "rau",
+    "name": "Rau",
+    "district": "kedung"
+  },
+  {
+    "id": "sukosono",
+    "name": "Sukosono",
+    "district": "kedung"
+  }
+]

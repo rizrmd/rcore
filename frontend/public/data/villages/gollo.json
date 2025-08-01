@@ -1,0 +1,42 @@
+[
+  {
+    "id": "yamiga",
+    "name": "Yamiga",
+    "district": "gollo"
+  },
+  {
+    "id": "libome",
+    "name": "Libome",
+    "district": "gollo"
+  },
+  {
+    "id": "kulia",
+    "name": "Kulia",
+    "district": "gollo"
+  },
+  {
+    "id": "wadinawi",
+    "name": "Wadinawi",
+    "district": "gollo"
+  },
+  {
+    "id": "kamenak",
+    "name": "Kamenak",
+    "district": "gollo"
+  },
+  {
+    "id": "nengguga",
+    "name": "Nengguga",
+    "district": "gollo"
+  },
+  {
+    "id": "golopura",
+    "name": "Golopura",
+    "district": "gollo"
+  },
+  {
+    "id": "gubugame",
+    "name": "Gubugame",
+    "district": "gollo"
+  }
+]

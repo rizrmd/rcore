@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "trowulan"
+  },
+  {
+    "id": "sentonorejo",
+    "name": "Sentonorejo",
+    "district": "trowulan"
+  },
+  {
+    "id": "temon",
+    "name": "Temon",
+    "district": "trowulan"
+  },
+  {
+    "id": "beloh",
+    "name": "Beloh",
+    "district": "trowulan"
+  },
+  {
+    "id": "domas",
+    "name": "Domas",
+    "district": "trowulan"
+  },
+  {
+    "id": "jambuwok",
+    "name": "Jambuwok",
+    "district": "trowulan"
+  },
+  {
+    "id": "watesumpak",
+    "name": "Watesumpak",
+    "district": "trowulan"
+  },
+  {
+    "id": "jatipasar",
+    "name": "Jatipasar",
+    "district": "trowulan"
+  },
+  {
+    "id": "trowulan",
+    "name": "Trowulan",
+    "district": "trowulan"
+  },
+  {
+    "id": "bejijong",
+    "name": "Bejijong",
+    "district": "trowulan"
+  },
+  {
+    "id": "kejagan",
+    "name": "Kejagan",
+    "district": "trowulan"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "trowulan"
+  },
+  {
+    "id": "panggih",
+    "name": "Panggih",
+    "district": "trowulan"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "trowulan"
+  },
+  {
+    "id": "balongwono",
+    "name": "Balongwono",
+    "district": "trowulan"
+  },
+  {
+    "id": "bicak",
+    "name": "Bicak",
+    "district": "trowulan"
+  }
+]

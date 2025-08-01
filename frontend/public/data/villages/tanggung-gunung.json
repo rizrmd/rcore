@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ngrejo",
+    "name": "Ngrejo",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "jengglungharjo",
+    "name": "Jengglungharjo",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "kresikan",
+    "name": "Kresikan",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "tanggunggunung",
+    "name": "Tanggunggunung",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "ngepoh",
+    "name": "Ngepoh",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "tenggarejo",
+    "name": "Tenggarejo",
+    "district": "tanggung-gunung"
+  },
+  {
+    "id": "pakisrejo",
+    "name": "Pakisrejo",
+    "district": "tanggung-gunung"
+  }
+]

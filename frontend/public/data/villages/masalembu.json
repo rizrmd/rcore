@@ -1,0 +1,22 @@
+[
+  {
+    "id": "massalima",
+    "name": "Massalima",
+    "district": "masalembu"
+  },
+  {
+    "id": "sukajeruk",
+    "name": "Sukajeruk",
+    "district": "masalembu"
+  },
+  {
+    "id": "karamian",
+    "name": "Karamian",
+    "district": "masalembu"
+  },
+  {
+    "id": "masakambing",
+    "name": "Masakambing",
+    "district": "masalembu"
+  }
+]

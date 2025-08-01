@@ -1,0 +1,107 @@
+[
+  {
+    "id": "kampar-kiri",
+    "name": "Kampar Kiri",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampar-kiri-hulu",
+    "name": "Kampar Kiri Hulu",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampar-kiri-hilir",
+    "name": "Kampar Kiri Hilir",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "gunung-sahilan",
+    "name": "Gunung Sahilan",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampar-kiri-tengah",
+    "name": "Kampar Kiri Tengah",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "xiii-koto-kampar",
+    "name": "Xiii Koto Kampar",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "koto-kampar-hulu",
+    "name": "Koto Kampar Hulu",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kuok",
+    "name": "Kuok",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "salo",
+    "name": "Salo",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "tapung",
+    "name": "Tapung",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "tapung-hulu",
+    "name": "Tapung Hulu",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "tapung-hilir",
+    "name": "Tapung Hilir",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "bangkinang-kota",
+    "name": "Bangkinang Kota",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "bangkinang",
+    "name": "Bangkinang",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampar",
+    "name": "Kampar",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampa",
+    "name": "Kampa",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "rumbio-jaya",
+    "name": "Rumbio Jaya",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "kampar-utara",
+    "name": "Kampar Utara",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "tambang",
+    "name": "Tambang",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "siak-hulu",
+    "name": "Siak Hulu",
+    "regency": "kabupaten-kampar"
+  },
+  {
+    "id": "perhentian-raja",
+    "name": "Perhentian Raja",
+    "regency": "kabupaten-kampar"
+  }
+]

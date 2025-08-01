@@ -1,0 +1,32 @@
+[
+  {
+    "id": "muara-jernih",
+    "name": "Muara Jernih",
+    "district": "tabir-ulu"
+  },
+  {
+    "id": "pulau-aro",
+    "name": "Pulau Aro",
+    "district": "tabir-ulu"
+  },
+  {
+    "id": "kapuk",
+    "name": "Kapuk",
+    "district": "tabir-ulu"
+  },
+  {
+    "id": "rantau-ngarau",
+    "name": "Rantau Ngarau",
+    "district": "tabir-ulu"
+  },
+  {
+    "id": "muaro-seketuk",
+    "name": "Muaro Seketuk",
+    "district": "tabir-ulu"
+  },
+  {
+    "id": "medan-baru",
+    "name": "Medan Baru",
+    "district": "tabir-ulu"
+  }
+]

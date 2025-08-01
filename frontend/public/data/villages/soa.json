@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tarawaja",
+    "name": "Tarawaja",
+    "district": "soa"
+  },
+  {
+    "id": "loa",
+    "name": "Loa",
+    "district": "soa"
+  },
+  {
+    "id": "mengeruda",
+    "name": "Mengeruda",
+    "district": "soa"
+  },
+  {
+    "id": "piga",
+    "name": "Piga",
+    "district": "soa"
+  },
+  {
+    "id": "masu",
+    "name": "Masu",
+    "district": "soa"
+  },
+  {
+    "id": "seso",
+    "name": "Seso",
+    "district": "soa"
+  },
+  {
+    "id": "waepana",
+    "name": "Waepana",
+    "district": "soa"
+  },
+  {
+    "id": "masu-kedhi",
+    "name": "Masu Kedhi",
+    "district": "soa"
+  },
+  {
+    "id": "ngabheo",
+    "name": "Ngabheo",
+    "district": "soa"
+  },
+  {
+    "id": "libunio",
+    "name": "Libunio",
+    "district": "soa"
+  },
+  {
+    "id": "meli-waru",
+    "name": "Meli Waru",
+    "district": "soa"
+  },
+  {
+    "id": "tarawali",
+    "name": "Tarawali",
+    "district": "soa"
+  },
+  {
+    "id": "bogoboa",
+    "name": "Bogoboa",
+    "district": "soa"
+  },
+  {
+    "id": "piga-i",
+    "name": "Piga I",
+    "district": "soa"
+  }
+]

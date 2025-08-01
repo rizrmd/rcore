@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jepalo",
+    "name": "Jepalo",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "sampok",
+    "name": "Sampok",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "pesagen",
+    "name": "Pesagen",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "gadu",
+    "name": "Gadu",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "gajihan",
+    "name": "Gajihan",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "perdopo",
+    "name": "Perdopo",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "gulangpongge",
+    "name": "Gulangpongge",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "jrahi",
+    "name": "Jrahi",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "giling",
+    "name": "Giling",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "bancak",
+    "name": "Bancak",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "gunungwungkal",
+    "name": "Gunungwungkal",
+    "district": "gunung-wungkal"
+  },
+  {
+    "id": "sumberrejo",
+    "name": "Sumberrejo",
+    "district": "gunung-wungkal"
+  }
+]

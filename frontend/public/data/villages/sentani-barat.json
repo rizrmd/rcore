@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sabron-sari",
+    "name": "Sabron Sari",
+    "district": "sentani-barat"
+  },
+  {
+    "id": "sabron-yoru",
+    "name": "Sabron Yoru",
+    "district": "sentani-barat"
+  },
+  {
+    "id": "dosai",
+    "name": "Dosai",
+    "district": "sentani-barat"
+  },
+  {
+    "id": "waibron",
+    "name": "Waibron",
+    "district": "sentani-barat"
+  },
+  {
+    "id": "maribu",
+    "name": "Maribu",
+    "district": "sentani-barat"
+  }
+]

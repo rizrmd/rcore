@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tanjungrasa",
+    "name": "Tanjungrasa",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "wanajaya",
+    "name": "Wanajaya",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "gardumukti",
+    "name": "Gardumukti",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "mariuk",
+    "name": "Mariuk",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "kertajaya",
+    "name": "Kertajaya",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "tambakdahan",
+    "name": "Tambakdahan",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "bojongkeding",
+    "name": "Bojongkeding",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "bojonegara",
+    "name": "Bojonegara",
+    "district": "tambakdahan"
+  },
+  {
+    "id": "rancaudik",
+    "name": "Rancaudik",
+    "district": "tambakdahan"
+  }
+]

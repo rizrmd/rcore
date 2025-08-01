@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bago",
+    "name": "Bago",
+    "district": "kradenan"
+  },
+  {
+    "id": "simo",
+    "name": "Simo",
+    "district": "kradenan"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "kradenan"
+  },
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "kradenan"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "kradenan"
+  },
+  {
+    "id": "kradenan",
+    "name": "Kradenan",
+    "district": "kradenan"
+  },
+  {
+    "id": "sambongbangi",
+    "name": "Sambongbangi",
+    "district": "kradenan"
+  },
+  {
+    "id": "sengonwetan",
+    "name": "Sengonwetan",
+    "district": "kradenan"
+  },
+  {
+    "id": "banjardowo",
+    "name": "Banjardowo",
+    "district": "kradenan"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "kradenan"
+  },
+  {
+    "id": "grabagan",
+    "name": "Grabagan",
+    "district": "kradenan"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "kradenan"
+  },
+  {
+    "id": "megeri",
+    "name": "Megeri",
+    "district": "kradenan"
+  },
+  {
+    "id": "nglebak",
+    "name": "Nglebak",
+    "district": "kradenan"
+  },
+  {
+    "id": "getas",
+    "name": "Getas",
+    "district": "kradenan"
+  },
+  {
+    "id": "nginggil",
+    "name": "Nginggil",
+    "district": "kradenan"
+  },
+  {
+    "id": "ngrawoh",
+    "name": "Ngrawoh",
+    "district": "kradenan"
+  },
+  {
+    "id": "mendenrejo",
+    "name": "Mendenrejo",
+    "district": "kradenan"
+  },
+  {
+    "id": "mojorembun",
+    "name": "Mojorembun",
+    "district": "kradenan"
+  },
+  {
+    "id": "medalem",
+    "name": "Medalem",
+    "district": "kradenan"
+  }
+]

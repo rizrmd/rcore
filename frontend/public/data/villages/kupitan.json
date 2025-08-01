@@ -1,0 +1,22 @@
+[
+  {
+    "id": "batu-manjulua",
+    "name": "Batu Manjulua",
+    "district": "kupitan"
+  },
+  {
+    "id": "padang-sibusuak",
+    "name": "Padang Sibusuak",
+    "district": "kupitan"
+  },
+  {
+    "id": "pamuatan",
+    "name": "Pamuatan",
+    "district": "kupitan"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "kupitan"
+  }
+]

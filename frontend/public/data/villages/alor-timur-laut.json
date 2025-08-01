@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pido",
+    "name": "Pido",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "lippang",
+    "name": "Lippang",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "kenarimbala",
+    "name": "Kenarimbala",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "nailang",
+    "name": "Nailang",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "waisika",
+    "name": "Waisika",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "kamot",
+    "name": "Kamot",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "air-mancur",
+    "name": "Air Mancur",
+    "district": "alor-timur-laut"
+  },
+  {
+    "id": "taramana",
+    "name": "Taramana",
+    "district": "alor-timur-laut"
+  }
+]

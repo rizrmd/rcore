@@ -1,0 +1,42 @@
+[
+  {
+    "id": "katapiang",
+    "name": "Katapiang",
+    "district": "batang-anai"
+  },
+  {
+    "id": "kasang",
+    "name": "Kasang",
+    "district": "batang-anai"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "batang-anai"
+  },
+  {
+    "id": "buayan-lubuk-alung",
+    "name": "Buayan Lubuk Alung",
+    "district": "batang-anai"
+  },
+  {
+    "id": "sungai-buluh-selatan",
+    "name": "Sungai Buluh Selatan",
+    "district": "batang-anai"
+  },
+  {
+    "id": "sungai-buluh-barat",
+    "name": "Sungai Buluh Barat",
+    "district": "batang-anai"
+  },
+  {
+    "id": "sungai-buluh-timur",
+    "name": "Sungai Buluh Timur",
+    "district": "batang-anai"
+  },
+  {
+    "id": "sungai-buluh-utara",
+    "name": "Sungai Buluh Utara",
+    "district": "batang-anai"
+  }
+]

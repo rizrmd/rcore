@@ -1,0 +1,47 @@
+[
+  {
+    "id": "asbaken",
+    "name": "Asbaken",
+    "district": "makbon"
+  },
+  {
+    "id": "malaumkarta",
+    "name": "Malaumkarta",
+    "district": "makbon"
+  },
+  {
+    "id": "makbon",
+    "name": "Makbon",
+    "district": "makbon"
+  },
+  {
+    "id": "batu-lobang",
+    "name": "Batu Lobang",
+    "district": "makbon"
+  },
+  {
+    "id": "batu-lobang-pantai",
+    "name": "Batu Lobang Pantai",
+    "district": "makbon"
+  },
+  {
+    "id": "baingkete",
+    "name": "Baingkete",
+    "district": "makbon"
+  },
+  {
+    "id": "kuadas",
+    "name": "Kuadas",
+    "district": "makbon"
+  },
+  {
+    "id": "sawatuk",
+    "name": "Sawatuk",
+    "district": "makbon"
+  },
+  {
+    "id": "teluk-dore",
+    "name": "Teluk Dore",
+    "district": "makbon"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tabiku",
+    "name": "Tabiku",
+    "district": "seruyan-raya"
+  },
+  {
+    "id": "bangkal",
+    "name": "Bangkal",
+    "district": "seruyan-raya"
+  },
+  {
+    "id": "lanpasa",
+    "name": "Lanpasa",
+    "district": "seruyan-raya"
+  },
+  {
+    "id": "terawan",
+    "name": "Terawan",
+    "district": "seruyan-raya"
+  },
+  {
+    "id": "salunuk",
+    "name": "Salunuk",
+    "district": "seruyan-raya"
+  }
+]

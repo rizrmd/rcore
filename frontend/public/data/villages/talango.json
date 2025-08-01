@@ -1,0 +1,42 @@
+[
+  {
+    "id": "padike",
+    "name": "Padike",
+    "district": "talango"
+  },
+  {
+    "id": "cabbiya",
+    "name": "Cabbiya",
+    "district": "talango"
+  },
+  {
+    "id": "essang",
+    "name": "Essang",
+    "district": "talango"
+  },
+  {
+    "id": "kombang",
+    "name": "Kombang",
+    "district": "talango"
+  },
+  {
+    "id": "poteran",
+    "name": "Poteran",
+    "district": "talango"
+  },
+  {
+    "id": "palasa",
+    "name": "Palasa",
+    "district": "talango"
+  },
+  {
+    "id": "gapurana",
+    "name": "Gapurana",
+    "district": "talango"
+  },
+  {
+    "id": "talango",
+    "name": "Talango",
+    "district": "talango"
+  }
+]

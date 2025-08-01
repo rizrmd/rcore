@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pentat",
+    "name": "Pentat",
+    "district": "jempang"
+  },
+  {
+    "id": "bekokong-makmur",
+    "name": "Bekokong Makmur",
+    "district": "jempang"
+  },
+  {
+    "id": "pulai-lanting",
+    "name": "Pulai Lanting",
+    "district": "jempang"
+  },
+  {
+    "id": "tanjung-jan",
+    "name": "Tanjung Jan",
+    "district": "jempang"
+  },
+  {
+    "id": "tanjung-isuy",
+    "name": "Tanjung Isuy",
+    "district": "jempang"
+  },
+  {
+    "id": "muara-nayan",
+    "name": "Muara Nayan",
+    "district": "jempang"
+  },
+  {
+    "id": "lembonah",
+    "name": "Lembonah",
+    "district": "jempang"
+  },
+  {
+    "id": "mancong",
+    "name": "Mancong",
+    "district": "jempang"
+  },
+  {
+    "id": "perigiq",
+    "name": "Perigiq",
+    "district": "jempang"
+  },
+  {
+    "id": "tanjung-jone",
+    "name": "Tanjung Jone",
+    "district": "jempang"
+  },
+  {
+    "id": "muara-ohong",
+    "name": "Muara Ohong",
+    "district": "jempang"
+  },
+  {
+    "id": "muara-tae",
+    "name": "Muara Tae",
+    "district": "jempang"
+  }
+]

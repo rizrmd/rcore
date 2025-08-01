@@ -1,0 +1,52 @@
+[
+  {
+    "id": "junganyar",
+    "name": "Junganyar",
+    "district": "socah"
+  },
+  {
+    "id": "socah",
+    "name": "Socah",
+    "district": "socah"
+  },
+  {
+    "id": "jaddih",
+    "name": "Jaddih",
+    "district": "socah"
+  },
+  {
+    "id": "sanggra-agung",
+    "name": "Sanggra Agung",
+    "district": "socah"
+  },
+  {
+    "id": "parseh",
+    "name": "Parseh",
+    "district": "socah"
+  },
+  {
+    "id": "bilaporah",
+    "name": "Bilaporah",
+    "district": "socah"
+  },
+  {
+    "id": "keleyan",
+    "name": "Keleyan",
+    "district": "socah"
+  },
+  {
+    "id": "petaonan",
+    "name": "Petaonan",
+    "district": "socah"
+  },
+  {
+    "id": "dakiring",
+    "name": "Dakiring",
+    "district": "socah"
+  },
+  {
+    "id": "pernajuh",
+    "name": "Pernajuh",
+    "district": "socah"
+  }
+]

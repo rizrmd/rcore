@@ -1,0 +1,52 @@
+[
+  {
+    "id": "laloa",
+    "name": "La'Loa",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "batu-lappa",
+    "name": "Batu Lappa",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "bonepute",
+    "name": "Bonepute",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "temboe",
+    "name": "Tembo'E",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "salusana",
+    "name": "Salusana",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "dadeko",
+    "name": "Dadeko",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "sampano",
+    "name": "Sampano",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "malewong",
+    "name": "Malewong",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "babang",
+    "name": "Babang",
+    "district": "larompong-selatan"
+  },
+  {
+    "id": "gandang-batu",
+    "name": "Gandang Batu",
+    "district": "larompong-selatan"
+  }
+]

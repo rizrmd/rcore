@@ -1,0 +1,47 @@
+[
+  {
+    "id": "batik",
+    "name": "Batik",
+    "district": "bakumpai"
+  },
+  {
+    "id": "lepasan",
+    "name": "Lepasan",
+    "district": "bakumpai"
+  },
+  {
+    "id": "bahalayung",
+    "name": "Bahalayung",
+    "district": "bakumpai"
+  },
+  {
+    "id": "benua-anyar",
+    "name": "Benua Anyar",
+    "district": "bakumpai"
+  },
+  {
+    "id": "murung-raya",
+    "name": "Murung Raya",
+    "district": "bakumpai"
+  },
+  {
+    "id": "sungai-lirik",
+    "name": "Sungai Lirik",
+    "district": "bakumpai"
+  },
+  {
+    "id": "banitan",
+    "name": "Banitan",
+    "district": "bakumpai"
+  },
+  {
+    "id": "palingkau",
+    "name": "Palingkau",
+    "district": "bakumpai"
+  },
+  {
+    "id": "balukung",
+    "name": "Balukung",
+    "district": "bakumpai"
+  }
+]

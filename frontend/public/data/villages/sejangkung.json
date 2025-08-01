@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sepantai",
+    "name": "Sepantai",
+    "district": "sejangkung"
+  },
+  {
+    "id": "semanga",
+    "name": "Semanga",
+    "district": "sejangkung"
+  },
+  {
+    "id": "perigi-limus",
+    "name": "Perigi Limus",
+    "district": "sejangkung"
+  },
+  {
+    "id": "sendoyan",
+    "name": "Sendoyan",
+    "district": "sejangkung"
+  },
+  {
+    "id": "perigi-landu",
+    "name": "Perigi Landu",
+    "district": "sejangkung"
+  },
+  {
+    "id": "parit-raja",
+    "name": "Parit Raja",
+    "district": "sejangkung"
+  },
+  {
+    "id": "piantus",
+    "name": "Piantus",
+    "district": "sejangkung"
+  },
+  {
+    "id": "setalik",
+    "name": "Setalik",
+    "district": "sejangkung"
+  },
+  {
+    "id": "penakalan",
+    "name": "Penakalan",
+    "district": "sejangkung"
+  }
+]

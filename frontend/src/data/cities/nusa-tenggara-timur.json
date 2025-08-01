@@ -1,0 +1,113 @@
+[
+  {
+    "id": "kabupaten-alor",
+    "name": "Alor",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-belu",
+    "name": "Belu",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-ende",
+    "name": "Ende",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-flores-timur",
+    "name": "Flores Timur",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kota-kupang",
+    "name": "Kota Kupang",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-kupang",
+    "name": "Kupang",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-lembata",
+    "name": "Lembata",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-malaka",
+    "name": "Malaka",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-manggarai",
+    "name": "Manggarai",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-manggarai-barat",
+    "name": "Manggarai Barat",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-manggarai-timur",
+    "name": "Manggarai Timur",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-nagekeo",
+    "name": "Nagekeo",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-ngada",
+    "name": "Ngada",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-rote-ndao",
+    "name": "Rote Ndao",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sabu-raijua",
+    "name": "Sabu Raijua",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sikka",
+    "name": "Sikka",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sumba-barat",
+    "name": "Sumba Barat",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sumba-barat-daya",
+    "name": "Sumba Barat Daya",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sumba-tengah",
+    "name": "Sumba Tengah",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-sumba-timur",
+    "name": "Sumba Timur",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-timor-tengah-selatan",
+    "name": "Timor Tengah Selatan",
+    "province": "nusa-tenggara-timur"
+  },
+  {
+    "id": "kabupaten-timor-tengah-utara",
+    "name": "Timor Tengah Utara",
+    "province": "nusa-tenggara-timur"
+  }
+]
+

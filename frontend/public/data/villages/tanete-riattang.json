@@ -1,0 +1,42 @@
+[
+  {
+    "id": "biru",
+    "name": "Biru",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "masumpu",
+    "name": "Masumpu",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "ta",
+    "name": "Ta",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "manurungnge",
+    "name": "Manurungnge",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "watampone",
+    "name": "Watampone",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "bukaka",
+    "name": "Bukaka",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "walennae",
+    "name": "Walennae",
+    "district": "tanete-riattang"
+  },
+  {
+    "id": "pappolo",
+    "name": "Pappolo",
+    "district": "tanete-riattang"
+  }
+]

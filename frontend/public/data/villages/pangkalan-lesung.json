@@ -1,0 +1,52 @@
+[
+  {
+    "id": "genduang",
+    "name": "Genduang",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "rawang-sari",
+    "name": "Rawang Sari",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "sari-makmur",
+    "name": "Sari Makmur",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "mulia-subur",
+    "name": "Mulia Subur",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "mayang-sari",
+    "name": "Mayang Sari",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "sari-mulya",
+    "name": "Sari Mulya",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "dusun-tua",
+    "name": "Dusun Tua",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "pangkalan-lesung",
+    "name": "Pangkalan Lesung",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "tanjung-kuyo",
+    "name": "Tanjung Kuyo",
+    "district": "pangkalan-lesung"
+  },
+  {
+    "id": "pesaguan",
+    "name": "Pesaguan",
+    "district": "pangkalan-lesung"
+  }
+]

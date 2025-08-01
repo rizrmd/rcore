@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pasar-ngalam",
+    "name": "Pasar Ngalam",
+    "district": "air-periukan"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "air-periukan"
+  },
+  {
+    "id": "tawang-rejo",
+    "name": "Tawang Rejo",
+    "district": "air-periukan"
+  },
+  {
+    "id": "kungkai-baru",
+    "name": "Kungkai Baru",
+    "district": "air-periukan"
+  },
+  {
+    "id": "keban-agung",
+    "name": "Keban Agung",
+    "district": "air-periukan"
+  },
+  {
+    "id": "lawang-agung",
+    "name": "Lawang Agung",
+    "district": "air-periukan"
+  },
+  {
+    "id": "padang-pelasan",
+    "name": "Padang Pelasan",
+    "district": "air-periukan"
+  },
+  {
+    "id": "air-periukan",
+    "name": "Air Periukan",
+    "district": "air-periukan"
+  },
+  {
+    "id": "dermayu",
+    "name": "Dermayu",
+    "district": "air-periukan"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "air-periukan"
+  },
+  {
+    "id": "talang-benuang",
+    "name": "Talang Benuang",
+    "district": "air-periukan"
+  },
+  {
+    "id": "talang-alai",
+    "name": "Talang Alai",
+    "district": "air-periukan"
+  },
+  {
+    "id": "lubuk-gilang",
+    "name": "Lubuk Gilang",
+    "district": "air-periukan"
+  },
+  {
+    "id": "talang-sebaris",
+    "name": "Talang Sebaris",
+    "district": "air-periukan"
+  },
+  {
+    "id": "lokasi-baru",
+    "name": "Lokasi Baru",
+    "district": "air-periukan"
+  },
+  {
+    "id": "taba-lubuk-puding",
+    "name": "Taba Lubuk Puding",
+    "district": "air-periukan"
+  }
+]

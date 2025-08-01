@@ -1,0 +1,62 @@
+[
+  {
+    "id": "watu-karung",
+    "name": "Watu Karung",
+    "district": "pringkuku"
+  },
+  {
+    "id": "dersono",
+    "name": "Dersono",
+    "district": "pringkuku"
+  },
+  {
+    "id": "sugihwaras",
+    "name": "Sugihwaras",
+    "district": "pringkuku"
+  },
+  {
+    "id": "jlubang",
+    "name": "Jlubang",
+    "district": "pringkuku"
+  },
+  {
+    "id": "candi",
+    "name": "Candi",
+    "district": "pringkuku"
+  },
+  {
+    "id": "poko",
+    "name": "Poko",
+    "district": "pringkuku"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "pringkuku"
+  },
+  {
+    "id": "pringkuku",
+    "name": "Pringkuku",
+    "district": "pringkuku"
+  },
+  {
+    "id": "sobo",
+    "name": "Sobo",
+    "district": "pringkuku"
+  },
+  {
+    "id": "ngadirejan",
+    "name": "Ngadirejan",
+    "district": "pringkuku"
+  },
+  {
+    "id": "glinggangan",
+    "name": "Glinggangan",
+    "district": "pringkuku"
+  },
+  {
+    "id": "tamanasri",
+    "name": "Tamanasri",
+    "district": "pringkuku"
+  }
+]

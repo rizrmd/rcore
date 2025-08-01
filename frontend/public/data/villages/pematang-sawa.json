@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tampang",
+    "name": "Tampang",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "kaur-gading",
+    "name": "Kaur Gading",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "tirom",
+    "name": "Tirom",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "way-nipah",
+    "name": "Way Nipah",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "guring",
+    "name": "Guring",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "betung",
+    "name": "Betung",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "tanjungan",
+    "name": "Tanjungan",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "teluk-brak",
+    "name": "Teluk Brak",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "karang-brak",
+    "name": "Karang Brak",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "pesanguan",
+    "name": "Pesanguan",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "way-asahan",
+    "name": "Way Asahan",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "tampang-muda",
+    "name": "Tampang Muda",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "pematang-sawa"
+  },
+  {
+    "id": "matanda",
+    "name": "Matanda",
+    "district": "pematang-sawa"
+  }
+]

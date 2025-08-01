@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mendahara-tengah",
+    "name": "Mendahara Tengah",
+    "district": "mendahara"
+  },
+  {
+    "id": "pangkal-duri",
+    "name": "Pangkal Duri",
+    "district": "mendahara"
+  },
+  {
+    "id": "mendahara-ilir",
+    "name": "Mendahara Ilir",
+    "district": "mendahara"
+  },
+  {
+    "id": "lagan-ilir",
+    "name": "Lagan Ilir",
+    "district": "mendahara"
+  },
+  {
+    "id": "bhakti-idaman",
+    "name": "Bhakti Idaman",
+    "district": "mendahara"
+  },
+  {
+    "id": "merbau",
+    "name": "Merbau",
+    "district": "mendahara"
+  },
+  {
+    "id": "sungai-tawar",
+    "name": "Sungai Tawar",
+    "district": "mendahara"
+  },
+  {
+    "id": "sinar-kalimantan",
+    "name": "Sinar Kalimantan",
+    "district": "mendahara"
+  },
+  {
+    "id": "pangkal-duri-ilir",
+    "name": "Pangkal Duri Ilir",
+    "district": "mendahara"
+  }
+]

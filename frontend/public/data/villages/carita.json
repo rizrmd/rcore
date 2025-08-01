@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pejamben",
+    "name": "Pejamben",
+    "district": "carita"
+  },
+  {
+    "id": "banjarmasin",
+    "name": "Banjarmasin",
+    "district": "carita"
+  },
+  {
+    "id": "tembong",
+    "name": "Tembong",
+    "district": "carita"
+  },
+  {
+    "id": "sindanglaut",
+    "name": "Sindanglaut",
+    "district": "carita"
+  },
+  {
+    "id": "carita",
+    "name": "Carita",
+    "district": "carita"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "carita"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "carita"
+  },
+  {
+    "id": "sukanagara",
+    "name": "Sukanagara",
+    "district": "carita"
+  },
+  {
+    "id": "kawoyang",
+    "name": "Kawoyang",
+    "district": "carita"
+  },
+  {
+    "id": "cinoyong",
+    "name": "Cinoyong",
+    "district": "carita"
+  }
+]

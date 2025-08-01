@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sekayun",
+    "name": "Sekayun",
+    "district": "bang-haji"
+  },
+  {
+    "id": "sekayun-mudik",
+    "name": "Sekayun Mudik",
+    "district": "bang-haji"
+  },
+  {
+    "id": "sekayun-ilir",
+    "name": "Sekayun Ilir",
+    "district": "bang-haji"
+  },
+  {
+    "id": "talang-donok",
+    "name": "Talang Donok",
+    "district": "bang-haji"
+  },
+  {
+    "id": "taba-tengah",
+    "name": "Taba Tengah",
+    "district": "bang-haji"
+  },
+  {
+    "id": "padang-burnai",
+    "name": "Padang Burnai",
+    "district": "bang-haji"
+  },
+  {
+    "id": "lubuk-langkap",
+    "name": "Lubuk Langkap",
+    "district": "bang-haji"
+  },
+  {
+    "id": "air-napal",
+    "name": "Air Napal",
+    "district": "bang-haji"
+  },
+  {
+    "id": "genting",
+    "name": "Genting",
+    "district": "bang-haji"
+  },
+  {
+    "id": "talang-panjang",
+    "name": "Talang Panjang",
+    "district": "bang-haji"
+  },
+  {
+    "id": "bang-haji",
+    "name": "Bang Haji",
+    "district": "bang-haji"
+  },
+  {
+    "id": "sungkai-berayun",
+    "name": "Sungkai Berayun",
+    "district": "bang-haji"
+  }
+]

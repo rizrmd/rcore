@@ -1,0 +1,37 @@
+[
+  {
+    "id": "binong",
+    "name": "Binong",
+    "district": "batununggal"
+  },
+  {
+    "id": "kebon-gedang",
+    "name": "Kebon Gedang",
+    "district": "batununggal"
+  },
+  {
+    "id": "maleer",
+    "name": "Maleer",
+    "district": "batununggal"
+  },
+  {
+    "id": "cibangkong",
+    "name": "Cibangkong",
+    "district": "batununggal"
+  },
+  {
+    "id": "samoja",
+    "name": "Samoja",
+    "district": "batununggal"
+  },
+  {
+    "id": "kacapiring",
+    "name": "Kacapiring",
+    "district": "batununggal"
+  },
+  {
+    "id": "kebon-waru",
+    "name": "Kebon Waru",
+    "district": "batununggal"
+  }
+]

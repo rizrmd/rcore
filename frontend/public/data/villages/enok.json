@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bagan-jaya",
+    "name": "Bagan Jaya",
+    "district": "enok"
+  },
+  {
+    "id": "suhada",
+    "name": "Suhada",
+    "district": "enok"
+  },
+  {
+    "id": "sungai-rukam",
+    "name": "Sungai Rukam",
+    "district": "enok"
+  },
+  {
+    "id": "pengalihan",
+    "name": "Pengalihan",
+    "district": "enok"
+  },
+  {
+    "id": "sungai-ambat",
+    "name": "Sungai Ambat",
+    "district": "enok"
+  },
+  {
+    "id": "pusaran",
+    "name": "Pusaran",
+    "district": "enok"
+  },
+  {
+    "id": "enok",
+    "name": "Enok",
+    "district": "enok"
+  },
+  {
+    "id": "teluk-medan",
+    "name": "Teluk Medan",
+    "district": "enok"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "enok"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "enok"
+  },
+  {
+    "id": "jaya-bhakti",
+    "name": "Jaya Bhakti",
+    "district": "enok"
+  },
+  {
+    "id": "sungai-lokan",
+    "name": "Sungai Lokan",
+    "district": "enok"
+  },
+  {
+    "id": "pantai-seberang-makmur",
+    "name": "Pantai Seberang Makmur",
+    "district": "enok"
+  },
+  {
+    "id": "simpang-tiga-daratan",
+    "name": "Simpang Tiga Daratan",
+    "district": "enok"
+  }
+]

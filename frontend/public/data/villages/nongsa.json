@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ngenang",
+    "name": "Ngenang",
+    "district": "nongsa"
+  },
+  {
+    "id": "kabil",
+    "name": "Kabil",
+    "district": "nongsa"
+  },
+  {
+    "id": "batu-besar",
+    "name": "Batu Besar",
+    "district": "nongsa"
+  },
+  {
+    "id": "sambau",
+    "name": "Sambau",
+    "district": "nongsa"
+  }
+]

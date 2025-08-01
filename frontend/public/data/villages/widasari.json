@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bangkaloa-ilir",
+    "name": "Bangkaloa Ilir",
+    "district": "widasari"
+  },
+  {
+    "id": "widasari",
+    "name": "Widasari",
+    "district": "widasari"
+  },
+  {
+    "id": "kalensari",
+    "name": "Kalensari",
+    "district": "widasari"
+  },
+  {
+    "id": "ujungaris",
+    "name": "Ujungaris",
+    "district": "widasari"
+  },
+  {
+    "id": "kongsijaya",
+    "name": "Kongsijaya",
+    "district": "widasari"
+  },
+  {
+    "id": "ujungjaya",
+    "name": "Ujungjaya",
+    "district": "widasari"
+  },
+  {
+    "id": "ujungpendokjaya",
+    "name": "Ujungpendokjaya",
+    "district": "widasari"
+  },
+  {
+    "id": "leuwigede",
+    "name": "Leuwigede",
+    "district": "widasari"
+  },
+  {
+    "id": "kasmaran",
+    "name": "Kasmaran",
+    "district": "widasari"
+  }
+]

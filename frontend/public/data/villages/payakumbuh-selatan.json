@@ -1,0 +1,32 @@
+[
+  {
+    "id": "balai-panjang",
+    "name": "Balai Panjang",
+    "district": "payakumbuh-selatan"
+  },
+  {
+    "id": "limbukan",
+    "name": "Limbukan",
+    "district": "payakumbuh-selatan"
+  },
+  {
+    "id": "padang-karambia",
+    "name": "Padang Karambia",
+    "district": "payakumbuh-selatan"
+  },
+  {
+    "id": "kototuo-limokampuang",
+    "name": "Kototuo Limokampuang",
+    "district": "payakumbuh-selatan"
+  },
+  {
+    "id": "kapalo-koto-ampangan",
+    "name": "Kapalo Koto Ampangan",
+    "district": "payakumbuh-selatan"
+  },
+  {
+    "id": "sawahpadang-aua-kuniang",
+    "name": "Sawahpadang Aua Kuniang",
+    "district": "payakumbuh-selatan"
+  }
+]

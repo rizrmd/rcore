@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lirung",
+    "name": "Lirung",
+    "district": "lirung"
+  },
+  {
+    "id": "musi",
+    "name": "Musi",
+    "district": "lirung"
+  },
+  {
+    "id": "lirung-i",
+    "name": "Lirung I",
+    "district": "lirung"
+  },
+  {
+    "id": "talolang",
+    "name": "Talolang",
+    "district": "lirung"
+  },
+  {
+    "id": "lirung-matane",
+    "name": "Lirung Matane",
+    "district": "lirung"
+  },
+  {
+    "id": "sereh-i",
+    "name": "Sereh I",
+    "district": "lirung"
+  }
+]

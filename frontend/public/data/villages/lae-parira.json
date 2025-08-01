@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sumbul",
+    "name": "Sumbul",
+    "district": "lae-parira"
+  },
+  {
+    "id": "kentara",
+    "name": "Kentara",
+    "district": "lae-parira"
+  },
+  {
+    "id": "lae-parira",
+    "name": "Lae Parira",
+    "district": "lae-parira"
+  },
+  {
+    "id": "bulu-duri",
+    "name": "Bulu Duri",
+    "district": "lae-parira"
+  },
+  {
+    "id": "sempung-polling",
+    "name": "Sempung Polling",
+    "district": "lae-parira"
+  },
+  {
+    "id": "pandiangan",
+    "name": "Pandiangan",
+    "district": "lae-parira"
+  },
+  {
+    "id": "lumban-sihite",
+    "name": "Lumban Sihite",
+    "district": "lae-parira"
+  },
+  {
+    "id": "lumban-toruan",
+    "name": "Lumban Toruan",
+    "district": "lae-parira"
+  },
+  {
+    "id": "kaban-julu",
+    "name": "Kaban Julu",
+    "district": "lae-parira"
+  }
+]

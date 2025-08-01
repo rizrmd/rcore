@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bukit-tempurung",
+    "name": "Bukit Tempurung",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "sungai-toman",
+    "name": "Sungai Toman",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "simpang-tuan",
+    "name": "Simpang Tuan",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "pematang-rahim",
+    "name": "Pematang Rahim",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "sinar-wajo",
+    "name": "Sinar Wajo",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "sungai-beras",
+    "name": "Sungai Beras",
+    "district": "mendahara-ulu"
+  },
+  {
+    "id": "mencolok",
+    "name": "Mencolok",
+    "district": "mendahara-ulu"
+  }
+]

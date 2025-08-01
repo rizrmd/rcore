@@ -1,0 +1,27 @@
+[
+  {
+    "id": "seburing",
+    "name": "Seburing",
+    "district": "semparuk"
+  },
+  {
+    "id": "sepadu",
+    "name": "Sepadu",
+    "district": "semparuk"
+  },
+  {
+    "id": "sepinggan",
+    "name": "Sepinggan",
+    "district": "semparuk"
+  },
+  {
+    "id": "semparuk",
+    "name": "Semparuk",
+    "district": "semparuk"
+  },
+  {
+    "id": "singaraya",
+    "name": "Singaraya",
+    "district": "semparuk"
+  }
+]

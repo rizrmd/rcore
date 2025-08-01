@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "mentebah"
+  },
+  {
+    "id": "kepala-gurung",
+    "name": "Kepala Gurung",
+    "district": "mentebah"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "mentebah"
+  },
+  {
+    "id": "tekalong",
+    "name": "Tekalong",
+    "district": "mentebah"
+  },
+  {
+    "id": "nanga-mentebah",
+    "name": "Nanga Mentebah",
+    "district": "mentebah"
+  },
+  {
+    "id": "tanjung-intan",
+    "name": "Tanjung Intan",
+    "district": "mentebah"
+  },
+  {
+    "id": "tangai-jaya",
+    "name": "Tangai Jaya",
+    "district": "mentebah"
+  },
+  {
+    "id": "menaren",
+    "name": "Menaren",
+    "district": "mentebah"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "merbau",
+    "name": "Merbau",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "gunung-meraksa",
+    "name": "Gunung Meraksa",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "kurup",
+    "name": "Kurup",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "banu-ayu",
+    "name": "Banu Ayu",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "tanjung-dalam",
+    "name": "Tanjung Dalam",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "lubuk-batang-baru",
+    "name": "Lubuk Batang Baru",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "lubuk-batang-lama",
+    "name": "Lubuk Batang Lama",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "belatung",
+    "name": "Belatung",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "karta-mulia",
+    "name": "Karta Mulia",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "markisa",
+    "name": "Markisa",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "lunggaian-baruair-wal",
+    "name": "Lunggaian Baru/Air Wal",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "lunggaian",
+    "name": "Lunggaian",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "tanjung-manggus",
+    "name": "Tanjung Manggus",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "bandar-agung",
+    "name": "Bandar Agung",
+    "district": "lubuk-batang"
+  },
+  {
+    "id": "sumber-bahagia",
+    "name": "Sumber Bahagia",
+    "district": "lubuk-batang"
+  }
+]

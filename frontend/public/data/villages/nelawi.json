@@ -1,0 +1,62 @@
+[
+  {
+    "id": "timojino",
+    "name": "Timojino",
+    "district": "nelawi"
+  },
+  {
+    "id": "mondagul",
+    "name": "Mondagul",
+    "district": "nelawi"
+  },
+  {
+    "id": "tabowanimbo",
+    "name": "Tabowanimbo",
+    "district": "nelawi"
+  },
+  {
+    "id": "nelawi",
+    "name": "Nelawi",
+    "district": "nelawi"
+  },
+  {
+    "id": "woromolome",
+    "name": "Woromolome",
+    "district": "nelawi"
+  },
+  {
+    "id": "kendemeya",
+    "name": "Kendemeya",
+    "district": "nelawi"
+  },
+  {
+    "id": "palagi",
+    "name": "Palagi",
+    "district": "nelawi"
+  },
+  {
+    "id": "megapura",
+    "name": "Megapura",
+    "district": "nelawi"
+  },
+  {
+    "id": "wabuna",
+    "name": "Wabuna",
+    "district": "nelawi"
+  },
+  {
+    "id": "minagame",
+    "name": "Minagame",
+    "district": "nelawi"
+  },
+  {
+    "id": "berename",
+    "name": "Berename",
+    "district": "nelawi"
+  },
+  {
+    "id": "yilogonime",
+    "name": "Yilogonime",
+    "district": "nelawi"
+  }
+]

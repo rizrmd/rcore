@@ -1,0 +1,92 @@
+[
+  {
+    "id": "jetak",
+    "name": "Jetak",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "pacul",
+    "name": "Pacul",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "sumbang",
+    "name": "Sumbang",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "klangon",
+    "name": "Klangon",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "kepatihan",
+    "name": "Kepatihan",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "mojo-kampung",
+    "name": "Mojo Kampung",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "kadipaten",
+    "name": "Kadipaten",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "ngrowo",
+    "name": "Ngrowo",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "karang-pacar",
+    "name": "Karang Pacar",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "campurjo",
+    "name": "Campurjo",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "semanding",
+    "name": "Semanding",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "mulyoagung",
+    "name": "Mulyoagung",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "banjarejo",
+    "name": "Banjarejo",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "ledok-wetan",
+    "name": "Ledok Wetan",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "kauman",
+    "name": "Kauman",
+    "district": "bojonegoro"
+  },
+  {
+    "id": "ledok-kulon",
+    "name": "Ledok Kulon",
+    "district": "bojonegoro"
+  }
+]

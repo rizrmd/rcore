@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sangatta-utara",
+    "name": "Sangatta Utara",
+    "district": "sangatta-utara"
+  },
+  {
+    "id": "teluk-lingga",
+    "name": "Teluk Lingga",
+    "district": "sangatta-utara"
+  },
+  {
+    "id": "singa-gembara",
+    "name": "Singa Gembara",
+    "district": "sangatta-utara"
+  },
+  {
+    "id": "swarga-bara",
+    "name": "Swarga Bara",
+    "district": "sangatta-utara"
+  }
+]

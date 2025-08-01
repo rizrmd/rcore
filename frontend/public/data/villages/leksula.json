@@ -1,0 +1,92 @@
+[
+  {
+    "id": "waemulang",
+    "name": "Waemulang",
+    "district": "leksula"
+  },
+  {
+    "id": "waeturen",
+    "name": "Waeturen",
+    "district": "leksula"
+  },
+  {
+    "id": "waehaka",
+    "name": "Waehaka",
+    "district": "leksula"
+  },
+  {
+    "id": "waemala",
+    "name": "Waemala",
+    "district": "leksula"
+  },
+  {
+    "id": "ewiri",
+    "name": "Ewiri",
+    "district": "leksula"
+  },
+  {
+    "id": "tifu",
+    "name": "Tifu",
+    "district": "leksula"
+  },
+  {
+    "id": "mepa",
+    "name": "Mepa",
+    "district": "leksula"
+  },
+  {
+    "id": "leksula",
+    "name": "Leksula",
+    "district": "leksula"
+  },
+  {
+    "id": "nalbessy",
+    "name": "Nalbessy",
+    "district": "leksula"
+  },
+  {
+    "id": "kase",
+    "name": "Kase",
+    "district": "leksula"
+  },
+  {
+    "id": "slealale",
+    "name": "Slealale",
+    "district": "leksula"
+  },
+  {
+    "id": "neath",
+    "name": "Neath",
+    "district": "leksula"
+  },
+  {
+    "id": "liang",
+    "name": "Liang",
+    "district": "leksula"
+  },
+  {
+    "id": "walun-helat",
+    "name": "Walun Helat",
+    "district": "leksula"
+  },
+  {
+    "id": "grahwaen",
+    "name": "Grahwaen",
+    "district": "leksula"
+  },
+  {
+    "id": "waewali",
+    "name": "Waewali",
+    "district": "leksula"
+  },
+  {
+    "id": "waha-olon",
+    "name": "Waha Olon",
+    "district": "leksula"
+  },
+  {
+    "id": "waenama-olon",
+    "name": "Waenama Olon",
+    "district": "leksula"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kabupaten-majene",
+    "name": "Majene",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "kabupaten-mamasa",
+    "name": "Mamasa",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "kabupaten-mamuju",
+    "name": "Mamuju",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "kabupaten-mamuju-tengah",
+    "name": "Mamuju Tengah",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "kabupaten-mamuju-utara",
+    "name": "Mamuju Utara",
+    "province": "sulawesi-barat"
+  },
+  {
+    "id": "kabupaten-polewali-mandar",
+    "name": "Polewali Mandar",
+    "province": "sulawesi-barat"
+  }
+]

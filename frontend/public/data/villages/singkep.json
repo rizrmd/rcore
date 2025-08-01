@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dabo",
+    "name": "Dabo",
+    "district": "singkep"
+  },
+  {
+    "id": "batu-berdaun",
+    "name": "Batu Berdaun",
+    "district": "singkep"
+  },
+  {
+    "id": "dabo-lama",
+    "name": "Dabo Lama",
+    "district": "singkep"
+  },
+  {
+    "id": "batu-kacang",
+    "name": "Batu Kacang",
+    "district": "singkep"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "singkep"
+  },
+  {
+    "id": "sungai-lumpur",
+    "name": "Sungai Lumpur",
+    "district": "singkep"
+  }
+]

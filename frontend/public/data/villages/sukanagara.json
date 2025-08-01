@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jayagiri",
+    "name": "Jayagiri",
+    "district": "sukanagara"
+  },
+  {
+    "id": "ciguha",
+    "name": "Ciguha",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukakarya",
+    "name": "Sukakarya",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukalaksana",
+    "name": "Sukalaksana",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukanagara",
+    "name": "Sukanagara",
+    "district": "sukanagara"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukajembar",
+    "name": "Sukajembar",
+    "district": "sukanagara"
+  },
+  {
+    "id": "sukamekar",
+    "name": "Sukamekar",
+    "district": "sukanagara"
+  }
+]

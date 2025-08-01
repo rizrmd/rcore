@@ -1,0 +1,37 @@
+[
+  {
+    "id": "embong",
+    "name": "Embong",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "embong-satu",
+    "name": "Embong Satu",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "lemeu",
+    "name": "Lemeu",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "uram-jaya"
+  },
+  {
+    "id": "tangua",
+    "name": "Tangua",
+    "district": "uram-jaya"
+  }
+]

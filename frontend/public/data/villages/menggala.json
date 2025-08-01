@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bujung-tenuk",
+    "name": "Bujung Tenuk",
+    "district": "menggala"
+  },
+  {
+    "id": "astra-ksetra",
+    "name": "Astra Ksetra",
+    "district": "menggala"
+  },
+  {
+    "id": "ujung-gunung-ilir",
+    "name": "Ujung Gunung Ilir",
+    "district": "menggala"
+  },
+  {
+    "id": "menggala-selatan",
+    "name": "Menggala Selatan",
+    "district": "menggala"
+  },
+  {
+    "id": "ujung-gunung",
+    "name": "Ujung Gunung",
+    "district": "menggala"
+  },
+  {
+    "id": "menggala-tengah",
+    "name": "Menggala Tengah",
+    "district": "menggala"
+  },
+  {
+    "id": "menggala-kota",
+    "name": "Menggala Kota",
+    "district": "menggala"
+  },
+  {
+    "id": "kagungan-rahayu",
+    "name": "Kagungan Rahayu",
+    "district": "menggala"
+  },
+  {
+    "id": "tiuh-tohou",
+    "name": "Tiuh Tohou",
+    "district": "menggala"
+  }
+]

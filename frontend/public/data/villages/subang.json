@@ -1,0 +1,77 @@
+[
+  {
+    "id": "tangkolo",
+    "name": "Tangkolo",
+    "district": "subang"
+  },
+  {
+    "id": "pamulihan",
+    "name": "Pamulihan",
+    "district": "subang"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "subang"
+  },
+  {
+    "id": "subang",
+    "name": "Subang",
+    "district": "subang"
+  },
+  {
+    "id": "bangunjaya",
+    "name": "Bangunjaya",
+    "district": "subang"
+  },
+  {
+    "id": "gunungaci",
+    "name": "Gunungaci",
+    "district": "subang"
+  },
+  {
+    "id": "situgede",
+    "name": "Situgede",
+    "district": "subang"
+  },
+  {
+    "id": "parung",
+    "name": "Parung",
+    "district": "subang"
+  },
+  {
+    "id": "pasirkareumbi",
+    "name": "Pasirkareumbi",
+    "district": "subang"
+  },
+  {
+    "id": "soklat",
+    "name": "Soklat",
+    "district": "subang"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "subang"
+  },
+  {
+    "id": "cigadung",
+    "name": "Cigadung",
+    "district": "subang"
+  },
+  {
+    "id": "dangdeur",
+    "name": "Dangdeur",
+    "district": "subang"
+  },
+  {
+    "id": "sukamelang",
+    "name": "Sukamelang",
+    "district": "subang"
+  },
+  {
+    "id": "wanareja",
+    "name": "Wanareja",
+    "district": "subang"
+  }
+]

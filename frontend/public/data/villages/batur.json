@@ -1,0 +1,42 @@
+[
+  {
+    "id": "batur",
+    "name": "Batur",
+    "district": "batur"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "batur"
+  },
+  {
+    "id": "pesurenan",
+    "name": "Pesurenan",
+    "district": "batur"
+  },
+  {
+    "id": "bakal",
+    "name": "Bakal",
+    "district": "batur"
+  },
+  {
+    "id": "dieng-kulon",
+    "name": "Dieng Kulon",
+    "district": "batur"
+  },
+  {
+    "id": "karangtengah",
+    "name": "Karangtengah",
+    "district": "batur"
+  },
+  {
+    "id": "kepakisan",
+    "name": "Kepakisan",
+    "district": "batur"
+  },
+  {
+    "id": "pekasiran",
+    "name": "Pekasiran",
+    "district": "batur"
+  }
+]

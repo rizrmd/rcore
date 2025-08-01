@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sukaraksa",
+    "name": "Sukaraksa",
+    "district": "cigudeg"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cigudeg"
+  },
+  {
+    "id": "cigudeg",
+    "name": "Cigudeg",
+    "district": "cigudeg"
+  },
+  {
+    "id": "banyu-resmi",
+    "name": "Banyu Resmi",
+    "district": "cigudeg"
+  },
+  {
+    "id": "wargajaya",
+    "name": "Wargajaya",
+    "district": "cigudeg"
+  },
+  {
+    "id": "bunar",
+    "name": "Bunar",
+    "district": "cigudeg"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "cigudeg"
+  },
+  {
+    "id": "cintamanik",
+    "name": "Cintamanik",
+    "district": "cigudeg"
+  },
+  {
+    "id": "banyu-wangi",
+    "name": "Banyu Wangi",
+    "district": "cigudeg"
+  },
+  {
+    "id": "banyu-asih",
+    "name": "Banyu Asih",
+    "district": "cigudeg"
+  },
+  {
+    "id": "tegalega",
+    "name": "Tegalega",
+    "district": "cigudeg"
+  },
+  {
+    "id": "batu-jajar",
+    "name": "Batu Jajar",
+    "district": "cigudeg"
+  },
+  {
+    "id": "rengasjajar",
+    "name": "Rengasjajar",
+    "district": "cigudeg"
+  },
+  {
+    "id": "bangunjaya",
+    "name": "Bangunjaya",
+    "district": "cigudeg"
+  },
+  {
+    "id": "argapura",
+    "name": "Argapura",
+    "district": "cigudeg"
+  }
+]

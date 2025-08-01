@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kota-niur",
+    "name": "Kota Niur",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "tanjung-raman",
+    "name": "Tanjung Raman",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "karang-tengah",
+    "name": "Karang Tengah",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "lubuk-sini",
+    "name": "Lubuk Sini",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "bajak-i",
+    "name": "Bajak I",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "surau",
+    "name": "Surau",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "rindu-hati",
+    "name": "Rindu Hati",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "tanjung-heran",
+    "name": "Tanjung Heran",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "taba-teret",
+    "name": "Taba Teret",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "taba-penanjung",
+    "name": "Taba Penanjung",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "datar-lebar",
+    "name": "Datar Lebar",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "penum",
+    "name": "Penum",
+    "district": "taba-penanjung"
+  },
+  {
+    "id": "taba-baru",
+    "name": "Taba Baru",
+    "district": "taba-penanjung"
+  }
+]

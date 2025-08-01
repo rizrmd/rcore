@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kaisa",
+    "name": "Kaisa",
+    "district": "subur"
+  },
+  {
+    "id": "bhakti-wagai",
+    "name": "Bhakti / Wagai",
+    "district": "subur"
+  },
+  {
+    "id": "aiwat",
+    "name": "Aiwat",
+    "district": "subur"
+  }
+]

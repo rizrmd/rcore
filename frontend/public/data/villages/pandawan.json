@@ -1,0 +1,107 @@
+[
+  {
+    "id": "masiraan",
+    "name": "Masiraan",
+    "district": "pandawan"
+  },
+  {
+    "id": "jaranih",
+    "name": "Jaranih",
+    "district": "pandawan"
+  },
+  {
+    "id": "banua-hanyar",
+    "name": "Banua Hanyar",
+    "district": "pandawan"
+  },
+  {
+    "id": "banua-asam",
+    "name": "Banua Asam",
+    "district": "pandawan"
+  },
+  {
+    "id": "matang-ginalun",
+    "name": "Matang Ginalun",
+    "district": "pandawan"
+  },
+  {
+    "id": "hulu-rasau",
+    "name": "Hulu Rasau",
+    "district": "pandawan"
+  },
+  {
+    "id": "banua-supanggal",
+    "name": "Banua Supanggal",
+    "district": "pandawan"
+  },
+  {
+    "id": "mahang-putat",
+    "name": "Mahang Putat",
+    "district": "pandawan"
+  },
+  {
+    "id": "mahang-sei-hanyar",
+    "name": "Mahang Sei Hanyar",
+    "district": "pandawan"
+  },
+  {
+    "id": "mahang-matang-landung",
+    "name": "Mahang Matang Landung",
+    "district": "pandawan"
+  },
+  {
+    "id": "buluan",
+    "name": "Buluan",
+    "district": "pandawan"
+  },
+  {
+    "id": "pandawan",
+    "name": "Pandawan",
+    "district": "pandawan"
+  },
+  {
+    "id": "banua-batung",
+    "name": "Banua Batung",
+    "district": "pandawan"
+  },
+  {
+    "id": "jatuh",
+    "name": "Jatuh",
+    "district": "pandawan"
+  },
+  {
+    "id": "hilir-banua",
+    "name": "Hilir Banua",
+    "district": "pandawan"
+  },
+  {
+    "id": "kambat-selatan",
+    "name": "Kambat Selatan",
+    "district": "pandawan"
+  },
+  {
+    "id": "walatung",
+    "name": "Walatung",
+    "district": "pandawan"
+  },
+  {
+    "id": "kayu-rabah",
+    "name": "Kayu Rabah",
+    "district": "pandawan"
+  },
+  {
+    "id": "setiap",
+    "name": "Setiap",
+    "district": "pandawan"
+  },
+  {
+    "id": "kambat-utara",
+    "name": "Kambat Utara",
+    "district": "pandawan"
+  },
+  {
+    "id": "palajau",
+    "name": "Palajau",
+    "district": "pandawan"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "waganu",
+    "name": "Waganu",
+    "district": "sirets"
+  },
+  {
+    "id": "fos",
+    "name": "Fos",
+    "district": "sirets"
+  },
+  {
+    "id": "awok",
+    "name": "Awok",
+    "district": "sirets"
+  },
+  {
+    "id": "kaimo",
+    "name": "Kaimo",
+    "district": "sirets"
+  },
+  {
+    "id": "yausakor",
+    "name": "Yausakor",
+    "district": "sirets"
+  },
+  {
+    "id": "damen",
+    "name": "Damen",
+    "district": "sirets"
+  },
+  {
+    "id": "biwar-darat",
+    "name": "Biwar Darat",
+    "district": "sirets"
+  },
+  {
+    "id": "sakor",
+    "name": "Sakor",
+    "district": "sirets"
+  }
+]

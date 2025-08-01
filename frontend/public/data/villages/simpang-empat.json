@@ -1,0 +1,312 @@
+[
+  {
+    "id": "silomlom",
+    "name": "Silomlom",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "perkebunan-sukaraja",
+    "name": "Perkebunan Sukaraja",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sei-dua-hulu",
+    "name": "Sei Dua Hulu",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "perkebunan-hessa",
+    "name": "Perkebunan Hessa",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungai-lama",
+    "name": "Sungai Lama",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sipaku-area",
+    "name": "Sipaku Area",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "anjung-ganjang",
+    "name": "Anjung Ganjang",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "beganding",
+    "name": "Beganding",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "serumbia",
+    "name": "Serumbia",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "nang-belawan",
+    "name": "Nang Belawan",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "lingga",
+    "name": "Lingga",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "lingga-julu",
+    "name": "Lingga Julu",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "ndokum-siroga",
+    "name": "Ndokum Siroga",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "surbakti",
+    "name": "Surbakti",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "tiga-pancur",
+    "name": "Tiga Pancur",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "berastepu",
+    "name": "Berastepu",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "pintu-besi",
+    "name": "Pintu Besi",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "jeraya",
+    "name": "Jeraya",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "perteguhen",
+    "name": "Perteguhen",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "kuta-tengah",
+    "name": "Kuta Tengah",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "torong",
+    "name": "Torong",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "gajah",
+    "name": "Gajah",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "bulan-baru",
+    "name": "Bulan Baru",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "gamber",
+    "name": "Gamber",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "tanah-intan",
+    "name": "Tanah Intan",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungai-tabuk",
+    "name": "Sungai Tabuk",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "lokcantung",
+    "name": "Lokcantung",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "cabi",
+    "name": "Cabi",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "lawiran",
+    "name": "Lawiran",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungai-langsat",
+    "name": "Sungai Langsat",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "paring-tali",
+    "name": "Paring Tali",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "batu-balian",
+    "name": "Batu Balian",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungkai",
+    "name": "Sungkai",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "pasar-lama",
+    "name": "Pasar Lama",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungkai-baru",
+    "name": "Sungkai Baru",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "berkat-mulya",
+    "name": "Berkat Mulya",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "paku",
+    "name": "Paku",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "keramat-mina",
+    "name": "Keramat Mina",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "cinta-puri",
+    "name": "Cinta Puri",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "surian",
+    "name": "Surian",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "simpang-lima",
+    "name": "Simpang Lima",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sindang-jaya",
+    "name": "Sindang Jaya",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "karya-makmur",
+    "name": "Karya Makmur",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "makmur-karya",
+    "name": "Makmur Karya",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "alalak-padang",
+    "name": "Alalak Padang",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "benua-anyar",
+    "name": "Benua Anyar",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "garis-hanyar",
+    "name": "Garis Hanyar",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "tungkaran-pangeran",
+    "name": "Tungkaran Pangeran",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sari-gadung",
+    "name": "Sari Gadung",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sungai-dua",
+    "name": "Sungai Dua",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "batu-ampar",
+    "name": "Batu Ampar",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "gunung-besar",
+    "name": "Gunung Besar",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "pulau-panjang",
+    "name": "Pulau Panjang",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "baroqah",
+    "name": "Baroqah",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "sejahtera",
+    "name": "Sejahtera",
+    "district": "simpang-empat"
+  },
+  {
+    "id": "gunung-antasari",
+    "name": "Gunung Antasari",
+    "district": "simpang-empat"
+  }
+]

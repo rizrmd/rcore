@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pasirdalem",
+    "name": "Pasirdalem",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "kadupandak"
+  },
+  {
+    "id": "kadupandak",
+    "name": "Kadupandak",
+    "district": "kadupandak"
+  },
+  {
+    "id": "talagasari",
+    "name": "Talagasari",
+    "district": "kadupandak"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sukakerta",
+    "name": "Sukakerta",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sukaraharja",
+    "name": "Sukaraharja",
+    "district": "kadupandak"
+  },
+  {
+    "id": "bojongkasih",
+    "name": "Bojongkasih",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "kadupandak"
+  },
+  {
+    "id": "wargasari",
+    "name": "Wargasari",
+    "district": "kadupandak"
+  },
+  {
+    "id": "wargaasih",
+    "name": "Wargaasih",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sukaresmi",
+    "name": "Sukaresmi",
+    "district": "kadupandak"
+  },
+  {
+    "id": "gandasari",
+    "name": "Gandasari",
+    "district": "kadupandak"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "kadupandak"
+  }
+]

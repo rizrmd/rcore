@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "cimerak"
+  },
+  {
+    "id": "ciparanti",
+    "name": "Ciparanti",
+    "district": "cimerak"
+  },
+  {
+    "id": "legokjawa",
+    "name": "Legokjawa",
+    "district": "cimerak"
+  },
+  {
+    "id": "masawah",
+    "name": "Masawah",
+    "district": "cimerak"
+  },
+  {
+    "id": "batumalang",
+    "name": "Batumalang",
+    "district": "cimerak"
+  },
+  {
+    "id": "cimerak",
+    "name": "Cimerak",
+    "district": "cimerak"
+  },
+  {
+    "id": "limusgede",
+    "name": "Limusgede",
+    "district": "cimerak"
+  },
+  {
+    "id": "kertaharja",
+    "name": "Kertaharja",
+    "district": "cimerak"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cimerak"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "cimerak"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "cimerak"
+  }
+]

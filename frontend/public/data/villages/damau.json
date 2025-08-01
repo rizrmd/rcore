@@ -1,0 +1,37 @@
+[
+  {
+    "id": "taduwale",
+    "name": "Taduwale",
+    "district": "damau"
+  },
+  {
+    "id": "damau",
+    "name": "Damau",
+    "district": "damau"
+  },
+  {
+    "id": "akas",
+    "name": "Akas",
+    "district": "damau"
+  },
+  {
+    "id": "birang",
+    "name": "Birang",
+    "district": "damau"
+  },
+  {
+    "id": "ighik",
+    "name": "Ighik",
+    "district": "damau"
+  },
+  {
+    "id": "damau-bawone",
+    "name": "Damau Bawone",
+    "district": "damau"
+  },
+  {
+    "id": "akas-balane",
+    "name": "Akas Balane",
+    "district": "damau"
+  }
+]

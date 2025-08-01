@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sabbamparu",
+    "name": "Sabbamparu",
+    "district": "wara-utara"
+  },
+  {
+    "id": "batupasi",
+    "name": "Batupasi",
+    "district": "wara-utara"
+  },
+  {
+    "id": "salobulo",
+    "name": "Salobulo",
+    "district": "wara-utara"
+  },
+  {
+    "id": "penggoli",
+    "name": "Penggoli",
+    "district": "wara-utara"
+  },
+  {
+    "id": "luminda",
+    "name": "Luminda",
+    "district": "wara-utara"
+  },
+  {
+    "id": "pattene",
+    "name": "Pattene",
+    "district": "wara-utara"
+  }
+]

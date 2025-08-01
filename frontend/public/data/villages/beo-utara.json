@@ -1,0 +1,42 @@
+[
+  {
+    "id": "makatara",
+    "name": "Makatara",
+    "district": "beo-utara"
+  },
+  {
+    "id": "makatara-timur",
+    "name": "Makatara Timur",
+    "district": "beo-utara"
+  },
+  {
+    "id": "lobbo",
+    "name": "Lobbo",
+    "district": "beo-utara"
+  },
+  {
+    "id": "lobbo-i",
+    "name": "Lobbo I",
+    "district": "beo-utara"
+  },
+  {
+    "id": "rae",
+    "name": "Rae",
+    "district": "beo-utara"
+  },
+  {
+    "id": "rae-selatan",
+    "name": "Rae Selatan",
+    "district": "beo-utara"
+  },
+  {
+    "id": "awit",
+    "name": "Awit",
+    "district": "beo-utara"
+  },
+  {
+    "id": "awit-selatan",
+    "name": "Awit Selatan",
+    "district": "beo-utara"
+  }
+]

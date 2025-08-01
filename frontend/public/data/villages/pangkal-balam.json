@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ampui",
+    "name": "Ampui",
+    "district": "pangkal-balam"
+  },
+  {
+    "id": "lontong-pancur",
+    "name": "Lontong Pancur",
+    "district": "pangkal-balam"
+  },
+  {
+    "id": "pasir-garam",
+    "name": "Pasir Garam",
+    "district": "pangkal-balam"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "pangkal-balam"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "pangkal-balam"
+  }
+]

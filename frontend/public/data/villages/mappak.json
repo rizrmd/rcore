@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lembang-butang",
+    "name": "Lembang Butang",
+    "district": "mappak"
+  },
+  {
+    "id": "lembang-miallo",
+    "name": "Lembang Miallo",
+    "district": "mappak"
+  },
+  {
+    "id": "lembang-tanete",
+    "name": "Lembang Tanete",
+    "district": "mappak"
+  },
+  {
+    "id": "kelurahan-kondodewata",
+    "name": "Kelurahan Kondodewata",
+    "district": "mappak"
+  },
+  {
+    "id": "lembang-sangpeparikan",
+    "name": "Lembang Sangpeparikan",
+    "district": "mappak"
+  },
+  {
+    "id": "lembang-dewata",
+    "name": "Lembang Dewata",
+    "district": "mappak"
+  }
+]

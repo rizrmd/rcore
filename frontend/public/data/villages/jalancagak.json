@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sarireja",
+    "name": "Sarireja",
+    "district": "jalancagak"
+  },
+  {
+    "id": "kumpay",
+    "name": "Kumpay",
+    "district": "jalancagak"
+  },
+  {
+    "id": "tambakan",
+    "name": "Tambakan",
+    "district": "jalancagak"
+  },
+  {
+    "id": "jalancagak",
+    "name": "Jalancagak",
+    "district": "jalancagak"
+  },
+  {
+    "id": "bunihayu",
+    "name": "Bunihayu",
+    "district": "jalancagak"
+  },
+  {
+    "id": "tambakmekar",
+    "name": "Tambakmekar",
+    "district": "jalancagak"
+  }
+]

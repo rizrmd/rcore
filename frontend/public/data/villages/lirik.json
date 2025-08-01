@@ -1,0 +1,87 @@
+[
+  {
+    "id": "japura",
+    "name": "Japura",
+    "district": "lirik"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "lirik"
+  },
+  {
+    "id": "pasir-ringgit",
+    "name": "Pasir Ringgit",
+    "district": "lirik"
+  },
+  {
+    "id": "gudang-batu",
+    "name": "Gudang Batu",
+    "district": "lirik"
+  },
+  {
+    "id": "sungai-sagu",
+    "name": "Sungai Sagu",
+    "district": "lirik"
+  },
+  {
+    "id": "lirik-area",
+    "name": "Lirik Area",
+    "district": "lirik"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "lirik"
+  },
+  {
+    "id": "lambang-sari-v",
+    "name": "Lambang Sari V",
+    "district": "lirik"
+  },
+  {
+    "id": "lambang-sari-iv",
+    "name": "Lambang Sari Iv",
+    "district": "lirik"
+  },
+  {
+    "id": "lambang-sari-i",
+    "name": "Lambang Sari I",
+    "district": "lirik"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "lirik"
+  },
+  {
+    "id": "seko-lubuk-tigo",
+    "name": "Seko Lubuk Tigo",
+    "district": "lirik"
+  },
+  {
+    "id": "banjar-balam",
+    "name": "Banjar Balam",
+    "district": "lirik"
+  },
+  {
+    "id": "redang-seko",
+    "name": "Redang Seko",
+    "district": "lirik"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "lirik"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "lirik"
+  },
+  {
+    "id": "pasir-sialang-jaya",
+    "name": "Pasir Sialang Jaya",
+    "district": "lirik"
+  }
+]

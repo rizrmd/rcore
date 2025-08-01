@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tolotangga",
+    "name": "Tolotangga",
+    "district": "monta"
+  },
+  {
+    "id": "sondo",
+    "name": "Sondo",
+    "district": "monta"
+  },
+  {
+    "id": "simpasai",
+    "name": "Simpasai",
+    "district": "monta"
+  },
+  {
+    "id": "sie",
+    "name": "Sie",
+    "district": "monta"
+  },
+  {
+    "id": "tangga",
+    "name": "Tangga",
+    "district": "monta"
+  },
+  {
+    "id": "monta",
+    "name": "Monta",
+    "district": "monta"
+  },
+  {
+    "id": "baralau",
+    "name": "Baralau",
+    "district": "monta"
+  },
+  {
+    "id": "tolouwi",
+    "name": "Tolouwi",
+    "district": "monta"
+  },
+  {
+    "id": "willamaci",
+    "name": "Willamaci",
+    "district": "monta"
+  },
+  {
+    "id": "pela",
+    "name": "Pela",
+    "district": "monta"
+  },
+  {
+    "id": "tangga-baru",
+    "name": "Tangga Baru",
+    "district": "monta"
+  },
+  {
+    "id": "nontotera",
+    "name": "Nontotera",
+    "district": "monta"
+  },
+  {
+    "id": "waro",
+    "name": "Waro",
+    "district": "monta"
+  }
+]

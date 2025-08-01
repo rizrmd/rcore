@@ -1,0 +1,47 @@
+[
+  {
+    "id": "patampanua",
+    "name": "Patampanua",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "panincong",
+    "name": "Panincong",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "tellulimpoe",
+    "name": "Tellulimpoe",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "attang-salo",
+    "name": "Attang Salo",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "kaca",
+    "name": "Kaca",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "limpomajang",
+    "name": "Limpomajang",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "batu-batu",
+    "name": "Batu-Batu",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "manorang-salo",
+    "name": "Manorang Salo",
+    "district": "mario-riawa"
+  },
+  {
+    "id": "laringgi",
+    "name": "Laringgi",
+    "district": "mario-riawa"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "kemiling"
+  },
+  {
+    "id": "kedaung",
+    "name": "Kedaung",
+    "district": "kemiling"
+  },
+  {
+    "id": "pinang-jaya",
+    "name": "Pinang Jaya",
+    "district": "kemiling"
+  },
+  {
+    "id": "beringin-raya",
+    "name": "Beringin Raya",
+    "district": "kemiling"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "kemiling"
+  },
+  {
+    "id": "kemiling-permai",
+    "name": "Kemiling Permai",
+    "district": "kemiling"
+  },
+  {
+    "id": "sumberrejo-sejahtera",
+    "name": "Sumberrejo Sejahtera",
+    "district": "kemiling"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "kemiling"
+  },
+  {
+    "id": "kemiling-raya",
+    "name": "Kemiling Raya",
+    "district": "kemiling"
+  }
+]

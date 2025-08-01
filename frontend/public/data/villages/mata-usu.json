@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kolombi-mata-usu",
+    "name": "Kolombi Mata Usu",
+    "district": "mata-usu"
+  },
+  {
+    "id": "morengke",
+    "name": "Morengke",
+    "district": "mata-usu"
+  },
+  {
+    "id": "totole",
+    "name": "Totole",
+    "district": "mata-usu"
+  },
+  {
+    "id": "wia-wia",
+    "name": "Wia-Wia",
+    "district": "mata-usu"
+  },
+  {
+    "id": "lamuru",
+    "name": "Lamuru",
+    "district": "mata-usu"
+  }
+]

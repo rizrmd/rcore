@@ -1,0 +1,127 @@
+[
+  {
+    "id": "pulo-sarok",
+    "name": "Pulo Sarok",
+    "district": "singkil"
+  },
+  {
+    "id": "pasar-singkil",
+    "name": "Pasar Singkil",
+    "district": "singkil"
+  },
+  {
+    "id": "ujung",
+    "name": "Ujung",
+    "district": "singkil"
+  },
+  {
+    "id": "kota-simboling",
+    "name": "Kota Simboling",
+    "district": "singkil"
+  },
+  {
+    "id": "kilangan",
+    "name": "Kilangan",
+    "district": "singkil"
+  },
+  {
+    "id": "teluk-ambun",
+    "name": "Teluk Ambun",
+    "district": "singkil"
+  },
+  {
+    "id": "rantau-gedang",
+    "name": "Rantau Gedang",
+    "district": "singkil"
+  },
+  {
+    "id": "teluk-rumbia",
+    "name": "Teluk Rumbia",
+    "district": "singkil"
+  },
+  {
+    "id": "takal-pasir",
+    "name": "Takal Pasir",
+    "district": "singkil"
+  },
+  {
+    "id": "selok-aceh",
+    "name": "Selok Aceh",
+    "district": "singkil"
+  },
+  {
+    "id": "pea-bumbung",
+    "name": "Pea Bumbung",
+    "district": "singkil"
+  },
+  {
+    "id": "pemuka",
+    "name": "Pemuka",
+    "district": "singkil"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "singkil"
+  },
+  {
+    "id": "ujung-bawang",
+    "name": "Ujung Bawang",
+    "district": "singkil"
+  },
+  {
+    "id": "siti-ambia",
+    "name": "Siti Ambia",
+    "district": "singkil"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "singkil"
+  },
+  {
+    "id": "karame",
+    "name": "Karame",
+    "district": "singkil"
+  },
+  {
+    "id": "ketang-baru",
+    "name": "Ketang Baru",
+    "district": "singkil"
+  },
+  {
+    "id": "wawonasa",
+    "name": "Wawonasa",
+    "district": "singkil"
+  },
+  {
+    "id": "ternate-baru",
+    "name": "Ternate Baru",
+    "district": "singkil"
+  },
+  {
+    "id": "ternate-tanjung",
+    "name": "Ternate Tanjung",
+    "district": "singkil"
+  },
+  {
+    "id": "kombos-barat",
+    "name": "Kombos Barat",
+    "district": "singkil"
+  },
+  {
+    "id": "kombos-timur",
+    "name": "Kombos Timur",
+    "district": "singkil"
+  },
+  {
+    "id": "singkil-satu",
+    "name": "Singkil Satu",
+    "district": "singkil"
+  },
+  {
+    "id": "singkil-dua",
+    "name": "Singkil Dua",
+    "district": "singkil"
+  }
+]

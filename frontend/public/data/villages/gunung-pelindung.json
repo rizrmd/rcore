@@ -1,0 +1,27 @@
+[
+  {
+    "id": "negeri-agung",
+    "name": "Negeri Agung",
+    "district": "gunung-pelindung"
+  },
+  {
+    "id": "pempen",
+    "name": "Pempen",
+    "district": "gunung-pelindung"
+  },
+  {
+    "id": "pelindung-jaya",
+    "name": "Pelindung Jaya",
+    "district": "gunung-pelindung"
+  },
+  {
+    "id": "wai-mili",
+    "name": "Wai Mili",
+    "district": "gunung-pelindung"
+  },
+  {
+    "id": "nibung",
+    "name": "Nibung",
+    "district": "gunung-pelindung"
+  }
+]

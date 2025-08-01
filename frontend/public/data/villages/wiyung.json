@@ -1,0 +1,22 @@
+[
+  {
+    "id": "balas-klumprik",
+    "name": "Balas Klumprik",
+    "district": "wiyung"
+  },
+  {
+    "id": "babatan",
+    "name": "Babatan",
+    "district": "wiyung"
+  },
+  {
+    "id": "wiyung",
+    "name": "Wiyung",
+    "district": "wiyung"
+  },
+  {
+    "id": "jajar-tunggal",
+    "name": "Jajar Tunggal",
+    "district": "wiyung"
+  }
+]

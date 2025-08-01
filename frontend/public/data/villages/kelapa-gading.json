@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kelapa-gading-barat",
+    "name": "Kelapa Gading Barat",
+    "district": "kelapa-gading"
+  },
+  {
+    "id": "kelapa-gading-timur",
+    "name": "Kelapa Gading Timur",
+    "district": "kelapa-gading"
+  },
+  {
+    "id": "pegangsaan-dua",
+    "name": "Pegangsaan Dua",
+    "district": "kelapa-gading"
+  }
+]

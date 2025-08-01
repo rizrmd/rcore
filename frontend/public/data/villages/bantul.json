@@ -1,0 +1,27 @@
+[
+  {
+    "id": "palbapang",
+    "name": "Palbapang",
+    "district": "bantul"
+  },
+  {
+    "id": "ringin-harjo",
+    "name": "Ringin Harjo",
+    "district": "bantul"
+  },
+  {
+    "id": "bantul",
+    "name": "Bantul",
+    "district": "bantul"
+  },
+  {
+    "id": "trirenggo",
+    "name": "Trirenggo",
+    "district": "bantul"
+  },
+  {
+    "id": "sabdodadi",
+    "name": "Sabdodadi",
+    "district": "bantul"
+  }
+]

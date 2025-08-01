@@ -1,0 +1,47 @@
+[
+  {
+    "id": "saronda",
+    "name": "Saronda",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "tumbu-bara",
+    "name": "Tumbu Bara",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "sampeang",
+    "name": "Sampeang",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "kadong-kadong",
+    "name": "Kadong-Kadong",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "marinding",
+    "name": "Marinding",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "tetekang",
+    "name": "Tetekang",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "bonelemo",
+    "name": "Bonelemo",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "bonelemo-barat",
+    "name": "Bonelemo Barat",
+    "district": "bajo-barat"
+  },
+  {
+    "id": "bonelemo-utara",
+    "name": "Bonelemo Utara",
+    "district": "bajo-barat"
+  }
+]

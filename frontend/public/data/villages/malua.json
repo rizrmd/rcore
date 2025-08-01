@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tangru",
+    "name": "Tangru",
+    "district": "malua"
+  },
+  {
+    "id": "tallung-tondok",
+    "name": "Tallung Tondok",
+    "district": "malua"
+  },
+  {
+    "id": "kolai",
+    "name": "Kolai",
+    "district": "malua"
+  },
+  {
+    "id": "bonto",
+    "name": "Bonto",
+    "district": "malua"
+  },
+  {
+    "id": "malua",
+    "name": "Malua",
+    "district": "malua"
+  },
+  {
+    "id": "rante-mario",
+    "name": "Rante Mario",
+    "district": "malua"
+  },
+  {
+    "id": "dulang",
+    "name": "Dulang",
+    "district": "malua"
+  },
+  {
+    "id": "buntu-batuan",
+    "name": "Buntu Batuan",
+    "district": "malua"
+  }
+]

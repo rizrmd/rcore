@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tegaldatar",
+    "name": "Tegaldatar",
+    "district": "maniis"
+  },
+  {
+    "id": "sinargalih",
+    "name": "Sinargalih",
+    "district": "maniis"
+  },
+  {
+    "id": "citamiang",
+    "name": "Citamiang",
+    "district": "maniis"
+  },
+  {
+    "id": "cijati",
+    "name": "Cijati",
+    "district": "maniis"
+  },
+  {
+    "id": "gunungkarung",
+    "name": "Gunungkarung",
+    "district": "maniis"
+  },
+  {
+    "id": "pasirjambu",
+    "name": "Pasirjambu",
+    "district": "maniis"
+  },
+  {
+    "id": "ciramahilir",
+    "name": "Ciramahilir",
+    "district": "maniis"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "maniis"
+  }
+]

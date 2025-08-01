@@ -1,0 +1,32 @@
+[
+  {
+    "id": "surodinawan",
+    "name": "Surodinawan",
+    "district": "prajurit-kulon"
+  },
+  {
+    "id": "prajurit-kulon",
+    "name": "Prajurit Kulon",
+    "district": "prajurit-kulon"
+  },
+  {
+    "id": "blooto",
+    "name": "Blooto",
+    "district": "prajurit-kulon"
+  },
+  {
+    "id": "mentikan",
+    "name": "Mentikan",
+    "district": "prajurit-kulon"
+  },
+  {
+    "id": "kauman",
+    "name": "Kauman",
+    "district": "prajurit-kulon"
+  },
+  {
+    "id": "pulorejo",
+    "name": "Pulorejo",
+    "district": "prajurit-kulon"
+  }
+]

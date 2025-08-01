@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pelawi-utara",
+    "name": "Pelawi Utara",
+    "district": "babalan"
+  },
+  {
+    "id": "securai-utara",
+    "name": "Securai Utara",
+    "district": "babalan"
+  },
+  {
+    "id": "securai-selatan",
+    "name": "Securai Selatan",
+    "district": "babalan"
+  },
+  {
+    "id": "pelawi-selatan",
+    "name": "Pelawi Selatan",
+    "district": "babalan"
+  },
+  {
+    "id": "brandan-timur-baru",
+    "name": "Brandan Timur Baru",
+    "district": "babalan"
+  },
+  {
+    "id": "brandan-barat",
+    "name": "Brandan Barat",
+    "district": "babalan"
+  },
+  {
+    "id": "brandan-timur",
+    "name": "Brandan Timur",
+    "district": "babalan"
+  },
+  {
+    "id": "teluk-meku",
+    "name": "Teluk Meku",
+    "district": "babalan"
+  }
+]

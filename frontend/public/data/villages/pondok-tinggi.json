@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sungai-jernih",
+    "name": "Sungai Jernih",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "koto-lebu",
+    "name": "Koto Lebu",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "karya-bakti",
+    "name": "Karya Bakti",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "lawang-agung",
+    "name": "Lawang Agung",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "kelurahan-pondok-tinggi",
+    "name": "Kelurahan Pondok Tinggi",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "permanti",
+    "name": "Permanti",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "pondok-agung",
+    "name": "Pondok Agung",
+    "district": "pondok-tinggi"
+  },
+  {
+    "id": "aur-duri",
+    "name": "Aur Duri",
+    "district": "pondok-tinggi"
+  }
+]

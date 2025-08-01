@@ -1,0 +1,47 @@
+[
+  {
+    "id": "katialo",
+    "name": "Katialo",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "tanjuang-balik",
+    "name": "Tanjuang Balik",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "paninjauan",
+    "name": "Paninjauan",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "labuah-panjang",
+    "name": "Labuah Panjang",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "sulik-aia",
+    "name": "Sulik Aia",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "pasilihan",
+    "name": "Pasilihan",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "bukik-kanduang",
+    "name": "Bukik Kanduang",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "kuncia",
+    "name": "Kuncia",
+    "district": "x-koto-diatas"
+  },
+  {
+    "id": "siberambang",
+    "name": "Siberambang",
+    "district": "x-koto-diatas"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sungai-boh",
+    "name": "Sungai Boh",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "kayan-selatan",
+    "name": "Kayan Selatan",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "kayan-hulu",
+    "name": "Kayan Hulu",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "kayan-hilir",
+    "name": "Kayan Hilir",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "pujungan",
+    "name": "Pujungan",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "bahau-hulu",
+    "name": "Bahau Hulu",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "sungai-tubu",
+    "name": "Sungai Tubu",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-selatan-hulu",
+    "name": "Malinau Selatan Hulu",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-selatan",
+    "name": "Malinau Selatan",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-selatan-hilir",
+    "name": "Malinau Selatan Hilir",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "mentarang",
+    "name": "Mentarang",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "mentarang-hulu",
+    "name": "Mentarang Hulu",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-utara",
+    "name": "Malinau Utara",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-barat",
+    "name": "Malinau Barat",
+    "regency": "kabupaten-malinau"
+  },
+  {
+    "id": "malinau-kota",
+    "name": "Malinau Kota",
+    "regency": "kabupaten-malinau"
+  }
+]

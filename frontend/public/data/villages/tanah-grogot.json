@@ -1,0 +1,82 @@
+[
+  {
+    "id": "janju",
+    "name": "Janju",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "sempulang",
+    "name": "Sempulang",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "tepian-batang",
+    "name": "Tepian Batang",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "tanah-grogot",
+    "name": "Tanah Grogot",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "tanah-periuk",
+    "name": "Tanah Periuk",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "pepara",
+    "name": "Pepara",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "sungai-tuak",
+    "name": "Sungai Tuak",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "jone",
+    "name": "Jone",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "padang-pengrapat",
+    "name": "Padang Pengrapat",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "muara-pasir",
+    "name": "Muara Pasir",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "prepat",
+    "name": "Prepat",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "pulau-rantau",
+    "name": "Pulau Rantau",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "sungai-langir",
+    "name": "Sungai Langir",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "tapis",
+    "name": "Tapis",
+    "district": "tanah-grogot"
+  },
+  {
+    "id": "senaken",
+    "name": "Senaken",
+    "district": "tanah-grogot"
+  }
+]

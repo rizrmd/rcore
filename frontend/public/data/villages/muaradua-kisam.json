@@ -1,0 +1,92 @@
+[
+  {
+    "id": "gunung-gare",
+    "name": "Gunung Gare",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "tanjung-beringin",
+    "name": "Tanjung Beringin",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "simpang-lubuk-dalam",
+    "name": "Simpang Lubuk Dalam",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "ulak-agung-ulu",
+    "name": "Ulak Agung Ulu",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "bandar-alam-baru",
+    "name": "Bandar Alam Baru",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "ulak-agung-ilir",
+    "name": "Ulak Agung Ilir",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "alundua",
+    "name": "Alundua",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "penyandingan",
+    "name": "Penyandingan",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "dusun-tengah",
+    "name": "Dusun Tengah",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "penantian",
+    "name": "Penantian",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "muaradua-kisam",
+    "name": "Muaradua Kisam",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "sukananti",
+    "name": "Sukananti",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "tanjung-tebat",
+    "name": "Tanjung Tebat",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "lawang-agung",
+    "name": "Lawang Agung",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "bayur-tengah",
+    "name": "Bayur Tengah",
+    "district": "muaradua-kisam"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "muaradua-kisam"
+  }
+]

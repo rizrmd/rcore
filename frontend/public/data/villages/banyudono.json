@@ -1,0 +1,72 @@
+[
+  {
+    "id": "jipangan",
+    "name": "Jipangan",
+    "district": "banyudono"
+  },
+  {
+    "id": "jembungan",
+    "name": "Jembungan",
+    "district": "banyudono"
+  },
+  {
+    "id": "sambon",
+    "name": "Sambon",
+    "district": "banyudono"
+  },
+  {
+    "id": "kuwiran",
+    "name": "Kuwiran",
+    "district": "banyudono"
+  },
+  {
+    "id": "cangkringan",
+    "name": "Cangkringan",
+    "district": "banyudono"
+  },
+  {
+    "id": "ngaru-aru",
+    "name": "Ngaru Aru",
+    "district": "banyudono"
+  },
+  {
+    "id": "bendan",
+    "name": "Bendan",
+    "district": "banyudono"
+  },
+  {
+    "id": "ketaon",
+    "name": "Ketaon",
+    "district": "banyudono"
+  },
+  {
+    "id": "banyudono",
+    "name": "Banyudono",
+    "district": "banyudono"
+  },
+  {
+    "id": "batan",
+    "name": "Batan",
+    "district": "banyudono"
+  },
+  {
+    "id": "denggungan",
+    "name": "Denggungan",
+    "district": "banyudono"
+  },
+  {
+    "id": "bangak",
+    "name": "Bangak",
+    "district": "banyudono"
+  },
+  {
+    "id": "trayu",
+    "name": "Trayu",
+    "district": "banyudono"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "banyudono"
+  }
+]

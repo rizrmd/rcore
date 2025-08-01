@@ -1,0 +1,47 @@
+[
+  {
+    "id": "padang-baru",
+    "name": "Padang Baru",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "tanjung-pandan",
+    "name": "Tanjung Pandan",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "tanjung-iman",
+    "name": "Tanjung Iman",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "penyandingan",
+    "name": "Penyandingan",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "kemang-manis",
+    "name": "Kemang Manis",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "padang-hangat",
+    "name": "Padang Hangat",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "suka-rami",
+    "name": "Suka Rami",
+    "district": "kaur-tengah"
+  },
+  {
+    "id": "sinar-jaya",
+    "name": "Sinar Jaya",
+    "district": "kaur-tengah"
+  }
+]

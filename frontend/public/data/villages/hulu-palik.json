@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kota-lekat-ilir",
+    "name": "Kota Lekat Ilir",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "air-banai",
+    "name": "Air Banai",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "air-baus-ii",
+    "name": "Air Baus Ii",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "air-baus-i",
+    "name": "Air Baus I",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "taba-padang-kol",
+    "name": "Taba Padang Kol",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "taba-padang-rejang",
+    "name": "Taba Padang Rejang",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "padang-bendar",
+    "name": "Padang Bendar",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "batu-layang",
+    "name": "Batu Layang",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "batu-raja-kol",
+    "name": "Batu Raja Kol",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "batu-raja-rejang",
+    "name": "Batu Raja Rejang",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "batu-roto",
+    "name": "Batu Roto",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "pematang-balam",
+    "name": "Pematang Balam",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "talang-rendah",
+    "name": "Talang Rendah",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "hulu-palik"
+  },
+  {
+    "id": "kota-lekat-mudik",
+    "name": "Kota Lekat Mudik",
+    "district": "hulu-palik"
+  }
+]

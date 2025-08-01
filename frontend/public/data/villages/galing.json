@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ratu-sepudak",
+    "name": "Ratu Sepudak",
+    "district": "galing"
+  },
+  {
+    "id": "sungai-palah",
+    "name": "Sungai Palah",
+    "district": "galing"
+  },
+  {
+    "id": "sagu",
+    "name": "Sagu",
+    "district": "galing"
+  },
+  {
+    "id": "tempapan-kuala",
+    "name": "Tempapan Kuala",
+    "district": "galing"
+  },
+  {
+    "id": "galing",
+    "name": "Galing",
+    "district": "galing"
+  },
+  {
+    "id": "tempapan-hulu",
+    "name": "Tempapan Hulu",
+    "district": "galing"
+  },
+  {
+    "id": "tri-kembang",
+    "name": "Tri Kembang",
+    "district": "galing"
+  },
+  {
+    "id": "tri-gaduh",
+    "name": "Tri Gaduh",
+    "district": "galing"
+  },
+  {
+    "id": "sijang",
+    "name": "Sijang",
+    "district": "galing"
+  },
+  {
+    "id": "teluk-pandan",
+    "name": "Teluk Pandan",
+    "district": "galing"
+  }
+]

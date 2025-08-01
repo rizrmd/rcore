@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sendang-tirto",
+    "name": "Sendang Tirto",
+    "district": "berbah"
+  },
+  {
+    "id": "tegal-tirto",
+    "name": "Tegal Tirto",
+    "district": "berbah"
+  },
+  {
+    "id": "jogo-tirto",
+    "name": "Jogo Tirto",
+    "district": "berbah"
+  },
+  {
+    "id": "kali-tirto",
+    "name": "Kali Tirto",
+    "district": "berbah"
+  }
+]

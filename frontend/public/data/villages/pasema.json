@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pasema",
+    "name": "Pasema",
+    "district": "pasema"
+  },
+  {
+    "id": "leinoko",
+    "name": "Leinoko",
+    "district": "pasema"
+  },
+  {
+    "id": "lowet",
+    "name": "Lowet",
+    "district": "pasema"
+  },
+  {
+    "id": "wea",
+    "name": "Wea",
+    "district": "pasema"
+  },
+  {
+    "id": "sengangge",
+    "name": "Sengangge",
+    "district": "pasema"
+  },
+  {
+    "id": "wulin",
+    "name": "Wulin",
+    "district": "pasema"
+  },
+  {
+    "id": "pupi",
+    "name": "Pupi",
+    "district": "pasema"
+  }
+]

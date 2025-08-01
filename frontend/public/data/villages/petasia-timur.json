@@ -1,0 +1,62 @@
+[
+  {
+    "id": "molores",
+    "name": "Molores",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "keuno",
+    "name": "Keuno",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "mohoni",
+    "name": "Mohoni",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "peboa",
+    "name": "Peboa",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "masara",
+    "name": "Masara",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "molino",
+    "name": "Molino",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "polewali",
+    "name": "Polewali",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "towara-pantai",
+    "name": "Towara Pantai",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "towara",
+    "name": "Towara",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "bungintimbe",
+    "name": "Bungintimbe",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "tompira",
+    "name": "Tompira",
+    "district": "petasia-timur"
+  },
+  {
+    "id": "bunta",
+    "name": "Bunta",
+    "district": "petasia-timur"
+  }
+]

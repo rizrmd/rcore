@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sunggingan",
+    "name": "Sunggingan",
+    "district": "miri"
+  },
+  {
+    "id": "girimargo",
+    "name": "Girimargo",
+    "district": "miri"
+  },
+  {
+    "id": "doyong",
+    "name": "Doyong",
+    "district": "miri"
+  },
+  {
+    "id": "soko",
+    "name": "Soko",
+    "district": "miri"
+  },
+  {
+    "id": "brojol",
+    "name": "Brojol",
+    "district": "miri"
+  },
+  {
+    "id": "bagor",
+    "name": "Bagor",
+    "district": "miri"
+  },
+  {
+    "id": "gilirejo",
+    "name": "Gilirejo",
+    "district": "miri"
+  },
+  {
+    "id": "gilirejo-baru",
+    "name": "Gilirejo Baru",
+    "district": "miri"
+  }
+]

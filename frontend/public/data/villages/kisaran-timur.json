@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sentang",
+    "name": "Sentang",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "kedai-ledang",
+    "name": "Kedai Ledang",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "kisaran-naga",
+    "name": "Kisaran Naga",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "teladan",
+    "name": "Teladan",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "kisaran-timur",
+    "name": "Kisaran Timur",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "selawan",
+    "name": "Selawan",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "mutiara",
+    "name": "Mutiara",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "si-umbut-baru",
+    "name": "Si Umbut Baru",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "siumbut-umbut",
+    "name": "Siumbut - Umbut",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "karang-anyer",
+    "name": "Karang Anyer",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "gambir-baru",
+    "name": "Gambir Baru",
+    "district": "kisaran-timur"
+  },
+  {
+    "id": "lestari",
+    "name": "Lestari",
+    "district": "kisaran-timur"
+  }
+]

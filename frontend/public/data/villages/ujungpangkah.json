@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sekapuk",
+    "name": "Sekapuk",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "bolo",
+    "name": "Bolo",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "glatik",
+    "name": "Glatik",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "tanjangawan",
+    "name": "Tanjangawan",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "ketapang-lor",
+    "name": "Ketapang Lor",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "gosari",
+    "name": "Gosari",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "cangaan",
+    "name": "Cangaan",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "ngemboh",
+    "name": "Ngemboh",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "banyuurip",
+    "name": "Banyuurip",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "pangkah-kulon",
+    "name": "Pangkah Kulon",
+    "district": "ujungpangkah"
+  },
+  {
+    "id": "pangkah-wetan",
+    "name": "Pangkah Wetan",
+    "district": "ujungpangkah"
+  }
+]

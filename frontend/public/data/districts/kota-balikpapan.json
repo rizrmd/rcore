@@ -1,0 +1,32 @@
+[
+  {
+    "id": "balikpapan-selatan",
+    "name": "Balikpapan Selatan",
+    "regency": "kota-balikpapan"
+  },
+  {
+    "id": "balikpapan-kota",
+    "name": "Balikpapan Kota",
+    "regency": "kota-balikpapan"
+  },
+  {
+    "id": "balikpapan-timur",
+    "name": "Balikpapan Timur",
+    "regency": "kota-balikpapan"
+  },
+  {
+    "id": "balikpapan-utara",
+    "name": "Balikpapan Utara",
+    "regency": "kota-balikpapan"
+  },
+  {
+    "id": "balikpapan-tengah",
+    "name": "Balikpapan Tengah",
+    "regency": "kota-balikpapan"
+  },
+  {
+    "id": "balikpapan-barat",
+    "name": "Balikpapan Barat",
+    "regency": "kota-balikpapan"
+  }
+]

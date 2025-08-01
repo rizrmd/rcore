@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gegarang",
+    "name": "Gegarang",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "berawang-dewal",
+    "name": "Berawang Dewal",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "jagong",
+    "name": "Jagong",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "merah-said",
+    "name": "Merah Said",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "jeget-ayu",
+    "name": "Jeget Ayu",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "paya-tungel",
+    "name": "Paya Tungel",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "telege-sari",
+    "name": "Telege Sari",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "paya-dedep",
+    "name": "Paya Dedep",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "bukit-kemuning",
+    "name": "Bukit Kemuning",
+    "district": "jagong-jeget"
+  },
+  {
+    "id": "bukit-sari",
+    "name": "Bukit Sari",
+    "district": "jagong-jeget"
+  }
+]

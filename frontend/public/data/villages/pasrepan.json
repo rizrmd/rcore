@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tempuran",
+    "name": "Tempuran",
+    "district": "pasrepan"
+  },
+  {
+    "id": "ampelsari",
+    "name": "Ampelsari",
+    "district": "pasrepan"
+  },
+  {
+    "id": "sapulante",
+    "name": "Sapulante",
+    "district": "pasrepan"
+  },
+  {
+    "id": "pohgedang",
+    "name": "Pohgedang",
+    "district": "pasrepan"
+  },
+  {
+    "id": "mangguan",
+    "name": "Mangguan",
+    "district": "pasrepan"
+  },
+  {
+    "id": "ngantungan",
+    "name": "Ngantungan",
+    "district": "pasrepan"
+  },
+  {
+    "id": "galih",
+    "name": "Galih",
+    "district": "pasrepan"
+  },
+  {
+    "id": "klakah",
+    "name": "Klakah",
+    "district": "pasrepan"
+  },
+  {
+    "id": "sibon",
+    "name": "Sibon",
+    "district": "pasrepan"
+  },
+  {
+    "id": "pasrepan",
+    "name": "Pasrepan",
+    "district": "pasrepan"
+  },
+  {
+    "id": "rejosalam",
+    "name": "Rejosalam",
+    "district": "pasrepan"
+  },
+  {
+    "id": "cengkrong",
+    "name": "Cengkrong",
+    "district": "pasrepan"
+  },
+  {
+    "id": "lemahbang",
+    "name": "Lemahbang",
+    "district": "pasrepan"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "pasrepan"
+  },
+  {
+    "id": "jogorepuh",
+    "name": "Jogorepuh",
+    "district": "pasrepan"
+  },
+  {
+    "id": "pohgading",
+    "name": "Pohgading",
+    "district": "pasrepan"
+  }
+]

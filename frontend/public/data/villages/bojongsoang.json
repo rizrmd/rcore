@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bojongsari",
+    "name": "Bojongsari",
+    "district": "bojongsoang"
+  },
+  {
+    "id": "bojongsoang",
+    "name": "Bojongsoang",
+    "district": "bojongsoang"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "bojongsoang"
+  },
+  {
+    "id": "cipagalo",
+    "name": "Cipagalo",
+    "district": "bojongsoang"
+  },
+  {
+    "id": "buahbatu",
+    "name": "Buahbatu",
+    "district": "bojongsoang"
+  },
+  {
+    "id": "tegalluar",
+    "name": "Tegalluar",
+    "district": "bojongsoang"
+  }
+]

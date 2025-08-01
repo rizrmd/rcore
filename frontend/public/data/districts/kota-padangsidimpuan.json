@@ -1,0 +1,32 @@
+[
+  {
+    "id": "padangsidimpuan-tenggara",
+    "name": "Padangsidimpuan Tenggara",
+    "regency": "kota-padangsidimpuan"
+  },
+  {
+    "id": "padangsidimpuan-selatan",
+    "name": "Padangsidimpuan Selatan",
+    "regency": "kota-padangsidimpuan"
+  },
+  {
+    "id": "padangsidimpuan-batunadua",
+    "name": "Padangsidimpuan Batunadua",
+    "regency": "kota-padangsidimpuan"
+  },
+  {
+    "id": "padangsidimpuan-utara",
+    "name": "Padangsidimpuan Utara",
+    "regency": "kota-padangsidimpuan"
+  },
+  {
+    "id": "padangsidimpuan-hutaimbaru",
+    "name": "Padangsidimpuan Hutaimbaru",
+    "regency": "kota-padangsidimpuan"
+  },
+  {
+    "id": "padangsidimpuan-angkola-julu",
+    "name": "Padangsidimpuan Angkola Julu",
+    "regency": "kota-padangsidimpuan"
+  }
+]

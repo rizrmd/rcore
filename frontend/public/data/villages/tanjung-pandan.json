@@ -1,0 +1,82 @@
+[
+  {
+    "id": "buluh-tumbang",
+    "name": "Buluh Tumbang",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "perawas",
+    "name": "Perawas",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "lesung-batang",
+    "name": "Lesung Batang",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "pangkallalang",
+    "name": "Pangkallalang",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "dukong",
+    "name": "Dukong",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "juru-seberang",
+    "name": "Juru Seberang",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "kota",
+    "name": "Kota",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "parit",
+    "name": "Parit",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "tanjung-pendam",
+    "name": "Tanjung Pendam",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "air-saga",
+    "name": "Air Saga",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "paal-satu",
+    "name": "Paal Satu",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "air-merbau",
+    "name": "Air Merbau",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "aik-ketekok",
+    "name": "Aik Ketekok",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "aik-rayak",
+    "name": "Aik Rayak",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "aik-pelempang-jaya",
+    "name": "Aik Pelempang Jaya",
+    "district": "tanjung-pandan"
+  },
+  {
+    "id": "kampong-damai",
+    "name": "Kampong Damai",
+    "district": "tanjung-pandan"
+  }
+]

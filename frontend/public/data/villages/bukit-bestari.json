@@ -1,0 +1,27 @@
+[
+  {
+    "id": "dompak",
+    "name": "Dompak",
+    "district": "bukit-bestari"
+  },
+  {
+    "id": "tanjungpinang-timur",
+    "name": "Tanjungpinang Timur",
+    "district": "bukit-bestari"
+  },
+  {
+    "id": "tanjung-ayun-sakti",
+    "name": "Tanjung Ayun Sakti",
+    "district": "bukit-bestari"
+  },
+  {
+    "id": "sei-jang",
+    "name": "Sei Jang",
+    "district": "bukit-bestari"
+  },
+  {
+    "id": "tanjung-unggat",
+    "name": "Tanjung Unggat",
+    "district": "bukit-bestari"
+  }
+]

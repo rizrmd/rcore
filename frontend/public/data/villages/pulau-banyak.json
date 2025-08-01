@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pulau-baguk",
+    "name": "Pulau Baguk",
+    "district": "pulau-banyak"
+  },
+  {
+    "id": "pulau-balai",
+    "name": "Pulau Balai",
+    "district": "pulau-banyak"
+  },
+  {
+    "id": "teluk-nibung",
+    "name": "Teluk Nibung",
+    "district": "pulau-banyak"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "putat-gede",
+    "name": "Putat Gede",
+    "district": "suko-manunggal"
+  },
+  {
+    "id": "sono-kwijenan",
+    "name": "Sono Kwijenan",
+    "district": "suko-manunggal"
+  },
+  {
+    "id": "simomulyo",
+    "name": "Simomulyo",
+    "district": "suko-manunggal"
+  },
+  {
+    "id": "suko-manunggal",
+    "name": "Suko Manunggal",
+    "district": "suko-manunggal"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "suko-manunggal"
+  },
+  {
+    "id": "simomulyo-baru",
+    "name": "Simomulyo Baru",
+    "district": "suko-manunggal"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "damarwulan",
+    "name": "Damarwulan",
+    "district": "keling"
+  },
+  {
+    "id": "kunir",
+    "name": "Kunir",
+    "district": "keling"
+  },
+  {
+    "id": "watuaji",
+    "name": "Watuaji",
+    "district": "keling"
+  },
+  {
+    "id": "tunahan",
+    "name": "Tunahan",
+    "district": "keling"
+  },
+  {
+    "id": "kaligarang",
+    "name": "Kaligarang",
+    "district": "keling"
+  },
+  {
+    "id": "keling",
+    "name": "Keling",
+    "district": "keling"
+  },
+  {
+    "id": "gelang",
+    "name": "Gelang",
+    "district": "keling"
+  },
+  {
+    "id": "jlegong",
+    "name": "Jlegong",
+    "district": "keling"
+  },
+  {
+    "id": "bumiharjo",
+    "name": "Bumiharjo",
+    "district": "keling"
+  }
+]

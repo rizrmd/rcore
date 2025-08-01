@@ -1,0 +1,22 @@
+[
+  {
+    "id": "angkipih",
+    "name": "Angkipih",
+    "district": "paramasan"
+  },
+  {
+    "id": "remo",
+    "name": "Remo",
+    "district": "paramasan"
+  },
+  {
+    "id": "paramasan-bawah",
+    "name": "Paramasan Bawah",
+    "district": "paramasan"
+  },
+  {
+    "id": "paramasan-atas",
+    "name": "Paramasan Atas",
+    "district": "paramasan"
+  }
+]

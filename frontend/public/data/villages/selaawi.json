@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cigawir",
+    "name": "Cigawir",
+    "district": "selaawi"
+  },
+  {
+    "id": "putrajawa",
+    "name": "Putrajawa",
+    "district": "selaawi"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "selaawi"
+  },
+  {
+    "id": "selaawi",
+    "name": "Selaawi",
+    "district": "selaawi"
+  },
+  {
+    "id": "cirapuhan",
+    "name": "Cirapuhan",
+    "district": "selaawi"
+  },
+  {
+    "id": "samida",
+    "name": "Samida",
+    "district": "selaawi"
+  },
+  {
+    "id": "pelitaasih",
+    "name": "Pelitaasih",
+    "district": "selaawi"
+  }
+]

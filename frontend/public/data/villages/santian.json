@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nenotes",
+    "name": "Nenotes",
+    "district": "santian"
+  },
+  {
+    "id": "santian",
+    "name": "Santian",
+    "district": "santian"
+  },
+  {
+    "id": "poli",
+    "name": "Poli",
+    "district": "santian"
+  },
+  {
+    "id": "manufui",
+    "name": "Manufui",
+    "district": "santian"
+  },
+  {
+    "id": "naifatu",
+    "name": "Naifatu",
+    "district": "santian"
+  }
+]

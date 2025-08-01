@@ -1,0 +1,22 @@
+[
+  {
+    "id": "napan-yaur",
+    "name": "Napan Yaur",
+    "district": "teluk-umar"
+  },
+  {
+    "id": "bawei",
+    "name": "Bawei",
+    "district": "teluk-umar"
+  },
+  {
+    "id": "yeretuar",
+    "name": "Yeretuar",
+    "district": "teluk-umar"
+  },
+  {
+    "id": "goni",
+    "name": "Goni",
+    "district": "teluk-umar"
+  }
+]

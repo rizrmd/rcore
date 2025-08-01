@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "kasomalang"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "kasomalang"
+  },
+  {
+    "id": "bojongloa",
+    "name": "Bojongloa",
+    "district": "kasomalang"
+  },
+  {
+    "id": "tenjolaya",
+    "name": "Tenjolaya",
+    "district": "kasomalang"
+  },
+  {
+    "id": "sukamelang",
+    "name": "Sukamelang",
+    "district": "kasomalang"
+  },
+  {
+    "id": "kasomalang-wetan",
+    "name": "Kasomalang Wetan",
+    "district": "kasomalang"
+  },
+  {
+    "id": "kasomalang-kulon",
+    "name": "Kasomalang Kulon",
+    "district": "kasomalang"
+  },
+  {
+    "id": "cimanglid",
+    "name": "Cimanglid",
+    "district": "kasomalang"
+  }
+]

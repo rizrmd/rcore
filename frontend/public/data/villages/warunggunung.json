@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pasirtangkil",
+    "name": "Pasirtangkil",
+    "district": "warunggunung"
+  },
+  {
+    "id": "sukarendah",
+    "name": "Sukarendah",
+    "district": "warunggunung"
+  },
+  {
+    "id": "selaraja",
+    "name": "Selaraja",
+    "district": "warunggunung"
+  },
+  {
+    "id": "warunggunung",
+    "name": "Warunggunung",
+    "district": "warunggunung"
+  },
+  {
+    "id": "cibuah",
+    "name": "Cibuah",
+    "district": "warunggunung"
+  },
+  {
+    "id": "baros",
+    "name": "Baros",
+    "district": "warunggunung"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "warunggunung"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "warunggunung"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "warunggunung"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "warunggunung"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "warunggunung"
+  },
+  {
+    "id": "jagabaya",
+    "name": "Jagabaya",
+    "district": "warunggunung"
+  }
+]

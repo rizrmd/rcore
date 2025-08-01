@@ -1,0 +1,32 @@
+[
+  {
+    "id": "baun",
+    "name": "Baun",
+    "district": "yembun"
+  },
+  {
+    "id": "sumbekas",
+    "name": "Sumbekas",
+    "district": "yembun"
+  },
+  {
+    "id": "metnayam",
+    "name": "Metnayam",
+    "district": "yembun"
+  },
+  {
+    "id": "ketawas",
+    "name": "Ketawas",
+    "district": "yembun"
+  },
+  {
+    "id": "wormon",
+    "name": "Wormon",
+    "district": "yembun"
+  },
+  {
+    "id": "salem",
+    "name": "Salem",
+    "district": "yembun"
+  }
+]

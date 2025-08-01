@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tanjung-kalang",
+    "name": "Tanjung Kalang",
+    "district": "ngronggot"
+  },
+  {
+    "id": "kelutan",
+    "name": "Kelutan",
+    "district": "ngronggot"
+  },
+  {
+    "id": "cengkok",
+    "name": "Cengkok",
+    "district": "ngronggot"
+  },
+  {
+    "id": "mojokendil",
+    "name": "Mojokendil",
+    "district": "ngronggot"
+  },
+  {
+    "id": "ngronggot",
+    "name": "Ngronggot",
+    "district": "ngronggot"
+  },
+  {
+    "id": "banjar-sari",
+    "name": "Banjar Sari",
+    "district": "ngronggot"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "ngronggot"
+  },
+  {
+    "id": "klurahan",
+    "name": "Klurahan",
+    "district": "ngronggot"
+  },
+  {
+    "id": "kaloran",
+    "name": "Kaloran",
+    "district": "ngronggot"
+  },
+  {
+    "id": "kali-anyar",
+    "name": "Kali Anyar",
+    "district": "ngronggot"
+  },
+  {
+    "id": "trayang",
+    "name": "Trayang",
+    "district": "ngronggot"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tindaki",
+    "name": "Tindaki",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "nambaru",
+    "name": "Nambaru",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "masari",
+    "name": "Masari",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "dolago",
+    "name": "Dolago",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "lemusa",
+    "name": "Lemusa",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "boyantongo",
+    "name": "Boyantongo",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "olobaru",
+    "name": "Olobaru",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "gangga",
+    "name": "Gangga",
+    "district": "parigi-selatan"
+  },
+  {
+    "id": "dolago-padang",
+    "name": "Dolago Padang",
+    "district": "parigi-selatan"
+  }
+]

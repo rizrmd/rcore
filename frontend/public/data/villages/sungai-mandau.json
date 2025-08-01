@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lubuk-umbut",
+    "name": "Lubuk Umbut",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "sungai-selodang",
+    "name": "Sungai Selodang",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "teluk-lancang",
+    "name": "Teluk Lancang",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "olak",
+    "name": "Olak",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "muara-kelantan",
+    "name": "Muara Kelantan",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "lubuk-jering",
+    "name": "Lubuk Jering",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "muara-bungkal",
+    "name": "Muara Bungkal",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "bencah-umbai",
+    "name": "Bencah Umbai",
+    "district": "sungai-mandau"
+  },
+  {
+    "id": "tasik-betung",
+    "name": "Tasik Betung",
+    "district": "sungai-mandau"
+  }
+]

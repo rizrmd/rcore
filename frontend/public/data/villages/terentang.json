@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sungai-dungun",
+    "name": "Sungai Dungun",
+    "district": "terentang"
+  },
+  {
+    "id": "terentang-hulu",
+    "name": "Terentang Hulu",
+    "district": "terentang"
+  },
+  {
+    "id": "teluk-bayur",
+    "name": "Teluk Bayur",
+    "district": "terentang"
+  },
+  {
+    "id": "teluk-empening",
+    "name": "Teluk Empening",
+    "district": "terentang"
+  },
+  {
+    "id": "terentang-hilir",
+    "name": "Terentang Hilir",
+    "district": "terentang"
+  },
+  {
+    "id": "sungai-radak-i",
+    "name": "Sungai Radak I",
+    "district": "terentang"
+  },
+  {
+    "id": "sungai-radak-ii",
+    "name": "Sungai Radak Ii",
+    "district": "terentang"
+  },
+  {
+    "id": "permata",
+    "name": "Permata",
+    "district": "terentang"
+  },
+  {
+    "id": "betuah",
+    "name": "Betuah",
+    "district": "terentang"
+  },
+  {
+    "id": "radak-baru",
+    "name": "Radak Baru",
+    "district": "terentang"
+  }
+]

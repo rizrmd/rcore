@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kebun-handil",
+    "name": "Kebun Handil",
+    "district": "jelutung"
+  },
+  {
+    "id": "jelutung",
+    "name": "Jelutung",
+    "district": "jelutung"
+  },
+  {
+    "id": "payo-lebar",
+    "name": "Payo Lebar",
+    "district": "jelutung"
+  },
+  {
+    "id": "lebak-bandung",
+    "name": "Lebak Bandung",
+    "district": "jelutung"
+  },
+  {
+    "id": "cempaka-putih",
+    "name": "Cempaka Putih",
+    "district": "jelutung"
+  },
+  {
+    "id": "talang-jauh",
+    "name": "Talang Jauh",
+    "district": "jelutung"
+  },
+  {
+    "id": "handil-jaya",
+    "name": "Handil Jaya",
+    "district": "jelutung"
+  }
+]

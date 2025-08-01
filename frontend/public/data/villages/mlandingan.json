@@ -1,0 +1,37 @@
+[
+  {
+    "id": "selomukti",
+    "name": "Selomukti",
+    "district": "mlandingan"
+  },
+  {
+    "id": "sumber-pinang",
+    "name": "Sumber Pinang",
+    "district": "mlandingan"
+  },
+  {
+    "id": "alas-bayur",
+    "name": "Alas Bayur",
+    "district": "mlandingan"
+  },
+  {
+    "id": "sumberanyar",
+    "name": "Sumberanyar",
+    "district": "mlandingan"
+  },
+  {
+    "id": "campoan",
+    "name": "Campoan",
+    "district": "mlandingan"
+  },
+  {
+    "id": "trebungan",
+    "name": "Trebungan",
+    "district": "mlandingan"
+  },
+  {
+    "id": "mlandingan-kulon",
+    "name": "Mlandingan Kulon",
+    "district": "mlandingan"
+  }
+]

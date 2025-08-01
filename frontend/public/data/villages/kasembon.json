@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pondok-agung",
+    "name": "Pondok Agung",
+    "district": "kasembon"
+  },
+  {
+    "id": "bayem",
+    "name": "Bayem",
+    "district": "kasembon"
+  },
+  {
+    "id": "pait",
+    "name": "Pait",
+    "district": "kasembon"
+  },
+  {
+    "id": "wonoagung",
+    "name": "Wonoagung",
+    "district": "kasembon"
+  },
+  {
+    "id": "kasembon",
+    "name": "Kasembon",
+    "district": "kasembon"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "kasembon"
+  }
+]

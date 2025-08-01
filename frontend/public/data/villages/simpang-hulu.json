@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kualan-hilir",
+    "name": "Kualan Hilir",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "sekucing-labai",
+    "name": "Sekucing Labai",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "balai-pinang",
+    "name": "Balai Pinang",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "semandang-kiri",
+    "name": "Semandang Kiri",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "semandang-hulu",
+    "name": "Semandang Hulu",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "merawa",
+    "name": "Merawa",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "kualan-tengah",
+    "name": "Kualan Tengah",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "kualan-hulu",
+    "name": "Kualan Hulu",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "paoh-concong",
+    "name": "Paoh Concong",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "legong",
+    "name": "Legong",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "kenanga",
+    "name": "Kenanga",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "sekucing-kualan",
+    "name": "Sekucing Kualan",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "balai-pinang-hulu",
+    "name": "Balai Pinang Hulu",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "labai-hilir",
+    "name": "Labai Hilir",
+    "district": "simpang-hulu"
+  },
+  {
+    "id": "botuh-bosi",
+    "name": "Botuh Bosi",
+    "district": "simpang-hulu"
+  }
+]

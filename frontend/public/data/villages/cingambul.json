@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sedaraja",
+    "name": "Sedaraja",
+    "district": "cingambul"
+  },
+  {
+    "id": "cintaasih",
+    "name": "Cintaasih",
+    "district": "cingambul"
+  },
+  {
+    "id": "cidadap",
+    "name": "Cidadap",
+    "district": "cingambul"
+  },
+  {
+    "id": "maniis",
+    "name": "Maniis",
+    "district": "cingambul"
+  },
+  {
+    "id": "rawa",
+    "name": "Rawa",
+    "district": "cingambul"
+  },
+  {
+    "id": "nagarakembang",
+    "name": "Nagarakembang",
+    "district": "cingambul"
+  },
+  {
+    "id": "wangkelang",
+    "name": "Wangkelang",
+    "district": "cingambul"
+  },
+  {
+    "id": "cimanggugirang",
+    "name": "Cimanggugirang",
+    "district": "cingambul"
+  },
+  {
+    "id": "ciranjeng",
+    "name": "Ciranjeng",
+    "district": "cingambul"
+  },
+  {
+    "id": "cingambul",
+    "name": "Cingambul",
+    "district": "cingambul"
+  },
+  {
+    "id": "muktisari",
+    "name": "Muktisari",
+    "district": "cingambul"
+  },
+  {
+    "id": "cikondang",
+    "name": "Cikondang",
+    "district": "cingambul"
+  },
+  {
+    "id": "kondangmekar",
+    "name": "Kondangmekar",
+    "district": "cingambul"
+  }
+]

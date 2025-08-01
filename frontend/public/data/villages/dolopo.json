@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lembah",
+    "name": "Lembah",
+    "district": "dolopo"
+  },
+  {
+    "id": "mlilir",
+    "name": "Mlilir",
+    "district": "dolopo"
+  },
+  {
+    "id": "kradinan",
+    "name": "Kradinan",
+    "district": "dolopo"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "dolopo"
+  },
+  {
+    "id": "bader",
+    "name": "Bader",
+    "district": "dolopo"
+  },
+  {
+    "id": "candimulyo",
+    "name": "Candimulyo",
+    "district": "dolopo"
+  },
+  {
+    "id": "glonggong",
+    "name": "Glonggong",
+    "district": "dolopo"
+  },
+  {
+    "id": "dolopo",
+    "name": "Dolopo",
+    "district": "dolopo"
+  },
+  {
+    "id": "doho",
+    "name": "Doho",
+    "district": "dolopo"
+  },
+  {
+    "id": "ketawang",
+    "name": "Ketawang",
+    "district": "dolopo"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "dolopo"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tamanim",
+    "name": "Tamanim",
+    "district": "citakmitak"
+  },
+  {
+    "id": "senggo",
+    "name": "Senggo",
+    "district": "citakmitak"
+  },
+  {
+    "id": "abau",
+    "name": "Abau",
+    "district": "citakmitak"
+  },
+  {
+    "id": "kumasma",
+    "name": "Kumasma",
+    "district": "citakmitak"
+  },
+  {
+    "id": "womin",
+    "name": "Womin",
+    "district": "citakmitak"
+  },
+  {
+    "id": "bidneu",
+    "name": "Bidneu",
+    "district": "citakmitak"
+  }
+]

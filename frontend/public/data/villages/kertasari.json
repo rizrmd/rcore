@@ -1,0 +1,42 @@
+[
+  {
+    "id": "neglawangi",
+    "name": "Neglawangi",
+    "district": "kertasari"
+  },
+  {
+    "id": "santosa",
+    "name": "Santosa",
+    "district": "kertasari"
+  },
+  {
+    "id": "tarumajaya",
+    "name": "Tarumajaya",
+    "district": "kertasari"
+  },
+  {
+    "id": "cikembang",
+    "name": "Cikembang",
+    "district": "kertasari"
+  },
+  {
+    "id": "cibeureum",
+    "name": "Cibeureum",
+    "district": "kertasari"
+  },
+  {
+    "id": "cihawuk",
+    "name": "Cihawuk",
+    "district": "kertasari"
+  },
+  {
+    "id": "sukapura",
+    "name": "Sukapura",
+    "district": "kertasari"
+  },
+  {
+    "id": "resmi-tinggal",
+    "name": "Resmi Tinggal",
+    "district": "kertasari"
+  }
+]

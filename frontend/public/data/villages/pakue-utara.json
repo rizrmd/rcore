@@ -1,0 +1,47 @@
+[
+  {
+    "id": "teposua",
+    "name": "Teposua",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "pakue",
+    "name": "Pakue",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "mataleuno",
+    "name": "Mataleuno",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "puundoho",
+    "name": "Puundoho",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "lawata",
+    "name": "Lawata",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "amowe",
+    "name": "Amowe",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "kalo",
+    "name": "Kalo",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "salu-dongka",
+    "name": "Salu Dongka",
+    "district": "pakue-utara"
+  },
+  {
+    "id": "lengkong-batu",
+    "name": "Lengkong Batu",
+    "district": "pakue-utara"
+  }
+]

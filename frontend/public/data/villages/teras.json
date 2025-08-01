@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kopen",
+    "name": "Kopen",
+    "district": "teras"
+  },
+  {
+    "id": "doplang",
+    "name": "Doplang",
+    "district": "teras"
+  },
+  {
+    "id": "kadireso",
+    "name": "Kadireso",
+    "district": "teras"
+  },
+  {
+    "id": "sudimoro",
+    "name": "Sudimoro",
+    "district": "teras"
+  },
+  {
+    "id": "bangsalan",
+    "name": "Bangsalan",
+    "district": "teras"
+  },
+  {
+    "id": "salakan",
+    "name": "Salakan",
+    "district": "teras"
+  },
+  {
+    "id": "teras",
+    "name": "Teras",
+    "district": "teras"
+  },
+  {
+    "id": "randusari",
+    "name": "Randusari",
+    "district": "teras"
+  },
+  {
+    "id": "mojolegi",
+    "name": "Mojolegi",
+    "district": "teras"
+  },
+  {
+    "id": "gumukrejo",
+    "name": "Gumukrejo",
+    "district": "teras"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "teras"
+  },
+  {
+    "id": "krasak",
+    "name": "Krasak",
+    "district": "teras"
+  }
+]

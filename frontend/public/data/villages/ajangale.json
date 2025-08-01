@@ -1,0 +1,67 @@
+[
+  {
+    "id": "manciri",
+    "name": "Manciri",
+    "district": "ajangale"
+  },
+  {
+    "id": "lebbae",
+    "name": "Lebbae",
+    "district": "ajangale"
+  },
+  {
+    "id": "amessangeng",
+    "name": "Amessangeng",
+    "district": "ajangale"
+  },
+  {
+    "id": "leppangeng",
+    "name": "Leppangeng",
+    "district": "ajangale"
+  },
+  {
+    "id": "allamungeng-patue",
+    "name": "Allamungeng Patue",
+    "district": "ajangale"
+  },
+  {
+    "id": "timurung",
+    "name": "Timurung",
+    "district": "ajangale"
+  },
+  {
+    "id": "labissa",
+    "name": "Labissa",
+    "district": "ajangale"
+  },
+  {
+    "id": "opo",
+    "name": "Opo",
+    "district": "ajangale"
+  },
+  {
+    "id": "pinceng-pute",
+    "name": "Pinceng Pute",
+    "district": "ajangale"
+  },
+  {
+    "id": "welado",
+    "name": "Welado",
+    "district": "ajangale"
+  },
+  {
+    "id": "pompanua",
+    "name": "Pompanua",
+    "district": "ajangale"
+  },
+  {
+    "id": "pompanua-riattang",
+    "name": "Pompanua Riattang",
+    "district": "ajangale"
+  },
+  {
+    "id": "pacciro",
+    "name": "Pacciro",
+    "district": "ajangale"
+  }
+]

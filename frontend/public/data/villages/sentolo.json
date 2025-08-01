@@ -1,0 +1,42 @@
+[
+  {
+    "id": "demangrejo",
+    "name": "Demangrejo",
+    "district": "sentolo"
+  },
+  {
+    "id": "srikayangan",
+    "name": "Srikayangan",
+    "district": "sentolo"
+  },
+  {
+    "id": "tuksono",
+    "name": "Tuksono",
+    "district": "sentolo"
+  },
+  {
+    "id": "salamrejo",
+    "name": "Salamrejo",
+    "district": "sentolo"
+  },
+  {
+    "id": "sukoreno",
+    "name": "Sukoreno",
+    "district": "sentolo"
+  },
+  {
+    "id": "kaliagung",
+    "name": "Kaliagung",
+    "district": "sentolo"
+  },
+  {
+    "id": "sentolo",
+    "name": "Sentolo",
+    "district": "sentolo"
+  },
+  {
+    "id": "banguncipto",
+    "name": "Banguncipto",
+    "district": "sentolo"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "dampit",
+    "name": "Dampit",
+    "district": "windusari"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "windusari"
+  },
+  {
+    "id": "pasangsari",
+    "name": "Pasangsari",
+    "district": "windusari"
+  },
+  {
+    "id": "kembangkuning",
+    "name": "Kembangkuning",
+    "district": "windusari"
+  },
+  {
+    "id": "balesari",
+    "name": "Balesari",
+    "district": "windusari"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "windusari"
+  },
+  {
+    "id": "bandarsedayu",
+    "name": "Bandarsedayu",
+    "district": "windusari"
+  },
+  {
+    "id": "windusari",
+    "name": "Windusari",
+    "district": "windusari"
+  },
+  {
+    "id": "candisari",
+    "name": "Candisari",
+    "district": "windusari"
+  },
+  {
+    "id": "genito",
+    "name": "Genito",
+    "district": "windusari"
+  },
+  {
+    "id": "wonoroto",
+    "name": "Wonoroto",
+    "district": "windusari"
+  },
+  {
+    "id": "girimulyo",
+    "name": "Girimulyo",
+    "district": "windusari"
+  },
+  {
+    "id": "ngemplak",
+    "name": "Ngemplak",
+    "district": "windusari"
+  },
+  {
+    "id": "kalijoso",
+    "name": "Kalijoso",
+    "district": "windusari"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "windusari"
+  },
+  {
+    "id": "mangunsari",
+    "name": "Mangunsari",
+    "district": "windusari"
+  },
+  {
+    "id": "kentengsari",
+    "name": "Kentengsari",
+    "district": "windusari"
+  },
+  {
+    "id": "umbulsari",
+    "name": "Umbulsari",
+    "district": "windusari"
+  },
+  {
+    "id": "gondangrejo",
+    "name": "Gondangrejo",
+    "district": "windusari"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "manyaran",
+    "name": "Manyaran",
+    "district": "karanggede"
+  },
+  {
+    "id": "klumpit",
+    "name": "Klumpit",
+    "district": "karanggede"
+  },
+  {
+    "id": "pinggir",
+    "name": "Pinggir",
+    "district": "karanggede"
+  },
+  {
+    "id": "bantengan",
+    "name": "Bantengan",
+    "district": "karanggede"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "karanggede"
+  },
+  {
+    "id": "sranten",
+    "name": "Sranten",
+    "district": "karanggede"
+  },
+  {
+    "id": "grogolan",
+    "name": "Grogolan",
+    "district": "karanggede"
+  },
+  {
+    "id": "mojosari",
+    "name": "Mojosari",
+    "district": "karanggede"
+  },
+  {
+    "id": "pengkol",
+    "name": "Pengkol",
+    "district": "karanggede"
+  },
+  {
+    "id": "karangkepoh",
+    "name": "Karangkepoh",
+    "district": "karanggede"
+  },
+  {
+    "id": "sendang",
+    "name": "Sendang",
+    "district": "karanggede"
+  },
+  {
+    "id": "kebonan",
+    "name": "Kebonan",
+    "district": "karanggede"
+  },
+  {
+    "id": "klari",
+    "name": "Klari",
+    "district": "karanggede"
+  },
+  {
+    "id": "bangkok",
+    "name": "Bangkok",
+    "district": "karanggede"
+  },
+  {
+    "id": "dologan",
+    "name": "Dologan",
+    "district": "karanggede"
+  }
+]

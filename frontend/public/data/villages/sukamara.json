@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mendawai",
+    "name": "Mendawai",
+    "district": "sukamara"
+  },
+  {
+    "id": "natai-sedawak",
+    "name": "Natai Sedawak",
+    "district": "sukamara"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "sukamara"
+  },
+  {
+    "id": "karta-mulia",
+    "name": "Karta Mulia",
+    "district": "sukamara"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "sukamara"
+  },
+  {
+    "id": "pangkalan-muntai",
+    "name": "Pangkalan Muntai",
+    "district": "sukamara"
+  },
+  {
+    "id": "petarikan",
+    "name": "Petarikan",
+    "district": "sukamara"
+  }
+]

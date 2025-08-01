@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sekata-baru",
+    "name": "Sekata Baru",
+    "district": "tamban"
+  },
+  {
+    "id": "damsari",
+    "name": "Damsari",
+    "district": "tamban"
+  },
+  {
+    "id": "purwosari-ii",
+    "name": "Purwosari Ii",
+    "district": "tamban"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "tamban"
+  },
+  {
+    "id": "koanda",
+    "name": "Koanda",
+    "district": "tamban"
+  },
+  {
+    "id": "purwosari-baru",
+    "name": "Purwosari Baru",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-sari-baru",
+    "name": "Tamban Sari Baru",
+    "district": "tamban"
+  },
+  {
+    "id": "purwosari-i",
+    "name": "Purwosari I",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-bangun",
+    "name": "Tamban Bangun",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-bangun-baru",
+    "name": "Tamban Bangun Baru",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-muara-baru",
+    "name": "Tamban Muara Baru",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-muara",
+    "name": "Tamban Muara",
+    "district": "tamban"
+  },
+  {
+    "id": "tamban-kecil",
+    "name": "Tamban Kecil",
+    "district": "tamban"
+  },
+  {
+    "id": "tinggiran-ii",
+    "name": "Tinggiran Ii",
+    "district": "tamban"
+  },
+  {
+    "id": "jelapat-i",
+    "name": "Jelapat I",
+    "district": "tamban"
+  },
+  {
+    "id": "jelapat-baru",
+    "name": "Jelapat Baru",
+    "district": "tamban"
+  }
+]

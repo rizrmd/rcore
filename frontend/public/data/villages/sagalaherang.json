@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukamandi",
+    "name": "Sukamandi",
+    "district": "sagalaherang"
+  },
+  {
+    "id": "cicadas",
+    "name": "Cicadas",
+    "district": "sagalaherang"
+  },
+  {
+    "id": "sagalaherang",
+    "name": "Sagalaherang",
+    "district": "sagalaherang"
+  },
+  {
+    "id": "dayeuhkolot",
+    "name": "Dayeuhkolot",
+    "district": "sagalaherang"
+  },
+  {
+    "id": "sagalaherang-kaler",
+    "name": "Sagalaherang Kaler",
+    "district": "sagalaherang"
+  },
+  {
+    "id": "curugagung",
+    "name": "Curugagung",
+    "district": "sagalaherang"
+  }
+]

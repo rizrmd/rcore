@@ -1,0 +1,77 @@
+[
+  {
+    "id": "wudi",
+    "name": "Wudi",
+    "district": "cibal"
+  },
+  {
+    "id": "rado",
+    "name": "Rado",
+    "district": "cibal"
+  },
+  {
+    "id": "barang",
+    "name": "Barang",
+    "district": "cibal"
+  },
+  {
+    "id": "pinggang",
+    "name": "Pinggang",
+    "district": "cibal"
+  },
+  {
+    "id": "golo",
+    "name": "Golo",
+    "district": "cibal"
+  },
+  {
+    "id": "pagal",
+    "name": "Pagal",
+    "district": "cibal"
+  },
+  {
+    "id": "gapong",
+    "name": "Gapong",
+    "district": "cibal"
+  },
+  {
+    "id": "perak",
+    "name": "Perak",
+    "district": "cibal"
+  },
+  {
+    "id": "bea-mese",
+    "name": "Bea Mese",
+    "district": "cibal"
+  },
+  {
+    "id": "lando",
+    "name": "Lando",
+    "district": "cibal"
+  },
+  {
+    "id": "langkas",
+    "name": "Langkas",
+    "district": "cibal"
+  },
+  {
+    "id": "kentol",
+    "name": "Kentol",
+    "district": "cibal"
+  },
+  {
+    "id": "riung",
+    "name": "Riung",
+    "district": "cibal"
+  },
+  {
+    "id": "ladur",
+    "name": "Ladur",
+    "district": "cibal"
+  },
+  {
+    "id": "golo-ncuang",
+    "name": "Golo Ncuang",
+    "district": "cibal"
+  }
+]

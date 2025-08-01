@@ -1,0 +1,32 @@
+[
+  {
+    "id": "amk",
+    "name": "Amk",
+    "district": "yakomi"
+  },
+  {
+    "id": "yame",
+    "name": "Yame",
+    "district": "yakomi"
+  },
+  {
+    "id": "benggo",
+    "name": "Benggo",
+    "district": "yakomi"
+  },
+  {
+    "id": "kokoya",
+    "name": "Kokoya",
+    "district": "yakomi"
+  },
+  {
+    "id": "mulya-borobaha",
+    "name": "Mulya / Borobaha",
+    "district": "yakomi"
+  },
+  {
+    "id": "ogorito",
+    "name": "Ogorito",
+    "district": "yakomi"
+  }
+]

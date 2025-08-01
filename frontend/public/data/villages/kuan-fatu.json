@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kusi",
+    "name": "Kusi",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "kuanfatu",
+    "name": "Kuanfatu",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "basmuti",
+    "name": "Basmuti",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "kakan",
+    "name": "Kakan",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "lasi",
+    "name": "Lasi",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "olais",
+    "name": "Olais",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "kusi-utara",
+    "name": "Kusi Utara",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "kelle-tunan",
+    "name": "Kelle Tunan",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "taupi",
+    "name": "Taupi",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "oebo",
+    "name": "Oebo",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "oehan",
+    "name": "Oehan",
+    "district": "kuan-fatu"
+  },
+  {
+    "id": "noebeba",
+    "name": "Noebeba",
+    "district": "kuan-fatu"
+  }
+]

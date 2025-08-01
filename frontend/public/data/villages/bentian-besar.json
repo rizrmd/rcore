@@ -1,0 +1,37 @@
+[
+  {
+    "id": "randa-empas",
+    "name": "Randa Empas",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "sambung",
+    "name": "Sambung",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "jelmu-sibak",
+    "name": "Jelmu Sibak",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "anan-jaya",
+    "name": "Anan Jaya",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "suakong",
+    "name": "Suakong",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "dilang-puti",
+    "name": "Dilang Puti",
+    "district": "bentian-besar"
+  },
+  {
+    "id": "penarung",
+    "name": "Penarung",
+    "district": "bentian-besar"
+  }
+]

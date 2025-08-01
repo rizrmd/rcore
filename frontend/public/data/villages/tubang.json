@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wamal",
+    "name": "Wamal",
+    "district": "tubang"
+  },
+  {
+    "id": "dokib",
+    "name": "Dokib",
+    "district": "tubang"
+  },
+  {
+    "id": "yowied",
+    "name": "Yowied",
+    "district": "tubang"
+  },
+  {
+    "id": "welbuti",
+    "name": "Welbuti",
+    "district": "tubang"
+  },
+  {
+    "id": "dodalim",
+    "name": "Dodalim",
+    "district": "tubang"
+  },
+  {
+    "id": "woboyo",
+    "name": "Woboyo",
+    "district": "tubang"
+  }
+]

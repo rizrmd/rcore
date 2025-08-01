@@ -1,0 +1,22 @@
+[
+  {
+    "id": "amuan",
+    "name": "Amuan",
+    "district": "kombut"
+  },
+  {
+    "id": "mokbiran",
+    "name": "Mokbiran",
+    "district": "kombut"
+  },
+  {
+    "id": "kawangtet",
+    "name": "Kawangtet",
+    "district": "kombut"
+  },
+  {
+    "id": "kombut",
+    "name": "Kombut",
+    "district": "kombut"
+  }
+]

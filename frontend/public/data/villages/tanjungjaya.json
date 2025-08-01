@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cikeusal",
+    "name": "Cikeusal",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "sukanagara",
+    "name": "Sukanagara",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "sukasenang",
+    "name": "Sukasenang",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "tanjungjaya",
+    "name": "Tanjungjaya",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "cintajaya",
+    "name": "Cintajaya",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "cibalanarik",
+    "name": "Cibalanarik",
+    "district": "tanjungjaya"
+  },
+  {
+    "id": "cilolohan",
+    "name": "Cilolohan",
+    "district": "tanjungjaya"
+  }
+]

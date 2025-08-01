@@ -1,0 +1,112 @@
+[
+  {
+    "id": "nilanapo",
+    "name": "Nilanapo",
+    "district": "omesuri"
+  },
+  {
+    "id": "leubatang",
+    "name": "Leubatang",
+    "district": "omesuri"
+  },
+  {
+    "id": "walangsawah",
+    "name": "Walangsawah",
+    "district": "omesuri"
+  },
+  {
+    "id": "peusawah",
+    "name": "Peusawah",
+    "district": "omesuri"
+  },
+  {
+    "id": "mahal",
+    "name": "Mahal",
+    "district": "omesuri"
+  },
+  {
+    "id": "mahal-ii",
+    "name": "Mahal Ii",
+    "district": "omesuri"
+  },
+  {
+    "id": "normal",
+    "name": "Normal",
+    "district": "omesuri"
+  },
+  {
+    "id": "leudanung",
+    "name": "Leudanung",
+    "district": "omesuri"
+  },
+  {
+    "id": "leuwayang",
+    "name": "Leuwayang",
+    "district": "omesuri"
+  },
+  {
+    "id": "roma",
+    "name": "Roma",
+    "district": "omesuri"
+  },
+  {
+    "id": "hoelea-ii",
+    "name": "Hoelea Ii",
+    "district": "omesuri"
+  },
+  {
+    "id": "hoelea",
+    "name": "Hoelea",
+    "district": "omesuri"
+  },
+  {
+    "id": "dolulolong",
+    "name": "Dolulolong",
+    "district": "omesuri"
+  },
+  {
+    "id": "hingalamamengi",
+    "name": "Hingalamamengi",
+    "district": "omesuri"
+  },
+  {
+    "id": "meluwiting",
+    "name": "Meluwiting",
+    "district": "omesuri"
+  },
+  {
+    "id": "aramengi",
+    "name": "Aramengi",
+    "district": "omesuri"
+  },
+  {
+    "id": "balauring",
+    "name": "Balauring",
+    "district": "omesuri"
+  },
+  {
+    "id": "lebewala",
+    "name": "Lebewala",
+    "district": "omesuri"
+  },
+  {
+    "id": "wailolong",
+    "name": "Wailolong",
+    "district": "omesuri"
+  },
+  {
+    "id": "wowong",
+    "name": "Wowong",
+    "district": "omesuri"
+  },
+  {
+    "id": "normal-i",
+    "name": "Normal I",
+    "district": "omesuri"
+  },
+  {
+    "id": "meluwiting-i",
+    "name": "Meluwiting I",
+    "district": "omesuri"
+  }
+]

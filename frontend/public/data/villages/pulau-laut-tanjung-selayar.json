@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung-kunyit",
+    "name": "Tanjung Kunyit",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "tanjung-tengah",
+    "name": "Tanjung Tengah",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "teluk-tamiang",
+    "name": "Teluk Tamiang",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "gosong-panjang",
+    "name": "Gosong Panjang",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "tanjung-sungkai",
+    "name": "Tanjung Sungkai",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "tanjung-pelayar",
+    "name": "Tanjung Pelayar",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "banda-raya",
+    "name": "Banda Raya",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "tata-mekar",
+    "name": "Tata Mekar",
+    "district": "pulau-laut-tanjung-selayar"
+  },
+  {
+    "id": "bangun-rejo",
+    "name": "Bangun Rejo",
+    "district": "pulau-laut-tanjung-selayar"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sindupaten",
+    "name": "Sindupaten",
+    "district": "kertek"
+  },
+  {
+    "id": "bojasari",
+    "name": "Bojasari",
+    "district": "kertek"
+  },
+  {
+    "id": "sumberdalem",
+    "name": "Sumberdalem",
+    "district": "kertek"
+  },
+  {
+    "id": "purwojati",
+    "name": "Purwojati",
+    "district": "kertek"
+  },
+  {
+    "id": "karangluhur",
+    "name": "Karangluhur",
+    "district": "kertek"
+  },
+  {
+    "id": "ngadikusuman",
+    "name": "Ngadikusuman",
+    "district": "kertek"
+  },
+  {
+    "id": "wringinanom",
+    "name": "Wringinanom",
+    "district": "kertek"
+  },
+  {
+    "id": "sudungdewo",
+    "name": "Sudungdewo",
+    "district": "kertek"
+  },
+  {
+    "id": "bejiarum",
+    "name": "Bejiarum",
+    "district": "kertek"
+  },
+  {
+    "id": "damarkasian",
+    "name": "Damarkasian",
+    "district": "kertek"
+  },
+  {
+    "id": "banjar",
+    "name": "Banjar",
+    "district": "kertek"
+  },
+  {
+    "id": "tlogodalem",
+    "name": "Tlogodalem",
+    "district": "kertek"
+  },
+  {
+    "id": "tlogomulyo",
+    "name": "Tlogomulyo",
+    "district": "kertek"
+  },
+  {
+    "id": "pagerejo",
+    "name": "Pagerejo",
+    "district": "kertek"
+  },
+  {
+    "id": "candimulyo",
+    "name": "Candimulyo",
+    "district": "kertek"
+  },
+  {
+    "id": "purbosono",
+    "name": "Purbosono",
+    "district": "kertek"
+  },
+  {
+    "id": "candiyasan",
+    "name": "Candiyasan",
+    "district": "kertek"
+  },
+  {
+    "id": "kapencar",
+    "name": "Kapencar",
+    "district": "kertek"
+  },
+  {
+    "id": "reco",
+    "name": "Reco",
+    "district": "kertek"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sumpang-binangae",
+    "name": "Sumpang Binangae",
+    "district": "barru"
+  },
+  {
+    "id": "coppo",
+    "name": "Coppo",
+    "district": "barru"
+  },
+  {
+    "id": "anabanua",
+    "name": "Anabanua",
+    "district": "barru"
+  },
+  {
+    "id": "palakka",
+    "name": "Palakka",
+    "district": "barru"
+  },
+  {
+    "id": "galung",
+    "name": "Galung",
+    "district": "barru"
+  },
+  {
+    "id": "tompo",
+    "name": "Tompo",
+    "district": "barru"
+  },
+  {
+    "id": "mangempang",
+    "name": "Mangempang",
+    "district": "barru"
+  },
+  {
+    "id": "siawung",
+    "name": "Siawung",
+    "district": "barru"
+  }
+]

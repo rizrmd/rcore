@@ -1,0 +1,87 @@
+[
+  {
+    "id": "benuis",
+    "name": "Benuis",
+    "district": "selimbau"
+  },
+  {
+    "id": "gerayau",
+    "name": "Gerayau",
+    "district": "selimbau"
+  },
+  {
+    "id": "engkerengas",
+    "name": "Engkerengas",
+    "district": "selimbau"
+  },
+  {
+    "id": "piasak",
+    "name": "Piasak",
+    "district": "selimbau"
+  },
+  {
+    "id": "nibung",
+    "name": "Nibung",
+    "district": "selimbau"
+  },
+  {
+    "id": "dalam",
+    "name": "Dalam",
+    "district": "selimbau"
+  },
+  {
+    "id": "gudang-hulu",
+    "name": "Gudang Hulu",
+    "district": "selimbau"
+  },
+  {
+    "id": "gudang-hilir",
+    "name": "Gudang Hilir",
+    "district": "selimbau"
+  },
+  {
+    "id": "titian-kuala",
+    "name": "Titian Kuala",
+    "district": "selimbau"
+  },
+  {
+    "id": "sekubah",
+    "name": "Sekubah",
+    "district": "selimbau"
+  },
+  {
+    "id": "mekar-permai",
+    "name": "Mekar Permai",
+    "district": "selimbau"
+  },
+  {
+    "id": "sekulat",
+    "name": "Sekulat",
+    "district": "selimbau"
+  },
+  {
+    "id": "nanga-leboyan",
+    "name": "Nanga Leboyan",
+    "district": "selimbau"
+  },
+  {
+    "id": "vega",
+    "name": "Vega",
+    "district": "selimbau"
+  },
+  {
+    "id": "mawan",
+    "name": "Mawan",
+    "district": "selimbau"
+  },
+  {
+    "id": "semalah",
+    "name": "Semalah",
+    "district": "selimbau"
+  },
+  {
+    "id": "tempurau",
+    "name": "Tempurau",
+    "district": "selimbau"
+  }
+]

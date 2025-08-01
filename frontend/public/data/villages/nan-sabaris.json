@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sunua",
+    "name": "Sunua",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "padang-bintungan",
+    "name": "Padang Bintungan",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "pauah-kamba",
+    "name": "Pauah Kamba",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "kapalo-koto",
+    "name": "Kapalo Koto",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "kurai-taji",
+    "name": "Kurai Taji",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "sunur-barat",
+    "name": "Sunur Barat",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "sunur-tengah",
+    "name": "Sunur Tengah",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "padang-kandang-pulau-air-padang-bintungan",
+    "name": "Padang Kandang Pulau Air Padang Bintungan",
+    "district": "nan-sabaris"
+  },
+  {
+    "id": "kurai-taji-timur",
+    "name": "Kurai Taji Timur",
+    "district": "nan-sabaris"
+  }
+]

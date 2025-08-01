@@ -1,0 +1,32 @@
+[
+  {
+    "id": "siempat-rube-i",
+    "name": "Siempat Rube I",
+    "district": "siempat-rube"
+  },
+  {
+    "id": "siempat-rube-ii",
+    "name": "Siempat Rube Ii",
+    "district": "siempat-rube"
+  },
+  {
+    "id": "mungkur",
+    "name": "Mungkur",
+    "district": "siempat-rube"
+  },
+  {
+    "id": "siempat-rube-iv",
+    "name": "Siempat Rube Iv",
+    "district": "siempat-rube"
+  },
+  {
+    "id": "kuta-jungak",
+    "name": "Kuta Jungak",
+    "district": "siempat-rube"
+  },
+  {
+    "id": "traju",
+    "name": "Traju",
+    "district": "siempat-rube"
+  }
+]

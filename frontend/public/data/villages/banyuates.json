@@ -1,0 +1,102 @@
+[
+  {
+    "id": "olor",
+    "name": "Olor",
+    "district": "banyuates"
+  },
+  {
+    "id": "planggaran-barat",
+    "name": "Planggaran Barat",
+    "district": "banyuates"
+  },
+  {
+    "id": "planggaran-timur",
+    "name": "Planggaran Timur",
+    "district": "banyuates"
+  },
+  {
+    "id": "tolang",
+    "name": "Tolang",
+    "district": "banyuates"
+  },
+  {
+    "id": "lar-lar",
+    "name": "Lar Lar",
+    "district": "banyuates"
+  },
+  {
+    "id": "tlagah",
+    "name": "Tlagah",
+    "district": "banyuates"
+  },
+  {
+    "id": "nagasareh",
+    "name": "Nagasareh",
+    "district": "banyuates"
+  },
+  {
+    "id": "tapaan",
+    "name": "Tapaan",
+    "district": "banyuates"
+  },
+  {
+    "id": "terosan",
+    "name": "Terosan",
+    "district": "banyuates"
+  },
+  {
+    "id": "asem-jaran",
+    "name": "Asem Jaran",
+    "district": "banyuates"
+  },
+  {
+    "id": "kembang-jeruk",
+    "name": "Kembang Jeruk",
+    "district": "banyuates"
+  },
+  {
+    "id": "morbatoh",
+    "name": "Morbatoh",
+    "district": "banyuates"
+  },
+  {
+    "id": "montor",
+    "name": "Montor",
+    "district": "banyuates"
+  },
+  {
+    "id": "tebanah",
+    "name": "Tebanah",
+    "district": "banyuates"
+  },
+  {
+    "id": "nepa",
+    "name": "Nepa",
+    "district": "banyuates"
+  },
+  {
+    "id": "batioh",
+    "name": "Batioh",
+    "district": "banyuates"
+  },
+  {
+    "id": "masaran",
+    "name": "Masaran",
+    "district": "banyuates"
+  },
+  {
+    "id": "banyuates",
+    "name": "Banyuates",
+    "district": "banyuates"
+  },
+  {
+    "id": "jatra-timur",
+    "name": "Jatra Timur",
+    "district": "banyuates"
+  },
+  {
+    "id": "trapang",
+    "name": "Trapang",
+    "district": "banyuates"
+  }
+]

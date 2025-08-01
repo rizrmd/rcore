@@ -1,0 +1,87 @@
+[
+  {
+    "id": "langlang",
+    "name": "Langlang",
+    "district": "singosari"
+  },
+  {
+    "id": "tunjungtirto",
+    "name": "Tunjungtirto",
+    "district": "singosari"
+  },
+  {
+    "id": "banjararum",
+    "name": "Banjararum",
+    "district": "singosari"
+  },
+  {
+    "id": "watugede",
+    "name": "Watugede",
+    "district": "singosari"
+  },
+  {
+    "id": "dengkol",
+    "name": "Dengkol",
+    "district": "singosari"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "singosari"
+  },
+  {
+    "id": "baturetno",
+    "name": "Baturetno",
+    "district": "singosari"
+  },
+  {
+    "id": "tamanharjo",
+    "name": "Tamanharjo",
+    "district": "singosari"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "singosari"
+  },
+  {
+    "id": "pagentan",
+    "name": "Pagentan",
+    "district": "singosari"
+  },
+  {
+    "id": "purwoasri",
+    "name": "Purwoasri",
+    "district": "singosari"
+  },
+  {
+    "id": "klampok",
+    "name": "Klampok",
+    "district": "singosari"
+  },
+  {
+    "id": "gunungrejo",
+    "name": "Gunungrejo",
+    "district": "singosari"
+  },
+  {
+    "id": "candirenggo",
+    "name": "Candirenggo",
+    "district": "singosari"
+  },
+  {
+    "id": "ardimulyo",
+    "name": "Ardimulyo",
+    "district": "singosari"
+  },
+  {
+    "id": "randuagung",
+    "name": "Randuagung",
+    "district": "singosari"
+  },
+  {
+    "id": "toyomarto",
+    "name": "Toyomarto",
+    "district": "singosari"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "kuala-simpang",
+    "name": "Kuala Simpang",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "simundol",
+    "name": "Simundol",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sitonun",
+    "name": "Sitonun",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "simaninggir-sim",
+    "name": "Simaninggir Sim",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "aek-jabut",
+    "name": "Aek Jabut",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "nabundong",
+    "name": "Nabundong",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pasar-simundol",
+    "name": "Pasar Simundol",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pasang-lela",
+    "name": "Pasang Lela",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "gunung-sormin",
+    "name": "Gunung Sormin",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "nahula-jae",
+    "name": "Nahula Jae",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "gonting-bange",
+    "name": "Gonting Bange",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "simangambat",
+    "name": "Simangambat",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "tanjung-baru-silaiya",
+    "name": "Tanjung Baru Silaiya",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "padang-malakka",
+    "name": "Padang Malakka",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "saba-bangunan",
+    "name": "Saba Bangunan",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "malino",
+    "name": "Malino",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "salusuhan",
+    "name": "Salusuhan",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sihalo-halosihatubang",
+    "name": "Sihalo-Halo/Sihatubang",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "janji-manahan-gnt",
+    "name": "Janji Manahan Gnt",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sipogas-b",
+    "name": "Sipogas B",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sunut",
+    "name": "Sunut",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pamarai-paramai",
+    "name": "Pamarai (Paramai)",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "psr-sayur-matinggi",
+    "name": "Psr Sayur Matinggi",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sayur-matinggi",
+    "name": "Sayur Matinggi",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "panyabungan",
+    "name": "Panyabungan",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "aek-simanat",
+    "name": "Aek Simanat",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pulo-liman-limo",
+    "name": "Pulo Liman (Limo)",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pd-matinggi-gnt",
+    "name": "Pd Matinggi Gnt",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "hasahatan",
+    "name": "Hasahatan",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pinarik",
+    "name": "Pinarik",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "unte-manis",
+    "name": "Unte Manis",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pamonoran",
+    "name": "Pamonoran",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "huta-imbaru-sim",
+    "name": "Huta Imbaru Sim",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "aek-kundur",
+    "name": "Aek Kundur",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "hatiran",
+    "name": "Hatiran",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "pd-matinggi-sim",
+    "name": "Pd Matinggi Sim",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "aek-kanan",
+    "name": "Aek Kanan",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "nahula-julu",
+    "name": "Nahula Julu",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "gadung-holbung",
+    "name": "Gadung Holbung",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sigordang",
+    "name": "Sigordang",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "batu-hibul",
+    "name": "Batu Hibul",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "simadihon",
+    "name": "Simadihon",
+    "district": "dolok-sigompulon"
+  },
+  {
+    "id": "sipogas-a",
+    "name": "Sipogas A",
+    "district": "dolok-sigompulon"
+  }
+]

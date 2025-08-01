@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tibojong",
+    "name": "Tibojong",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "bajoe",
+    "name": "Bajoe",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "lonrae",
+    "name": "Lonrae",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "toro",
+    "name": "Toro",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "panyula",
+    "name": "Panyula",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "waetuwo",
+    "name": "Waetuwo",
+    "district": "tanete-riattang-timur"
+  },
+  {
+    "id": "pallette",
+    "name": "Pallette",
+    "district": "tanete-riattang-timur"
+  }
+]

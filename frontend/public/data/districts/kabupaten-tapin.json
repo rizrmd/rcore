@@ -1,0 +1,62 @@
+[
+  {
+    "id": "binuang",
+    "name": "Binuang",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "hatungun",
+    "name": "Hatungun",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "tapin-selatan",
+    "name": "Tapin Selatan",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "salam-babaris",
+    "name": "Salam Babaris",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "tapin-tengah",
+    "name": "Tapin Tengah",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "bungur",
+    "name": "Bungur",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "piani",
+    "name": "Piani",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "lokpaikat",
+    "name": "Lokpaikat",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "tapin-utara",
+    "name": "Tapin Utara",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "bakarangan",
+    "name": "Bakarangan",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "candi-laras-selatan",
+    "name": "Candi Laras Selatan",
+    "regency": "kabupaten-tapin"
+  },
+  {
+    "id": "candi-laras-utara",
+    "name": "Candi Laras Utara",
+    "regency": "kabupaten-tapin"
+  }
+]

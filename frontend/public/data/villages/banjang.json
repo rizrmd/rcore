@@ -1,0 +1,97 @@
+[
+  {
+    "id": "pawalutan",
+    "name": "Pawalutan",
+    "district": "banjang"
+  },
+  {
+    "id": "banjang",
+    "name": "Banjang",
+    "district": "banjang"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "banjang"
+  },
+  {
+    "id": "kalintamui",
+    "name": "Kalintamui",
+    "district": "banjang"
+  },
+  {
+    "id": "palanjungan-sari",
+    "name": "Palanjungan Sari",
+    "district": "banjang"
+  },
+  {
+    "id": "kaludan-besar",
+    "name": "Kaludan Besar",
+    "district": "banjang"
+  },
+  {
+    "id": "kaludan-kecil",
+    "name": "Kaludan Kecil",
+    "district": "banjang"
+  },
+  {
+    "id": "rantau-bujur",
+    "name": "Rantau Bujur",
+    "district": "banjang"
+  },
+  {
+    "id": "karias-dalam",
+    "name": "Karias Dalam",
+    "district": "banjang"
+  },
+  {
+    "id": "sungai-bahadangan",
+    "name": "Sungai Bahadangan",
+    "district": "banjang"
+  },
+  {
+    "id": "lok-bangkai",
+    "name": "Lok Bangkai",
+    "district": "banjang"
+  },
+  {
+    "id": "patarikan",
+    "name": "Patarikan",
+    "district": "banjang"
+  },
+  {
+    "id": "pandulangan",
+    "name": "Pandulangan",
+    "district": "banjang"
+  },
+  {
+    "id": "garunggang",
+    "name": "Garunggang",
+    "district": "banjang"
+  },
+  {
+    "id": "danau-terate",
+    "name": "Danau Terate",
+    "district": "banjang"
+  },
+  {
+    "id": "baruh-tabing",
+    "name": "Baruh Tabing",
+    "district": "banjang"
+  },
+  {
+    "id": "teluk-sarikat",
+    "name": "Teluk Sarikat",
+    "district": "banjang"
+  },
+  {
+    "id": "murung-padang",
+    "name": "Murung Padang",
+    "district": "banjang"
+  },
+  {
+    "id": "pulau-damar",
+    "name": "Pulau Damar",
+    "district": "banjang"
+  }
+]

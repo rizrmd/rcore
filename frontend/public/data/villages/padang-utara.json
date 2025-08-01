@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gunung-pangilun",
+    "name": "Gunung Pangilun",
+    "district": "padang-utara"
+  },
+  {
+    "id": "ulak-karang-selatan",
+    "name": "Ulak Karang Selatan",
+    "district": "padang-utara"
+  },
+  {
+    "id": "ulak-karang-utara",
+    "name": "Ulak Karang Utara",
+    "district": "padang-utara"
+  },
+  {
+    "id": "air-tawar-timur",
+    "name": "Air Tawar Timur",
+    "district": "padang-utara"
+  },
+  {
+    "id": "air-tawar-barat",
+    "name": "Air Tawar Barat",
+    "district": "padang-utara"
+  },
+  {
+    "id": "alai-parak-kopi",
+    "name": "Alai Parak Kopi",
+    "district": "padang-utara"
+  },
+  {
+    "id": "lolong-belanti",
+    "name": "Lolong Belanti",
+    "district": "padang-utara"
+  }
+]

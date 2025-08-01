@@ -1,0 +1,57 @@
+[
+  {
+    "id": "perean",
+    "name": "Perean",
+    "district": "baturiti"
+  },
+  {
+    "id": "perean-tengah",
+    "name": "Perean Tengah",
+    "district": "baturiti"
+  },
+  {
+    "id": "perean-kangin",
+    "name": "Perean Kangin",
+    "district": "baturiti"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "baturiti"
+  },
+  {
+    "id": "apuan",
+    "name": "Apuan",
+    "district": "baturiti"
+  },
+  {
+    "id": "angseri",
+    "name": "Angseri",
+    "district": "baturiti"
+  },
+  {
+    "id": "bangli",
+    "name": "Bangli",
+    "district": "baturiti"
+  },
+  {
+    "id": "baturiti",
+    "name": "Baturiti",
+    "district": "baturiti"
+  },
+  {
+    "id": "batunya",
+    "name": "Batunya",
+    "district": "baturiti"
+  },
+  {
+    "id": "antapan",
+    "name": "Antapan",
+    "district": "baturiti"
+  },
+  {
+    "id": "candikuning",
+    "name": "Candikuning",
+    "district": "baturiti"
+  }
+]

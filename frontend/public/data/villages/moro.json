@@ -1,0 +1,62 @@
+[
+  {
+    "id": "moro",
+    "name": "Moro",
+    "district": "moro"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "moro"
+  },
+  {
+    "id": "sugie",
+    "name": "Sugie",
+    "district": "moro"
+  },
+  {
+    "id": "keban",
+    "name": "Keban",
+    "district": "moro"
+  },
+  {
+    "id": "selat-mie",
+    "name": "Selat Mie",
+    "district": "moro"
+  },
+  {
+    "id": "tanjung-pelanduk",
+    "name": "Tanjung Pelanduk",
+    "district": "moro"
+  },
+  {
+    "id": "jang",
+    "name": "Jang",
+    "district": "moro"
+  },
+  {
+    "id": "moro-timur",
+    "name": "Moro Timur",
+    "district": "moro"
+  },
+  {
+    "id": "pulau-moro",
+    "name": "Pulau Moro",
+    "district": "moro"
+  },
+  {
+    "id": "niur-permai",
+    "name": "Niur Permai",
+    "district": "moro"
+  },
+  {
+    "id": "rawa-jaya",
+    "name": "Rawa Jaya",
+    "district": "moro"
+  },
+  {
+    "id": "buluh-patah",
+    "name": "Buluh Patah",
+    "district": "moro"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "haurkolot",
+    "name": "Haurkolot",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "haurgeulis",
+    "name": "Haurgeulis",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "sukajati",
+    "name": "Sukajati",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "wanakaya",
+    "name": "Wanakaya",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "karangtumaritis",
+    "name": "Karangtumaritis",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "kertanegara",
+    "name": "Kertanegara",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "cipancuh",
+    "name": "Cipancuh",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "mekarjati",
+    "name": "Mekarjati",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "sidadadi",
+    "name": "Sidadadi",
+    "district": "haurgeulis"
+  },
+  {
+    "id": "sumbermulya",
+    "name": "Sumbermulya",
+    "district": "haurgeulis"
+  }
+]

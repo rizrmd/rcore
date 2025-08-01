@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mario",
+    "name": "Mario",
+    "district": "kulo"
+  },
+  {
+    "id": "rijang-panua",
+    "name": "Rijang Panua",
+    "district": "kulo"
+  },
+  {
+    "id": "kulo",
+    "name": "Kulo",
+    "district": "kulo"
+  },
+  {
+    "id": "abbokongang",
+    "name": "Abbokongang",
+    "district": "kulo"
+  },
+  {
+    "id": "maddenra",
+    "name": "Maddenra",
+    "district": "kulo"
+  },
+  {
+    "id": "bina-baru",
+    "name": "Bina Baru",
+    "district": "kulo"
+  }
+]

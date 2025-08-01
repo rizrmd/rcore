@@ -1,0 +1,52 @@
+[
+  {
+    "id": "moyongkota-baru",
+    "name": "Moyongkota Baru",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "moyongkota",
+    "name": "Moyongkota",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "bangunan-wuwuk",
+    "name": "Bangunan Wuwuk",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "bongkudai-barat",
+    "name": "Bongkudai Barat",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "bongkudai",
+    "name": "Bongkudai",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "pinonobatuan",
+    "name": "Pinonobatuan",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "moonow",
+    "name": "Moonow",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "inaton",
+    "name": "Inaton",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "bangunan-wuwuk-timur",
+    "name": "Bangunan Wuwuk Timur",
+    "district": "modayag-barat"
+  },
+  {
+    "id": "tangaton",
+    "name": "Tangaton",
+    "district": "modayag-barat"
+  }
+]

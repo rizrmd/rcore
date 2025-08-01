@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tumbuk-tebing",
+    "name": "Tumbuk Tebing",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "padang-burnai",
+    "name": "Padang Burnai",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "gunung-kayo",
+    "name": "Gunung Kayo",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "gindosuli",
+    "name": "Gindosuli",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "talang-indah",
+    "name": "Talang Indah",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "tanjung-tebat",
+    "name": "Tanjung Tebat",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "padang-jawi",
+    "name": "Padang Jawi",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "tanjung-aur",
+    "name": "Tanjung Aur",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "padang-nibung",
+    "name": "Padang Nibung",
+    "district": "bunga-mas"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "bunga-mas"
+  }
+]

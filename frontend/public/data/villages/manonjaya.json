@@ -1,0 +1,62 @@
+[
+  {
+    "id": "batusumur",
+    "name": "Batusumur",
+    "district": "manonjaya"
+  },
+  {
+    "id": "cihaur",
+    "name": "Cihaur",
+    "district": "manonjaya"
+  },
+  {
+    "id": "pasirpanjang",
+    "name": "Pasirpanjang",
+    "district": "manonjaya"
+  },
+  {
+    "id": "kalimanggis",
+    "name": "Kalimanggis",
+    "district": "manonjaya"
+  },
+  {
+    "id": "cibeber",
+    "name": "Cibeber",
+    "district": "manonjaya"
+  },
+  {
+    "id": "gunajaya",
+    "name": "Gunajaya",
+    "district": "manonjaya"
+  },
+  {
+    "id": "margahayu",
+    "name": "Margahayu",
+    "district": "manonjaya"
+  },
+  {
+    "id": "kamulyan",
+    "name": "Kamulyan",
+    "district": "manonjaya"
+  },
+  {
+    "id": "manonjaya",
+    "name": "Manonjaya",
+    "district": "manonjaya"
+  },
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "manonjaya"
+  },
+  {
+    "id": "cilangkap",
+    "name": "Cilangkap",
+    "district": "manonjaya"
+  },
+  {
+    "id": "pasirbatang",
+    "name": "Pasirbatang",
+    "district": "manonjaya"
+  }
+]

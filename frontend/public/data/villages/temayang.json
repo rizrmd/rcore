@@ -1,0 +1,47 @@
+[
+  {
+    "id": "soko",
+    "name": "Soko",
+    "district": "temayang"
+  },
+  {
+    "id": "papringan",
+    "name": "Papringan",
+    "district": "temayang"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "temayang"
+  },
+  {
+    "id": "bakulan",
+    "name": "Bakulan",
+    "district": "temayang"
+  },
+  {
+    "id": "temayang",
+    "name": "Temayang",
+    "district": "temayang"
+  },
+  {
+    "id": "pandantoyo",
+    "name": "Pandantoyo",
+    "district": "temayang"
+  },
+  {
+    "id": "jono",
+    "name": "Jono",
+    "district": "temayang"
+  },
+  {
+    "id": "pancur",
+    "name": "Pancur",
+    "district": "temayang"
+  },
+  {
+    "id": "buntalan",
+    "name": "Buntalan",
+    "district": "temayang"
+  }
+]

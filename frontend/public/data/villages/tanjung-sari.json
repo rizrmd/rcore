@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sidomukti",
+    "name": "Sidomukti",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "wawasan",
+    "name": "Wawasan",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "mulyo-sari",
+    "name": "Mulyo Sari",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "kertosari",
+    "name": "Kertosari",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "wonodadi",
+    "name": "Wonodadi",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "purwodadi-dalam",
+    "name": "Purwodadi Dalam",
+    "district": "tanjung-sari"
+  },
+  {
+    "id": "malang-sari",
+    "name": "Malang Sari",
+    "district": "tanjung-sari"
+  }
+]

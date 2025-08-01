@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kelurahan-manggau",
+    "name": "Kelurahan Manggau",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-bombongan",
+    "name": "Kelurahan Bombongan",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-batu-papan",
+    "name": "Kelurahan Batu Papan",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-tarongko",
+    "name": "Kelurahan Tarongko",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-pantan",
+    "name": "Kelurahan Pantan",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-ariang",
+    "name": "Kelurahan Ariang",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-lamunan",
+    "name": "Kelurahan Lamunan",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-tondon-mamulu",
+    "name": "Kelurahan Tondon Mamulu",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-rante",
+    "name": "Kelurahan Rante",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-buntu-burake",
+    "name": "Kelurahan Buntu Burake",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-kamali-pentalluan",
+    "name": "Kelurahan Kamali Pentalluan",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-botang",
+    "name": "Kelurahan Botang",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-tampo-makale",
+    "name": "Kelurahan Tampo Makale",
+    "district": "makale"
+  },
+  {
+    "id": "lembang-lea",
+    "name": "Lembang Lea",
+    "district": "makale"
+  },
+  {
+    "id": "kelurahan-lapandan",
+    "name": "Kelurahan Lapandan",
+    "district": "makale"
+  }
+]

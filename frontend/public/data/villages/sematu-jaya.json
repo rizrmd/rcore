@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mekar-mulya",
+    "name": "Mekar Mulya",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "jangkar-prima",
+    "name": "Jangkar Prima",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "tri-tunggal",
+    "name": "Tri Tunggal",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "bina-bhakti",
+    "name": "Bina Bhakti",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "hambawang",
+    "name": "Hambawang",
+    "district": "sematu-jaya"
+  },
+  {
+    "id": "rimba-jaya",
+    "name": "Rimba Jaya",
+    "district": "sematu-jaya"
+  }
+]

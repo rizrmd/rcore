@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pagar-din",
+    "name": "Pagar Din",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "tanjung-dalam",
+    "name": "Tanjung Dalam",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "air-lelangi",
+    "name": "Air Lelangi",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "pondok-bakil",
+    "name": "Pondok Bakil",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "talang-berantai",
+    "name": "Talang Berantai",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "bukit-berlian",
+    "name": "Bukit Berlian",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "sp-7-bangun-karya",
+    "name": "Sp 7 Bangun Karya",
+    "district": "ulok-kupai"
+  },
+  {
+    "id": "bukit-sari",
+    "name": "Bukit  Sari",
+    "district": "ulok-kupai"
+  }
+]

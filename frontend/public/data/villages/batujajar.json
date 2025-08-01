@@ -1,0 +1,37 @@
+[
+  {
+    "id": "selacau",
+    "name": "Selacau",
+    "district": "batujajar"
+  },
+  {
+    "id": "batujajar-barat",
+    "name": "Batujajar Barat",
+    "district": "batujajar"
+  },
+  {
+    "id": "batujajar-timur",
+    "name": "Batujajar Timur",
+    "district": "batujajar"
+  },
+  {
+    "id": "giriasih",
+    "name": "Giriasih",
+    "district": "batujajar"
+  },
+  {
+    "id": "galanggang",
+    "name": "Galanggang",
+    "district": "batujajar"
+  },
+  {
+    "id": "pangauban",
+    "name": "Pangauban",
+    "district": "batujajar"
+  },
+  {
+    "id": "cangkorah",
+    "name": "Cangkorah",
+    "district": "batujajar"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "kota-batu",
+    "name": "Kota Batu",
+    "district": "ciomas"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "ciomas"
+  },
+  {
+    "id": "parakan",
+    "name": "Parakan",
+    "district": "ciomas"
+  },
+  {
+    "id": "ciomas",
+    "name": "Ciomas",
+    "district": "ciomas"
+  },
+  {
+    "id": "pagelaran",
+    "name": "Pagelaran",
+    "district": "ciomas"
+  },
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "ciomas"
+  },
+  {
+    "id": "ciapus",
+    "name": "Ciapus",
+    "district": "ciomas"
+  },
+  {
+    "id": "sukaharja",
+    "name": "Sukaharja",
+    "district": "ciomas"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "ciomas"
+  },
+  {
+    "id": "ciomas-rahayu",
+    "name": "Ciomas Rahayu",
+    "district": "ciomas"
+  },
+  {
+    "id": "laladon",
+    "name": "Laladon",
+    "district": "ciomas"
+  },
+  {
+    "id": "cisitu",
+    "name": "Cisitu",
+    "district": "ciomas"
+  },
+  {
+    "id": "siketug",
+    "name": "Siketug",
+    "district": "ciomas"
+  },
+  {
+    "id": "lebak",
+    "name": "Lebak",
+    "district": "ciomas"
+  },
+  {
+    "id": "citaman",
+    "name": "Citaman",
+    "district": "ciomas"
+  },
+  {
+    "id": "pondok-kahuru",
+    "name": "Pondok Kahuru",
+    "district": "ciomas"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "ciomas"
+  },
+  {
+    "id": "sukabares",
+    "name": "Sukabares",
+    "district": "ciomas"
+  },
+  {
+    "id": "sukarena",
+    "name": "Sukarena",
+    "district": "ciomas"
+  },
+  {
+    "id": "cemplang",
+    "name": "Cemplang",
+    "district": "ciomas"
+  },
+  {
+    "id": "panyaungan-jaya",
+    "name": "Panyaungan Jaya",
+    "district": "ciomas"
+  }
+]

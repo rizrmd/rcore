@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanjung-sanggalang",
+    "name": "Tanjung Sanggalang",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "penda-barania",
+    "name": "Penda Barania",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "bukit-rawi",
+    "name": "Bukit Rawi",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "sigi",
+    "name": "Sigi",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "petuk-liti",
+    "name": "Petuk Liti",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "bukit-liti",
+    "name": "Bukit Liti",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "bahu-palawa",
+    "name": "Bahu Palawa",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "pamarunan",
+    "name": "Pamarunan",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "balukon",
+    "name": "Balukon",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "bukit-bamba",
+    "name": "Bukit Bamba",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "tahawa",
+    "name": "Tahawa",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "parahangan",
+    "name": "Parahangan",
+    "district": "kahayan-tengah"
+  },
+  {
+    "id": "bereng-rambang",
+    "name": "Bereng Rambang",
+    "district": "kahayan-tengah"
+  }
+]

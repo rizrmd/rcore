@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wasah-hulu",
+    "name": "Wasah Hulu",
+    "district": "simpur"
+  },
+  {
+    "id": "wasah-tengah",
+    "name": "Wasah Tengah",
+    "district": "simpur"
+  },
+  {
+    "id": "wasah-hilir",
+    "name": "Wasah Hilir",
+    "district": "simpur"
+  },
+  {
+    "id": "simpur",
+    "name": "Simpur",
+    "district": "simpur"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "simpur"
+  },
+  {
+    "id": "garunggang",
+    "name": "Garunggang",
+    "district": "simpur"
+  },
+  {
+    "id": "amparaya",
+    "name": "Amparaya",
+    "district": "simpur"
+  },
+  {
+    "id": "panjampang-bahagia",
+    "name": "Panjampang Bahagia",
+    "district": "simpur"
+  },
+  {
+    "id": "ulin",
+    "name": "Ulin",
+    "district": "simpur"
+  },
+  {
+    "id": "pantai-ulin",
+    "name": "Pantai Ulin",
+    "district": "simpur"
+  },
+  {
+    "id": "kapuh",
+    "name": "Kapuh",
+    "district": "simpur"
+  }
+]

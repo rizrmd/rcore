@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tong-peria",
+    "name": "Tong Peria",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "tong-weng",
+    "name": "Tong Weng",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "barieh",
+    "name": "Barieh",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "blangong-basah",
+    "name": "Blangong Basah",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "kulam-ara",
+    "name": "Kulam Ara",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "didoh",
+    "name": "Didoh",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "rinti",
+    "name": "Rinti",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "balee-ujong-rimba",
+    "name": "Balee Ujong Rimba",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "meugit",
+    "name": "Meugit",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "empeh",
+    "name": "Empeh",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mesjid-gumpueng",
+    "name": "Mesjid Gumpueng",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "pulo-drien",
+    "name": "Pulo Drien",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "simbe",
+    "name": "Simbe",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "ulee-gampong",
+    "name": "Ulee Gampong",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mon-ara",
+    "name": "Mon Ara",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "baroh",
+    "name": "Baroh",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "baro-ujong-rimba",
+    "name": "Baro Ujong Rimba",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "blang-riek",
+    "name": "Blang Riek",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "paloh-raya",
+    "name": "Paloh Raya",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "nibong",
+    "name": "Nibong",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "paloh-lhok-usi",
+    "name": "Paloh Lhok Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "campli-usi",
+    "name": "Campli Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "dayah-usi",
+    "name": "Dayah Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "paloh-tinggi",
+    "name": "Paloh Tinggi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "rambong",
+    "name": "Rambong",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mee-tanjong-usi",
+    "name": "Mee Tanjong Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mesjid-usi",
+    "name": "Mesjid Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "gampong-cot-usi",
+    "name": "Gampong Cot Usi",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "reubat",
+    "name": "Reubat",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "tiba-raya",
+    "name": "Tiba Raya",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mesjid-tiba",
+    "name": "Mesjid Tiba",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "jojo",
+    "name": "Jojo",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "gampong-lada",
+    "name": "Gampong Lada",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "dayah-kumba",
+    "name": "Dayah Kumba",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "cot-kuthang",
+    "name": "Cot Kuthang",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mesjid-jeurat-manyang",
+    "name": "Mesjid Jeurat Manyang",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "sagoe-teumpeun",
+    "name": "Sagoe Teumpeun",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "dayah-tanoh",
+    "name": "Dayah Tanoh",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "beureu-eh-ii",
+    "name": "Beureu Eh Ii",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "jiem",
+    "name": "Jiem",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "ulee-tutue",
+    "name": "Ulee Tutue",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mecat-adan",
+    "name": "Mecat Adan",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "karieng",
+    "name": "Karieng",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "rambot-adan",
+    "name": "Rambot Adan",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "alue-adan",
+    "name": "Alue Adan",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "dayah-adan",
+    "name": "Dayah Adan",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "mee-adan",
+    "name": "Mee Adan",
+    "district": "mutiara-timur"
+  },
+  {
+    "id": "jumphoih-adan",
+    "name": "Jumphoih Adan",
+    "district": "mutiara-timur"
+  }
+]

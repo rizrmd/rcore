@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lakekun-barat",
+    "name": "Lakekun Barat",
+    "district": "kobalima"
+  },
+  {
+    "id": "lakekun",
+    "name": "Lakekun",
+    "district": "kobalima"
+  },
+  {
+    "id": "lakekun-utara",
+    "name": "Lakekun Utara",
+    "district": "kobalima"
+  },
+  {
+    "id": "litamali",
+    "name": "Litamali",
+    "district": "kobalima"
+  },
+  {
+    "id": "rainawe",
+    "name": "Rainawe",
+    "district": "kobalima"
+  },
+  {
+    "id": "s-i-s-i",
+    "name": "S I S I",
+    "district": "kobalima"
+  },
+  {
+    "id": "babulu-selatan",
+    "name": "Babulu Selatan",
+    "district": "kobalima"
+  },
+  {
+    "id": "babulu",
+    "name": "Babulu",
+    "district": "kobalima"
+  }
+]

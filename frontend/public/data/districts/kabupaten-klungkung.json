@@ -1,0 +1,22 @@
+[
+  {
+    "id": "nusapenida",
+    "name": "Nusapenida",
+    "regency": "kabupaten-klungkung"
+  },
+  {
+    "id": "banjarangkan",
+    "name": "Banjarangkan",
+    "regency": "kabupaten-klungkung"
+  },
+  {
+    "id": "klungkung",
+    "name": "Klungkung",
+    "regency": "kabupaten-klungkung"
+  },
+  {
+    "id": "dawan",
+    "name": "Dawan",
+    "regency": "kabupaten-klungkung"
+  }
+]

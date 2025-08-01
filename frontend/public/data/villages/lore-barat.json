@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tuare",
+    "name": "Tuare",
+    "district": "lore-barat"
+  },
+  {
+    "id": "tomehipi",
+    "name": "Tomehipi",
+    "district": "lore-barat"
+  },
+  {
+    "id": "kageroa",
+    "name": "Kageroa",
+    "district": "lore-barat"
+  },
+  {
+    "id": "lengkeka",
+    "name": "Lengkeka",
+    "district": "lore-barat"
+  },
+  {
+    "id": "kolori",
+    "name": "Kolori",
+    "district": "lore-barat"
+  },
+  {
+    "id": "lelio",
+    "name": "Lelio",
+    "district": "lore-barat"
+  }
+]

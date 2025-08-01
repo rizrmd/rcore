@@ -1,0 +1,22 @@
+[
+  {
+    "id": "taluak",
+    "name": "Taluak",
+    "district": "lintau-buo"
+  },
+  {
+    "id": "tigo-jangko",
+    "name": "Tigo Jangko",
+    "district": "lintau-buo"
+  },
+  {
+    "id": "pangian",
+    "name": "Pangian",
+    "district": "lintau-buo"
+  },
+  {
+    "id": "buo",
+    "name": "Buo",
+    "district": "lintau-buo"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "derekan",
+    "name": "Derekan",
+    "district": "pringapus"
+  },
+  {
+    "id": "pringapus",
+    "name": "Pringapus",
+    "district": "pringapus"
+  },
+  {
+    "id": "pringsari",
+    "name": "Pringsari",
+    "district": "pringapus"
+  },
+  {
+    "id": "jatirunggo",
+    "name": "Jatirunggo",
+    "district": "pringapus"
+  },
+  {
+    "id": "wonoyoso",
+    "name": "Wonoyoso",
+    "district": "pringapus"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "pringapus"
+  },
+  {
+    "id": "candirejo",
+    "name": "Candirejo",
+    "district": "pringapus"
+  },
+  {
+    "id": "penawangan",
+    "name": "Penawangan",
+    "district": "pringapus"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mambai",
+    "name": "Mambai",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "napani",
+    "name": "Napani",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "soyoi",
+    "name": "Soyoi",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "daimboa",
+    "name": "Daimboa",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "wainarisi",
+    "name": "Wainarisi",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "fafarui",
+    "name": "Fafarui",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "segha",
+    "name": "Segha",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "sinabo",
+    "name": "Sinabo",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "dawoa",
+    "name": "Dawoa",
+    "district": "soyoi-mambai"
+  },
+  {
+    "id": "woinui",
+    "name": "Woinui",
+    "district": "soyoi-mambai"
+  }
+]

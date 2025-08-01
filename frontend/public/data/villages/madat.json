@@ -1,0 +1,132 @@
+[
+  {
+    "id": "paya-deumam-peut",
+    "name": "Paya Deumam Peut",
+    "district": "madat"
+  },
+  {
+    "id": "paya-naden",
+    "name": "Paya Naden",
+    "district": "madat"
+  },
+  {
+    "id": "tanjung-ara",
+    "name": "Tanjung Ara",
+    "district": "madat"
+  },
+  {
+    "id": "tanjung-minjei",
+    "name": "Tanjung Minjei",
+    "district": "madat"
+  },
+  {
+    "id": "seuneubok-pidie",
+    "name": "Seuneubok Pidie",
+    "district": "madat"
+  },
+  {
+    "id": "rambong-lop",
+    "name": "Rambong Lop",
+    "district": "madat"
+  },
+  {
+    "id": "matang-jrok",
+    "name": "Matang Jrok",
+    "district": "madat"
+  },
+  {
+    "id": "matang-nibong",
+    "name": "Matang Nibong",
+    "district": "madat"
+  },
+  {
+    "id": "madat",
+    "name": "Madat",
+    "district": "madat"
+  },
+  {
+    "id": "abeuk-geulanteu",
+    "name": "Abeuk Geulanteu",
+    "district": "madat"
+  },
+  {
+    "id": "matang-keupula-satu",
+    "name": "Matang Keupula Satu",
+    "district": "madat"
+  },
+  {
+    "id": "ulee-ateung",
+    "name": "Ulee Ateung",
+    "district": "madat"
+  },
+  {
+    "id": "blang-andam",
+    "name": "Blang Andam",
+    "district": "madat"
+  },
+  {
+    "id": "bintah",
+    "name": "Bintah",
+    "district": "madat"
+  },
+  {
+    "id": "blang-awe",
+    "name": "Blang Awe",
+    "district": "madat"
+  },
+  {
+    "id": "pante-meureubo",
+    "name": "Pante Meureubo",
+    "district": "madat"
+  },
+  {
+    "id": "lueng-satu",
+    "name": "Lueng Satu",
+    "district": "madat"
+  },
+  {
+    "id": "matang-keupula-lhee",
+    "name": "Matang Keupula Lhee",
+    "district": "madat"
+  },
+  {
+    "id": "matang-keupula-dua",
+    "name": "Matang Keupula Dua",
+    "district": "madat"
+  },
+  {
+    "id": "blang-ubit",
+    "name": "Blang Ubit",
+    "district": "madat"
+  },
+  {
+    "id": "lueng-peut",
+    "name": "Lueng Peut",
+    "district": "madat"
+  },
+  {
+    "id": "lueng-dua",
+    "name": "Lueng Dua",
+    "district": "madat"
+  },
+  {
+    "id": "matang-guru",
+    "name": "Matang Guru",
+    "district": "madat"
+  },
+  {
+    "id": "pante-bayam",
+    "name": "Pante Bayam",
+    "district": "madat"
+  },
+  {
+    "id": "meunasah-tingkeum",
+    "name": "Meunasah Tingkeum",
+    "district": "madat"
+  },
+  {
+    "id": "meunasah-asan",
+    "name": "Meunasah Asan",
+    "district": "madat"
+  }
+]

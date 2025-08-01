@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fonatu",
+    "name": "Fonatu",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "ayawasi-selatan",
+    "name": "Ayawasi Selatan",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "ayawasi",
+    "name": "Ayawasi",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "ayawasi-timur",
+    "name": "Ayawasi Timur",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "maan",
+    "name": "Maan",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "konja",
+    "name": "Konja",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "jarat",
+    "name": "Jarat",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "susai",
+    "name": "Susai",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "mosun",
+    "name": "Mosun",
+    "district": "aifat-utara"
+  },
+  {
+    "id": "wayane",
+    "name": "Wayane",
+    "district": "aifat-utara"
+  }
+]

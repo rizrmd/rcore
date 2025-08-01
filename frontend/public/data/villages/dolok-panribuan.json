@@ -1,0 +1,77 @@
+[
+  {
+    "id": "dolok-parmonangan",
+    "name": "Dolok Parmonangan",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "negeri-dolok",
+    "name": "Negeri Dolok",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "gunung-mariah",
+    "name": "Gunung Mariah",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "marihat-dolok",
+    "name": "Marihat Dolok",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "marihat-raja",
+    "name": "Marihat Raja",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "tiga-dolok",
+    "name": "Tiga Dolok",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "bandar-dolok",
+    "name": "Bandar Dolok",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "dolok-tomuan",
+    "name": "Dolok Tomuan",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "ujung-bondar",
+    "name": "Ujung Bondar",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "siatasan",
+    "name": "Siatasan",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "pondok-buluh",
+    "name": "Pondok Buluh",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "marihat-pondok",
+    "name": "Marihat Pondok",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "marihat-marsada",
+    "name": "Marihat Marsada",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "lumban-gorat",
+    "name": "Lumban Gorat",
+    "district": "dolok-panribuan"
+  },
+  {
+    "id": "palianaopat",
+    "name": "Palianaopat",
+    "district": "dolok-panribuan"
+  }
+]

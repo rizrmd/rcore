@@ -1,0 +1,82 @@
+[
+  {
+    "id": "air-buluh",
+    "name": "Air Buluh",
+    "district": "ipuh"
+  },
+  {
+    "id": "pulau-baru",
+    "name": "Pulau Baru",
+    "district": "ipuh"
+  },
+  {
+    "id": "semundam",
+    "name": "Semundam",
+    "district": "ipuh"
+  },
+  {
+    "id": "tanjung-jaya",
+    "name": "Tanjung Jaya",
+    "district": "ipuh"
+  },
+  {
+    "id": "dusun-sibak",
+    "name": "Dusun Sibak",
+    "district": "ipuh"
+  },
+  {
+    "id": "medan-jaya",
+    "name": "Medan Jaya",
+    "district": "ipuh"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "ipuh"
+  },
+  {
+    "id": "pasar-ipuh",
+    "name": "Pasar Ipuh",
+    "district": "ipuh"
+  },
+  {
+    "id": "manunggal-jaya",
+    "name": "Manunggal Jaya",
+    "district": "ipuh"
+  },
+  {
+    "id": "retak-hilir",
+    "name": "Retak Hilir",
+    "district": "ipuh"
+  },
+  {
+    "id": "pulai-payung",
+    "name": "Pulai Payung",
+    "district": "ipuh"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "ipuh"
+  },
+  {
+    "id": "tirta-mulya",
+    "name": "Tirta Mulya",
+    "district": "ipuh"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "ipuh"
+  },
+  {
+    "id": "pulau-makmur",
+    "name": "Pulau Makmur",
+    "district": "ipuh"
+  },
+  {
+    "id": "mundam-marap",
+    "name": "Mundam Marap",
+    "district": "ipuh"
+  }
+]

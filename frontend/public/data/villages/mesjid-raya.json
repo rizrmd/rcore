@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lamnga",
+    "name": "Lamnga",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "baro",
+    "name": "Baro",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "neuheun",
+    "name": "Neuheun",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "durung",
+    "name": "Durung",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "ladong",
+    "name": "Ladong",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "ruyung",
+    "name": "Ruyung",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "paya-kameng",
+    "name": "Paya Kameng",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "beurandeh",
+    "name": "Beurandeh",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "meunasah-kulam",
+    "name": "Meunasah Kulam",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "meunasah-keudee",
+    "name": "Meunasah Keudee",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "meunasah-mon",
+    "name": "Meunasah Mon",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "ie-seum",
+    "name": "Ie Seum",
+    "district": "mesjid-raya"
+  },
+  {
+    "id": "lamreh",
+    "name": "Lamreh",
+    "district": "mesjid-raya"
+  }
+]

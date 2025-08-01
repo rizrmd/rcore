@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gembor",
+    "name": "Gembor",
+    "district": "pagaden"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "pagaden"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "pagaden"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "pagaden"
+  },
+  {
+    "id": "gambarsari",
+    "name": "Gambarsari",
+    "district": "pagaden"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "pagaden"
+  },
+  {
+    "id": "pagaden",
+    "name": "Pagaden",
+    "district": "pagaden"
+  },
+  {
+    "id": "kamarung",
+    "name": "Kamarung",
+    "district": "pagaden"
+  },
+  {
+    "id": "jabong",
+    "name": "Jabong",
+    "district": "pagaden"
+  }
+]

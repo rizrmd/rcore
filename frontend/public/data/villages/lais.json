@@ -1,0 +1,142 @@
+[
+  {
+    "id": "danau-cala",
+    "name": "Danau Cala",
+    "district": "lais"
+  },
+  {
+    "id": "rantau-keroya",
+    "name": "Rantau Keroya",
+    "district": "lais"
+  },
+  {
+    "id": "teluk-kijing-i",
+    "name": "Teluk Kijing I",
+    "district": "lais"
+  },
+  {
+    "id": "tanjung-agung-barat",
+    "name": "Tanjung Agung Barat",
+    "district": "lais"
+  },
+  {
+    "id": "tanjung-agung-timur",
+    "name": "Tanjung Agung Timur",
+    "district": "lais"
+  },
+  {
+    "id": "tanjung-agung-utara",
+    "name": "Tanjung Agung Utara",
+    "district": "lais"
+  },
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "lais"
+  },
+  {
+    "id": "teluk-kijing-iii",
+    "name": "Teluk Kijing Iii",
+    "district": "lais"
+  },
+  {
+    "id": "teluk-kijing-ii",
+    "name": "Teluk Kijing Ii",
+    "district": "lais"
+  },
+  {
+    "id": "petaling",
+    "name": "Petaling",
+    "district": "lais"
+  },
+  {
+    "id": "lais",
+    "name": "Lais",
+    "district": "lais"
+  },
+  {
+    "id": "teluk",
+    "name": "Teluk",
+    "district": "lais"
+  },
+  {
+    "id": "epil",
+    "name": "Epil",
+    "district": "lais"
+  },
+  {
+    "id": "tanjung-agung-selatan",
+    "name": "Tanjung Agung Selatan",
+    "district": "lais"
+  },
+  {
+    "id": "lais-utara",
+    "name": "Lais Utara",
+    "district": "lais"
+  },
+  {
+    "id": "pasar-lais",
+    "name": "Pasar Lais",
+    "district": "lais"
+  },
+  {
+    "id": "pal-tiga-puluh",
+    "name": "Pal Tiga Puluh",
+    "district": "lais"
+  },
+  {
+    "id": "jago-bayo",
+    "name": "Jago Bayo",
+    "district": "lais"
+  },
+  {
+    "id": "lubuk-lesung",
+    "name": "Lubuk Lesung",
+    "district": "lais"
+  },
+  {
+    "id": "dusun-raja",
+    "name": "Dusun Raja",
+    "district": "lais"
+  },
+  {
+    "id": "durian-daun",
+    "name": "Durian Daun",
+    "district": "lais"
+  },
+  {
+    "id": "air-padang",
+    "name": "Air Padang",
+    "district": "lais"
+  },
+  {
+    "id": "datar-lebar",
+    "name": "Datar Lebar",
+    "district": "lais"
+  },
+  {
+    "id": "talang-rasau",
+    "name": "Talang Rasau",
+    "district": "lais"
+  },
+  {
+    "id": "lubuk-gedang",
+    "name": "Lubuk Gedang",
+    "district": "lais"
+  },
+  {
+    "id": "suka-langu",
+    "name": "Suka Langu",
+    "district": "lais"
+  },
+  {
+    "id": "taba-baru",
+    "name": "Taba Baru",
+    "district": "lais"
+  },
+  {
+    "id": "kalbang",
+    "name": "Kalbang",
+    "district": "lais"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "giri-mulya"
+  },
+  {
+    "id": "tanjung-anom",
+    "name": "Tanjung Anom",
+    "district": "giri-mulya"
+  },
+  {
+    "id": "giri-mulya",
+    "name": "Giri Mulya",
+    "district": "giri-mulya"
+  },
+  {
+    "id": "wonoharjo",
+    "name": "Wonoharjo",
+    "district": "giri-mulya"
+  },
+  {
+    "id": "rena-jaya",
+    "name": "Rena Jaya",
+    "district": "giri-mulya"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "giri-mulya"
+  }
+]

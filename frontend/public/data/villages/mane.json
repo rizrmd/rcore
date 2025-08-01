@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mane",
+    "name": "Mane",
+    "district": "mane"
+  },
+  {
+    "id": "turue-cut",
+    "name": "Turue Cut",
+    "district": "mane"
+  },
+  {
+    "id": "lutueng",
+    "name": "Lutueng",
+    "district": "mane"
+  },
+  {
+    "id": "blang-dalam",
+    "name": "Blang Dalam",
+    "district": "mane"
+  }
+]

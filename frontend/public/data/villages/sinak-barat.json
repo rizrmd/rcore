@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kilunggame",
+    "name": "Kilunggame",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "wonelupaga",
+    "name": "Wonelupaga",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "tagalame-i",
+    "name": "Tagalame I",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "bacini-baksini",
+    "name": "Bacini / Baksini",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "timobut",
+    "name": "Timobut",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "timobut-egewak",
+    "name": "Timobut Egewak",
+    "district": "sinak-barat"
+  },
+  {
+    "id": "komapaga",
+    "name": "Komapaga",
+    "district": "sinak-barat"
+  }
+]

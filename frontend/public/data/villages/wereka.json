@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ponalo",
+    "name": "Ponalo",
+    "district": "wereka"
+  },
+  {
+    "id": "tiwa",
+    "name": "Tiwa",
+    "district": "wereka"
+  },
+  {
+    "id": "tabukeker",
+    "name": "Tabukeker",
+    "district": "wereka"
+  },
+  {
+    "id": "lura-marah",
+    "name": "Lura Marah",
+    "district": "wereka"
+  },
+  {
+    "id": "beyongwi",
+    "name": "Beyongwi",
+    "district": "wereka"
+  },
+  {
+    "id": "wuragi",
+    "name": "Wuragi",
+    "district": "wereka"
+  }
+]

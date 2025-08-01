@@ -1,0 +1,42 @@
+[
+  {
+    "id": "botteng",
+    "name": "Botteng",
+    "district": "simboro"
+  },
+  {
+    "id": "salletto",
+    "name": "Salletto",
+    "district": "simboro"
+  },
+  {
+    "id": "simboro",
+    "name": "Simboro",
+    "district": "simboro"
+  },
+  {
+    "id": "rangas",
+    "name": "Rangas",
+    "district": "simboro"
+  },
+  {
+    "id": "sumare",
+    "name": "Sumare",
+    "district": "simboro"
+  },
+  {
+    "id": "botteng-utara",
+    "name": "Botteng Utara",
+    "district": "simboro"
+  },
+  {
+    "id": "tapandullu",
+    "name": "Tapandullu",
+    "district": "simboro"
+  },
+  {
+    "id": "patidi",
+    "name": "Pati`Di",
+    "district": "simboro"
+  }
+]

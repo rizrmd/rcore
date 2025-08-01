@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pagintungan",
+    "name": "Pagintungan",
+    "district": "jawilan"
+  },
+  {
+    "id": "cemplang",
+    "name": "Cemplang",
+    "district": "jawilan"
+  },
+  {
+    "id": "bojot",
+    "name": "Bojot",
+    "district": "jawilan"
+  },
+  {
+    "id": "jawilan",
+    "name": "Jawilan",
+    "district": "jawilan"
+  },
+  {
+    "id": "pasirbuyut",
+    "name": "Pasirbuyut",
+    "district": "jawilan"
+  },
+  {
+    "id": "majasari",
+    "name": "Majasari",
+    "district": "jawilan"
+  },
+  {
+    "id": "parakan",
+    "name": "Parakan",
+    "district": "jawilan"
+  },
+  {
+    "id": "kareo",
+    "name": "Kareo",
+    "district": "jawilan"
+  },
+  {
+    "id": "junti",
+    "name": "Junti",
+    "district": "jawilan"
+  }
+]

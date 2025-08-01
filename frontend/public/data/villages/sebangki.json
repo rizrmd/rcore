@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "sebangki"
+  },
+  {
+    "id": "sei-segak",
+    "name": "Sei Segak",
+    "district": "sebangki"
+  },
+  {
+    "id": "sebangki",
+    "name": "Sebangki",
+    "district": "sebangki"
+  },
+  {
+    "id": "kumpang-tengah",
+    "name": "Kumpang Tengah",
+    "district": "sebangki"
+  },
+  {
+    "id": "agak",
+    "name": "Agak",
+    "district": "sebangki"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cikedung",
+    "name": "Cikedung",
+    "district": "mancak"
+  },
+  {
+    "id": "ciwarna",
+    "name": "Ciwarna",
+    "district": "mancak"
+  },
+  {
+    "id": "angsana",
+    "name": "Angsana",
+    "district": "mancak"
+  },
+  {
+    "id": "talaga",
+    "name": "Talaga",
+    "district": "mancak"
+  },
+  {
+    "id": "balekambang",
+    "name": "Balekambang",
+    "district": "mancak"
+  },
+  {
+    "id": "labuhan",
+    "name": "Labuhan",
+    "district": "mancak"
+  },
+  {
+    "id": "sangiang",
+    "name": "Sangiang",
+    "district": "mancak"
+  },
+  {
+    "id": "pasirwaru",
+    "name": "Pasirwaru",
+    "district": "mancak"
+  },
+  {
+    "id": "waringin",
+    "name": "Waringin",
+    "district": "mancak"
+  },
+  {
+    "id": "mancak",
+    "name": "Mancak",
+    "district": "mancak"
+  },
+  {
+    "id": "sigedong",
+    "name": "Sigedong",
+    "district": "mancak"
+  },
+  {
+    "id": "batukuda",
+    "name": "Batukuda",
+    "district": "mancak"
+  },
+  {
+    "id": "winong",
+    "name": "Winong",
+    "district": "mancak"
+  },
+  {
+    "id": "bale-kencana",
+    "name": "Bale Kencana",
+    "district": "mancak"
+  }
+]

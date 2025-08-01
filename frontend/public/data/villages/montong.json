@@ -1,0 +1,62 @@
+[
+  {
+    "id": "manjung",
+    "name": "Manjung",
+    "district": "montong"
+  },
+  {
+    "id": "tanggulangin",
+    "name": "Tanggulangin",
+    "district": "montong"
+  },
+  {
+    "id": "bringin",
+    "name": "Bringin",
+    "district": "montong"
+  },
+  {
+    "id": "maindu",
+    "name": "Maindu",
+    "district": "montong"
+  },
+  {
+    "id": "jetak",
+    "name": "Jetak",
+    "district": "montong"
+  },
+  {
+    "id": "talun",
+    "name": "Talun",
+    "district": "montong"
+  },
+  {
+    "id": "pucangan",
+    "name": "Pucangan",
+    "district": "montong"
+  },
+  {
+    "id": "pakel",
+    "name": "Pakel",
+    "district": "montong"
+  },
+  {
+    "id": "montongsekar",
+    "name": "Montongsekar",
+    "district": "montong"
+  },
+  {
+    "id": "talangkembar",
+    "name": "Talangkembar",
+    "district": "montong"
+  },
+  {
+    "id": "nguluhan",
+    "name": "Nguluhan",
+    "district": "montong"
+  },
+  {
+    "id": "guwoterus",
+    "name": "Guwoterus",
+    "district": "montong"
+  }
+]

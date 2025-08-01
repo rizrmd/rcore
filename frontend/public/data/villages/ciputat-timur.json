@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pisangan",
+    "name": "Pisangan",
+    "district": "ciputat-timur"
+  },
+  {
+    "id": "cireundeu",
+    "name": "Cireundeu",
+    "district": "ciputat-timur"
+  },
+  {
+    "id": "cempaka-putih",
+    "name": "Cempaka Putih",
+    "district": "ciputat-timur"
+  },
+  {
+    "id": "rempoa",
+    "name": "Rempoa",
+    "district": "ciputat-timur"
+  },
+  {
+    "id": "rengas",
+    "name": "Rengas",
+    "district": "ciputat-timur"
+  },
+  {
+    "id": "pondok-ranji",
+    "name": "Pondok Ranji",
+    "district": "ciputat-timur"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "talagajaya",
+    "name": "Talagajaya",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "tanahbaru",
+    "name": "Tanahbaru",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "solokan",
+    "name": "Solokan",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "tanjungbungin",
+    "name": "Tanjungbungin",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "tanjungmekar",
+    "name": "Tanjungmekar",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "tanjungpakis",
+    "name": "Tanjungpakis",
+    "district": "pakisjaya"
+  },
+  {
+    "id": "telukjaya",
+    "name": "Telukjaya",
+    "district": "pakisjaya"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jabon",
+    "name": "Jabon",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "gayaman",
+    "name": "Gayaman",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "gebang-malang",
+    "name": "Gebang Malang",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "sumber-jati",
+    "name": "Sumber Jati",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "kepuh-anyar",
+    "name": "Kepuh Anyar",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "lengkong",
+    "name": "Lengkong",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "sadar-tengah",
+    "name": "Sadar Tengah",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "ngarjo",
+    "name": "Ngarjo",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "kweden-kembar",
+    "name": "Kweden Kembar",
+    "district": "mojoanyar"
+  },
+  {
+    "id": "kwatu",
+    "name": "Kwatu",
+    "district": "mojoanyar"
+  }
+]

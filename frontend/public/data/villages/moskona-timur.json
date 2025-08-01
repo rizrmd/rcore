@@ -1,0 +1,52 @@
+[
+  {
+    "id": "igomu",
+    "name": "Igomu",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "mesna",
+    "name": "Mesna",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "sumui",
+    "name": "Sumui",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "mesua-meyera",
+    "name": "Mesua / Meyera",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "injisni",
+    "name": "Injisni",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "mesimer-mesoimen",
+    "name": "Mesimer / Mesoimen",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "injeif",
+    "name": "Injeif",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "isurkohmey",
+    "name": "Isurkohmey",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "merenefa",
+    "name": "Merenefa",
+    "district": "moskona-timur"
+  },
+  {
+    "id": "kaibur",
+    "name": "Kaibur",
+    "district": "moskona-timur"
+  }
+]

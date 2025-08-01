@@ -1,0 +1,52 @@
+[
+  {
+    "id": "uentanaga-atas",
+    "name": "Uentanaga Atas",
+    "district": "ratolindo"
+  },
+  {
+    "id": "sumoli",
+    "name": "Sumoli",
+    "district": "ratolindo"
+  },
+  {
+    "id": "uentanaga-bawah",
+    "name": "Uentanaga Bawah",
+    "district": "ratolindo"
+  },
+  {
+    "id": "dondo",
+    "name": "Dondo",
+    "district": "ratolindo"
+  },
+  {
+    "id": "labuan",
+    "name": "Labuan",
+    "district": "ratolindo"
+  },
+  {
+    "id": "sabulira-toba",
+    "name": "Sabulira Toba",
+    "district": "ratolindo"
+  },
+  {
+    "id": "uemalingku",
+    "name": "Uemalingku",
+    "district": "ratolindo"
+  },
+  {
+    "id": "patingko",
+    "name": "Patingko",
+    "district": "ratolindo"
+  },
+  {
+    "id": "muara-toba",
+    "name": "Muara Toba",
+    "district": "ratolindo"
+  },
+  {
+    "id": "dondo-barat",
+    "name": "Dondo Barat",
+    "district": "ratolindo"
+  }
+]

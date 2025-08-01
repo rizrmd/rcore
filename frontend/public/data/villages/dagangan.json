@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ketandan",
+    "name": "Ketandan",
+    "district": "dagangan"
+  },
+  {
+    "id": "tileng",
+    "name": "Tileng",
+    "district": "dagangan"
+  },
+  {
+    "id": "mendak",
+    "name": "Mendak",
+    "district": "dagangan"
+  },
+  {
+    "id": "padas",
+    "name": "Padas",
+    "district": "dagangan"
+  },
+  {
+    "id": "ngranget",
+    "name": "Ngranget",
+    "district": "dagangan"
+  },
+  {
+    "id": "joho",
+    "name": "Joho",
+    "district": "dagangan"
+  },
+  {
+    "id": "dagangan",
+    "name": "Dagangan",
+    "district": "dagangan"
+  },
+  {
+    "id": "jetis",
+    "name": "Jetis",
+    "district": "dagangan"
+  },
+  {
+    "id": "prambon",
+    "name": "Prambon",
+    "district": "dagangan"
+  },
+  {
+    "id": "banjarejo",
+    "name": "Banjarejo",
+    "district": "dagangan"
+  },
+  {
+    "id": "mruwak",
+    "name": "Mruwak",
+    "district": "dagangan"
+  },
+  {
+    "id": "banjarsari-wetan",
+    "name": "Banjarsari Wetan",
+    "district": "dagangan"
+  },
+  {
+    "id": "banjarsari-kulon",
+    "name": "Banjarsari Kulon",
+    "district": "dagangan"
+  },
+  {
+    "id": "sewulan",
+    "name": "Sewulan",
+    "district": "dagangan"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "dagangan"
+  }
+]

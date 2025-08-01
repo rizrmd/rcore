@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kebar-tengah-anjai",
+    "name": "Kebar Tengah / Anjai",
+    "district": "kebar"
+  },
+  {
+    "id": "meiwar",
+    "name": "Meiwar",
+    "district": "kebar"
+  },
+  {
+    "id": "apoki",
+    "name": "Apoki",
+    "district": "kebar"
+  },
+  {
+    "id": "jafai",
+    "name": "Jafai",
+    "district": "kebar"
+  },
+  {
+    "id": "anarum",
+    "name": "Anarum",
+    "district": "kebar"
+  },
+  {
+    "id": "jambuani",
+    "name": "Jambuani",
+    "district": "kebar"
+  },
+  {
+    "id": "manaria",
+    "name": "Manaria",
+    "district": "kebar"
+  },
+  {
+    "id": "narai",
+    "name": "Narai",
+    "district": "kebar"
+  },
+  {
+    "id": "wasanggon",
+    "name": "Wasanggon",
+    "district": "kebar"
+  },
+  {
+    "id": "wabanek",
+    "name": "Wabanek",
+    "district": "kebar"
+  },
+  {
+    "id": "pubuan",
+    "name": "Pubuan",
+    "district": "kebar"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ngelo",
+    "name": "Ngelo",
+    "district": "margomulyo"
+  },
+  {
+    "id": "kalangan",
+    "name": "Kalangan",
+    "district": "margomulyo"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "margomulyo"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "margomulyo"
+  },
+  {
+    "id": "meduri",
+    "name": "Meduri",
+    "district": "margomulyo"
+  }
+]

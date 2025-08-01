@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pian-raya",
+    "name": "Pian Raya",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "bumi-makmur",
+    "name": "Bumi Makmur",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "sp-v-tri-anggunjaya",
+    "name": "Sp V Tri Anggunjaya",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "harapan-makmur",
+    "name": "Harapan Makmur",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "mukti-karya",
+    "name": "Mukti Karya",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "sindang-laya",
+    "name": "Sindang Laya",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "semangus",
+    "name": "Semangus",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "pendingan",
+    "name": "Pendingan",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "anyar",
+    "name": "Anyar",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "muara-rengas",
+    "name": "Muara Rengas",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "semeteh",
+    "name": "Semeteh",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "lubuk-pandan",
+    "name": "Lubuk Pandan",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "muara-lakitan",
+    "name": "Muara Lakitan",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "prabumulih-i",
+    "name": "Prabumulih I",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "prabumulih-ii",
+    "name": "Prabumulih Ii",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "pelita-jaya",
+    "name": "Pelita Jaya",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "sido-mulyo",
+    "name": "Sido Mulyo",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "marga-baru",
+    "name": "Marga Baru",
+    "district": "muara-lakitan"
+  },
+  {
+    "id": "semangus-baru",
+    "name": "Semangus Baru",
+    "district": "muara-lakitan"
+  }
+]

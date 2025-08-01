@@ -1,0 +1,42 @@
+[
+  {
+    "id": "teras-terunjam",
+    "name": "Teras Terunjam",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "setia-budi",
+    "name": "Setia Budi",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "pondok-kopi",
+    "name": "Pondok Kopi",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "tunggal-jaya",
+    "name": "Tunggal Jaya",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "karang-jaya",
+    "name": "Karang Jaya",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "teruntung",
+    "name": "Teruntung",
+    "district": "teras-terunjam"
+  },
+  {
+    "id": "telang-kuning",
+    "name": "Telang Kuning",
+    "district": "teras-terunjam"
+  }
+]

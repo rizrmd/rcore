@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wakadawu",
+    "name": "Wakadawu",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "tekonea",
+    "name": "Tekonea",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "lapulu",
+    "name": "Lapulu",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "laiwo-jaya",
+    "name": "Laiwo Jaya",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "desa-munse",
+    "name": "Desa Munse",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "lebo",
+    "name": "Lebo",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "nanga",
+    "name": "Nanga",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "butuea",
+    "name": "Butuea",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "lembono",
+    "name": "Lembono",
+    "district": "wawonii-timur"
+  },
+  {
+    "id": "saburano",
+    "name": "Saburano",
+    "district": "wawonii-timur"
+  }
+]

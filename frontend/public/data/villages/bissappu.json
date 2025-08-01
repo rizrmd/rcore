@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bonto-jai",
+    "name": "Bonto Jai",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-manai",
+    "name": "Bonto Manai",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-lebang",
+    "name": "Bonto Lebang",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-sunggu",
+    "name": "Bonto Sunggu",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-rita",
+    "name": "Bonto Rita",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-atu",
+    "name": "Bonto  Atu",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-salluang",
+    "name": "Bonto Salluang",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-langkasa",
+    "name": "Bonto Langkasa",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-cinde",
+    "name": "Bonto Cinde",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-loe",
+    "name": "Bonto Loe",
+    "district": "bissappu"
+  },
+  {
+    "id": "bonto-jaya",
+    "name": "Bonto Jaya",
+    "district": "bissappu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pakumbang",
+    "name": "Pakumbang",
+    "district": "sompak"
+  },
+  {
+    "id": "tapakng",
+    "name": "Tapakng",
+    "district": "sompak"
+  },
+  {
+    "id": "amawakng",
+    "name": "Amawakng",
+    "district": "sompak"
+  },
+  {
+    "id": "galar",
+    "name": "Galar",
+    "district": "sompak"
+  },
+  {
+    "id": "sompak",
+    "name": "Sompak",
+    "district": "sompak"
+  },
+  {
+    "id": "lingkonong",
+    "name": "Lingkonong",
+    "district": "sompak"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "district": "sompak"
+  }
+]

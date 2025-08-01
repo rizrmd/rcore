@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kasingoli",
+    "name": "Kasingoli",
+    "district": "mori-atas"
+  },
+  {
+    "id": "saemba",
+    "name": "Saemba",
+    "district": "mori-atas"
+  },
+  {
+    "id": "saemba-walati",
+    "name": "Saemba Walati",
+    "district": "mori-atas"
+  },
+  {
+    "id": "tomui-karya",
+    "name": "Tomui Karya",
+    "district": "mori-atas"
+  },
+  {
+    "id": "tomata",
+    "name": "Tomata",
+    "district": "mori-atas"
+  },
+  {
+    "id": "pambarea",
+    "name": "Pambarea",
+    "district": "mori-atas"
+  },
+  {
+    "id": "londi",
+    "name": "Londi",
+    "district": "mori-atas"
+  },
+  {
+    "id": "gontara",
+    "name": "Gontara",
+    "district": "mori-atas"
+  },
+  {
+    "id": "taende",
+    "name": "Taende",
+    "district": "mori-atas"
+  },
+  {
+    "id": "ensa",
+    "name": "Ensa",
+    "district": "mori-atas"
+  },
+  {
+    "id": "lanumor",
+    "name": "Lanumor",
+    "district": "mori-atas"
+  },
+  {
+    "id": "peonea",
+    "name": "Peonea",
+    "district": "mori-atas"
+  },
+  {
+    "id": "kolaka",
+    "name": "Kolaka",
+    "district": "mori-atas"
+  }
+]

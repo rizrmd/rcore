@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tanjung-rejo",
+    "name": "Tanjung Rejo",
+    "district": "margo-tabir"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "margo-tabir"
+  },
+  {
+    "id": "suko-rejo",
+    "name": "Suko Rejo",
+    "district": "margo-tabir"
+  },
+  {
+    "id": "sido-rukun",
+    "name": "Sido Rukun",
+    "district": "margo-tabir"
+  },
+  {
+    "id": "lubuk-bumbun",
+    "name": "Lubuk Bumbun",
+    "district": "margo-tabir"
+  },
+  {
+    "id": "tegal-rejo",
+    "name": "Tegal Rejo",
+    "district": "margo-tabir"
+  }
+]

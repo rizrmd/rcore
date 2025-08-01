@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lambanan",
+    "name": "Lambanan",
+    "district": "latimojong"
+  },
+  {
+    "id": "buntu-sarek",
+    "name": "Buntu Sarek",
+    "district": "latimojong"
+  },
+  {
+    "id": "pajang",
+    "name": "Pajang",
+    "district": "latimojong"
+  },
+  {
+    "id": "kadundung",
+    "name": "Kadundung",
+    "district": "latimojong"
+  },
+  {
+    "id": "tobaru",
+    "name": "Tobaru",
+    "district": "latimojong"
+  },
+  {
+    "id": "ulusalu",
+    "name": "Ulusalu",
+    "district": "latimojong"
+  },
+  {
+    "id": "boneposi",
+    "name": "Boneposi",
+    "district": "latimojong"
+  },
+  {
+    "id": "rante-balla",
+    "name": "Rante Balla",
+    "district": "latimojong"
+  },
+  {
+    "id": "pangi",
+    "name": "Pangi",
+    "district": "latimojong"
+  },
+  {
+    "id": "tabang",
+    "name": "Tabang",
+    "district": "latimojong"
+  },
+  {
+    "id": "tibussan",
+    "name": "Tibussan",
+    "district": "latimojong"
+  },
+  {
+    "id": "tolajuk",
+    "name": "Tolajuk",
+    "district": "latimojong"
+  }
+]

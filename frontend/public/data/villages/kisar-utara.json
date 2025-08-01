@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nomaha",
+    "name": "Nomaha",
+    "district": "kisar-utara"
+  },
+  {
+    "id": "pur-pura",
+    "name": "Pur- Pura",
+    "district": "kisar-utara"
+  },
+  {
+    "id": "lebelau",
+    "name": "Lebelau",
+    "district": "kisar-utara"
+  }
+]

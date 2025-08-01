@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tumpaan",
+    "name": "Tumpaan",
+    "district": "tumpaan"
+  },
+  {
+    "id": "tumpaan-satu",
+    "name": "Tumpaan Satu",
+    "district": "tumpaan"
+  },
+  {
+    "id": "matani",
+    "name": "Matani",
+    "district": "tumpaan"
+  },
+  {
+    "id": "popontolen",
+    "name": "Popontolen",
+    "district": "tumpaan"
+  },
+  {
+    "id": "lelema",
+    "name": "Lelema",
+    "district": "tumpaan"
+  },
+  {
+    "id": "tangkuney",
+    "name": "Tangkuney",
+    "district": "tumpaan"
+  },
+  {
+    "id": "tumpaan-baru",
+    "name": "Tumpaan Baru",
+    "district": "tumpaan"
+  },
+  {
+    "id": "tumpaan-dua",
+    "name": "Tumpaan Dua",
+    "district": "tumpaan"
+  },
+  {
+    "id": "matani-satu",
+    "name": "Matani Satu",
+    "district": "tumpaan"
+  }
+]

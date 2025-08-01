@@ -1,0 +1,27 @@
+[
+  {
+    "id": "waimon",
+    "name": "Waimon",
+    "district": "segun"
+  },
+  {
+    "id": "klasegun",
+    "name": "Klasegun",
+    "district": "segun"
+  },
+  {
+    "id": "majemau",
+    "name": "Majemau",
+    "district": "segun"
+  },
+  {
+    "id": "wainlabat",
+    "name": "Wainlabat",
+    "district": "segun"
+  },
+  {
+    "id": "gisim",
+    "name": "Gisim",
+    "district": "segun"
+  }
+]

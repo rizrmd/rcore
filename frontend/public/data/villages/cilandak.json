@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lebak-bulus",
+    "name": "Lebak Bulus",
+    "district": "cilandak"
+  },
+  {
+    "id": "pondok-labu",
+    "name": "Pondok Labu",
+    "district": "cilandak"
+  },
+  {
+    "id": "cilandak-barat",
+    "name": "Cilandak Barat",
+    "district": "cilandak"
+  },
+  {
+    "id": "gandaria-selatan",
+    "name": "Gandaria Selatan",
+    "district": "cilandak"
+  },
+  {
+    "id": "cipete-selatan",
+    "name": "Cipete Selatan",
+    "district": "cilandak"
+  }
+]

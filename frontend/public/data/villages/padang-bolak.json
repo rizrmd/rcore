@@ -1,0 +1,312 @@
+[
+  {
+    "id": "sibatang-kayu",
+    "name": "Sibatang Kayu",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "bukit-raya-serdang",
+    "name": "Bukit Raya Serdang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sigama-ujung-gading",
+    "name": "Sigama Ujung Gading",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "aek-suhat",
+    "name": "Aek Suhat",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "padang-garugur",
+    "name": "Padang Garugur",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sigama",
+    "name": "Sigama",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "simanosor",
+    "name": "Simanosor",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "parlimbatan",
+    "name": "Parlimbatan",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "gunung-manaon-ii",
+    "name": "Gunung Manaon Ii",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "saba-sitahul-tahul",
+    "name": "Saba Sitahul Tahul",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "saba-bangunan",
+    "name": "Saba Bangunan",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "gunung-tua-jae",
+    "name": "Gunung Tua Jae",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "gunung-tua-tonga",
+    "name": "Gunung Tua Tonga",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "pasar-gunung-tua",
+    "name": "Pasar Gunung Tua",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sosopan",
+    "name": "Sosopan",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "hambiri",
+    "name": "Hambiri",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sidingkat",
+    "name": "Sidingkat",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "batu-tambun",
+    "name": "Batu Tambun",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "batu-sundung",
+    "name": "Batu Sundung",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "garonggang",
+    "name": "Garonggang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "nabonggal",
+    "name": "Nabonggal",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sampuran",
+    "name": "Sampuran",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "hajoran",
+    "name": "Hajoran",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "tanjung-siram",
+    "name": "Tanjung Siram",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "garoga",
+    "name": "Garoga",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "pagaran-sikkam",
+    "name": "Pagaran Sikkam",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "pagaran-tonga",
+    "name": "Pagaran Tonga",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "gunung-tua-julu",
+    "name": "Gunung Tua Julu",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "gunung-tua-baru",
+    "name": "Gunung Tua Baru",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "batang-baruhar-julu",
+    "name": "Batang Baruhar Julu",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "batang-baruhar-jae",
+    "name": "Batang Baruhar Jae",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "huta-lombang",
+    "name": "Huta Lombang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "purba-sinomba",
+    "name": "Purba Sinomba",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sibagasi",
+    "name": "Sibagasi",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sunge-durian",
+    "name": "Sunge Durian",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sunge-orosan",
+    "name": "Sunge Orosan",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "lubuk-torop",
+    "name": "Lubuk Torop",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "liang-asona",
+    "name": "Liang Asona",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "simandiangin-dolok",
+    "name": "Simandiangin Dolok",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "simandiangin-lombang",
+    "name": "Simandiangin Lombang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "hutaimbaru-ii",
+    "name": "Hutaimbaru Ii",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "purba-tua",
+    "name": "Purba Tua",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "tanjung-marulak",
+    "name": "Tanjung Marulak",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "siombob",
+    "name": "Siombob",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "ambasang-natigor",
+    "name": "Ambasang Natigor",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "aek-gambir",
+    "name": "Aek Gambir",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "napa-gadung-laut",
+    "name": "Napa Gadung Laut",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "rampa-julu",
+    "name": "Rampa Julu",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "rampa-jae",
+    "name": "Rampa Jae",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sigimbal",
+    "name": "Sigimbal",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "mananti-marenti",
+    "name": "Mananti (Marenti)",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "paran-padang",
+    "name": "Paran Padang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "rahuning-jae",
+    "name": "Rahuning Jae",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "botung",
+    "name": "Botung",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "dolok-sae",
+    "name": "Dolok Sae",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sihapas-hapas",
+    "name": "Sihapas Hapas",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "batu-mamak",
+    "name": "Batu Mamak",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "losung-batu",
+    "name": "Losung Batu",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "sunge-tolang",
+    "name": "Sunge Tolang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "simasi",
+    "name": "Simasi",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "aek-jangkang",
+    "name": "Aek Jangkang",
+    "district": "padang-bolak"
+  },
+  {
+    "id": "simbolon",
+    "name": "Simbolon",
+    "district": "padang-bolak"
+  }
+]

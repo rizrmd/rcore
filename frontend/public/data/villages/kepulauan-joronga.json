@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gonone",
+    "name": "Gonone",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "pulau-gala",
+    "name": "Pulau Gala",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "tawabi",
+    "name": "Tawabi",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "kukupang",
+    "name": "Kukupang",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "kurunga",
+    "name": "Kurunga",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "yomen",
+    "name": "Yomen",
+    "district": "kepulauan-joronga"
+  },
+  {
+    "id": "liboba-hijrah",
+    "name": "Liboba Hijrah",
+    "district": "kepulauan-joronga"
+  }
+]

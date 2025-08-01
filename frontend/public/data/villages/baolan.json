@@ -1,0 +1,47 @@
+[
+  {
+    "id": "dadakitan",
+    "name": "Dadakitan",
+    "district": "baolan"
+  },
+  {
+    "id": "panasakan",
+    "name": "Panasakan",
+    "district": "baolan"
+  },
+  {
+    "id": "sidoarjo",
+    "name": "Sidoarjo",
+    "district": "baolan"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "baolan"
+  },
+  {
+    "id": "nalu",
+    "name": "Nalu",
+    "district": "baolan"
+  },
+  {
+    "id": "tambun",
+    "name": "Tambun",
+    "district": "baolan"
+  },
+  {
+    "id": "buntuna",
+    "name": "Buntuna",
+    "district": "baolan"
+  },
+  {
+    "id": "lelean-nono",
+    "name": "Lelean Nono",
+    "district": "baolan"
+  },
+  {
+    "id": "pangi",
+    "name": "Pangi",
+    "district": "baolan"
+  }
+]

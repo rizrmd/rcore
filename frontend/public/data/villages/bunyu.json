@@ -1,0 +1,17 @@
+[
+  {
+    "id": "bunyu-barat",
+    "name": "Bunyu Barat",
+    "district": "bunyu"
+  },
+  {
+    "id": "bunyu-selatan",
+    "name": "Bunyu Selatan",
+    "district": "bunyu"
+  },
+  {
+    "id": "bunyu-timur",
+    "name": "Bunyu Timur",
+    "district": "bunyu"
+  }
+]

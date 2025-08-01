@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sillu",
+    "name": "Sillu",
+    "district": "fautmolo"
+  },
+  {
+    "id": "oeleon",
+    "name": "Oeleon",
+    "district": "fautmolo"
+  },
+  {
+    "id": "kaeneno",
+    "name": "Kaeneno",
+    "district": "fautmolo"
+  },
+  {
+    "id": "nunuhakniti",
+    "name": "Nunuhakniti",
+    "district": "fautmolo"
+  },
+  {
+    "id": "bileon",
+    "name": "Bileon",
+    "district": "fautmolo"
+  },
+  {
+    "id": "tunis",
+    "name": "Tunis",
+    "district": "fautmolo"
+  }
+]

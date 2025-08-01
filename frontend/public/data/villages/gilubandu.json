@@ -1,0 +1,47 @@
+[
+  {
+    "id": "martelo",
+    "name": "Martelo",
+    "district": "gilubandu"
+  },
+  {
+    "id": "egoni",
+    "name": "Egoni",
+    "district": "gilubandu"
+  },
+  {
+    "id": "tinggom",
+    "name": "Tinggom",
+    "district": "gilubandu"
+  },
+  {
+    "id": "yakep",
+    "name": "Yakep",
+    "district": "gilubandu"
+  },
+  {
+    "id": "baguni",
+    "name": "Baguni",
+    "district": "gilubandu"
+  },
+  {
+    "id": "yamulo",
+    "name": "Yamulo",
+    "district": "gilubandu"
+  },
+  {
+    "id": "welesi",
+    "name": "Welesi",
+    "district": "gilubandu"
+  },
+  {
+    "id": "orelukban",
+    "name": "Orelukban",
+    "district": "gilubandu"
+  },
+  {
+    "id": "kulutin",
+    "name": "Kulutin",
+    "district": "gilubandu"
+  }
+]

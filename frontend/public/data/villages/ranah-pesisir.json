@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sungai-tunu",
+    "name": "Sungai Tunu",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "palangai",
+    "name": "Palangai",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "sungai-tunu-barat",
+    "name": "Sungai Tunu Barat",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "sungai-tunu-utara",
+    "name": "Sungai Tunu Utara",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "nyiur-melambai-pelangai",
+    "name": "Nyiur Melambai Pelangai",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "pelangai-kaciak",
+    "name": "Pelangai Kaciak",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "pelangai-gadang",
+    "name": "Pelangai Gadang",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "koto-viii-pelangai",
+    "name": "Koto Viii Pelangai",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "pasia-pelangai",
+    "name": "Pasia Pelangai",
+    "district": "ranah-pesisir"
+  },
+  {
+    "id": "sungai-liku-pelangai",
+    "name": "Sungai Liku Pelangai",
+    "district": "ranah-pesisir"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sungai-ungar-utara",
+    "name": "Sungai Ungar Utara",
+    "district": "kundur-utara"
+  },
+  {
+    "id": "tanjung-berlian-kota",
+    "name": "Tanjung Berlian Kota",
+    "district": "kundur-utara"
+  },
+  {
+    "id": "teluk-radang",
+    "name": "Teluk Radang",
+    "district": "kundur-utara"
+  },
+  {
+    "id": "tanjung-berlian-barat",
+    "name": "Tanjung Berlian Barat",
+    "district": "kundur-utara"
+  },
+  {
+    "id": "perayun",
+    "name": "Perayun",
+    "district": "kundur-utara"
+  }
+]

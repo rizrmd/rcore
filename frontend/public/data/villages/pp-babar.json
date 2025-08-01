@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tela",
+    "name": "Tela",
+    "district": "pp-babar"
+  },
+  {
+    "id": "imroing",
+    "name": "Imroing",
+    "district": "pp-babar"
+  },
+  {
+    "id": "tepa",
+    "name": "Tepa",
+    "district": "pp-babar"
+  },
+  {
+    "id": "letsiara",
+    "name": "Letsiara",
+    "district": "pp-babar"
+  },
+  {
+    "id": "manuwui",
+    "name": "Manuwui",
+    "district": "pp-babar"
+  },
+  {
+    "id": "hertuti",
+    "name": "Hertuti",
+    "district": "pp-babar"
+  },
+  {
+    "id": "lewah",
+    "name": "Lewah",
+    "district": "pp-babar"
+  },
+  {
+    "id": "sinairusi",
+    "name": "Sinairusi",
+    "district": "pp-babar"
+  },
+  {
+    "id": "yaltubung",
+    "name": "Yaltubung",
+    "district": "pp-babar"
+  }
+]

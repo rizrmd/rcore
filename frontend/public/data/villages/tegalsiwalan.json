@@ -1,0 +1,47 @@
+[
+  {
+    "id": "malasanwetan",
+    "name": "Malasanwetan",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "tegalsono",
+    "name": "Tegalsono",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "bulujarankidul",
+    "name": "Bulujarankidul",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "bulujaranlor",
+    "name": "Bulujaranlor",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "paras",
+    "name": "Paras",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "tegalsiwalan",
+    "name": "Tegalsiwalan",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "banjarsawah",
+    "name": "Banjarsawah",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "bladukulon",
+    "name": "Bladukulon",
+    "district": "tegalsiwalan"
+  },
+  {
+    "id": "tegalmojo",
+    "name": "Tegalmojo",
+    "district": "tegalsiwalan"
+  }
+]

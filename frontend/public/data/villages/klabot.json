@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mlawes",
+    "name": "Mlawes",
+    "district": "klabot"
+  },
+  {
+    "id": "malat",
+    "name": "Malat",
+    "district": "klabot"
+  },
+  {
+    "id": "klabot",
+    "name": "Klabot",
+    "district": "klabot"
+  },
+  {
+    "id": "indiwi",
+    "name": "Indiwi",
+    "district": "klabot"
+  },
+  {
+    "id": "warkti",
+    "name": "Warkti",
+    "district": "klabot"
+  },
+  {
+    "id": "somir",
+    "name": "Somir",
+    "district": "klabot"
+  },
+  {
+    "id": "klanolo",
+    "name": "Klanolo",
+    "district": "klabot"
+  },
+  {
+    "id": "mlasfa",
+    "name": "Mlasfa",
+    "district": "klabot"
+  }
+]

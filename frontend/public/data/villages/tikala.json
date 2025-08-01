@@ -1,0 +1,62 @@
+[
+  {
+    "id": "banjer",
+    "name": "Banjer",
+    "district": "tikala"
+  },
+  {
+    "id": "tikala-baru",
+    "name": "Tikala Baru",
+    "district": "tikala"
+  },
+  {
+    "id": "paal-iv",
+    "name": "Paal Iv",
+    "district": "tikala"
+  },
+  {
+    "id": "taas",
+    "name": "Taas",
+    "district": "tikala"
+  },
+  {
+    "id": "tikala-ares",
+    "name": "Tikala Ares",
+    "district": "tikala"
+  },
+  {
+    "id": "kelurahan-buntu-barana",
+    "name": "Kelurahan Buntu Barana",
+    "district": "tikala"
+  },
+  {
+    "id": "kelurahan-tikala",
+    "name": "Kelurahan Tikala",
+    "district": "tikala"
+  },
+  {
+    "id": "lembang-sereale",
+    "name": "Lembang Sereale",
+    "district": "tikala"
+  },
+  {
+    "id": "lembang-buntu-batu",
+    "name": "Lembang Buntu Batu",
+    "district": "tikala"
+  },
+  {
+    "id": "lembang-embatau",
+    "name": "Lembang Embatau",
+    "district": "tikala"
+  },
+  {
+    "id": "lembang-benteng-kado-toria",
+    "name": "Lembang Benteng Ka'Do To'Ria",
+    "district": "tikala"
+  },
+  {
+    "id": "lembang-pangden",
+    "name": "Lembang Pangden",
+    "district": "tikala"
+  }
+]

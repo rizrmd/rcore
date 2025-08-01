@@ -1,0 +1,37 @@
+[
+  {
+    "id": "giwangan",
+    "name": "Giwangan",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "sorosutan",
+    "name": "Sorosutan",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "pandeyan",
+    "name": "Pandeyan",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "warungboto",
+    "name": "Warungboto",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "tahunan",
+    "name": "Tahunan",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "muja-muju",
+    "name": "Muja Muju",
+    "district": "umbulharjo"
+  },
+  {
+    "id": "semaki",
+    "name": "Semaki",
+    "district": "umbulharjo"
+  }
+]

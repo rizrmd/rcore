@@ -1,0 +1,32 @@
+[
+  {
+    "id": "benteng-sawitto",
+    "name": "Benteng Sawitto",
+    "district": "paleteang"
+  },
+  {
+    "id": "laleng-bata",
+    "name": "Laleng Bata",
+    "district": "paleteang"
+  },
+  {
+    "id": "temmassarangnge",
+    "name": "Temmassarangnge",
+    "district": "paleteang"
+  },
+  {
+    "id": "pacongang",
+    "name": "Pacongang",
+    "district": "paleteang"
+  },
+  {
+    "id": "macinnae",
+    "name": "Macinnae",
+    "district": "paleteang"
+  },
+  {
+    "id": "mamminasae",
+    "name": "Mamminasae",
+    "district": "paleteang"
+  }
+]

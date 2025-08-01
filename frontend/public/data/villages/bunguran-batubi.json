@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sedanau-timur",
+    "name": "Sedanau Timur",
+    "district": "bunguran-batubi"
+  },
+  {
+    "id": "sedarat-baru",
+    "name": "Sedarat Baru",
+    "district": "bunguran-batubi"
+  },
+  {
+    "id": "batubi-jaya",
+    "name": "Batubi Jaya",
+    "district": "bunguran-batubi"
+  },
+  {
+    "id": "gunung-putri",
+    "name": "Gunung Putri",
+    "district": "bunguran-batubi"
+  },
+  {
+    "id": "semedang",
+    "name": "Semedang",
+    "district": "bunguran-batubi"
+  }
+]

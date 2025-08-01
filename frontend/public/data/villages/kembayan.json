@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kelompu",
+    "name": "Kelompu",
+    "district": "kembayan"
+  },
+  {
+    "id": "tanap",
+    "name": "Tanap",
+    "district": "kembayan"
+  },
+  {
+    "id": "mobui",
+    "name": "Mobui",
+    "district": "kembayan"
+  },
+  {
+    "id": "sejuah",
+    "name": "Sejuah",
+    "district": "kembayan"
+  },
+  {
+    "id": "tanjung-merpati",
+    "name": "Tanjung Merpati",
+    "district": "kembayan"
+  },
+  {
+    "id": "sebongkuh",
+    "name": "Sebongkuh",
+    "district": "kembayan"
+  },
+  {
+    "id": "kuala-dua",
+    "name": "Kuala Dua",
+    "district": "kembayan"
+  },
+  {
+    "id": "tunggal-bhakti",
+    "name": "Tunggal Bhakti",
+    "district": "kembayan"
+  },
+  {
+    "id": "semayang",
+    "name": "Semayang",
+    "district": "kembayan"
+  },
+  {
+    "id": "tanjung-bunga",
+    "name": "Tanjung Bunga",
+    "district": "kembayan"
+  }
+]

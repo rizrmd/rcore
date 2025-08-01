@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pattunuang",
+    "name": "Pattunuang",
+    "district": "wajo"
+  },
+  {
+    "id": "melayu-baru",
+    "name": "Melayu Baru",
+    "district": "wajo"
+  },
+  {
+    "id": "melayu",
+    "name": "Melayu",
+    "district": "wajo"
+  },
+  {
+    "id": "mampu",
+    "name": "Mampu",
+    "district": "wajo"
+  },
+  {
+    "id": "malimongan",
+    "name": "Malimongan",
+    "district": "wajo"
+  },
+  {
+    "id": "malimongan-tua",
+    "name": "Malimongan Tua",
+    "district": "wajo"
+  }
+]

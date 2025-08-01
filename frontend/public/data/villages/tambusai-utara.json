@@ -1,0 +1,57 @@
+[
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "mahato-sakti",
+    "name": "Mahato Sakti",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "rantau-sakti",
+    "name": "Rantau Sakti",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "payung-sekaki",
+    "name": "Payung Sekaki",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "pagar-mayang",
+    "name": "Pagar Mayang",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "simpang-harapan",
+    "name": "Simpang Harapan",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "tambusai-utara",
+    "name": "Tambusai Utara",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "tambusai-utara"
+  },
+  {
+    "id": "mahato",
+    "name": "Mahato",
+    "district": "tambusai-utara"
+  }
+]

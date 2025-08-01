@@ -1,0 +1,57 @@
+[
+  {
+    "id": "raman-aji",
+    "name": "Raman Aji",
+    "district": "raman-utara"
+  },
+  {
+    "id": "rukti-sediyo",
+    "name": "Rukti Sediyo",
+    "district": "raman-utara"
+  },
+  {
+    "id": "ratna-daya",
+    "name": "Ratna Daya",
+    "district": "raman-utara"
+  },
+  {
+    "id": "kota-raman",
+    "name": "Kota Raman",
+    "district": "raman-utara"
+  },
+  {
+    "id": "rejo-binangun",
+    "name": "Rejo Binangun",
+    "district": "raman-utara"
+  },
+  {
+    "id": "rantau-fajar",
+    "name": "Rantau Fajar",
+    "district": "raman-utara"
+  },
+  {
+    "id": "raman-endra",
+    "name": "Raman Endra",
+    "district": "raman-utara"
+  },
+  {
+    "id": "raman-fajar",
+    "name": "Raman Fajar",
+    "district": "raman-utara"
+  },
+  {
+    "id": "restu-rahayu",
+    "name": "Restu Rahayu",
+    "district": "raman-utara"
+  },
+  {
+    "id": "rejo-katon",
+    "name": "Rejo Katon",
+    "district": "raman-utara"
+  },
+  {
+    "id": "rama-puja",
+    "name": "Rama Puja",
+    "district": "raman-utara"
+  }
+]

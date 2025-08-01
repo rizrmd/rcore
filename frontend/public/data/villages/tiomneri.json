@@ -1,0 +1,37 @@
+[
+  {
+    "id": "argeneri",
+    "name": "Argeneri",
+    "district": "tiomneri"
+  },
+  {
+    "id": "kuabaga",
+    "name": "Kuabaga",
+    "district": "tiomneri"
+  },
+  {
+    "id": "milinggame",
+    "name": "Milinggame",
+    "district": "tiomneri"
+  },
+  {
+    "id": "gubo",
+    "name": "Gubo",
+    "district": "tiomneri"
+  },
+  {
+    "id": "ponuma",
+    "name": "Ponuma",
+    "district": "tiomneri"
+  },
+  {
+    "id": "arungwi",
+    "name": "Arungwi",
+    "district": "tiomneri"
+  },
+  {
+    "id": "gubulela",
+    "name": "Gubulela",
+    "district": "tiomneri"
+  }
+]

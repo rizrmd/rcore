@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bukit-lama",
+    "name": "Bukit Lama",
+    "district": "ilir-barat-i"
+  },
+  {
+    "id": "26-ilir-i",
+    "name": "26 Ilir I",
+    "district": "ilir-barat-i"
+  },
+  {
+    "id": "lorok-pakjo",
+    "name": "Lorok Pakjo",
+    "district": "ilir-barat-i"
+  },
+  {
+    "id": "demang-lebar-daun",
+    "name": "Demang Lebar Daun",
+    "district": "ilir-barat-i"
+  },
+  {
+    "id": "bukit-baru",
+    "name": "Bukit Baru",
+    "district": "ilir-barat-i"
+  },
+  {
+    "id": "siring-agung",
+    "name": "Siring Agung",
+    "district": "ilir-barat-i"
+  }
+]

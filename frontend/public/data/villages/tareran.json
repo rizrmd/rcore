@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kaneyan",
+    "name": "Kaneyan",
+    "district": "tareran"
+  },
+  {
+    "id": "koreng",
+    "name": "Koreng",
+    "district": "tareran"
+  },
+  {
+    "id": "tumaluntung",
+    "name": "Tumaluntung",
+    "district": "tareran"
+  },
+  {
+    "id": "lansot",
+    "name": "Lansot",
+    "district": "tareran"
+  },
+  {
+    "id": "rumoong-atas",
+    "name": "Rumoong Atas",
+    "district": "tareran"
+  },
+  {
+    "id": "pinamorongan",
+    "name": "Pinamorongan",
+    "district": "tareran"
+  },
+  {
+    "id": "wiau-lapi",
+    "name": "Wiau Lapi",
+    "district": "tareran"
+  },
+  {
+    "id": "rumoong-atas-dua",
+    "name": "Rumoong Atas Dua",
+    "district": "tareran"
+  },
+  {
+    "id": "tumaluntung-satu",
+    "name": "Tumaluntung Satu",
+    "district": "tareran"
+  },
+  {
+    "id": "wuwuk-barat",
+    "name": "Wuwuk Barat",
+    "district": "tareran"
+  },
+  {
+    "id": "wiau-lapi-barat",
+    "name": "Wiau Lapi Barat",
+    "district": "tareran"
+  },
+  {
+    "id": "lansot-timur",
+    "name": "Lansot Timur",
+    "district": "tareran"
+  }
+]

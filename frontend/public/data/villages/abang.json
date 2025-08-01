@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ababi",
+    "name": "Ababi",
+    "district": "abang"
+  },
+  {
+    "id": "tiyingtali",
+    "name": "Tiyingtali",
+    "district": "abang"
+  },
+  {
+    "id": "abang",
+    "name": "Abang",
+    "district": "abang"
+  },
+  {
+    "id": "pidpid",
+    "name": "Pidpid",
+    "district": "abang"
+  },
+  {
+    "id": "nawakerti",
+    "name": "Nawakerti",
+    "district": "abang"
+  },
+  {
+    "id": "kesimpar",
+    "name": "Kesimpar",
+    "district": "abang"
+  },
+  {
+    "id": "tista",
+    "name": "Tista",
+    "district": "abang"
+  },
+  {
+    "id": "kerta-mandala",
+    "name": "Kerta Mandala",
+    "district": "abang"
+  },
+  {
+    "id": "culik",
+    "name": "Culik",
+    "district": "abang"
+  },
+  {
+    "id": "datah",
+    "name": "Datah",
+    "district": "abang"
+  },
+  {
+    "id": "laba-sari",
+    "name": "Laba Sari",
+    "district": "abang"
+  },
+  {
+    "id": "purwakerti",
+    "name": "Purwakerti",
+    "district": "abang"
+  },
+  {
+    "id": "bunutan",
+    "name": "Bunutan",
+    "district": "abang"
+  },
+  {
+    "id": "tri-buana",
+    "name": "Tri Buana",
+    "district": "abang"
+  }
+]

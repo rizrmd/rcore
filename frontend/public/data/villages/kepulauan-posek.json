@@ -1,0 +1,17 @@
+[
+  {
+    "id": "posek",
+    "name": "Posek",
+    "district": "kepulauan-posek"
+  },
+  {
+    "id": "suak-buaya",
+    "name": "Suak Buaya",
+    "district": "kepulauan-posek"
+  },
+  {
+    "id": "busung-panjang",
+    "name": "Busung Panjang",
+    "district": "kepulauan-posek"
+  }
+]

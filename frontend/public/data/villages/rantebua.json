@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lembang-rante-bua-sanggalangi",
+    "name": "Lembang Rante Bua Sanggalangi",
+    "district": "rantebua"
+  },
+  {
+    "id": "lembang-rante-bua-samalu",
+    "name": "Lembang Rante Bua Samalu",
+    "district": "rantebua"
+  },
+  {
+    "id": "lembang-rante-bua",
+    "name": "Lembang Rante Bua",
+    "district": "rantebua"
+  },
+  {
+    "id": "kelurahan-buangin",
+    "name": "Kelurahan Buangin",
+    "district": "rantebua"
+  },
+  {
+    "id": "kelurahan-bokin",
+    "name": "Kelurahan Bokin",
+    "district": "rantebua"
+  },
+  {
+    "id": "lembang-makkuan-pare",
+    "name": "Lembang Makkuan Pare",
+    "district": "rantebua"
+  },
+  {
+    "id": "lembang-pitung-penanian",
+    "name": "Lembang Pitung Penanian",
+    "district": "rantebua"
+  }
+]

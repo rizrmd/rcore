@@ -1,0 +1,62 @@
+[
+  {
+    "id": "randegan",
+    "name": "Randegan",
+    "district": "wangon"
+  },
+  {
+    "id": "rawaheng",
+    "name": "Rawaheng",
+    "district": "wangon"
+  },
+  {
+    "id": "pangadegan",
+    "name": "Pangadegan",
+    "district": "wangon"
+  },
+  {
+    "id": "klapagading",
+    "name": "Klapagading",
+    "district": "wangon"
+  },
+  {
+    "id": "klapagading-kulon",
+    "name": "Klapagading Kulon",
+    "district": "wangon"
+  },
+  {
+    "id": "wangon",
+    "name": "Wangon",
+    "district": "wangon"
+  },
+  {
+    "id": "banteran",
+    "name": "Banteran",
+    "district": "wangon"
+  },
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "wangon"
+  },
+  {
+    "id": "jurangbahas",
+    "name": "Jurangbahas",
+    "district": "wangon"
+  },
+  {
+    "id": "cikakak",
+    "name": "Cikakak",
+    "district": "wangon"
+  },
+  {
+    "id": "wlahar",
+    "name": "Wlahar",
+    "district": "wangon"
+  },
+  {
+    "id": "windunegara",
+    "name": "Windunegara",
+    "district": "wangon"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lalang",
+    "name": "Lalang",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "kawat",
+    "name": "Kawat",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "pulau-tayan-utara",
+    "name": "Pulau Tayan Utara",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "pedalaman",
+    "name": "Pedalaman",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "tanjung-bunut",
+    "name": "Tanjung Bunut",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "sebemban",
+    "name": "Sebemban",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "beginjan",
+    "name": "Beginjan",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "sungai-jaman",
+    "name": "Sungai Jaman",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "emberas",
+    "name": "Emberas",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "melugai",
+    "name": "Melugai",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "cempedak",
+    "name": "Cempedak",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "sejotang",
+    "name": "Sejotang",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "subah",
+    "name": "Subah",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "tebang-benua",
+    "name": "Tebang Benua",
+    "district": "tayan-hilir"
+  },
+  {
+    "id": "balai-ingin",
+    "name": "Balai Ingin",
+    "district": "tayan-hilir"
+  }
+]

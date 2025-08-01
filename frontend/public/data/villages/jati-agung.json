@@ -1,0 +1,107 @@
+[
+  {
+    "id": "way-huwi",
+    "name": "Way Huwi",
+    "district": "jati-agung"
+  },
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "jati-agung"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "jati-agung"
+  },
+  {
+    "id": "gedung-harapan",
+    "name": "Gedung Harapan",
+    "district": "jati-agung"
+  },
+  {
+    "id": "gedung-agung",
+    "name": "Gedung Agung",
+    "district": "jati-agung"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "jati-agung"
+  },
+  {
+    "id": "sidodadi-asri",
+    "name": "Sidodadi Asri",
+    "district": "jati-agung"
+  },
+  {
+    "id": "purwotani",
+    "name": "Purwotani",
+    "district": "jati-agung"
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "jati-agung"
+  },
+  {
+    "id": "margodadi",
+    "name": "Margodadi",
+    "district": "jati-agung"
+  },
+  {
+    "id": "margo-lestari",
+    "name": "Margo Lestari",
+    "district": "jati-agung"
+  },
+  {
+    "id": "marga-agung",
+    "name": "Marga Agung",
+    "district": "jati-agung"
+  },
+  {
+    "id": "marga-kaya",
+    "name": "Marga Kaya",
+    "district": "jati-agung"
+  },
+  {
+    "id": "sinar-rejeki",
+    "name": "Sinar Rejeki",
+    "district": "jati-agung"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "jati-agung"
+  },
+  {
+    "id": "rejomulyo",
+    "name": "Rejomulyo",
+    "district": "jati-agung"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "jati-agung"
+  },
+  {
+    "id": "fajar-baru",
+    "name": "Fajar Baru",
+    "district": "jati-agung"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "jati-agung"
+  },
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "jati-agung"
+  },
+  {
+    "id": "margorejo",
+    "name": "Margorejo",
+    "district": "jati-agung"
+  }
+]

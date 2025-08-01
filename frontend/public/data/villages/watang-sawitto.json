@@ -1,0 +1,37 @@
+[
+  {
+    "id": "siparappe",
+    "name": "Siparappe",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "salo",
+    "name": "Salo",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "sipatokkong",
+    "name": "Sipatokkong",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "penrang",
+    "name": "Penrang",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "jaya",
+    "name": "Jaya",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "sawitto",
+    "name": "Sawitto",
+    "district": "watang-sawitto"
+  },
+  {
+    "id": "macorawalie",
+    "name": "Macorawalie",
+    "district": "watang-sawitto"
+  }
+]

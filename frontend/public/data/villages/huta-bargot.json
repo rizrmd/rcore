@@ -1,0 +1,72 @@
+[
+  {
+    "id": "huta-bargot-dolok",
+    "name": "Huta Bargot Dolok",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "huta-bargot-nauli",
+    "name": "Huta Bargot Nauli",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "pasar-huta-bargot",
+    "name": "Pasar Huta Bargot",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "bangun-sejati",
+    "name": "Bangun Sejati",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "huta-bargot-lombang",
+    "name": "Huta Bargot Lombang",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "huta-bargot-setia",
+    "name": "Huta Bargot Setia",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "mondan",
+    "name": "Mondan",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "sayur-maincat",
+    "name": "Sayur Maincat",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "simalagi",
+    "name": "Simalagi",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "hutarimbaru",
+    "name": "Hutarimbaru",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "kumpulan-setia",
+    "name": "Kumpulan Setia",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "hutanaingkan",
+    "name": "Hutanaingkan",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "binanga",
+    "name": "Binanga",
+    "district": "huta-bargot"
+  },
+  {
+    "id": "saba-padang",
+    "name": "Saba Padang",
+    "district": "huta-bargot"
+  }
+]

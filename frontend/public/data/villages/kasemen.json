@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kasemen",
+    "name": "Kasemen",
+    "district": "kasemen"
+  },
+  {
+    "id": "warung-jaud",
+    "name": "Warung Jaud",
+    "district": "kasemen"
+  },
+  {
+    "id": "mesjid-priyayi",
+    "name": "Mesjid Priyayi",
+    "district": "kasemen"
+  },
+  {
+    "id": "sawah-luhur",
+    "name": "Sawah Luhur",
+    "district": "kasemen"
+  },
+  {
+    "id": "kilasah",
+    "name": "Kilasah",
+    "district": "kasemen"
+  },
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "kasemen"
+  },
+  {
+    "id": "kasunyatan",
+    "name": "Kasunyatan",
+    "district": "kasemen"
+  },
+  {
+    "id": "banten",
+    "name": "Banten",
+    "district": "kasemen"
+  }
+]

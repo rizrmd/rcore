@@ -1,0 +1,22 @@
+[
+  {
+    "id": "klaisu",
+    "name": "Klaisu",
+    "district": "gresi-selatan"
+  },
+  {
+    "id": "bangai",
+    "name": "Bangai",
+    "district": "gresi-selatan"
+  },
+  {
+    "id": "iwon",
+    "name": "Iwon",
+    "district": "gresi-selatan"
+  },
+  {
+    "id": "omon",
+    "name": "Omon",
+    "district": "gresi-selatan"
+  }
+]

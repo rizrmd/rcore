@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lubuk-palas",
+    "name": "Lubuk Palas",
+    "district": "silau-laut"
+  },
+  {
+    "id": "silo-baru",
+    "name": "Silo Baru",
+    "district": "silau-laut"
+  },
+  {
+    "id": "silo-bonto",
+    "name": "Silo Bonto",
+    "district": "silau-laut"
+  },
+  {
+    "id": "silo-lama",
+    "name": "Silo Lama",
+    "district": "silau-laut"
+  },
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "silau-laut"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bukit-bestari",
+    "name": "Bukit Bestari",
+    "regency": "kota-tanjung-pinang"
+  },
+  {
+    "id": "tanjungpinang-timur",
+    "name": "Tanjungpinang Timur",
+    "regency": "kota-tanjung-pinang"
+  },
+  {
+    "id": "tanjungpinang-kota",
+    "name": "Tanjungpinang Kota",
+    "regency": "kota-tanjung-pinang"
+  },
+  {
+    "id": "tanjungpinang-barat",
+    "name": "Tanjungpinang Barat",
+    "regency": "kota-tanjung-pinang"
+  }
+]

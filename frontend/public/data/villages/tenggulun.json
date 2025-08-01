@@ -1,0 +1,27 @@
+[
+  {
+    "id": "selamat",
+    "name": "Selamat",
+    "district": "tenggulun"
+  },
+  {
+    "id": "tenggulun",
+    "name": "Tenggulun",
+    "district": "tenggulun"
+  },
+  {
+    "id": "rimba-sawang",
+    "name": "Rimba Sawang",
+    "district": "tenggulun"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "tenggulun"
+  },
+  {
+    "id": "simpang-kiri",
+    "name": "Simpang Kiri",
+    "district": "tenggulun"
+  }
+]

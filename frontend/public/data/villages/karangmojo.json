@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "karangmojo"
+  },
+  {
+    "id": "bejiharjo",
+    "name": "Bejiharjo",
+    "district": "karangmojo"
+  },
+  {
+    "id": "wiladeg",
+    "name": "Wiladeg",
+    "district": "karangmojo"
+  },
+  {
+    "id": "kelor",
+    "name": "Kelor",
+    "district": "karangmojo"
+  },
+  {
+    "id": "ngipak",
+    "name": "Ngipak",
+    "district": "karangmojo"
+  },
+  {
+    "id": "karangmojo",
+    "name": "Karangmojo",
+    "district": "karangmojo"
+  },
+  {
+    "id": "gedang-rejo",
+    "name": "Gedang Rejo",
+    "district": "karangmojo"
+  },
+  {
+    "id": "ngawis",
+    "name": "Ngawis",
+    "district": "karangmojo"
+  },
+  {
+    "id": "jati-ayu",
+    "name": "Jati Ayu",
+    "district": "karangmojo"
+  }
+]

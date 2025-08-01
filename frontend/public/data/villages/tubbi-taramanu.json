@@ -1,0 +1,62 @@
+[
+  {
+    "id": "taramanu",
+    "name": "Taramanu",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "ambopadang",
+    "name": "Ambopadang",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "tubbi",
+    "name": "Tubbi",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "ratte",
+    "name": "Ratte",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "besoangin",
+    "name": "Besoangin",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "piriang-tapiko",
+    "name": "Piriang Tapiko",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "pollewani",
+    "name": "Pollewani",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "poda",
+    "name": "Poda",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "besoangin-utara",
+    "name": "Besoangin Utara",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "arabua",
+    "name": "Arabua",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "taramanu-tua",
+    "name": "Taramanu Tua",
+    "district": "tubbi-taramanu"
+  },
+  {
+    "id": "taloba",
+    "name": "Taloba",
+    "district": "tubbi-taramanu"
+  }
+]

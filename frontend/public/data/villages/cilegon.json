@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bagendung",
+    "name": "Bagendung",
+    "district": "cilegon"
+  },
+  {
+    "id": "ciwedus",
+    "name": "Ciwedus",
+    "district": "cilegon"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "cilegon"
+  },
+  {
+    "id": "ciwaduk",
+    "name": "Ciwaduk",
+    "district": "cilegon"
+  },
+  {
+    "id": "ketileng",
+    "name": "Ketileng",
+    "district": "cilegon"
+  }
+]

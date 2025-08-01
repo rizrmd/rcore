@@ -1,0 +1,82 @@
+[
+  {
+    "id": "caturanom",
+    "name": "Caturanom",
+    "district": "parakan"
+  },
+  {
+    "id": "parakan-kauman",
+    "name": "Parakan Kauman",
+    "district": "parakan"
+  },
+  {
+    "id": "parakan-wetan",
+    "name": "Parakan Wetan",
+    "district": "parakan"
+  },
+  {
+    "id": "campursalam",
+    "name": "Campursalam",
+    "district": "parakan"
+  },
+  {
+    "id": "mandisari",
+    "name": "Mandisari",
+    "district": "parakan"
+  },
+  {
+    "id": "dangkel",
+    "name": "Dangkel",
+    "district": "parakan"
+  },
+  {
+    "id": "ringinanom",
+    "name": "Ringinanom",
+    "district": "parakan"
+  },
+  {
+    "id": "depokharjo",
+    "name": "Depokharjo",
+    "district": "parakan"
+  },
+  {
+    "id": "watukumpul",
+    "name": "Watukumpul",
+    "district": "parakan"
+  },
+  {
+    "id": "tegalroso",
+    "name": "Tegalroso",
+    "district": "parakan"
+  },
+  {
+    "id": "glapansari",
+    "name": "Glapansari",
+    "district": "parakan"
+  },
+  {
+    "id": "sunggingsari",
+    "name": "Sunggingsari",
+    "district": "parakan"
+  },
+  {
+    "id": "wanutengah",
+    "name": "Wanutengah",
+    "district": "parakan"
+  },
+  {
+    "id": "traji",
+    "name": "Traji",
+    "district": "parakan"
+  },
+  {
+    "id": "bagusan",
+    "name": "Bagusan",
+    "district": "parakan"
+  },
+  {
+    "id": "nglondong",
+    "name": "Nglondong",
+    "district": "parakan"
+  }
+]

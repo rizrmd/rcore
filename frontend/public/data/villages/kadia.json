@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kadia",
+    "name": "Kadia",
+    "district": "kadia"
+  },
+  {
+    "id": "anaiwoi",
+    "name": "Anaiwoi",
+    "district": "kadia"
+  },
+  {
+    "id": "wowawanggu",
+    "name": "Wowawanggu",
+    "district": "kadia"
+  },
+  {
+    "id": "pondambea",
+    "name": "Pondambea",
+    "district": "kadia"
+  }
+]

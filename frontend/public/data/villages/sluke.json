@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sanetan",
+    "name": "Sanetan",
+    "district": "sluke"
+  },
+  {
+    "id": "rakitan",
+    "name": "Rakitan",
+    "district": "sluke"
+  },
+  {
+    "id": "bendo",
+    "name": "Bendo",
+    "district": "sluke"
+  },
+  {
+    "id": "labuhan-kidul",
+    "name": "Labuhan Kidul",
+    "district": "sluke"
+  },
+  {
+    "id": "sendangmulyo",
+    "name": "Sendangmulyo",
+    "district": "sluke"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "sluke"
+  },
+  {
+    "id": "manggar",
+    "name": "Manggar",
+    "district": "sluke"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "sluke"
+  },
+  {
+    "id": "langgar",
+    "name": "Langgar",
+    "district": "sluke"
+  },
+  {
+    "id": "jurangjero",
+    "name": "Jurangjero",
+    "district": "sluke"
+  },
+  {
+    "id": "leran",
+    "name": "Leran",
+    "district": "sluke"
+  },
+  {
+    "id": "trahan",
+    "name": "Trahan",
+    "district": "sluke"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "sluke"
+  }
+]

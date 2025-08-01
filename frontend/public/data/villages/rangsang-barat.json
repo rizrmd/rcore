@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bantar",
+    "name": "Bantar",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "anak-setatah",
+    "name": "Anak Setatah",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "segomeng",
+    "name": "Segomeng",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "sialang-pasung",
+    "name": "Sialang Pasung",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "lemang",
+    "name": "Lemang",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "sungai-cina",
+    "name": "Sungai Cina",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "bina-maju",
+    "name": "Bina Maju",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "telaga-baru",
+    "name": "Telaga Baru",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "bokor",
+    "name": "Bokor",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "melai",
+    "name": "Melai",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "permai",
+    "name": "Permai",
+    "district": "rangsang-barat"
+  },
+  {
+    "id": "mekar-baru",
+    "name": "Mekar Baru",
+    "district": "rangsang-barat"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sukabumi",
+    "name": "Sukabumi",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "karang-pendeta",
+    "name": "Karang Pendeta",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "sukarena",
+    "name": "Sukarena",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "surabaya",
+    "name": "Surabaya",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "peninggiran",
+    "name": "Peninggiran",
+    "district": "tiga-dihaji"
+  },
+  {
+    "id": "kuripan-2",
+    "name": "Kuripan 2",
+    "district": "tiga-dihaji"
+  }
+]

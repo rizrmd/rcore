@@ -1,0 +1,112 @@
+[
+  {
+    "id": "alue-lim",
+    "name": "Alue Lim",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-buloh",
+    "name": "Blang Buloh",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "mane-kareung",
+    "name": "Mane Kareung",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "asan-kareung",
+    "name": "Asan Kareung",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "rayeuk-kareung",
+    "name": "Rayeuk Kareung",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "kumbang-punteut",
+    "name": "Kumbang Punteut",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-punteut",
+    "name": "Blang Punteut",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "ulee-blang-mane",
+    "name": "Ulee Blang Mane",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "keude-punteut",
+    "name": "Keude Punteut",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "mesjid-punteut",
+    "name": "Mesjid Punteut",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "tunong",
+    "name": "Tunong",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "baloy",
+    "name": "Baloy",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "teungoh",
+    "name": "Teungoh",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-teue",
+    "name": "Blang Teue",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "jambo-timu",
+    "name": "Jambo Timu",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "mesjid-meuraksa",
+    "name": "Mesjid Meuraksa",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-cut",
+    "name": "Blang Cut",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "kuala-meuraksa",
+    "name": "Kuala Meuraksa",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "jeuleukat",
+    "name": "Jeuleukat",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-weu-panjou",
+    "name": "Blang Weu Panjou",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "blang-weu-baroh",
+    "name": "Blang Weu Baroh",
+    "district": "blang-mangat"
+  },
+  {
+    "id": "seuneubok",
+    "name": "Seuneubok",
+    "district": "blang-mangat"
+  }
+]

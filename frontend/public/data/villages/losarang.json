@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ranjeng",
+    "name": "Ranjeng",
+    "district": "losarang"
+  },
+  {
+    "id": "krimun",
+    "name": "Krimun",
+    "district": "losarang"
+  },
+  {
+    "id": "puntang",
+    "name": "Puntang",
+    "district": "losarang"
+  },
+  {
+    "id": "pegagan",
+    "name": "Pegagan",
+    "district": "losarang"
+  },
+  {
+    "id": "rajaiyang",
+    "name": "Rajaiyang",
+    "district": "losarang"
+  },
+  {
+    "id": "jangga",
+    "name": "Jangga",
+    "district": "losarang"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "losarang"
+  },
+  {
+    "id": "losarang",
+    "name": "Losarang",
+    "district": "losarang"
+  },
+  {
+    "id": "santing",
+    "name": "Santing",
+    "district": "losarang"
+  },
+  {
+    "id": "cemara-kulon",
+    "name": "Cemara Kulon",
+    "district": "losarang"
+  }
+]

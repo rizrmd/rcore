@@ -1,0 +1,37 @@
+[
+  {
+    "id": "anjir-serapat-timur",
+    "name": "Anjir Serapat Timur",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-serapat-tengah",
+    "name": "Anjir Serapat Tengah",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-serapat-barat",
+    "name": "Anjir Serapat Barat",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-serapat-baru",
+    "name": "Anjir Serapat Baru",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-mambulau-timur",
+    "name": "Anjir Mambulau Timur",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-mambulau-tengah",
+    "name": "Anjir Mambulau Tengah",
+    "district": "kapuas-timur"
+  },
+  {
+    "id": "anjir-mambulau-barat",
+    "name": "Anjir Mambulau Barat",
+    "district": "kapuas-timur"
+  }
+]

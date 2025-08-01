@@ -1,0 +1,72 @@
+[
+  {
+    "id": "kuli",
+    "name": "Kuli",
+    "district": "lobalain"
+  },
+  {
+    "id": "suelain",
+    "name": "Suelain",
+    "district": "lobalain"
+  },
+  {
+    "id": "bebalain",
+    "name": "Bebalain",
+    "district": "lobalain"
+  },
+  {
+    "id": "kolobolon",
+    "name": "Kolobolon",
+    "district": "lobalain"
+  },
+  {
+    "id": "oematamboli",
+    "name": "Oematamboli",
+    "district": "lobalain"
+  },
+  {
+    "id": "helebeik",
+    "name": "Helebeik",
+    "district": "lobalain"
+  },
+  {
+    "id": "oelunggu",
+    "name": "Oelunggu",
+    "district": "lobalain"
+  },
+  {
+    "id": "mokdale",
+    "name": "Mokdale",
+    "district": "lobalain"
+  },
+  {
+    "id": "sanggaoen",
+    "name": "Sanggaoen",
+    "district": "lobalain"
+  },
+  {
+    "id": "holoama",
+    "name": "Holoama",
+    "district": "lobalain"
+  },
+  {
+    "id": "tuanatuk",
+    "name": "Tuanatuk",
+    "district": "lobalain"
+  },
+  {
+    "id": "baadale",
+    "name": "Baadale",
+    "district": "lobalain"
+  },
+  {
+    "id": "namodale",
+    "name": "Namodale",
+    "district": "lobalain"
+  },
+  {
+    "id": "metina",
+    "name": "Metina",
+    "district": "lobalain"
+  }
+]

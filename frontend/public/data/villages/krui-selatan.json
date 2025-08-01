@@ -1,0 +1,52 @@
+[
+  {
+    "id": "walur",
+    "name": "Walur",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "pemerihan",
+    "name": "Pemerihan",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "lintik",
+    "name": "Lintik",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "suka-jadi",
+    "name": "Suka Jadi",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "padang-haluan",
+    "name": "Padang Haluan",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "way-napal",
+    "name": "Way Napal",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "way-suluh",
+    "name": "Way Suluh",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "padang-raya",
+    "name": "Padang Raya",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "balai-kencana",
+    "name": "Balai Kencana",
+    "district": "krui-selatan"
+  },
+  {
+    "id": "mandiri-sejati",
+    "name": "Mandiri Sejati",
+    "district": "krui-selatan"
+  }
+]

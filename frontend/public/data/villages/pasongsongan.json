@@ -1,0 +1,52 @@
+[
+  {
+    "id": "montorna",
+    "name": "Montorna",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "prancak",
+    "name": "Prancak",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "campaka",
+    "name": "Campaka",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "rajun",
+    "name": "Rajun",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "lebeng-timur",
+    "name": "Lebeng Timur",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "lebeng-barat",
+    "name": "Lebeng Barat",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "soddara",
+    "name": "Soddara",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "pasongsongan",
+    "name": "Pasongsongan",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "panaongan",
+    "name": "Panaongan",
+    "district": "pasongsongan"
+  },
+  {
+    "id": "padangdangan",
+    "name": "Padangdangan",
+    "district": "pasongsongan"
+  }
+]

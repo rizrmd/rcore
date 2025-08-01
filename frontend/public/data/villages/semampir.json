@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ampel",
+    "name": "Ampel",
+    "district": "semampir"
+  },
+  {
+    "id": "sidotopo",
+    "name": "Sidotopo",
+    "district": "semampir"
+  },
+  {
+    "id": "pegirian",
+    "name": "Pegirian",
+    "district": "semampir"
+  },
+  {
+    "id": "wonokusumo",
+    "name": "Wonokusumo",
+    "district": "semampir"
+  }
+]

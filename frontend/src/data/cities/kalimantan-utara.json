@@ -1,0 +1,28 @@
+[
+  {
+    "id": "kabupaten-bulungan",
+    "name": "Bulungan",
+    "province": "kalimantan-utara"
+  },
+  {
+    "id": "kabupaten-malinau",
+    "name": "Malinau",
+    "province": "kalimantan-utara"
+  },
+  {
+    "id": "kabupaten-nunukan",
+    "name": "Nunukan",
+    "province": "kalimantan-utara"
+  },
+  {
+    "id": "kota-tarakan",
+    "name": "Kota Tarakan",
+    "province": "kalimantan-utara"
+  },
+  {
+    "id": "kabupaten-tana-tidung",
+    "name": "Tana Tidung",
+    "province": "kalimantan-utara"
+  }
+]
+

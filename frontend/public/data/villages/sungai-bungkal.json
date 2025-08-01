@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sumur-anyir",
+    "name": "Sumur Anyir",
+    "district": "sungai-bungkal"
+  },
+  {
+    "id": "pelayang-raya",
+    "name": "Pelayang Raya",
+    "district": "sungai-bungkal"
+  },
+  {
+    "id": "talang-lindung",
+    "name": "Talang Lindung",
+    "district": "sungai-bungkal"
+  },
+  {
+    "id": "sungai-ning",
+    "name": "Sungai Ning",
+    "district": "sungai-bungkal"
+  },
+  {
+    "id": "koto-tinggi",
+    "name": "Koto Tinggi",
+    "district": "sungai-bungkal"
+  },
+  {
+    "id": "kelurahan-dusun-baru",
+    "name": "Kelurahan Dusun Baru",
+    "district": "sungai-bungkal"
+  }
+]

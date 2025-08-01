@@ -1,0 +1,37 @@
+[
+  {
+    "id": "manda",
+    "name": "Manda",
+    "district": "bugi"
+  },
+  {
+    "id": "bugi",
+    "name": "Bugi",
+    "district": "bugi"
+  },
+  {
+    "id": "kodlangga",
+    "name": "Kodlangga",
+    "district": "bugi"
+  },
+  {
+    "id": "walak-selatan",
+    "name": "Walak Selatan",
+    "district": "bugi"
+  },
+  {
+    "id": "air-garam",
+    "name": "Air Garam",
+    "district": "bugi"
+  },
+  {
+    "id": "totni",
+    "name": "Totni",
+    "district": "bugi"
+  },
+  {
+    "id": "tagunik",
+    "name": "Tagunik",
+    "district": "bugi"
+  }
+]

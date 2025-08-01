@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pulau-lawas",
+    "name": "Pulau Lawas",
+    "district": "bangkinang"
+  },
+  {
+    "id": "muara-uwai",
+    "name": "Muara Uwai",
+    "district": "bangkinang"
+  },
+  {
+    "id": "pulau",
+    "name": "Pulau",
+    "district": "bangkinang"
+  },
+  {
+    "id": "pasir-sialang",
+    "name": "Pasir Sialang",
+    "district": "bangkinang"
+  },
+  {
+    "id": "bukit-sembilan",
+    "name": "Bukit Sembilan",
+    "district": "bangkinang"
+  },
+  {
+    "id": "laboi-jaya",
+    "name": "Laboi Jaya",
+    "district": "bangkinang"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "bangkinang"
+  },
+  {
+    "id": "bukit-payung",
+    "name": "Bukit Payung",
+    "district": "bangkinang"
+  },
+  {
+    "id": "binuang",
+    "name": "Binuang",
+    "district": "bangkinang"
+  }
+]

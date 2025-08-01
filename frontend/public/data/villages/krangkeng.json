@@ -1,0 +1,47 @@
+[
+  {
+    "id": "purwajaya",
+    "name": "Purwajaya",
+    "district": "krangkeng"
+  },
+  {
+    "id": "kapringan",
+    "name": "Kapringan",
+    "district": "krangkeng"
+  },
+  {
+    "id": "singakerta",
+    "name": "Singakerta",
+    "district": "krangkeng"
+  },
+  {
+    "id": "dukuhjati",
+    "name": "Dukuhjati",
+    "district": "krangkeng"
+  },
+  {
+    "id": "tegalmulya",
+    "name": "Tegalmulya",
+    "district": "krangkeng"
+  },
+  {
+    "id": "luwunggesik",
+    "name": "Luwunggesik",
+    "district": "krangkeng"
+  },
+  {
+    "id": "kalianyar",
+    "name": "Kalianyar",
+    "district": "krangkeng"
+  },
+  {
+    "id": "krangkeng",
+    "name": "Krangkeng",
+    "district": "krangkeng"
+  },
+  {
+    "id": "tanjakan",
+    "name": "Tanjakan",
+    "district": "krangkeng"
+  }
+]

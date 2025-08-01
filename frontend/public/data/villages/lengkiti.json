@@ -1,0 +1,112 @@
+[
+  {
+    "id": "bandar-jaya",
+    "name": "Bandar Jaya",
+    "district": "lengkiti"
+  },
+  {
+    "id": "karang-endah",
+    "name": "Karang Endah",
+    "district": "lengkiti"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "lengkiti"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "lengkiti"
+  },
+  {
+    "id": "tanjung-lengkayap",
+    "name": "Tanjung Lengkayap",
+    "district": "lengkiti"
+  },
+  {
+    "id": "bumi-kawa",
+    "name": "Bumi Kawa",
+    "district": "lengkiti"
+  },
+  {
+    "id": "negeri-ratu",
+    "name": "Negeri Ratu",
+    "district": "lengkiti"
+  },
+  {
+    "id": "lubuk-dalam",
+    "name": "Lubuk Dalam",
+    "district": "lengkiti"
+  },
+  {
+    "id": "segara-kembang",
+    "name": "Segara Kembang",
+    "district": "lengkiti"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "lengkiti"
+  },
+  {
+    "id": "gedung-pakuan",
+    "name": "Gedung Pakuan",
+    "district": "lengkiti"
+  },
+  {
+    "id": "tualang",
+    "name": "Tualang",
+    "district": "lengkiti"
+  },
+  {
+    "id": "sundan",
+    "name": "Sundan",
+    "district": "lengkiti"
+  },
+  {
+    "id": "tihang",
+    "name": "Tihang",
+    "district": "lengkiti"
+  },
+  {
+    "id": "lubuk-hara",
+    "name": "Lubuk Hara",
+    "district": "lengkiti"
+  },
+  {
+    "id": "negeri-agung",
+    "name": "Negeri Agung",
+    "district": "lengkiti"
+  },
+  {
+    "id": "way-heling",
+    "name": "Way Heling",
+    "district": "lengkiti"
+  },
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "lengkiti"
+  },
+  {
+    "id": "umpam",
+    "name": "Umpam",
+    "district": "lengkiti"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "lengkiti"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "lengkiti"
+  },
+  {
+    "id": "fajar-jaya",
+    "name": "Fajar Jaya",
+    "district": "lengkiti"
+  }
+]

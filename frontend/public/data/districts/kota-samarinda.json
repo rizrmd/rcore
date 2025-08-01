@@ -1,0 +1,52 @@
+[
+  {
+    "id": "palaran",
+    "name": "Palaran",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "samarinda-ilir",
+    "name": "Samarinda Ilir",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "samarinda-kota",
+    "name": "Samarinda Kota",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "sambutan",
+    "name": "Sambutan",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "samarinda-seberang",
+    "name": "Samarinda Seberang",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "loa-janan-ilir",
+    "name": "Loa Janan Ilir",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "sungai-kunjang",
+    "name": "Sungai Kunjang",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "samarinda-ulu",
+    "name": "Samarinda Ulu",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "samarinda-utara",
+    "name": "Samarinda Utara",
+    "regency": "kota-samarinda"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "regency": "kota-samarinda"
+  }
+]

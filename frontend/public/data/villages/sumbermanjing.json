@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sitiarjo",
+    "name": "Sitiarjo",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "kedungbanteng",
+    "name": "Kedungbanteng",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "tambakasri",
+    "name": "Tambakasri",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "ringinkembar",
+    "name": "Ringinkembar",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "harjokuncaran",
+    "name": "Harjokuncaran",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "argotirto",
+    "name": "Argotirto",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "ringinsari",
+    "name": "Ringinsari",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "sumbermanjing-wetan",
+    "name": "Sumbermanjing Wetan",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "sekarbanyu",
+    "name": "Sekarbanyu",
+    "district": "sumbermanjing"
+  },
+  {
+    "id": "sidoasri",
+    "name": "Sidoasri",
+    "district": "sumbermanjing"
+  }
+]

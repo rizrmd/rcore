@@ -1,0 +1,107 @@
+[
+  {
+    "id": "bea-ngencung",
+    "name": "Bea Ngencung",
+    "district": "rana-mese"
+  },
+  {
+    "id": "satar-lahing",
+    "name": "Satar Lahing",
+    "district": "rana-mese"
+  },
+  {
+    "id": "golo-meleng",
+    "name": "Golo Meleng",
+    "district": "rana-mese"
+  },
+  {
+    "id": "golo-rutuk",
+    "name": "Golo Rutuk",
+    "district": "rana-mese"
+  },
+  {
+    "id": "golo-loni",
+    "name": "Golo Loni",
+    "district": "rana-mese"
+  },
+  {
+    "id": "sita",
+    "name": "Sita",
+    "district": "rana-mese"
+  },
+  {
+    "id": "torok-golo",
+    "name": "Torok Golo",
+    "district": "rana-mese"
+  },
+  {
+    "id": "golo-ros",
+    "name": "Golo Ros",
+    "district": "rana-mese"
+  },
+  {
+    "id": "sano-lokom",
+    "name": "Sano Lokom",
+    "district": "rana-mese"
+  },
+  {
+    "id": "rondo-woing",
+    "name": "Rondo Woing",
+    "district": "rana-mese"
+  },
+  {
+    "id": "lidi",
+    "name": "Lidi",
+    "district": "rana-mese"
+  },
+  {
+    "id": "satar-lenda",
+    "name": "Satar Lenda",
+    "district": "rana-mese"
+  },
+  {
+    "id": "lalang",
+    "name": "Lalang",
+    "district": "rana-mese"
+  },
+  {
+    "id": "wae-nggori",
+    "name": "Wae Nggori",
+    "district": "rana-mese"
+  },
+  {
+    "id": "compang-kantar",
+    "name": "Compang Kantar",
+    "district": "rana-mese"
+  },
+  {
+    "id": "bangka-kempo",
+    "name": "Bangka Kempo",
+    "district": "rana-mese"
+  },
+  {
+    "id": "compang-teber",
+    "name": "Compang Teber",
+    "district": "rana-mese"
+  },
+  {
+    "id": "compang-loni",
+    "name": "Compang Loni",
+    "district": "rana-mese"
+  },
+  {
+    "id": "compang-kempo",
+    "name": "Compang Kempo",
+    "district": "rana-mese"
+  },
+  {
+    "id": "watu-mori",
+    "name": "Watu Mori",
+    "district": "rana-mese"
+  },
+  {
+    "id": "bangka-masa",
+    "name": "Bangka Masa",
+    "district": "rana-mese"
+  }
+]

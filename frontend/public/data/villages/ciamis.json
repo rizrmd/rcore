@@ -1,0 +1,57 @@
+[
+  {
+    "id": "imbanagara-raya",
+    "name": "Imbanagara Raya",
+    "district": "ciamis"
+  },
+  {
+    "id": "cisadap",
+    "name": "Cisadap",
+    "district": "ciamis"
+  },
+  {
+    "id": "imbanagara",
+    "name": "Imbanagara",
+    "district": "ciamis"
+  },
+  {
+    "id": "sindangrasa",
+    "name": "Sindangrasa",
+    "district": "ciamis"
+  },
+  {
+    "id": "panyingkiran",
+    "name": "Panyingkiran",
+    "district": "ciamis"
+  },
+  {
+    "id": "pawindan",
+    "name": "Pawindan",
+    "district": "ciamis"
+  },
+  {
+    "id": "linggasari",
+    "name": "Linggasari",
+    "district": "ciamis"
+  },
+  {
+    "id": "ciamis",
+    "name": "Ciamis",
+    "district": "ciamis"
+  },
+  {
+    "id": "cigembor",
+    "name": "Cigembor",
+    "district": "ciamis"
+  },
+  {
+    "id": "kertasari",
+    "name": "Kertasari",
+    "district": "ciamis"
+  },
+  {
+    "id": "maleber",
+    "name": "Maleber",
+    "district": "ciamis"
+  }
+]

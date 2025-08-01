@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wundubite",
+    "name": "Wundubite",
+    "district": "poli-polia"
+  },
+  {
+    "id": "puundokulo",
+    "name": "Puundokulo",
+    "district": "poli-polia"
+  },
+  {
+    "id": "hakambololi",
+    "name": "Hakambololi",
+    "district": "poli-polia"
+  },
+  {
+    "id": "andowengga",
+    "name": "Andowengga",
+    "district": "poli-polia"
+  },
+  {
+    "id": "taosu",
+    "name": "Taosu",
+    "district": "poli-polia"
+  },
+  {
+    "id": "pangi-pangi",
+    "name": "Pangi-Pangi",
+    "district": "poli-polia"
+  },
+  {
+    "id": "poli-polia",
+    "name": "Poli Polia",
+    "district": "poli-polia"
+  },
+  {
+    "id": "inotu-mewao",
+    "name": "Inotu Mewao",
+    "district": "poli-polia"
+  },
+  {
+    "id": "tokai",
+    "name": "Tokai",
+    "district": "poli-polia"
+  },
+  {
+    "id": "wia-wia",
+    "name": "Wia-Wia",
+    "district": "poli-polia"
+  },
+  {
+    "id": "polemaju-jaya",
+    "name": "Polemaju Jaya",
+    "district": "poli-polia"
+  },
+  {
+    "id": "polenga-jaya",
+    "name": "Polenga Jaya",
+    "district": "poli-polia"
+  }
+]

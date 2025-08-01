@@ -1,0 +1,67 @@
+[
+  {
+    "id": "selapan",
+    "name": "Selapan",
+    "district": "pardasuka"
+  },
+  {
+    "id": "kedaung",
+    "name": "Kedaung",
+    "district": "pardasuka"
+  },
+  {
+    "id": "suka-negeri",
+    "name": "Suka Negeri",
+    "district": "pardasuka"
+  },
+  {
+    "id": "rantau-tijang",
+    "name": "Rantau Tijang",
+    "district": "pardasuka"
+  },
+  {
+    "id": "pardasuka",
+    "name": "Pardasuka",
+    "district": "pardasuka"
+  },
+  {
+    "id": "tanjung-rusia",
+    "name": "Tanjung Rusia",
+    "district": "pardasuka"
+  },
+  {
+    "id": "wargo-mulyo",
+    "name": "Wargo Mulyo",
+    "district": "pardasuka"
+  },
+  {
+    "id": "pujodadi",
+    "name": "Pujodadi",
+    "district": "pardasuka"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "pardasuka"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "pardasuka"
+  },
+  {
+    "id": "pardasuka-timur",
+    "name": "Pardasuka Timur",
+    "district": "pardasuka"
+  },
+  {
+    "id": "tanjung-rusia-timur",
+    "name": "Tanjung Rusia Timur",
+    "district": "pardasuka"
+  },
+  {
+    "id": "pardasuka-selatan",
+    "name": "Pardasuka Selatan",
+    "district": "pardasuka"
+  }
+]

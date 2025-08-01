@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tangga",
+    "name": "Tangga",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "lobu-rappa",
+    "name": "Lobu Rappa",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "marjanji-aceh",
+    "name": "Marjanji Aceh",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "aek-bamban",
+    "name": "Aek Bamban",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "perkebunan-bandar-pulau",
+    "name": "Perkebunan Bandar Pulau",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "aek-songsongan",
+    "name": "Aek Songsongan",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "perkebunan-bandar-selamat",
+    "name": "Perkebunan Bandar Selamat",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "mekar-marjanji",
+    "name": "Mekar Marjanji",
+    "district": "aek-songsongan"
+  },
+  {
+    "id": "situnjak",
+    "name": "Situnjak",
+    "district": "aek-songsongan"
+  }
+]

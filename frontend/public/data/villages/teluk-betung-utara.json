@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kupang-kota",
+    "name": "Kupang Kota",
+    "district": "teluk-betung-utara"
+  },
+  {
+    "id": "kupang-teba",
+    "name": "Kupang Teba",
+    "district": "teluk-betung-utara"
+  },
+  {
+    "id": "kupang-raya",
+    "name": "Kupang Raya",
+    "district": "teluk-betung-utara"
+  },
+  {
+    "id": "sumur-batu",
+    "name": "Sumur Batu",
+    "district": "teluk-betung-utara"
+  },
+  {
+    "id": "gulak-galik",
+    "name": "Gulak Galik",
+    "district": "teluk-betung-utara"
+  },
+  {
+    "id": "pengajaran",
+    "name": "Pengajaran",
+    "district": "teluk-betung-utara"
+  }
+]

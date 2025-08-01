@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ngablak",
+    "name": "Ngablak",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "karangjati",
+    "name": "Karangjati",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "ketoyan",
+    "name": "Ketoyan",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "bolo",
+    "name": "Bolo",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "wonosegoro",
+    "name": "Wonosegoro",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "kedungpilang",
+    "name": "Kedungpilang",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "kalinanas",
+    "name": "Kalinanas",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "gilirejo",
+    "name": "Gilirejo",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "jatilawang",
+    "name": "Jatilawang",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "garangan",
+    "name": "Garangan",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "gosono",
+    "name": "Gosono",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "banyusri",
+    "name": "Banyusri",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "bercak",
+    "name": "Bercak",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "wonosegoro"
+  },
+  {
+    "id": "repaking",
+    "name": "Repaking",
+    "district": "wonosegoro"
+  }
+]

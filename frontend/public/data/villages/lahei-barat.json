@@ -1,0 +1,52 @@
+[
+  {
+    "id": "nihan-hilir",
+    "name": "Nihan Hilir",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "nihan-hulu",
+    "name": "Nihan Hulu",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "luwe-hilir",
+    "name": "Luwe Hilir",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "jangkang-baru",
+    "name": "Jangkang Baru",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "jangkang-lama",
+    "name": "Jangkang Lama",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "papar-pujung",
+    "name": "Papar Pujung",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "teluk-malewai",
+    "name": "Teluk Malewai",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "benao-hilir",
+    "name": "Benao Hilir",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "benao-hulu",
+    "name": "Benao Hulu",
+    "district": "lahei-barat"
+  },
+  {
+    "id": "karamuan",
+    "name": "Karamuan",
+    "district": "lahei-barat"
+  }
+]

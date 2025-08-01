@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sadai",
+    "name": "Sadai",
+    "district": "tukak-sadai"
+  },
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "tukak-sadai"
+  },
+  {
+    "id": "tukak",
+    "name": "Tukak",
+    "district": "tukak-sadai"
+  },
+  {
+    "id": "tiram",
+    "name": "Tiram",
+    "district": "tukak-sadai"
+  },
+  {
+    "id": "bukit-terap",
+    "name": "Bukit Terap",
+    "district": "tukak-sadai"
+  }
+]

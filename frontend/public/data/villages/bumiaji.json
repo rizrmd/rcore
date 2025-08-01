@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pandanrejo",
+    "name": "Pandanrejo",
+    "district": "bumiaji"
+  },
+  {
+    "id": "bumiaji",
+    "name": "Bumiaji",
+    "district": "bumiaji"
+  },
+  {
+    "id": "bulukerto",
+    "name": "Bulukerto",
+    "district": "bumiaji"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "bumiaji"
+  },
+  {
+    "id": "tulungrejo",
+    "name": "Tulungrejo",
+    "district": "bumiaji"
+  },
+  {
+    "id": "sumbergondo",
+    "name": "Sumbergondo",
+    "district": "bumiaji"
+  },
+  {
+    "id": "giripurno",
+    "name": "Giripurno",
+    "district": "bumiaji"
+  },
+  {
+    "id": "sumber-brantas",
+    "name": "Sumber Brantas",
+    "district": "bumiaji"
+  }
+]

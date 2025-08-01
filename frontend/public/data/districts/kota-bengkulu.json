@@ -1,0 +1,47 @@
+[
+  {
+    "id": "selebar",
+    "name": "Selebar",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "kampung-melayu",
+    "name": "Kampung Melayu",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "gading-cempaka",
+    "name": "Gading Cempaka",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "ratu-agung",
+    "name": "Ratu Agung",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "ratu-samban",
+    "name": "Ratu Samban",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "singaran-pati",
+    "name": "Singaran Pati",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "teluk-segara",
+    "name": "Teluk Segara",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "sungai-serut",
+    "name": "Sungai Serut",
+    "regency": "kota-bengkulu"
+  },
+  {
+    "id": "muara-bangka-hulu",
+    "name": "Muara Bangka Hulu",
+    "regency": "kota-bengkulu"
+  }
+]

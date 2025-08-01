@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mareje",
+    "name": "Mareje",
+    "district": "lembar"
+  },
+  {
+    "id": "sekotong-timur",
+    "name": "Sekotong Timur",
+    "district": "lembar"
+  },
+  {
+    "id": "lembar",
+    "name": "Lembar",
+    "district": "lembar"
+  },
+  {
+    "id": "jembatan-kembar",
+    "name": "Jembatan Kembar",
+    "district": "lembar"
+  },
+  {
+    "id": "labuan-tereng",
+    "name": "Labuan Tereng",
+    "district": "lembar"
+  },
+  {
+    "id": "mareje-timur",
+    "name": "Mareje Timur",
+    "district": "lembar"
+  },
+  {
+    "id": "lembar-selatan",
+    "name": "Lembar Selatan",
+    "district": "lembar"
+  },
+  {
+    "id": "jembatan-gantung",
+    "name": "Jembatan Gantung",
+    "district": "lembar"
+  },
+  {
+    "id": "jembatan-kembar-timur",
+    "name": "Jembatan Kembar Timur",
+    "district": "lembar"
+  },
+  {
+    "id": "eyat-mayang",
+    "name": "Eyat Mayang",
+    "district": "lembar"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pamatan",
+    "name": "Pamatan",
+    "district": "tongas"
+  },
+  {
+    "id": "sumberkramat",
+    "name": "Sumberkramat",
+    "district": "tongas"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "tongas"
+  },
+  {
+    "id": "sumendi",
+    "name": "Sumendi",
+    "district": "tongas"
+  },
+  {
+    "id": "bayeman",
+    "name": "Bayeman",
+    "district": "tongas"
+  },
+  {
+    "id": "curahdringu",
+    "name": "Curahdringu",
+    "district": "tongas"
+  },
+  {
+    "id": "wringinanom",
+    "name": "Wringinanom",
+    "district": "tongas"
+  },
+  {
+    "id": "tongaswetan",
+    "name": "Tongaswetan",
+    "district": "tongas"
+  },
+  {
+    "id": "tongaskulon",
+    "name": "Tongaskulon",
+    "district": "tongas"
+  },
+  {
+    "id": "curahtulis",
+    "name": "Curahtulis",
+    "district": "tongas"
+  },
+  {
+    "id": "klampok",
+    "name": "Klampok",
+    "district": "tongas"
+  },
+  {
+    "id": "tanjungrejo",
+    "name": "Tanjungrejo",
+    "district": "tongas"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "tongas"
+  }
+]

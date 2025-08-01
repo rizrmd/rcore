@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sukaramai",
+    "name": "Sukaramai",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "tebing-tanjung-selamat",
+    "name": "Tebing Tanjung Selamat",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "tanjung-putus",
+    "name": "Tanjung Putus",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "tanjung-selamat",
+    "name": "Tanjung Selamat",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "besilam",
+    "name": "Besilam",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "padang-tualang",
+    "name": "Padang Tualang",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "serapuh-abc",
+    "name": "Serapuh Abc",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "kwala-pesilam",
+    "name": "Kwala Pesilam",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "buluh-telang",
+    "name": "Buluh Telang",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "jati-sari",
+    "name": "Jati Sari",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "banjar-raya",
+    "name": "Banjar Raya",
+    "district": "padang-tualang"
+  },
+  {
+    "id": "bukit-sari",
+    "name": "Bukit Sari",
+    "district": "padang-tualang"
+  }
+]

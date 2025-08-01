@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rias",
+    "name": "Rias",
+    "district": "toboali"
+  },
+  {
+    "id": "teladan",
+    "name": "Teladan",
+    "district": "toboali"
+  },
+  {
+    "id": "tanjung-ketapang",
+    "name": "Tanjung Ketapang",
+    "district": "toboali"
+  },
+  {
+    "id": "toboali",
+    "name": "Toboali",
+    "district": "toboali"
+  },
+  {
+    "id": "kaposang",
+    "name": "Kaposang",
+    "district": "toboali"
+  },
+  {
+    "id": "gadung",
+    "name": "Gadung",
+    "district": "toboali"
+  },
+  {
+    "id": "bikang",
+    "name": "Bikang",
+    "district": "toboali"
+  },
+  {
+    "id": "jeriji",
+    "name": "Jeriji",
+    "district": "toboali"
+  },
+  {
+    "id": "serdang",
+    "name": "Serdang",
+    "district": "toboali"
+  },
+  {
+    "id": "rindik",
+    "name": "Rindik",
+    "district": "toboali"
+  },
+  {
+    "id": "kepoh",
+    "name": "Kepoh",
+    "district": "toboali"
+  }
+]

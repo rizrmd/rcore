@@ -1,0 +1,62 @@
+[
+  {
+    "id": "koncer-kidul",
+    "name": "Koncer Kidul",
+    "district": "tenggarang"
+  },
+  {
+    "id": "sumbersalam",
+    "name": "Sumbersalam",
+    "district": "tenggarang"
+  },
+  {
+    "id": "pekalangan",
+    "name": "Pekalangan",
+    "district": "tenggarang"
+  },
+  {
+    "id": "kasemek",
+    "name": "Kasemek",
+    "district": "tenggarang"
+  },
+  {
+    "id": "lojajar",
+    "name": "Lojajar",
+    "district": "tenggarang"
+  },
+  {
+    "id": "kajar",
+    "name": "Kajar",
+    "district": "tenggarang"
+  },
+  {
+    "id": "bataan",
+    "name": "Bataan",
+    "district": "tenggarang"
+  },
+  {
+    "id": "gebang",
+    "name": "Gebang",
+    "district": "tenggarang"
+  },
+  {
+    "id": "dawuhan",
+    "name": "Dawuhan",
+    "district": "tenggarang"
+  },
+  {
+    "id": "tenggarang",
+    "name": "Tenggarang",
+    "district": "tenggarang"
+  },
+  {
+    "id": "tangsil-kulon",
+    "name": "Tangsil Kulon",
+    "district": "tenggarang"
+  },
+  {
+    "id": "koncer-darul-aman",
+    "name": "Koncer Darul Aman",
+    "district": "tenggarang"
+  }
+]

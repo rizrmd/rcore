@@ -1,0 +1,27 @@
+[
+  {
+    "id": "larete",
+    "name": "Larete",
+    "district": "poleang-tenggara"
+  },
+  {
+    "id": "terapung",
+    "name": "Terapung",
+    "district": "poleang-tenggara"
+  },
+  {
+    "id": "lemo",
+    "name": "Lemo",
+    "district": "poleang-tenggara"
+  },
+  {
+    "id": "lamoare",
+    "name": "Lamoare",
+    "district": "poleang-tenggara"
+  },
+  {
+    "id": "rambaha",
+    "name": "Rambaha",
+    "district": "poleang-tenggara"
+  }
+]

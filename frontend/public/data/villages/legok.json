@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ciangir",
+    "name": "Ciangir",
+    "district": "legok"
+  },
+  {
+    "id": "babat",
+    "name": "Babat",
+    "district": "legok"
+  },
+  {
+    "id": "bojong-kamal",
+    "name": "Bojong Kamal",
+    "district": "legok"
+  },
+  {
+    "id": "cirarab",
+    "name": "Cirarab",
+    "district": "legok"
+  },
+  {
+    "id": "caringin",
+    "name": "Caringin",
+    "district": "legok"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "legok"
+  },
+  {
+    "id": "kamuning",
+    "name": "Kamuning",
+    "district": "legok"
+  },
+  {
+    "id": "pala-sari",
+    "name": "Pala Sari",
+    "district": "legok"
+  },
+  {
+    "id": "serdang-wetan",
+    "name": "Serdang Wetan",
+    "district": "legok"
+  },
+  {
+    "id": "rancagong",
+    "name": "Rancagong",
+    "district": "legok"
+  },
+  {
+    "id": "legok",
+    "name": "Legok",
+    "district": "legok"
+  }
+]

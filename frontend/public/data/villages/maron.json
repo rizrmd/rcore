@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sumberpoh",
+    "name": "Sumberpoh",
+    "district": "maron"
+  },
+  {
+    "id": "sumberdawe",
+    "name": "Sumberdawe",
+    "district": "maron"
+  },
+  {
+    "id": "brabe",
+    "name": "Brabe",
+    "district": "maron"
+  },
+  {
+    "id": "maron-kidul",
+    "name": "Maron Kidul",
+    "district": "maron"
+  },
+  {
+    "id": "gerongan",
+    "name": "Gerongan",
+    "district": "maron"
+  },
+  {
+    "id": "satreyan",
+    "name": "Satreyan",
+    "district": "maron"
+  },
+  {
+    "id": "brani-wetan",
+    "name": "Brani Wetan",
+    "district": "maron"
+  },
+  {
+    "id": "brani-kulon",
+    "name": "Brani Kulon",
+    "district": "maron"
+  },
+  {
+    "id": "maron-wetan",
+    "name": "Maron Wetan",
+    "district": "maron"
+  },
+  {
+    "id": "maron-kulon",
+    "name": "Maron Kulon",
+    "district": "maron"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "maron"
+  },
+  {
+    "id": "pegalangan-kidul",
+    "name": "Pegalangan Kidul",
+    "district": "maron"
+  },
+  {
+    "id": "brumbungan-kidul",
+    "name": "Brumbungan Kidul",
+    "district": "maron"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "maron"
+  },
+  {
+    "id": "puspan",
+    "name": "Puspan",
+    "district": "maron"
+  },
+  {
+    "id": "ganting-wetan",
+    "name": "Ganting Wetan",
+    "district": "maron"
+  },
+  {
+    "id": "ganting-kulon",
+    "name": "Ganting Kulon",
+    "district": "maron"
+  },
+  {
+    "id": "suko",
+    "name": "Suko",
+    "district": "maron"
+  }
+]

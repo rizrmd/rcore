@@ -1,0 +1,32 @@
+[
+  {
+    "id": "deli-tua-barat",
+    "name": "Deli Tua Barat",
+    "district": "deli-tua"
+  },
+  {
+    "id": "deli-tua-timur",
+    "name": "Deli Tua Timur",
+    "district": "deli-tua"
+  },
+  {
+    "id": "deli-tua",
+    "name": "Deli Tua",
+    "district": "deli-tua"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "deli-tua"
+  },
+  {
+    "id": "kedai-durian",
+    "name": "Kedai Durian",
+    "district": "deli-tua"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "deli-tua"
+  }
+]

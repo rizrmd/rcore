@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pasiran-jaya",
+    "name": "Pasiran Jaya",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "bratasena-mandiri",
+    "name": "Bratasena Mandiri",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "bratasena-adiwarna",
+    "name": "Bratasena Adiwarna",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "sungai-nibung",
+    "name": "Sungai Nibung",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "mahabang",
+    "name": "Mahabang",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "kuala-teladas",
+    "name": "Kuala Teladas",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "kekatung",
+    "name": "Kekatung",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "teladas",
+    "name": "Teladas",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "way-dente",
+    "name": "Way Dente",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "dente-makmur",
+    "name": "Dente Makmur",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "pendowo-asri",
+    "name": "Pendowo Asri",
+    "district": "dente-teladas"
+  },
+  {
+    "id": "sungai-burung",
+    "name": "Sungai Burung",
+    "district": "dente-teladas"
+  }
+]

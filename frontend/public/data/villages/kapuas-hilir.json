@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mambulau",
+    "name": "Mambulau",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "hampatung",
+    "name": "Hampatung",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "dahirang",
+    "name": "Dahirang",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "barimba",
+    "name": "Barimba",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "sei-pasah",
+    "name": "Sei Pasah",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "bakungin",
+    "name": "Bakungin",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "sei-asam",
+    "name": "Sei Asam",
+    "district": "kapuas-hilir"
+  },
+  {
+    "id": "saka-batur",
+    "name": "Saka Batur",
+    "district": "kapuas-hilir"
+  }
+]

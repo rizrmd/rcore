@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "sitolu-ompu",
+    "name": "Sitolu Ompu",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "siopat-bahal",
+    "name": "Siopat Bahal",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "pasar-sarulla",
+    "name": "Pasar Sarulla",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "nahornop-marsada",
+    "name": "Nahornop Marsada",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "setia",
+    "name": "Setia",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "parsaoran-samosir",
+    "name": "Parsaoran Samosir",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "pardomuan-nainggolan",
+    "name": "Pardomuan Nainggolan",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "parsaoran-nainggolan",
+    "name": "Parsaoran Nainggolan",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "pardamean-nainggolan",
+    "name": "Pardamean Nainggolan",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "sigurung-gurung",
+    "name": "Sigurung Gurung",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "silangkitang",
+    "name": "Silangkitang",
+    "district": "pahae-jae"
+  },
+  {
+    "id": "tordolok-nauli",
+    "name": "Tordolok Nauli",
+    "district": "pahae-jae"
+  }
+]

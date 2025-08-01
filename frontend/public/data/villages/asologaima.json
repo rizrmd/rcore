@@ -1,0 +1,47 @@
+[
+  {
+    "id": "araboda",
+    "name": "Araboda",
+    "district": "asologaima"
+  },
+  {
+    "id": "kimbim",
+    "name": "Kimbim",
+    "district": "asologaima"
+  },
+  {
+    "id": "walak",
+    "name": "Walak",
+    "district": "asologaima"
+  },
+  {
+    "id": "logot",
+    "name": "Logot",
+    "district": "asologaima"
+  },
+  {
+    "id": "miligatnem",
+    "name": "Miligatnem",
+    "district": "asologaima"
+  },
+  {
+    "id": "wawanca",
+    "name": "Wawanca",
+    "district": "asologaima"
+  },
+  {
+    "id": "loki",
+    "name": "Loki",
+    "district": "asologaima"
+  },
+  {
+    "id": "kombagwe",
+    "name": "Kombagwe",
+    "district": "asologaima"
+  },
+  {
+    "id": "wanggonoma",
+    "name": "Wanggonoma",
+    "district": "asologaima"
+  }
+]

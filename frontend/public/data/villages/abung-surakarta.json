@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bandar-abung",
+    "name": "Bandar Abung",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "bangun-sari",
+    "name": "Bangun Sari",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "tata-karya",
+    "name": "Tata Karya",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "bumi-restu",
+    "name": "Bumi Restu",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "bumi-raharja",
+    "name": "Bumi Raharja",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "purba-sakti",
+    "name": "Purba Sakti",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "bandar-sakti",
+    "name": "Bandar Sakti",
+    "district": "abung-surakarta"
+  },
+  {
+    "id": "karya-sakti",
+    "name": "Karya Sakti",
+    "district": "abung-surakarta"
+  }
+]

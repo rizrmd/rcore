@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dubesi",
+    "name": "Dubesi",
+    "district": "nanaet-dubesi"
+  },
+  {
+    "id": "nanaet",
+    "name": "Nanaet",
+    "district": "nanaet-dubesi"
+  },
+  {
+    "id": "fohoeka",
+    "name": "Fohoeka",
+    "district": "nanaet-dubesi"
+  },
+  {
+    "id": "nanaenoe",
+    "name": "Nanaenoe",
+    "district": "nanaet-dubesi"
+  }
+]

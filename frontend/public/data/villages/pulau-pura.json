@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pura-barat",
+    "name": "Pura Barat",
+    "district": "pulau-pura"
+  },
+  {
+    "id": "pura-selatan",
+    "name": "Pura Selatan",
+    "district": "pulau-pura"
+  },
+  {
+    "id": "maru",
+    "name": "Maru",
+    "district": "pulau-pura"
+  },
+  {
+    "id": "pura-timur",
+    "name": "Pura Timur",
+    "district": "pulau-pura"
+  },
+  {
+    "id": "pura",
+    "name": "Pura",
+    "district": "pulau-pura"
+  },
+  {
+    "id": "pura-utara",
+    "name": "Pura Utara",
+    "district": "pulau-pura"
+  }
+]

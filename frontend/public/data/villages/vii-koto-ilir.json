@@ -1,0 +1,32 @@
+[
+  {
+    "id": "teluk-kepayang-pulau-indah",
+    "name": "Teluk Kepayang Pulau Indah",
+    "district": "vii-koto-ilir"
+  },
+  {
+    "id": "sungai-karang",
+    "name": "Sungai Karang",
+    "district": "vii-koto-ilir"
+  },
+  {
+    "id": "balai-rajo",
+    "name": "Balai Rajo",
+    "district": "vii-koto-ilir"
+  },
+  {
+    "id": "paseban",
+    "name": "Paseban",
+    "district": "vii-koto-ilir"
+  },
+  {
+    "id": "cermin-alam",
+    "name": "Cermin Alam",
+    "district": "vii-koto-ilir"
+  },
+  {
+    "id": "pasir-mayang",
+    "name": "Pasir Mayang",
+    "district": "vii-koto-ilir"
+  }
+]

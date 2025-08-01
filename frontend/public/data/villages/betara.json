@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pematang-lumut",
+    "name": "Pematang Lumut",
+    "district": "betara"
+  },
+  {
+    "id": "serdang-jaya",
+    "name": "Serdang Jaya",
+    "district": "betara"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "betara"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "betara"
+  },
+  {
+    "id": "terjun-gajah",
+    "name": "Terjun Gajah",
+    "district": "betara"
+  },
+  {
+    "id": "lubuk-terentang",
+    "name": "Lubuk Terentang",
+    "district": "betara"
+  },
+  {
+    "id": "pematang-buluh",
+    "name": "Pematang Buluh",
+    "district": "betara"
+  },
+  {
+    "id": "muntialo",
+    "name": "Muntialo",
+    "district": "betara"
+  },
+  {
+    "id": "teluk-kulbi",
+    "name": "Teluk Kulbi",
+    "district": "betara"
+  },
+  {
+    "id": "mandala-jaya",
+    "name": "Mandala Jaya",
+    "district": "betara"
+  },
+  {
+    "id": "sungai-terap",
+    "name": "Sungai Terap",
+    "district": "betara"
+  },
+  {
+    "id": "bunga-tanjung",
+    "name": "Bunga Tanjung",
+    "district": "betara"
+  }
+]

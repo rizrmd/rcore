@@ -1,0 +1,87 @@
+[
+  {
+    "id": "nanga-raun",
+    "name": "Nanga Raun",
+    "district": "kalis"
+  },
+  {
+    "id": "bahenap",
+    "name": "Bahenap",
+    "district": "kalis"
+  },
+  {
+    "id": "nanga-lebangan",
+    "name": "Nanga Lebangan",
+    "district": "kalis"
+  },
+  {
+    "id": "nanga-sebintang",
+    "name": "Nanga Sebintang",
+    "district": "kalis"
+  },
+  {
+    "id": "nanga-kalis",
+    "name": "Nanga Kalis",
+    "district": "kalis"
+  },
+  {
+    "id": "nanga-danau",
+    "name": "Nanga Danau",
+    "district": "kalis"
+  },
+  {
+    "id": "nanga-tubuk",
+    "name": "Nanga Tubuk",
+    "district": "kalis"
+  },
+  {
+    "id": "rantau-kalis",
+    "name": "Rantau Kalis",
+    "district": "kalis"
+  },
+  {
+    "id": "kensuray",
+    "name": "Kensuray",
+    "district": "kalis"
+  },
+  {
+    "id": "kalis-raya",
+    "name": "Kalis Raya",
+    "district": "kalis"
+  },
+  {
+    "id": "tekudak",
+    "name": "Tekudak",
+    "district": "kalis"
+  },
+  {
+    "id": "semerantau",
+    "name": "Semerantau",
+    "district": "kalis"
+  },
+  {
+    "id": "tapang-daan",
+    "name": "Tapang Da'An",
+    "district": "kalis"
+  },
+  {
+    "id": "segiam",
+    "name": "Segiam",
+    "district": "kalis"
+  },
+  {
+    "id": "payungan",
+    "name": "Payungan",
+    "district": "kalis"
+  },
+  {
+    "id": "ribang-kadeng",
+    "name": "Ribang Kadeng",
+    "district": "kalis"
+  },
+  {
+    "id": "rantau-bumbun",
+    "name": "Rantau Bumbun",
+    "district": "kalis"
+  }
+]

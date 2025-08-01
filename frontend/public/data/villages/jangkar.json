@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sopet",
+    "name": "Sopet",
+    "district": "jangkar"
+  },
+  {
+    "id": "curah-kalak",
+    "name": "Curah Kalak",
+    "district": "jangkar"
+  },
+  {
+    "id": "palangan",
+    "name": "Palangan",
+    "district": "jangkar"
+  },
+  {
+    "id": "jangkar",
+    "name": "Jangkar",
+    "district": "jangkar"
+  },
+  {
+    "id": "gadingan",
+    "name": "Gadingan",
+    "district": "jangkar"
+  },
+  {
+    "id": "kumbangsari",
+    "name": "Kumbangsari",
+    "district": "jangkar"
+  },
+  {
+    "id": "pesanggrahan",
+    "name": "Pesanggrahan",
+    "district": "jangkar"
+  },
+  {
+    "id": "agel",
+    "name": "Agel",
+    "district": "jangkar"
+  }
+]

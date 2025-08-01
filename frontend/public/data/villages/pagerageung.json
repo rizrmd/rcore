@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cipacing",
+    "name": "Cipacing",
+    "district": "pagerageung"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "pagerageung"
+  },
+  {
+    "id": "pagersari",
+    "name": "Pagersari",
+    "district": "pagerageung"
+  },
+  {
+    "id": "pagerageung",
+    "name": "Pagerageung",
+    "district": "pagerageung"
+  },
+  {
+    "id": "sukadana",
+    "name": "Sukadana",
+    "district": "pagerageung"
+  },
+  {
+    "id": "puteran",
+    "name": "Puteran",
+    "district": "pagerageung"
+  },
+  {
+    "id": "tanjungkerta",
+    "name": "Tanjungkerta",
+    "district": "pagerageung"
+  },
+  {
+    "id": "guranteng",
+    "name": "Guranteng",
+    "district": "pagerageung"
+  },
+  {
+    "id": "nanggewer",
+    "name": "Nanggewer",
+    "district": "pagerageung"
+  },
+  {
+    "id": "sukapada",
+    "name": "Sukapada",
+    "district": "pagerageung"
+  }
+]

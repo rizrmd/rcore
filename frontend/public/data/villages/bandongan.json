@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "bandongan"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "bandongan"
+  },
+  {
+    "id": "salamkanci",
+    "name": "Salamkanci",
+    "district": "bandongan"
+  },
+  {
+    "id": "banyuwangi",
+    "name": "Banyuwangi",
+    "district": "bandongan"
+  },
+  {
+    "id": "trasan",
+    "name": "Trasan",
+    "district": "bandongan"
+  },
+  {
+    "id": "bandongan",
+    "name": "Bandongan",
+    "district": "bandongan"
+  },
+  {
+    "id": "sukodadi",
+    "name": "Sukodadi",
+    "district": "bandongan"
+  },
+  {
+    "id": "tonoboyo",
+    "name": "Tonoboyo",
+    "district": "bandongan"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "bandongan"
+  },
+  {
+    "id": "kalegen",
+    "name": "Kalegen",
+    "district": "bandongan"
+  },
+  {
+    "id": "ngepanrejo",
+    "name": "Ngepanrejo",
+    "district": "bandongan"
+  },
+  {
+    "id": "gandusari",
+    "name": "Gandusari",
+    "district": "bandongan"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "bandongan"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "bandongan"
+  }
+]

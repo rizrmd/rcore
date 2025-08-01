@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kabinuang",
+    "name": "Kabinuang",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "ogotua",
+    "name": "Ogotua",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "bambapula",
+    "name": "Bambapula",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "malambigu",
+    "name": "Malambigu",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "tompoh",
+    "name": "Tompoh",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "banagan",
+    "name": "Banagan",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "simatang-tanjung",
+    "name": "Simatang Tanjung",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "simatang-utara",
+    "name": "Simatang Utara",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "ogolali",
+    "name": "Ogolali",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "balaroa",
+    "name": "Balaroa",
+    "district": "dampal-utara"
+  },
+  {
+    "id": "stadong",
+    "name": "Stadong",
+    "district": "dampal-utara"
+  }
+]

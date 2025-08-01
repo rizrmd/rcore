@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kelurahan-talion",
+    "name": "Kelurahan Talion",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-limbong",
+    "name": "Lembang Limbong",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-sarapeang",
+    "name": "Lembang Sarapeang",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-banga",
+    "name": "Lembang Banga",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-buri",
+    "name": "Lembang Buri",
+    "district": "rembon"
+  },
+  {
+    "id": "kelurahan-rembon",
+    "name": "Kelurahan  Rembon",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-ullin",
+    "name": "Lembang Ullin",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-maroson",
+    "name": "Lembang Maroson",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-palesan",
+    "name": "Lembang Palesan",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-kayu-osing",
+    "name": "Lembang Kayu Osing",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-batu-sura",
+    "name": "Lembang Batu Sura",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-to-pao",
+    "name": "Lembang To  Pao",
+    "district": "rembon"
+  },
+  {
+    "id": "lembang-bua-tarung",
+    "name": "Lembang Bua Tarung",
+    "district": "rembon"
+  }
+]

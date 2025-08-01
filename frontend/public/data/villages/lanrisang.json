@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lanrisang",
+    "name": "Lanrisang",
+    "district": "lanrisang"
+  },
+  {
+    "id": "lerang",
+    "name": "Lerang",
+    "district": "lanrisang"
+  },
+  {
+    "id": "samaulue",
+    "name": "Samaulue",
+    "district": "lanrisang"
+  },
+  {
+    "id": "mallongi-longi",
+    "name": "Mallongi Longi",
+    "district": "lanrisang"
+  },
+  {
+    "id": "amassangang",
+    "name": "Amassangang",
+    "district": "lanrisang"
+  },
+  {
+    "id": "barang-palie",
+    "name": "Barang Palie",
+    "district": "lanrisang"
+  },
+  {
+    "id": "wae-tuwoe",
+    "name": "Wae Tuwoe",
+    "district": "lanrisang"
+  }
+]

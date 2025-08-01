@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tirtohargo",
+    "name": "Tirtohargo",
+    "district": "kretek"
+  },
+  {
+    "id": "parangtritis",
+    "name": "Parangtritis",
+    "district": "kretek"
+  },
+  {
+    "id": "donotirto",
+    "name": "Donotirto",
+    "district": "kretek"
+  },
+  {
+    "id": "tirtosari",
+    "name": "Tirtosari",
+    "district": "kretek"
+  },
+  {
+    "id": "tirtomulyo",
+    "name": "Tirtomulyo",
+    "district": "kretek"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "karang-baru",
+    "name": "Karang Baru",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "guru-agung",
+    "name": "Guru Agung",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "tanjung-sanai-i",
+    "name": "Tanjung Sanai I",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "tanjung-sanai-ii",
+    "name": "Tanjung Sanai Ii",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "ulak-tanding",
+    "name": "Ulak Tanding",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "pasar-padang-ulak-tanding",
+    "name": "Pasar Padang Ulak Tanding",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "taba-tinggi",
+    "name": "Taba Tinggi",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "muara-telita",
+    "name": "Muara Telita",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "t-a-k-t-o-i",
+    "name": "T A K T O I",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "ujan-panas",
+    "name": "Ujan Panas",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "kasie-kasubun",
+    "name": "Kasie Kasubun",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "belumai-ii",
+    "name": "Belumai Ii",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "belumai-i",
+    "name": "Belumai I",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "district": "padang-ulak-tanding"
+  },
+  {
+    "id": "air-kati",
+    "name": "Air Kati",
+    "district": "padang-ulak-tanding"
+  }
+]

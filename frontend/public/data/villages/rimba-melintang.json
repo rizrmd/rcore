@@ -1,0 +1,62 @@
+[
+  {
+    "id": "karya-mukti",
+    "name": "Karya Mukti",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "rimba-melintang",
+    "name": "Rimba Melintang",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "jumrah",
+    "name": "Jumrah",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "teluk-pulau-hulu",
+    "name": "Teluk Pulau Hulu",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "teluk-pulau-hilir",
+    "name": "Teluk Pulau Hilir",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "lenggadai-hulu",
+    "name": "Lenggadai Hulu",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "mukti-jaya",
+    "name": "Mukti Jaya",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "lenggadai-hilir",
+    "name": "Lenggadai Hilir",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "pematang-botam",
+    "name": "Pematang Botam",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "seremban-jaya",
+    "name": "Seremban Jaya",
+    "district": "rimba-melintang"
+  },
+  {
+    "id": "pematang-sikek",
+    "name": "Pematang Sikek",
+    "district": "rimba-melintang"
+  }
+]

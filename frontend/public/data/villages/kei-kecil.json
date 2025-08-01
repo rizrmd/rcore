@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ngabub",
+    "name": "Ngabub",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "ibra",
+    "name": "Ibra",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "sathean",
+    "name": "Sathean",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "faan",
+    "name": "Faan",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "ohoingur",
+    "name": "Ohoingur",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "kel-ohoijang-watdek",
+    "name": "Kel. Ohoijang Watdek",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "kolser",
+    "name": "Kolser",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "kelanit",
+    "name": "Kelanit",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "ohoidertawun",
+    "name": "Ohoidertawun",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "letman",
+    "name": "Letman",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "wearlilir",
+    "name": "Wearlilir",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "loon",
+    "name": "Loon",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "dudunwahan",
+    "name": "Dudunwahan",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "ohoider-atas",
+    "name": "Ohoider Atas",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "sitniohoi",
+    "name": "Sitniohoi",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "watdek",
+    "name": "Watdek",
+    "district": "kei-kecil"
+  },
+  {
+    "id": "ohoijang",
+    "name": "Ohoijang",
+    "district": "kei-kecil"
+  }
+]

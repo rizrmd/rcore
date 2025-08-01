@@ -1,0 +1,72 @@
+[
+  {
+    "id": "widoro",
+    "name": "Widoro",
+    "district": "karangsambung"
+  },
+  {
+    "id": "seling",
+    "name": "Seling",
+    "district": "karangsambung"
+  },
+  {
+    "id": "kedungwaru",
+    "name": "Kedungwaru",
+    "district": "karangsambung"
+  },
+  {
+    "id": "pencil",
+    "name": "Pencil",
+    "district": "karangsambung"
+  },
+  {
+    "id": "kaligending",
+    "name": "Kaligending",
+    "district": "karangsambung"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "karangsambung"
+  },
+  {
+    "id": "pujotirto",
+    "name": "Pujotirto",
+    "district": "karangsambung"
+  },
+  {
+    "id": "wadasmalang",
+    "name": "Wadasmalang",
+    "district": "karangsambung"
+  },
+  {
+    "id": "tlepok",
+    "name": "Tlepok",
+    "district": "karangsambung"
+  },
+  {
+    "id": "kalisana",
+    "name": "Kalisana",
+    "district": "karangsambung"
+  },
+  {
+    "id": "langse",
+    "name": "Langse",
+    "district": "karangsambung"
+  },
+  {
+    "id": "banioro",
+    "name": "Banioro",
+    "district": "karangsambung"
+  },
+  {
+    "id": "karangsambung",
+    "name": "Karangsambung",
+    "district": "karangsambung"
+  },
+  {
+    "id": "totogan",
+    "name": "Totogan",
+    "district": "karangsambung"
+  }
+]

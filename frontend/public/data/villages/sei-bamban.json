@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sei-belutu",
+    "name": "Sei Belutu",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "gempolan",
+    "name": "Gempolan",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "bakaran-batu",
+    "name": "Bakaran Batu",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "sei-bamban-estate",
+    "name": "Sei Bamban Estate",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "sei-buluh",
+    "name": "Sei Buluh",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "sei-bamban",
+    "name": "Sei Bamban",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "penggalangan",
+    "name": "Penggalangan",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "pon",
+    "name": "Pon",
+    "district": "sei-bamban"
+  },
+  {
+    "id": "rampah-estate",
+    "name": "Rampah Estate",
+    "district": "sei-bamban"
+  }
+]

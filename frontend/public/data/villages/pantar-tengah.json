@@ -1,0 +1,42 @@
+[
+  {
+    "id": "delaki",
+    "name": "Delaki",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "mauta",
+    "name": "Mauta",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "eka-jaya",
+    "name": "Eka Jaya",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "aramaba",
+    "name": "Aramaba",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "toang",
+    "name": "Toang",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "tamakh",
+    "name": "Tamakh",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "muriabang",
+    "name": "Muriabang",
+    "district": "pantar-tengah"
+  },
+  {
+    "id": "bagang",
+    "name": "Bagang",
+    "district": "pantar-tengah"
+  }
+]

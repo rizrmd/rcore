@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ngarum",
+    "name": "Ngarum",
+    "district": "grabagan"
+  },
+  {
+    "id": "banyubang",
+    "name": "Banyubang",
+    "district": "grabagan"
+  },
+  {
+    "id": "grabagan",
+    "name": "Grabagan",
+    "district": "grabagan"
+  },
+  {
+    "id": "waleran",
+    "name": "Waleran",
+    "district": "grabagan"
+  },
+  {
+    "id": "gesikan",
+    "name": "Gesikan",
+    "district": "grabagan"
+  },
+  {
+    "id": "ngandong",
+    "name": "Ngandong",
+    "district": "grabagan"
+  },
+  {
+    "id": "dahor",
+    "name": "Dahor",
+    "district": "grabagan"
+  },
+  {
+    "id": "dermawuhardjo",
+    "name": "Dermawuhardjo",
+    "district": "grabagan"
+  },
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "grabagan"
+  }
+]

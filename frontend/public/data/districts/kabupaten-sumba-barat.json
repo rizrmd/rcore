@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lamboya",
+    "name": "Lamboya",
+    "regency": "kabupaten-sumba-barat"
+  },
+  {
+    "id": "wanokaka",
+    "name": "Wanokaka",
+    "regency": "kabupaten-sumba-barat"
+  },
+  {
+    "id": "laboya-barat",
+    "name": "Laboya Barat",
+    "regency": "kabupaten-sumba-barat"
+  },
+  {
+    "id": "loli",
+    "name": "Loli",
+    "regency": "kabupaten-sumba-barat"
+  },
+  {
+    "id": "kota-waikabubak",
+    "name": "Kota Waikabubak",
+    "regency": "kabupaten-sumba-barat"
+  },
+  {
+    "id": "tana-righu",
+    "name": "Tana Righu",
+    "regency": "kabupaten-sumba-barat"
+  }
+]

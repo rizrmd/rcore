@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pollo",
+    "name": "Pollo",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "bena",
+    "name": "Bena",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "oebelo",
+    "name": "Oebelo",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "noemuke",
+    "name": "Noemuke",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "oekiu",
+    "name": "Oekiu",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "batnun",
+    "name": "Batnun",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "kiubaat",
+    "name": "Kiubaat",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "linamnutu",
+    "name": "Linamnutu",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "mio",
+    "name": "Mio",
+    "district": "amanuban-selatan"
+  },
+  {
+    "id": "eno-netten",
+    "name": "Eno Netten",
+    "district": "amanuban-selatan"
+  }
+]

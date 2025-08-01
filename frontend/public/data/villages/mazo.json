@@ -1,0 +1,52 @@
+[
+  {
+    "id": "luahandroito",
+    "name": "Luahandroito",
+    "district": "mazo"
+  },
+  {
+    "id": "tetegawaai",
+    "name": "Tetegawaai",
+    "district": "mazo"
+  },
+  {
+    "id": "hilimbaruzo",
+    "name": "Hilimbaruzo",
+    "district": "mazo"
+  },
+  {
+    "id": "siofabanua",
+    "name": "Siofabanua",
+    "district": "mazo"
+  },
+  {
+    "id": "tafulu",
+    "name": "Tafulu",
+    "district": "mazo"
+  },
+  {
+    "id": "hilimaufa",
+    "name": "Hilimaufa",
+    "district": "mazo"
+  },
+  {
+    "id": "ulu-mazo",
+    "name": "Ulu Mazo",
+    "district": "mazo"
+  },
+  {
+    "id": "tetegawai-ehomo",
+    "name": "Tetegawai Ehomo",
+    "district": "mazo"
+  },
+  {
+    "id": "orahuahili",
+    "name": "Orahuahili",
+    "district": "mazo"
+  },
+  {
+    "id": "guigui",
+    "name": "Guigui",
+    "district": "mazo"
+  }
+]

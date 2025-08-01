@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sumber",
+    "name": "Sumber",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "bulu",
+    "name": "Bulu",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "gunem",
+    "name": "Gunem",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "sale",
+    "name": "Sale",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "sarang",
+    "name": "Sarang",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "sedan",
+    "name": "Sedan",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "pamotan",
+    "name": "Pamotan",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "sulang",
+    "name": "Sulang",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "kaliori",
+    "name": "Kaliori",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "rembang",
+    "name": "Rembang",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "pancur",
+    "name": "Pancur",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "kragan",
+    "name": "Kragan",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "sluke",
+    "name": "Sluke",
+    "regency": "kabupaten-rembang"
+  },
+  {
+    "id": "lasem",
+    "name": "Lasem",
+    "regency": "kabupaten-rembang"
+  }
+]

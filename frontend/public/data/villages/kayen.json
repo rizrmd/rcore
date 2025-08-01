@@ -1,0 +1,77 @@
+[
+  {
+    "id": "jimbaran",
+    "name": "Jimbaran",
+    "district": "kayen"
+  },
+  {
+    "id": "durensawit",
+    "name": "Durensawit",
+    "district": "kayen"
+  },
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "kayen"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "kayen"
+  },
+  {
+    "id": "brati",
+    "name": "Brati",
+    "district": "kayen"
+  },
+  {
+    "id": "jatiroto",
+    "name": "Jatiroto",
+    "district": "kayen"
+  },
+  {
+    "id": "kayen",
+    "name": "Kayen",
+    "district": "kayen"
+  },
+  {
+    "id": "trimulyo",
+    "name": "Trimulyo",
+    "district": "kayen"
+  },
+  {
+    "id": "srikaton",
+    "name": "Srikaton",
+    "district": "kayen"
+  },
+  {
+    "id": "pasuruhan",
+    "name": "Pasuruhan",
+    "district": "kayen"
+  },
+  {
+    "id": "pesagi",
+    "name": "Pesagi",
+    "district": "kayen"
+  },
+  {
+    "id": "rogomulyo",
+    "name": "Rogomulyo",
+    "district": "kayen"
+  },
+  {
+    "id": "talun",
+    "name": "Talun",
+    "district": "kayen"
+  },
+  {
+    "id": "boloagung",
+    "name": "Boloagung",
+    "district": "kayen"
+  },
+  {
+    "id": "sundoluhur",
+    "name": "Sundoluhur",
+    "district": "kayen"
+  }
+]

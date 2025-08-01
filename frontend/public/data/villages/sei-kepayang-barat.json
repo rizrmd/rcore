@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sei-kepayang-kiri",
+    "name": "Sei Kepayang Kiri",
+    "district": "sei-kepayang-barat"
+  },
+  {
+    "id": "sei-lendir",
+    "name": "Sei Lendir",
+    "district": "sei-kepayang-barat"
+  },
+  {
+    "id": "sei-tualang-pandau",
+    "name": "Sei Tualang Pandau",
+    "district": "sei-kepayang-barat"
+  },
+  {
+    "id": "sei-serindan",
+    "name": "Sei Serindan",
+    "district": "sei-kepayang-barat"
+  },
+  {
+    "id": "sei-jawi-jawi",
+    "name": "Sei Jawi Jawi",
+    "district": "sei-kepayang-barat"
+  },
+  {
+    "id": "sei-nangka",
+    "name": "Sei Nangka",
+    "district": "sei-kepayang-barat"
+  }
+]

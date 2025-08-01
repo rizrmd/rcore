@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tejah-barat",
+    "name": "Tejah Barat",
+    "district": "pamekasan"
+  },
+  {
+    "id": "tejah-timur",
+    "name": "Tejah Timur",
+    "district": "pamekasan"
+  },
+  {
+    "id": "jalmak",
+    "name": "Jalmak",
+    "district": "pamekasan"
+  },
+  {
+    "id": "laden",
+    "name": "Laden",
+    "district": "pamekasan"
+  },
+  {
+    "id": "panempan",
+    "name": "Panempan",
+    "district": "pamekasan"
+  },
+  {
+    "id": "kangenan",
+    "name": "Kangenan",
+    "district": "pamekasan"
+  },
+  {
+    "id": "patemon",
+    "name": "Patemon",
+    "district": "pamekasan"
+  },
+  {
+    "id": "barurambat-kota",
+    "name": "Barurambat Kota",
+    "district": "pamekasan"
+  },
+  {
+    "id": "parteker",
+    "name": "Parteker",
+    "district": "pamekasan"
+  },
+  {
+    "id": "jungcangcang",
+    "name": "Jungcangcang",
+    "district": "pamekasan"
+  },
+  {
+    "id": "nylabu-laok",
+    "name": "Nylabu Laok",
+    "district": "pamekasan"
+  },
+  {
+    "id": "nylabu-daya",
+    "name": "Nylabu Daya",
+    "district": "pamekasan"
+  },
+  {
+    "id": "bugih",
+    "name": "Bugih",
+    "district": "pamekasan"
+  },
+  {
+    "id": "gladak-anyar",
+    "name": "Gladak Anyar",
+    "district": "pamekasan"
+  },
+  {
+    "id": "kolpajung",
+    "name": "Kolpajung",
+    "district": "pamekasan"
+  },
+  {
+    "id": "kowel",
+    "name": "Kowel",
+    "district": "pamekasan"
+  },
+  {
+    "id": "toronan",
+    "name": "Toronan",
+    "district": "pamekasan"
+  }
+]

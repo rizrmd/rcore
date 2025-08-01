@@ -1,0 +1,32 @@
+[
+  {
+    "id": "watiaro",
+    "name": "Watiaro",
+    "district": "benuki"
+  },
+  {
+    "id": "baitanisa",
+    "name": "Baitanisa",
+    "district": "benuki"
+  },
+  {
+    "id": "dadat",
+    "name": "Dadat",
+    "district": "benuki"
+  },
+  {
+    "id": "kamai",
+    "name": "Kamai",
+    "district": "benuki"
+  },
+  {
+    "id": "gesa-baru",
+    "name": "Gesa Baru",
+    "district": "benuki"
+  },
+  {
+    "id": "kerema",
+    "name": "Kerema",
+    "district": "benuki"
+  }
+]

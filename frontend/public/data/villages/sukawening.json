@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "sukawening"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "sukawening"
+  },
+  {
+    "id": "mekarluyu",
+    "name": "Mekarluyu",
+    "district": "sukawening"
+  },
+  {
+    "id": "sukawening",
+    "name": "Sukawening",
+    "district": "sukawening"
+  },
+  {
+    "id": "sudalarang",
+    "name": "Sudalarang",
+    "district": "sukawening"
+  },
+  {
+    "id": "maripari",
+    "name": "Maripari",
+    "district": "sukawening"
+  },
+  {
+    "id": "sukahaji",
+    "name": "Sukahaji",
+    "district": "sukawening"
+  },
+  {
+    "id": "sukasono",
+    "name": "Sukasono",
+    "district": "sukawening"
+  },
+  {
+    "id": "sukaluyu",
+    "name": "Sukaluyu",
+    "district": "sukawening"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "sukawening"
+  },
+  {
+    "id": "mekarhurip",
+    "name": "Mekarhurip",
+    "district": "sukawening"
+  }
+]

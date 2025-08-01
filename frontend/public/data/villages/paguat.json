@@ -1,0 +1,57 @@
+[
+  {
+    "id": "libuo",
+    "name": "Libuo",
+    "district": "paguat"
+  },
+  {
+    "id": "pentadu",
+    "name": "Pentadu",
+    "district": "paguat"
+  },
+  {
+    "id": "siduan",
+    "name": "Siduan",
+    "district": "paguat"
+  },
+  {
+    "id": "bunuyo",
+    "name": "Bunuyo",
+    "district": "paguat"
+  },
+  {
+    "id": "sipayo",
+    "name": "Sipayo",
+    "district": "paguat"
+  },
+  {
+    "id": "soginti",
+    "name": "Soginti",
+    "district": "paguat"
+  },
+  {
+    "id": "maleo",
+    "name": "Maleo",
+    "district": "paguat"
+  },
+  {
+    "id": "bumbulan",
+    "name": "Bumbulan",
+    "district": "paguat"
+  },
+  {
+    "id": "buhu-jaya",
+    "name": "Buhu Jaya",
+    "district": "paguat"
+  },
+  {
+    "id": "molamahu",
+    "name": "Molamahu",
+    "district": "paguat"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "paguat"
+  }
+]

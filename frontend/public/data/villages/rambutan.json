@@ -1,0 +1,137 @@
+[
+  {
+    "id": "rantau-laban",
+    "name": "Rantau Laban",
+    "district": "rambutan"
+  },
+  {
+    "id": "sri-padang",
+    "name": "Sri Padang",
+    "district": "rambutan"
+  },
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "rambutan"
+  },
+  {
+    "id": "lalang",
+    "name": "Lalang",
+    "district": "rambutan"
+  },
+  {
+    "id": "tanjung-marulak",
+    "name": "Tanjung Marulak",
+    "district": "rambutan"
+  },
+  {
+    "id": "tanjung-marulak-hilir",
+    "name": "Tanjung Marulak Hilir",
+    "district": "rambutan"
+  },
+  {
+    "id": "mekar-sentosa",
+    "name": "Mekar Sentosa",
+    "district": "rambutan"
+  },
+  {
+    "id": "rambutan",
+    "name": "Rambutan",
+    "district": "rambutan"
+  },
+  {
+    "id": "kebon-sahang",
+    "name": "Kebon Sahang",
+    "district": "rambutan"
+  },
+  {
+    "id": "pulau-parang",
+    "name": "Pulau Parang",
+    "district": "rambutan"
+  },
+  {
+    "id": "siju",
+    "name": "Siju",
+    "district": "rambutan"
+  },
+  {
+    "id": "tanah-lembak",
+    "name": "Tanah Lembak",
+    "district": "rambutan"
+  },
+  {
+    "id": "parit",
+    "name": "Parit",
+    "district": "rambutan"
+  },
+  {
+    "id": "pelaju",
+    "name": "Pelaju",
+    "district": "rambutan"
+  },
+  {
+    "id": "suka-pindah",
+    "name": "Suka Pindah",
+    "district": "rambutan"
+  },
+  {
+    "id": "durian-gadis",
+    "name": "Durian Gadis",
+    "district": "rambutan"
+  },
+  {
+    "id": "tanjung-kerang",
+    "name": "Tanjung Kerang",
+    "district": "rambutan"
+  },
+  {
+    "id": "tanjung-merbu",
+    "name": "Tanjung Merbu",
+    "district": "rambutan"
+  },
+  {
+    "id": "gelebak-dalam",
+    "name": "Gelebak Dalam",
+    "district": "rambutan"
+  },
+  {
+    "id": "sako",
+    "name": "Sako",
+    "district": "rambutan"
+  },
+  {
+    "id": "pangkalan-gelebak",
+    "name": "Pangkalan Gelebak",
+    "district": "rambutan"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "rambutan"
+  },
+  {
+    "id": "sungai-kedukan",
+    "name": "Sungai Kedukan",
+    "district": "rambutan"
+  },
+  {
+    "id": "sungai-dua",
+    "name": "Sungai Dua",
+    "district": "rambutan"
+  },
+  {
+    "id": "menten",
+    "name": "Menten",
+    "district": "rambutan"
+  },
+  {
+    "id": "desa-baru",
+    "name": "Desa Baru",
+    "district": "rambutan"
+  },
+  {
+    "id": "jakabaring-selatan",
+    "name": "Jakabaring Selatan",
+    "district": "rambutan"
+  }
+]

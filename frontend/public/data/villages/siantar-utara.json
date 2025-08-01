@@ -1,0 +1,37 @@
+[
+  {
+    "id": "martoba",
+    "name": "Martoba",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "melayu",
+    "name": "Melayu",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "suka-dame",
+    "name": "Suka Dame",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "bane",
+    "name": "Bane",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "sigulang-gulang",
+    "name": "Sigulang Gulang",
+    "district": "siantar-utara"
+  },
+  {
+    "id": "kahean",
+    "name": "Kahean",
+    "district": "siantar-utara"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karangsono",
+    "name": "Karangsono",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "tisnogambar",
+    "name": "Tisnogambar",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "bangsalsari",
+    "name": "Bangsalsari",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "gambirono",
+    "name": "Gambirono",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "curah-kalong",
+    "name": "Curah Kalong",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "tugusari",
+    "name": "Tugusari",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "bangsalsari"
+  },
+  {
+    "id": "badean",
+    "name": "Badean",
+    "district": "bangsalsari"
+  }
+]

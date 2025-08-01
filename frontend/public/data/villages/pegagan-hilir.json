@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanjung-saluksuk",
+    "name": "Tanjung Saluksuk",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "simanduma",
+    "name": "Simanduma",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "bandar-huta-usang",
+    "name": "Bandar Huta Usang",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "lingga-raja",
+    "name": "Lingga Raja",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "onan-lama",
+    "name": "Onan Lama",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "bukit-tinggi",
+    "name": "Bukit Tinggi",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "laksa",
+    "name": "Laksa",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "simartugan",
+    "name": "Simartugan",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "perik-mbue",
+    "name": "Perik Mbue",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "lingga-raja-ii",
+    "name": "Lingga Raja Ii",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "bukit-baru",
+    "name": "Bukit Baru",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "mbinanga",
+    "name": "Mbinanga",
+    "district": "pegagan-hilir"
+  },
+  {
+    "id": "kuta-usang",
+    "name": "Kuta Usang",
+    "district": "pegagan-hilir"
+  }
+]

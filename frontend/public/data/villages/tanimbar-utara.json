@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lelingluan",
+    "name": "Lelingluan",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "ritabel",
+    "name": "Ritabel",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "ridool",
+    "name": "Ridool",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "waitidal",
+    "name": "Waitidal",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "keliober",
+    "name": "Keliober",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "lamdesar-timur",
+    "name": "Lamdesar Timur",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "lamdesar-barat",
+    "name": "Lamdesar Barat",
+    "district": "tanimbar-utara"
+  },
+  {
+    "id": "kelaan",
+    "name": "Kelaan",
+    "district": "tanimbar-utara"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "bogoran",
+    "name": "Bogoran",
+    "district": "sapuran"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "sapuran"
+  },
+  {
+    "id": "pecekelan",
+    "name": "Pecekelan",
+    "district": "sapuran"
+  },
+  {
+    "id": "glagah",
+    "name": "Glagah",
+    "district": "sapuran"
+  },
+  {
+    "id": "surojoyo",
+    "name": "Surojoyo",
+    "district": "sapuran"
+  },
+  {
+    "id": "talunombo",
+    "name": "Talunombo",
+    "district": "sapuran"
+  },
+  {
+    "id": "tempursari",
+    "name": "Tempursari",
+    "district": "sapuran"
+  },
+  {
+    "id": "sapuran",
+    "name": "Sapuran",
+    "district": "sapuran"
+  },
+  {
+    "id": "jolontoro",
+    "name": "Jolontoro",
+    "district": "sapuran"
+  },
+  {
+    "id": "sedayu",
+    "name": "Sedayu",
+    "district": "sapuran"
+  },
+  {
+    "id": "ngadisalam",
+    "name": "Ngadisalam",
+    "district": "sapuran"
+  },
+  {
+    "id": "tempuranduwur",
+    "name": "Tempuranduwur",
+    "district": "sapuran"
+  },
+  {
+    "id": "marongsari",
+    "name": "Marongsari",
+    "district": "sapuran"
+  },
+  {
+    "id": "batursari",
+    "name": "Batursari",
+    "district": "sapuran"
+  },
+  {
+    "id": "ngadikerso",
+    "name": "Ngadikerso",
+    "district": "sapuran"
+  },
+  {
+    "id": "rimpak",
+    "name": "Rimpak",
+    "district": "sapuran"
+  },
+  {
+    "id": "banyumudal",
+    "name": "Banyumudal",
+    "district": "sapuran"
+  }
+]

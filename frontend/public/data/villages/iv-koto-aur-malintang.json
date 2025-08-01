@@ -1,0 +1,27 @@
+[
+  {
+    "id": "iii-koto-aur-malintang",
+    "name": "Iii Koto Aur Malintang",
+    "district": "iv-koto-aur-malintang"
+  },
+  {
+    "id": "iii-koto-aur-malintang-selatan",
+    "name": "Iii Koto Aur Malintang Selatan",
+    "district": "iv-koto-aur-malintang"
+  },
+  {
+    "id": "iii-koto-aur-malintang-timur",
+    "name": "Iii Koto Aur Malintang Timur",
+    "district": "iv-koto-aur-malintang"
+  },
+  {
+    "id": "iii-koto-aur-malintang-utara",
+    "name": "Iii Koto Aur Malintang Utara",
+    "district": "iv-koto-aur-malintang"
+  },
+  {
+    "id": "balai-baik-malai-iii-koto",
+    "name": "Balai Baik Malai Iii Koto",
+    "district": "iv-koto-aur-malintang"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "malaka",
+    "name": "Malaka",
+    "district": "pemenang"
+  },
+  {
+    "id": "pemenang-barat",
+    "name": "Pemenang Barat",
+    "district": "pemenang"
+  },
+  {
+    "id": "pemenang-timur",
+    "name": "Pemenang Timur",
+    "district": "pemenang"
+  },
+  {
+    "id": "gili-indah",
+    "name": "Gili Indah",
+    "district": "pemenang"
+  }
+]

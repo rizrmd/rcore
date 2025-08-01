@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tanete-riaja",
+    "name": "Tanete Riaja",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "pujananting",
+    "name": "Pujananting",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "tanete-rilau",
+    "name": "Tanete Rilau",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "barru",
+    "name": "Barru",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "soppeng-riaja",
+    "name": "Soppeng Riaja",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "balusu",
+    "name": "Balusu",
+    "regency": "kabupaten-barru"
+  },
+  {
+    "id": "mallusetasi",
+    "name": "Mallusetasi",
+    "regency": "kabupaten-barru"
+  }
+]

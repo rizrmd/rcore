@@ -1,0 +1,87 @@
+[
+  {
+    "id": "kuapan",
+    "name": "Kuapan",
+    "district": "tambang"
+  },
+  {
+    "id": "aur-sati",
+    "name": "Aur Sati",
+    "district": "tambang"
+  },
+  {
+    "id": "tambang",
+    "name": "Tambang",
+    "district": "tambang"
+  },
+  {
+    "id": "padang-luas",
+    "name": "Padang Luas",
+    "district": "tambang"
+  },
+  {
+    "id": "gobah",
+    "name": "Gobah",
+    "district": "tambang"
+  },
+  {
+    "id": "terantang",
+    "name": "Terantang",
+    "district": "tambang"
+  },
+  {
+    "id": "rimba-panjang",
+    "name": "Rimba Panjang",
+    "district": "tambang"
+  },
+  {
+    "id": "kualu",
+    "name": "Kualu",
+    "district": "tambang"
+  },
+  {
+    "id": "teluk-kenidai",
+    "name": "Teluk Kenidai",
+    "district": "tambang"
+  },
+  {
+    "id": "parit-baru",
+    "name": "Parit Baru",
+    "district": "tambang"
+  },
+  {
+    "id": "kemang-indah",
+    "name": "Kemang Indah",
+    "district": "tambang"
+  },
+  {
+    "id": "sungai-pinang",
+    "name": "Sungai Pinang",
+    "district": "tambang"
+  },
+  {
+    "id": "kualu-nenas",
+    "name": "Kualu Nenas",
+    "district": "tambang"
+  },
+  {
+    "id": "tarai-bangun",
+    "name": "Tarai Bangun",
+    "district": "tambang"
+  },
+  {
+    "id": "palung-raya",
+    "name": "Palung Raya",
+    "district": "tambang"
+  },
+  {
+    "id": "pulau-permai",
+    "name": "Pulau Permai",
+    "district": "tambang"
+  },
+  {
+    "id": "balam-jaya",
+    "name": "Balam Jaya",
+    "district": "tambang"
+  }
+]

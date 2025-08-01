@@ -1,0 +1,47 @@
+[
+  {
+    "id": "domas",
+    "name": "Domas",
+    "district": "bulukerto"
+  },
+  {
+    "id": "nadi",
+    "name": "Nadi",
+    "district": "bulukerto"
+  },
+  {
+    "id": "ngaglik",
+    "name": "Ngaglik",
+    "district": "bulukerto"
+  },
+  {
+    "id": "bulurejo",
+    "name": "Bulurejo",
+    "district": "bulukerto"
+  },
+  {
+    "id": "bulukerto",
+    "name": "Bulukerto",
+    "district": "bulukerto"
+  },
+  {
+    "id": "krandegan",
+    "name": "Krandegan",
+    "district": "bulukerto"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "bulukerto"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "bulukerto"
+  },
+  {
+    "id": "conto",
+    "name": "Conto",
+    "district": "bulukerto"
+  }
+]

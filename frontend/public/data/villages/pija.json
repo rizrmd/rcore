@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nganai",
+    "name": "Nganai",
+    "district": "pija"
+  },
+  {
+    "id": "sitgama",
+    "name": "Sitgama",
+    "district": "pija"
+  },
+  {
+    "id": "pija",
+    "name": "Pija",
+    "district": "pija"
+  },
+  {
+    "id": "murupbaye",
+    "name": "Murupbaye",
+    "district": "pija"
+  },
+  {
+    "id": "siat",
+    "name": "Siat",
+    "district": "pija"
+  }
+]

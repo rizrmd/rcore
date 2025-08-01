@@ -1,0 +1,42 @@
+[
+  {
+    "id": "manunggal",
+    "name": "Manunggal",
+    "district": "okbi"
+  },
+  {
+    "id": "apmisibil",
+    "name": "Apmisibil",
+    "district": "okbi"
+  },
+  {
+    "id": "iriding",
+    "name": "Iriding",
+    "district": "okbi"
+  },
+  {
+    "id": "okbifisil",
+    "name": "Okbifisil",
+    "district": "okbi"
+  },
+  {
+    "id": "atolbol",
+    "name": "Atolbol",
+    "district": "okbi"
+  },
+  {
+    "id": "oktanglap",
+    "name": "Oktanglap",
+    "district": "okbi"
+  },
+  {
+    "id": "okaplo",
+    "name": "Okaplo",
+    "district": "okbi"
+  },
+  {
+    "id": "oksemar",
+    "name": "Oksemar",
+    "district": "okbi"
+  }
+]

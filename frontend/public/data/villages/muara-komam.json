@@ -1,0 +1,67 @@
+[
+  {
+    "id": "muara-langon",
+    "name": "Muara Langon",
+    "district": "muara-komam"
+  },
+  {
+    "id": "muara-komam",
+    "name": "Muara Komam",
+    "district": "muara-komam"
+  },
+  {
+    "id": "batu-butok",
+    "name": "Batu Butok",
+    "district": "muara-komam"
+  },
+  {
+    "id": "uko",
+    "name": "Uko",
+    "district": "muara-komam"
+  },
+  {
+    "id": "muara-kuaro",
+    "name": "Muara Kuaro",
+    "district": "muara-komam"
+  },
+  {
+    "id": "prayon",
+    "name": "Prayon",
+    "district": "muara-komam"
+  },
+  {
+    "id": "binangon",
+    "name": "Binangon",
+    "district": "muara-komam"
+  },
+  {
+    "id": "lusan",
+    "name": "Lusan",
+    "district": "muara-komam"
+  },
+  {
+    "id": "muara-payang",
+    "name": "Muara Payang",
+    "district": "muara-komam"
+  },
+  {
+    "id": "long-sayo",
+    "name": "Long Sayo",
+    "district": "muara-komam"
+  },
+  {
+    "id": "swan-slutung",
+    "name": "Swan Slutung",
+    "district": "muara-komam"
+  },
+  {
+    "id": "sekuan-makmur",
+    "name": "Sekuan Makmur",
+    "district": "muara-komam"
+  },
+  {
+    "id": "selerong",
+    "name": "Selerong",
+    "district": "muara-komam"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ketimavit",
+    "name": "Ketimavit",
+    "district": "wouma"
+  },
+  {
+    "id": "wouma",
+    "name": "Wouma",
+    "district": "wouma"
+  },
+  {
+    "id": "pipitmo",
+    "name": "Pipitmo",
+    "district": "wouma"
+  },
+  {
+    "id": "sinarekowa",
+    "name": "Sinarekowa",
+    "district": "wouma"
+  },
+  {
+    "id": "wesakma",
+    "name": "Wesakma",
+    "district": "wouma"
+  },
+  {
+    "id": "logonoba",
+    "name": "Logonoba",
+    "district": "wouma"
+  },
+  {
+    "id": "wesakin",
+    "name": "Wesakin",
+    "district": "wouma"
+  }
+]

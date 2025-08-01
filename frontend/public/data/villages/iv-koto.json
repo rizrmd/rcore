@@ -1,0 +1,37 @@
+[
+  {
+    "id": "koto-tuo",
+    "name": "Koto Tuo",
+    "district": "iv-koto"
+  },
+  {
+    "id": "balingka",
+    "name": "Balingka",
+    "district": "iv-koto"
+  },
+  {
+    "id": "sungai-landia",
+    "name": "Sungai Landia",
+    "district": "iv-koto"
+  },
+  {
+    "id": "koto-panjang",
+    "name": "Koto Panjang",
+    "district": "iv-koto"
+  },
+  {
+    "id": "sianok-anam-suku",
+    "name": "Sianok Anam Suku",
+    "district": "iv-koto"
+  },
+  {
+    "id": "koto-gadang",
+    "name": "Koto Gadang",
+    "district": "iv-koto"
+  },
+  {
+    "id": "guguak-tabek-sarojo",
+    "name": "Guguak Tabek Sarojo",
+    "district": "iv-koto"
+  }
+]

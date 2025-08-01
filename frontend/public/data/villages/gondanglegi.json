@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "bulupitu",
+    "name": "Bulupitu",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "panggungrejo",
+    "name": "Panggungrejo",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "gondanglegi-kulon",
+    "name": "Gondanglegi Kulon",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "gondanglegi-wetan",
+    "name": "Gondanglegi Wetan",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "sepanjang",
+    "name": "Sepanjang",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "putat-kidul",
+    "name": "Putat Kidul",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "putat-lor",
+    "name": "Putat Lor",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "ketawang",
+    "name": "Ketawang",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "ganjaran",
+    "name": "Ganjaran",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "putukrejo",
+    "name": "Putukrejo",
+    "district": "gondanglegi"
+  },
+  {
+    "id": "sumberjaya",
+    "name": "Sumberjaya",
+    "district": "gondanglegi"
+  }
+]

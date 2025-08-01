@@ -1,0 +1,17 @@
+[
+  {
+    "id": "tanjung-hutan",
+    "name": "Tanjung Hutan",
+    "district": "buru"
+  },
+  {
+    "id": "lubuk-puding",
+    "name": "Lubuk Puding",
+    "district": "buru"
+  },
+  {
+    "id": "tanjung-batu-kecil",
+    "name": "Tanjung Batu Kecil",
+    "district": "buru"
+  }
+]

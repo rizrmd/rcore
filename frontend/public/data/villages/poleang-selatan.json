@@ -1,0 +1,27 @@
+[
+  {
+    "id": "batu-putih",
+    "name": "Batu Putih",
+    "district": "poleang-selatan"
+  },
+  {
+    "id": "waemputang",
+    "name": "Waemputang",
+    "district": "poleang-selatan"
+  },
+  {
+    "id": "kalibaru",
+    "name": "Kalibaru",
+    "district": "poleang-selatan"
+  },
+  {
+    "id": "akacipong",
+    "name": "Akacipong",
+    "district": "poleang-selatan"
+  },
+  {
+    "id": "laea",
+    "name": "Laea",
+    "district": "poleang-selatan"
+  }
+]

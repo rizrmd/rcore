@@ -1,0 +1,92 @@
+[
+  {
+    "id": "wosi",
+    "name": "Wosi",
+    "district": "gane-timur"
+  },
+  {
+    "id": "saketa",
+    "name": "Saketa",
+    "district": "gane-timur"
+  },
+  {
+    "id": "akelamo",
+    "name": "Akelamo",
+    "district": "gane-timur"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "gane-timur"
+  },
+  {
+    "id": "rawa-jaya",
+    "name": "Rawa Jaya",
+    "district": "gane-timur"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "gane-timur"
+  },
+  {
+    "id": "bukit-raya",
+    "name": "Bukit Raya",
+    "district": "gane-timur"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "gane-timur"
+  },
+  {
+    "id": "lalubi",
+    "name": "Lalubi",
+    "district": "gane-timur"
+  },
+  {
+    "id": "maffa",
+    "name": "Maffa",
+    "district": "gane-timur"
+  },
+  {
+    "id": "foya",
+    "name": "Foya",
+    "district": "gane-timur"
+  },
+  {
+    "id": "tobaru",
+    "name": "Tobaru",
+    "district": "gane-timur"
+  },
+  {
+    "id": "foya-tobaru",
+    "name": "Foya Tobaru",
+    "district": "gane-timur"
+  },
+  {
+    "id": "waimili",
+    "name": "Waimili",
+    "district": "gane-timur"
+  },
+  {
+    "id": "tanjung-jere",
+    "name": "Tanjung Jere",
+    "district": "gane-timur"
+  },
+  {
+    "id": "kebun-raja",
+    "name": "Kebun Raja",
+    "district": "gane-timur"
+  },
+  {
+    "id": "kota-loow",
+    "name": "Kota Loow",
+    "district": "gane-timur"
+  },
+  {
+    "id": "cinta-damai",
+    "name": "Cinta Damai",
+    "district": "gane-timur"
+  }
+]

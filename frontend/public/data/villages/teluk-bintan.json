@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pangkil",
+    "name": "Pangkil",
+    "district": "teluk-bintan"
+  },
+  {
+    "id": "pengujan",
+    "name": "Pengujan",
+    "district": "teluk-bintan"
+  },
+  {
+    "id": "penaga",
+    "name": "Penaga",
+    "district": "teluk-bintan"
+  },
+  {
+    "id": "tembeling",
+    "name": "Tembeling",
+    "district": "teluk-bintan"
+  },
+  {
+    "id": "bintan-buyu",
+    "name": "Bintan Buyu",
+    "district": "teluk-bintan"
+  },
+  {
+    "id": "tembeling-tanjung",
+    "name": "Tembeling Tanjung",
+    "district": "teluk-bintan"
+  }
+]

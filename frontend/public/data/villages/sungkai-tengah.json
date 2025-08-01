@@ -1,0 +1,42 @@
+[
+  {
+    "id": "negeri-campang-jaya",
+    "name": "Negeri Campang Jaya",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "pampang-tangguk-jaya",
+    "name": "Pampang Tangguk Jaya",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "ratu-jaya",
+    "name": "Ratu Jaya",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "negeri-galih-rejo",
+    "name": "Negeri Galih Rejo",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "batu-nangkop",
+    "name": "Batu Nangkop",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "mekar-asri",
+    "name": "Mekar Asri",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "negara-bumi",
+    "name": "Negara Bumi",
+    "district": "sungkai-tengah"
+  },
+  {
+    "id": "melungun-ratu",
+    "name": "Melungun Ratu",
+    "district": "sungkai-tengah"
+  }
+]

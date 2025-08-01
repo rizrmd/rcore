@@ -1,0 +1,52 @@
+[
+  {
+    "id": "maba-selatan",
+    "name": "Maba Selatan",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "kota-maba",
+    "name": "Kota Maba",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "wasile-selatan",
+    "name": "Wasile Selatan",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "wasile",
+    "name": "Wasile",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "wasile-timur",
+    "name": "Wasile Timur",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "wasile-tengah",
+    "name": "Wasile Tengah",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "wasile-utara",
+    "name": "Wasile Utara",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "maba",
+    "name": "Maba",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "maba-tengah",
+    "name": "Maba Tengah",
+    "regency": "kabupaten-halmahera-timur"
+  },
+  {
+    "id": "maba-utara",
+    "name": "Maba Utara",
+    "regency": "kabupaten-halmahera-timur"
+  }
+]

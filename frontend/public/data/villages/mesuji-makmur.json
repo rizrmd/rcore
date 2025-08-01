@@ -1,0 +1,97 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "mesuji-jaya",
+    "name": "Mesuji Jaya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "pematang-bhina-tani",
+    "name": "Pematang Bhina Tani",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "bhina-karsa",
+    "name": "Bhina Karsa",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "cahaya-mas",
+    "name": "Cahaya Mas",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "pematang-sari",
+    "name": "Pematang Sari",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "pematang-jaya",
+    "name": "Pematang Jaya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "gading-sari",
+    "name": "Gading Sari",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "karya-usaha",
+    "name": "Karya Usaha",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "pematang-sukatani",
+    "name": "Pematang Sukatani",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "mukti-karya",
+    "name": "Mukti Karya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "surya-karta",
+    "name": "Surya Karta",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "catur-tunggal",
+    "name": "Catur Tunggal",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "pematang-sukaramah",
+    "name": "Pematang Sukaramah",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "cahaya-mulya",
+    "name": "Cahaya Mulya",
+    "district": "mesuji-makmur"
+  },
+  {
+    "id": "tegal-sari",
+    "name": "Tegal Sari",
+    "district": "mesuji-makmur"
+  }
+]

@@ -1,0 +1,65 @@
+name: Clear Cloudflare Cache
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  clear-cache:
+    runs-on: ubuntu-latest
+    environment: CLOUDFLARE_API_TOKEN  # Use the environment name where the secret is stored
+    
+    steps:
+    # Note: This workflow requires a CLOUDFLARE_API_TOKEN secret in GitHub
+    # The token needs the "Zone:Cache Purge" permission
+    # To create a token: https://dash.cloudflare.com/profile/api-tokens
+    # If using Global API Key instead, update the headers to use:
+    # --header 'X-Auth-Key: ${{ secrets.CLOUDFLARE_API_KEY }}' \
+    # --header 'X-Auth-Email: ${{ secrets.CLOUDFLARE_EMAIL }}' \
+    - name: Clear Cloudflare Cache
+      run: |
+        # Check if token is available (without revealing it)
+        if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
+          echo "ERROR: CLOUDFLARE_API_TOKEN secret is not set or empty"
+          exit 1
+        fi
+        
+        echo "Token is available, proceeding with cache clear..."
+        
+        # Clear cache for first zone
+        echo "Clearing cache for zone ca268d9f2645f032e8a88d9daf95cfb0..."
+        response1=$(curl --request POST \
+          --url https://api.cloudflare.com/client/v4/zones/ca268d9f2645f032e8a88d9daf95cfb0/purge_cache \
+          --header 'Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}' \
+          --header 'Content-Type: application/json' \
+          --data '{"purge_everything": true}' \
+          --silent \
+          --write-out "\nHTTP_CODE:%{http_code}")
+        
+        http_code1=$(echo "$response1" | grep "HTTP_CODE:" | cut -d: -f2)
+        body1=$(echo "$response1" | sed '/HTTP_CODE:/d')
+        
+        echo "Zone 1 Response: $body1"
+        echo "Zone 1 HTTP Code: $http_code1"
+        
+        # Clear cache for second zone
+        echo "Clearing cache for zone 0fe0465b273e9a1e74a995904b501290..."
+        response2=$(curl --request POST \
+          --url https://api.cloudflare.com/client/v4/zones/0fe0465b273e9a1e74a995904b501290/purge_cache \
+          --header 'Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}' \
+          --header 'Content-Type: application/json' \
+          --data '{"purge_everything": true}' \
+          --silent \
+          --write-out "\nHTTP_CODE:%{http_code}")
+        
+        http_code2=$(echo "$response2" | grep "HTTP_CODE:" | cut -d: -f2)
+        body2=$(echo "$response2" | sed '/HTTP_CODE:/d')
+        
+        echo "Zone 2 Response: $body2"
+        echo "Zone 2 HTTP Code: $http_code2"
+        
+        # Check if both requests succeeded
+        if [ "$http_code1" != "200" ] || [ "$http_code2" != "200" ]; then
+          echo "Failed to clear Cloudflare cache for one or both zones"
+          exit 1
+        fi

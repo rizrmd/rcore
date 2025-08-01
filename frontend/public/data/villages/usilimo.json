@@ -1,0 +1,52 @@
+[
+  {
+    "id": "usilimo",
+    "name": "Usilimo",
+    "district": "usilimo"
+  },
+  {
+    "id": "siba",
+    "name": "Siba",
+    "district": "usilimo"
+  },
+  {
+    "id": "wosiala",
+    "name": "Wosiala",
+    "district": "usilimo"
+  },
+  {
+    "id": "gua-wisata",
+    "name": "Gua Wisata",
+    "district": "usilimo"
+  },
+  {
+    "id": "fikha",
+    "name": "Fikha",
+    "district": "usilimo"
+  },
+  {
+    "id": "meagaima",
+    "name": "Meagaima",
+    "district": "usilimo"
+  },
+  {
+    "id": "alona",
+    "name": "Alona",
+    "district": "usilimo"
+  },
+  {
+    "id": "udulumo",
+    "name": "Udulumo",
+    "district": "usilimo"
+  },
+  {
+    "id": "abutpuk",
+    "name": "Abutpuk",
+    "district": "usilimo"
+  },
+  {
+    "id": "isaiman",
+    "name": "Isaiman",
+    "district": "usilimo"
+  }
+]

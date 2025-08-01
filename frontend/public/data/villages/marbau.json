@@ -1,0 +1,92 @@
+[
+  {
+    "id": "perkebunan-pernantian",
+    "name": "Perkebunan Pernantian",
+    "district": "marbau"
+  },
+  {
+    "id": "perkebunan-marbau-selatan",
+    "name": "Perkebunan Marbau Selatan",
+    "district": "marbau"
+  },
+  {
+    "id": "perkebunan-milano",
+    "name": "Perkebunan Milano",
+    "district": "marbau"
+  },
+  {
+    "id": "pulo-bargot",
+    "name": "Pulo Bargot",
+    "district": "marbau"
+  },
+  {
+    "id": "sumber-mulyo",
+    "name": "Sumber Mulyo",
+    "district": "marbau"
+  },
+  {
+    "id": "sipare-pare-hilir",
+    "name": "Sipare Pare Hilir",
+    "district": "marbau"
+  },
+  {
+    "id": "sipare-pare-tengah",
+    "name": "Sipare Pare Tengah",
+    "district": "marbau"
+  },
+  {
+    "id": "tubiran",
+    "name": "Tubiran",
+    "district": "marbau"
+  },
+  {
+    "id": "belongkut",
+    "name": "Belongkut",
+    "district": "marbau"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "marbau"
+  },
+  {
+    "id": "marbau",
+    "name": "Marbau",
+    "district": "marbau"
+  },
+  {
+    "id": "babussalam",
+    "name": "Babussalam",
+    "district": "marbau"
+  },
+  {
+    "id": "marbau-selatan",
+    "name": "Marbau Selatan",
+    "district": "marbau"
+  },
+  {
+    "id": "aek-tapa",
+    "name": "Aek Tapa",
+    "district": "marbau"
+  },
+  {
+    "id": "lobu-rampah",
+    "name": "Lobu Rampah",
+    "district": "marbau"
+  },
+  {
+    "id": "perkebunan-brussel",
+    "name": "Perkebunan Brussel",
+    "district": "marbau"
+  },
+  {
+    "id": "bulungihit",
+    "name": "Bulungihit",
+    "district": "marbau"
+  },
+  {
+    "id": "aek-hitetoras",
+    "name": "Aek Hitetoras",
+    "district": "marbau"
+  }
+]

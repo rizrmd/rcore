@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lebak",
+    "name": "Lebak",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "bulungan",
+    "name": "Bulungan",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "suwawal-timur",
+    "name": "Suwawal Timur",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "kawak",
+    "name": "Kawak",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "plajan",
+    "name": "Plajan",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "slagi",
+    "name": "Slagi",
+    "district": "pakis-aji"
+  },
+  {
+    "id": "mambak",
+    "name": "Mambak",
+    "district": "pakis-aji"
+  }
+]

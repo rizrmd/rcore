@@ -1,0 +1,67 @@
+[
+  {
+    "id": "klapayan",
+    "name": "Klapayan",
+    "district": "sepulu"
+  },
+  {
+    "id": "bangsereh",
+    "name": "Bangsereh",
+    "district": "sepulu"
+  },
+  {
+    "id": "saplasah",
+    "name": "Saplasah",
+    "district": "sepulu"
+  },
+  {
+    "id": "gunelap",
+    "name": "Gunelap",
+    "district": "sepulu"
+  },
+  {
+    "id": "tanagura-timur",
+    "name": "Tanagura Timur",
+    "district": "sepulu"
+  },
+  {
+    "id": "tanagura-barat",
+    "name": "Tanagura Barat",
+    "district": "sepulu"
+  },
+  {
+    "id": "banyior",
+    "name": "Banyior",
+    "district": "sepulu"
+  },
+  {
+    "id": "klabetan",
+    "name": "Klabetan",
+    "district": "sepulu"
+  },
+  {
+    "id": "gangseyan",
+    "name": "Gangseyan",
+    "district": "sepulu"
+  },
+  {
+    "id": "maneron",
+    "name": "Maneron",
+    "district": "sepulu"
+  },
+  {
+    "id": "prancak",
+    "name": "Prancak",
+    "district": "sepulu"
+  },
+  {
+    "id": "labuhan",
+    "name": "Labuhan",
+    "district": "sepulu"
+  },
+  {
+    "id": "lembung-paseser",
+    "name": "Lembung Paseser",
+    "district": "sepulu"
+  }
+]

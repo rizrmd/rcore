@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bebanga",
+    "name": "Bebanga",
+    "district": "kalukku"
+  },
+  {
+    "id": "sinyonyoi",
+    "name": "Sinyonyoi",
+    "district": "kalukku"
+  },
+  {
+    "id": "k-e-a-n-g",
+    "name": "K E A N G",
+    "district": "kalukku"
+  },
+  {
+    "id": "sondoang",
+    "name": "Sondoang",
+    "district": "kalukku"
+  },
+  {
+    "id": "kalukku",
+    "name": "Kalukku",
+    "district": "kalukku"
+  },
+  {
+    "id": "kabuloang",
+    "name": "Kabuloang",
+    "district": "kalukku"
+  },
+  {
+    "id": "belang-belang",
+    "name": "Belang-Belang",
+    "district": "kalukku"
+  },
+  {
+    "id": "pokkang",
+    "name": "Pokkang",
+    "district": "kalukku"
+  },
+  {
+    "id": "guliling",
+    "name": "Guliling",
+    "district": "kalukku"
+  },
+  {
+    "id": "uhaimate",
+    "name": "Uhaimate",
+    "district": "kalukku"
+  },
+  {
+    "id": "kalukku-barat",
+    "name": "Kalukku Barat",
+    "district": "kalukku"
+  },
+  {
+    "id": "pammulukang",
+    "name": "Pammulukang",
+    "district": "kalukku"
+  },
+  {
+    "id": "sinyonyoi-selatan",
+    "name": "Sinyonyoi Selatan",
+    "district": "kalukku"
+  }
+]

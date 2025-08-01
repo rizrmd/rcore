@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lawang-kanji",
+    "name": "Lawang Kanji",
+    "district": "damang-batu"
+  },
+  {
+    "id": "tumbang-maraya",
+    "name": "Tumbang Maraya",
+    "district": "damang-batu"
+  },
+  {
+    "id": "tumbang-posu",
+    "name": "Tumbang Posu",
+    "district": "damang-batu"
+  },
+  {
+    "id": "tumbang-marikoi",
+    "name": "Tumbang Marikoi",
+    "district": "damang-batu"
+  },
+  {
+    "id": "karetau-rambangun",
+    "name": "Karetau Rambangun",
+    "district": "damang-batu"
+  },
+  {
+    "id": "tumbang-anoi",
+    "name": "Tumbang Anoi",
+    "district": "damang-batu"
+  },
+  {
+    "id": "karetau-sarian",
+    "name": "Karetau Sarian",
+    "district": "damang-batu"
+  },
+  {
+    "id": "tumbang-mahuroi",
+    "name": "Tumbang Mahuroi",
+    "district": "damang-batu"
+  }
+]

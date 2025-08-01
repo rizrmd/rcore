@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wondamawi-ii",
+    "name": "Wondamawi   Ii",
+    "district": "wasior"
+  },
+  {
+    "id": "manopi",
+    "name": "Manopi",
+    "district": "wasior"
+  },
+  {
+    "id": "maniwak",
+    "name": "Maniwak",
+    "district": "wasior"
+  },
+  {
+    "id": "wasior-i",
+    "name": "Wasior I",
+    "district": "wasior"
+  },
+  {
+    "id": "wasior-ii",
+    "name": "Wasior Ii",
+    "district": "wasior"
+  },
+  {
+    "id": "rado",
+    "name": "Rado",
+    "district": "wasior"
+  },
+  {
+    "id": "dotir",
+    "name": "Dotir",
+    "district": "wasior"
+  },
+  {
+    "id": "iriati",
+    "name": "Iriati",
+    "district": "wasior"
+  },
+  {
+    "id": "moru",
+    "name": "Moru",
+    "district": "wasior"
+  },
+  {
+    "id": "maimare",
+    "name": "Maimare",
+    "district": "wasior"
+  }
+]

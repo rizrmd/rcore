@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tanjung-baru",
+    "name": "Tanjung Baru",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "kemala-raja",
+    "name": "Kemala Raja",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "sukaraya",
+    "name": "Sukaraya",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "tanjung-kemala",
+    "name": "Tanjung Kemala",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "air-pauh",
+    "name": "Air Pauh",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "baturaja-permai",
+    "name": "Baturaja Permai",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "terusan",
+    "name": "Terusan",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "sekar-jaya",
+    "name": "Sekar Jaya",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "sepancar-lawang-kulon",
+    "name": "Sepancar Lawang Kulon",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "kemelak-bindung-langit",
+    "name": "Kemelak Bindung Langit",
+    "district": "batu-raja-timur"
+  },
+  {
+    "id": "baturaja-lama",
+    "name": "Baturaja Lama",
+    "district": "batu-raja-timur"
+  }
+]

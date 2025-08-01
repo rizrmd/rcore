@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sungai-cabang",
+    "name": "Sungai Cabang",
+    "district": "kumai"
+  },
+  {
+    "id": "teluk-pulai",
+    "name": "Teluk Pulai",
+    "district": "kumai"
+  },
+  {
+    "id": "sungai-sekonyer",
+    "name": "Sungai Sekonyer",
+    "district": "kumai"
+  },
+  {
+    "id": "sungai-bakau",
+    "name": "Sungai Bakau",
+    "district": "kumai"
+  },
+  {
+    "id": "teluk-bogam",
+    "name": "Teluk Bogam",
+    "district": "kumai"
+  },
+  {
+    "id": "keraya",
+    "name": "Keraya",
+    "district": "kumai"
+  },
+  {
+    "id": "sebuai",
+    "name": "Sebuai",
+    "district": "kumai"
+  },
+  {
+    "id": "sungai-kapitan",
+    "name": "Sungai Kapitan",
+    "district": "kumai"
+  },
+  {
+    "id": "kumai-hilir",
+    "name": "Kumai Hilir",
+    "district": "kumai"
+  },
+  {
+    "id": "batu-belaman",
+    "name": "Batu Belaman",
+    "district": "kumai"
+  },
+  {
+    "id": "sungai-tendang",
+    "name": "Sungai Tendang",
+    "district": "kumai"
+  },
+  {
+    "id": "candi",
+    "name": "Candi",
+    "district": "kumai"
+  },
+  {
+    "id": "kumai-hulu",
+    "name": "Kumai Hulu",
+    "district": "kumai"
+  },
+  {
+    "id": "sungai-bedaun",
+    "name": "Sungai Bedaun",
+    "district": "kumai"
+  },
+  {
+    "id": "sabuai-timur",
+    "name": "Sabuai Timur",
+    "district": "kumai"
+  },
+  {
+    "id": "bumi-harjo",
+    "name": "Bumi Harjo",
+    "district": "kumai"
+  },
+  {
+    "id": "pangkalan-satu",
+    "name": "Pangkalan Satu",
+    "district": "kumai"
+  }
+]

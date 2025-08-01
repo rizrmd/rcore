@@ -1,0 +1,87 @@
+[
+  {
+    "id": "siregar-aek-nalas",
+    "name": "Siregar Aek Nalas",
+    "district": "uluan"
+  },
+  {
+    "id": "sigaol-barat",
+    "name": "Sigaol Barat",
+    "district": "uluan"
+  },
+  {
+    "id": "sigaol-timur",
+    "name": "Sigaol Timur",
+    "district": "uluan"
+  },
+  {
+    "id": "marom",
+    "name": "Marom",
+    "district": "uluan"
+  },
+  {
+    "id": "sibuntuon",
+    "name": "Sibuntuon",
+    "district": "uluan"
+  },
+  {
+    "id": "dolok-saribu-janji-matogu",
+    "name": "Dolok Saribu Janji Matogu",
+    "district": "uluan"
+  },
+  {
+    "id": "partor-janji-matogu",
+    "name": "Partor Janji Matogu",
+    "district": "uluan"
+  },
+  {
+    "id": "parbagasan-janji-matogu",
+    "name": "Parbagasan Janji Matogu",
+    "district": "uluan"
+  },
+  {
+    "id": "partoruan-janji-matogu",
+    "name": "Partoruan Janji Matogu",
+    "district": "uluan"
+  },
+  {
+    "id": "parhabinsaran-janji-matogu",
+    "name": "Parhabinsaran Janji Matogu",
+    "district": "uluan"
+  },
+  {
+    "id": "lumban-binanga",
+    "name": "Lumban Binanga",
+    "district": "uluan"
+  },
+  {
+    "id": "lumban-holbung-lumban-nabolon",
+    "name": "Lumban Holbung Lumban Nabolon",
+    "district": "uluan"
+  },
+  {
+    "id": "lumban-nabolon",
+    "name": "Lumban Nabolon",
+    "district": "uluan"
+  },
+  {
+    "id": "dolok-nagodang",
+    "name": "Dolok Nagodang",
+    "district": "uluan"
+  },
+  {
+    "id": "parik",
+    "name": "Parik",
+    "district": "uluan"
+  },
+  {
+    "id": "dolok-saribu-lumban-nabolon",
+    "name": "Dolok Saribu Lumban Nabolon",
+    "district": "uluan"
+  },
+  {
+    "id": "sampuara",
+    "name": "Sampuara",
+    "district": "uluan"
+  }
+]

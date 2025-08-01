@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sitanduk",
+    "name": "Sitanduk",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "tara-bintang",
+    "name": "Tara Bintang",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "sibongkare",
+    "name": "Sibongkare",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "sihombu",
+    "name": "Sihombu",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "sihotang-hasugian-toruan",
+    "name": "Sihotang Hasugian Toruan",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "simbara",
+    "name": "Simbara",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "mungkur",
+    "name": "Mungkur",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "sianju",
+    "name": "Sianju",
+    "district": "tara-bintang"
+  },
+  {
+    "id": "marpadan",
+    "name": "Marpadan",
+    "district": "tara-bintang"
+  }
+]

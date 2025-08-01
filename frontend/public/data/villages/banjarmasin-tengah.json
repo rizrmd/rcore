@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kelayan-luar",
+    "name": "Kelayan Luar",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "kertak-baru-ilir",
+    "name": "Kertak Baru Ilir",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "mawar",
+    "name": "Mawar",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "teluk-dalam",
+    "name": "Teluk Dalam",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "kertak-baru-ulu",
+    "name": "Kertak Baru Ulu",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "pekapuran-laut",
+    "name": "Pekapuran Laut",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "sungai-baru",
+    "name": "Sungai Baru",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "gadang",
+    "name": "Gadang",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "antasan-besar",
+    "name": "Antasan Besar",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "pasar-lama",
+    "name": "Pasar Lama",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "seberang-mesjid",
+    "name": "Seberang Mesjid",
+    "district": "banjarmasin-tengah"
+  },
+  {
+    "id": "melayu",
+    "name": "Melayu",
+    "district": "banjarmasin-tengah"
+  }
+]

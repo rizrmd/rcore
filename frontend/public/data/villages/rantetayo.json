@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kelurahan-tapparan",
+    "name": "Kelurahan Tapparan",
+    "district": "rantetayo"
+  },
+  {
+    "id": "kelurahan-rantetayo",
+    "name": "Kelurahan Rantetayo",
+    "district": "rantetayo"
+  },
+  {
+    "id": "lembang-madandan",
+    "name": "Lembang Madandan",
+    "district": "rantetayo"
+  },
+  {
+    "id": "lembang-tapparan-utara",
+    "name": "Lembang Tapparan Utara",
+    "district": "rantetayo"
+  },
+  {
+    "id": "kelurahan-padang-iring",
+    "name": "Kelurahan Padang Iring",
+    "district": "rantetayo"
+  },
+  {
+    "id": "lembang-tonglo",
+    "name": "Lembang Tonglo",
+    "district": "rantetayo"
+  }
+]

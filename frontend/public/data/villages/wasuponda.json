@@ -1,0 +1,27 @@
+[
+  {
+    "id": "balambano",
+    "name": "Balambano",
+    "district": "wasuponda"
+  },
+  {
+    "id": "tabarano",
+    "name": "Tabarano",
+    "district": "wasuponda"
+  },
+  {
+    "id": "wasuponda",
+    "name": "Wasuponda",
+    "district": "wasuponda"
+  },
+  {
+    "id": "kawata",
+    "name": "Kawata",
+    "district": "wasuponda"
+  },
+  {
+    "id": "parumpanai",
+    "name": "Parumpanai",
+    "district": "wasuponda"
+  }
+]

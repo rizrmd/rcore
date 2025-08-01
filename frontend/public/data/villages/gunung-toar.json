@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pulau-rumput",
+    "name": "Pulau Rumput",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "koto-gunung",
+    "name": "Koto Gunung",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "teluk-beringin",
+    "name": "Teluk Beringin",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "pulau-mungkur",
+    "name": "Pulau Mungkur",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "seberang-gunung",
+    "name": "Seberang Gunung",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "teberau-panjang",
+    "name": "Teberau Panjang",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "gunung",
+    "name": "Gunung",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "toar",
+    "name": "Toar",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "petapahan",
+    "name": "Petapahan",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "lubuk-terantang",
+    "name": "Lubuk Terantang",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "siberobah",
+    "name": "Siberobah",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "pisang-berebus",
+    "name": "Pisang Berebus",
+    "district": "gunung-toar"
+  },
+  {
+    "id": "seberang-sungai",
+    "name": "Seberang Sungai",
+    "district": "gunung-toar"
+  }
+]

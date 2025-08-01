@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sungai-mengkuang",
+    "name": "Sungai Mengkuang",
+    "district": "rimbo-tengah"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "rimbo-tengah"
+  },
+  {
+    "id": "kelurahan-pasir-putih",
+    "name": "Kelurahan Pasir Putih",
+    "district": "rimbo-tengah"
+  },
+  {
+    "id": "kelurahan-cadika",
+    "name": "Kelurahan Cadika",
+    "district": "rimbo-tengah"
+  }
+]

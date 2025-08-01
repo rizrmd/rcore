@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mahala",
+    "name": "Mahala",
+    "district": "tinada"
+  },
+  {
+    "id": "tinada",
+    "name": "Tinada",
+    "district": "tinada"
+  },
+  {
+    "id": "silimakuta",
+    "name": "Silimakuta",
+    "district": "tinada"
+  },
+  {
+    "id": "kuta-babo",
+    "name": "Kuta Babo",
+    "district": "tinada"
+  },
+  {
+    "id": "prongil",
+    "name": "Prongil",
+    "district": "tinada"
+  },
+  {
+    "id": "buluh-tellang",
+    "name": "Buluh Tellang",
+    "district": "tinada"
+  }
+]

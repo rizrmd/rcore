@@ -1,0 +1,327 @@
+[
+  {
+    "id": "srimulyo",
+    "name": "Srimulyo",
+    "district": "gondang"
+  },
+  {
+    "id": "tegalrejo",
+    "name": "Tegalrejo",
+    "district": "gondang"
+  },
+  {
+    "id": "glonggong",
+    "name": "Glonggong",
+    "district": "gondang"
+  },
+  {
+    "id": "kaliwedi",
+    "name": "Kaliwedi",
+    "district": "gondang"
+  },
+  {
+    "id": "plosorejo",
+    "name": "Plosorejo",
+    "district": "gondang"
+  },
+  {
+    "id": "wonotolo",
+    "name": "Wonotolo",
+    "district": "gondang"
+  },
+  {
+    "id": "bumiaji",
+    "name": "Bumiaji",
+    "district": "gondang"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "gondang"
+  },
+  {
+    "id": "kendal",
+    "name": "Kendal",
+    "district": "gondang"
+  },
+  {
+    "id": "tawing",
+    "name": "Tawing",
+    "district": "gondang"
+  },
+  {
+    "id": "gondosuli",
+    "name": "Gondosuli",
+    "district": "gondang"
+  },
+  {
+    "id": "sepatan",
+    "name": "Sepatan",
+    "district": "gondang"
+  },
+  {
+    "id": "macanbang",
+    "name": "Macanbang",
+    "district": "gondang"
+  },
+  {
+    "id": "kiping",
+    "name": "Kiping",
+    "district": "gondang"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "gondang"
+  },
+  {
+    "id": "bendo",
+    "name": "Bendo",
+    "district": "gondang"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "gondang"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "gondang"
+  },
+  {
+    "id": "mojoarum",
+    "name": "Mojoarum",
+    "district": "gondang"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "gondang"
+  },
+  {
+    "id": "notorejo",
+    "name": "Notorejo",
+    "district": "gondang"
+  },
+  {
+    "id": "sidem",
+    "name": "Sidem",
+    "district": "gondang"
+  },
+  {
+    "id": "blendis",
+    "name": "Blendis",
+    "district": "gondang"
+  },
+  {
+    "id": "tiudan",
+    "name": "Tiudan",
+    "district": "gondang"
+  },
+  {
+    "id": "wonokromo",
+    "name": "Wonokromo",
+    "district": "gondang"
+  },
+  {
+    "id": "jarakan",
+    "name": "Jarakan",
+    "district": "gondang"
+  },
+  {
+    "id": "ngembat",
+    "name": "Ngembat",
+    "district": "gondang"
+  },
+  {
+    "id": "jatidukuh",
+    "name": "Jatidukuh",
+    "district": "gondang"
+  },
+  {
+    "id": "kalikatir",
+    "name": "Kalikatir",
+    "district": "gondang"
+  },
+  {
+    "id": "dilem",
+    "name": "Dilem",
+    "district": "gondang"
+  },
+  {
+    "id": "begaganlimo",
+    "name": "Begaganlimo",
+    "district": "gondang"
+  },
+  {
+    "id": "kemasantani",
+    "name": "Kemasantani",
+    "district": "gondang"
+  },
+  {
+    "id": "padi",
+    "name": "Padi",
+    "district": "gondang"
+  },
+  {
+    "id": "centong",
+    "name": "Centong",
+    "district": "gondang"
+  },
+  {
+    "id": "bakalan",
+    "name": "Bakalan",
+    "district": "gondang"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "gondang"
+  },
+  {
+    "id": "pugeran",
+    "name": "Pugeran",
+    "district": "gondang"
+  },
+  {
+    "id": "kebontunggul",
+    "name": "Kebontunggul",
+    "district": "gondang"
+  },
+  {
+    "id": "wonoploso",
+    "name": "Wonoploso",
+    "district": "gondang"
+  },
+  {
+    "id": "pohjejer",
+    "name": "Pohjejer",
+    "district": "gondang"
+  },
+  {
+    "id": "bening",
+    "name": "Bening",
+    "district": "gondang"
+  },
+  {
+    "id": "karangkuten",
+    "name": "Karangkuten",
+    "district": "gondang"
+  },
+  {
+    "id": "tawar",
+    "name": "Tawar",
+    "district": "gondang"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "gondang"
+  },
+  {
+    "id": "nglinggo",
+    "name": "Nglinggo",
+    "district": "gondang"
+  },
+  {
+    "id": "mojoseto",
+    "name": "Mojoseto",
+    "district": "gondang"
+  },
+  {
+    "id": "karangsemi",
+    "name": "Karangsemi",
+    "district": "gondang"
+  },
+  {
+    "id": "senjayan",
+    "name": "Senjayan",
+    "district": "gondang"
+  },
+  {
+    "id": "jaan",
+    "name": "Jaan",
+    "district": "gondang"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "gondang"
+  },
+  {
+    "id": "ketawang",
+    "name": "Ketawang",
+    "district": "gondang"
+  },
+  {
+    "id": "losari",
+    "name": "Losari",
+    "district": "gondang"
+  },
+  {
+    "id": "sanggrahan",
+    "name": "Sanggrahan",
+    "district": "gondang"
+  },
+  {
+    "id": "balong-gebang",
+    "name": "Balong Gebang",
+    "district": "gondang"
+  },
+  {
+    "id": "pandean",
+    "name": "Pandean",
+    "district": "gondang"
+  },
+  {
+    "id": "campur",
+    "name": "Campur",
+    "district": "gondang"
+  },
+  {
+    "id": "gondang-kulon",
+    "name": "Gondang Kulon",
+    "district": "gondang"
+  },
+  {
+    "id": "senggowar",
+    "name": "Senggowar",
+    "district": "gondang"
+  },
+  {
+    "id": "krondonan",
+    "name": "Krondonan",
+    "district": "gondang"
+  },
+  {
+    "id": "sambongrejo",
+    "name": "Sambongrejo",
+    "district": "gondang"
+  },
+  {
+    "id": "pajeng",
+    "name": "Pajeng",
+    "district": "gondang"
+  },
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "gondang"
+  },
+  {
+    "id": "jari",
+    "name": "Jari",
+    "district": "gondang"
+  },
+  {
+    "id": "sengaten",
+    "name": "Sengaten",
+    "district": "gondang"
+  },
+  {
+    "id": "pragelan",
+    "name": "Pragelan",
+    "district": "gondang"
+  }
+]

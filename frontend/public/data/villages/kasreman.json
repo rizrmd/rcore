@@ -1,0 +1,42 @@
+[
+  {
+    "id": "jatirejo",
+    "name": "Jatirejo",
+    "district": "kasreman"
+  },
+  {
+    "id": "cangakan",
+    "name": "Cangakan",
+    "district": "kasreman"
+  },
+  {
+    "id": "karang-malang",
+    "name": "Karang Malang",
+    "district": "kasreman"
+  },
+  {
+    "id": "kasreman",
+    "name": "Kasreman",
+    "district": "kasreman"
+  },
+  {
+    "id": "lego-kulon",
+    "name": "Lego Kulon",
+    "district": "kasreman"
+  },
+  {
+    "id": "tawun",
+    "name": "Tawun",
+    "district": "kasreman"
+  },
+  {
+    "id": "kiyonten",
+    "name": "Kiyonten",
+    "district": "kasreman"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "kasreman"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sekonau",
+    "name": "Sekonau",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "cupang-gading",
+    "name": "Cupang Gading",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "nanga-biaban",
+    "name": "Nanga Biaban",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "mondi",
+    "name": "Mondi",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "tapang-perodah",
+    "name": "Tapang Perodah",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "sungai-sambang",
+    "name": "Sungai Sambang",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "rawak-hilir",
+    "name": "Rawak Hilir",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "rawak-hulu",
+    "name": "Rawak Hulu",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "tinting-boyok",
+    "name": "Tinting Boyok",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "perongkan",
+    "name": "Perongkan",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "nanga-manterap",
+    "name": "Nanga Manterap",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "boti",
+    "name": "Boti",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "setawar",
+    "name": "Setawar",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "nanga-pemubuh",
+    "name": "Nanga Pemubuh",
+    "district": "sekadau-hulu"
+  },
+  {
+    "id": "sunsong",
+    "name": "Sunsong",
+    "district": "sekadau-hulu"
+  }
+]

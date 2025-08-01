@@ -1,0 +1,32 @@
+[
+  {
+    "id": "caringin-nunggal",
+    "name": "Caringin Nunggal",
+    "district": "waluran"
+  },
+  {
+    "id": "waluran",
+    "name": "Waluran",
+    "district": "waluran"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "waluran"
+  },
+  {
+    "id": "mekar-mukti",
+    "name": "Mekar Mukti",
+    "district": "waluran"
+  },
+  {
+    "id": "waluran-mandiri",
+    "name": "Waluran Mandiri",
+    "district": "waluran"
+  },
+  {
+    "id": "mangunjaya",
+    "name": "Mangunjaya",
+    "district": "waluran"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cemparam-jaya",
+    "name": "Cemparam Jaya",
+    "district": "mesidah"
+  },
+  {
+    "id": "jamur-atu",
+    "name": "Jamur Atu",
+    "district": "mesidah"
+  },
+  {
+    "id": "gunung-sayang",
+    "name": "Gunung Sayang",
+    "district": "mesidah"
+  },
+  {
+    "id": "wih-resap",
+    "name": "Wih Resap",
+    "district": "mesidah"
+  },
+  {
+    "id": "simpur",
+    "name": "Simpur",
+    "district": "mesidah"
+  },
+  {
+    "id": "amor",
+    "name": "Amor",
+    "district": "mesidah"
+  },
+  {
+    "id": "buntul-gayo",
+    "name": "Buntul Gayo",
+    "district": "mesidah"
+  },
+  {
+    "id": "wer-tingkem",
+    "name": "Wer Tingkem",
+    "district": "mesidah"
+  },
+  {
+    "id": "hakim-peteri-pintu",
+    "name": "Hakim Peteri Pintu",
+    "district": "mesidah"
+  },
+  {
+    "id": "perumpakan-benjadi",
+    "name": "Perumpakan Benjadi",
+    "district": "mesidah"
+  },
+  {
+    "id": "cemparam-lama",
+    "name": "Cemparam Lama",
+    "district": "mesidah"
+  },
+  {
+    "id": "cemparam-pakat-jeroh",
+    "name": "Cemparam Pakat Jeroh",
+    "district": "mesidah"
+  },
+  {
+    "id": "simpang-renggali",
+    "name": "Simpang Renggali",
+    "district": "mesidah"
+  },
+  {
+    "id": "sosial",
+    "name": "Sosial",
+    "district": "mesidah"
+  },
+  {
+    "id": "pantan-kuli",
+    "name": "Pantan Kuli",
+    "district": "mesidah"
+  }
+]

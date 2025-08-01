@@ -1,0 +1,32 @@
+[
+  {
+    "id": "air-salemba",
+    "name": "Air Salemba",
+    "district": "gabek"
+  },
+  {
+    "id": "gabek-satu",
+    "name": "Gabek Satu",
+    "district": "gabek"
+  },
+  {
+    "id": "gabek-dua",
+    "name": "Gabek Dua",
+    "district": "gabek"
+  },
+  {
+    "id": "selindung-baru",
+    "name": "Selindung Baru",
+    "district": "gabek"
+  },
+  {
+    "id": "selindung",
+    "name": "Selindung",
+    "district": "gabek"
+  },
+  {
+    "id": "jerambah-gantung",
+    "name": "Jerambah Gantung",
+    "district": "gabek"
+  }
+]

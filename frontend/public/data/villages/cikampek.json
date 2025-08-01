@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kalihurip",
+    "name": "Kalihurip",
+    "district": "cikampek"
+  },
+  {
+    "id": "kamojing",
+    "name": "Kamojing",
+    "district": "cikampek"
+  },
+  {
+    "id": "cikampek-timur",
+    "name": "Cikampek Timur",
+    "district": "cikampek"
+  },
+  {
+    "id": "cikampek-pusaka",
+    "name": "Cikampek Pusaka",
+    "district": "cikampek"
+  },
+  {
+    "id": "cikampek-selatan",
+    "name": "Cikampek Selatan",
+    "district": "cikampek"
+  },
+  {
+    "id": "cikampek-kota",
+    "name": "Cikampek Kota",
+    "district": "cikampek"
+  },
+  {
+    "id": "cikampek-barat",
+    "name": "Cikampek Barat",
+    "district": "cikampek"
+  },
+  {
+    "id": "dawuan-timur",
+    "name": "Dawuan Timur",
+    "district": "cikampek"
+  },
+  {
+    "id": "dawuan-tengah",
+    "name": "Dawuan Tengah",
+    "district": "cikampek"
+  },
+  {
+    "id": "dawuan-barat",
+    "name": "Dawuan Barat",
+    "district": "cikampek"
+  }
+]

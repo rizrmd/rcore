@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tuabatu",
+    "name": "Tuabatu",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "binalang",
+    "name": "Binalang",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "riung",
+    "name": "Riung",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "dapalan",
+    "name": "Dapalan",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "amat",
+    "name": "Amat",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "ganalo",
+    "name": "Ganalo",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "dapihe",
+    "name": "Dapihe",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "tuabatu-barat",
+    "name": "Tuabatu Barat",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "binalang-selatan",
+    "name": "Binalang Selatan",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "riung-utara",
+    "name": "Riung Utara",
+    "district": "tampa-namma"
+  },
+  {
+    "id": "amat-selatan",
+    "name": "Amat Selatan",
+    "district": "tampa-namma"
+  }
+]

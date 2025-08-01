@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tebing-tinggi-barat",
+    "name": "Tebing Tinggi Barat",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "tebing-tinggi-timur",
+    "name": "Tebing Tinggi Timur",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "rangsang",
+    "name": "Rangsang",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "rangsang-pesisir",
+    "name": "Rangsang Pesisir",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "rangsang-barat",
+    "name": "Rangsang Barat",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "merbau",
+    "name": "Merbau",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "pulau-merbau",
+    "name": "Pulau Merbau",
+    "regency": "kabupaten-kepulauan-meranti"
+  },
+  {
+    "id": "tasik-putri-puyu",
+    "name": "Tasik Putri Puyu",
+    "regency": "kabupaten-kepulauan-meranti"
+  }
+]

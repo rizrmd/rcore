@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bonto-sunggu",
+    "name": "Bonto Sunggu",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "tamasaju",
+    "name": "Tamasaju",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "bontolebang",
+    "name": "Bontolebang",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "tamalate",
+    "name": "Tamalate",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "aeng-batu-batu",
+    "name": "Aeng Batu-Batu",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "bonto-lanra",
+    "name": "Bonto Lanra",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "pakkabba",
+    "name": "Pakkabba",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "aeng-towa",
+    "name": "Aeng Towa",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "sampulungan",
+    "name": "Sampulungan",
+    "district": "galesong-utara"
+  },
+  {
+    "id": "bontokaddopepe",
+    "name": "Bontokaddopepe",
+    "district": "galesong-utara"
+  }
+]

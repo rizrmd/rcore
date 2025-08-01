@@ -1,0 +1,72 @@
+[
+  {
+    "id": "adipuro",
+    "name": "Adipuro",
+    "district": "trimurjo"
+  },
+  {
+    "id": "leman-benawi",
+    "name": "Leman Benawi",
+    "district": "trimurjo"
+  },
+  {
+    "id": "depok-rejo",
+    "name": "Depok Rejo",
+    "district": "trimurjo"
+  },
+  {
+    "id": "tempuran",
+    "name": "Tempuran",
+    "district": "trimurjo"
+  },
+  {
+    "id": "simbar-waringin",
+    "name": "Simbar Waringin",
+    "district": "trimurjo"
+  },
+  {
+    "id": "trimurjo",
+    "name": "Trimurjo",
+    "district": "trimurjo"
+  },
+  {
+    "id": "notoharjo",
+    "name": "Notoharjo",
+    "district": "trimurjo"
+  },
+  {
+    "id": "untoro",
+    "name": "Untoro",
+    "district": "trimurjo"
+  },
+  {
+    "id": "purwoadi",
+    "name": "Purwoadi",
+    "district": "trimurjo"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "trimurjo"
+  },
+  {
+    "id": "pujodadi",
+    "name": "Pujodadi",
+    "district": "trimurjo"
+  },
+  {
+    "id": "pujokerto",
+    "name": "Pujokerto",
+    "district": "trimurjo"
+  },
+  {
+    "id": "pujo-basuki",
+    "name": "Pujo Basuki",
+    "district": "trimurjo"
+  },
+  {
+    "id": "pujoasri",
+    "name": "Pujoasri",
+    "district": "trimurjo"
+  }
+]

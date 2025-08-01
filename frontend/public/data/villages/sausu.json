@@ -1,0 +1,52 @@
+[
+  {
+    "id": "maleyali",
+    "name": "Maleyali",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-piore",
+    "name": "Sausu Piore",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-torono",
+    "name": "Sausu Torono",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-trans",
+    "name": "Sausu Trans",
+    "district": "sausu"
+  },
+  {
+    "id": "pakareme",
+    "name": "Pakareme",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-gandasari",
+    "name": "Sausu Gandasari",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-salubanga",
+    "name": "Sausu Salubanga",
+    "district": "sausu"
+  },
+  {
+    "id": "taliabo",
+    "name": "Taliabo",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-tambu",
+    "name": "Sausu Tambu",
+    "district": "sausu"
+  },
+  {
+    "id": "sausu-auma",
+    "name": "Sausu Auma",
+    "district": "sausu"
+  }
+]

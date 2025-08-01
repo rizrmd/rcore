@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tanjung-putus",
+    "name": "Tanjung Putus",
+    "district": "kerkap"
+  },
+  {
+    "id": "talang-jambu",
+    "name": "Talang Jambu",
+    "district": "kerkap"
+  },
+  {
+    "id": "tebat-pacur",
+    "name": "Tebat Pacur",
+    "district": "kerkap"
+  },
+  {
+    "id": "penyangkak",
+    "name": "Penyangkak",
+    "district": "kerkap"
+  },
+  {
+    "id": "magelang",
+    "name": "Magelang",
+    "district": "kerkap"
+  },
+  {
+    "id": "talang-curup",
+    "name": "Talang Curup",
+    "district": "kerkap"
+  },
+  {
+    "id": "banyumas-baru",
+    "name": "Banyumas Baru",
+    "district": "kerkap"
+  },
+  {
+    "id": "serumbung",
+    "name": "Serumbung",
+    "district": "kerkap"
+  },
+  {
+    "id": "lubuk-durian",
+    "name": "Lubuk Durian",
+    "district": "kerkap"
+  },
+  {
+    "id": "salam-harjo",
+    "name": "Salam Harjo",
+    "district": "kerkap"
+  },
+  {
+    "id": "banyumas-lama",
+    "name": "Banyumas Lama",
+    "district": "kerkap"
+  },
+  {
+    "id": "talang-pasak",
+    "name": "Talang Pasak",
+    "district": "kerkap"
+  },
+  {
+    "id": "jogya-baru",
+    "name": "Jogya Baru",
+    "district": "kerkap"
+  },
+  {
+    "id": "perbo",
+    "name": "Perbo",
+    "district": "kerkap"
+  },
+  {
+    "id": "simpang-ketenong",
+    "name": "Simpang Ketenong",
+    "district": "kerkap"
+  },
+  {
+    "id": "aur-gading",
+    "name": "Aur Gading",
+    "district": "kerkap"
+  },
+  {
+    "id": "lubuk-jale",
+    "name": "Lubuk Jale",
+    "district": "kerkap"
+  },
+  {
+    "id": "kedu-baru",
+    "name": "Kedu Baru",
+    "district": "kerkap"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "pariaman-selatan",
+    "name": "Pariaman Selatan",
+    "regency": "kota-pariaman"
+  },
+  {
+    "id": "pariaman-tengah",
+    "name": "Pariaman Tengah",
+    "regency": "kota-pariaman"
+  },
+  {
+    "id": "pariaman-timur",
+    "name": "Pariaman Timur",
+    "regency": "kota-pariaman"
+  },
+  {
+    "id": "pariaman-utara",
+    "name": "Pariaman Utara",
+    "regency": "kota-pariaman"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "battang",
+    "name": "Battang",
+    "district": "wara-barat"
+  },
+  {
+    "id": "tomarundung",
+    "name": "Tomarundung",
+    "district": "wara-barat"
+  },
+  {
+    "id": "battang-barat",
+    "name": "Battang Barat",
+    "district": "wara-barat"
+  },
+  {
+    "id": "lebang",
+    "name": "Lebang",
+    "district": "wara-barat"
+  },
+  {
+    "id": "padang-lambe",
+    "name": "Padang Lambe",
+    "district": "wara-barat"
+  }
+]

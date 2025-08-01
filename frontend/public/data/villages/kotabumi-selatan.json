@@ -1,0 +1,72 @@
+[
+  {
+    "id": "taman-jaya",
+    "name": "Taman Jaya",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "jerangkang",
+    "name": "Jerangkang",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "way-melan",
+    "name": "Way Melan",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "bandar-putih",
+    "name": "Bandar Putih",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "mulang-maya",
+    "name": "Mulang Maya",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "curup-guruh-kagungan",
+    "name": "Curup Guruh Kagungan",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "kota-alam",
+    "name": "Kota Alam",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "kelapa-tujuh",
+    "name": "Kelapa Tujuh",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "tanjung-aman",
+    "name": "Tanjung Aman",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "tanjung-senang",
+    "name": "Tanjung Senang",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "alam-jaya",
+    "name": "Alam Jaya",
+    "district": "kotabumi-selatan"
+  },
+  {
+    "id": "sinar-mas-alam",
+    "name": "Sinar Mas Alam",
+    "district": "kotabumi-selatan"
+  }
+]

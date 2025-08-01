@@ -1,0 +1,97 @@
+[
+  {
+    "id": "cahya-bumi",
+    "name": "Cahya Bumi",
+    "district": "lempuing"
+  },
+  {
+    "id": "bumi-arjo",
+    "name": "Bumi Arjo",
+    "district": "lempuing"
+  },
+  {
+    "id": "cahya-tani",
+    "name": "Cahya Tani",
+    "district": "lempuing"
+  },
+  {
+    "id": "dabuk-rejo",
+    "name": "Dabuk Rejo",
+    "district": "lempuing"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "lempuing"
+  },
+  {
+    "id": "tebing-suluh",
+    "name": "Tebing Suluh",
+    "district": "lempuing"
+  },
+  {
+    "id": "cahya-maju",
+    "name": "Cahya Maju",
+    "district": "lempuing"
+  },
+  {
+    "id": "tulung-harapan",
+    "name": "Tulung Harapan",
+    "district": "lempuing"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "lempuing"
+  },
+  {
+    "id": "sindang-sari",
+    "name": "Sindang Sari",
+    "district": "lempuing"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "lempuing"
+  },
+  {
+    "id": "kepahyang",
+    "name": "Kepahyang",
+    "district": "lempuing"
+  },
+  {
+    "id": "tugumulyo",
+    "name": "Tugumulyo",
+    "district": "lempuing"
+  },
+  {
+    "id": "tugu-agung",
+    "name": "Tugu Agung",
+    "district": "lempuing"
+  },
+  {
+    "id": "tugu-jaya",
+    "name": "Tugu Jaya",
+    "district": "lempuing"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "lempuing"
+  },
+  {
+    "id": "sumber-makmur",
+    "name": "Sumber Makmur",
+    "district": "lempuing"
+  },
+  {
+    "id": "bumi-arjo-makmur",
+    "name": "Bumi Arjo Makmur",
+    "district": "lempuing"
+  },
+  {
+    "id": "cahya-makmur",
+    "name": "Cahya Makmur",
+    "district": "lempuing"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pulau-panjang",
+    "name": "Pulau Panjang",
+    "district": "subi"
+  },
+  {
+    "id": "subi-besar",
+    "name": "Subi Besar",
+    "district": "subi"
+  },
+  {
+    "id": "subi",
+    "name": "Subi",
+    "district": "subi"
+  },
+  {
+    "id": "meliah",
+    "name": "Meliah",
+    "district": "subi"
+  },
+  {
+    "id": "terayak",
+    "name": "Terayak",
+    "district": "subi"
+  },
+  {
+    "id": "kerdau",
+    "name": "Kerdau",
+    "district": "subi"
+  },
+  {
+    "id": "subi-besar-timur",
+    "name": "Subi Besar Timur",
+    "district": "subi"
+  },
+  {
+    "id": "meliah-selatan",
+    "name": "Meliah Selatan",
+    "district": "subi"
+  }
+]

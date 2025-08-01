@@ -1,0 +1,87 @@
+[
+  {
+    "id": "pulau-sengkilo",
+    "name": "Pulau Sengkilo",
+    "district": "kelayang"
+  },
+  {
+    "id": "kota-medan",
+    "name": "Kota Medan",
+    "district": "kelayang"
+  },
+  {
+    "id": "polak-pisang",
+    "name": "Polak Pisang",
+    "district": "kelayang"
+  },
+  {
+    "id": "simpang-kota-medan",
+    "name": "Simpang Kota Medan",
+    "district": "kelayang"
+  },
+  {
+    "id": "tanjung-beludu",
+    "name": "Tanjung Beludu",
+    "district": "kelayang"
+  },
+  {
+    "id": "pelangko",
+    "name": "Pelangko",
+    "district": "kelayang"
+  },
+  {
+    "id": "simpang-kelayang",
+    "name": "Simpang Kelayang",
+    "district": "kelayang"
+  },
+  {
+    "id": "teluk-sejuah",
+    "name": "Teluk Sejuah",
+    "district": "kelayang"
+  },
+  {
+    "id": "dusun-tua",
+    "name": "Dusun Tua",
+    "district": "kelayang"
+  },
+  {
+    "id": "bongkal-malang",
+    "name": "Bongkal Malang",
+    "district": "kelayang"
+  },
+  {
+    "id": "sungai-banyak-ikan",
+    "name": "Sungai Banyak Ikan",
+    "district": "kelayang"
+  },
+  {
+    "id": "sungai-pasir-putih",
+    "name": "Sungai Pasir Putih",
+    "district": "kelayang"
+  },
+  {
+    "id": "sungai-golang",
+    "name": "Sungai Golang",
+    "district": "kelayang"
+  },
+  {
+    "id": "sungai-kuning-benio",
+    "name": "Sungai Kuning Benio",
+    "district": "kelayang"
+  },
+  {
+    "id": "pasir-beringin",
+    "name": "Pasir Beringin",
+    "district": "kelayang"
+  },
+  {
+    "id": "bukit-selanjut",
+    "name": "Bukit Selanjut",
+    "district": "kelayang"
+  },
+  {
+    "id": "dusun-tua-pelang",
+    "name": "Dusun Tua Pelang",
+    "district": "kelayang"
+  }
+]

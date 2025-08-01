@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pulau-atas",
+    "name": "Pulau Atas",
+    "district": "sambutan"
+  },
+  {
+    "id": "sindang-sari",
+    "name": "Sindang Sari",
+    "district": "sambutan"
+  },
+  {
+    "id": "makroman",
+    "name": "Makroman",
+    "district": "sambutan"
+  },
+  {
+    "id": "sambutan",
+    "name": "Sambutan",
+    "district": "sambutan"
+  },
+  {
+    "id": "sungai-kapih",
+    "name": "Sungai Kapih",
+    "district": "sambutan"
+  }
+]

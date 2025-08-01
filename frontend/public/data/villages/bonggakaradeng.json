@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lembang-mappa",
+    "name": "Lembang Mappa",
+    "district": "bonggakaradeng"
+  },
+  {
+    "id": "lembang-bau",
+    "name": "Lembang Bau",
+    "district": "bonggakaradeng"
+  },
+  {
+    "id": "lembang-bua-kayu",
+    "name": "Lembang Bua Kayu",
+    "district": "bonggakaradeng"
+  },
+  {
+    "id": "lembang-poton",
+    "name": "Lembang Poton",
+    "district": "bonggakaradeng"
+  },
+  {
+    "id": "kelurahan-ratte-buttu",
+    "name": "Kelurahan  Ratte Buttu",
+    "district": "bonggakaradeng"
+  },
+  {
+    "id": "lembang-bau-selatan",
+    "name": "Lembang Bau Selatan",
+    "district": "bonggakaradeng"
+  }
+]

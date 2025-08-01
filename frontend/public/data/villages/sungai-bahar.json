@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "marga",
+    "name": "Marga",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "bukit-mas",
+    "name": "Bukit Mas",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "panca-bakti",
+    "name": "Panca Bakti",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "berkah",
+    "name": "Berkah",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "panca-mulya",
+    "name": "Panca Mulya",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "mekar-sari-makmur",
+    "name": "Mekar Sari Makmur",
+    "district": "sungai-bahar"
+  },
+  {
+    "id": "bhakti-mulia",
+    "name": "Bhakti Mulia",
+    "district": "sungai-bahar"
+  }
+]

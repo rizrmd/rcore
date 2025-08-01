@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pulau-palas",
+    "name": "Pulau Palas",
+    "district": "tembilahan-hulu"
+  },
+  {
+    "id": "tembilahan-hulu",
+    "name": "Tembilahan Hulu",
+    "district": "tembilahan-hulu"
+  },
+  {
+    "id": "sialang-panjang",
+    "name": "Sialang Panjang",
+    "district": "tembilahan-hulu"
+  },
+  {
+    "id": "pekan-kamis",
+    "name": "Pekan Kamis",
+    "district": "tembilahan-hulu"
+  },
+  {
+    "id": "sungai-intan",
+    "name": "Sungai Intan",
+    "district": "tembilahan-hulu"
+  },
+  {
+    "id": "tembilahan-barat",
+    "name": "Tembilahan Barat",
+    "district": "tembilahan-hulu"
+  }
+]

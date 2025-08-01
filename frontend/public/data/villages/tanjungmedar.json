@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wargaluyu",
+    "name": "Wargaluyu",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "tanjungwangi",
+    "name": "Tanjungwangi",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "cikaramas",
+    "name": "Cikaramas",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "kamal",
+    "name": "Kamal",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "jingkang",
+    "name": "Jingkang",
+    "district": "tanjungmedar"
+  },
+  {
+    "id": "tanjungmedar",
+    "name": "Tanjungmedar",
+    "district": "tanjungmedar"
+  }
+]

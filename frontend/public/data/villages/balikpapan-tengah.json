@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gunung-sari-ilir",
+    "name": "Gunung Sari Ilir",
+    "district": "balikpapan-tengah"
+  },
+  {
+    "id": "gunung-sari-ulu",
+    "name": "Gunung Sari Ulu",
+    "district": "balikpapan-tengah"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "balikpapan-tengah"
+  },
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "balikpapan-tengah"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "balikpapan-tengah"
+  },
+  {
+    "id": "karang-jati",
+    "name": "Karang Jati",
+    "district": "balikpapan-tengah"
+  }
+]

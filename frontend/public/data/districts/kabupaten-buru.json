@@ -1,0 +1,52 @@
+[
+  {
+    "id": "namlea",
+    "name": "Namlea",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "waeapo",
+    "name": "Waeapo",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "waplau",
+    "name": "Waplau",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "bata-bual",
+    "name": "Bata Bual",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "teluk-kaiely",
+    "name": "Teluk Kaiely",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "waelata",
+    "name": "Waelata",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "lolong-guba",
+    "name": "Lolong Guba",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "lilialy",
+    "name": "Lilialy",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "air-buaya",
+    "name": "Air Buaya",
+    "regency": "kabupaten-buru"
+  },
+  {
+    "id": "fena-leisela",
+    "name": "Fena Leisela",
+    "regency": "kabupaten-buru"
+  }
+]

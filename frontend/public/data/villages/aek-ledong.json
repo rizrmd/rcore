@@ -1,0 +1,37 @@
+[
+  {
+    "id": "aek-bange",
+    "name": "Aek Bange",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "ledong-barat",
+    "name": "Ledong Barat",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "ledong-timur",
+    "name": "Ledong Timur",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "aek-korsik",
+    "name": "Aek Korsik",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "aek-ledong",
+    "name": "Aek Ledong",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "aek-nabuntu",
+    "name": "Aek Nabuntu",
+    "district": "aek-ledong"
+  },
+  {
+    "id": "padang-sipirok",
+    "name": "Padang Sipirok",
+    "district": "aek-ledong"
+  }
+]

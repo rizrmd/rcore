@@ -1,0 +1,57 @@
+[
+  {
+    "id": "liano",
+    "name": "Liano",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "pomontoro",
+    "name": "Pomontoro",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "hambawa",
+    "name": "Hambawa",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "pulau-tambako",
+    "name": "Pulau Tambako",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "lora",
+    "name": "Lora",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "toli-toli",
+    "name": "Toli-Toli",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "batu-sempe-indah",
+    "name": "Batu Sempe Indah",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "laloa",
+    "name": "Laloa",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "mawar",
+    "name": "Mawar",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "tajuncu",
+    "name": "Tajuncu",
+    "district": "mata-oleo"
+  },
+  {
+    "id": "puu-waeya",
+    "name": "Puu Waeya",
+    "district": "mata-oleo"
+  }
+]

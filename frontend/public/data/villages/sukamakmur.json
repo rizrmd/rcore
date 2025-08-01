@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sukawangi",
+    "name": "Sukawangi",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sukaharja",
+    "name": "Sukaharja",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "wargajaya",
+    "name": "Wargajaya",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sirnajaya",
+    "name": "Sirnajaya",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "cibadak",
+    "name": "Cibadak",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "pabuaran",
+    "name": "Pabuaran",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "sukamakmur"
+  },
+  {
+    "id": "sukaresmi",
+    "name": "Sukaresmi",
+    "district": "sukamakmur"
+  }
+]

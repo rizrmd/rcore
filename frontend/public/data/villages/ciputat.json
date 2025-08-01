@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sarua",
+    "name": "Sarua",
+    "district": "ciputat"
+  },
+  {
+    "id": "jombang",
+    "name": "Jombang",
+    "district": "ciputat"
+  },
+  {
+    "id": "sawah-baru",
+    "name": "Sawah Baru",
+    "district": "ciputat"
+  },
+  {
+    "id": "sarua-indah",
+    "name": "Sarua Indah",
+    "district": "ciputat"
+  },
+  {
+    "id": "sawah",
+    "name": "Sawah",
+    "district": "ciputat"
+  },
+  {
+    "id": "ciputat",
+    "name": "Ciputat",
+    "district": "ciputat"
+  },
+  {
+    "id": "cipayung",
+    "name": "Cipayung",
+    "district": "ciputat"
+  }
+]

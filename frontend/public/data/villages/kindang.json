@@ -1,0 +1,67 @@
+[
+  {
+    "id": "balibo",
+    "name": "Balibo",
+    "district": "kindang"
+  },
+  {
+    "id": "mattirowalie",
+    "name": "Mattirowalie",
+    "district": "kindang"
+  },
+  {
+    "id": "benteng-palioi",
+    "name": "Benteng Palioi",
+    "district": "kindang"
+  },
+  {
+    "id": "garuntungan",
+    "name": "Garuntungan",
+    "district": "kindang"
+  },
+  {
+    "id": "anrihua",
+    "name": "Anrihua",
+    "district": "kindang"
+  },
+  {
+    "id": "borong-rappoa",
+    "name": "Borong Rappoa",
+    "district": "kindang"
+  },
+  {
+    "id": "tamaona",
+    "name": "Tamaona",
+    "district": "kindang"
+  },
+  {
+    "id": "kindang",
+    "name": "Kindang",
+    "district": "kindang"
+  },
+  {
+    "id": "oro-gading",
+    "name": "Oro Gading",
+    "district": "kindang"
+  },
+  {
+    "id": "sopa",
+    "name": "Sopa",
+    "district": "kindang"
+  },
+  {
+    "id": "somba-palioi",
+    "name": "Somba Palioi",
+    "district": "kindang"
+  },
+  {
+    "id": "sipaenre",
+    "name": "Sipaenre",
+    "district": "kindang"
+  },
+  {
+    "id": "kahaya",
+    "name": "Kahaya",
+    "district": "kindang"
+  }
+]

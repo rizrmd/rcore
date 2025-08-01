@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ranoketang-atas",
+    "name": "Ranoketang Atas",
+    "district": "touluaan"
+  },
+  {
+    "id": "toundanou",
+    "name": "Toundanou",
+    "district": "touluaan"
+  },
+  {
+    "id": "lobu-dua",
+    "name": "Lobu Dua",
+    "district": "touluaan"
+  },
+  {
+    "id": "lobu-satu",
+    "name": "Lobu Satu",
+    "district": "touluaan"
+  },
+  {
+    "id": "toundanou-satu",
+    "name": "Toundanou Satu",
+    "district": "touluaan"
+  },
+  {
+    "id": "ranoketang-atas-satu",
+    "name": "Ranoketang Atas Satu",
+    "district": "touluaan"
+  },
+  {
+    "id": "toundanou-atas",
+    "name": "Toundanou Atas",
+    "district": "touluaan"
+  },
+  {
+    "id": "lobu",
+    "name": "Lobu",
+    "district": "touluaan"
+  },
+  {
+    "id": "lobu-kota",
+    "name": "Lobu Kota",
+    "district": "touluaan"
+  },
+  {
+    "id": "lobu-atas",
+    "name": "Lobu Atas",
+    "district": "touluaan"
+  }
+]

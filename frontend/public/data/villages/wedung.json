@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ngawen",
+    "name": "Ngawen",
+    "district": "wedung"
+  },
+  {
+    "id": "ruwit",
+    "name": "Ruwit",
+    "district": "wedung"
+  },
+  {
+    "id": "buko",
+    "name": "Buko",
+    "district": "wedung"
+  },
+  {
+    "id": "mandung",
+    "name": "Mandung",
+    "district": "wedung"
+  },
+  {
+    "id": "berahan-kulon",
+    "name": "Berahan Kulon",
+    "district": "wedung"
+  },
+  {
+    "id": "berahan-wetan",
+    "name": "Berahan Wetan",
+    "district": "wedung"
+  },
+  {
+    "id": "bungo",
+    "name": "Bungo",
+    "district": "wedung"
+  },
+  {
+    "id": "jetak",
+    "name": "Jetak",
+    "district": "wedung"
+  },
+  {
+    "id": "jungsemi",
+    "name": "Jungsemi",
+    "district": "wedung"
+  },
+  {
+    "id": "jungpasir",
+    "name": "Jungpasir",
+    "district": "wedung"
+  },
+  {
+    "id": "mutih-wetan",
+    "name": "Mutih Wetan",
+    "district": "wedung"
+  },
+  {
+    "id": "mutih-kulon",
+    "name": "Mutih Kulon",
+    "district": "wedung"
+  },
+  {
+    "id": "tedunan",
+    "name": "Tedunan",
+    "district": "wedung"
+  },
+  {
+    "id": "kendalasem",
+    "name": "Kendalasem",
+    "district": "wedung"
+  },
+  {
+    "id": "kedungkarang",
+    "name": "Kedungkarang",
+    "district": "wedung"
+  },
+  {
+    "id": "kedungmutih",
+    "name": "Kedungmutih",
+    "district": "wedung"
+  },
+  {
+    "id": "babalan",
+    "name": "Babalan",
+    "district": "wedung"
+  }
+]

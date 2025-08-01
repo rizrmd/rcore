@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sukarasa",
+    "name": "Sukarasa",
+    "district": "salawu"
+  },
+  {
+    "id": "jahiang",
+    "name": "Jahiang",
+    "district": "salawu"
+  },
+  {
+    "id": "sundawenang",
+    "name": "Sundawenang",
+    "district": "salawu"
+  },
+  {
+    "id": "kawungsari",
+    "name": "Kawungsari",
+    "district": "salawu"
+  },
+  {
+    "id": "tenjowaringin",
+    "name": "Tenjowaringin",
+    "district": "salawu"
+  },
+  {
+    "id": "kutawaringin",
+    "name": "Kutawaringin",
+    "district": "salawu"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "salawu"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "salawu"
+  },
+  {
+    "id": "karangmukti",
+    "name": "Karangmukti",
+    "district": "salawu"
+  },
+  {
+    "id": "salawu",
+    "name": "Salawu",
+    "district": "salawu"
+  },
+  {
+    "id": "margalaksana",
+    "name": "Margalaksana",
+    "district": "salawu"
+  },
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "salawu"
+  }
+]

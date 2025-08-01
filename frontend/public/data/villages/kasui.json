@@ -1,0 +1,97 @@
+[
+  {
+    "id": "sinar-gading",
+    "name": "Sinar Gading",
+    "district": "kasui"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "kasui"
+  },
+  {
+    "id": "karang-lantang",
+    "name": "Karang Lantang",
+    "district": "kasui"
+  },
+  {
+    "id": "kedaton",
+    "name": "Kedaton",
+    "district": "kasui"
+  },
+  {
+    "id": "datar-bancong",
+    "name": "Datar Bancong",
+    "district": "kasui"
+  },
+  {
+    "id": "kasui-pasar",
+    "name": "Kasui Pasar",
+    "district": "kasui"
+  },
+  {
+    "id": "kasui-lama",
+    "name": "Kasui Lama",
+    "district": "kasui"
+  },
+  {
+    "id": "talang-mangga",
+    "name": "Talang Mangga",
+    "district": "kasui"
+  },
+  {
+    "id": "jaya-tinggi",
+    "name": "Jaya Tinggi",
+    "district": "kasui"
+  },
+  {
+    "id": "gelombang-panjang",
+    "name": "Gelombang Panjang",
+    "district": "kasui"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "kasui"
+  },
+  {
+    "id": "tangkas",
+    "name": "Tangkas",
+    "district": "kasui"
+  },
+  {
+    "id": "jukuh-kemuning",
+    "name": "Jukuh Kemuning",
+    "district": "kasui"
+  },
+  {
+    "id": "kota-way",
+    "name": "Kota Way",
+    "district": "kasui"
+  },
+  {
+    "id": "tanjung-bulan",
+    "name": "Tanjung Bulan",
+    "district": "kasui"
+  },
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "kasui"
+  },
+  {
+    "id": "tanjung-kurung",
+    "name": "Tanjung Kurung",
+    "district": "kasui"
+  },
+  {
+    "id": "tanjung-kurung-lama",
+    "name": "Tanjung Kurung Lama",
+    "district": "kasui"
+  },
+  {
+    "id": "bukit-batu",
+    "name": "Bukit Batu",
+    "district": "kasui"
+  }
+]

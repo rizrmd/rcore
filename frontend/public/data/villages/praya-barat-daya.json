@@ -1,0 +1,52 @@
+[
+  {
+    "id": "montong-sapah",
+    "name": "Montong Sapah",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "kabul",
+    "name": "Kabul",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "pelambik",
+    "name": "Pelambik",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "ranggagata",
+    "name": "Ranggagata",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "ungga",
+    "name": "Ungga",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "darek",
+    "name": "Darek",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "batu-jangkih",
+    "name": "Batu Jangkih",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "montong-ajan",
+    "name": "Montong Ajan",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "pandan-indah",
+    "name": "Pandan Indah",
+    "district": "praya-barat-daya"
+  },
+  {
+    "id": "serage",
+    "name": "Serage",
+    "district": "praya-barat-daya"
+  }
+]

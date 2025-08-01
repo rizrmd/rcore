@@ -1,0 +1,42 @@
+[
+  {
+    "id": "melikan",
+    "name": "Melikan",
+    "district": "rongkop"
+  },
+  {
+    "id": "bohol",
+    "name": "Bohol",
+    "district": "rongkop"
+  },
+  {
+    "id": "pringombo",
+    "name": "Pringombo",
+    "district": "rongkop"
+  },
+  {
+    "id": "botodayakan",
+    "name": "Botodayakan",
+    "district": "rongkop"
+  },
+  {
+    "id": "petir",
+    "name": "Petir",
+    "district": "rongkop"
+  },
+  {
+    "id": "semugih",
+    "name": "Semugih",
+    "district": "rongkop"
+  },
+  {
+    "id": "karangwuni",
+    "name": "Karangwuni",
+    "district": "rongkop"
+  },
+  {
+    "id": "pucanganom",
+    "name": "Pucanganom",
+    "district": "rongkop"
+  }
+]

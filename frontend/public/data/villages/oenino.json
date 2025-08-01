@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pene-utara",
+    "name": "Pene Utara",
+    "district": "oenino"
+  },
+  {
+    "id": "noe-noni",
+    "name": "Noe Noni",
+    "district": "oenino"
+  },
+  {
+    "id": "hoi",
+    "name": "Hoi",
+    "district": "oenino"
+  },
+  {
+    "id": "niki-niki-un",
+    "name": "Niki Niki Un",
+    "district": "oenino"
+  },
+  {
+    "id": "oenino",
+    "name": "Oenino",
+    "district": "oenino"
+  },
+  {
+    "id": "abi",
+    "name": "Abi",
+    "district": "oenino"
+  }
+]

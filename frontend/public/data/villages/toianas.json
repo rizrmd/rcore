@@ -1,0 +1,47 @@
+[
+  {
+    "id": "oeleu",
+    "name": "Oeleu",
+    "district": "toianas"
+  },
+  {
+    "id": "skinu",
+    "name": "Skinu",
+    "district": "toianas"
+  },
+  {
+    "id": "toianas",
+    "name": "Toianas",
+    "district": "toianas"
+  },
+  {
+    "id": "sambet",
+    "name": "Sambet",
+    "district": "toianas"
+  },
+  {
+    "id": "bokong",
+    "name": "Bokong",
+    "district": "toianas"
+  },
+  {
+    "id": "tuataum",
+    "name": "Tuataum",
+    "district": "toianas"
+  },
+  {
+    "id": "lobus",
+    "name": "Lobus",
+    "district": "toianas"
+  },
+  {
+    "id": "mili",
+    "name": "Mili",
+    "district": "toianas"
+  },
+  {
+    "id": "noeolin",
+    "name": "Noeolin",
+    "district": "toianas"
+  }
+]

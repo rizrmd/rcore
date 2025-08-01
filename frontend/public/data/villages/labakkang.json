@@ -1,0 +1,62 @@
+[
+  {
+    "id": "borimasunggu",
+    "name": "Borimasunggu",
+    "district": "labakkang"
+  },
+  {
+    "id": "mangallekana",
+    "name": "Mangallekana",
+    "district": "labakkang"
+  },
+  {
+    "id": "batara",
+    "name": "Batara",
+    "district": "labakkang"
+  },
+  {
+    "id": "taraweang",
+    "name": "Taraweang",
+    "district": "labakkang"
+  },
+  {
+    "id": "bara-batu",
+    "name": "Bara Batu",
+    "district": "labakkang"
+  },
+  {
+    "id": "kassi-loe",
+    "name": "Kassi Loe",
+    "district": "labakkang"
+  },
+  {
+    "id": "patallassang",
+    "name": "Patallassang",
+    "district": "labakkang"
+  },
+  {
+    "id": "labakkang",
+    "name": "Labakkang",
+    "district": "labakkang"
+  },
+  {
+    "id": "pundata-baji",
+    "name": "Pundata Baji",
+    "district": "labakkang"
+  },
+  {
+    "id": "bonto-manai",
+    "name": "Bonto Manai",
+    "district": "labakkang"
+  },
+  {
+    "id": "manakku",
+    "name": "Manakku",
+    "district": "labakkang"
+  },
+  {
+    "id": "kanaungan",
+    "name": "Kanaungan",
+    "district": "labakkang"
+  }
+]

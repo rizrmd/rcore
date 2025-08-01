@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tuniwara",
+    "name": "Tuniwara",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "buano-hatuputih",
+    "name": "Buano Hatuputih",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "tumalehu-barat",
+    "name": "Tumalehu Barat",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "tumalehu-timur",
+    "name": "Tumalehu Timur",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "kelang-asaude",
+    "name": "Kelang Asaude",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "masawoi",
+    "name": "Masawoi",
+    "district": "kepulauan-manipa"
+  },
+  {
+    "id": "luhutuban",
+    "name": "Luhutuban",
+    "district": "kepulauan-manipa"
+  }
+]

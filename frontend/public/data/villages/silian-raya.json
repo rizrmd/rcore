@@ -1,0 +1,52 @@
+[
+  {
+    "id": "silian-dua",
+    "name": "Silian Dua",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-tengah",
+    "name": "Silian Tengah",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-kota",
+    "name": "Silian Kota",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-satu",
+    "name": "Silian Satu",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-selatan",
+    "name": "Silian Selatan",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-tiga",
+    "name": "Silian Tiga",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-barat",
+    "name": "Silian Barat",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian",
+    "name": "Silian",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-utara",
+    "name": "Silian Utara",
+    "district": "silian-raya"
+  },
+  {
+    "id": "silian-timur",
+    "name": "Silian Timur",
+    "district": "silian-raya"
+  }
+]

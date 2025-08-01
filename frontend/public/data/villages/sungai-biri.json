@@ -1,0 +1,22 @@
+[
+  {
+    "id": "komra",
+    "name": "Komra",
+    "district": "sungai-biri"
+  },
+  {
+    "id": "ansudu",
+    "name": "Ansudu",
+    "district": "sungai-biri"
+  },
+  {
+    "id": "ansudu-ii-srem",
+    "name": "Ansudu Ii / Srem",
+    "district": "sungai-biri"
+  },
+  {
+    "id": "maweswares",
+    "name": "Maweswares",
+    "district": "sungai-biri"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "id": "timbukar",
+    "name": "Timbukar",
+    "district": "sonder"
+  },
+  {
+    "id": "tincep",
+    "name": "Tincep",
+    "district": "sonder"
+  },
+  {
+    "id": "kauneran",
+    "name": "Kauneran",
+    "district": "sonder"
+  },
+  {
+    "id": "sendangan",
+    "name": "Sendangan",
+    "district": "sonder"
+  },
+  {
+    "id": "kolongan-atas",
+    "name": "Kolongan Atas",
+    "district": "sonder"
+  },
+  {
+    "id": "leilem",
+    "name": "Leilem",
+    "district": "sonder"
+  },
+  {
+    "id": "tounelet",
+    "name": "Tounelet",
+    "district": "sonder"
+  },
+  {
+    "id": "talikuran",
+    "name": "Talikuran",
+    "district": "sonder"
+  },
+  {
+    "id": "rambunan",
+    "name": "Rambunan",
+    "district": "sonder"
+  },
+  {
+    "id": "sawangan",
+    "name": "Sawangan",
+    "district": "sonder"
+  },
+  {
+    "id": "kolongan-atas-dua",
+    "name": "Kolongan Atas Dua",
+    "district": "sonder"
+  },
+  {
+    "id": "leilem-dua",
+    "name": "Leilem Dua",
+    "district": "sonder"
+  },
+  {
+    "id": "leilem-tiga",
+    "name": "Leilem Tiga",
+    "district": "sonder"
+  },
+  {
+    "id": "kauneran-satu",
+    "name": "Kauneran Satu",
+    "district": "sonder"
+  },
+  {
+    "id": "sendangan-i",
+    "name": "Sendangan I",
+    "district": "sonder"
+  },
+  {
+    "id": "kolongan-atas-i",
+    "name": "Kolongan Atas I",
+    "district": "sonder"
+  },
+  {
+    "id": "tounelet-satu",
+    "name": "Tounelet Satu",
+    "district": "sonder"
+  },
+  {
+    "id": "talikuran-satu",
+    "name": "Talikuran Satu",
+    "district": "sonder"
+  },
+  {
+    "id": "rambunan-amian",
+    "name": "Rambunan Amian",
+    "district": "sonder"
+  }
+]

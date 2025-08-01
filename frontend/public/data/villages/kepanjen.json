@@ -1,0 +1,87 @@
+[
+  {
+    "id": "jenggolo",
+    "name": "Jenggolo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "kepanjen"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "kepanjen"
+  },
+  {
+    "id": "mangunrejo",
+    "name": "Mangunrejo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "panggungrejo",
+    "name": "Panggungrejo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "kedungpedaringan",
+    "name": "Kedungpedaringan",
+    "district": "kepanjen"
+  },
+  {
+    "id": "penarukan",
+    "name": "Penarukan",
+    "district": "kepanjen"
+  },
+  {
+    "id": "cepokomulyo",
+    "name": "Cepokomulyo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "kepanjen",
+    "name": "Kepanjen",
+    "district": "kepanjen"
+  },
+  {
+    "id": "talangagung",
+    "name": "Talangagung",
+    "district": "kepanjen"
+  },
+  {
+    "id": "dilem",
+    "name": "Dilem",
+    "district": "kepanjen"
+  },
+  {
+    "id": "ardirejo",
+    "name": "Ardirejo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "sukoraharjo",
+    "name": "Sukoraharjo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "curung-rejo",
+    "name": "Curung Rejo",
+    "district": "kepanjen"
+  },
+  {
+    "id": "jatirejoyoso",
+    "name": "Jatirejoyoso",
+    "district": "kepanjen"
+  },
+  {
+    "id": "ngadilangkung",
+    "name": "Ngadilangkung",
+    "district": "kepanjen"
+  },
+  {
+    "id": "mojosari",
+    "name": "Mojosari",
+    "district": "kepanjen"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wolomeze",
+    "name": "Wolomeze",
+    "district": "riung-barat"
+  },
+  {
+    "id": "ria",
+    "name": "Ria",
+    "district": "riung-barat"
+  },
+  {
+    "id": "lanamai",
+    "name": "Lanamai",
+    "district": "riung-barat"
+  },
+  {
+    "id": "benteng-tawa",
+    "name": "Benteng Tawa",
+    "district": "riung-barat"
+  },
+  {
+    "id": "ngara",
+    "name": "Ngara",
+    "district": "riung-barat"
+  },
+  {
+    "id": "ria-i",
+    "name": "Ria I",
+    "district": "riung-barat"
+  },
+  {
+    "id": "wolomeze-i",
+    "name": "Wolomeze I",
+    "district": "riung-barat"
+  },
+  {
+    "id": "lanamai-i",
+    "name": "Lanamai I",
+    "district": "riung-barat"
+  },
+  {
+    "id": "benteng-tawa-i",
+    "name": "Benteng Tawa I",
+    "district": "riung-barat"
+  },
+  {
+    "id": "wolomeze-ii",
+    "name": "Wolomeze Ii",
+    "district": "riung-barat"
+  }
+]

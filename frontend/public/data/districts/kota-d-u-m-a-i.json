@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bukit-kapur",
+    "name": "Bukit Kapur",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "medang-kampai",
+    "name": "Medang Kampai",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "sungai-sembilan",
+    "name": "Sungai Sembilan",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "dumai-barat",
+    "name": "Dumai Barat",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "dumai-selatan",
+    "name": "Dumai Selatan",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "dumai-timur",
+    "name": "Dumai Timur",
+    "regency": "kota-d-u-m-a-i"
+  },
+  {
+    "id": "dumai-kota",
+    "name": "Dumai Kota",
+    "regency": "kota-d-u-m-a-i"
+  }
+]

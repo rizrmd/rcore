@@ -1,0 +1,47 @@
+[
+  {
+    "id": "muaro",
+    "name": "Muaro",
+    "district": "sijunjung"
+  },
+  {
+    "id": "kandang-baru",
+    "name": "Kandang Baru",
+    "district": "sijunjung"
+  },
+  {
+    "id": "pematang-panjang",
+    "name": "Pematang Panjang",
+    "district": "sijunjung"
+  },
+  {
+    "id": "sijunjung",
+    "name": "Sijunjung",
+    "district": "sijunjung"
+  },
+  {
+    "id": "aia-angek",
+    "name": "Aia Angek",
+    "district": "sijunjung"
+  },
+  {
+    "id": "solok-ambah",
+    "name": "Solok Ambah",
+    "district": "sijunjung"
+  },
+  {
+    "id": "paruh",
+    "name": "Paruh",
+    "district": "sijunjung"
+  },
+  {
+    "id": "muaro-silokek",
+    "name": "Muaro Silokek",
+    "district": "sijunjung"
+  },
+  {
+    "id": "durian-gadang",
+    "name": "Durian Gadang",
+    "district": "sijunjung"
+  }
+]

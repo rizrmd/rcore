@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kukurima",
+    "name": "Kukurima",
+    "district": "wollo"
+  },
+  {
+    "id": "pirambot",
+    "name": "Pirambot",
+    "district": "wollo"
+  },
+  {
+    "id": "wollo",
+    "name": "Wollo",
+    "district": "wollo"
+  },
+  {
+    "id": "wollo-timur",
+    "name": "Wollo Timur",
+    "district": "wollo"
+  },
+  {
+    "id": "tegabaga",
+    "name": "Tegabaga",
+    "district": "wollo"
+  },
+  {
+    "id": "alugi",
+    "name": "Alugi",
+    "district": "wollo"
+  },
+  {
+    "id": "wodlama",
+    "name": "Wodlama",
+    "district": "wollo"
+  },
+  {
+    "id": "wunan",
+    "name": "Wunan",
+    "district": "wollo"
+  }
+]

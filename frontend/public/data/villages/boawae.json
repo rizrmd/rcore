@@ -1,0 +1,132 @@
+[
+  {
+    "id": "rowa",
+    "name": "Rowa",
+    "district": "boawae"
+  },
+  {
+    "id": "solo",
+    "name": "Solo",
+    "district": "boawae"
+  },
+  {
+    "id": "kelewae",
+    "name": "Kelewae",
+    "district": "boawae"
+  },
+  {
+    "id": "nagesapadhi",
+    "name": "Nagesapadhi",
+    "district": "boawae"
+  },
+  {
+    "id": "rigi",
+    "name": "Rigi",
+    "district": "boawae"
+  },
+  {
+    "id": "olakile",
+    "name": "Olakile",
+    "district": "boawae"
+  },
+  {
+    "id": "natanage",
+    "name": "Natanage",
+    "district": "boawae"
+  },
+  {
+    "id": "nageoga",
+    "name": "Nageoga",
+    "district": "boawae"
+  },
+  {
+    "id": "wolopogo",
+    "name": "Wolopogo",
+    "district": "boawae"
+  },
+  {
+    "id": "rega",
+    "name": "Rega",
+    "district": "boawae"
+  },
+  {
+    "id": "mulakoli",
+    "name": "Mulakoli",
+    "district": "boawae"
+  },
+  {
+    "id": "kelimado",
+    "name": "Kelimado",
+    "district": "boawae"
+  },
+  {
+    "id": "wea-au",
+    "name": "Wea Au",
+    "district": "boawae"
+  },
+  {
+    "id": "raja",
+    "name": "Raja",
+    "district": "boawae"
+  },
+  {
+    "id": "wolowea",
+    "name": "Wolowea",
+    "district": "boawae"
+  },
+  {
+    "id": "ratongamobo",
+    "name": "Ratongamobo",
+    "district": "boawae"
+  },
+  {
+    "id": "dhereisa",
+    "name": "Dhereisa",
+    "district": "boawae"
+  },
+  {
+    "id": "gerodhere",
+    "name": "Gerodhere",
+    "district": "boawae"
+  },
+  {
+    "id": "nagerawe",
+    "name": "Nagerawe",
+    "district": "boawae"
+  },
+  {
+    "id": "focolodorawe",
+    "name": "Focolodorawe",
+    "district": "boawae"
+  },
+  {
+    "id": "alorawe",
+    "name": "Alorawe",
+    "district": "boawae"
+  },
+  {
+    "id": "natanage-timur",
+    "name": "Natanage Timur",
+    "district": "boawae"
+  },
+  {
+    "id": "raja-timur",
+    "name": "Raja Timur",
+    "district": "boawae"
+  },
+  {
+    "id": "raja-selatan",
+    "name": "Raja Selatan",
+    "district": "boawae"
+  },
+  {
+    "id": "wolowea-barat",
+    "name": "Wolowea Barat",
+    "district": "boawae"
+  },
+  {
+    "id": "wolowea-timur",
+    "name": "Wolowea Timur",
+    "district": "boawae"
+  }
+]

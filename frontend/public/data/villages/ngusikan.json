@@ -1,0 +1,57 @@
+[
+  {
+    "id": "keboan",
+    "name": "Keboan",
+    "district": "ngusikan"
+  },
+  {
+    "id": "ketapang-kuning",
+    "name": "Ketapang Kuning",
+    "district": "ngusikan"
+  },
+  {
+    "id": "kedung-bogo",
+    "name": "Kedung Bogo",
+    "district": "ngusikan"
+  },
+  {
+    "id": "ngusikan",
+    "name": "Ngusikan",
+    "district": "ngusikan"
+  },
+  {
+    "id": "sumber-nongko",
+    "name": "Sumber Nongko",
+    "district": "ngusikan"
+  },
+  {
+    "id": "manunggal",
+    "name": "Manunggal",
+    "district": "ngusikan"
+  },
+  {
+    "id": "ngampel",
+    "name": "Ngampel",
+    "district": "ngusikan"
+  },
+  {
+    "id": "mojodanu",
+    "name": "Mojodanu",
+    "district": "ngusikan"
+  },
+  {
+    "id": "cupak",
+    "name": "Cupak",
+    "district": "ngusikan"
+  },
+  {
+    "id": "asem-gede",
+    "name": "Asem Gede",
+    "district": "ngusikan"
+  },
+  {
+    "id": "kromong",
+    "name": "Kromong",
+    "district": "ngusikan"
+  }
+]

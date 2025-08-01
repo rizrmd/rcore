@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ranomea",
+    "name": "Ranomea",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "pondang",
+    "name": "Pondang",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "pinaling",
+    "name": "Pinaling",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "kota-menara",
+    "name": "Kota Menara",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "maliku",
+    "name": "Maliku",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "ritey",
+    "name": "Ritey",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "malenos-baru",
+    "name": "Malenos Baru",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "lopana",
+    "name": "Lopana",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "lopana-satu",
+    "name": "Lopana Satu",
+    "district": "amurang-timur"
+  },
+  {
+    "id": "maliku-satu",
+    "name": "Maliku Satu",
+    "district": "amurang-timur"
+  }
+]

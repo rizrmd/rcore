@@ -1,0 +1,92 @@
+[
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "cawas"
+  },
+  {
+    "id": "burikan",
+    "name": "Burikan",
+    "district": "cawas"
+  },
+  {
+    "id": "nanggulan",
+    "name": "Nanggulan",
+    "district": "cawas"
+  },
+  {
+    "id": "bendungan",
+    "name": "Bendungan",
+    "district": "cawas"
+  },
+  {
+    "id": "kedungampel",
+    "name": "Kedungampel",
+    "district": "cawas"
+  },
+  {
+    "id": "bawak",
+    "name": "Bawak",
+    "district": "cawas"
+  },
+  {
+    "id": "barepan",
+    "name": "Barepan",
+    "district": "cawas"
+  },
+  {
+    "id": "pakisan",
+    "name": "Pakisan",
+    "district": "cawas"
+  },
+  {
+    "id": "balak",
+    "name": "Balak",
+    "district": "cawas"
+  },
+  {
+    "id": "cawas",
+    "name": "Cawas",
+    "district": "cawas"
+  },
+  {
+    "id": "plosowangi",
+    "name": "Plosowangi",
+    "district": "cawas"
+  },
+  {
+    "id": "baran",
+    "name": "Baran",
+    "district": "cawas"
+  },
+  {
+    "id": "tirtomarto",
+    "name": "Tirtomarto",
+    "district": "cawas"
+  },
+  {
+    "id": "japanan",
+    "name": "Japanan",
+    "district": "cawas"
+  },
+  {
+    "id": "tlingsing",
+    "name": "Tlingsing",
+    "district": "cawas"
+  },
+  {
+    "id": "gombang",
+    "name": "Gombang",
+    "district": "cawas"
+  },
+  {
+    "id": "pogung",
+    "name": "Pogung",
+    "district": "cawas"
+  },
+  {
+    "id": "bogor",
+    "name": "Bogor",
+    "district": "cawas"
+  }
+]

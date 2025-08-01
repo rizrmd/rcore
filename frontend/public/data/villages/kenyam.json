@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kenyam",
+    "name": "Kenyam",
+    "district": "kenyam"
+  },
+  {
+    "id": "kemali",
+    "name": "Kemali",
+    "district": "kenyam"
+  },
+  {
+    "id": "sralala",
+    "name": "Sralala",
+    "district": "kenyam"
+  },
+  {
+    "id": "yunat",
+    "name": "Yunat",
+    "district": "kenyam"
+  },
+  {
+    "id": "bomban",
+    "name": "Bomban",
+    "district": "kenyam"
+  }
+]

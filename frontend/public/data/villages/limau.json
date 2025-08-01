@@ -1,0 +1,57 @@
+[
+  {
+    "id": "badak",
+    "name": "Badak",
+    "district": "limau"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "limau"
+  },
+  {
+    "id": "tegineneng",
+    "name": "Tegineneng",
+    "district": "limau"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "limau"
+  },
+  {
+    "id": "padang-ratu",
+    "name": "Padang Ratu",
+    "district": "limau"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "limau"
+  },
+  {
+    "id": "pekon-ampai",
+    "name": "Pekon Ampai",
+    "district": "limau"
+  },
+  {
+    "id": "pariaman",
+    "name": "Pariaman",
+    "district": "limau"
+  },
+  {
+    "id": "antarbrak",
+    "name": "Antarbrak",
+    "district": "limau"
+  },
+  {
+    "id": "tanjung-siom",
+    "name": "Tanjung Siom",
+    "district": "limau"
+  },
+  {
+    "id": "tanjung-jaya",
+    "name": "Tanjung Jaya",
+    "district": "limau"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "babotin-selatan",
+    "name": "Babotin Selatan",
+    "district": "botin-leobele"
+  },
+  {
+    "id": "babotin",
+    "name": "Babotin",
+    "district": "botin-leobele"
+  },
+  {
+    "id": "babotin-maemina",
+    "name": "Babotin Maemina",
+    "district": "botin-leobele"
+  },
+  {
+    "id": "takarai",
+    "name": "Takarai",
+    "district": "botin-leobele"
+  },
+  {
+    "id": "kereana",
+    "name": "Kereana",
+    "district": "botin-leobele"
+  }
+]

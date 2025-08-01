@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pota-besar",
+    "name": "Pota Besar",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "pota-kecil",
+    "name": "Pota Kecil",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "wasarili",
+    "name": "Wasarili",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "rumah-lewang-besar",
+    "name": "Rumah Lewang Besar",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "herley-hoka",
+    "name": "Herley/ Hoka",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "rumah-lewang-kecil",
+    "name": "Rumah Lewang Kecil",
+    "district": "pulau-wetang"
+  },
+  {
+    "id": "nusiata",
+    "name": "Nusiata",
+    "district": "pulau-wetang"
+  }
+]

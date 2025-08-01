@@ -1,0 +1,52 @@
+[
+  {
+    "id": "buniara",
+    "name": "Buniara",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "tanjungsiang",
+    "name": "Tanjungsiang",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "cikawung",
+    "name": "Cikawung",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "cimeuhmal",
+    "name": "Cimeuhmal",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "sirap",
+    "name": "Sirap",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "kawungluwuk",
+    "name": "Kawungluwuk",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "cibuluh",
+    "name": "Cibuluh",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "sindanglaya",
+    "name": "Sindanglaya",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "rancamanggung",
+    "name": "Rancamanggung",
+    "district": "tanjungsiang"
+  },
+  {
+    "id": "gandasoli",
+    "name": "Gandasoli",
+    "district": "tanjungsiang"
+  }
+]

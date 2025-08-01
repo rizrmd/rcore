@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sunggal",
+    "name": "Sunggal",
+    "district": "medan-sunggal"
+  },
+  {
+    "id": "tanjung-rejo",
+    "name": "Tanjung Rejo",
+    "district": "medan-sunggal"
+  },
+  {
+    "id": "babura",
+    "name": "Babura",
+    "district": "medan-sunggal"
+  },
+  {
+    "id": "simpang-tanjung",
+    "name": "Simpang Tanjung",
+    "district": "medan-sunggal"
+  },
+  {
+    "id": "sei-sikambing-b",
+    "name": "Sei Sikambing B",
+    "district": "medan-sunggal"
+  },
+  {
+    "id": "lalang",
+    "name": "Lalang",
+    "district": "medan-sunggal"
+  }
+]

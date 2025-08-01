@@ -1,0 +1,37 @@
+[
+  {
+    "id": "abai",
+    "name": "Abai",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "ranah-pantai-cermin",
+    "name": "Ranah Pantai Cermin",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "dusun-tangah",
+    "name": "Dusun Tangah",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "sitapus",
+    "name": "Sitapus",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "lubuk-ulang-aling",
+    "name": "Lubuk Ulang Aling",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "lubuk-ulang-aling-selatan",
+    "name": "Lubuk Ulang Aling Selatan",
+    "district": "sangir-batang-hari"
+  },
+  {
+    "id": "lubuk-ulang-aling-tengah",
+    "name": "Lubuk Ulang Aling Tengah",
+    "district": "sangir-batang-hari"
+  }
+]

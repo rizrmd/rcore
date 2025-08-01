@@ -1,0 +1,32 @@
+[
+  {
+    "id": "puluik-puluik",
+    "name": "Puluik Puluik",
+    "district": "iv-nagari-bayang-utara"
+  },
+  {
+    "id": "koto-ranah",
+    "name": "Koto Ranah",
+    "district": "iv-nagari-bayang-utara"
+  },
+  {
+    "id": "muaro-aie",
+    "name": "Muaro Aie",
+    "district": "iv-nagari-bayang-utara"
+  },
+  {
+    "id": "pancuang-taba",
+    "name": "Pancuang Taba",
+    "district": "iv-nagari-bayang-utara"
+  },
+  {
+    "id": "puluik-puluik-selatan",
+    "name": "Puluik Puluik Selatan",
+    "district": "iv-nagari-bayang-utara"
+  },
+  {
+    "id": "limau-gadang-pancung-taba",
+    "name": "Limau Gadang Pancung Taba",
+    "district": "iv-nagari-bayang-utara"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "karya-bhakti",
+    "name": "Karya Bhakti",
+    "district": "sungai-betung"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "sungai-betung"
+  },
+  {
+    "id": "suka-bangun",
+    "name": "Suka Bangun",
+    "district": "sungai-betung"
+  },
+  {
+    "id": "cipta-karya",
+    "name": "Cipta Karya",
+    "district": "sungai-betung"
+  }
+]

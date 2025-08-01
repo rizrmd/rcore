@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tabiang-banda-gadang",
+    "name": "Tabiang Banda Gadang",
+    "district": "nanggalo"
+  },
+  {
+    "id": "gurun-laweh",
+    "name": "Gurun Laweh",
+    "district": "nanggalo"
+  },
+  {
+    "id": "kampung-olo",
+    "name": "Kampung Olo",
+    "district": "nanggalo"
+  },
+  {
+    "id": "kampung-lapai-baru",
+    "name": "Kampung Lapai Baru",
+    "district": "nanggalo"
+  },
+  {
+    "id": "surau-gadang",
+    "name": "Surau Gadang",
+    "district": "nanggalo"
+  },
+  {
+    "id": "kurao-pagang",
+    "name": "Kurao Pagang",
+    "district": "nanggalo"
+  }
+]

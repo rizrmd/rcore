@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kumapo",
+    "name": "Kumapo",
+    "district": "abuki"
+  },
+  {
+    "id": "walay",
+    "name": "Walay",
+    "district": "abuki"
+  },
+  {
+    "id": "epeea",
+    "name": "Epeea",
+    "district": "abuki"
+  },
+  {
+    "id": "unaasi-jaya",
+    "name": "Unaasi Jaya",
+    "district": "abuki"
+  },
+  {
+    "id": "sambeani",
+    "name": "Sambeani",
+    "district": "abuki"
+  },
+  {
+    "id": "punggaluku",
+    "name": "Punggaluku",
+    "district": "abuki"
+  },
+  {
+    "id": "abuki",
+    "name": "Abuki",
+    "district": "abuki"
+  },
+  {
+    "id": "asolu",
+    "name": "Asolu",
+    "district": "abuki"
+  },
+  {
+    "id": "padangguni-utama",
+    "name": "Padangguni Utama",
+    "district": "abuki"
+  },
+  {
+    "id": "arubia",
+    "name": "Arubia",
+    "district": "abuki"
+  },
+  {
+    "id": "kasuwura",
+    "name": "Kasuwura",
+    "district": "abuki"
+  },
+  {
+    "id": "anggoro",
+    "name": "Anggoro",
+    "district": "abuki"
+  }
+]

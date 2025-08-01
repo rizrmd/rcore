@@ -1,0 +1,47 @@
+[
+  {
+    "id": "panti",
+    "name": "Panti",
+    "district": "panti"
+  },
+  {
+    "id": "panti-selatan",
+    "name": "Panti Selatan",
+    "district": "panti"
+  },
+  {
+    "id": "panti-timur",
+    "name": "Panti Timur",
+    "district": "panti"
+  },
+  {
+    "id": "kemuningsari-lor",
+    "name": "Kemuningsari Lor",
+    "district": "panti"
+  },
+  {
+    "id": "glagahwero",
+    "name": "Glagahwero",
+    "district": "panti"
+  },
+  {
+    "id": "panti",
+    "name": "Panti",
+    "district": "panti"
+  },
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "panti"
+  },
+  {
+    "id": "suci",
+    "name": "Suci",
+    "district": "panti"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "panti"
+  }
+]

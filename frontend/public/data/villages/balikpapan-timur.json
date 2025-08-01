@@ -1,0 +1,22 @@
+[
+  {
+    "id": "manggar",
+    "name": "Manggar",
+    "district": "balikpapan-timur"
+  },
+  {
+    "id": "manggar-baru",
+    "name": "Manggar Baru",
+    "district": "balikpapan-timur"
+  },
+  {
+    "id": "lemaru",
+    "name": "Lemaru",
+    "district": "balikpapan-timur"
+  },
+  {
+    "id": "teritip",
+    "name": "Teritip",
+    "district": "balikpapan-timur"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "banjar",
+    "name": "Banjar",
+    "regency": "kota-banjar"
+  },
+  {
+    "id": "purwaharja",
+    "name": "Purwaharja",
+    "regency": "kota-banjar"
+  },
+  {
+    "id": "pataruman",
+    "name": "Pataruman",
+    "regency": "kota-banjar"
+  },
+  {
+    "id": "langensari",
+    "name": "Langensari",
+    "regency": "kota-banjar"
+  }
+]

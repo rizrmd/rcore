@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bungko",
+    "name": "Bungko",
+    "district": "kapetakan"
+  },
+  {
+    "id": "kertasura",
+    "name": "Kertasura",
+    "district": "kapetakan"
+  },
+  {
+    "id": "pegagan-kidul",
+    "name": "Pegagan Kidul",
+    "district": "kapetakan"
+  },
+  {
+    "id": "pegagan-lor",
+    "name": "Pegagan Lor",
+    "district": "kapetakan"
+  },
+  {
+    "id": "karangkendal",
+    "name": "Karangkendal",
+    "district": "kapetakan"
+  },
+  {
+    "id": "grogol",
+    "name": "Grogol",
+    "district": "kapetakan"
+  },
+  {
+    "id": "kapetakan",
+    "name": "Kapetakan",
+    "district": "kapetakan"
+  },
+  {
+    "id": "bungko-lor",
+    "name": "Bungko Lor",
+    "district": "kapetakan"
+  }
+]

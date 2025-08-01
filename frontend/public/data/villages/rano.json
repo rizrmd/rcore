@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lembang-rano",
+    "name": "Lembang Rano",
+    "district": "rano"
+  },
+  {
+    "id": "lembang-rumandan",
+    "name": "Lembang Rumandan",
+    "district": "rano"
+  },
+  {
+    "id": "lembang-rano-timur",
+    "name": "Lembang Rano Timur",
+    "district": "rano"
+  },
+  {
+    "id": "lembang-rano-tengah",
+    "name": "Lembang Rano Tengah",
+    "district": "rano"
+  },
+  {
+    "id": "lembang-rano-utara",
+    "name": "Lembang Rano Utara",
+    "district": "rano"
+  }
+]

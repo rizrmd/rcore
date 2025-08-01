@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kroptak",
+    "name": "Kroptak",
+    "district": "kroptak"
+  },
+  {
+    "id": "gol",
+    "name": "Gol",
+    "district": "kroptak"
+  },
+  {
+    "id": "golparek",
+    "name": "Golparek",
+    "district": "kroptak"
+  },
+  {
+    "id": "pesat",
+    "name": "Pesat",
+    "district": "kroptak"
+  },
+  {
+    "id": "komoroam",
+    "name": "Komoroam",
+    "district": "kroptak"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bumi-ratu",
+    "name": "Bumi Ratu",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "sirna-galih",
+    "name": "Sirna Galih",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "labuhan-ratu-pasar",
+    "name": "Labuhan Ratu Pasar",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "labuhan-ratu-kampung",
+    "name": "Labuhan Ratu Kampung",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "gedung-ketapang",
+    "name": "Gedung Ketapang",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "banjar-ketapang",
+    "name": "Banjar Ketapang",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "karang-rejo",
+    "name": "Karang Rejo",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "sungkai-selatan"
+  },
+  {
+    "id": "gunung-labuhan",
+    "name": "Gunung Labuhan",
+    "district": "sungkai-selatan"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "tengkulawar",
+    "name": "Tengkulawar",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "compang-necak",
+    "name": "Compang Necak",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "compang-mekar",
+    "name": "Compang Mekar",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "tengku-leda",
+    "name": "Tengku Leda",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "compang-deru",
+    "name": "Compang Deru",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "goreng-meni",
+    "name": "Goreng Meni",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-munga",
+    "name": "Golo Munga",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-rentung",
+    "name": "Golo Rentung",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-lembur",
+    "name": "Golo Lembur",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-nimbung",
+    "name": "Golo Nimbung",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-mangung",
+    "name": "Golo Mangung",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "satar-padut",
+    "name": "Satar Padut",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "nampar-tabang",
+    "name": "Nampar Tabang",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "liang-deruk",
+    "name": "Liang Deruk",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "satar-punda",
+    "name": "Satar Punda",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "lamba-keli",
+    "name": "Lamba Keli",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "goreng-meni-utara",
+    "name": "Goreng Meni Utara",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-munga-barat",
+    "name": "Golo Munga Barat",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-paleng",
+    "name": "Golo Paleng",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "haju-wangi",
+    "name": "Haju Wangi",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "golo-wontong",
+    "name": "Golo Wontong",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "satar-kampas",
+    "name": "Satar Kampas",
+    "district": "lamba-leda"
+  },
+  {
+    "id": "satar-punda-barat",
+    "name": "Satar Punda Barat",
+    "district": "lamba-leda"
+  }
+]

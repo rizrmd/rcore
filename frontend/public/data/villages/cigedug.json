@@ -1,0 +1,27 @@
+[
+  {
+    "id": "barusuda",
+    "name": "Barusuda",
+    "district": "cigedug"
+  },
+  {
+    "id": "cigedug",
+    "name": "Cigedug",
+    "district": "cigedug"
+  },
+  {
+    "id": "sukahurip",
+    "name": "Sukahurip",
+    "district": "cigedug"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "cigedug"
+  },
+  {
+    "id": "cintanagara",
+    "name": "Cintanagara",
+    "district": "cigedug"
+  }
+]

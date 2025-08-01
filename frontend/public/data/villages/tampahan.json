@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tangga-batu-barat",
+    "name": "Tangga Batu Barat",
+    "district": "tampahan"
+  },
+  {
+    "id": "tangga-batu-timur",
+    "name": "Tangga Batu Timur",
+    "district": "tampahan"
+  },
+  {
+    "id": "gurgur-aek-raja",
+    "name": "Gurgur  Aek Raja",
+    "district": "tampahan"
+  },
+  {
+    "id": "lintong-nihuta",
+    "name": "Lintong Nihuta",
+    "district": "tampahan"
+  },
+  {
+    "id": "tara-bunga",
+    "name": "Tara Bunga",
+    "district": "tampahan"
+  },
+  {
+    "id": "m-e-a-t",
+    "name": "M E A T",
+    "district": "tampahan"
+  }
+]

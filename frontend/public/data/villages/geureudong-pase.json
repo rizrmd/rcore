@@ -1,0 +1,57 @@
+[
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "pulo-meuria",
+    "name": "Pulo Meuria",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "krueng-mbang",
+    "name": "Krueng Mbang",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "dayah-seupeng",
+    "name": "Dayah Seupeng",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "uram-jalan",
+    "name": "Uram Jalan",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "peudari",
+    "name": "Peudari",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "rayeuk-jawa",
+    "name": "Rayeuk Jawa",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "darussalam",
+    "name": "Darussalam",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "alue-awe",
+    "name": "Alue Awe",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "lhok-asan",
+    "name": "Lhok Asan",
+    "district": "geureudong-pase"
+  },
+  {
+    "id": "darul-aman",
+    "name": "Darul Aman",
+    "district": "geureudong-pase"
+  }
+]

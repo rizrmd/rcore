@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nagrog",
+    "name": "Nagrog",
+    "district": "cicalengka"
+  },
+  {
+    "id": "narawita",
+    "name": "Narawita",
+    "district": "cicalengka"
+  },
+  {
+    "id": "margaasih",
+    "name": "Margaasih",
+    "district": "cicalengka"
+  },
+  {
+    "id": "cicalengka-wetan",
+    "name": "Cicalengka Wetan",
+    "district": "cicalengka"
+  },
+  {
+    "id": "cikuya",
+    "name": "Cikuya",
+    "district": "cicalengka"
+  },
+  {
+    "id": "waluya",
+    "name": "Waluya",
+    "district": "cicalengka"
+  },
+  {
+    "id": "panenjoan",
+    "name": "Panenjoan",
+    "district": "cicalengka"
+  },
+  {
+    "id": "tenjolaya",
+    "name": "Tenjolaya",
+    "district": "cicalengka"
+  },
+  {
+    "id": "cicalengka-kulon",
+    "name": "Cicalengka Kulon",
+    "district": "cicalengka"
+  },
+  {
+    "id": "babakanpeuteuy",
+    "name": "Babakanpeuteuy",
+    "district": "cicalengka"
+  },
+  {
+    "id": "dampit",
+    "name": "Dampit",
+    "district": "cicalengka"
+  },
+  {
+    "id": "tanjungwangi",
+    "name": "Tanjungwangi",
+    "district": "cicalengka"
+  }
+]

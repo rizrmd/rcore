@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sukaraya",
+    "name": "Sukaraya",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangrahayu",
+    "name": "Karangrahayu",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangsetia",
+    "name": "Karangsetia",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangsatu",
+    "name": "Karangsatu",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangmukti",
+    "name": "Karangmukti",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangbahagia",
+    "name": "Karangbahagia",
+    "district": "karangbahagia"
+  },
+  {
+    "id": "karangsentosa",
+    "name": "Karangsentosa",
+    "district": "karangbahagia"
+  }
+]

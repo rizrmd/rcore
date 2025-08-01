@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "obi-utara"
+  },
+  {
+    "id": "cap",
+    "name": "Cap",
+    "district": "obi-utara"
+  },
+  {
+    "id": "galala",
+    "name": "Galala",
+    "district": "obi-utara"
+  },
+  {
+    "id": "madapolo-barat",
+    "name": "Madapolo Barat",
+    "district": "obi-utara"
+  },
+  {
+    "id": "madapolo",
+    "name": "Madapolo",
+    "district": "obi-utara"
+  },
+  {
+    "id": "madapolo-timur",
+    "name": "Madapolo Timur",
+    "district": "obi-utara"
+  },
+  {
+    "id": "waringi",
+    "name": "Waringi",
+    "district": "obi-utara"
+  }
+]

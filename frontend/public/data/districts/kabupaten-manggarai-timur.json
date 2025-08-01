@@ -1,0 +1,47 @@
+[
+  {
+    "id": "borong",
+    "name": "Borong",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "rana-mese",
+    "name": "Rana Mese",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "kota-komba",
+    "name": "Kota Komba",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "elar",
+    "name": "Elar",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "elar-selatan",
+    "name": "Elar Selatan",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "sambi-rampas",
+    "name": "Sambi Rampas",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "poco-ranaka",
+    "name": "Poco Ranaka",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "poco-ranaka-timur",
+    "name": "Poco Ranaka Timur",
+    "regency": "kabupaten-manggarai-timur"
+  },
+  {
+    "id": "lamba-leda",
+    "name": "Lamba Leda",
+    "regency": "kabupaten-manggarai-timur"
+  }
+]

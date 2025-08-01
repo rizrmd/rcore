@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tawondu",
+    "name": "Tawondu",
+    "district": "suli"
+  },
+  {
+    "id": "murante",
+    "name": "Murante",
+    "district": "suli"
+  },
+  {
+    "id": "suli",
+    "name": "Suli",
+    "district": "suli"
+  },
+  {
+    "id": "buntu-kunyi",
+    "name": "Buntu Kunyi",
+    "district": "suli"
+  },
+  {
+    "id": "lempopacci",
+    "name": "Lempopacci",
+    "district": "suli"
+  },
+  {
+    "id": "botta",
+    "name": "Botta",
+    "district": "suli"
+  },
+  {
+    "id": "padang-lambe",
+    "name": "Padang Lambe",
+    "district": "suli"
+  },
+  {
+    "id": "cakkeawo",
+    "name": "Cakkeawo",
+    "district": "suli"
+  },
+  {
+    "id": "malela",
+    "name": "Malela",
+    "district": "suli"
+  },
+  {
+    "id": "cimpu",
+    "name": "Cimpu",
+    "district": "suli"
+  },
+  {
+    "id": "kasiwiang",
+    "name": "Kasiwiang",
+    "district": "suli"
+  },
+  {
+    "id": "papakaju",
+    "name": "Papakaju",
+    "district": "suli"
+  },
+  {
+    "id": "cimpu-utara",
+    "name": "Cimpu Utara",
+    "district": "suli"
+  }
+]

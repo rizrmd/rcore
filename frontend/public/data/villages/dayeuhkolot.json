@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cangkuang-kulon",
+    "name": "Cangkuang Kulon",
+    "district": "dayeuhkolot"
+  },
+  {
+    "id": "cangkuang-wetan",
+    "name": "Cangkuang Wetan",
+    "district": "dayeuhkolot"
+  },
+  {
+    "id": "pasawahan",
+    "name": "Pasawahan",
+    "district": "dayeuhkolot"
+  },
+  {
+    "id": "dayeuhkolot",
+    "name": "Dayeuhkolot",
+    "district": "dayeuhkolot"
+  },
+  {
+    "id": "citeureup",
+    "name": "Citeureup",
+    "district": "dayeuhkolot"
+  },
+  {
+    "id": "sukapura",
+    "name": "Sukapura",
+    "district": "dayeuhkolot"
+  }
+]

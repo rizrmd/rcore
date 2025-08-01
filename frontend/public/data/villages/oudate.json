@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sowiwa",
+    "name": "Sowiwa",
+    "district": "oudate"
+  },
+  {
+    "id": "ruambak-jaya-sp-vii",
+    "name": "Ruambak Jaya Sp Vii",
+    "district": "oudate"
+  },
+  {
+    "id": "baino-jaya-sp-iv",
+    "name": "Baino Jaya Sp Iv",
+    "district": "oudate"
+  },
+  {
+    "id": "botawa",
+    "name": "Botawa",
+    "district": "oudate"
+  },
+  {
+    "id": "aiboaepawa",
+    "name": "Aiboa/Epawa",
+    "district": "oudate"
+  },
+  {
+    "id": "rasawa",
+    "name": "Rasawa",
+    "district": "oudate"
+  },
+  {
+    "id": "morowa",
+    "name": "Morowa",
+    "district": "oudate"
+  },
+  {
+    "id": "nau",
+    "name": "Nau",
+    "district": "oudate"
+  }
+]

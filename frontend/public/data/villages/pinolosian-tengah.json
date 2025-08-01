@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mataindo",
+    "name": "Mataindo",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "torosik",
+    "name": "Torosik",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "adow-selatan",
+    "name": "Adow Selatan",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "adow",
+    "name": "Adow",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "tobayagan",
+    "name": "Tobayagan",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "deaga",
+    "name": "Deaga",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "tobayagan-selatan",
+    "name": "Tobayagan Selatan",
+    "district": "pinolosian-tengah"
+  },
+  {
+    "id": "mataindo-utara",
+    "name": "Mataindo Utara",
+    "district": "pinolosian-tengah"
+  }
+]

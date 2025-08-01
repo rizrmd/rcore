@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "pacitan"
+  },
+  {
+    "id": "ploso",
+    "name": "Ploso",
+    "district": "pacitan"
+  },
+  {
+    "id": "kembang",
+    "name": "Kembang",
+    "district": "pacitan"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "pacitan"
+  },
+  {
+    "id": "kayen",
+    "name": "Kayen",
+    "district": "pacitan"
+  },
+  {
+    "id": "sirnoboyo",
+    "name": "Sirnoboyo",
+    "district": "pacitan"
+  },
+  {
+    "id": "arjowinangun",
+    "name": "Arjowinangun",
+    "district": "pacitan"
+  },
+  {
+    "id": "baleharjo",
+    "name": "Baleharjo",
+    "district": "pacitan"
+  },
+  {
+    "id": "bangunsari",
+    "name": "Bangunsari",
+    "district": "pacitan"
+  },
+  {
+    "id": "sumberharjo",
+    "name": "Sumberharjo",
+    "district": "pacitan"
+  },
+  {
+    "id": "pucangsewu",
+    "name": "Pucangsewu",
+    "district": "pacitan"
+  },
+  {
+    "id": "pacitan",
+    "name": "Pacitan",
+    "district": "pacitan"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "pacitan"
+  },
+  {
+    "id": "menadi",
+    "name": "Menadi",
+    "district": "pacitan"
+  },
+  {
+    "id": "mentoro",
+    "name": "Mentoro",
+    "district": "pacitan"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "pacitan"
+  },
+  {
+    "id": "nanggungan",
+    "name": "Nanggungan",
+    "district": "pacitan"
+  },
+  {
+    "id": "widoro",
+    "name": "Widoro",
+    "district": "pacitan"
+  },
+  {
+    "id": "semanten",
+    "name": "Semanten",
+    "district": "pacitan"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "pacitan"
+  },
+  {
+    "id": "bolosingo",
+    "name": "Bolosingo",
+    "district": "pacitan"
+  },
+  {
+    "id": "sambong",
+    "name": "Sambong",
+    "district": "pacitan"
+  },
+  {
+    "id": "ponggok",
+    "name": "Ponggok",
+    "district": "pacitan"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "pacitan"
+  }
+]

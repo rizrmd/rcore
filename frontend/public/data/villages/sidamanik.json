@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sidamanik",
+    "name": "Sidamanik",
+    "district": "sidamanik"
+  },
+  {
+    "id": "ambarisan",
+    "name": "Ambarisan",
+    "district": "sidamanik"
+  },
+  {
+    "id": "sarimatondang",
+    "name": "Sarimatondang",
+    "district": "sidamanik"
+  },
+  {
+    "id": "bah-butong-satu",
+    "name": "Bah Butong Satu",
+    "district": "sidamanik"
+  },
+  {
+    "id": "bah-butong-dua",
+    "name": "Bah Butong Dua",
+    "district": "sidamanik"
+  },
+  {
+    "id": "bahal-gajah",
+    "name": "Bahal Gajah",
+    "district": "sidamanik"
+  },
+  {
+    "id": "tiga-bolon",
+    "name": "Tiga Bolon",
+    "district": "sidamanik"
+  },
+  {
+    "id": "manik-hataran",
+    "name": "Manik Hataran",
+    "district": "sidamanik"
+  },
+  {
+    "id": "mekar-sidamanik",
+    "name": "Mekar Sidamanik",
+    "district": "sidamanik"
+  },
+  {
+    "id": "manik-maraja",
+    "name": "Manik Maraja",
+    "district": "sidamanik"
+  },
+  {
+    "id": "bah-biak",
+    "name": "Bah Biak",
+    "district": "sidamanik"
+  },
+  {
+    "id": "kebun-sayur-bah-butong",
+    "name": "Kebun Sayur Bah Butong",
+    "district": "sidamanik"
+  },
+  {
+    "id": "birong-ulu-manriah",
+    "name": "Birong Ulu Manriah",
+    "district": "sidamanik"
+  },
+  {
+    "id": "manik-rambung",
+    "name": "Manik Rambung",
+    "district": "sidamanik"
+  },
+  {
+    "id": "bukit-rejo",
+    "name": "Bukit Rejo",
+    "district": "sidamanik"
+  }
+]

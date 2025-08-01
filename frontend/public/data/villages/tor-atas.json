@@ -1,0 +1,22 @@
+[
+  {
+    "id": "samanente",
+    "name": "Samanente",
+    "district": "tor-atas"
+  },
+  {
+    "id": "konderjan",
+    "name": "Konderjan",
+    "district": "tor-atas"
+  },
+  {
+    "id": "denander",
+    "name": "Denander",
+    "district": "tor-atas"
+  },
+  {
+    "id": "sakron-tane",
+    "name": "Sakron Tane",
+    "district": "tor-atas"
+  }
+]

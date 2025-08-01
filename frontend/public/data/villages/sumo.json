@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sumo",
+    "name": "Sumo",
+    "district": "sumo"
+  },
+  {
+    "id": "uam",
+    "name": "Uam",
+    "district": "sumo"
+  },
+  {
+    "id": "maku",
+    "name": "Maku",
+    "district": "sumo"
+  },
+  {
+    "id": "obokain",
+    "name": "Obokain",
+    "district": "sumo"
+  },
+  {
+    "id": "jibuk",
+    "name": "Jibuk",
+    "district": "sumo"
+  },
+  {
+    "id": "wenapong",
+    "name": "Wenapong",
+    "district": "sumo"
+  },
+  {
+    "id": "muara-balim",
+    "name": "Muara Balim",
+    "district": "sumo"
+  },
+  {
+    "id": "hunisi",
+    "name": "Hunisi",
+    "district": "sumo"
+  },
+  {
+    "id": "boor",
+    "name": "Boor",
+    "district": "sumo"
+  },
+  {
+    "id": "wirilu",
+    "name": "Wirilu",
+    "district": "sumo"
+  },
+  {
+    "id": "kwiriside",
+    "name": "Kwiriside",
+    "district": "sumo"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jagabaya",
+    "name": "Jagabaya",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "gorowong",
+    "name": "Gorowong",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "dago",
+    "name": "Dago",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "cikuda",
+    "name": "Cikuda",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "pingku",
+    "name": "Pingku",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "lumpang",
+    "name": "Lumpang",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "gintung-cilejet",
+    "name": "Gintung Cilejet",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "jagabita",
+    "name": "Jagabita",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "cibunar",
+    "name": "Cibunar",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "parung-panjang",
+    "name": "Parung Panjang",
+    "district": "parung-panjang"
+  },
+  {
+    "id": "kabasiran",
+    "name": "Kabasiran",
+    "district": "parung-panjang"
+  }
+]

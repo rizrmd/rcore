@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ngadimulyo",
+    "name": "Ngadimulyo",
+    "district": "kampak"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "kampak"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "kampak"
+  },
+  {
+    "id": "bendoagung",
+    "name": "Bendoagung",
+    "district": "kampak"
+  },
+  {
+    "id": "bogoran",
+    "name": "Bogoran",
+    "district": "kampak"
+  },
+  {
+    "id": "timahan",
+    "name": "Timahan",
+    "district": "kampak"
+  }
+]

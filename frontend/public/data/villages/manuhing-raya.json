@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tumbang-samui",
+    "name": "Tumbang Samui",
+    "district": "manuhing-raya"
+  },
+  {
+    "id": "tumbang-oroi",
+    "name": "Tumbang Oroi",
+    "district": "manuhing-raya"
+  },
+  {
+    "id": "luwuk-tukau",
+    "name": "Luwuk Tukau",
+    "district": "manuhing-raya"
+  },
+  {
+    "id": "tehang",
+    "name": "Tehang",
+    "district": "manuhing-raya"
+  },
+  {
+    "id": "tumbang-mantuhe",
+    "name": "Tumbang Mantuhe",
+    "district": "manuhing-raya"
+  },
+  {
+    "id": "putat-durei",
+    "name": "Putat Durei",
+    "district": "manuhing-raya"
+  }
+]

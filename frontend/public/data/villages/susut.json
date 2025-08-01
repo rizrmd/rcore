@@ -1,0 +1,42 @@
+[
+  {
+    "id": "apuan",
+    "name": "Apuan",
+    "district": "susut"
+  },
+  {
+    "id": "abuan",
+    "name": "Abuan",
+    "district": "susut"
+  },
+  {
+    "id": "demulih",
+    "name": "Demulih",
+    "district": "susut"
+  },
+  {
+    "id": "sulahan",
+    "name": "Sulahan",
+    "district": "susut"
+  },
+  {
+    "id": "tiga",
+    "name": "Tiga",
+    "district": "susut"
+  },
+  {
+    "id": "penglumbaran",
+    "name": "Penglumbaran",
+    "district": "susut"
+  },
+  {
+    "id": "selat",
+    "name": "Selat",
+    "district": "susut"
+  },
+  {
+    "id": "pengiangan",
+    "name": "Pengiangan",
+    "district": "susut"
+  }
+]

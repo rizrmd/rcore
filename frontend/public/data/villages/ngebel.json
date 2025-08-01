@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ngrogung",
+    "name": "Ngrogung",
+    "district": "ngebel"
+  },
+  {
+    "id": "sahang",
+    "name": "Sahang",
+    "district": "ngebel"
+  },
+  {
+    "id": "wagirlor",
+    "name": "Wagirlor",
+    "district": "ngebel"
+  },
+  {
+    "id": "talun",
+    "name": "Talun",
+    "district": "ngebel"
+  },
+  {
+    "id": "gondowido",
+    "name": "Gondowido",
+    "district": "ngebel"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pinggir",
+    "name": "Pinggir",
+    "district": "pinggir"
+  },
+  {
+    "id": "semunai",
+    "name": "Semunai",
+    "district": "pinggir"
+  },
+  {
+    "id": "tengganau",
+    "name": "Tengganau",
+    "district": "pinggir"
+  },
+  {
+    "id": "balai-pungut",
+    "name": "Balai Pungut",
+    "district": "pinggir"
+  },
+  {
+    "id": "muara-basung",
+    "name": "Muara Basung",
+    "district": "pinggir"
+  },
+  {
+    "id": "titian-antui",
+    "name": "Titian Antui",
+    "district": "pinggir"
+  },
+  {
+    "id": "balai-raja",
+    "name": "Balai Raja",
+    "district": "pinggir"
+  },
+  {
+    "id": "sungai-meranti",
+    "name": "Sungai Meranti",
+    "district": "pinggir"
+  },
+  {
+    "id": "pangkalan-libut",
+    "name": "Pangkalan Libut",
+    "district": "pinggir"
+  },
+  {
+    "id": "buluh-apo",
+    "name": "Buluh Apo",
+    "district": "pinggir"
+  }
+]

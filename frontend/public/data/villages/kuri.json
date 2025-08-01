@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kuri-sarbei",
+    "name": "Kuri  / Sarbei",
+    "district": "kuri"
+  },
+  {
+    "id": "kuri-ii-naramasa",
+    "name": "Kuri Ii / Naramasa",
+    "district": "kuri"
+  },
+  {
+    "id": "wagura",
+    "name": "Wagura",
+    "district": "kuri"
+  },
+  {
+    "id": "rafideso",
+    "name": "Rafideso",
+    "district": "kuri"
+  },
+  {
+    "id": "o-b-o",
+    "name": "O B O",
+    "district": "kuri"
+  },
+  {
+    "id": "awegro",
+    "name": "Awegro",
+    "district": "kuri"
+  },
+  {
+    "id": "otemtra",
+    "name": "Otemtra",
+    "district": "kuri"
+  }
+]

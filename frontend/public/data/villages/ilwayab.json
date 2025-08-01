@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bibikem",
+    "name": "Bibikem",
+    "district": "ilwayab"
+  },
+  {
+    "id": "padua",
+    "name": "Padua",
+    "district": "ilwayab"
+  },
+  {
+    "id": "wogekel",
+    "name": "Wogekel",
+    "district": "ilwayab"
+  },
+  {
+    "id": "wanam",
+    "name": "Wanam",
+    "district": "ilwayab"
+  }
+]

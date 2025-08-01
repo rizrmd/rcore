@@ -1,0 +1,32 @@
+[
+  {
+    "id": "akmer",
+    "name": "Akmer",
+    "district": "ok-bape"
+  },
+  {
+    "id": "tapasik",
+    "name": "Tapasik",
+    "district": "ok-bape"
+  },
+  {
+    "id": "kasawi",
+    "name": "Kasawi",
+    "district": "ok-bape"
+  },
+  {
+    "id": "masim",
+    "name": "Masim",
+    "district": "ok-bape"
+  },
+  {
+    "id": "bape",
+    "name": "Bape",
+    "district": "ok-bape"
+  },
+  {
+    "id": "ibob",
+    "name": "Ibob",
+    "district": "ok-bape"
+  }
+]

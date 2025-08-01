@@ -1,0 +1,67 @@
+[
+  {
+    "id": "talang-bojong",
+    "name": "Talang Bojong",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kota-gapura",
+    "name": "Kota Gapura",
+    "district": "kotabumi"
+  },
+  {
+    "id": "cempedak",
+    "name": "Cempedak",
+    "district": "kotabumi"
+  },
+  {
+    "id": "sribasuki",
+    "name": "Sribasuki",
+    "district": "kotabumi"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kotabumi-tengah",
+    "name": "Kotabumi Tengah",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kotabumi-ilir",
+    "name": "Kotabumi Ilir",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kotabumi-pasar",
+    "name": "Kotabumi Pasar",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kotabumi-udik",
+    "name": "Kotabumi Udik",
+    "district": "kotabumi"
+  },
+  {
+    "id": "sindang-sari",
+    "name": "Sindang Sari",
+    "district": "kotabumi"
+  },
+  {
+    "id": "kotabumi-tengah-barat",
+    "name": "Kotabumi Tengah Barat",
+    "district": "kotabumi"
+  },
+  {
+    "id": "bojong-barat",
+    "name": "Bojong Barat",
+    "district": "kotabumi"
+  },
+  {
+    "id": "sumber-arum",
+    "name": "Sumber Arum",
+    "district": "kotabumi"
+  }
+]

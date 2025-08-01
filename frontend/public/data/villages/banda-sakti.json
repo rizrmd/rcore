@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mon-geudong",
+    "name": "Mon Geudong",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "keude-aceh",
+    "name": "Keude Aceh",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "pusong-lama",
+    "name": "Pusong Lama",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "pusong-baru",
+    "name": "Pusong Baru",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "lhokseumawe",
+    "name": "Lhokseumawe",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "lancang-garam",
+    "name": "Lancang Garam",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "kampung-jawa-baru",
+    "name": "Kampung Jawa Baru",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "tumpok-teungoh",
+    "name": "Tumpok Teungoh",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "kuta-blang",
+    "name": "Kuta Blang",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "uteun-bayi",
+    "name": "Uteun Bayi",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "banda-masen",
+    "name": "Banda Masen",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "ujong-blang",
+    "name": "Ujong Blang",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "ulee-jalan",
+    "name": "Ulee Jalan",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "hagu-barat-laut",
+    "name": "Hagu Barat Laut",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "hagu-teungoh",
+    "name": "Hagu Teungoh",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "hagu-selatan",
+    "name": "Hagu Selatan",
+    "district": "banda-sakti"
+  },
+  {
+    "id": "kampung-jawa-lama",
+    "name": "Kampung Jawa Lama",
+    "district": "banda-sakti"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "grogol",
+    "name": "Grogol",
+    "district": "limo"
+  },
+  {
+    "id": "limo",
+    "name": "Limo",
+    "district": "limo"
+  }
+]

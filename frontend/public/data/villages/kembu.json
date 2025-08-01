@@ -1,0 +1,52 @@
+[
+  {
+    "id": "nugari",
+    "name": "Nugari",
+    "district": "kembu"
+  },
+  {
+    "id": "mamit",
+    "name": "Mamit",
+    "district": "kembu"
+  },
+  {
+    "id": "yowo",
+    "name": "Yowo",
+    "district": "kembu"
+  },
+  {
+    "id": "tioga",
+    "name": "Tioga",
+    "district": "kembu"
+  },
+  {
+    "id": "kobon",
+    "name": "Kobon",
+    "district": "kembu"
+  },
+  {
+    "id": "kabori",
+    "name": "Kabori",
+    "district": "kembu"
+  },
+  {
+    "id": "genani",
+    "name": "Genani",
+    "district": "kembu"
+  },
+  {
+    "id": "wulinaga",
+    "name": "Wulinaga",
+    "district": "kembu"
+  },
+  {
+    "id": "aworera",
+    "name": "Aworera",
+    "district": "kembu"
+  },
+  {
+    "id": "agimdek",
+    "name": "Agimdek",
+    "district": "kembu"
+  }
+]

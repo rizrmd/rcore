@@ -1,0 +1,97 @@
+[
+  {
+    "id": "kuala-bakong",
+    "name": "Kuala Bakong",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "cot-langsat",
+    "name": "Cot Langsat",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "mataie",
+    "name": "Mataie",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "jeumpheuk",
+    "name": "Jeumpheuk",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "babah-nipah",
+    "name": "Babah Nipah",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "kuala-ligan",
+    "name": "Kuala Ligan",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "seumantok",
+    "name": "Seumantok",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "krueng-ayon",
+    "name": "Krueng Ayon",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "cot-punti",
+    "name": "Cot Punti",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "ligan",
+    "name": "Ligan",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "lhok-kruet",
+    "name": "Lhok Kruet",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "pulo-raya",
+    "name": "Pulo Raya",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "krueng-no",
+    "name": "Krueng No",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "crak-mong",
+    "name": "Crak Mong",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "meunasah-kulam",
+    "name": "Meunasah Kulam",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "blang-monlung",
+    "name": "Blang Monlung",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "alue-gro",
+    "name": "Alue Gro",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "ie-jeureungeh",
+    "name": "Ie Jeureungeh",
+    "district": "sampoiniet"
+  },
+  {
+    "id": "ranto-sabon",
+    "name": "Ranto Sabon",
+    "district": "sampoiniet"
+  }
+]

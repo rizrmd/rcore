@@ -1,0 +1,27 @@
+[
+  {
+    "id": "arul-pinang",
+    "name": "Arul Pinang",
+    "district": "peunaron"
+  },
+  {
+    "id": "peunaron-baru",
+    "name": "Peunaron Baru",
+    "district": "peunaron"
+  },
+  {
+    "id": "peunaron-lama",
+    "name": "Peunaron Lama",
+    "district": "peunaron"
+  },
+  {
+    "id": "bukit-tiga",
+    "name": "Bukit Tiga",
+    "district": "peunaron"
+  },
+  {
+    "id": "sri-mulya",
+    "name": "Sri Mulya",
+    "district": "peunaron"
+  }
+]

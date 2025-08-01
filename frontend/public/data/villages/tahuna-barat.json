@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pananekeng",
+    "name": "Pananekeng",
+    "district": "tahuna-barat"
+  },
+  {
+    "id": "angges",
+    "name": "Angges",
+    "district": "tahuna-barat"
+  },
+  {
+    "id": "mitung",
+    "name": "Mitung",
+    "district": "tahuna-barat"
+  },
+  {
+    "id": "beha",
+    "name": "Beha",
+    "district": "tahuna-barat"
+  },
+  {
+    "id": "akembawi",
+    "name": "Akembawi",
+    "district": "tahuna-barat"
+  },
+  {
+    "id": "beha-baru",
+    "name": "Beha Baru",
+    "district": "tahuna-barat"
+  }
+]

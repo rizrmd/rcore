@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ramma-dana",
+    "name": "Ramma Dana",
+    "district": "loura"
+  },
+  {
+    "id": "karuni",
+    "name": "Karuni",
+    "district": "loura"
+  },
+  {
+    "id": "totok",
+    "name": "Totok",
+    "district": "loura"
+  },
+  {
+    "id": "wee-manada",
+    "name": "Wee Manada",
+    "district": "loura"
+  },
+  {
+    "id": "lete-konda",
+    "name": "Lete Konda",
+    "district": "loura"
+  },
+  {
+    "id": "bondo-boghila",
+    "name": "Bondo Boghila",
+    "district": "loura"
+  },
+  {
+    "id": "wee-kambala",
+    "name": "Wee Kambala",
+    "district": "loura"
+  },
+  {
+    "id": "payola-umbu",
+    "name": "Payola Umbu",
+    "district": "loura"
+  },
+  {
+    "id": "pogo-tena",
+    "name": "Pogo Tena",
+    "district": "loura"
+  },
+  {
+    "id": "loka-kalada",
+    "name": "Loka Kalada",
+    "district": "loura"
+  },
+  {
+    "id": "lete-konda-selatan",
+    "name": "Lete Konda Selatan",
+    "district": "loura"
+  }
+]

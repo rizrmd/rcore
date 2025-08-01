@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ampera",
+    "name": "Ampera",
+    "district": "mandobo"
+  },
+  {
+    "id": "persatuan",
+    "name": "Persatuan",
+    "district": "mandobo"
+  },
+  {
+    "id": "mawan",
+    "name": "Mawan",
+    "district": "mandobo"
+  },
+  {
+    "id": "sokanggo",
+    "name": "Sokanggo",
+    "district": "mandobo"
+  },
+  {
+    "id": "mariam",
+    "name": "Mariam",
+    "district": "mandobo"
+  }
+]

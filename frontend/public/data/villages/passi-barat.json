@@ -1,0 +1,62 @@
+[
+  {
+    "id": "muntoi",
+    "name": "Muntoi",
+    "district": "passi-barat"
+  },
+  {
+    "id": "inuai",
+    "name": "Inuai",
+    "district": "passi-barat"
+  },
+  {
+    "id": "poyuyanan",
+    "name": "Poyuyanan",
+    "district": "passi-barat"
+  },
+  {
+    "id": "lobong",
+    "name": "Lobong",
+    "district": "passi-barat"
+  },
+  {
+    "id": "passi",
+    "name": "Passi",
+    "district": "passi-barat"
+  },
+  {
+    "id": "wangga",
+    "name": "Wangga",
+    "district": "passi-barat"
+  },
+  {
+    "id": "otam",
+    "name": "Otam",
+    "district": "passi-barat"
+  },
+  {
+    "id": "bintau",
+    "name": "Bintau",
+    "district": "passi-barat"
+  },
+  {
+    "id": "passi-ii",
+    "name": "Passi Ii",
+    "district": "passi-barat"
+  },
+  {
+    "id": "muntoi-timur",
+    "name": "Muntoi Timur",
+    "district": "passi-barat"
+  },
+  {
+    "id": "wangga-i",
+    "name": "Wangga I",
+    "district": "passi-barat"
+  },
+  {
+    "id": "0tam-barat",
+    "name": "0tam Barat",
+    "district": "passi-barat"
+  }
+]

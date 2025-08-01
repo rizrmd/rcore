@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kampung-gadang",
+    "name": "Kampung Gadang",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "talago-sarik",
+    "name": "Talago Sarik",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "bato",
+    "name": "Bato",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "batang-kabung",
+    "name": "Batang Kabung",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "sungai-sirah",
+    "name": "Sungai Sirah",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "bungo-tanjung",
+    "name": "Bungo Tanjung",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "kampung-kandang",
+    "name": "Kampung Kandang",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "kaluat",
+    "name": "Kaluat",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "kajai",
+    "name": "Kajai",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "kampung-tangah",
+    "name": "Kampung Tangah",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "sungai-pasak",
+    "name": "Sungai Pasak",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "air-santok",
+    "name": "Air Santok",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "cubadak-mentawai",
+    "name": "Cubadak Mentawai",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "koto-marapak",
+    "name": "Koto Marapak",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "pakasai",
+    "name": "Pakasai",
+    "district": "pariaman-timur"
+  },
+  {
+    "id": "kampung-baru-padusunan",
+    "name": "Kampung Baru Padusunan",
+    "district": "pariaman-timur"
+  }
+]

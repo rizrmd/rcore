@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sanggi",
+    "name": "Sanggi",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "durian",
+    "name": "Durian",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "banjaran",
+    "name": "Banjaran",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "way-urang",
+    "name": "Way Urang",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "paya",
+    "name": "Paya",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "tambangan",
+    "name": "Tambangan",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "hanau-berak",
+    "name": "Hanau Berak",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "padang-cermin",
+    "name": "Padang Cermin",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "gayau",
+    "name": "Gayau",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "trimulyo",
+    "name": "Trimulyo",
+    "district": "padang-cermin"
+  },
+  {
+    "id": "khepong-jaya",
+    "name": "Khepong Jaya",
+    "district": "padang-cermin"
+  }
+]

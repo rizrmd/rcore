@@ -1,0 +1,47 @@
+[
+  {
+    "id": "suli",
+    "name": "Suli",
+    "district": "balinggi"
+  },
+  {
+    "id": "malakosa",
+    "name": "Malakosa",
+    "district": "balinggi"
+  },
+  {
+    "id": "balinggi",
+    "name": "Balinggi",
+    "district": "balinggi"
+  },
+  {
+    "id": "balinggi-jati",
+    "name": "Balinggi Jati",
+    "district": "balinggi"
+  },
+  {
+    "id": "suli-indah",
+    "name": "Suli Indah",
+    "district": "balinggi"
+  },
+  {
+    "id": "beraban",
+    "name": "Beraban",
+    "district": "balinggi"
+  },
+  {
+    "id": "lebagu",
+    "name": "Lebagu",
+    "district": "balinggi"
+  },
+  {
+    "id": "tumpapa-indah",
+    "name": "Tumpapa Indah",
+    "district": "balinggi"
+  },
+  {
+    "id": "catur-karya",
+    "name": "Catur Karya",
+    "district": "balinggi"
+  }
+]

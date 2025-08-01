@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kemala-jaya",
+    "name": "Kemala Jaya",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "lontar",
+    "name": "Lontar",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "lubuk-tupak",
+    "name": "Lubuk Tupak",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "muara-saeh",
+    "name": "Muara Saeh",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "surau",
+    "name": "Surau",
+    "district": "muara-jaya"
+  },
+  {
+    "id": "karang-lantang",
+    "name": "Karang Lantang",
+    "district": "muara-jaya"
+  }
+]

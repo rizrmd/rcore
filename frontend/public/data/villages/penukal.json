@@ -1,0 +1,77 @@
+[
+  {
+    "id": "purun-timur",
+    "name": "Purun Timur",
+    "district": "penukal"
+  },
+  {
+    "id": "purun",
+    "name": "Purun",
+    "district": "penukal"
+  },
+  {
+    "id": "babat",
+    "name": "Babat",
+    "district": "penukal"
+  },
+  {
+    "id": "sungai-langan",
+    "name": "Sungai Langan",
+    "district": "penukal"
+  },
+  {
+    "id": "sepantan-jaya",
+    "name": "Sepantan Jaya",
+    "district": "penukal"
+  },
+  {
+    "id": "gunung-raja",
+    "name": "Gunung Raja",
+    "district": "penukal"
+  },
+  {
+    "id": "suka-raja",
+    "name": "Suka Raja",
+    "district": "penukal"
+  },
+  {
+    "id": "gunung-menang",
+    "name": "Gunung Menang",
+    "district": "penukal"
+  },
+  {
+    "id": "mangkunegara",
+    "name": "Mangkunegara",
+    "district": "penukal"
+  },
+  {
+    "id": "raja-jaya",
+    "name": "Raja Jaya",
+    "district": "penukal"
+  },
+  {
+    "id": "mangkunegara-timur",
+    "name": "Mangkunegara Timur",
+    "district": "penukal"
+  },
+  {
+    "id": "air-itam",
+    "name": "Air Itam",
+    "district": "penukal"
+  },
+  {
+    "id": "air-itam-timur",
+    "name": "Air Itam Timur",
+    "district": "penukal"
+  },
+  {
+    "id": "simpang-tiga-babat",
+    "name": "Simpang Tiga Babat",
+    "district": "penukal"
+  },
+  {
+    "id": "simpang-babat",
+    "name": "Simpang Babat",
+    "district": "penukal"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "papalang",
+    "name": "Papalang",
+    "district": "papalang"
+  },
+  {
+    "id": "topore",
+    "name": "Topore",
+    "district": "papalang"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "papalang"
+  },
+  {
+    "id": "salokayu-i",
+    "name": "Salokayu I",
+    "district": "papalang"
+  },
+  {
+    "id": "t-o-a-b-o",
+    "name": "T O A B O",
+    "district": "papalang"
+  },
+  {
+    "id": "bonda",
+    "name": "Bonda",
+    "district": "papalang"
+  },
+  {
+    "id": "boda-boda",
+    "name": "Boda-Boda",
+    "district": "papalang"
+  },
+  {
+    "id": "batu-ampa",
+    "name": "Batu Ampa",
+    "district": "papalang"
+  },
+  {
+    "id": "sisango",
+    "name": "Sisango",
+    "district": "papalang"
+  }
+]

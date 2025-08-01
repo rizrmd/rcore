@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kandangan",
+    "name": "Kandangan",
+    "district": "tosari"
+  },
+  {
+    "id": "mororejo",
+    "name": "Mororejo",
+    "district": "tosari"
+  },
+  {
+    "id": "ngadiwono",
+    "name": "Ngadiwono",
+    "district": "tosari"
+  },
+  {
+    "id": "podokoyo",
+    "name": "Podokoyo",
+    "district": "tosari"
+  },
+  {
+    "id": "wonokitri",
+    "name": "Wonokitri",
+    "district": "tosari"
+  },
+  {
+    "id": "tosari",
+    "name": "Tosari",
+    "district": "tosari"
+  },
+  {
+    "id": "baledono",
+    "name": "Baledono",
+    "district": "tosari"
+  },
+  {
+    "id": "sedaeng",
+    "name": "Sedaeng",
+    "district": "tosari"
+  }
+]

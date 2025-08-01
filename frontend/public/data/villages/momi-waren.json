@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yekwandi",
+    "name": "Yekwandi",
+    "district": "momi-waren"
+  },
+  {
+    "id": "gaya-baru",
+    "name": "Gaya Baru",
+    "district": "momi-waren"
+  },
+  {
+    "id": "nenei-pantai-nij",
+    "name": "Nenei Pantai / Nij",
+    "district": "momi-waren"
+  },
+  {
+    "id": "waren",
+    "name": "Waren",
+    "district": "momi-waren"
+  },
+  {
+    "id": "siwi",
+    "name": "Siwi",
+    "district": "momi-waren"
+  },
+  {
+    "id": "demini",
+    "name": "Demini",
+    "district": "momi-waren"
+  }
+]

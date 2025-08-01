@@ -1,0 +1,27 @@
+[
+  {
+    "id": "metro-selatan",
+    "name": "Metro Selatan",
+    "regency": "kota-metro"
+  },
+  {
+    "id": "metro-barat",
+    "name": "Metro Barat",
+    "regency": "kota-metro"
+  },
+  {
+    "id": "metro-timur",
+    "name": "Metro Timur",
+    "regency": "kota-metro"
+  },
+  {
+    "id": "metro-pusat",
+    "name": "Metro Pusat",
+    "regency": "kota-metro"
+  },
+  {
+    "id": "metro-utara",
+    "name": "Metro Utara",
+    "regency": "kota-metro"
+  }
+]

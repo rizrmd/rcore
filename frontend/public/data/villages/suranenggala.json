@@ -1,0 +1,47 @@
+[
+  {
+    "id": "suranenggala-kulon",
+    "name": "Suranenggala Kulon",
+    "district": "suranenggala"
+  },
+  {
+    "id": "surakarta",
+    "name": "Surakarta",
+    "district": "suranenggala"
+  },
+  {
+    "id": "keraton",
+    "name": "Keraton",
+    "district": "suranenggala"
+  },
+  {
+    "id": "purwawinangun",
+    "name": "Purwawinangun",
+    "district": "suranenggala"
+  },
+  {
+    "id": "muara",
+    "name": "Muara",
+    "district": "suranenggala"
+  },
+  {
+    "id": "karangreja",
+    "name": "Karangreja",
+    "district": "suranenggala"
+  },
+  {
+    "id": "suranenggala-kidul",
+    "name": "Suranenggala Kidul",
+    "district": "suranenggala"
+  },
+  {
+    "id": "suranenggala-lor",
+    "name": "Suranenggala Lor",
+    "district": "suranenggala"
+  },
+  {
+    "id": "suranenggala",
+    "name": "Suranenggala",
+    "district": "suranenggala"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tamban-raya",
+    "name": "Tamban Raya",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "tamban-raya-baru",
+    "name": "Tamban Raya Baru",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "karang-mekar",
+    "name": "Karang Mekar",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "indah-sari",
+    "name": "Indah Sari",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "tinggiran-darat",
+    "name": "Tinggiran Darat",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "jelapat-ii",
+    "name": "Jelapat Ii",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "tinggiran-tengah",
+    "name": "Tinggiran Tengah",
+    "district": "mekar-sari"
+  },
+  {
+    "id": "tinggiran-baru",
+    "name": "Tinggiran Baru",
+    "district": "mekar-sari"
+  }
+]

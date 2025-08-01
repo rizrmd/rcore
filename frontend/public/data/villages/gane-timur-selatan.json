@@ -1,0 +1,27 @@
+[
+  {
+    "id": "gane-luar",
+    "name": "Gane Luar",
+    "district": "gane-timur-selatan"
+  },
+  {
+    "id": "ranga-ranga",
+    "name": "Ranga Ranga",
+    "district": "gane-timur-selatan"
+  },
+  {
+    "id": "kuwo",
+    "name": "Kuwo",
+    "district": "gane-timur-selatan"
+  },
+  {
+    "id": "sawat",
+    "name": "Sawat",
+    "district": "gane-timur-selatan"
+  },
+  {
+    "id": "gaimu",
+    "name": "Gaimu",
+    "district": "gane-timur-selatan"
+  }
+]

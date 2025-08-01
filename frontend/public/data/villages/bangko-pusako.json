@@ -1,0 +1,82 @@
+[
+  {
+    "id": "bangko-sempurna",
+    "name": "Bangko Sempurna",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-bakti",
+    "name": "Bangko Bakti",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-jaya",
+    "name": "Bangko Jaya",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-pusaka",
+    "name": "Bangko Pusaka",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-makmur",
+    "name": "Bangko Makmur",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-kiri",
+    "name": "Bangko Kiri",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-kanan",
+    "name": "Bangko Kanan",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "sungai-manasib",
+    "name": "Sungai Manasib",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "teluk-bano-i",
+    "name": "Teluk Bano I",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "pematang-ibul",
+    "name": "Pematang Ibul",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "pematang-damar",
+    "name": "Pematang Damar",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-permata",
+    "name": "Bangko Permata",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-mukti",
+    "name": "Bangko Mukti",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-lestari",
+    "name": "Bangko Lestari",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-balam",
+    "name": "Bangko Balam",
+    "district": "bangko-pusako"
+  },
+  {
+    "id": "bangko-masraya",
+    "name": "Bangko Masraya",
+    "district": "bangko-pusako"
+  }
+]

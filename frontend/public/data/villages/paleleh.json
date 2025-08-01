@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lintidu",
+    "name": "Lintidu",
+    "district": "paleleh"
+  },
+  {
+    "id": "paleleh",
+    "name": "Paleleh",
+    "district": "paleleh"
+  },
+  {
+    "id": "tolau",
+    "name": "Tolau",
+    "district": "paleleh"
+  },
+  {
+    "id": "kuala-besar",
+    "name": "Kuala Besar",
+    "district": "paleleh"
+  },
+  {
+    "id": "batu-rata",
+    "name": "Batu Rata",
+    "district": "paleleh"
+  },
+  {
+    "id": "talaki",
+    "name": "Talaki",
+    "district": "paleleh"
+  },
+  {
+    "id": "lilito",
+    "name": "Lilito",
+    "district": "paleleh"
+  },
+  {
+    "id": "pionoto",
+    "name": "Pionoto",
+    "district": "paleleh"
+  },
+  {
+    "id": "mulangato",
+    "name": "Mulangato",
+    "district": "paleleh"
+  },
+  {
+    "id": "dopalak",
+    "name": "Dopalak",
+    "district": "paleleh"
+  },
+  {
+    "id": "dutuno",
+    "name": "Dutuno",
+    "district": "paleleh"
+  }
+]

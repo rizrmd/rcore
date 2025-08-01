@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kota-ambon",
+    "name": "Kota Ambon",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-buru",
+    "name": "Buru",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-buru-selatan",
+    "name": "Buru Selatan",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-kepulauan-aru",
+    "name": "Kepulauan Aru",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-maluku-barat-daya",
+    "name": "Maluku Barat Daya",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-maluku-tengah",
+    "name": "Maluku Tengah",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-maluku-tenggara",
+    "name": "Maluku Tenggara",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-maluku-tenggara-barat",
+    "name": "Maluku Tenggara Barat",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-seram-bagian-barat",
+    "name": "Seram Bagian Barat",
+    "province": "maluku"
+  },
+  {
+    "id": "kabupaten-seram-bagian-timur",
+    "name": "Seram Bagian Timur",
+    "province": "maluku"
+  },
+  {
+    "id": "kota-tual",
+    "name": "Kota Tual",
+    "province": "maluku"
+  }
+]

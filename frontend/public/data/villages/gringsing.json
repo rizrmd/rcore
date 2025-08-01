@@ -1,0 +1,62 @@
+[
+  {
+    "id": "surodadi",
+    "name": "Surodadi",
+    "district": "gringsing"
+  },
+  {
+    "id": "kutosari",
+    "name": "Kutosari",
+    "district": "gringsing"
+  },
+  {
+    "id": "mentosari",
+    "name": "Mentosari",
+    "district": "gringsing"
+  },
+  {
+    "id": "gringsing",
+    "name": "Gringsing",
+    "district": "gringsing"
+  },
+  {
+    "id": "lebo",
+    "name": "Lebo",
+    "district": "gringsing"
+  },
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "gringsing"
+  },
+  {
+    "id": "yosorejo",
+    "name": "Yosorejo",
+    "district": "gringsing"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "gringsing"
+  },
+  {
+    "id": "sawangan",
+    "name": "Sawangan",
+    "district": "gringsing"
+  },
+  {
+    "id": "ketanggan",
+    "name": "Ketanggan",
+    "district": "gringsing"
+  },
+  {
+    "id": "madugowongjati",
+    "name": "Madugowongjati",
+    "district": "gringsing"
+  },
+  {
+    "id": "tedunan",
+    "name": "Tedunan",
+    "district": "gringsing"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "simpang",
+    "name": "Simpang",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "selingsingan",
+    "name": "Selingsingan",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "puguk",
+    "name": "Puguk",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "pandan",
+    "name": "Pandan",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "talang-beringin",
+    "name": "Talang Beringin",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "talang-rami",
+    "name": "Talang Rami",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "lubuk-resam",
+    "name": "Lubuk Resam",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "sekalak",
+    "name": "Sekalak",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "sinar-pagi",
+    "name": "Sinar Pagi",
+    "district": "seluma-utara"
+  },
+  {
+    "id": "talang-empat",
+    "name": "Talang Empat",
+    "district": "seluma-utara"
+  }
+]

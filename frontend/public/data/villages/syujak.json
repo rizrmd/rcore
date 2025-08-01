@@ -1,0 +1,22 @@
+[
+  {
+    "id": "iof",
+    "name": "Iof",
+    "district": "syujak"
+  },
+  {
+    "id": "banso",
+    "name": "Banso",
+    "district": "syujak"
+  },
+  {
+    "id": "syujak",
+    "name": "Syujak",
+    "district": "syujak"
+  },
+  {
+    "id": "refane",
+    "name": "Refane",
+    "district": "syujak"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pulau-kemiling",
+    "name": "Pulau Kemiling",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "siring-alam",
+    "name": "Siring Alam",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "simpang-campang",
+    "name": "Simpang Campang",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "pangandonan",
+    "name": "Pangandonan",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "keban-agung",
+    "name": "Keban Agung",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "pius",
+    "name": "Pius",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "muara-sindang",
+    "name": "Muara Sindang",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "tanjung-jati",
+    "name": "Tanjung Jati",
+    "district": "kisam-ilir"
+  },
+  {
+    "id": "campang-jaya",
+    "name": "Campang Jaya",
+    "district": "kisam-ilir"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "natang-kuning",
+    "name": "Natang Kuning",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "tikong",
+    "name": "Tikong",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "sahu",
+    "name": "Sahu",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "air-bulan",
+    "name": "Air Bulan",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "nunca",
+    "name": "Nunca",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "minton",
+    "name": "Minton",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "gela",
+    "name": "Gela",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "hai",
+    "name": "Hai",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "air-kalimat",
+    "name": "Air Kalimat",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "jorjoga",
+    "name": "Jorjoga",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "tanjung-una",
+    "name": "Tanjung Una",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "mananga",
+    "name": "Mananga",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "wahe",
+    "name": "Wahe",
+    "district": "taliabu-utara"
+  },
+  {
+    "id": "mbono",
+    "name": "Mbono",
+    "district": "taliabu-utara"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "dlimas",
+    "name": "Dlimas",
+    "district": "banyuputih"
+  },
+  {
+    "id": "banyuputih",
+    "name": "Banyuputih",
+    "district": "banyuputih"
+  },
+  {
+    "id": "kalibalik",
+    "name": "Kalibalik",
+    "district": "banyuputih"
+  },
+  {
+    "id": "kalangsono",
+    "name": "Kalangsono",
+    "district": "banyuputih"
+  },
+  {
+    "id": "banaran",
+    "name": "Banaran",
+    "district": "banyuputih"
+  },
+  {
+    "id": "timbang",
+    "name": "Timbang",
+    "district": "banyuputih"
+  },
+  {
+    "id": "penundan",
+    "name": "Penundan",
+    "district": "banyuputih"
+  },
+  {
+    "id": "kedawung",
+    "name": "Kedawung",
+    "district": "banyuputih"
+  },
+  {
+    "id": "banyuputih",
+    "name": "Banyuputih",
+    "district": "banyuputih"
+  },
+  {
+    "id": "sumberejo",
+    "name": "Sumberejo",
+    "district": "banyuputih"
+  },
+  {
+    "id": "sumberanyar",
+    "name": "Sumberanyar",
+    "district": "banyuputih"
+  },
+  {
+    "id": "sumberwaru",
+    "name": "Sumberwaru",
+    "district": "banyuputih"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "banyuputih"
+  }
+]

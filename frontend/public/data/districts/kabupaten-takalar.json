@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mangara-bombang",
+    "name": "Mangara Bombang",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "mappakasunggu",
+    "name": "Mappakasunggu",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "sanrobone",
+    "name": "Sanrobone",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "polombangkeng-selatan",
+    "name": "Polombangkeng Selatan",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "pattallassang",
+    "name": "Pattallassang",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "polombangkeng-utara",
+    "name": "Polombangkeng Utara",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "galesong-selatan",
+    "name": "Galesong Selatan",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "galesong",
+    "name": "Galesong",
+    "regency": "kabupaten-takalar"
+  },
+  {
+    "id": "galesong-utara",
+    "name": "Galesong Utara",
+    "regency": "kabupaten-takalar"
+  }
+]

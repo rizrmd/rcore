@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cintaasih",
+    "name": "Cintaasih",
+    "district": "gekbrong"
+  },
+  {
+    "id": "cikancana",
+    "name": "Cikancana",
+    "district": "gekbrong"
+  },
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "gekbrong"
+  },
+  {
+    "id": "bangbayang",
+    "name": "Bangbayang",
+    "district": "gekbrong"
+  },
+  {
+    "id": "songgom",
+    "name": "Songgom",
+    "district": "gekbrong"
+  },
+  {
+    "id": "cikahuripan",
+    "name": "Cikahuripan",
+    "district": "gekbrong"
+  },
+  {
+    "id": "gekbrong",
+    "name": "Gekbrong",
+    "district": "gekbrong"
+  },
+  {
+    "id": "kebonpeuteuy",
+    "name": "Kebonpeuteuy",
+    "district": "gekbrong"
+  }
+]

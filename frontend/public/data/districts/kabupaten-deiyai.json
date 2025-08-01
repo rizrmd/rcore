@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kapiraya",
+    "name": "Kapiraya",
+    "regency": "kabupaten-deiyai"
+  },
+  {
+    "id": "tigi-barat",
+    "name": "Tigi Barat",
+    "regency": "kabupaten-deiyai"
+  },
+  {
+    "id": "tigi",
+    "name": "Tigi",
+    "regency": "kabupaten-deiyai"
+  },
+  {
+    "id": "tigi-timur",
+    "name": "Tigi Timur",
+    "regency": "kabupaten-deiyai"
+  },
+  {
+    "id": "bowobado",
+    "name": "Bowobado",
+    "regency": "kabupaten-deiyai"
+  }
+]

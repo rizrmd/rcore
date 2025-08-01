@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sekapas",
+    "name": "Sekapas",
+    "district": "rantau-kopar"
+  },
+  {
+    "id": "bagan-cempedak",
+    "name": "Bagan Cempedak",
+    "district": "rantau-kopar"
+  },
+  {
+    "id": "rantau-kopar",
+    "name": "Rantau Kopar",
+    "district": "rantau-kopar"
+  },
+  {
+    "id": "sungai-rangau",
+    "name": "Sungai Rangau",
+    "district": "rantau-kopar"
+  }
+]

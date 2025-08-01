@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tawangbanteng",
+    "name": "Tawangbanteng",
+    "district": "sukaratu"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "sukaratu"
+  },
+  {
+    "id": "sukamahi",
+    "name": "Sukamahi",
+    "district": "sukaratu"
+  },
+  {
+    "id": "sukagalih",
+    "name": "Sukagalih",
+    "district": "sukaratu"
+  },
+  {
+    "id": "indrajaya",
+    "name": "Indrajaya",
+    "district": "sukaratu"
+  },
+  {
+    "id": "sukaratu",
+    "name": "Sukaratu",
+    "district": "sukaratu"
+  },
+  {
+    "id": "sinagar",
+    "name": "Sinagar",
+    "district": "sukaratu"
+  },
+  {
+    "id": "linggajati",
+    "name": "Linggajati",
+    "district": "sukaratu"
+  }
+]

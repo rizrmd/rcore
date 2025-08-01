@@ -1,0 +1,67 @@
+[
+  {
+    "id": "santanamekar",
+    "name": "Santanamekar",
+    "district": "cisayong"
+  },
+  {
+    "id": "cisayong",
+    "name": "Cisayong",
+    "district": "cisayong"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "cisayong"
+  },
+  {
+    "id": "sukasukur",
+    "name": "Sukasukur",
+    "district": "cisayong"
+  },
+  {
+    "id": "jatihurip",
+    "name": "Jatihurip",
+    "district": "cisayong"
+  },
+  {
+    "id": "sukaraharja",
+    "name": "Sukaraharja",
+    "district": "cisayong"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "cisayong"
+  },
+  {
+    "id": "nusawangi",
+    "name": "Nusawangi",
+    "district": "cisayong"
+  },
+  {
+    "id": "cikadu",
+    "name": "Cikadu",
+    "district": "cisayong"
+  },
+  {
+    "id": "purwasari",
+    "name": "Purwasari",
+    "district": "cisayong"
+  },
+  {
+    "id": "cileuleus",
+    "name": "Cileuleus",
+    "district": "cisayong"
+  },
+  {
+    "id": "sukasetia",
+    "name": "Sukasetia",
+    "district": "cisayong"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "cisayong"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kampani",
+    "name": "Kampani",
+    "district": "wa-daga"
+  },
+  {
+    "id": "lindo",
+    "name": "Lindo",
+    "district": "wa-daga"
+  },
+  {
+    "id": "katobu",
+    "name": "Katobu",
+    "district": "wa-daga"
+  },
+  {
+    "id": "lailangga",
+    "name": "Lailangga",
+    "district": "wa-daga"
+  },
+  {
+    "id": "lasosodo",
+    "name": "Lasosodo",
+    "district": "wa-daga"
+  },
+  {
+    "id": "wakontu",
+    "name": "Wakontu",
+    "district": "wa-daga"
+  },
+  {
+    "id": "lakanaha",
+    "name": "Lakanaha",
+    "district": "wa-daga"
+  }
+]

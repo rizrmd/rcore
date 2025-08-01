@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bintaro",
+    "name": "Bintaro",
+    "district": "pesanggrahan"
+  },
+  {
+    "id": "pesanggrahan",
+    "name": "Pesanggrahan",
+    "district": "pesanggrahan"
+  },
+  {
+    "id": "ulujami",
+    "name": "Ulujami",
+    "district": "pesanggrahan"
+  },
+  {
+    "id": "petukangan-selatan",
+    "name": "Petukangan Selatan",
+    "district": "pesanggrahan"
+  },
+  {
+    "id": "petukangan-utara",
+    "name": "Petukangan Utara",
+    "district": "pesanggrahan"
+  }
+]

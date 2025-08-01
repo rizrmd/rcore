@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "pardamean",
+    "name": "Pardamean",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "bp-nauli",
+    "name": "Bp Nauli",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "sukamakmur",
+    "name": "Sukamakmur",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "parhorasan-nauli",
+    "name": "Parhorasan Nauli",
+    "district": "siantar-marihat"
+  },
+  {
+    "id": "mekar-nauli",
+    "name": "Mekar Nauli",
+    "district": "siantar-marihat"
+  }
+]

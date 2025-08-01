@@ -1,0 +1,287 @@
+[
+  {
+    "id": "cinta-makmur",
+    "name": "Cinta Makmur",
+    "district": "baktiya"
+  },
+  {
+    "id": "babussalam",
+    "name": "Babussalam",
+    "district": "baktiya"
+  },
+  {
+    "id": "buket-dara-baro",
+    "name": "Buket Dara Baro",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-baro",
+    "name": "Matang Baro",
+    "district": "baktiya"
+  },
+  {
+    "id": "ujong-dama",
+    "name": "Ujong Dama",
+    "district": "baktiya"
+  },
+  {
+    "id": "buket-mon-sukon",
+    "name": "Buket Mon Sukon",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-beuringen",
+    "name": "Matang Beuringen",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-pineung",
+    "name": "Matang Pineung",
+    "district": "baktiya"
+  },
+  {
+    "id": "ceumpedak",
+    "name": "Ceumpedak",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-reudeup",
+    "name": "Matang Reudeup",
+    "district": "baktiya"
+  },
+  {
+    "id": "buket-lueng-bata",
+    "name": "Buket Lueng Bata",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-manyam",
+    "name": "Matang Manyam",
+    "district": "baktiya"
+  },
+  {
+    "id": "cot-manyang",
+    "name": "Cot Manyang",
+    "district": "baktiya"
+  },
+  {
+    "id": "keude-meunye-iv",
+    "name": "Keude Meunye Iv",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-ulim",
+    "name": "Matang Ulim",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-linya",
+    "name": "Matang Linya",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-ie-tarek",
+    "name": "Alue Ie Tarek",
+    "district": "baktiya"
+  },
+  {
+    "id": "geulumpang-bungkok",
+    "name": "Geulumpang Bungkok",
+    "district": "baktiya"
+  },
+  {
+    "id": "arongan-lise",
+    "name": "Arongan Lise",
+    "district": "baktiya"
+  },
+  {
+    "id": "glumpang-payong",
+    "name": "Glumpang Payong",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-rambong",
+    "name": "Alue Rambong",
+    "district": "baktiya"
+  },
+  {
+    "id": "geulumpang-samlakoe",
+    "name": "Geulumpang Samlakoe",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-rawa",
+    "name": "Matang Rawa",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-lawang",
+    "name": "Matang Lawang",
+    "district": "baktiya"
+  },
+  {
+    "id": "cot-ara",
+    "name": "Cot Ara",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-dama",
+    "name": "Alue Dama",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-bili-geulumpang",
+    "name": "Alue Bili Geulumpang",
+    "district": "baktiya"
+  },
+  {
+    "id": "pucok-alue",
+    "name": "Pucok Alue",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-kareung",
+    "name": "Matang Kareung",
+    "district": "baktiya"
+  },
+  {
+    "id": "cot-ulaya",
+    "name": "Cot Ulaya",
+    "district": "baktiya"
+  },
+  {
+    "id": "keude-panteu-breuh",
+    "name": "Keude Panteu Breuh",
+    "district": "baktiya"
+  },
+  {
+    "id": "rambong-dalam",
+    "name": "Rambong Dalam",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-bili-rayeuk",
+    "name": "Alue Bili Rayeuk",
+    "district": "baktiya"
+  },
+  {
+    "id": "meunasah-alue-ie-puteh",
+    "name": "Meunasah Alue Ie Puteh",
+    "district": "baktiya"
+  },
+  {
+    "id": "keude-alue-ie-puteh",
+    "name": "Keude Alue Ie Puteh",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-kumbang",
+    "name": "Matang Kumbang",
+    "district": "baktiya"
+  },
+  {
+    "id": "cot-mane",
+    "name": "Cot Mane",
+    "district": "baktiya"
+  },
+  {
+    "id": "cot-kumbang",
+    "name": "Cot Kumbang",
+    "district": "baktiya"
+  },
+  {
+    "id": "lhok-seutuy",
+    "name": "Lhok Seutuy",
+    "district": "baktiya"
+  },
+  {
+    "id": "meunasah-bujok",
+    "name": "Meunasah Bujok",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-jamok",
+    "name": "Alue Jamok",
+    "district": "baktiya"
+  },
+  {
+    "id": "meudang-ara",
+    "name": "Meudang Ara",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-keutapang",
+    "name": "Alue Keutapang",
+    "district": "baktiya"
+  },
+  {
+    "id": "meunasah-geudong",
+    "name": "Meunasah Geudong",
+    "district": "baktiya"
+  },
+  {
+    "id": "krueng-lingka-timu",
+    "name": "Krueng Lingka Timu",
+    "district": "baktiya"
+  },
+  {
+    "id": "krueng-lingka-barat",
+    "name": "Krueng Lingka Barat",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-anou-timu",
+    "name": "Alue Anou Timu",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-anou-barat",
+    "name": "Alue Anou Barat",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-serdang",
+    "name": "Alue Serdang",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-raya-barat",
+    "name": "Matang Raya Barat",
+    "district": "baktiya"
+  },
+  {
+    "id": "pulo-seuke",
+    "name": "Pulo Seuke",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-geudong",
+    "name": "Alue Geudong",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-keulayu",
+    "name": "Matang Keulayu",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-raya-timu",
+    "name": "Matang Raya Timu",
+    "district": "baktiya"
+  },
+  {
+    "id": "alue-buya",
+    "name": "Alue Buya",
+    "district": "baktiya"
+  },
+  {
+    "id": "matang-cut",
+    "name": "Matang Cut",
+    "district": "baktiya"
+  },
+  {
+    "id": "tanjong-glumpang",
+    "name": "Tanjong Glumpang",
+    "district": "baktiya"
+  }
+]

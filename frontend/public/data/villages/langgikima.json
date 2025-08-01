@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sari-mukti-upthialu-iv",
+    "name": "Sari Mukti (Upt.Hialu Iv)",
+    "district": "langgikima"
+  },
+  {
+    "id": "langgi-kima-upthialu-iii",
+    "name": "Langgi Kima (Upt.Hialu Iii)",
+    "district": "langgikima"
+  },
+  {
+    "id": "molore",
+    "name": "Molore",
+    "district": "langgikima"
+  },
+  {
+    "id": "lameruru",
+    "name": "Lameruru",
+    "district": "langgikima"
+  },
+  {
+    "id": "uptmorombotobimeita",
+    "name": "Upt.Morombo/Tobimeita",
+    "district": "langgikima"
+  },
+  {
+    "id": "pariama",
+    "name": "Pariama",
+    "district": "langgikima"
+  },
+  {
+    "id": "polora-indah",
+    "name": "Polora Indah",
+    "district": "langgikima"
+  },
+  {
+    "id": "alenggo",
+    "name": "Alenggo",
+    "district": "langgikima"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "langgikima"
+  },
+  {
+    "id": "molore-pantai",
+    "name": "Molore Pantai",
+    "district": "langgikima"
+  },
+  {
+    "id": "ngapainia",
+    "name": "Ngapainia",
+    "district": "langgikima"
+  },
+  {
+    "id": "morombo-pantai",
+    "name": "Morombo Pantai",
+    "district": "langgikima"
+  }
+]

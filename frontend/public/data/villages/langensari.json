@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kujangsari",
+    "name": "Kujangsari",
+    "district": "langensari"
+  },
+  {
+    "id": "bojongkantong",
+    "name": "Bojongkantong",
+    "district": "langensari"
+  },
+  {
+    "id": "rejasari",
+    "name": "Rejasari",
+    "district": "langensari"
+  },
+  {
+    "id": "langensari",
+    "name": "Langensari",
+    "district": "langensari"
+  },
+  {
+    "id": "muktisari",
+    "name": "Muktisari",
+    "district": "langensari"
+  },
+  {
+    "id": "waringinsari",
+    "name": "Waringinsari",
+    "district": "langensari"
+  }
+]

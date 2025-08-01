@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "arahan"
+  },
+  {
+    "id": "arahan-kidul",
+    "name": "Arahan Kidul",
+    "district": "arahan"
+  },
+  {
+    "id": "arahan-lor",
+    "name": "Arahan Lor",
+    "district": "arahan"
+  },
+  {
+    "id": "linggajati",
+    "name": "Linggajati",
+    "district": "arahan"
+  },
+  {
+    "id": "tawangsari",
+    "name": "Tawangsari",
+    "district": "arahan"
+  },
+  {
+    "id": "sukadadi",
+    "name": "Sukadadi",
+    "district": "arahan"
+  },
+  {
+    "id": "pranggong",
+    "name": "Pranggong",
+    "district": "arahan"
+  },
+  {
+    "id": "cidempet",
+    "name": "Cidempet",
+    "district": "arahan"
+  }
+]

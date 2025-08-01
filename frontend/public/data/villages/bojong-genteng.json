@@ -1,0 +1,27 @@
+[
+  {
+    "id": "berekah",
+    "name": "Berekah",
+    "district": "bojong-genteng"
+  },
+  {
+    "id": "bojong-genteng",
+    "name": "Bojong Genteng",
+    "district": "bojong-genteng"
+  },
+  {
+    "id": "bojong-galing",
+    "name": "Bojong Galing",
+    "district": "bojong-genteng"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "bojong-genteng"
+  },
+  {
+    "id": "cipanengah",
+    "name": "Cipanengah",
+    "district": "bojong-genteng"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "simpang-baru",
+    "name": "Simpang Baru",
+    "district": "tampan"
+  },
+  {
+    "id": "sidomulyo-barat",
+    "name": "Sidomulyo Barat",
+    "district": "tampan"
+  },
+  {
+    "id": "tuah-karya",
+    "name": "Tuah Karya",
+    "district": "tampan"
+  },
+  {
+    "id": "delima",
+    "name": "Delima",
+    "district": "tampan"
+  },
+  {
+    "id": "tuah-madani",
+    "name": "Tuah Madani",
+    "district": "tampan"
+  },
+  {
+    "id": "sialang-munggu",
+    "name": "Sialang Munggu",
+    "district": "tampan"
+  },
+  {
+    "id": "tobek-godang",
+    "name": "Tobek Godang",
+    "district": "tampan"
+  },
+  {
+    "id": "bina-widya",
+    "name": "Bina Widya",
+    "district": "tampan"
+  },
+  {
+    "id": "air-putih",
+    "name": "Air Putih",
+    "district": "tampan"
+  }
+]

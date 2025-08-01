@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dolupo-karya",
+    "name": "Dolupo Karya",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "mandula",
+    "name": "Mandula",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "lembobelala",
+    "name": "Lembobelala",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "poona",
+    "name": "Po'Ona",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "ronta",
+    "name": "Ronta",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "bintangor-mukti",
+    "name": "Bintangor Mukti",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "petumbea",
+    "name": "Petumbea",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "pontangoa",
+    "name": "Pontango'A",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "jamor-jaya",
+    "name": "Jamor Jaya",
+    "district": "lembo-raya"
+  },
+  {
+    "id": "paawaru",
+    "name": "Pa'Awaru",
+    "district": "lembo-raya"
+  }
+]

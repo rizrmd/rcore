@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tanjung-kasuari",
+    "name": "Tanjung Kasuari",
+    "district": "maladum-mes"
+  },
+  {
+    "id": "saoka",
+    "name": "Saoka",
+    "district": "maladum-mes"
+  },
+  {
+    "id": "suprau",
+    "name": "Suprau",
+    "district": "maladum-mes"
+  },
+  {
+    "id": "tampa-garam",
+    "name": "Tampa Garam",
+    "district": "maladum-mes"
+  }
+]

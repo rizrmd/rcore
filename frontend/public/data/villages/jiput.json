@@ -1,0 +1,67 @@
+[
+  {
+    "id": "banyuresmi",
+    "name": "Banyuresmi",
+    "district": "jiput"
+  },
+  {
+    "id": "salapraya",
+    "name": "Salapraya",
+    "district": "jiput"
+  },
+  {
+    "id": "pamarayan",
+    "name": "Pamarayan",
+    "district": "jiput"
+  },
+  {
+    "id": "sampangbitung",
+    "name": "Sampangbitung",
+    "district": "jiput"
+  },
+  {
+    "id": "jiput",
+    "name": "Jiput",
+    "district": "jiput"
+  },
+  {
+    "id": "sukacai",
+    "name": "Sukacai",
+    "district": "jiput"
+  },
+  {
+    "id": "tenjolahang",
+    "name": "Tenjolahang",
+    "district": "jiput"
+  },
+  {
+    "id": "babadsari",
+    "name": "Babadsari",
+    "district": "jiput"
+  },
+  {
+    "id": "janaka",
+    "name": "Janaka",
+    "district": "jiput"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "jiput"
+  },
+  {
+    "id": "sikulan",
+    "name": "Sikulan",
+    "district": "jiput"
+  },
+  {
+    "id": "citaman",
+    "name": "Citaman",
+    "district": "jiput"
+  },
+  {
+    "id": "jayamekar",
+    "name": "Jayamekar",
+    "district": "jiput"
+  }
+]

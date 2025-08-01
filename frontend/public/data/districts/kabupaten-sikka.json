@@ -1,0 +1,107 @@
+[
+  {
+    "id": "paga",
+    "name": "Paga",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "mego",
+    "name": "Mego",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "tana-wawo",
+    "name": "Tana Wawo",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "lela",
+    "name": "Lela",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "bola",
+    "name": "Bola",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "doreng",
+    "name": "Doreng",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "mapitara",
+    "name": "Mapitara",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "talibura",
+    "name": "Talibura",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "waigete",
+    "name": "Waigete",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "waiblama",
+    "name": "Waiblama",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "kewapante",
+    "name": "Kewapante",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "hewokloang",
+    "name": "Hewokloang",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "kangae",
+    "name": "Kangae",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "palue",
+    "name": "Palue",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "koting",
+    "name": "Koting",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "nelle",
+    "name": "Nelle",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "nita",
+    "name": "Nita",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "magepanda",
+    "name": "Magepanda",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "alok",
+    "name": "Alok",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "alok-barat",
+    "name": "Alok Barat",
+    "regency": "kabupaten-sikka"
+  },
+  {
+    "id": "alok-timur",
+    "name": "Alok Timur",
+    "regency": "kabupaten-sikka"
+  }
+]

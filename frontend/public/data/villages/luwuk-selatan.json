@@ -1,0 +1,47 @@
+[
+  {
+    "id": "maahas",
+    "name": "Maahas",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "simpong",
+    "name": "Simpong",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "hanga-hanga",
+    "name": "Hanga-Hanga",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "tanjung-tuwis",
+    "name": "Tanjung Tuwis",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "bukit-mambual",
+    "name": "Bukit Mambual",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "tombang-permai",
+    "name": "Tombang Permai",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "kompo",
+    "name": "Kompo",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "jole",
+    "name": "Jole",
+    "district": "luwuk-selatan"
+  },
+  {
+    "id": "hanga-hanga-permai",
+    "name": "Hanga-Hanga Permai",
+    "district": "luwuk-selatan"
+  }
+]

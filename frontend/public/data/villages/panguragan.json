@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kalianyar",
+    "name": "Kalianyar",
+    "district": "panguragan"
+  },
+  {
+    "id": "panguragan-kulon",
+    "name": "Panguragan Kulon",
+    "district": "panguragan"
+  },
+  {
+    "id": "panguragan-wetan",
+    "name": "Panguragan Wetan",
+    "district": "panguragan"
+  },
+  {
+    "id": "panguragan-lor",
+    "name": "Panguragan Lor",
+    "district": "panguragan"
+  },
+  {
+    "id": "panguragan",
+    "name": "Panguragan",
+    "district": "panguragan"
+  },
+  {
+    "id": "lemahtamba",
+    "name": "Lemahtamba",
+    "district": "panguragan"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "panguragan"
+  },
+  {
+    "id": "kroya",
+    "name": "Kroya",
+    "district": "panguragan"
+  }
+]

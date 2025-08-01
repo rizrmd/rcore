@@ -1,0 +1,62 @@
+[
+  {
+    "id": "embacang-gedang",
+    "name": "Embacang Gedang",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "sungai-mancur",
+    "name": "Sungai Mancur",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "tanah-periuk",
+    "name": "Tanah Periuk",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "lubuk-landai",
+    "name": "Lubuk Landai",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "pematang-panjang",
+    "name": "Pematang Panjang",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "tebing-tinggi",
+    "name": "Tebing Tinggi",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "rantau-embacang",
+    "name": "Rantau Embacang",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "paku-aji",
+    "name": "Paku Aji",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "sungai-puri",
+    "name": "Sungai Puri",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "sungai-lilin",
+    "name": "Sungai Lilin",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "sungai-tembang",
+    "name": "Sungai Tembang",
+    "district": "tanah-sepenggal-lintas"
+  },
+  {
+    "id": "rantau-makmur",
+    "name": "Rantau Makmur",
+    "district": "tanah-sepenggal-lintas"
+  }
+]

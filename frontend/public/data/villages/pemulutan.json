@@ -1,0 +1,127 @@
+[
+  {
+    "id": "aur-standing",
+    "name": "Aur Standing",
+    "district": "pemulutan"
+  },
+  {
+    "id": "suka-rami",
+    "name": "Suka Rami",
+    "district": "pemulutan"
+  },
+  {
+    "id": "palu",
+    "name": "Palu",
+    "district": "pemulutan"
+  },
+  {
+    "id": "muara-dua",
+    "name": "Muara Dua",
+    "district": "pemulutan"
+  },
+  {
+    "id": "teluk-kecapi",
+    "name": "Teluk Kecapi",
+    "district": "pemulutan"
+  },
+  {
+    "id": "pelabuhan-dalam",
+    "name": "Pelabuhan Dalam",
+    "district": "pemulutan"
+  },
+  {
+    "id": "pemulutan-ulu",
+    "name": "Pemulutan Ulu",
+    "district": "pemulutan"
+  },
+  {
+    "id": "pemulutan-ilir",
+    "name": "Pemulutan Ilir",
+    "district": "pemulutan"
+  },
+  {
+    "id": "sungai-rasau",
+    "name": "Sungai Rasau",
+    "district": "pemulutan"
+  },
+  {
+    "id": "pegayut",
+    "name": "Pegayut",
+    "district": "pemulutan"
+  },
+  {
+    "id": "ibul-besar-i",
+    "name": "Ibul Besar I",
+    "district": "pemulutan"
+  },
+  {
+    "id": "ibul-besar-ii",
+    "name": "Ibul Besar Ii",
+    "district": "pemulutan"
+  },
+  {
+    "id": "ibul-besar-iii",
+    "name": "Ibul Besar Iii",
+    "district": "pemulutan"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "pemulutan"
+  },
+  {
+    "id": "lebung-jangkar",
+    "name": "Lebung Jangkar",
+    "district": "pemulutan"
+  },
+  {
+    "id": "kedukan-bujang",
+    "name": "Kedukan Bujang",
+    "district": "pemulutan"
+  },
+  {
+    "id": "rawa-jaya",
+    "name": "Rawa Jaya",
+    "district": "pemulutan"
+  },
+  {
+    "id": "babatan-saudagar",
+    "name": "Babatan Saudagar",
+    "district": "pemulutan"
+  },
+  {
+    "id": "tanjung-pasir",
+    "name": "Tanjung Pasir",
+    "district": "pemulutan"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "pemulutan"
+  },
+  {
+    "id": "pipa-putih",
+    "name": "Pipa Putih",
+    "district": "pemulutan"
+  },
+  {
+    "id": "sungai-buaya",
+    "name": "Sungai Buaya",
+    "district": "pemulutan"
+  },
+  {
+    "id": "muara-baru",
+    "name": "Muara Baru",
+    "district": "pemulutan"
+  },
+  {
+    "id": "sembadak",
+    "name": "Sembadak",
+    "district": "pemulutan"
+  },
+  {
+    "id": "simpang-pelabuhan-dalam",
+    "name": "Simpang Pelabuhan Dalam",
+    "district": "pemulutan"
+  }
+]

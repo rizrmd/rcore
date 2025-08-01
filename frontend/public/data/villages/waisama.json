@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pohon-batu",
+    "name": "Pohon Batu",
+    "district": "waisama"
+  },
+  {
+    "id": "wamsisi",
+    "name": "Wamsisi",
+    "district": "waisama"
+  },
+  {
+    "id": "waelikut",
+    "name": "Waelikut",
+    "district": "waisama"
+  },
+  {
+    "id": "simi",
+    "name": "Simi",
+    "district": "waisama"
+  },
+  {
+    "id": "lena",
+    "name": "Lena",
+    "district": "waisama"
+  },
+  {
+    "id": "waesili",
+    "name": "Waesili",
+    "district": "waisama"
+  },
+  {
+    "id": "waetawa",
+    "name": "Waetawa",
+    "district": "waisama"
+  },
+  {
+    "id": "waeteba",
+    "name": "Waeteba",
+    "district": "waisama"
+  },
+  {
+    "id": "hote",
+    "name": "Hote",
+    "district": "waisama"
+  },
+  {
+    "id": "waemasing",
+    "name": "Waemasing",
+    "district": "waisama"
+  },
+  {
+    "id": "batu-kasa",
+    "name": "Batu Kasa",
+    "district": "waisama"
+  }
+]

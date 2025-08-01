@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kepanjenkidul",
+    "name": "Kepanjenkidul",
+    "district": "kepanjenkidul"
+  },
+  {
+    "id": "kepanjenlor",
+    "name": "Kepanjenlor",
+    "district": "kepanjenkidul"
+  },
+  {
+    "id": "kauman",
+    "name": "Kauman",
+    "district": "kepanjenkidul"
+  },
+  {
+    "id": "bendo",
+    "name": "Bendo",
+    "district": "kepanjenkidul"
+  },
+  {
+    "id": "tanggung",
+    "name": "Tanggung",
+    "district": "kepanjenkidul"
+  },
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "kepanjenkidul"
+  }
+]

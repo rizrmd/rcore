@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cibareno",
+    "name": "Cibareno",
+    "district": "cilograng"
+  },
+  {
+    "id": "cilograng",
+    "name": "Cilograng",
+    "district": "cilograng"
+  },
+  {
+    "id": "lebaktipar",
+    "name": "Lebaktipar",
+    "district": "cilograng"
+  },
+  {
+    "id": "cikatomas",
+    "name": "Cikatomas",
+    "district": "cilograng"
+  },
+  {
+    "id": "cijengkol",
+    "name": "Cijengkol",
+    "district": "cilograng"
+  },
+  {
+    "id": "pasirbungur",
+    "name": "Pasirbungur",
+    "district": "cilograng"
+  },
+  {
+    "id": "cikamunding",
+    "name": "Cikamunding",
+    "district": "cilograng"
+  },
+  {
+    "id": "girimukti",
+    "name": "Girimukti",
+    "district": "cilograng"
+  },
+  {
+    "id": "cireundeu",
+    "name": "Cireundeu",
+    "district": "cilograng"
+  },
+  {
+    "id": "gunungbatu",
+    "name": "Gunungbatu",
+    "district": "cilograng"
+  }
+]

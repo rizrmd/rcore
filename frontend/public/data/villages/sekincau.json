@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tiga-jaya",
+    "name": "Tiga Jaya",
+    "district": "sekincau"
+  },
+  {
+    "id": "waspada",
+    "name": "Waspada",
+    "district": "sekincau"
+  },
+  {
+    "id": "giham-sukamaju",
+    "name": "Giham Sukamaju",
+    "district": "sekincau"
+  },
+  {
+    "id": "sekincau",
+    "name": "Sekincau",
+    "district": "sekincau"
+  },
+  {
+    "id": "pampangan",
+    "name": "Pampangan",
+    "district": "sekincau"
+  }
+]

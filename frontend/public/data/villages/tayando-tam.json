@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tayando-langgiar",
+    "name": "Tayando Langgiar",
+    "district": "tayando-tam"
+  },
+  {
+    "id": "tayando-ohoiel",
+    "name": "Tayando Ohoiel",
+    "district": "tayando-tam"
+  },
+  {
+    "id": "tayando-yamru",
+    "name": "Tayando Yamru",
+    "district": "tayando-tam"
+  },
+  {
+    "id": "tayando-yamtel",
+    "name": "Tayando Yamtel",
+    "district": "tayando-tam"
+  },
+  {
+    "id": "tam-ngurhir",
+    "name": "Tam Ngurhir",
+    "district": "tayando-tam"
+  }
+]

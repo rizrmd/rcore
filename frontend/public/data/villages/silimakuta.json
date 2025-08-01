@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sibangun-meriah",
+    "name": "Sibangun Meriah",
+    "district": "silimakuta"
+  },
+  {
+    "id": "saribu-dolok",
+    "name": "Saribu Dolok",
+    "district": "silimakuta"
+  },
+  {
+    "id": "purba-sinombah",
+    "name": "Purba Sinombah",
+    "district": "silimakuta"
+  },
+  {
+    "id": "purba-tua",
+    "name": "Purba Tua",
+    "district": "silimakuta"
+  },
+  {
+    "id": "purba-tua-baru",
+    "name": "Purba Tua Baru",
+    "district": "silimakuta"
+  },
+  {
+    "id": "sinar-baru",
+    "name": "Sinar Baru",
+    "district": "silimakuta"
+  },
+  {
+    "id": "purba-tua-etek",
+    "name": "Purba Tua Etek",
+    "district": "silimakuta"
+  }
+]

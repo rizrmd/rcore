@@ -1,0 +1,27 @@
+[
+  {
+    "id": "talwai",
+    "name": "Talwai",
+    "district": "lembur"
+  },
+  {
+    "id": "waimi",
+    "name": "Waimi",
+    "district": "lembur"
+  },
+  {
+    "id": "t-a-s-i",
+    "name": "T A S I",
+    "district": "lembur"
+  },
+  {
+    "id": "lembur-timur",
+    "name": "Lembur Timur",
+    "district": "lembur"
+  },
+  {
+    "id": "luba",
+    "name": "Luba",
+    "district": "lembur"
+  }
+]

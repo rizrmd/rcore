@@ -1,0 +1,42 @@
+[
+  {
+    "id": "banyu-rejo",
+    "name": "Banyu Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "tambak-rejo",
+    "name": "Tambak Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "pondok-rejo",
+    "name": "Pondok Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "moro-rejo",
+    "name": "Moro Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "margo-rejo",
+    "name": "Margo Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "lumbung-rejo",
+    "name": "Lumbung Rejo",
+    "district": "tempel"
+  },
+  {
+    "id": "merdiko-rejo",
+    "name": "Merdiko Rejo",
+    "district": "tempel"
+  }
+]

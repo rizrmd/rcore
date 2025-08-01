@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tunggulsari",
+    "name": "Tunggulsari",
+    "district": "brangsong"
+  },
+  {
+    "id": "penjalin",
+    "name": "Penjalin",
+    "district": "brangsong"
+  },
+  {
+    "id": "kertomulyo",
+    "name": "Kertomulyo",
+    "district": "brangsong"
+  },
+  {
+    "id": "blorok",
+    "name": "Blorok",
+    "district": "brangsong"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "brangsong"
+  },
+  {
+    "id": "tosari",
+    "name": "Tosari",
+    "district": "brangsong"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "brangsong"
+  },
+  {
+    "id": "turunrejo",
+    "name": "Turunrejo",
+    "district": "brangsong"
+  },
+  {
+    "id": "purwokerto",
+    "name": "Purwokerto",
+    "district": "brangsong"
+  },
+  {
+    "id": "brangsong",
+    "name": "Brangsong",
+    "district": "brangsong"
+  },
+  {
+    "id": "kebon-adem",
+    "name": "Kebon Adem",
+    "district": "brangsong"
+  }
+]

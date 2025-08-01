@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ngrombo",
+    "name": "Ngrombo",
+    "district": "baki"
+  },
+  {
+    "id": "mancasan",
+    "name": "Mancasan",
+    "district": "baki"
+  },
+  {
+    "id": "gedongan",
+    "name": "Gedongan",
+    "district": "baki"
+  },
+  {
+    "id": "jetis",
+    "name": "Jetis",
+    "district": "baki"
+  },
+  {
+    "id": "bentakan",
+    "name": "Bentakan",
+    "district": "baki"
+  },
+  {
+    "id": "kadilangu",
+    "name": "Kadilangu",
+    "district": "baki"
+  },
+  {
+    "id": "bakipandeyan",
+    "name": "Bakipandeyan",
+    "district": "baki"
+  },
+  {
+    "id": "menuran",
+    "name": "Menuran",
+    "district": "baki"
+  },
+  {
+    "id": "siwal",
+    "name": "Siwal",
+    "district": "baki"
+  },
+  {
+    "id": "waru",
+    "name": "Waru",
+    "district": "baki"
+  },
+  {
+    "id": "gentan",
+    "name": "Gentan",
+    "district": "baki"
+  },
+  {
+    "id": "purbayan",
+    "name": "Purbayan",
+    "district": "baki"
+  }
+]

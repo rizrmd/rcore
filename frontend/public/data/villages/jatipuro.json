@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ngepungsari",
+    "name": "Ngepungsari",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatipurwo",
+    "name": "Jatipurwo",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatipuro",
+    "name": "Jatipuro",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatisobo",
+    "name": "Jatisobo",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatiwarno",
+    "name": "Jatiwarno",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatimulyo",
+    "name": "Jatimulyo",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatisuko",
+    "name": "Jatisuko",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatiharjo",
+    "name": "Jatiharjo",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatikuwung",
+    "name": "Jatikuwung",
+    "district": "jatipuro"
+  },
+  {
+    "id": "jatiroyo",
+    "name": "Jatiroyo",
+    "district": "jatipuro"
+  }
+]

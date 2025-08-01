@@ -1,0 +1,37 @@
+[
+  {
+    "id": "banua-rakyat",
+    "name": "Banua Rakyat",
+    "district": "naga-juang"
+  },
+  {
+    "id": "humbang-i",
+    "name": "Humbang I",
+    "district": "naga-juang"
+  },
+  {
+    "id": "sayur-matua",
+    "name": "Sayur Matua",
+    "district": "naga-juang"
+  },
+  {
+    "id": "tarutung-panjang",
+    "name": "Tarutung Panjang",
+    "district": "naga-juang"
+  },
+  {
+    "id": "tambiski",
+    "name": "Tambiski",
+    "district": "naga-juang"
+  },
+  {
+    "id": "simanosor",
+    "name": "Simanosor",
+    "district": "naga-juang"
+  },
+  {
+    "id": "tambiski-nauli",
+    "name": "Tambiski Nauli",
+    "district": "naga-juang"
+  }
+]

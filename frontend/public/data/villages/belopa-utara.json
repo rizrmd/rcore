@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lebani",
+    "name": "Lebani",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "pammanu",
+    "name": "Pammanu",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "lamunre",
+    "name": "Lamunre",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "lauwa",
+    "name": "Lauwa",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "paconne",
+    "name": "Paconne",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "seppong",
+    "name": "Seppong",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "sabe",
+    "name": "Sabe",
+    "district": "belopa-utara"
+  },
+  {
+    "id": "lamunre-tengah",
+    "name": "Lamunre Tengah",
+    "district": "belopa-utara"
+  }
+]

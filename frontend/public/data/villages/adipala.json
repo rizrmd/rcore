@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gombolharjo",
+    "name": "Gombolharjo",
+    "district": "adipala"
+  },
+  {
+    "id": "wlahar",
+    "name": "Wlahar",
+    "district": "adipala"
+  },
+  {
+    "id": "bunton",
+    "name": "Bunton",
+    "district": "adipala"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "adipala"
+  },
+  {
+    "id": "karangbenda",
+    "name": "Karangbenda",
+    "district": "adipala"
+  },
+  {
+    "id": "pedasong",
+    "name": "Pedasong",
+    "district": "adipala"
+  },
+  {
+    "id": "glempangpasir",
+    "name": "Glempangpasir",
+    "district": "adipala"
+  },
+  {
+    "id": "welahan-wetan",
+    "name": "Welahan Wetan",
+    "district": "adipala"
+  },
+  {
+    "id": "adiraja",
+    "name": "Adiraja",
+    "district": "adipala"
+  },
+  {
+    "id": "adireja-wetan",
+    "name": "Adireja Wetan",
+    "district": "adipala"
+  },
+  {
+    "id": "adireja-kulon",
+    "name": "Adireja Kulon",
+    "district": "adipala"
+  },
+  {
+    "id": "adipala",
+    "name": "Adipala",
+    "district": "adipala"
+  },
+  {
+    "id": "penggalang",
+    "name": "Penggalang",
+    "district": "adipala"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "adipala"
+  },
+  {
+    "id": "kalikudi",
+    "name": "Kalikudi",
+    "district": "adipala"
+  },
+  {
+    "id": "doplang",
+    "name": "Doplang",
+    "district": "adipala"
+  }
+]

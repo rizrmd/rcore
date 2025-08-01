@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kalangsari",
+    "name": "Kalangsari",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "kalangsuria",
+    "name": "Kalangsuria",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "karyasari",
+    "name": "Karyasari",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "dukuhkarya",
+    "name": "Dukuhkarya",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "amansari",
+    "name": "Amansari",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "rengasdengklok-selatan",
+    "name": "Rengasdengklok Selatan",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "rengasdengklok-utara",
+    "name": "Rengasdengklok Utara",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "kertasari",
+    "name": "Kertasari",
+    "district": "rengasdengklok"
+  },
+  {
+    "id": "dewisari",
+    "name": "Dewisari",
+    "district": "rengasdengklok"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cipedak",
+    "name": "Cipedak",
+    "district": "jagakarsa"
+  },
+  {
+    "id": "srengseng-sawah",
+    "name": "Srengseng Sawah",
+    "district": "jagakarsa"
+  },
+  {
+    "id": "ciganjur",
+    "name": "Ciganjur",
+    "district": "jagakarsa"
+  },
+  {
+    "id": "jagakarsa",
+    "name": "Jagakarsa",
+    "district": "jagakarsa"
+  },
+  {
+    "id": "lenteng-agung",
+    "name": "Lenteng Agung",
+    "district": "jagakarsa"
+  },
+  {
+    "id": "tanjung-barat",
+    "name": "Tanjung Barat",
+    "district": "jagakarsa"
+  }
+]

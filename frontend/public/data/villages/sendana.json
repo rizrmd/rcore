@@ -1,0 +1,102 @@
+[
+  {
+    "id": "purangi",
+    "name": "Purangi",
+    "district": "sendana"
+  },
+  {
+    "id": "mawa",
+    "name": "Mawa",
+    "district": "sendana"
+  },
+  {
+    "id": "peta",
+    "name": "Peta",
+    "district": "sendana"
+  },
+  {
+    "id": "sendana",
+    "name": "Sendana",
+    "district": "sendana"
+  },
+  {
+    "id": "mosso-dua",
+    "name": "Mosso Dua",
+    "district": "sendana"
+  },
+  {
+    "id": "mosso",
+    "name": "Mosso",
+    "district": "sendana"
+  },
+  {
+    "id": "puttada",
+    "name": "Puttada",
+    "district": "sendana"
+  },
+  {
+    "id": "sendana",
+    "name": "Sendana",
+    "district": "sendana"
+  },
+  {
+    "id": "tallum-banua",
+    "name": "Tallum Banua",
+    "district": "sendana"
+  },
+  {
+    "id": "pundau",
+    "name": "Pundau",
+    "district": "sendana"
+  },
+  {
+    "id": "bukit-samang",
+    "name": "Bukit Samang",
+    "district": "sendana"
+  },
+  {
+    "id": "limbua",
+    "name": "Limbua",
+    "district": "sendana"
+  },
+  {
+    "id": "lalatedong",
+    "name": "Lalatedong",
+    "district": "sendana"
+  },
+  {
+    "id": "paminggalan",
+    "name": "Paminggalan",
+    "district": "sendana"
+  },
+  {
+    "id": "totolisi-sendana",
+    "name": "Totolisi Sendana",
+    "district": "sendana"
+  },
+  {
+    "id": "banua-sendana",
+    "name": "Banua Sendana",
+    "district": "sendana"
+  },
+  {
+    "id": "tallu-banua-utara",
+    "name": "Tallu Banua Utara",
+    "district": "sendana"
+  },
+  {
+    "id": "limboro-rambu-rambu",
+    "name": "Limboro Rambu-Rambu",
+    "district": "sendana"
+  },
+  {
+    "id": "leppangan",
+    "name": "Leppangan",
+    "district": "sendana"
+  },
+  {
+    "id": "binanga",
+    "name": "Binanga",
+    "district": "sendana"
+  }
+]

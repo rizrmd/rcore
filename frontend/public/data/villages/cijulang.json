@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ciakar",
+    "name": "Ciakar",
+    "district": "cijulang"
+  },
+  {
+    "id": "cibanten",
+    "name": "Cibanten",
+    "district": "cijulang"
+  },
+  {
+    "id": "kertayasa",
+    "name": "Kertayasa",
+    "district": "cijulang"
+  },
+  {
+    "id": "batukaras",
+    "name": "Batukaras",
+    "district": "cijulang"
+  },
+  {
+    "id": "cijulang",
+    "name": "Cijulang",
+    "district": "cijulang"
+  },
+  {
+    "id": "kondangjajar",
+    "name": "Kondangjajar",
+    "district": "cijulang"
+  },
+  {
+    "id": "margacinta",
+    "name": "Margacinta",
+    "district": "cijulang"
+  }
+]

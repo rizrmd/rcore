@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bukit-subur",
+    "name": "Bukit Subur",
+    "district": "tabir-timur"
+  },
+  {
+    "id": "sungai-bulian",
+    "name": "Sungai Bulian",
+    "district": "tabir-timur"
+  },
+  {
+    "id": "sungai-limau",
+    "name": "Sungai Limau",
+    "district": "tabir-timur"
+  },
+  {
+    "id": "sri-sembilan",
+    "name": "Sri Sembilan",
+    "district": "tabir-timur"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ulumanda",
+    "name": "Ulumanda",
+    "district": "ulumanda"
+  },
+  {
+    "id": "sambabo",
+    "name": "Sambabo",
+    "district": "ulumanda"
+  },
+  {
+    "id": "tandeallo",
+    "name": "Tandeallo",
+    "district": "ulumanda"
+  },
+  {
+    "id": "kabiraan",
+    "name": "Kabiraan",
+    "district": "ulumanda"
+  },
+  {
+    "id": "popenga",
+    "name": "Popenga",
+    "district": "ulumanda"
+  },
+  {
+    "id": "salutambung",
+    "name": "Salutambung",
+    "district": "ulumanda"
+  },
+  {
+    "id": "panggalo",
+    "name": "Panggalo",
+    "district": "ulumanda"
+  },
+  {
+    "id": "sulai",
+    "name": "Sulai",
+    "district": "ulumanda"
+  }
+]

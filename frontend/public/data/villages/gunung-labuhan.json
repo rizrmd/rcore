@@ -1,0 +1,107 @@
+[
+  {
+    "id": "banjar-ratu",
+    "name": "Banjar Ratu",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "banjar-sakti",
+    "name": "Banjar Sakti",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "gunung-baru",
+    "name": "Gunung Baru",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "suka-negeri",
+    "name": "Suka Negeri",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "negeri-mulyo",
+    "name": "Negeri Mulyo",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "negeri-sungkai",
+    "name": "Negeri Sungkai",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "gunung-sari",
+    "name": "Gunung Sari",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "gunung-labuhan",
+    "name": "Gunung Labuhan",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "bengkulu-rejo",
+    "name": "Bengkulu Rejo",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "bengkulu",
+    "name": "Bengkulu",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "way-tuba",
+    "name": "Way Tuba",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "bengkulu-raman",
+    "name": "Bengkulu Raman",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "kayu-batu",
+    "name": "Kayu Batu",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "bengkulu-jaya",
+    "name": "Bengkulu Jaya",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "curup-patah",
+    "name": "Curup Patah",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "tiuh-balak-ii",
+    "name": "Tiuh Balak Ii",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "negeri-ujan-mas",
+    "name": "Negeri Ujan Mas",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "bengkulu-tengah",
+    "name": "Bengkulu Tengah",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "gunung-pekuwon",
+    "name": "Gunung Pekuwon",
+    "district": "gunung-labuhan"
+  },
+  {
+    "id": "labuhan-jaya",
+    "name": "Labuhan Jaya",
+    "district": "gunung-labuhan"
+  }
+]

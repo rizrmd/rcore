@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pangian",
+    "name": "Pangian",
+    "district": "passi-timur"
+  },
+  {
+    "id": "poopo",
+    "name": "Poopo",
+    "district": "passi-timur"
+  },
+  {
+    "id": "manembo",
+    "name": "Manembo",
+    "district": "passi-timur"
+  },
+  {
+    "id": "sinsingon",
+    "name": "Sinsingon",
+    "district": "passi-timur"
+  },
+  {
+    "id": "mobuya",
+    "name": "Mobuya",
+    "district": "passi-timur"
+  },
+  {
+    "id": "insil",
+    "name": "Insil",
+    "district": "passi-timur"
+  },
+  {
+    "id": "insil-baru",
+    "name": "Insil Baru",
+    "district": "passi-timur"
+  },
+  {
+    "id": "pangian-tengah",
+    "name": "Pangian Tengah",
+    "district": "passi-timur"
+  },
+  {
+    "id": "pangian-barat",
+    "name": "Pangian Barat",
+    "district": "passi-timur"
+  },
+  {
+    "id": "poopo-barat",
+    "name": "Poopo Barat",
+    "district": "passi-timur"
+  },
+  {
+    "id": "poopo-selatan",
+    "name": "Poopo Selatan",
+    "district": "passi-timur"
+  },
+  {
+    "id": "sinsingon-barat",
+    "name": "Sinsingon Barat",
+    "district": "passi-timur"
+  },
+  {
+    "id": "sinsingon-timur",
+    "name": "Sinsingon Timur",
+    "district": "passi-timur"
+  }
+]

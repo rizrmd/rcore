@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kondamara",
+    "name": "Kondamara",
+    "district": "lewa"
+  },
+  {
+    "id": "lewapaku",
+    "name": "Lewapaku",
+    "district": "lewa"
+  },
+  {
+    "id": "tanarara",
+    "name": "Tanarara",
+    "district": "lewa"
+  },
+  {
+    "id": "kambata-wundut",
+    "name": "Kambata Wundut",
+    "district": "lewa"
+  },
+  {
+    "id": "rakawatu",
+    "name": "Rakawatu",
+    "district": "lewa"
+  },
+  {
+    "id": "kambu-hapang",
+    "name": "Kambu Hapang",
+    "district": "lewa"
+  },
+  {
+    "id": "matawai-pawali",
+    "name": "Matawai Pawali",
+    "district": "lewa"
+  },
+  {
+    "id": "bidi-hunga",
+    "name": "Bidi Hunga",
+    "district": "lewa"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "yogosem",
+    "name": "Yogosem",
+    "district": "yogosem"
+  },
+  {
+    "id": "kiroma",
+    "name": "Kiroma",
+    "district": "yogosem"
+  },
+  {
+    "id": "sogasio",
+    "name": "Sogasio",
+    "district": "yogosem"
+  },
+  {
+    "id": "saikama",
+    "name": "Saikama",
+    "district": "yogosem"
+  },
+  {
+    "id": "hokolekma",
+    "name": "Hokolekma",
+    "district": "yogosem"
+  },
+  {
+    "id": "esahapuk",
+    "name": "Esahapuk",
+    "district": "yogosem"
+  },
+  {
+    "id": "mesahaput",
+    "name": "Mesahaput",
+    "district": "yogosem"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nambangan-kidul",
+    "name": "Nambangan Kidul",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "nambangan-lor",
+    "name": "Nambangan Lor",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "manguharjo",
+    "name": "Manguharjo",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "pangongangan",
+    "name": "Pangongangan",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "winongo",
+    "name": "Winongo",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "madiun-lor",
+    "name": "Madiun Lor",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "patihan",
+    "name": "Patihan",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "ngegong",
+    "name": "Ngegong",
+    "district": "mangu-harjo"
+  },
+  {
+    "id": "sogaten",
+    "name": "Sogaten",
+    "district": "mangu-harjo"
+  }
+]

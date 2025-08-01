@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jatihandap",
+    "name": "Jatihandap",
+    "district": "mandalajati"
+  },
+  {
+    "id": "karang-pamulang",
+    "name": "Karang Pamulang",
+    "district": "mandalajati"
+  },
+  {
+    "id": "sindang-jaya",
+    "name": "Sindang Jaya",
+    "district": "mandalajati"
+  },
+  {
+    "id": "pasir-impun",
+    "name": "Pasir Impun",
+    "district": "mandalajati"
+  }
+]

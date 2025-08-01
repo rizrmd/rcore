@@ -1,0 +1,127 @@
+[
+  {
+    "id": "pamintangan",
+    "name": "Pamintangan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "pakacangan",
+    "name": "Pakacangan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "cakeru",
+    "name": "Cakeru",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "pakapuran",
+    "name": "Pakapuran",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "panangkalaan",
+    "name": "Panangkalaan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "panangkalaan-hulu",
+    "name": "Panangkalaan Hulu",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "padang-basar-hilir",
+    "name": "Padang Basar Hilir",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "padang-basar",
+    "name": "Padang Basar",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "murung-karangan",
+    "name": "Murung Karangan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "panangian",
+    "name": "Panangian",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "kamayahan",
+    "name": "Kamayahan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "teluk-daun",
+    "name": "Teluk Daun",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "kuangan",
+    "name": "Kuangan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "sungai-turak",
+    "name": "Sungai Turak",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "telaga-bamban",
+    "name": "Telaga Bamban",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "tabalong-mati",
+    "name": "Tabalong Mati",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "sungai-turak-dalam",
+    "name": "Sungai Turak Dalam",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "muara-baruh",
+    "name": "Muara Baruh",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "panyaungan",
+    "name": "Panyaungan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "pandawanan",
+    "name": "Pandawanan",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "pimping",
+    "name": "Pimping",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "padang-luar",
+    "name": "Padang Luar",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "air-tawar",
+    "name": "Air Tawar",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "tayur",
+    "name": "Tayur",
+    "district": "amuntai-utara"
+  },
+  {
+    "id": "tabing-liring",
+    "name": "Tabing Liring",
+    "district": "amuntai-utara"
+  }
+]

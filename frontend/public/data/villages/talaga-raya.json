@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kokoe",
+    "name": "Kokoe",
+    "district": "talaga-raya"
+  },
+  {
+    "id": "talaga-besar",
+    "name": "Talaga Besar",
+    "district": "talaga-raya"
+  },
+  {
+    "id": "talaga-ii",
+    "name": "Talaga Ii",
+    "district": "talaga-raya"
+  },
+  {
+    "id": "talaga-i",
+    "name": "Talaga I",
+    "district": "talaga-raya"
+  },
+  {
+    "id": "liwu-lompona",
+    "name": "Liwu Lompona",
+    "district": "talaga-raya"
+  },
+  {
+    "id": "pangilia",
+    "name": "Pangilia",
+    "district": "talaga-raya"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ongka",
+    "name": "Ongka",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "malino",
+    "name": "Malino",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "tinombala",
+    "name": "Tinombala",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "persatuan-sejati",
+    "name": "Persatuan Sejati",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "santigi",
+    "name": "Santigi",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "tabolobolo",
+    "name": "Tabolobolo",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "karya-mandiri",
+    "name": "Karya Mandiri",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "kayu-jati",
+    "name": "Kayu Jati",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "bosagon-jaya",
+    "name": "Bosagon Jaya",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "lambanau",
+    "name": "Lambanau",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "tinombala-jaya",
+    "name": "Tinombala Jaya",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "persatuan-utara",
+    "name": "Persatuan Utara",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "ongka-trimuspasari",
+    "name": "Ongka Trimuspasari",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "tinombala-sejati",
+    "name": "Tinombala Sejati",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "tinombala-barat",
+    "name": "Tinombala Barat",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "padaelo",
+    "name": "Padaelo",
+    "district": "ongka-malino"
+  },
+  {
+    "id": "ongka-persatuan",
+    "name": "Ongka Persatuan",
+    "district": "ongka-malino"
+  }
+]

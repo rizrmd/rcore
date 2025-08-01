@@ -1,0 +1,52 @@
+[
+  {
+    "id": "campur-sari",
+    "name": "Campur Sari",
+    "district": "talisayan"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "talisayan"
+  },
+  {
+    "id": "tunggal-bumi",
+    "name": "Tunggal Bumi",
+    "district": "talisayan"
+  },
+  {
+    "id": "dumaring",
+    "name": "Dumaring",
+    "district": "talisayan"
+  },
+  {
+    "id": "suka-murya",
+    "name": "Suka Murya",
+    "district": "talisayan"
+  },
+  {
+    "id": "purna-sari-jaya",
+    "name": "Purna Sari Jaya",
+    "district": "talisayan"
+  },
+  {
+    "id": "sumber-mulia",
+    "name": "Sumber Mulia",
+    "district": "talisayan"
+  },
+  {
+    "id": "eka-sapta",
+    "name": "Eka Sapta",
+    "district": "talisayan"
+  },
+  {
+    "id": "talisayan",
+    "name": "Talisayan",
+    "district": "talisayan"
+  },
+  {
+    "id": "capuak",
+    "name": "Capuak",
+    "district": "talisayan"
+  }
+]

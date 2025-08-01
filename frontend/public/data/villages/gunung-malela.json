@@ -1,0 +1,82 @@
+[
+  {
+    "id": "senio",
+    "name": "Senio",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "bangun",
+    "name": "Bangun",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "pematang-asilum",
+    "name": "Pematang Asilum",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "pematang-sah-kuda",
+    "name": "Pematang Sah Kuda",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "marihat-bukit",
+    "name": "Marihat Bukit",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "sah-kuda-bayu",
+    "name": "Sah Kuda Bayu",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "bukit-maraja",
+    "name": "Bukit Maraja",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "pematang-gajing",
+    "name": "Pematang Gajing",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "dolok-malela",
+    "name": "Dolok Malela",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "bandar-siantar",
+    "name": "Bandar Siantar",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "serapuh",
+    "name": "Serapuh",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "silau-malela",
+    "name": "Silau Malela",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "silulu",
+    "name": "Silulu",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "margomulyo",
+    "name": "Margomulyo",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "nagori-malela",
+    "name": "Nagori Malela",
+    "district": "gunung-malela"
+  },
+  {
+    "id": "lingga",
+    "name": "Lingga",
+    "district": "gunung-malela"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "haruku",
+    "name": "Haruku",
+    "district": "p-haruku"
+  },
+  {
+    "id": "oma",
+    "name": "Oma",
+    "district": "p-haruku"
+  },
+  {
+    "id": "wassu",
+    "name": "Wassu",
+    "district": "p-haruku"
+  },
+  {
+    "id": "aboru",
+    "name": "Aboru",
+    "district": "p-haruku"
+  },
+  {
+    "id": "hulaliu",
+    "name": "Hulaliu",
+    "district": "p-haruku"
+  },
+  {
+    "id": "kariu",
+    "name": "Kariu",
+    "district": "p-haruku"
+  },
+  {
+    "id": "pelauw",
+    "name": "Pelauw",
+    "district": "p-haruku"
+  },
+  {
+    "id": "kailolo",
+    "name": "Kailolo",
+    "district": "p-haruku"
+  },
+  {
+    "id": "kabauw",
+    "name": "Kabauw",
+    "district": "p-haruku"
+  },
+  {
+    "id": "rohomoni",
+    "name": "Rohomoni",
+    "district": "p-haruku"
+  },
+  {
+    "id": "sameth",
+    "name": "Sameth",
+    "district": "p-haruku"
+  }
+]

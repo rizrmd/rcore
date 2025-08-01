@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ncera",
+    "name": "Ncera",
+    "district": "belo"
+  },
+  {
+    "id": "lido",
+    "name": "Lido",
+    "district": "belo"
+  },
+  {
+    "id": "ngali",
+    "name": "Ngali",
+    "district": "belo"
+  },
+  {
+    "id": "renda",
+    "name": "Renda",
+    "district": "belo"
+  },
+  {
+    "id": "soki",
+    "name": "Soki",
+    "district": "belo"
+  },
+  {
+    "id": "roka",
+    "name": "Roka",
+    "district": "belo"
+  },
+  {
+    "id": "diha",
+    "name": "Diha",
+    "district": "belo"
+  }
+]

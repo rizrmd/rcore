@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ulak-baru",
+    "name": "Ulak Baru",
+    "district": "cempaka"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "cempaka"
+  },
+  {
+    "id": "gunung-jati",
+    "name": "Gunung Jati",
+    "district": "cempaka"
+  },
+  {
+    "id": "negeri-sakti",
+    "name": "Negeri Sakti",
+    "district": "cempaka"
+  },
+  {
+    "id": "campang-tiga-ulu",
+    "name": "Campang Tiga Ulu",
+    "district": "cempaka"
+  },
+  {
+    "id": "campang-tiga-ilir",
+    "name": "Campang Tiga Ilir",
+    "district": "cempaka"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "cempaka"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "cempaka"
+  },
+  {
+    "id": "sukabumi",
+    "name": "Sukabumi",
+    "district": "cempaka"
+  },
+  {
+    "id": "gunung-batu",
+    "name": "Gunung Batu",
+    "district": "cempaka"
+  },
+  {
+    "id": "maluai-indah",
+    "name": "Maluai Indah",
+    "district": "cempaka"
+  },
+  {
+    "id": "harisan-jaya",
+    "name": "Harisan Jaya",
+    "district": "cempaka"
+  },
+  {
+    "id": "campang-tiga-jaya",
+    "name": "Campang Tiga Jaya",
+    "district": "cempaka"
+  },
+  {
+    "id": "palam",
+    "name": "Palam",
+    "district": "cempaka"
+  },
+  {
+    "id": "bangkal",
+    "name": "Bangkal",
+    "district": "cempaka"
+  },
+  {
+    "id": "sungai-tiung",
+    "name": "Sungai Tiung",
+    "district": "cempaka"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "cempaka"
+  }
+]

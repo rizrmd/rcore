@@ -1,0 +1,32 @@
+[
+  {
+    "id": "uwagi",
+    "name": "Uwagi",
+    "district": "bogobaida"
+  },
+  {
+    "id": "nomouwodide",
+    "name": "Nomouwodide",
+    "district": "bogobaida"
+  },
+  {
+    "id": "bogobaida-bogodide",
+    "name": "Bogobaida / Bogodide",
+    "district": "bogobaida"
+  },
+  {
+    "id": "nawipawo",
+    "name": "Nawipawo",
+    "district": "bogobaida"
+  },
+  {
+    "id": "ipouwo",
+    "name": "Ipouwo",
+    "district": "bogobaida"
+  },
+  {
+    "id": "piyamo",
+    "name": "Piyamo",
+    "district": "bogobaida"
+  }
+]

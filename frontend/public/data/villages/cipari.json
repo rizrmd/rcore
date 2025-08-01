@@ -1,0 +1,57 @@
+[
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "cipari"
+  },
+  {
+    "id": "mulyadadi",
+    "name": "Mulyadadi",
+    "district": "cipari"
+  },
+  {
+    "id": "cipari",
+    "name": "Cipari",
+    "district": "cipari"
+  },
+  {
+    "id": "segaralangu",
+    "name": "Segaralangu",
+    "district": "cipari"
+  },
+  {
+    "id": "karangreja",
+    "name": "Karangreja",
+    "district": "cipari"
+  },
+  {
+    "id": "kutasari",
+    "name": "Kutasari",
+    "district": "cipari"
+  },
+  {
+    "id": "pegadingan",
+    "name": "Pegadingan",
+    "district": "cipari"
+  },
+  {
+    "id": "cisuru",
+    "name": "Cisuru",
+    "district": "cipari"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cipari"
+  },
+  {
+    "id": "sidasari",
+    "name": "Sidasari",
+    "district": "cipari"
+  },
+  {
+    "id": "caruy",
+    "name": "Caruy",
+    "district": "cipari"
+  }
+]

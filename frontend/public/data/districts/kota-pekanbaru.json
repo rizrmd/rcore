@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tampan",
+    "name": "Tampan",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "payung-sekaki",
+    "name": "Payung Sekaki",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "bukit-raya",
+    "name": "Bukit Raya",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "marpoyan-damai",
+    "name": "Marpoyan Damai",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "tenayan-raya",
+    "name": "Tenayan Raya",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "limapuluh",
+    "name": "Limapuluh",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "sail",
+    "name": "Sail",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "pekanbaru-kota",
+    "name": "Pekanbaru Kota",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "senapelan",
+    "name": "Senapelan",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "rumbai",
+    "name": "Rumbai",
+    "regency": "kota-pekanbaru"
+  },
+  {
+    "id": "rumbai-pesisir",
+    "name": "Rumbai Pesisir",
+    "regency": "kota-pekanbaru"
+  }
+]

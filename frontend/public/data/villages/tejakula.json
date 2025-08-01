@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sembiran",
+    "name": "Sembiran",
+    "district": "tejakula"
+  },
+  {
+    "id": "pacung",
+    "name": "Pacung",
+    "district": "tejakula"
+  },
+  {
+    "id": "julah",
+    "name": "Julah",
+    "district": "tejakula"
+  },
+  {
+    "id": "bondalem",
+    "name": "Bondalem",
+    "district": "tejakula"
+  },
+  {
+    "id": "madenan",
+    "name": "Madenan",
+    "district": "tejakula"
+  },
+  {
+    "id": "tejakula",
+    "name": "Tejakula",
+    "district": "tejakula"
+  },
+  {
+    "id": "penuktukan",
+    "name": "Penuktukan",
+    "district": "tejakula"
+  },
+  {
+    "id": "sambirenteng",
+    "name": "Sambirenteng",
+    "district": "tejakula"
+  },
+  {
+    "id": "tembok",
+    "name": "Tembok",
+    "district": "tejakula"
+  }
+]

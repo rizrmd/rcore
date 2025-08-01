@@ -1,0 +1,22 @@
+[
+  {
+    "id": "gelik",
+    "name": "Gelik",
+    "district": "selakau-timur"
+  },
+  {
+    "id": "seranggam",
+    "name": "Seranggam",
+    "district": "selakau-timur"
+  },
+  {
+    "id": "selakau-tua",
+    "name": "Selakau Tua",
+    "district": "selakau-timur"
+  },
+  {
+    "id": "buduk-sempadang",
+    "name": "Buduk Sempadang",
+    "district": "selakau-timur"
+  }
+]

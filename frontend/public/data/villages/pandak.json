@@ -1,0 +1,22 @@
+[
+  {
+    "id": "caturharjo",
+    "name": "Caturharjo",
+    "district": "pandak"
+  },
+  {
+    "id": "triharjo",
+    "name": "Triharjo",
+    "district": "pandak"
+  },
+  {
+    "id": "gilangharjo",
+    "name": "Gilangharjo",
+    "district": "pandak"
+  },
+  {
+    "id": "wijirejo",
+    "name": "Wijirejo",
+    "district": "pandak"
+  }
+]

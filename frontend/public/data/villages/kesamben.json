@@ -1,0 +1,117 @@
+[
+  {
+    "id": "siraman",
+    "name": "Siraman",
+    "district": "kesamben"
+  },
+  {
+    "id": "jugo",
+    "name": "Jugo",
+    "district": "kesamben"
+  },
+  {
+    "id": "kesamben",
+    "name": "Kesamben",
+    "district": "kesamben"
+  },
+  {
+    "id": "pagergunung",
+    "name": "Pagergunung",
+    "district": "kesamben"
+  },
+  {
+    "id": "sukoanyar",
+    "name": "Sukoanyar",
+    "district": "kesamben"
+  },
+  {
+    "id": "pagerwojo",
+    "name": "Pagerwojo",
+    "district": "kesamben"
+  },
+  {
+    "id": "tapakrejo",
+    "name": "Tapakrejo",
+    "district": "kesamben"
+  },
+  {
+    "id": "tepas",
+    "name": "Tepas",
+    "district": "kesamben"
+  },
+  {
+    "id": "kemirigede",
+    "name": "Kemirigede",
+    "district": "kesamben"
+  },
+  {
+    "id": "bumirejo",
+    "name": "Bumirejo",
+    "district": "kesamben"
+  },
+  {
+    "id": "kedung-betik",
+    "name": "Kedung Betik",
+    "district": "kesamben"
+  },
+  {
+    "id": "kedung-mlati",
+    "name": "Kedung Mlati",
+    "district": "kesamben"
+  },
+  {
+    "id": "watu-dakon",
+    "name": "Watu Dakon",
+    "district": "kesamben"
+  },
+  {
+    "id": "carang-rejo",
+    "name": "Carang Rejo",
+    "district": "kesamben"
+  },
+  {
+    "id": "jombok",
+    "name": "Jombok",
+    "district": "kesamben"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "kesamben"
+  },
+  {
+    "id": "pojok-rejo",
+    "name": "Pojok Rejo",
+    "district": "kesamben"
+  },
+  {
+    "id": "kesamben",
+    "name": "Kesamben",
+    "district": "kesamben"
+  },
+  {
+    "id": "podoroto",
+    "name": "Podoroto",
+    "district": "kesamben"
+  },
+  {
+    "id": "jombatan",
+    "name": "Jombatan",
+    "district": "kesamben"
+  },
+  {
+    "id": "jati-duwur",
+    "name": "Jati Duwur",
+    "district": "kesamben"
+  },
+  {
+    "id": "pojok-kulon",
+    "name": "Pojok Kulon",
+    "district": "kesamben"
+  },
+  {
+    "id": "gumulan",
+    "name": "Gumulan",
+    "district": "kesamben"
+  }
+]

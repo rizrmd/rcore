@@ -1,0 +1,37 @@
+[
+  {
+    "id": "madang",
+    "name": "Madang",
+    "district": "muara-harus"
+  },
+  {
+    "id": "padangin",
+    "name": "Padangin",
+    "district": "muara-harus"
+  },
+  {
+    "id": "harus",
+    "name": "Harus",
+    "district": "muara-harus"
+  },
+  {
+    "id": "tantaringin",
+    "name": "Tantaringin",
+    "district": "muara-harus"
+  },
+  {
+    "id": "manduin",
+    "name": "Manduin",
+    "district": "muara-harus"
+  },
+  {
+    "id": "mantuil",
+    "name": "Mantuil",
+    "district": "muara-harus"
+  },
+  {
+    "id": "murung-karangan",
+    "name": "Murung Karangan",
+    "district": "muara-harus"
+  }
+]

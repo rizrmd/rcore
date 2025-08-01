@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lepang-tengah",
+    "name": "Lepang Tengah",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "sukajaya",
+    "name": "Sukajaya",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "negara-agung",
+    "name": "Negara Agung",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "sri-agung",
+    "name": "Sri Agung",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "cahaya-makmur",
+    "name": "Cahaya Makmur",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "sri-jaya",
+    "name": "Sri Jaya",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "cempaka-barat",
+    "name": "Cempaka Barat",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "sungkai-jaya"
+  },
+  {
+    "id": "cempaka-timur",
+    "name": "Cempaka Timur",
+    "district": "sungkai-jaya"
+  }
+]

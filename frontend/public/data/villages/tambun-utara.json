@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karangsatria",
+    "name": "Karangsatria",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "satriajaya",
+    "name": "Satriajaya",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "jejalenjaya",
+    "name": "Jejalenjaya",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "satriamekar",
+    "name": "Satriamekar",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "sriamur",
+    "name": "Sriamur",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "srimukti",
+    "name": "Srimukti",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "srijaya",
+    "name": "Srijaya",
+    "district": "tambun-utara"
+  },
+  {
+    "id": "srimahi",
+    "name": "Srimahi",
+    "district": "tambun-utara"
+  }
+]

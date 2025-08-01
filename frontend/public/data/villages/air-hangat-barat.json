@@ -1,0 +1,62 @@
+[
+  {
+    "id": "koto-cayo",
+    "name": "Koto Cayo",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "kecil",
+    "name": "Kecil",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "koto-tengah",
+    "name": "Koto Tengah",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "koto-datuk",
+    "name": "Koto Datuk",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "koto-dua-baru",
+    "name": "Koto Dua Baru",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "koto-mudik",
+    "name": "Koto Mudik",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "pugu",
+    "name": "Pugu",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "air-panas-baru",
+    "name": "Air Panas Baru",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "koto-mebai",
+    "name": "Koto Mebai",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "hamparan-pugu",
+    "name": "Hamparan Pugu",
+    "district": "air-hangat-barat"
+  },
+  {
+    "id": "air-bersih",
+    "name": "Air Bersih",
+    "district": "air-hangat-barat"
+  }
+]

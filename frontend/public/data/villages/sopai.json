@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lembang-tombang-langda",
+    "name": "Lembang Tombang Langda",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-langda",
+    "name": "Lembang  Langda",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-nonongan-selatan",
+    "name": "Lembang Nonongan Selatan",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-marante",
+    "name": "Lembang Marante",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-salu-sopai",
+    "name": "Lembang Salu Sopai",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-salu-sarre",
+    "name": "Lembang Salu Sarre",
+    "district": "sopai"
+  },
+  {
+    "id": "lembang-salu",
+    "name": "Lembang Salu",
+    "district": "sopai"
+  },
+  {
+    "id": "kelurahan-nonongan-utara",
+    "name": "Kelurahan Nonongan Utara",
+    "district": "sopai"
+  }
+]

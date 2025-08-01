@@ -1,0 +1,87 @@
+[
+  {
+    "id": "lembah-kramat",
+    "name": "Lembah Kramat",
+    "district": "toili-barat"
+  },
+  {
+    "id": "gunung-kramat",
+    "name": "Gunung Kramat",
+    "district": "toili-barat"
+  },
+  {
+    "id": "rata",
+    "name": "Rata",
+    "district": "toili-barat"
+  },
+  {
+    "id": "bone-bae",
+    "name": "Bone Bae",
+    "district": "toili-barat"
+  },
+  {
+    "id": "pasir-lamba",
+    "name": "Pasir Lamba",
+    "district": "toili-barat"
+  },
+  {
+    "id": "mantawa",
+    "name": "Mantawa",
+    "district": "toili-barat"
+  },
+  {
+    "id": "karya-makmur",
+    "name": "Karya Makmur",
+    "district": "toili-barat"
+  },
+  {
+    "id": "makapa",
+    "name": "Makapa",
+    "district": "toili-barat"
+  },
+  {
+    "id": "bumi-harapan",
+    "name": "Bumi Harapan",
+    "district": "toili-barat"
+  },
+  {
+    "id": "bukit-makarti",
+    "name": "Bukit Makarti",
+    "district": "toili-barat"
+  },
+  {
+    "id": "sindang-sari",
+    "name": "Sindang Sari",
+    "district": "toili-barat"
+  },
+  {
+    "id": "kami-wangi",
+    "name": "Kami Wangi",
+    "district": "toili-barat"
+  },
+  {
+    "id": "dongin",
+    "name": "Dongin",
+    "district": "toili-barat"
+  },
+  {
+    "id": "pandan-wangi",
+    "name": "Pandan Wangi",
+    "district": "toili-barat"
+  },
+  {
+    "id": "uwelolu",
+    "name": "Uwelolu",
+    "district": "toili-barat"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "toili-barat"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "toili-barat"
+  }
+]

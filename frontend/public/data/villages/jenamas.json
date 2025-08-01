@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tabatan-jaya",
+    "name": "Tabatan Jaya",
+    "district": "jenamas"
+  },
+  {
+    "id": "sukakarya",
+    "name": "Sukakarya",
+    "district": "jenamas"
+  },
+  {
+    "id": "tampulang",
+    "name": "Tampulang",
+    "district": "jenamas"
+  },
+  {
+    "id": "rantau-bahuang",
+    "name": "Rantau Bahuang",
+    "district": "jenamas"
+  },
+  {
+    "id": "rantau-kujang",
+    "name": "Rantau Kujang",
+    "district": "jenamas"
+  },
+  {
+    "id": "rangga-ilung",
+    "name": "Rangga Ilung",
+    "district": "jenamas"
+  },
+  {
+    "id": "tabatan",
+    "name": "Tabatan",
+    "district": "jenamas"
+  }
+]

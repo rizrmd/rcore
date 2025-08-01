@@ -1,0 +1,42 @@
+[
+  {
+    "id": "krapyakrejo",
+    "name": "Krapyakrejo",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "bukir",
+    "name": "Bukir",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "sebani",
+    "name": "Sebani",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "gentong",
+    "name": "Gentong",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "gadingrejo",
+    "name": "Gadingrejo",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "petahunan",
+    "name": "Petahunan",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "randusari",
+    "name": "Randusari",
+    "district": "gadingrejo"
+  },
+  {
+    "id": "karangketug",
+    "name": "Karangketug",
+    "district": "gadingrejo"
+  }
+]

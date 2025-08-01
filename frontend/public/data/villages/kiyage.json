@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tumbiwolu",
+    "name": "Tumbiwolu",
+    "district": "kiyage"
+  },
+  {
+    "id": "kiyage",
+    "name": "Kiyage",
+    "district": "kiyage"
+  },
+  {
+    "id": "kelandu",
+    "name": "Kelandu",
+    "district": "kiyage"
+  },
+  {
+    "id": "atoli",
+    "name": "Atoli",
+    "district": "kiyage"
+  },
+  {
+    "id": "amuringgik",
+    "name": "Amuringgik",
+    "district": "kiyage"
+  },
+  {
+    "id": "wanggiba",
+    "name": "Wanggiba",
+    "district": "kiyage"
+  },
+  {
+    "id": "tenggabangwi",
+    "name": "Tenggabangwi",
+    "district": "kiyage"
+  },
+  {
+    "id": "ambo",
+    "name": "Ambo",
+    "district": "kiyage"
+  }
+]

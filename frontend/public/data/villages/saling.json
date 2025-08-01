@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lubuk-kelumpang",
+    "name": "Lubuk Kelumpang",
+    "district": "saling"
+  },
+  {
+    "id": "sawah",
+    "name": "Sawah",
+    "district": "saling"
+  },
+  {
+    "id": "tanjung-ning-simpang",
+    "name": "Tanjung Ning Simpang",
+    "district": "saling"
+  },
+  {
+    "id": "tanjung-ning-jaya",
+    "name": "Tanjung Ning Jaya",
+    "district": "saling"
+  },
+  {
+    "id": "tanjung-ning-lama",
+    "name": "Tanjung Ning Lama",
+    "district": "saling"
+  },
+  {
+    "id": "tanjung-ning-tengah",
+    "name": "Tanjung Ning Tengah",
+    "district": "saling"
+  },
+  {
+    "id": "kebon",
+    "name": "Kebon",
+    "district": "saling"
+  },
+  {
+    "id": "suka-kaya",
+    "name": "Suka Kaya",
+    "district": "saling"
+  },
+  {
+    "id": "taba",
+    "name": "Taba",
+    "district": "saling"
+  },
+  {
+    "id": "muara-saling",
+    "name": "Muara Saling",
+    "district": "saling"
+  }
+]

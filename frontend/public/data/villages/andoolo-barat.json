@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bima-maroa",
+    "name": "Bima Maroa",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "wawobende",
+    "name": "Wawobende",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "lapoa-indah",
+    "name": "Lapoa Indah",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "puundoho",
+    "name": "Puundoho",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "papawu",
+    "name": "Papawu",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "anese",
+    "name": "Anese",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "bekenggasu-indah",
+    "name": "Bekenggasu Indah",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "mate-upe",
+    "name": "Mate Upe",
+    "district": "andoolo-barat"
+  },
+  {
+    "id": "watu-mokala",
+    "name": "Watu Mokala",
+    "district": "andoolo-barat"
+  }
+]

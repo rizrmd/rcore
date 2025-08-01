@@ -1,0 +1,237 @@
+[
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "pituruh"
+  },
+  {
+    "id": "wonoyoso",
+    "name": "Wonoyoso",
+    "district": "pituruh"
+  },
+  {
+    "id": "tasikmadu",
+    "name": "Tasikmadu",
+    "district": "pituruh"
+  },
+  {
+    "id": "tapen",
+    "name": "Tapen",
+    "district": "pituruh"
+  },
+  {
+    "id": "tersidi-kidul",
+    "name": "Tersidi Kidul",
+    "district": "pituruh"
+  },
+  {
+    "id": "tersidi-lor",
+    "name": "Tersidi Lor",
+    "district": "pituruh"
+  },
+  {
+    "id": "sekartejo",
+    "name": "Sekartejo",
+    "district": "pituruh"
+  },
+  {
+    "id": "kalimati",
+    "name": "Kalimati",
+    "district": "pituruh"
+  },
+  {
+    "id": "kendalrejo",
+    "name": "Kendalrejo",
+    "district": "pituruh"
+  },
+  {
+    "id": "ngampel",
+    "name": "Ngampel",
+    "district": "pituruh"
+  },
+  {
+    "id": "sikambang",
+    "name": "Sikambang",
+    "district": "pituruh"
+  },
+  {
+    "id": "tunjungtejo",
+    "name": "Tunjungtejo",
+    "district": "pituruh"
+  },
+  {
+    "id": "dlisen-wetan",
+    "name": "Dlisen Wetan",
+    "district": "pituruh"
+  },
+  {
+    "id": "dlisen-kulon",
+    "name": "Dlisen Kulon",
+    "district": "pituruh"
+  },
+  {
+    "id": "blekatuk",
+    "name": "Blekatuk",
+    "district": "pituruh"
+  },
+  {
+    "id": "waru",
+    "name": "Waru",
+    "district": "pituruh"
+  },
+  {
+    "id": "keburusan",
+    "name": "Keburusan",
+    "district": "pituruh"
+  },
+  {
+    "id": "semampir",
+    "name": "Semampir",
+    "district": "pituruh"
+  },
+  {
+    "id": "gumawangrejo",
+    "name": "Gumawangrejo",
+    "district": "pituruh"
+  },
+  {
+    "id": "petuguran",
+    "name": "Petuguran",
+    "district": "pituruh"
+  },
+  {
+    "id": "pekacangan",
+    "name": "Pekacangan",
+    "district": "pituruh"
+  },
+  {
+    "id": "karanggetas",
+    "name": "Karanggetas",
+    "district": "pituruh"
+  },
+  {
+    "id": "luweng-lor",
+    "name": "Luweng Lor",
+    "district": "pituruh"
+  },
+  {
+    "id": "luweng-kidul",
+    "name": "Luweng Kidul",
+    "district": "pituruh"
+  },
+  {
+    "id": "sambeng",
+    "name": "Sambeng",
+    "district": "pituruh"
+  },
+  {
+    "id": "megulung-kidul",
+    "name": "Megulung Kidul",
+    "district": "pituruh"
+  },
+  {
+    "id": "pituruh",
+    "name": "Pituruh",
+    "district": "pituruh"
+  },
+  {
+    "id": "prigelan",
+    "name": "Prigelan",
+    "district": "pituruh"
+  },
+  {
+    "id": "karanganyar",
+    "name": "Karanganyar",
+    "district": "pituruh"
+  },
+  {
+    "id": "megulung-lor",
+    "name": "Megulung Lor",
+    "district": "pituruh"
+  },
+  {
+    "id": "prapag-kidul",
+    "name": "Prapag Kidul",
+    "district": "pituruh"
+  },
+  {
+    "id": "kembangkuning",
+    "name": "Kembangkuning",
+    "district": "pituruh"
+  },
+  {
+    "id": "brengkol",
+    "name": "Brengkol",
+    "district": "pituruh"
+  },
+  {
+    "id": "girigondo",
+    "name": "Girigondo",
+    "district": "pituruh"
+  },
+  {
+    "id": "prapag-lor",
+    "name": "Prapag Lor",
+    "district": "pituruh"
+  },
+  {
+    "id": "kalikotes",
+    "name": "Kalikotes",
+    "district": "pituruh"
+  },
+  {
+    "id": "ngandagan",
+    "name": "Ngandagan",
+    "district": "pituruh"
+  },
+  {
+    "id": "kesawen",
+    "name": "Kesawen",
+    "district": "pituruh"
+  },
+  {
+    "id": "kedung-batur",
+    "name": "Kedung Batur",
+    "district": "pituruh"
+  },
+  {
+    "id": "polowangi",
+    "name": "Polowangi",
+    "district": "pituruh"
+  },
+  {
+    "id": "kalijering",
+    "name": "Kalijering",
+    "district": "pituruh"
+  },
+  {
+    "id": "somogede",
+    "name": "Somogede",
+    "district": "pituruh"
+  },
+  {
+    "id": "kaligondang",
+    "name": "Kaligondang",
+    "district": "pituruh"
+  },
+  {
+    "id": "kaligintung",
+    "name": "Kaligintung",
+    "district": "pituruh"
+  },
+  {
+    "id": "sawangan",
+    "name": "Sawangan",
+    "district": "pituruh"
+  },
+  {
+    "id": "wonosido",
+    "name": "Wonosido",
+    "district": "pituruh"
+  },
+  {
+    "id": "pamriyan",
+    "name": "Pamriyan",
+    "district": "pituruh"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pucangan",
+    "name": "Pucangan",
+    "district": "sadang"
+  },
+  {
+    "id": "seboro",
+    "name": "Seboro",
+    "district": "sadang"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "sadang"
+  },
+  {
+    "id": "sadangkulon",
+    "name": "Sadangkulon",
+    "district": "sadang"
+  },
+  {
+    "id": "cangkring",
+    "name": "Cangkring",
+    "district": "sadang"
+  },
+  {
+    "id": "sadangwetan",
+    "name": "Sadangwetan",
+    "district": "sadang"
+  },
+  {
+    "id": "kedunggong",
+    "name": "Kedunggong",
+    "district": "sadang"
+  }
+]

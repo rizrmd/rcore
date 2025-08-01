@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung-merah",
+    "name": "Tanjung Merah",
+    "district": "matuari"
+  },
+  {
+    "id": "sagerat",
+    "name": "Sagerat",
+    "district": "matuari"
+  },
+  {
+    "id": "manembo-nembo-atas",
+    "name": "Manembo Nembo Atas",
+    "district": "matuari"
+  },
+  {
+    "id": "manembo-nembo",
+    "name": "Manembo Nembo",
+    "district": "matuari"
+  },
+  {
+    "id": "sagerat-weru-satu",
+    "name": "Sagerat Weru Satu",
+    "district": "matuari"
+  },
+  {
+    "id": "sagerat-weru-dua",
+    "name": "Sagerat Weru Dua",
+    "district": "matuari"
+  },
+  {
+    "id": "tendeki",
+    "name": "Tendeki",
+    "district": "matuari"
+  },
+  {
+    "id": "manembo-nembo-tengah",
+    "name": "Manembo-Nembo Tengah",
+    "district": "matuari"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "riding-panjang",
+    "name": "Riding Panjang",
+    "district": "belinyu"
+  },
+  {
+    "id": "gunung-muda",
+    "name": "Gunung Muda",
+    "district": "belinyu"
+  },
+  {
+    "id": "kuto-panji",
+    "name": "Kuto Panji",
+    "district": "belinyu"
+  },
+  {
+    "id": "air-jukung",
+    "name": "Air Jukung",
+    "district": "belinyu"
+  },
+  {
+    "id": "bukit-ketok",
+    "name": "Bukit Ketok",
+    "district": "belinyu"
+  },
+  {
+    "id": "bintet",
+    "name": "Bintet",
+    "district": "belinyu"
+  },
+  {
+    "id": "gunung-pelawan",
+    "name": "Gunung Pelawan",
+    "district": "belinyu"
+  },
+  {
+    "id": "belinyu",
+    "name": "Belinyu",
+    "district": "belinyu"
+  },
+  {
+    "id": "mantung",
+    "name": "Mantung",
+    "district": "belinyu"
+  },
+  {
+    "id": "air-asam",
+    "name": "Air Asam",
+    "district": "belinyu"
+  },
+  {
+    "id": "remodong-indah",
+    "name": "Remodong Indah",
+    "district": "belinyu"
+  }
+]

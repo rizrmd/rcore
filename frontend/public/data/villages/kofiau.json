@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tolobi",
+    "name": "Tolobi",
+    "district": "kofiau"
+  },
+  {
+    "id": "balal",
+    "name": "Balal",
+    "district": "kofiau"
+  },
+  {
+    "id": "mikiran",
+    "name": "Mikiran",
+    "district": "kofiau"
+  },
+  {
+    "id": "awat",
+    "name": "Awat",
+    "district": "kofiau"
+  }
+]

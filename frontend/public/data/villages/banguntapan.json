@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tamanan",
+    "name": "Tamanan",
+    "district": "banguntapan"
+  },
+  {
+    "id": "jagalan",
+    "name": "Jagalan",
+    "district": "banguntapan"
+  },
+  {
+    "id": "singosaren",
+    "name": "Singosaren",
+    "district": "banguntapan"
+  },
+  {
+    "id": "wirokerten",
+    "name": "Wirokerten",
+    "district": "banguntapan"
+  },
+  {
+    "id": "jambidan",
+    "name": "Jambidan",
+    "district": "banguntapan"
+  },
+  {
+    "id": "potorono",
+    "name": "Potorono",
+    "district": "banguntapan"
+  },
+  {
+    "id": "baturetno",
+    "name": "Baturetno",
+    "district": "banguntapan"
+  },
+  {
+    "id": "banguntapan",
+    "name": "Banguntapan",
+    "district": "banguntapan"
+  }
+]

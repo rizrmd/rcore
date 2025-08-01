@@ -1,0 +1,47 @@
+[
+  {
+    "id": "semamung",
+    "name": "Semamung",
+    "district": "moyohulu"
+  },
+  {
+    "id": "sebasang",
+    "name": "Sebasang",
+    "district": "moyohulu"
+  },
+  {
+    "id": "batutering",
+    "name": "Batutering",
+    "district": "moyohulu"
+  },
+  {
+    "id": "batubulan",
+    "name": "Batubulan",
+    "district": "moyohulu"
+  },
+  {
+    "id": "mokong",
+    "name": "Mokong",
+    "district": "moyohulu"
+  },
+  {
+    "id": "lito",
+    "name": "Lito",
+    "district": "moyohulu"
+  },
+  {
+    "id": "marga-karya",
+    "name": "Marga Karya",
+    "district": "moyohulu"
+  },
+  {
+    "id": "berang-rea",
+    "name": "Berang Rea",
+    "district": "moyohulu"
+  },
+  {
+    "id": "maman",
+    "name": "Maman",
+    "district": "moyohulu"
+  }
+]

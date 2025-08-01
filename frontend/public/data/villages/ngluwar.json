@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bligo",
+    "name": "Bligo",
+    "district": "ngluwar"
+  },
+  {
+    "id": "pakunden",
+    "name": "Pakunden",
+    "district": "ngluwar"
+  },
+  {
+    "id": "somokaton",
+    "name": "Somokaton",
+    "district": "ngluwar"
+  },
+  {
+    "id": "ngluwar",
+    "name": "Ngluwar",
+    "district": "ngluwar"
+  },
+  {
+    "id": "karangtalun",
+    "name": "Karangtalun",
+    "district": "ngluwar"
+  },
+  {
+    "id": "jamuskauman",
+    "name": "Jamuskauman",
+    "district": "ngluwar"
+  },
+  {
+    "id": "plosogede",
+    "name": "Plosogede",
+    "district": "ngluwar"
+  },
+  {
+    "id": "blongkeng",
+    "name": "Blongkeng",
+    "district": "ngluwar"
+  }
+]

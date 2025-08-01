@@ -1,0 +1,47 @@
+[
+  {
+    "id": "messawa",
+    "name": "Messawa",
+    "district": "messawa"
+  },
+  {
+    "id": "rippung",
+    "name": "Rippung",
+    "district": "messawa"
+  },
+  {
+    "id": "makuang",
+    "name": "Makuang",
+    "district": "messawa"
+  },
+  {
+    "id": "sepang",
+    "name": "Sepang",
+    "district": "messawa"
+  },
+  {
+    "id": "malimbong",
+    "name": "Malimbong",
+    "district": "messawa"
+  },
+  {
+    "id": "matande",
+    "name": "Matande",
+    "district": "messawa"
+  },
+  {
+    "id": "sipai",
+    "name": "Sipai",
+    "district": "messawa"
+  },
+  {
+    "id": "pasapa-mambu",
+    "name": "Pasapa' Mambu",
+    "district": "messawa"
+  },
+  {
+    "id": "tanete-batu",
+    "name": "Tanete Batu",
+    "district": "messawa"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "arui",
+    "name": "Arui",
+    "district": "kepulauan-moora"
+  },
+  {
+    "id": "moor",
+    "name": "Moor",
+    "district": "kepulauan-moora"
+  },
+  {
+    "id": "kama",
+    "name": "Kama",
+    "district": "kepulauan-moora"
+  },
+  {
+    "id": "mambor",
+    "name": "Mambor",
+    "district": "kepulauan-moora"
+  },
+  {
+    "id": "hariti",
+    "name": "Hariti",
+    "district": "kepulauan-moora"
+  }
+]

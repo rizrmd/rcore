@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pematang-panjang",
+    "name": "Pematang Panjang",
+    "district": "seruyan-hilir-timur"
+  },
+  {
+    "id": "sungai-bakau",
+    "name": "Sungai Bakau",
+    "district": "seruyan-hilir-timur"
+  },
+  {
+    "id": "kartika-bhakti",
+    "name": "Kartika Bhakti",
+    "district": "seruyan-hilir-timur"
+  },
+  {
+    "id": "bangun-harja",
+    "name": "Bangun Harja",
+    "district": "seruyan-hilir-timur"
+  },
+  {
+    "id": "halimaung-jaya",
+    "name": "Halimaung Jaya",
+    "district": "seruyan-hilir-timur"
+  },
+  {
+    "id": "mekar-indah",
+    "name": "Mekar Indah",
+    "district": "seruyan-hilir-timur"
+  }
+]

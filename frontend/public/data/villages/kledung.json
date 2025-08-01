@@ -1,0 +1,62 @@
+[
+  {
+    "id": "batursari",
+    "name": "Batursari",
+    "district": "kledung"
+  },
+  {
+    "id": "jambu",
+    "name": "Jambu",
+    "district": "kledung"
+  },
+  {
+    "id": "canggal",
+    "name": "Canggal",
+    "district": "kledung"
+  },
+  {
+    "id": "kruwisan",
+    "name": "Kruwisan",
+    "district": "kledung"
+  },
+  {
+    "id": "petarangan",
+    "name": "Petarangan",
+    "district": "kledung"
+  },
+  {
+    "id": "tlahap",
+    "name": "Tlahap",
+    "district": "kledung"
+  },
+  {
+    "id": "kwadungan-jurang",
+    "name": "Kwadungan Jurang",
+    "district": "kledung"
+  },
+  {
+    "id": "kwadungan-gunung",
+    "name": "Kwadungan Gunung",
+    "district": "kledung"
+  },
+  {
+    "id": "jeketro",
+    "name": "Jeketro",
+    "district": "kledung"
+  },
+  {
+    "id": "tuksari",
+    "name": "Tuksari",
+    "district": "kledung"
+  },
+  {
+    "id": "paponan",
+    "name": "Paponan",
+    "district": "kledung"
+  },
+  {
+    "id": "kalirejo",
+    "name": "Kalirejo",
+    "district": "kledung"
+  }
+]

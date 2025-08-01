@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kepala-curup",
+    "name": "Kepala Curup",
+    "district": "bindu-riang"
+  },
+  {
+    "id": "simpang-beliti",
+    "name": "Simpang Beliti",
+    "district": "bindu-riang"
+  },
+  {
+    "id": "kampung-jeruk",
+    "name": "Kampung Jeruk",
+    "district": "bindu-riang"
+  },
+  {
+    "id": "air-apo",
+    "name": "Air Apo",
+    "district": "bindu-riang"
+  },
+  {
+    "id": "taba-padang",
+    "name": "Taba Padang",
+    "district": "bindu-riang"
+  }
+]

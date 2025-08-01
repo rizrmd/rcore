@@ -1,0 +1,32 @@
+[
+  {
+    "id": "oelneke",
+    "name": "Oelneke",
+    "district": "musi"
+  },
+  {
+    "id": "oetulu",
+    "name": "Oetulu",
+    "district": "musi"
+  },
+  {
+    "id": "ainan",
+    "name": "Ainan",
+    "district": "musi"
+  },
+  {
+    "id": "oeolo",
+    "name": "Oeolo",
+    "district": "musi"
+  },
+  {
+    "id": "bisafe",
+    "name": "Bisafe",
+    "district": "musi"
+  },
+  {
+    "id": "batnes",
+    "name": "Batnes",
+    "district": "musi"
+  }
+]

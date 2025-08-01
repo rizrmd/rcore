@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sangir",
+    "name": "Sangir",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "panglima-linting",
+    "name": "Panglima Linting",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "pangur",
+    "name": "Pangur",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "badak",
+    "name": "Badak",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "blangtemung",
+    "name": "Blangtemung",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "kendawi",
+    "name": "Kendawi",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "pepalan",
+    "name": "Pepalan",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "uning-sepakat",
+    "name": "Uning Sepakat",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "uning-gelung",
+    "name": "Uning Gelung",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "rerebe",
+    "name": "Rerebe",
+    "district": "dabun-gelang"
+  },
+  {
+    "id": "rigeb",
+    "name": "Rigeb",
+    "district": "dabun-gelang"
+  }
+]

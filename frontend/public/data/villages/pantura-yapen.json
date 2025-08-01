@@ -1,0 +1,37 @@
+[
+  {
+    "id": "yobi",
+    "name": "Yobi",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "soromasen",
+    "name": "Soromasen",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "sambrawai",
+    "name": "Sambrawai",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "tindaret",
+    "name": "Tindaret",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "kiriyou",
+    "name": "Kiriyou",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "roswari-artaneng",
+    "name": "Roswari / Artaneng",
+    "district": "pantura-yapen"
+  },
+  {
+    "id": "doreimanona",
+    "name": "Doreimanona",
+    "district": "pantura-yapen"
+  }
+]

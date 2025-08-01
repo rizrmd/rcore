@@ -1,0 +1,52 @@
+[
+  {
+    "id": "silaut",
+    "name": "Silaut",
+    "district": "silaut"
+  },
+  {
+    "id": "sambungo",
+    "name": "Sambungo",
+    "district": "silaut"
+  },
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "silaut"
+  },
+  {
+    "id": "lubuk-bunta",
+    "name": "Lubuk Bunta",
+    "district": "silaut"
+  },
+  {
+    "id": "durian-seribu",
+    "name": "Durian Seribu",
+    "district": "silaut"
+  },
+  {
+    "id": "pasir-binjai",
+    "name": "Pasir Binjai",
+    "district": "silaut"
+  },
+  {
+    "id": "talang-binjai",
+    "name": "Talang Binjai",
+    "district": "silaut"
+  },
+  {
+    "id": "sungai-sarik",
+    "name": "Sungai Sarik",
+    "district": "silaut"
+  },
+  {
+    "id": "sungai-pulai",
+    "name": "Sungai Pulai",
+    "district": "silaut"
+  },
+  {
+    "id": "sungai-sirah",
+    "name": "Sungai Sirah",
+    "district": "silaut"
+  }
+]

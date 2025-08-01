@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gamsungi",
+    "name": "Gamsungi",
+    "district": "tobelo"
+  },
+  {
+    "id": "kumo",
+    "name": "Kumo",
+    "district": "tobelo"
+  },
+  {
+    "id": "gura",
+    "name": "Gura",
+    "district": "tobelo"
+  },
+  {
+    "id": "kakara-a",
+    "name": "Kakara A",
+    "district": "tobelo"
+  },
+  {
+    "id": "wari",
+    "name": "Wari",
+    "district": "tobelo"
+  },
+  {
+    "id": "rawajaya",
+    "name": "Rawajaya",
+    "district": "tobelo"
+  },
+  {
+    "id": "gosoma",
+    "name": "Gosoma",
+    "district": "tobelo"
+  },
+  {
+    "id": "wari-ino",
+    "name": "Wari Ino",
+    "district": "tobelo"
+  },
+  {
+    "id": "tagalaya",
+    "name": "Tagalaya",
+    "district": "tobelo"
+  }
+]

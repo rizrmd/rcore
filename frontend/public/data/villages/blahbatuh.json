@@ -1,0 +1,42 @@
+[
+  {
+    "id": "saba",
+    "name": "Saba",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "pering",
+    "name": "Pering",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "keramas",
+    "name": "Keramas",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "medahan",
+    "name": "Medahan",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "bona",
+    "name": "Bona",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "belega",
+    "name": "Belega",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "blahbatuh",
+    "name": "Blahbatuh",
+    "district": "blahbatuh"
+  },
+  {
+    "id": "buruan",
+    "name": "Buruan",
+    "district": "blahbatuh"
+  }
+]

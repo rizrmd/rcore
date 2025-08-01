@@ -1,0 +1,82 @@
+[
+  {
+    "id": "betania",
+    "name": "Betania",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "toini",
+    "name": "Toini",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "mapane",
+    "name": "Mapane",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "bega",
+    "name": "Bega",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "kasiguncu",
+    "name": "Kasiguncu",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "masamba",
+    "name": "Masamba",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "saatu",
+    "name": "Saatu",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "pinedapa",
+    "name": "Pinedapa",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "masani",
+    "name": "Masani",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "tokorondo",
+    "name": "Tokorondo",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "tiwaa",
+    "name": "Tiwaa",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "lanto-jaya",
+    "name": "Lanto Jaya",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "lape",
+    "name": "Lape",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "towu",
+    "name": "Towu",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "tabalu",
+    "name": "Tabalu",
+    "district": "poso-pesisir"
+  },
+  {
+    "id": "ueralulu",
+    "name": "Ueralulu",
+    "district": "poso-pesisir"
+  }
+]

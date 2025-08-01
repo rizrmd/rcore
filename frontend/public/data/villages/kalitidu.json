@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sumengko",
+    "name": "Sumengko",
+    "district": "kalitidu"
+  },
+  {
+    "id": "mlaten",
+    "name": "Mlaten",
+    "district": "kalitidu"
+  },
+  {
+    "id": "talok",
+    "name": "Talok",
+    "district": "kalitidu"
+  },
+  {
+    "id": "brenggolo",
+    "name": "Brenggolo",
+    "district": "kalitidu"
+  },
+  {
+    "id": "grebegan",
+    "name": "Grebegan",
+    "district": "kalitidu"
+  },
+  {
+    "id": "wotan-ngare",
+    "name": "Wotan Ngare",
+    "district": "kalitidu"
+  },
+  {
+    "id": "kalitidu",
+    "name": "Kalitidu",
+    "district": "kalitidu"
+  },
+  {
+    "id": "panjunan",
+    "name": "Panjunan",
+    "district": "kalitidu"
+  },
+  {
+    "id": "mayanggeneng",
+    "name": "Mayanggeneng",
+    "district": "kalitidu"
+  },
+  {
+    "id": "mayangrejo",
+    "name": "Mayangrejo",
+    "district": "kalitidu"
+  },
+  {
+    "id": "pilangsari",
+    "name": "Pilangsari",
+    "district": "kalitidu"
+  },
+  {
+    "id": "mojosari",
+    "name": "Mojosari",
+    "district": "kalitidu"
+  },
+  {
+    "id": "pungpungan",
+    "name": "Pungpungan",
+    "district": "kalitidu"
+  },
+  {
+    "id": "ngujo",
+    "name": "Ngujo",
+    "district": "kalitidu"
+  },
+  {
+    "id": "ngringinrejo",
+    "name": "Ngringinrejo",
+    "district": "kalitidu"
+  },
+  {
+    "id": "mojo",
+    "name": "Mojo",
+    "district": "kalitidu"
+  },
+  {
+    "id": "leran",
+    "name": "Leran",
+    "district": "kalitidu"
+  },
+  {
+    "id": "sukoharjo",
+    "name": "Sukoharjo",
+    "district": "kalitidu"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "air-terjun",
+    "name": "Air Terjun",
+    "district": "siulak"
+  },
+  {
+    "id": "siulak-kecil-mudik",
+    "name": "Siulak Kecil Mudik",
+    "district": "siulak"
+  },
+  {
+    "id": "siulak-kecil-hilir",
+    "name": "Siulak Kecil Hilir",
+    "district": "siulak"
+  },
+  {
+    "id": "siulak-gedang",
+    "name": "Siulak Gedang",
+    "district": "siulak"
+  },
+  {
+    "id": "pasar-siulak-gedang",
+    "name": "Pasar Siulak Gedang",
+    "district": "siulak"
+  },
+  {
+    "id": "dusun-dalam",
+    "name": "Dusun Dalam",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-beringin",
+    "name": "Koto Beringin",
+    "district": "siulak"
+  },
+  {
+    "id": "siulak-panjang",
+    "name": "Siulak Panjang",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-tengah",
+    "name": "Koto Tengah",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-aro",
+    "name": "Koto Aro",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-rendah",
+    "name": "Koto Rendah",
+    "district": "siulak"
+  },
+  {
+    "id": "dusun-baru",
+    "name": "Dusun Baru",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-kapeh",
+    "name": "Koto Kapeh",
+    "district": "siulak"
+  },
+  {
+    "id": "sungai-pegeh",
+    "name": "Sungai Pegeh",
+    "district": "siulak"
+  },
+  {
+    "id": "sungai-lebuh",
+    "name": "Sungai Lebuh",
+    "district": "siulak"
+  },
+  {
+    "id": "koto-lebuh-tinggi",
+    "name": "Koto Lebuh Tinggi",
+    "district": "siulak"
+  },
+  {
+    "id": "lubuk-nagodang",
+    "name": "Lubuk Nagodang",
+    "district": "siulak"
+  },
+  {
+    "id": "telago-biru",
+    "name": "Telago Biru",
+    "district": "siulak"
+  },
+  {
+    "id": "tutung-bungkuk",
+    "name": "Tutung Bungkuk",
+    "district": "siulak"
+  },
+  {
+    "id": "padang-jantung",
+    "name": "Padang Jantung",
+    "district": "siulak"
+  },
+  {
+    "id": "pelak-gedang",
+    "name": "Pelak Gedang",
+    "district": "siulak"
+  },
+  {
+    "id": "bendar-sedap",
+    "name": "Bendar Sedap",
+    "district": "siulak"
+  },
+  {
+    "id": "pelak-naneh",
+    "name": "Pelak Naneh",
+    "district": "siulak"
+  },
+  {
+    "id": "demong-sakti",
+    "name": "Demong Sakti",
+    "district": "siulak"
+  },
+  {
+    "id": "pasar-senen",
+    "name": "Pasar Senen",
+    "district": "siulak"
+  },
+  {
+    "id": "baru-sungai-pegeh",
+    "name": "Baru Sungai Pegeh",
+    "district": "siulak"
+  }
+]

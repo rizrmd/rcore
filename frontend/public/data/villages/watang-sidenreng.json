@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kanyuara",
+    "name": "Kanyuara",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "sidenreng",
+    "name": "Sidenreng",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "empagae",
+    "name": "Empagae",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "mojong",
+    "name": "Mojong",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "talumae",
+    "name": "Talumae",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "aka-akae",
+    "name": "Aka-Akae",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "damai",
+    "name": "Damai",
+    "district": "watang-sidenreng"
+  },
+  {
+    "id": "talawe",
+    "name": "Talawe",
+    "district": "watang-sidenreng"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tepian-danto",
+    "name": "Tepian Danto",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "aur-gading",
+    "name": "Aur Gading",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "pulau-batu",
+    "name": "Pulau Batu",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "sari-mulya",
+    "name": "Sari Mulya",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "bukit-sari",
+    "name": "Bukit Sari",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "lubuk-tenam",
+    "name": "Lubuk Tenam",
+    "district": "jujuhan-ilir"
+  },
+  {
+    "id": "kuamang",
+    "name": "Kuamang",
+    "district": "jujuhan-ilir"
+  }
+]

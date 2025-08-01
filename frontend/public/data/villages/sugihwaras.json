@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "alasgung",
+    "name": "Alasgung",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "panunggalan",
+    "name": "Panunggalan",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "wedoro",
+    "name": "Wedoro",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "siwalan",
+    "name": "Siwalan",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "glagahan",
+    "name": "Glagahan",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "panemon",
+    "name": "Panemon",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "sugihwaras",
+    "name": "Sugihwaras",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "trate",
+    "name": "Trate",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "nglajang",
+    "name": "Nglajang",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "kedungdowo",
+    "name": "Kedungdowo",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "glagah-wangi",
+    "name": "Glagah Wangi",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "jatitengah",
+    "name": "Jatitengah",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "balongrejo",
+    "name": "Balongrejo",
+    "district": "sugihwaras"
+  },
+  {
+    "id": "genjor",
+    "name": "Genjor",
+    "district": "sugihwaras"
+  }
+]

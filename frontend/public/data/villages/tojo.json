@@ -1,0 +1,77 @@
+[
+  {
+    "id": "lemoro",
+    "name": "Lemoro",
+    "district": "tojo"
+  },
+  {
+    "id": "tayawa",
+    "name": "Tayawa",
+    "district": "tojo"
+  },
+  {
+    "id": "korondoda",
+    "name": "Korondoda",
+    "district": "tojo"
+  },
+  {
+    "id": "dataran-bugi",
+    "name": "Dataran Bugi",
+    "district": "tojo"
+  },
+  {
+    "id": "uekuli",
+    "name": "Uekuli",
+    "district": "tojo"
+  },
+  {
+    "id": "betaua",
+    "name": "Betaua",
+    "district": "tojo"
+  },
+  {
+    "id": "sandada",
+    "name": "Sandada",
+    "district": "tojo"
+  },
+  {
+    "id": "tojo",
+    "name": "Tojo",
+    "district": "tojo"
+  },
+  {
+    "id": "pancuma",
+    "name": "Pancuma",
+    "district": "tojo"
+  },
+  {
+    "id": "tongku",
+    "name": "Tongku",
+    "district": "tojo"
+  },
+  {
+    "id": "podi",
+    "name": "Podi",
+    "district": "tojo"
+  },
+  {
+    "id": "bahari",
+    "name": "Bahari",
+    "district": "tojo"
+  },
+  {
+    "id": "banano",
+    "name": "Banano",
+    "district": "tojo"
+  },
+  {
+    "id": "buyuntaripa",
+    "name": "Buyuntaripa",
+    "district": "tojo"
+  },
+  {
+    "id": "kalemba",
+    "name": "Kalemba",
+    "district": "tojo"
+  }
+]

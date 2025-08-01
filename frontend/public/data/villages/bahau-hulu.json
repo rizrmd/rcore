@@ -1,0 +1,32 @@
+[
+  {
+    "id": "long-uli",
+    "name": "Long Uli",
+    "district": "bahau-hulu"
+  },
+  {
+    "id": "long-tebulo",
+    "name": "Long Tebulo",
+    "district": "bahau-hulu"
+  },
+  {
+    "id": "long-alango",
+    "name": "Long Alango",
+    "district": "bahau-hulu"
+  },
+  {
+    "id": "long-atualong-kemuat",
+    "name": "Long Atua/Long Kemuat",
+    "district": "bahau-hulu"
+  },
+  {
+    "id": "long-berini",
+    "name": "Long Berini",
+    "district": "bahau-hulu"
+  },
+  {
+    "id": "apau-ping",
+    "name": "Apau Ping",
+    "district": "bahau-hulu"
+  }
+]

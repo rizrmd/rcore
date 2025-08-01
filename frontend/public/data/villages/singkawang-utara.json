@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sei-garam-hilir",
+    "name": "Sei Garam Hilir",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "naram",
+    "name": "Naram",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "sei-bulan",
+    "name": "Sei Bulan",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "sei-rasau",
+    "name": "Sei Rasau",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "setapuk-kecil",
+    "name": "Setapuk Kecil",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "setapuk-besar",
+    "name": "Setapuk Besar",
+    "district": "singkawang-utara"
+  },
+  {
+    "id": "semelagi-kecil",
+    "name": "Semelagi Kecil",
+    "district": "singkawang-utara"
+  }
+]

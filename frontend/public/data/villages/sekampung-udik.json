@@ -1,0 +1,77 @@
+[
+  {
+    "id": "gunung-agung",
+    "name": "Gunung Agung",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "gunung-pasir-jaya",
+    "name": "Gunung Pasir Jaya",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "gunung-sugih-besar",
+    "name": "Gunung Sugih Besar",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "bauh-gunung-sari",
+    "name": "Bauh Gunung Sari",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "brawijaya",
+    "name": "Brawijaya",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "pugung-raharjo",
+    "name": "Pugung Raharjo",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "tuba",
+    "name": "Tuba",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "mengandung-sari",
+    "name": "Mengandung Sari",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "sindang-anom",
+    "name": "Sindang Anom",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "bumi-mulyo",
+    "name": "Bumi Mulyo",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "gunung-mulyo",
+    "name": "Gunung Mulyo",
+    "district": "sekampung-udik"
+  },
+  {
+    "id": "purwo-kencono",
+    "name": "Purwo Kencono",
+    "district": "sekampung-udik"
+  }
+]

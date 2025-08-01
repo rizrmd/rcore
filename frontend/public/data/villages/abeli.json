@@ -1,0 +1,37 @@
+[
+  {
+    "id": "benua-nirae",
+    "name": "Benua Nirae",
+    "district": "abeli"
+  },
+  {
+    "id": "pudai",
+    "name": "Pudai",
+    "district": "abeli"
+  },
+  {
+    "id": "lapulu",
+    "name": "Lapulu",
+    "district": "abeli"
+  },
+  {
+    "id": "abeli",
+    "name": "Abeli",
+    "district": "abeli"
+  },
+  {
+    "id": "anggolomelai",
+    "name": "Anggolomelai",
+    "district": "abeli"
+  },
+  {
+    "id": "poasia",
+    "name": "Poasia",
+    "district": "abeli"
+  },
+  {
+    "id": "talia",
+    "name": "Talia",
+    "district": "abeli"
+  }
+]

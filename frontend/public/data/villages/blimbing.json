@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jodipan",
+    "name": "Jodipan",
+    "district": "blimbing"
+  },
+  {
+    "id": "polehan",
+    "name": "Polehan",
+    "district": "blimbing"
+  },
+  {
+    "id": "kesatrian",
+    "name": "Kesatrian",
+    "district": "blimbing"
+  },
+  {
+    "id": "bunulrejo",
+    "name": "Bunulrejo",
+    "district": "blimbing"
+  },
+  {
+    "id": "purwantoro",
+    "name": "Purwantoro",
+    "district": "blimbing"
+  },
+  {
+    "id": "pandanwangi",
+    "name": "Pandanwangi",
+    "district": "blimbing"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "blimbing"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "blimbing"
+  },
+  {
+    "id": "polowijen",
+    "name": "Polowijen",
+    "district": "blimbing"
+  },
+  {
+    "id": "arjosari",
+    "name": "Arjosari",
+    "district": "blimbing"
+  },
+  {
+    "id": "balearjosari",
+    "name": "Balearjosari",
+    "district": "blimbing"
+  }
+]

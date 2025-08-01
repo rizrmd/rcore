@@ -1,0 +1,27 @@
+[
+  {
+    "id": "banjarmasin-selatan",
+    "name": "Banjarmasin Selatan",
+    "regency": "kota-banjarmasin"
+  },
+  {
+    "id": "banjarmasin-timur",
+    "name": "Banjarmasin Timur",
+    "regency": "kota-banjarmasin"
+  },
+  {
+    "id": "banjarmasin-barat",
+    "name": "Banjarmasin Barat",
+    "regency": "kota-banjarmasin"
+  },
+  {
+    "id": "banjarmasin-tengah",
+    "name": "Banjarmasin Tengah",
+    "regency": "kota-banjarmasin"
+  },
+  {
+    "id": "banjarmasin-utara",
+    "name": "Banjarmasin Utara",
+    "regency": "kota-banjarmasin"
+  }
+]

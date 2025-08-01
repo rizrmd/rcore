@@ -1,0 +1,32 @@
+[
+  {
+    "id": "naha-aya",
+    "name": "Naha Aya",
+    "district": "peso-hilir"
+  },
+  {
+    "id": "long-telenjau",
+    "name": "Long Telenjau",
+    "district": "peso-hilir"
+  },
+  {
+    "id": "long-bang-hulu",
+    "name": "Long Bang Hulu",
+    "district": "peso-hilir"
+  },
+  {
+    "id": "long-bang",
+    "name": "Long Bang",
+    "district": "peso-hilir"
+  },
+  {
+    "id": "long-tungu",
+    "name": "Long Tungu",
+    "district": "peso-hilir"
+  },
+  {
+    "id": "long-lembu",
+    "name": "Long Lembu",
+    "district": "peso-hilir"
+  }
+]

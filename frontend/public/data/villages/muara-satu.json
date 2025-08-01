@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cot-trieng",
+    "name": "Cot Trieng",
+    "district": "muara-satu"
+  },
+  {
+    "id": "paloh-punti",
+    "name": "Paloh Punti",
+    "district": "muara-satu"
+  },
+  {
+    "id": "mns-dayah",
+    "name": "Mns Dayah",
+    "district": "muara-satu"
+  },
+  {
+    "id": "blang-panyang",
+    "name": "Blang Panyang",
+    "district": "muara-satu"
+  },
+  {
+    "id": "meuria",
+    "name": "Meuria",
+    "district": "muara-satu"
+  },
+  {
+    "id": "blang-pulo",
+    "name": "Blang Pulo",
+    "district": "muara-satu"
+  },
+  {
+    "id": "batuphat-timur",
+    "name": "Batuphat Timur",
+    "district": "muara-satu"
+  },
+  {
+    "id": "padang-sakti",
+    "name": "Padang Sakti",
+    "district": "muara-satu"
+  },
+  {
+    "id": "ujong-pacu",
+    "name": "Ujong Pacu",
+    "district": "muara-satu"
+  },
+  {
+    "id": "blang-naleung-mameh",
+    "name": "Blang Naleung Mameh",
+    "district": "muara-satu"
+  },
+  {
+    "id": "batuphat-barat",
+    "name": "Batuphat Barat",
+    "district": "muara-satu"
+  }
+]

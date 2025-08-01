@@ -1,0 +1,57 @@
+[
+  {
+    "id": "botteng",
+    "name": "Botteng",
+    "district": "mehalaan"
+  },
+  {
+    "id": "passembuk",
+    "name": "Passembuk",
+    "district": "mehalaan"
+  },
+  {
+    "id": "salukonta",
+    "name": "Salukonta",
+    "district": "mehalaan"
+  },
+  {
+    "id": "leko-sukamaju",
+    "name": "Leko Sukamaju",
+    "district": "mehalaan"
+  },
+  {
+    "id": "mesakada",
+    "name": "Mesakada",
+    "district": "mehalaan"
+  },
+  {
+    "id": "mehalaan",
+    "name": "Mehalaan",
+    "district": "mehalaan"
+  },
+  {
+    "id": "mehalaan-barat",
+    "name": "Mehalaan Barat",
+    "district": "mehalaan"
+  },
+  {
+    "id": "saluahok",
+    "name": "Saluahok",
+    "district": "mehalaan"
+  },
+  {
+    "id": "kondo",
+    "name": "Kondo",
+    "district": "mehalaan"
+  },
+  {
+    "id": "ulumea",
+    "name": "Ulumea",
+    "district": "mehalaan"
+  },
+  {
+    "id": "salubalo",
+    "name": "Salubalo",
+    "district": "mehalaan"
+  }
+]

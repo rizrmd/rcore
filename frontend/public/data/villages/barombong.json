@@ -1,0 +1,37 @@
+[
+  {
+    "id": "biringngalla",
+    "name": "Biringngalla",
+    "district": "barombong"
+  },
+  {
+    "id": "moncobalang",
+    "name": "Moncobalang",
+    "district": "barombong"
+  },
+  {
+    "id": "tinggimae",
+    "name": "Tinggimae",
+    "district": "barombong"
+  },
+  {
+    "id": "lembangparang",
+    "name": "Lembangparang",
+    "district": "barombong"
+  },
+  {
+    "id": "kanjilo",
+    "name": "Kanjilo",
+    "district": "barombong"
+  },
+  {
+    "id": "tamanyeleng",
+    "name": "Tamanyeleng",
+    "district": "barombong"
+  },
+  {
+    "id": "benteng-somba-opu",
+    "name": "Benteng Somba Opu",
+    "district": "barombong"
+  }
+]

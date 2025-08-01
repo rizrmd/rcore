@@ -1,0 +1,102 @@
+[
+  {
+    "id": "gulukmanjung",
+    "name": "Gulukmanjung",
+    "district": "bluto"
+  },
+  {
+    "id": "kapedi",
+    "name": "Kapedi",
+    "district": "bluto"
+  },
+  {
+    "id": "pakandangan-barat",
+    "name": "Pakandangan Barat",
+    "district": "bluto"
+  },
+  {
+    "id": "pakandangan-tengah",
+    "name": "Pakandangan Tengah",
+    "district": "bluto"
+  },
+  {
+    "id": "pakandangan-sangra",
+    "name": "Pakandangan Sangra",
+    "district": "bluto"
+  },
+  {
+    "id": "aengdake",
+    "name": "Aengdake",
+    "district": "bluto"
+  },
+  {
+    "id": "aengbaja-kenek",
+    "name": "Aengbaja Kenek",
+    "district": "bluto"
+  },
+  {
+    "id": "bluto",
+    "name": "Bluto",
+    "district": "bluto"
+  },
+  {
+    "id": "lobuk",
+    "name": "Lobuk",
+    "district": "bluto"
+  },
+  {
+    "id": "bungbungan",
+    "name": "Bungbungan",
+    "district": "bluto"
+  },
+  {
+    "id": "masaran",
+    "name": "Masaran",
+    "district": "bluto"
+  },
+  {
+    "id": "palongan",
+    "name": "Palongan",
+    "district": "bluto"
+  },
+  {
+    "id": "aengbaja-raja",
+    "name": "Aengbaja Raja",
+    "district": "bluto"
+  },
+  {
+    "id": "karang-cempaka",
+    "name": "Karang Cempaka",
+    "district": "bluto"
+  },
+  {
+    "id": "sera-timur",
+    "name": "Sera Timur",
+    "district": "bluto"
+  },
+  {
+    "id": "sera-tengah",
+    "name": "Sera Tengah",
+    "district": "bluto"
+  },
+  {
+    "id": "sera-barat",
+    "name": "Sera Barat",
+    "district": "bluto"
+  },
+  {
+    "id": "gilang",
+    "name": "Gilang",
+    "district": "bluto"
+  },
+  {
+    "id": "errabu",
+    "name": "Errabu",
+    "district": "bluto"
+  },
+  {
+    "id": "ging-ging",
+    "name": "Ging Ging",
+    "district": "bluto"
+  }
+]

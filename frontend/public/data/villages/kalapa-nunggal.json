@@ -1,0 +1,32 @@
+[
+  {
+    "id": "walangsari",
+    "name": "Walangsari",
+    "district": "kalapa-nunggal"
+  },
+  {
+    "id": "palasari-girang",
+    "name": "Palasari Girang",
+    "district": "kalapa-nunggal"
+  },
+  {
+    "id": "kalapanunggal",
+    "name": "Kalapanunggal",
+    "district": "kalapa-nunggal"
+  },
+  {
+    "id": "kadununggal",
+    "name": "Kadununggal",
+    "district": "kalapa-nunggal"
+  },
+  {
+    "id": "makasari",
+    "name": "Makasari",
+    "district": "kalapa-nunggal"
+  },
+  {
+    "id": "pulosari",
+    "name": "Pulosari",
+    "district": "kalapa-nunggal"
+  }
+]

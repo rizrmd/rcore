@@ -1,0 +1,42 @@
+[
+  {
+    "id": "padang-maninjau",
+    "name": "Padang Maninjau",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "panigoran",
+    "name": "Panigoran",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "perkebunan-padang-halaban",
+    "name": "Perkebunan Padang Halaban",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "aek-korsik",
+    "name": "Aek Korsik",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "aek-kuo"
+  },
+  {
+    "id": "bandar-selamat",
+    "name": "Bandar Selamat",
+    "district": "aek-kuo"
+  }
+]

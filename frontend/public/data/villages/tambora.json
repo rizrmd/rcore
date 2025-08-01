@@ -1,0 +1,102 @@
+[
+  {
+    "id": "kalianyar",
+    "name": "Kalianyar",
+    "district": "tambora"
+  },
+  {
+    "id": "duri-selatan",
+    "name": "Duri Selatan",
+    "district": "tambora"
+  },
+  {
+    "id": "tanah-sereal",
+    "name": "Tanah Sereal",
+    "district": "tambora"
+  },
+  {
+    "id": "duri-utara",
+    "name": "Duri Utara",
+    "district": "tambora"
+  },
+  {
+    "id": "krendang",
+    "name": "Krendang",
+    "district": "tambora"
+  },
+  {
+    "id": "jembatan-besi",
+    "name": "Jembatan Besi",
+    "district": "tambora"
+  },
+  {
+    "id": "angke",
+    "name": "Angke",
+    "district": "tambora"
+  },
+  {
+    "id": "jembatan-lima",
+    "name": "Jembatan Lima",
+    "district": "tambora"
+  },
+  {
+    "id": "tambora",
+    "name": "Tambora",
+    "district": "tambora"
+  },
+  {
+    "id": "roa-malaka",
+    "name": "Roa Malaka",
+    "district": "tambora"
+  },
+  {
+    "id": "pekojan",
+    "name": "Pekojan",
+    "district": "tambora"
+  },
+  {
+    "id": "labuhan-kananga",
+    "name": "Labuhan Kananga",
+    "district": "tambora"
+  },
+  {
+    "id": "kawinda-nae",
+    "name": "Kawinda Nae",
+    "district": "tambora"
+  },
+  {
+    "id": "oi-panihi",
+    "name": "Oi Panihi",
+    "district": "tambora"
+  },
+  {
+    "id": "kawinda-toi",
+    "name": "Kawinda Toi",
+    "district": "tambora"
+  },
+  {
+    "id": "rasabou",
+    "name": "Rasabou",
+    "district": "tambora"
+  },
+  {
+    "id": "oi-bura",
+    "name": "Oi Bura",
+    "district": "tambora"
+  },
+  {
+    "id": "upt-sori-panihi-sp5",
+    "name": "Upt Sori Panihi Sp5",
+    "district": "tambora"
+  },
+  {
+    "id": "oi-katupa",
+    "name": "Oi Katupa",
+    "district": "tambora"
+  },
+  {
+    "id": "upt-sori-panihi-ii-sp-6",
+    "name": "Upt Sori Panihi Ii Sp 6",
+    "district": "tambora"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lanaus",
+    "name": "Lanaus",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "letmafo",
+    "name": "Letmafo",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "maubesi",
+    "name": "Maubesi",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "tainsala",
+    "name": "Tainsala",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "sone",
+    "name": "Sone",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "oehalo",
+    "name": "Oehalo",
+    "district": "insana-tengah"
+  },
+  {
+    "id": "letmafo-timur",
+    "name": "Letmafo Timur",
+    "district": "insana-tengah"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kambang-habang-baru",
+    "name": "Kambang Habang Baru",
+    "district": "salam-babaris"
+  },
+  {
+    "id": "kambang-habang-lama",
+    "name": "Kambang Habang Lama",
+    "district": "salam-babaris"
+  },
+  {
+    "id": "suato-lama",
+    "name": "Suato Lama",
+    "district": "salam-babaris"
+  },
+  {
+    "id": "pantai-cabe",
+    "name": "Pantai Cabe",
+    "district": "salam-babaris"
+  },
+  {
+    "id": "suato-baru",
+    "name": "Suato Baru",
+    "district": "salam-babaris"
+  },
+  {
+    "id": "salam-babaris",
+    "name": "Salam Babaris",
+    "district": "salam-babaris"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "paya-kolak",
+    "name": "Paya Kolak",
+    "district": "celala"
+  },
+  {
+    "id": "arul-gading",
+    "name": "Arul Gading",
+    "district": "celala"
+  },
+  {
+    "id": "tanoh-depet",
+    "name": "Tanoh Depet",
+    "district": "celala"
+  },
+  {
+    "id": "kuyun-uken",
+    "name": "Kuyun Uken",
+    "district": "celala"
+  },
+  {
+    "id": "kuyun-toa",
+    "name": "Kuyun Toa",
+    "district": "celala"
+  },
+  {
+    "id": "uning-berawang-ramung",
+    "name": "Uning Berawang Ramung",
+    "district": "celala"
+  },
+  {
+    "id": "cibro",
+    "name": "Cibro",
+    "district": "celala"
+  },
+  {
+    "id": "berawang-gading",
+    "name": "Berawang Gading",
+    "district": "celala"
+  },
+  {
+    "id": "melala",
+    "name": "Melala",
+    "district": "celala"
+  },
+  {
+    "id": "blang-kekumur",
+    "name": "Blang Kekumur",
+    "district": "celala"
+  },
+  {
+    "id": "makmur",
+    "name": "Makmur",
+    "district": "celala"
+  },
+  {
+    "id": "celala",
+    "name": "Celala",
+    "district": "celala"
+  },
+  {
+    "id": "ramung-ara",
+    "name": "Ramung Ara",
+    "district": "celala"
+  },
+  {
+    "id": "sepakat",
+    "name": "Sepakat",
+    "district": "celala"
+  },
+  {
+    "id": "kuyun",
+    "name": "Kuyun",
+    "district": "celala"
+  },
+  {
+    "id": "blang-delem",
+    "name": "Blang Delem",
+    "district": "celala"
+  },
+  {
+    "id": "depet-indah",
+    "name": "Depet Indah",
+    "district": "celala"
+  }
+]

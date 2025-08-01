@@ -1,0 +1,42 @@
+[
+  {
+    "id": "timusu",
+    "name": "Timusu",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "rompegading",
+    "name": "Rompegading",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "pattojo",
+    "name": "Pattojo",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "galung",
+    "name": "Galung",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "jennae",
+    "name": "Jennae",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "jampu",
+    "name": "Jampu",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "barang",
+    "name": "Barang",
+    "district": "lili-riaja"
+  },
+  {
+    "id": "appanang",
+    "name": "Appanang",
+    "district": "lili-riaja"
+  }
+]

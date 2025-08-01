@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tanjung-betuah",
+    "name": "Tanjung Betuah",
+    "district": "nasal"
+  },
+  {
+    "id": "gedung-menung",
+    "name": "Gedung Menung",
+    "district": "nasal"
+  },
+  {
+    "id": "ulak-pandan",
+    "name": "Ulak Pandan",
+    "district": "nasal"
+  },
+  {
+    "id": "merpas",
+    "name": "Merpas",
+    "district": "nasal"
+  },
+  {
+    "id": "air-palawan",
+    "name": "Air Palawan",
+    "district": "nasal"
+  },
+  {
+    "id": "muara-dua",
+    "name": "Muara Dua",
+    "district": "nasal"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "nasal"
+  },
+  {
+    "id": "suku-tiga",
+    "name": "Suku Tiga",
+    "district": "nasal"
+  },
+  {
+    "id": "tebing-rambutan",
+    "name": "Tebing Rambutan",
+    "district": "nasal"
+  },
+  {
+    "id": "batu-lungun",
+    "name": "Batu Lungun",
+    "district": "nasal"
+  },
+  {
+    "id": "sumber-harapan",
+    "name": "Sumber Harapan",
+    "district": "nasal"
+  },
+  {
+    "id": "suka-jaya",
+    "name": "Suka Jaya",
+    "district": "nasal"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "nasal"
+  },
+  {
+    "id": "tri-jaya",
+    "name": "Tri Jaya",
+    "district": "nasal"
+  },
+  {
+    "id": "air-batang",
+    "name": "Air Batang",
+    "district": "nasal"
+  },
+  {
+    "id": "sinar-banten",
+    "name": "Sinar Banten",
+    "district": "nasal"
+  },
+  {
+    "id": "pasar-jumat",
+    "name": "Pasar Jumat",
+    "district": "nasal"
+  }
+]

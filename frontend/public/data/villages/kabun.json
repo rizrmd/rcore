@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kabun",
+    "name": "Kabun",
+    "district": "kabun"
+  },
+  {
+    "id": "aliantan",
+    "name": "Aliantan",
+    "district": "kabun"
+  },
+  {
+    "id": "koto-ranah",
+    "name": "Koto Ranah",
+    "district": "kabun"
+  },
+  {
+    "id": "bencah-kesuma",
+    "name": "Bencah Kesuma",
+    "district": "kabun"
+  },
+  {
+    "id": "batu-langkah-besar",
+    "name": "Batu Langkah Besar",
+    "district": "kabun"
+  },
+  {
+    "id": "giti",
+    "name": "Giti",
+    "district": "kabun"
+  }
+]

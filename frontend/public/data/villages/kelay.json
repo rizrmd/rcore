@@ -1,0 +1,72 @@
+[
+  {
+    "id": "merapun",
+    "name": "Merapun",
+    "district": "kelay"
+  },
+  {
+    "id": "merabu",
+    "name": "Merabu",
+    "district": "kelay"
+  },
+  {
+    "id": "mapulu",
+    "name": "Mapulu",
+    "district": "kelay"
+  },
+  {
+    "id": "panaan",
+    "name": "Panaan",
+    "district": "kelay"
+  },
+  {
+    "id": "merasa",
+    "name": "Merasa",
+    "district": "kelay"
+  },
+  {
+    "id": "muara-lesan",
+    "name": "Muara Lesan",
+    "district": "kelay"
+  },
+  {
+    "id": "lesan-dayak",
+    "name": "Lesan Dayak",
+    "district": "kelay"
+  },
+  {
+    "id": "sido-bangen",
+    "name": "Sido Bangen",
+    "district": "kelay"
+  },
+  {
+    "id": "long-beliu",
+    "name": "Long Beliu",
+    "district": "kelay"
+  },
+  {
+    "id": "long-duhung",
+    "name": "Long Duhung",
+    "district": "kelay"
+  },
+  {
+    "id": "long-keluh",
+    "name": "Long Keluh",
+    "district": "kelay"
+  },
+  {
+    "id": "long-pelay",
+    "name": "Long Pelay",
+    "district": "kelay"
+  },
+  {
+    "id": "long-lamcin",
+    "name": "Long Lamcin",
+    "district": "kelay"
+  },
+  {
+    "id": "long-sului",
+    "name": "Long Sului",
+    "district": "kelay"
+  }
+]

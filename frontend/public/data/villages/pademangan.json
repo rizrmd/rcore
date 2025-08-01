@@ -1,0 +1,17 @@
+[
+  {
+    "id": "pademangan-barat",
+    "name": "Pademangan Barat",
+    "district": "pademangan"
+  },
+  {
+    "id": "pademangan-timur",
+    "name": "Pademangan Timur",
+    "district": "pademangan"
+  },
+  {
+    "id": "ancol",
+    "name": "Ancol",
+    "district": "pademangan"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "sungai-melayu-baru",
+    "name": "Sungai Melayu Baru",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "piansak",
+    "name": "Piansak",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "jairan-jaya",
+    "name": "Jairan Jaya",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "karya-mukti",
+    "name": "Karya Mukti",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "sungai-melayu-jaya",
+    "name": "Sungai Melayu Jaya",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "sei-melayu",
+    "name": "Sei Melayu",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "sungai-melayu-rayak"
+  },
+  {
+    "id": "makmur-abadi",
+    "name": "Makmur Abadi",
+    "district": "sungai-melayu-rayak"
+  }
+]

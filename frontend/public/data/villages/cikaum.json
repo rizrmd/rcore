@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kaunganten",
+    "name": "Kaunganten",
+    "district": "cikaum"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "cikaum"
+  },
+  {
+    "id": "cikaum-timur",
+    "name": "Cikaum Timur",
+    "district": "cikaum"
+  },
+  {
+    "id": "cikaum-barat",
+    "name": "Cikaum Barat",
+    "district": "cikaum"
+  },
+  {
+    "id": "pasirmuncang",
+    "name": "Pasirmuncang",
+    "district": "cikaum"
+  },
+  {
+    "id": "gandasari",
+    "name": "Gandasari",
+    "district": "cikaum"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "cikaum"
+  },
+  {
+    "id": "tanjungsari-barat",
+    "name": "Tanjungsari Barat",
+    "district": "cikaum"
+  },
+  {
+    "id": "tanjungsari-timur",
+    "name": "Tanjungsari Timur",
+    "district": "cikaum"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "plumbon"
+  },
+  {
+    "id": "pamijahan",
+    "name": "Pamijahan",
+    "district": "plumbon"
+  },
+  {
+    "id": "lurah",
+    "name": "Lurah",
+    "district": "plumbon"
+  },
+  {
+    "id": "marikangen",
+    "name": "Marikangen",
+    "district": "plumbon"
+  },
+  {
+    "id": "bode-lor",
+    "name": "Bode Lor",
+    "district": "plumbon"
+  },
+  {
+    "id": "bodesari",
+    "name": "Bodesari",
+    "district": "plumbon"
+  },
+  {
+    "id": "gombang",
+    "name": "Gombang",
+    "district": "plumbon"
+  },
+  {
+    "id": "karangmulya",
+    "name": "Karangmulya",
+    "district": "plumbon"
+  },
+  {
+    "id": "karangasem",
+    "name": "Karangasem",
+    "district": "plumbon"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "plumbon"
+  },
+  {
+    "id": "purbawinangun",
+    "name": "Purbawinangun",
+    "district": "plumbon"
+  },
+  {
+    "id": "kebarepan",
+    "name": "Kebarepan",
+    "district": "plumbon"
+  },
+  {
+    "id": "pasanggrahan",
+    "name": "Pasanggrahan",
+    "district": "plumbon"
+  },
+  {
+    "id": "kedungsana",
+    "name": "Kedungsana",
+    "district": "plumbon"
+  },
+  {
+    "id": "danamulya",
+    "name": "Danamulya",
+    "district": "plumbon"
+  }
+]

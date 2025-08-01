@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lai",
+    "name": "Lai",
+    "district": "siau-tengah"
+  },
+  {
+    "id": "salili",
+    "name": "Salili",
+    "district": "siau-tengah"
+  },
+  {
+    "id": "beong",
+    "name": "Beong",
+    "district": "siau-tengah"
+  },
+  {
+    "id": "dompase",
+    "name": "Dompase",
+    "district": "siau-tengah"
+  }
+]

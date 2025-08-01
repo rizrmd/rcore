@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pabundukang",
+    "name": "Pa'Bundukang",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "canrego",
+    "name": "Canrego",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "bontokadatto",
+    "name": "Bontokadatto",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "bulukunyi",
+    "name": "Bulukunyi",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "cakura",
+    "name": "Cakura",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "lantang",
+    "name": "Lantang",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "moncongkomba",
+    "name": "Moncongkomba",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "pattene",
+    "name": "Patte'Ne",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "rajaya",
+    "name": "Rajaya",
+    "district": "polombangkeng-selatan"
+  },
+  {
+    "id": "su-rulangi",
+    "name": "Su Rulangi",
+    "district": "polombangkeng-selatan"
+  }
+]

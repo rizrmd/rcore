@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kuala-mandor-a",
+    "name": "Kuala Mandor A",
+    "district": "kuala-mandor-b"
+  },
+  {
+    "id": "kuala-mandor-b",
+    "name": "Kuala Mandor-B",
+    "district": "kuala-mandor-b"
+  },
+  {
+    "id": "sungai-enau",
+    "name": "Sungai Enau",
+    "district": "kuala-mandor-b"
+  },
+  {
+    "id": "kubu-padi",
+    "name": "Kubu Padi",
+    "district": "kuala-mandor-b"
+  },
+  {
+    "id": "retok",
+    "name": "Retok",
+    "district": "kuala-mandor-b"
+  }
+]

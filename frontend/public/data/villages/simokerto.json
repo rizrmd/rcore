@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kapasan",
+    "name": "Kapasan",
+    "district": "simokerto"
+  },
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "simokerto"
+  },
+  {
+    "id": "simokerto",
+    "name": "Simokerto",
+    "district": "simokerto"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "simokerto"
+  },
+  {
+    "id": "simolawang",
+    "name": "Simolawang",
+    "district": "simokerto"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "teluk-nilau",
+    "name": "Teluk Nilau",
+    "district": "pengabuan"
+  },
+  {
+    "id": "sungai-serindit",
+    "name": "Sungai Serindit",
+    "district": "pengabuan"
+  },
+  {
+    "id": "parit-pudin",
+    "name": "Parit Pudin",
+    "district": "pengabuan"
+  },
+  {
+    "id": "mekar-jati",
+    "name": "Mekar Jati",
+    "district": "pengabuan"
+  },
+  {
+    "id": "parit-bilal",
+    "name": "Parit Bilal",
+    "district": "pengabuan"
+  },
+  {
+    "id": "suak-samin",
+    "name": "Suak Samin",
+    "district": "pengabuan"
+  },
+  {
+    "id": "parit-sidang",
+    "name": "Parit Sidang",
+    "district": "pengabuan"
+  },
+  {
+    "id": "sungai-pampang",
+    "name": "Sungai Pampang",
+    "district": "pengabuan"
+  },
+  {
+    "id": "sungai-jering",
+    "name": "Sungai Jering",
+    "district": "pengabuan"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "pengabuan"
+  },
+  {
+    "id": "sungai-baung",
+    "name": "Sungai Baung",
+    "district": "pengabuan"
+  },
+  {
+    "id": "karya-maju",
+    "name": "Karya Maju",
+    "district": "pengabuan"
+  },
+  {
+    "id": "pasar-senin",
+    "name": "Pasar Senin",
+    "district": "pengabuan"
+  }
+]

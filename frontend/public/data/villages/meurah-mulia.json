@@ -1,0 +1,252 @@
+[
+  {
+    "id": "mns-baree-blang",
+    "name": "Mns Baree Blang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "paya-sutra",
+    "name": "Paya Sutra",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "tualang",
+    "name": "Tualang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "pulo-blang",
+    "name": "Pulo Blang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "leubok-tuwe",
+    "name": "Leubok Tuwe",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "saramaba",
+    "name": "Saramaba",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "blang-reuma",
+    "name": "Blang Reuma",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ranto",
+    "name": "Ranto",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "meunye-peut",
+    "name": "Meunye Peut",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "meunye-payong",
+    "name": "Meunye Payong",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "beuringen",
+    "name": "Beuringen",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ujong-kuta-batee",
+    "name": "Ujong Kuta Batee",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "teungoh-kuta-batee",
+    "name": "Teungoh Kuta Batee",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "baroh-kuta-batee",
+    "name": "Baroh Kuta Batee",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ceubrek",
+    "name": "Ceubrek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "gampong-teungoh",
+    "name": "Gampong Teungoh",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "keude-jungka-gajah",
+    "name": "Keude Jungka Gajah",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "nibong",
+    "name": "Nibong",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "drien-beukah",
+    "name": "Drien Beukah",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "paya-kambuek",
+    "name": "Paya Kambuek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "paya-bili",
+    "name": "Paya Bili",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "drien-puntong",
+    "name": "Drien Puntong",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "pulo-kitou",
+    "name": "Pulo Kitou",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "teungoh-reuba",
+    "name": "Teungoh Reuba",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "meunasah-nga",
+    "name": "Meunasah Nga",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ujong-reuba",
+    "name": "Ujong Reuba",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mns-mesjid",
+    "name": "Mns Mesjid",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mns-me",
+    "name": "Mns Me",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "barat-paya-itik",
+    "name": "Barat Paya Itik",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "pri-keutapang",
+    "name": "Pri Keutapang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "kumbang",
+    "name": "Kumbang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mns-keh",
+    "name": "Mns Keh",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "blang-cut",
+    "name": "Blang Cut",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "rayeuk-paya-itik",
+    "name": "Rayeuk Paya Itik",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ubit-paya-itik",
+    "name": "Ubit Paya Itik",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mns-rangkileh",
+    "name": "Mns Rangkileh",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "tumpok-tungku",
+    "name": "Tumpok Tungku",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "manyang",
+    "name": "Manyang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ulee-meuria",
+    "name": "Ulee Meuria",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "geulumpang",
+    "name": "Geulumpang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mns-tanjong",
+    "name": "Mns Tanjong",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "rayeuk-matang",
+    "name": "Rayeuk Matang",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "keude-karieng",
+    "name": "Keude Karieng",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "reudeup",
+    "name": "Reudeup",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "pulo-bluek",
+    "name": "Pulo Bluek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "dayah-bluek",
+    "name": "Dayah Bluek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "meuria-bluek",
+    "name": "Meuria Bluek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "ulee-ceubrek",
+    "name": "Ulee Ceubrek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "mesjid-bluek",
+    "name": "Mesjid Bluek",
+    "district": "meurah-mulia"
+  },
+  {
+    "id": "rheng-bluk",
+    "name": "Rheng Bluk",
+    "district": "meurah-mulia"
+  }
+]

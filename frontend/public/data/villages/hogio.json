@@ -1,0 +1,42 @@
+[
+  {
+    "id": "paima",
+    "name": "Paima",
+    "district": "hogio"
+  },
+  {
+    "id": "dugumhad",
+    "name": "Dugumhad",
+    "district": "hogio"
+  },
+  {
+    "id": "leleak",
+    "name": "Leleak",
+    "district": "hogio"
+  },
+  {
+    "id": "subsal",
+    "name": "Subsal",
+    "district": "hogio"
+  },
+  {
+    "id": "sengsenagaik",
+    "name": "Sengsenagaik",
+    "district": "hogio"
+  },
+  {
+    "id": "sipnidipmu",
+    "name": "Sipnidipmu",
+    "district": "hogio"
+  },
+  {
+    "id": "hogio-1",
+    "name": "Hogio 1",
+    "district": "hogio"
+  },
+  {
+    "id": "hogio-2",
+    "name": "Hogio 2",
+    "district": "hogio"
+  }
+]

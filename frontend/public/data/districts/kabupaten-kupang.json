@@ -1,0 +1,122 @@
+[
+  {
+    "id": "semau",
+    "name": "Semau",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "semau-selatan",
+    "name": "Semau Selatan",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "kupang-barat",
+    "name": "Kupang Barat",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "nekamese",
+    "name": "Nekamese",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "kupang-tengah",
+    "name": "Kupang Tengah",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "taebenu",
+    "name": "Taebenu",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amarasi",
+    "name": "Amarasi",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amarasi-barat",
+    "name": "Amarasi Barat",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amarasi-selatan",
+    "name": "Amarasi Selatan",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amarasi-timur",
+    "name": "Amarasi Timur",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "kupang-timur",
+    "name": "Kupang Timur",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amabi-oefeto-timur",
+    "name": "Amabi Oefeto Timur",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amabi-oefeto",
+    "name": "Amabi Oefeto",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "sulamu",
+    "name": "Sulamu",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "fatuleu",
+    "name": "Fatuleu",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "fatuleu-tengah",
+    "name": "Fatuleu Tengah",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "fatuleu-barat",
+    "name": "Fatuleu Barat",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "takari",
+    "name": "Takari",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-selatan",
+    "name": "Amfoang Selatan",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-barat-daya",
+    "name": "Amfoang Barat Daya",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-tengah",
+    "name": "Amfoang Tengah",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-utara",
+    "name": "Amfoang Utara",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-barat-laut",
+    "name": "Amfoang Barat Laut",
+    "regency": "kabupaten-kupang"
+  },
+  {
+    "id": "amfoang-timur",
+    "name": "Amfoang Timur",
+    "regency": "kabupaten-kupang"
+  }
+]

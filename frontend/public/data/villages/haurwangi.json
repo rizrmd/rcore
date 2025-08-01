@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cihea",
+    "name": "Cihea",
+    "district": "haurwangi"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "haurwangi"
+  },
+  {
+    "id": "ramasari",
+    "name": "Ramasari",
+    "district": "haurwangi"
+  },
+  {
+    "id": "haurwangi",
+    "name": "Haurwangi",
+    "district": "haurwangi"
+  },
+  {
+    "id": "kertasari",
+    "name": "Kertasari",
+    "district": "haurwangi"
+  },
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "haurwangi"
+  },
+  {
+    "id": "cipeuyeum",
+    "name": "Cipeuyeum",
+    "district": "haurwangi"
+  },
+  {
+    "id": "mekarwangi",
+    "name": "Mekarwangi",
+    "district": "haurwangi"
+  }
+]

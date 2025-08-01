@@ -1,0 +1,52 @@
+[
+  {
+    "id": "situregen",
+    "name": "Situregen",
+    "district": "panggarangan"
+  },
+  {
+    "id": "sukajadi",
+    "name": "Sukajadi",
+    "district": "panggarangan"
+  },
+  {
+    "id": "hegarmanah",
+    "name": "Hegarmanah",
+    "district": "panggarangan"
+  },
+  {
+    "id": "panggarangan",
+    "name": "Panggarangan",
+    "district": "panggarangan"
+  },
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "panggarangan"
+  },
+  {
+    "id": "sindangratu",
+    "name": "Sindangratu",
+    "district": "panggarangan"
+  },
+  {
+    "id": "cimandiri",
+    "name": "Cimandiri",
+    "district": "panggarangan"
+  },
+  {
+    "id": "sogong",
+    "name": "Sogong",
+    "district": "panggarangan"
+  },
+  {
+    "id": "jatake",
+    "name": "Jatake",
+    "district": "panggarangan"
+  },
+  {
+    "id": "cibarengkok",
+    "name": "Cibarengkok",
+    "district": "panggarangan"
+  }
+]

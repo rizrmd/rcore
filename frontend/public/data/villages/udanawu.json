@@ -1,0 +1,57 @@
+[
+  {
+    "id": "ringinanom",
+    "name": "Ringinanom",
+    "district": "udanawu"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "udanawu"
+  },
+  {
+    "id": "karanggondang",
+    "name": "Karanggondang",
+    "district": "udanawu"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "udanawu"
+  },
+  {
+    "id": "temenggungan",
+    "name": "Temenggungan",
+    "district": "udanawu"
+  },
+  {
+    "id": "besuki",
+    "name": "Besuki",
+    "district": "udanawu"
+  },
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "udanawu"
+  },
+  {
+    "id": "mangunan",
+    "name": "Mangunan",
+    "district": "udanawu"
+  },
+  {
+    "id": "sukorejo",
+    "name": "Sukorejo",
+    "district": "udanawu"
+  },
+  {
+    "id": "slemanan",
+    "name": "Slemanan",
+    "district": "udanawu"
+  },
+  {
+    "id": "bendorejo",
+    "name": "Bendorejo",
+    "district": "udanawu"
+  }
+]

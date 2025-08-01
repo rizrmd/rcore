@@ -1,0 +1,162 @@
+[
+  {
+    "id": "kamal",
+    "name": "Kamal",
+    "district": "larangan"
+  },
+  {
+    "id": "wlahar",
+    "name": "Wlahar",
+    "district": "larangan"
+  },
+  {
+    "id": "pamulihan",
+    "name": "Pamulihan",
+    "district": "larangan"
+  },
+  {
+    "id": "kedungbokor",
+    "name": "Kedungbokor",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan",
+    "name": "Larangan",
+    "district": "larangan"
+  },
+  {
+    "id": "karangbale",
+    "name": "Karangbale",
+    "district": "larangan"
+  },
+  {
+    "id": "slatri",
+    "name": "Slatri",
+    "district": "larangan"
+  },
+  {
+    "id": "sitanggal",
+    "name": "Sitanggal",
+    "district": "larangan"
+  },
+  {
+    "id": "siandong",
+    "name": "Siandong",
+    "district": "larangan"
+  },
+  {
+    "id": "rengaspendawa",
+    "name": "Rengaspendawa",
+    "district": "larangan"
+  },
+  {
+    "id": "peltong",
+    "name": "Peltong",
+    "district": "larangan"
+  },
+  {
+    "id": "trasak",
+    "name": "Trasak",
+    "district": "larangan"
+  },
+  {
+    "id": "tentenan-barat",
+    "name": "Tentenan Barat",
+    "district": "larangan"
+  },
+  {
+    "id": "tentenan-timur",
+    "name": "Tentenan Timur",
+    "district": "larangan"
+  },
+  {
+    "id": "grujugan",
+    "name": "Grujugan",
+    "district": "larangan"
+  },
+  {
+    "id": "blumbungan",
+    "name": "Blumbungan",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan-luar",
+    "name": "Larangan Luar",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan-dalam",
+    "name": "Larangan Dalam",
+    "district": "larangan"
+  },
+  {
+    "id": "panaguan",
+    "name": "Panaguan",
+    "district": "larangan"
+  },
+  {
+    "id": "montok",
+    "name": "Montok",
+    "district": "larangan"
+  },
+  {
+    "id": "kaduara-barat",
+    "name": "Kaduara Barat",
+    "district": "larangan"
+  },
+  {
+    "id": "lancar",
+    "name": "Lancar",
+    "district": "larangan"
+  },
+  {
+    "id": "taraban",
+    "name": "Taraban",
+    "district": "larangan"
+  },
+  {
+    "id": "dukuh-timur",
+    "name": "Dukuh Timur",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan-selatan",
+    "name": "Larangan Selatan",
+    "district": "larangan"
+  },
+  {
+    "id": "gaga",
+    "name": "Gaga",
+    "district": "larangan"
+  },
+  {
+    "id": "cipadu-jaya",
+    "name": "Cipadu Jaya",
+    "district": "larangan"
+  },
+  {
+    "id": "kereo-selatan",
+    "name": "Kereo Selatan",
+    "district": "larangan"
+  },
+  {
+    "id": "cipadu",
+    "name": "Cipadu",
+    "district": "larangan"
+  },
+  {
+    "id": "kereo",
+    "name": "Kereo",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan-indah",
+    "name": "Larangan Indah",
+    "district": "larangan"
+  },
+  {
+    "id": "larangan-utara",
+    "name": "Larangan Utara",
+    "district": "larangan"
+  }
+]

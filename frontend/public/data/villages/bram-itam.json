@@ -1,0 +1,52 @@
+[
+  {
+    "id": "beram-itam-kanan",
+    "name": "Beram Itam Kanan",
+    "district": "bram-itam"
+  },
+  {
+    "id": "beram-itam-kiri",
+    "name": "Beram Itam Kiri",
+    "district": "bram-itam"
+  },
+  {
+    "id": "pembengis",
+    "name": "Pembengis",
+    "district": "bram-itam"
+  },
+  {
+    "id": "tanjung-senjulang",
+    "name": "Tanjung Senjulang",
+    "district": "bram-itam"
+  },
+  {
+    "id": "jati-emas",
+    "name": "Jati Emas",
+    "district": "bram-itam"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "bram-itam"
+  },
+  {
+    "id": "pantai-gading",
+    "name": "Pantai Gading",
+    "district": "bram-itam"
+  },
+  {
+    "id": "bram-itam-raya",
+    "name": "Bram Itam Raya",
+    "district": "bram-itam"
+  },
+  {
+    "id": "mekar-tanjung",
+    "name": "Mekar Tanjung",
+    "district": "bram-itam"
+  },
+  {
+    "id": "semau",
+    "name": "Semau",
+    "district": "bram-itam"
+  }
+]

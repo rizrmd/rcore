@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pasir-wan-salim",
+    "name": "Pasir Wan Salim",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "sungai-bakau-kecil",
+    "name": "Sungai Bakau Kecil",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "pasir-panjang",
+    "name": "Pasir Panjang",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "pasir-palembang",
+    "name": "Pasir Palembang",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "pulau-pedalaman",
+    "name": "Pulau Pedalaman",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "antibar",
+    "name": "Antibar",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "sejegi",
+    "name": "Sejegi",
+    "district": "mempawah-timur"
+  },
+  {
+    "id": "parit-banjar",
+    "name": "Parit Banjar",
+    "district": "mempawah-timur"
+  }
+]

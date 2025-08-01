@@ -1,0 +1,42 @@
+[
+  {
+    "id": "agung-jaya",
+    "name": "Agung Jaya",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "pondok-makmur",
+    "name": "Pondok Makmur",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "manjunto-jaya",
+    "name": "Manjunto Jaya",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "tirta-makmur",
+    "name": "Tirta Makmur",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "tirta-mulya",
+    "name": "Tirta Mulya",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "kota-praja",
+    "name": "Kota Praja",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "sinar-jaya",
+    "name": "Sinar Jaya",
+    "district": "air-manjunto"
+  },
+  {
+    "id": "sido-makmur",
+    "name": "Sido Makmur",
+    "district": "air-manjunto"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mambi",
+    "name": "Mambi",
+    "district": "mambi"
+  },
+  {
+    "id": "talippuki",
+    "name": "Talippuki",
+    "district": "mambi"
+  },
+  {
+    "id": "rantebulahan",
+    "name": "Rantebulahan",
+    "district": "mambi"
+  },
+  {
+    "id": "sondong-lajuk",
+    "name": "Sondong Lajuk",
+    "district": "mambi"
+  },
+  {
+    "id": "salubanua",
+    "name": "Salubanua",
+    "district": "mambi"
+  },
+  {
+    "id": "tapalinna",
+    "name": "Tapalinna",
+    "district": "mambi"
+  },
+  {
+    "id": "pammoseang",
+    "name": "Pammoseang",
+    "district": "mambi"
+  },
+  {
+    "id": "salumakak",
+    "name": "Salumakak",
+    "district": "mambi"
+  },
+  {
+    "id": "bujungmanurung",
+    "name": "Bujungmanurung",
+    "district": "mambi"
+  },
+  {
+    "id": "sendana",
+    "name": "Sendana",
+    "district": "mambi"
+  },
+  {
+    "id": "indo-banua",
+    "name": "Indo Banua",
+    "district": "mambi"
+  },
+  {
+    "id": "salualo",
+    "name": "Salualo'",
+    "district": "mambi"
+  },
+  {
+    "id": "saludurian",
+    "name": "Saludurian",
+    "district": "mambi"
+  }
+]

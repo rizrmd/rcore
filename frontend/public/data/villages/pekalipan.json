@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jagasatru",
+    "name": "Jagasatru",
+    "district": "pekalipan"
+  },
+  {
+    "id": "pulasaren",
+    "name": "Pulasaren",
+    "district": "pekalipan"
+  },
+  {
+    "id": "pekalipan",
+    "name": "Pekalipan",
+    "district": "pekalipan"
+  },
+  {
+    "id": "pekalangan",
+    "name": "Pekalangan",
+    "district": "pekalipan"
+  }
+]

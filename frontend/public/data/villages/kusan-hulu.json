@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bakarangan",
+    "name": "Bakarangan",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "karang-mulya",
+    "name": "Karang Mulya",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "lasung",
+    "name": "Lasung",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "sungai-rukam",
+    "name": "Sungai Rukam",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "manuntung",
+    "name": "Manuntung",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "anjir-baru",
+    "name": "Anjir Baru",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "binawara",
+    "name": "Binawara",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "pacakan",
+    "name": "Pacakan",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "wonorejo",
+    "name": "Wonorejo",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "tibarau-panjang",
+    "name": "Tibarau Panjang",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "tapus",
+    "name": "Tapus",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "darasan-binjai",
+    "name": "Darasan Binjai",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "teluk-kepayang",
+    "name": "Teluk Kepayang",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "hatiif",
+    "name": "Hati'If",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "mangkalapi",
+    "name": "Mangkalapi",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "tamunih",
+    "name": "Tamunih",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "batu-bulan",
+    "name": "Batu Bulan",
+    "district": "kusan-hulu"
+  },
+  {
+    "id": "dadap-kusan-raya",
+    "name": "Dadap Kusan Raya",
+    "district": "kusan-hulu"
+  }
+]

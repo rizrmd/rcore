@@ -1,0 +1,57 @@
+[
+  {
+    "id": "perangat-baru",
+    "name": "Perangat Baru",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "bunga-putih",
+    "name": "Bunga Putih",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "perangat-selatan",
+    "name": "Perangat Selatan",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "makarti",
+    "name": "Makarti",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "sebuntal",
+    "name": "Sebuntal",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "kersik",
+    "name": "Kersik",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "santan-ilir",
+    "name": "Santan Ilir",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "santan-tengah",
+    "name": "Santan Tengah",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "santan-ulu",
+    "name": "Santan Ulu",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "sambera-baru",
+    "name": "Sambera Baru",
+    "district": "marang-kayu"
+  },
+  {
+    "id": "semangkok",
+    "name": "Semangkok",
+    "district": "marang-kayu"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "siremen",
+    "name": "Siremen",
+    "district": "tanara"
+  },
+  {
+    "id": "cibodas",
+    "name": "Cibodas",
+    "district": "tanara"
+  },
+  {
+    "id": "lempuyang",
+    "name": "Lempuyang",
+    "district": "tanara"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "tanara"
+  },
+  {
+    "id": "tanara",
+    "name": "Tanara",
+    "district": "tanara"
+  },
+  {
+    "id": "pedaleman",
+    "name": "Pedaleman",
+    "district": "tanara"
+  },
+  {
+    "id": "tenjo-ayu",
+    "name": "Tenjo Ayu",
+    "district": "tanara"
+  }
+]

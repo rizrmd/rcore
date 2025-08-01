@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bangga",
+    "name": "Bangga",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "walatana",
+    "name": "Walatana",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "baluase",
+    "name": "Baluase",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "rogo",
+    "name": "Rogo",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "balongga",
+    "name": "Balongga",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "wisolo",
+    "name": "Wisolo",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "sambo",
+    "name": "Sambo",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "jono",
+    "name": "Jono",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "poi",
+    "name": "Poi",
+    "district": "dolo-selatan"
+  },
+  {
+    "id": "ramba",
+    "name": "Ramba",
+    "district": "dolo-selatan"
+  }
+]

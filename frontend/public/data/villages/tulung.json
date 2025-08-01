@@ -1,0 +1,77 @@
+[
+  {
+    "id": "sedayu",
+    "name": "Sedayu",
+    "district": "tulung"
+  },
+  {
+    "id": "pomah",
+    "name": "Pomah",
+    "district": "tulung"
+  },
+  {
+    "id": "bono",
+    "name": "Bono",
+    "district": "tulung"
+  },
+  {
+    "id": "kiringan",
+    "name": "Kiringan",
+    "district": "tulung"
+  },
+  {
+    "id": "majegan",
+    "name": "Majegan",
+    "district": "tulung"
+  },
+  {
+    "id": "dalangan",
+    "name": "Dalangan",
+    "district": "tulung"
+  },
+  {
+    "id": "gedongjetis",
+    "name": "Gedongjetis",
+    "district": "tulung"
+  },
+  {
+    "id": "sorogaten",
+    "name": "Sorogaten",
+    "district": "tulung"
+  },
+  {
+    "id": "beji",
+    "name": "Beji",
+    "district": "tulung"
+  },
+  {
+    "id": "kemiri",
+    "name": "Kemiri",
+    "district": "tulung"
+  },
+  {
+    "id": "sudimoro",
+    "name": "Sudimoro",
+    "district": "tulung"
+  },
+  {
+    "id": "malangan",
+    "name": "Malangan",
+    "district": "tulung"
+  },
+  {
+    "id": "pucang-miliran",
+    "name": "Pucang Miliran",
+    "district": "tulung"
+  },
+  {
+    "id": "cokro",
+    "name": "Cokro",
+    "district": "tulung"
+  },
+  {
+    "id": "daleman",
+    "name": "Daleman",
+    "district": "tulung"
+  }
+]

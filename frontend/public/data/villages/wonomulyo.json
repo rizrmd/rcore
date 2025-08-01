@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tumpiling",
+    "name": "Tumpiling",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "nepo",
+    "name": "Nepo",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "kebunsari",
+    "name": "Kebunsari",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "arjosari",
+    "name": "Arjosari",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "bumiayu",
+    "name": "Bumiayu",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "bumi-mulyo",
+    "name": "Bumi Mulyo",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "campurjo",
+    "name": "Campurjo",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "sumberjo",
+    "name": "Sumberjo",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "sugih-waras",
+    "name": "Sugih Waras",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "banua-baru",
+    "name": "Banua Baru",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "bakka-bakka",
+    "name": "Bakka-Bakka",
+    "district": "wonomulyo"
+  },
+  {
+    "id": "galeso",
+    "name": "Galeso",
+    "district": "wonomulyo"
+  }
+]

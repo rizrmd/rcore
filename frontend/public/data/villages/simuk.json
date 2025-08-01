@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gondia",
+    "name": "Gondia",
+    "district": "simuk"
+  },
+  {
+    "id": "maufa",
+    "name": "Maufa",
+    "district": "simuk"
+  },
+  {
+    "id": "gobo-baru",
+    "name": "Gobo Baru",
+    "district": "simuk"
+  },
+  {
+    "id": "gobo",
+    "name": "Gobo",
+    "district": "simuk"
+  },
+  {
+    "id": "silina",
+    "name": "Silina",
+    "district": "simuk"
+  },
+  {
+    "id": "silina-baru",
+    "name": "Silina Baru",
+    "district": "simuk"
+  }
+]

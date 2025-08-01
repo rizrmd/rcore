@@ -1,0 +1,32 @@
+[
+  {
+    "id": "palam",
+    "name": "Palam",
+    "district": "tinangkung-utara"
+  },
+  {
+    "id": "luk-sagu",
+    "name": "Luk Sagu",
+    "district": "tinangkung-utara"
+  },
+  {
+    "id": "tatakalai",
+    "name": "Tatakalai",
+    "district": "tinangkung-utara"
+  },
+  {
+    "id": "ponding-ponding",
+    "name": "Ponding-Ponding",
+    "district": "tinangkung-utara"
+  },
+  {
+    "id": "lalong",
+    "name": "Lalong",
+    "district": "tinangkung-utara"
+  },
+  {
+    "id": "bampanga",
+    "name": "Bampanga",
+    "district": "tinangkung-utara"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "upah",
+    "name": "Upah",
+    "district": "bendahara"
+  },
+  {
+    "id": "perkebunan-upah",
+    "name": "Perkebunan Upah",
+    "district": "bendahara"
+  },
+  {
+    "id": "matang-teupah",
+    "name": "Matang Teupah",
+    "district": "bendahara"
+  },
+  {
+    "id": "seuneubok-dalam-upah",
+    "name": "Seuneubok Dalam Upah",
+    "district": "bendahara"
+  },
+  {
+    "id": "sukamulia-bd-siyu",
+    "name": "Sukamulia Bd /S.Iyu",
+    "district": "bendahara"
+  },
+  {
+    "id": "kebon-sungai-iyu",
+    "name": "Kebon Sungai Iyu",
+    "district": "bendahara"
+  },
+  {
+    "id": "marlempang",
+    "name": "Marlempang",
+    "district": "bendahara"
+  },
+  {
+    "id": "balai",
+    "name": "Balai",
+    "district": "bendahara"
+  },
+  {
+    "id": "lambung-blang",
+    "name": "Lambung Blang",
+    "district": "bendahara"
+  },
+  {
+    "id": "lubuk-batil",
+    "name": "Lubuk Batil",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung-paret",
+    "name": "Tanjung Paret",
+    "district": "bendahara"
+  },
+  {
+    "id": "seuneubok-dalam-mesjid",
+    "name": "Seuneubok Dalam Mesjid",
+    "district": "bendahara"
+  },
+  {
+    "id": "rantau-pakam",
+    "name": "Rantau Pakam",
+    "district": "bendahara"
+  },
+  {
+    "id": "tumpok-teungah",
+    "name": "Tumpok Teungah",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung-mulia",
+    "name": "Tanjung Mulia",
+    "district": "bendahara"
+  },
+  {
+    "id": "teluk-kemiri",
+    "name": "Teluk Kemiri",
+    "district": "bendahara"
+  },
+  {
+    "id": "mesjid-bdh",
+    "name": "Mesjid Bdh",
+    "district": "bendahara"
+  },
+  {
+    "id": "teluk-kepayang",
+    "name": "Teluk Kepayang",
+    "district": "bendahara"
+  },
+  {
+    "id": "teluk-halban",
+    "name": "Teluk Halban",
+    "district": "bendahara"
+  },
+  {
+    "id": "raja",
+    "name": "Raja",
+    "district": "bendahara"
+  },
+  {
+    "id": "cinta-raja",
+    "name": "Cinta Raja",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung-binjai",
+    "name": "Tanjung Binjai",
+    "district": "bendahara"
+  },
+  {
+    "id": "kuala-peunaga",
+    "name": "Kuala Peunaga",
+    "district": "bendahara"
+  },
+  {
+    "id": "kuala-geunting",
+    "name": "Kuala Geunting",
+    "district": "bendahara"
+  },
+  {
+    "id": "bandar-baru",
+    "name": "Bandar Baru",
+    "district": "bendahara"
+  },
+  {
+    "id": "mesjid-siyu",
+    "name": "Mesjid S.Iyu",
+    "district": "bendahara"
+  },
+  {
+    "id": "alur-cantik",
+    "name": "Alur Cantik",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung-lipat-i",
+    "name": "Tanjung Lipat I",
+    "district": "bendahara"
+  },
+  {
+    "id": "bandar-khalifah",
+    "name": "Bandar Khalifah",
+    "district": "bendahara"
+  },
+  {
+    "id": "seuneubok-aceh",
+    "name": "Seuneubok Aceh",
+    "district": "bendahara"
+  },
+  {
+    "id": "tanjung-lipat-ii",
+    "name": "Tanjung Lipat Ii",
+    "district": "bendahara"
+  },
+  {
+    "id": "tengku-tinggi",
+    "name": "Tengku Tinggi",
+    "district": "bendahara"
+  }
+]

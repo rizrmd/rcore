@@ -1,0 +1,52 @@
+[
+  {
+    "id": "hinas-kiri",
+    "name": "Hinas Kiri",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "atiran",
+    "name": "Atiran",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "muara-hungi",
+    "name": "Muara Hungi",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "pembakulan",
+    "name": "Pembakulan",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "nateh",
+    "name": "Nateh",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "batu-tangga",
+    "name": "Batu Tangga",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "tandilang",
+    "name": "Tandilang",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "batu-perahu",
+    "name": "Batu Perahu",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "aing-bantai",
+    "name": "Aing Bantai",
+    "district": "batang-alai-timur"
+  },
+  {
+    "id": "datar-batung",
+    "name": "Datar Batung",
+    "district": "batang-alai-timur"
+  }
+]

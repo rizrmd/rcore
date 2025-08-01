@@ -1,0 +1,27 @@
+[
+  {
+    "id": "siawatan",
+    "name": "Siawatan",
+    "district": "teluk-etna"
+  },
+  {
+    "id": "bamana",
+    "name": "Bamana",
+    "district": "teluk-etna"
+  },
+  {
+    "id": "boiya",
+    "name": "Boiya",
+    "district": "teluk-etna"
+  },
+  {
+    "id": "nariki",
+    "name": "Nariki",
+    "district": "teluk-etna"
+  },
+  {
+    "id": "rurumo",
+    "name": "Rurumo",
+    "district": "teluk-etna"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "sorong-kota"
+  },
+  {
+    "id": "klakublik",
+    "name": "Klakublik",
+    "district": "sorong-kota"
+  },
+  {
+    "id": "klasuur",
+    "name": "Klasuur",
+    "district": "sorong-kota"
+  },
+  {
+    "id": "klabala",
+    "name": "Klabala",
+    "district": "sorong-kota"
+  }
+]

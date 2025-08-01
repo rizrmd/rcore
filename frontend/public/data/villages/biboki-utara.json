@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sapaen",
+    "name": "Sapaen",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "taunbaen",
+    "name": "Taunbaen",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "tualene",
+    "name": "Tualene",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "biloe",
+    "name": "Biloe",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "hauteas",
+    "name": "Hauteas",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "boronubaen",
+    "name": "Boronubaen",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "lokomea",
+    "name": "Lokomea",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "taunbaen-timur",
+    "name": "Taunbaen Timur",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "hauteas-barat",
+    "name": "Hauteas Barat",
+    "district": "biboki-utara"
+  },
+  {
+    "id": "boronubaen-timur",
+    "name": "Boronubaen Timur",
+    "district": "biboki-utara"
+  }
+]

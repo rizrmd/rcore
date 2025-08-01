@@ -1,0 +1,47 @@
+[
+  {
+    "id": "salewok",
+    "name": "Salewok",
+    "district": "moraid"
+  },
+  {
+    "id": "mega",
+    "name": "Mega",
+    "district": "moraid"
+  },
+  {
+    "id": "malaworsai",
+    "name": "Malaworsai",
+    "district": "moraid"
+  },
+  {
+    "id": "kwade",
+    "name": "Kwade",
+    "district": "moraid"
+  },
+  {
+    "id": "namuas",
+    "name": "Namuas",
+    "district": "moraid"
+  },
+  {
+    "id": "bonem",
+    "name": "Bonem",
+    "district": "moraid"
+  },
+  {
+    "id": "warmasi",
+    "name": "Warmasi",
+    "district": "moraid"
+  },
+  {
+    "id": "warmanen",
+    "name": "Warmanen",
+    "district": "moraid"
+  },
+  {
+    "id": "warafor",
+    "name": "Warafor",
+    "district": "moraid"
+  }
+]

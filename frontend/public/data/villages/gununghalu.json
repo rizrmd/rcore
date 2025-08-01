@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cilangari",
+    "name": "Cilangari",
+    "district": "gununghalu"
+  },
+  {
+    "id": "sindangjaya",
+    "name": "Sindangjaya",
+    "district": "gununghalu"
+  },
+  {
+    "id": "bunijaya",
+    "name": "Bunijaya",
+    "district": "gununghalu"
+  },
+  {
+    "id": "sirnajaya",
+    "name": "Sirnajaya",
+    "district": "gununghalu"
+  },
+  {
+    "id": "gununghalu",
+    "name": "Gununghalu",
+    "district": "gununghalu"
+  },
+  {
+    "id": "celak",
+    "name": "Celak",
+    "district": "gununghalu"
+  },
+  {
+    "id": "wargasaluyu",
+    "name": "Wargasaluyu",
+    "district": "gununghalu"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "gununghalu"
+  },
+  {
+    "id": "tamanjaya",
+    "name": "Tamanjaya",
+    "district": "gununghalu"
+  }
+]

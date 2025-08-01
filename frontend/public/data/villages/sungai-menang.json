@@ -1,0 +1,92 @@
+[
+  {
+    "id": "sungai-tepuk",
+    "name": "Sungai Tepuk",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sido-mulyo",
+    "name": "Sido Mulyo",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "talang-jaya",
+    "name": "Talang Jaya",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sungai-menang",
+    "name": "Sungai Menang",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "karangsia",
+    "name": "Karangsia",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "talang-makmur",
+    "name": "Talang Makmur",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sungai-ceper",
+    "name": "Sungai Ceper",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gajah-mati",
+    "name": "Gajah Mati",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "bumi-pratama-mandira",
+    "name": "Bumi Pratama Mandira",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sungai-pinang-indah",
+    "name": "Sungai Pinang Indah",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sungai-sibur",
+    "name": "Sungai Sibur",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gajah-mukti",
+    "name": "Gajah Mukti",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gajah-mulya",
+    "name": "Gajah Mulya",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gajah-makmur",
+    "name": "Gajah Makmur",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "sari-gading",
+    "name": "Sari Gading",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gading-mas",
+    "name": "Gading Mas",
+    "district": "sungai-menang"
+  },
+  {
+    "id": "gading-jaya",
+    "name": "Gading Jaya",
+    "district": "sungai-menang"
+  }
+]

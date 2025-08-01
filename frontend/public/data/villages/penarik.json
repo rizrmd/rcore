@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bumi-mulya",
+    "name": "Bumi Mulya",
+    "district": "penarik"
+  },
+  {
+    "id": "penarik",
+    "name": "Penarik",
+    "district": "penarik"
+  },
+  {
+    "id": "lubuk-mukti",
+    "name": "Lubuk Mukti",
+    "district": "penarik"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "penarik"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "penarik"
+  },
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "penarik"
+  },
+  {
+    "id": "wonosobo",
+    "name": "Wonosobo",
+    "district": "penarik"
+  },
+  {
+    "id": "mekar-mulya",
+    "name": "Mekar Mulya",
+    "district": "penarik"
+  },
+  {
+    "id": "sido-mulyo",
+    "name": "Sido Mulyo",
+    "district": "penarik"
+  },
+  {
+    "id": "marga-mukti",
+    "name": "Marga Mukti",
+    "district": "penarik"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "penarik"
+  },
+  {
+    "id": "maju-makmur",
+    "name": "Maju Makmur",
+    "district": "penarik"
+  },
+  {
+    "id": "sendang-mulyo",
+    "name": "Sendang Mulyo",
+    "district": "penarik"
+  },
+  {
+    "id": "marga-mulya",
+    "name": "Marga Mulya",
+    "district": "penarik"
+  }
+]

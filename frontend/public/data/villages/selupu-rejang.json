@@ -1,0 +1,82 @@
+[
+  {
+    "id": "air-meles-atas",
+    "name": "Air Meles Atas",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "cawang-baru",
+    "name": "Cawang Baru",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "cawang-lama",
+    "name": "Cawang Lama",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "kayu-manis",
+    "name": "Kayu Manis",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "simpang-nangka",
+    "name": "Simpang Nangka",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "suban-ayam",
+    "name": "Suban Ayam",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "air-putih-kali-bandung",
+    "name": "Air Putih Kali Bandung",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "air-duku",
+    "name": "Air Duku",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "sambirejo",
+    "name": "Sambirejo",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "sumber-bening",
+    "name": "Sumber Bening",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "sumber-urip",
+    "name": "Sumber Urip",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "karang-jaya",
+    "name": "Karang Jaya",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "kali-padang",
+    "name": "Kali Padang",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "talang-lahat",
+    "name": "Talang Lahat",
+    "district": "selupu-rejang"
+  },
+  {
+    "id": "mojorejo",
+    "name": "Mojorejo",
+    "district": "selupu-rejang"
+  }
+]

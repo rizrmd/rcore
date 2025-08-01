@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kalinyamat-wetan",
+    "name": "Kalinyamat Wetan",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "bandung",
+    "name": "Bandung",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "debong-kidul",
+    "name": "Debong Kidul",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "tunon",
+    "name": "Tunon",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "debong-kulon",
+    "name": "Debong Kulon",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "debong-tengah",
+    "name": "Debong Tengah",
+    "district": "tegal-selatan"
+  },
+  {
+    "id": "randugunting",
+    "name": "Randugunting",
+    "district": "tegal-selatan"
+  }
+]

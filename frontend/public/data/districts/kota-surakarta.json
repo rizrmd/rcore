@@ -1,0 +1,27 @@
+[
+  {
+    "id": "laweyan",
+    "name": "Laweyan",
+    "regency": "kota-surakarta"
+  },
+  {
+    "id": "serengan",
+    "name": "Serengan",
+    "regency": "kota-surakarta"
+  },
+  {
+    "id": "pasar-kliwon",
+    "name": "Pasar Kliwon",
+    "regency": "kota-surakarta"
+  },
+  {
+    "id": "jebres",
+    "name": "Jebres",
+    "regency": "kota-surakarta"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "regency": "kota-surakarta"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "golo",
+    "name": "Golo",
+    "district": "wiringgabut"
+  },
+  {
+    "id": "yugumabur",
+    "name": "Yugumabur",
+    "district": "wiringgabut"
+  },
+  {
+    "id": "uniwani",
+    "name": "Uniwani",
+    "district": "wiringgabut"
+  },
+  {
+    "id": "wiringgabut",
+    "name": "Wiringgabut",
+    "district": "wiringgabut"
+  },
+  {
+    "id": "kiludo",
+    "name": "Kiludo",
+    "district": "wiringgabut"
+  },
+  {
+    "id": "golomi",
+    "name": "Golomi",
+    "district": "wiringgabut"
+  }
+]

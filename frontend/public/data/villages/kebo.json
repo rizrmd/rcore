@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ayaigo-kagupaida",
+    "name": "Ayaigo / Kagupaida",
+    "district": "kebo"
+  },
+  {
+    "id": "kagupagu",
+    "name": "Kagupagu",
+    "district": "kebo"
+  },
+  {
+    "id": "ibomomaida-ibumaida",
+    "name": "Ibomomaida / Ibumaida",
+    "district": "kebo"
+  },
+  {
+    "id": "kebo-ii",
+    "name": "Kebo Ii",
+    "district": "kebo"
+  },
+  {
+    "id": "togowa",
+    "name": "Togowa",
+    "district": "kebo"
+  },
+  {
+    "id": "kebo-i",
+    "name": "Kebo I",
+    "district": "kebo"
+  }
+]

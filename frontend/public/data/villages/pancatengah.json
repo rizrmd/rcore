@@ -1,0 +1,57 @@
+[
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "pancatengah"
+  },
+  {
+    "id": "cibuniasih",
+    "name": "Cibuniasih",
+    "district": "pancatengah"
+  },
+  {
+    "id": "pangliaran",
+    "name": "Pangliaran",
+    "district": "pancatengah"
+  },
+  {
+    "id": "pancawangi",
+    "name": "Pancawangi",
+    "district": "pancatengah"
+  },
+  {
+    "id": "jayamukti",
+    "name": "Jayamukti",
+    "district": "pancatengah"
+  },
+  {
+    "id": "tonjong",
+    "name": "Tonjong",
+    "district": "pancatengah"
+  },
+  {
+    "id": "cibongas",
+    "name": "Cibongas",
+    "district": "pancatengah"
+  },
+  {
+    "id": "cikawung",
+    "name": "Cikawung",
+    "district": "pancatengah"
+  },
+  {
+    "id": "tawang",
+    "name": "Tawang",
+    "district": "pancatengah"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "pancatengah"
+  },
+  {
+    "id": "neglasari",
+    "name": "Neglasari",
+    "district": "pancatengah"
+  }
+]

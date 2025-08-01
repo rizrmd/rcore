@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kampangar",
+    "name": "Kampangar",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "ondoliang",
+    "name": "Ondoliang",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "batusimpang",
+    "name": "Batusimpang",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "pangkalaseang",
+    "name": "Pangkalaseang",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "pangkalaseang-baru",
+    "name": "Pangkalaseang Baru",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "kuntang",
+    "name": "Kuntang",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "toweer",
+    "name": "Toweer",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "batu-mandi",
+    "name": "Batu Mandi",
+    "district": "balantak-utara"
+  },
+  {
+    "id": "pulau-dua",
+    "name": "Pulau Dua",
+    "district": "balantak-utara"
+  }
+]

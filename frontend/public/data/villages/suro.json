@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mandumpang",
+    "name": "Mandumpang",
+    "district": "suro"
+  },
+  {
+    "id": "alur-linci",
+    "name": "Alur Linci",
+    "district": "suro"
+  },
+  {
+    "id": "sirimo-mungkur",
+    "name": "Sirimo Mungkur",
+    "district": "suro"
+  },
+  {
+    "id": "keras",
+    "name": "Keras",
+    "district": "suro"
+  },
+  {
+    "id": "ketangkuhan",
+    "name": "Ketangkuhan",
+    "district": "suro"
+  },
+  {
+    "id": "siompin",
+    "name": "Siompin",
+    "district": "suro"
+  },
+  {
+    "id": "bulu-ara",
+    "name": "Bulu Ara",
+    "district": "suro"
+  },
+  {
+    "id": "lae-bangun",
+    "name": "Lae Bangun",
+    "district": "suro"
+  },
+  {
+    "id": "bulu-sema",
+    "name": "Bulu Sema",
+    "district": "suro"
+  },
+  {
+    "id": "pangkalan-sulampi",
+    "name": "Pangkalan Sulampi",
+    "district": "suro"
+  },
+  {
+    "id": "suro-baru",
+    "name": "Suro Baru",
+    "district": "suro"
+  }
+]

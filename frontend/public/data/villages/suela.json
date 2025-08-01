@@ -1,0 +1,42 @@
+[
+  {
+    "id": "suela",
+    "name": "Suela",
+    "district": "suela"
+  },
+  {
+    "id": "ketangga",
+    "name": "Ketangga",
+    "district": "suela"
+  },
+  {
+    "id": "selaparang",
+    "name": "Selaparang",
+    "district": "suela"
+  },
+  {
+    "id": "suntalangu",
+    "name": "Suntalangu",
+    "district": "suela"
+  },
+  {
+    "id": "sapit",
+    "name": "Sapit",
+    "district": "suela"
+  },
+  {
+    "id": "perigi",
+    "name": "Perigi",
+    "district": "suela"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "suela"
+  },
+  {
+    "id": "puncak-jeringo",
+    "name": "Puncak Jeringo",
+    "district": "suela"
+  }
+]

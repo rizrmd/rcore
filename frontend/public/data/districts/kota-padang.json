@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bungus-teluk-kabung",
+    "name": "Bungus Teluk Kabung",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "lubuk-kilangan",
+    "name": "Lubuk Kilangan",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "lubuk-begalung",
+    "name": "Lubuk Begalung",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "padang-selatan",
+    "name": "Padang Selatan",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "padang-timur",
+    "name": "Padang Timur",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "padang-barat",
+    "name": "Padang Barat",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "padang-utara",
+    "name": "Padang Utara",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "nanggalo",
+    "name": "Nanggalo",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "kuranji",
+    "name": "Kuranji",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "pauh",
+    "name": "Pauh",
+    "regency": "kota-padang"
+  },
+  {
+    "id": "koto-tangah",
+    "name": "Koto Tangah",
+    "regency": "kota-padang"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sungai-riam",
+    "name": "Sungai Riam",
+    "district": "pelaihari"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "pelaihari"
+  },
+  {
+    "id": "sumber-mulia",
+    "name": "Sumber Mulia",
+    "district": "pelaihari"
+  },
+  {
+    "id": "tampang",
+    "name": "Tampang",
+    "district": "pelaihari"
+  },
+  {
+    "id": "sarang-halang",
+    "name": "Sarang Halang",
+    "district": "pelaihari"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "pelaihari"
+  },
+  {
+    "id": "atu-atu",
+    "name": "Atu Atu",
+    "district": "pelaihari"
+  },
+  {
+    "id": "angsau",
+    "name": "Angsau",
+    "district": "pelaihari"
+  },
+  {
+    "id": "pelaihari",
+    "name": "Pelaihari",
+    "district": "pelaihari"
+  },
+  {
+    "id": "karang-taruna",
+    "name": "Karang Taruna",
+    "district": "pelaihari"
+  },
+  {
+    "id": "telaga",
+    "name": "Telaga",
+    "district": "pelaihari"
+  },
+  {
+    "id": "guntung-besar",
+    "name": "Guntung Besar",
+    "district": "pelaihari"
+  },
+  {
+    "id": "panjaratan",
+    "name": "Panjaratan",
+    "district": "pelaihari"
+  },
+  {
+    "id": "tungkaran",
+    "name": "Tungkaran",
+    "district": "pelaihari"
+  },
+  {
+    "id": "panggung",
+    "name": "Panggung",
+    "district": "pelaihari"
+  },
+  {
+    "id": "pabahanan",
+    "name": "Pabahanan",
+    "district": "pelaihari"
+  },
+  {
+    "id": "ambungan",
+    "name": "Ambungan",
+    "district": "pelaihari"
+  },
+  {
+    "id": "panggung-baru",
+    "name": "Panggung Baru",
+    "district": "pelaihari"
+  },
+  {
+    "id": "ujung-batu",
+    "name": "Ujung Batu",
+    "district": "pelaihari"
+  },
+  {
+    "id": "pemuda-desa-persiapan",
+    "name": "Pemuda (Desa Persiapan)",
+    "district": "pelaihari"
+  }
+]

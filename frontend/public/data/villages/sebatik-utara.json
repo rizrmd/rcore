@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lapri",
+    "name": "Lapri",
+    "district": "sebatik-utara"
+  },
+  {
+    "id": "pancang",
+    "name": "Pancang",
+    "district": "sebatik-utara"
+  },
+  {
+    "id": "seberang",
+    "name": "Seberang",
+    "district": "sebatik-utara"
+  }
+]

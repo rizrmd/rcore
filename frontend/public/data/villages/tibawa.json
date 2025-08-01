@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ilomata",
+    "name": "Ilomata",
+    "district": "tibawa"
+  },
+  {
+    "id": "molowahu",
+    "name": "Molowahu",
+    "district": "tibawa"
+  },
+  {
+    "id": "dunggala",
+    "name": "Dunggala",
+    "district": "tibawa"
+  },
+  {
+    "id": "reksonegoro",
+    "name": "Reksonegoro",
+    "district": "tibawa"
+  },
+  {
+    "id": "tolotio",
+    "name": "Tolotio",
+    "district": "tibawa"
+  },
+  {
+    "id": "isimu-selatan",
+    "name": "Isimu Selatan",
+    "district": "tibawa"
+  },
+  {
+    "id": "datahu",
+    "name": "Datahu",
+    "district": "tibawa"
+  },
+  {
+    "id": "iloponu",
+    "name": "Iloponu",
+    "district": "tibawa"
+  },
+  {
+    "id": "isimu-utara",
+    "name": "Isimu Utara",
+    "district": "tibawa"
+  },
+  {
+    "id": "labanu",
+    "name": "Labanu",
+    "district": "tibawa"
+  },
+  {
+    "id": "motilango",
+    "name": "Motilango",
+    "district": "tibawa"
+  },
+  {
+    "id": "balahu",
+    "name": "Balahu",
+    "district": "tibawa"
+  },
+  {
+    "id": "botumoputi",
+    "name": "Botumoputi",
+    "district": "tibawa"
+  },
+  {
+    "id": "isimu-raya",
+    "name": "Isimu Raya",
+    "district": "tibawa"
+  },
+  {
+    "id": "ulobua",
+    "name": "Ulobua",
+    "district": "tibawa"
+  }
+]

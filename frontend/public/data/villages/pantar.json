@@ -1,0 +1,57 @@
+[
+  {
+    "id": "baolang",
+    "name": "Baolang",
+    "district": "pantar"
+  },
+  {
+    "id": "bandar",
+    "name": "Bandar",
+    "district": "pantar"
+  },
+  {
+    "id": "madar",
+    "name": "Madar",
+    "district": "pantar"
+  },
+  {
+    "id": "bouweli",
+    "name": "Bouweli",
+    "district": "pantar"
+  },
+  {
+    "id": "munaseli",
+    "name": "Munaseli",
+    "district": "pantar"
+  },
+  {
+    "id": "helandohi",
+    "name": "Helandohi",
+    "district": "pantar"
+  },
+  {
+    "id": "b-a-n-a",
+    "name": "B A N A",
+    "district": "pantar"
+  },
+  {
+    "id": "pandai",
+    "name": "Pandai",
+    "district": "pantar"
+  },
+  {
+    "id": "bukitmas",
+    "name": "Bukitmas",
+    "district": "pantar"
+  },
+  {
+    "id": "wailawar",
+    "name": "Wailawar",
+    "district": "pantar"
+  },
+  {
+    "id": "kabir",
+    "name": "Kabir",
+    "district": "pantar"
+  }
+]

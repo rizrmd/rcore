@@ -1,0 +1,107 @@
+[
+  {
+    "id": "mangun-sari",
+    "name": "Mangun Sari",
+    "district": "jarai"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "jarai"
+  },
+  {
+    "id": "serambi",
+    "name": "Serambi",
+    "district": "jarai"
+  },
+  {
+    "id": "sukananti",
+    "name": "Sukananti",
+    "district": "jarai"
+  },
+  {
+    "id": "tanjung-menang",
+    "name": "Tanjung Menang",
+    "district": "jarai"
+  },
+  {
+    "id": "lubuk-sawung",
+    "name": "Lubuk Sawung",
+    "district": "jarai"
+  },
+  {
+    "id": "gunung-kaya",
+    "name": "Gunung Kaya",
+    "district": "jarai"
+  },
+  {
+    "id": "gunung-megang",
+    "name": "Gunung Megang",
+    "district": "jarai"
+  },
+  {
+    "id": "karang-tanding",
+    "name": "Karang Tanding",
+    "district": "jarai"
+  },
+  {
+    "id": "jarai",
+    "name": "Jarai",
+    "district": "jarai"
+  },
+  {
+    "id": "muaratawi",
+    "name": "Muaratawi",
+    "district": "jarai"
+  },
+  {
+    "id": "aromantai",
+    "name": "Aromantai",
+    "district": "jarai"
+  },
+  {
+    "id": "jemaring",
+    "name": "Jemaring",
+    "district": "jarai"
+  },
+  {
+    "id": "pamah-salak",
+    "name": "Pamah Salak",
+    "district": "jarai"
+  },
+  {
+    "id": "pelajaran",
+    "name": "Pelajaran",
+    "district": "jarai"
+  },
+  {
+    "id": "nantigiri",
+    "name": "Nantigiri",
+    "district": "jarai"
+  },
+  {
+    "id": "kedaton",
+    "name": "Kedaton",
+    "district": "jarai"
+  },
+  {
+    "id": "bandaraji",
+    "name": "Bandaraji",
+    "district": "jarai"
+  },
+  {
+    "id": "tertap",
+    "name": "Tertap",
+    "district": "jarai"
+  },
+  {
+    "id": "penantian",
+    "name": "Penantian",
+    "district": "jarai"
+  },
+  {
+    "id": "sadan",
+    "name": "Sadan",
+    "district": "jarai"
+  }
+]

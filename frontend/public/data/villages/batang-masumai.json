@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pulau-baru",
+    "name": "Pulau Baru",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "rantau-alai",
+    "name": "Rantau Alai",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "lubuk-gaung",
+    "name": "Lubuk Gaung",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "titian-teras",
+    "name": "Titian Teras",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "salam-buku",
+    "name": "Salam Buku",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "kederasan-panjang",
+    "name": "Kederasan Panjang",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "pulau-layang",
+    "name": "Pulau Layang",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "pelangki",
+    "name": "Pelangki",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "nibung",
+    "name": "Nibung",
+    "district": "batang-masumai"
+  },
+  {
+    "id": "tambang-besi",
+    "name": "Tambang Besi",
+    "district": "batang-masumai"
+  }
+]

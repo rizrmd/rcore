@@ -1,0 +1,117 @@
+[
+  {
+    "id": "pulu-beruang",
+    "name": "Pulu Beruang",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "tulung-selapan-ilir",
+    "name": "Tulung Selapan Ilir",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "tulung-selapan-ulu",
+    "name": "Tulung Selapan Ulu",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "petaling",
+    "name": "Petaling",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "kayu-ara",
+    "name": "Kayu Ara",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "penyandingan",
+    "name": "Penyandingan",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "tanjung-batu",
+    "name": "Tanjung Batu",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "cambai",
+    "name": "Cambai",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "toman",
+    "name": "Toman",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "jerambah-rengas",
+    "name": "Jerambah Rengas",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "penanggoan-duren",
+    "name": "Penanggoan Duren",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "lebung-itam",
+    "name": "Lebung Itam",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "lebung-gajah",
+    "name": "Lebung Gajah",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "ujung-tanjung",
+    "name": "Ujung Tanjung",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "simpang-tiga-sakti",
+    "name": "Simpang Tiga Sakti",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "simpang-tiga-makmur",
+    "name": "Simpang Tiga Makmur",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "simpang-tiga-jaya",
+    "name": "Simpang Tiga Jaya",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "rantau-lurus",
+    "name": "Rantau Lurus",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "tulung-seluang",
+    "name": "Tulung Seluang",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "simpang-tiga-abadi",
+    "name": "Simpang Tiga Abadi",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "kuala-dua-belas",
+    "name": "Kuala Dua Belas",
+    "district": "tulung-selapan"
+  },
+  {
+    "id": "tulung-selapan-timur",
+    "name": "Tulung Selapan Timur",
+    "district": "tulung-selapan"
+  }
+]

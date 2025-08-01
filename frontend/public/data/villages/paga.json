@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wolowiro",
+    "name": "Wolowiro",
+    "district": "paga"
+  },
+  {
+    "id": "mauloo",
+    "name": "Mauloo",
+    "district": "paga"
+  },
+  {
+    "id": "paga",
+    "name": "Paga",
+    "district": "paga"
+  },
+  {
+    "id": "lenandareta",
+    "name": "Lenandareta",
+    "district": "paga"
+  },
+  {
+    "id": "masebewa",
+    "name": "Masebewa",
+    "district": "paga"
+  },
+  {
+    "id": "wolorega",
+    "name": "Wolorega",
+    "district": "paga"
+  },
+  {
+    "id": "wolowona",
+    "name": "Wolowona",
+    "district": "paga"
+  }
+]

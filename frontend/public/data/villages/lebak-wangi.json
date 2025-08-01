@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kebonratu",
+    "name": "Kebonratu",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "terasbendung",
+    "name": "Terasbendung",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "kamaruton",
+    "name": "Kamaruton",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "purwadadi",
+    "name": "Purwadadi",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "lebakwangi",
+    "name": "Lebakwangi",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "tirem",
+    "name": "Tirem",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "lebak-kepuh",
+    "name": "Lebak Kepuh",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "kencana-harapan",
+    "name": "Kencana Harapan",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "bolang",
+    "name": "Bolang",
+    "district": "lebak-wangi"
+  },
+  {
+    "id": "pegandikan",
+    "name": "Pegandikan",
+    "district": "lebak-wangi"
+  }
+]

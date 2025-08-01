@@ -1,0 +1,22 @@
+[
+  {
+    "id": "batu-rijal",
+    "name": "Batu Rijal",
+    "district": "padang-laweh"
+  },
+  {
+    "id": "muaro-sopan",
+    "name": "Muaro Sopan",
+    "district": "padang-laweh"
+  },
+  {
+    "id": "padang-laweh",
+    "name": "Padang Laweh",
+    "district": "padang-laweh"
+  },
+  {
+    "id": "sopan-jaya",
+    "name": "Sopan Jaya",
+    "district": "padang-laweh"
+  }
+]

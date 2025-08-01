@@ -1,0 +1,67 @@
+[
+  {
+    "id": "basim",
+    "name": "Basim",
+    "district": "fayit"
+  },
+  {
+    "id": "waras",
+    "name": "Waras",
+    "district": "fayit"
+  },
+  {
+    "id": "ocenep",
+    "name": "Ocenep",
+    "district": "fayit"
+  },
+  {
+    "id": "pirien",
+    "name": "Pirien",
+    "district": "fayit"
+  },
+  {
+    "id": "biopis",
+    "name": "Biopis",
+    "district": "fayit"
+  },
+  {
+    "id": "nanai-nanay",
+    "name": "Nanai (Nanay)",
+    "district": "fayit"
+  },
+  {
+    "id": "ais",
+    "name": "Ais",
+    "district": "fayit"
+  },
+  {
+    "id": "yawas",
+    "name": "Yawas",
+    "district": "fayit"
+  },
+  {
+    "id": "kayarpis",
+    "name": "Kayarpis",
+    "district": "fayit"
+  },
+  {
+    "id": "bakyor",
+    "name": "Bakyor",
+    "district": "fayit"
+  },
+  {
+    "id": "isar",
+    "name": "Isar",
+    "district": "fayit"
+  },
+  {
+    "id": "sayoa",
+    "name": "Sayoa",
+    "district": "fayit"
+  },
+  {
+    "id": "bora",
+    "name": "Bora",
+    "district": "fayit"
+  }
+]

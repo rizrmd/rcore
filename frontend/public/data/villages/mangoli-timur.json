@@ -1,0 +1,27 @@
+[
+  {
+    "id": "waitina",
+    "name": "Waitina",
+    "district": "mangoli-timur"
+  },
+  {
+    "id": "kow",
+    "name": "Kow",
+    "district": "mangoli-timur"
+  },
+  {
+    "id": "wai-tamela",
+    "name": "Wai-Tamela",
+    "district": "mangoli-timur"
+  },
+  {
+    "id": "naflow",
+    "name": "Naflow",
+    "district": "mangoli-timur"
+  },
+  {
+    "id": "karamat-titdoy",
+    "name": "Karamat Titdoy",
+    "district": "mangoli-timur"
+  }
+]

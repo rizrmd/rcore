@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dariwali",
+    "name": "Dariwali",
+    "district": "jerebuu"
+  },
+  {
+    "id": "naruwolo",
+    "name": "Naruwolo",
+    "district": "jerebuu"
+  },
+  {
+    "id": "tiworiwu",
+    "name": "Tiworiwu",
+    "district": "jerebuu"
+  },
+  {
+    "id": "watumanu",
+    "name": "Watumanu",
+    "district": "jerebuu"
+  },
+  {
+    "id": "nenowea",
+    "name": "Nenowea",
+    "district": "jerebuu"
+  },
+  {
+    "id": "naruwolo-i",
+    "name": "Naruwolo I",
+    "district": "jerebuu"
+  },
+  {
+    "id": "naruwolo-ii",
+    "name": "Naruwolo Ii",
+    "district": "jerebuu"
+  },
+  {
+    "id": "dariwali-i",
+    "name": "Dariwali I",
+    "district": "jerebuu"
+  },
+  {
+    "id": "nio-lewa",
+    "name": "Nio Lewa",
+    "district": "jerebuu"
+  },
+  {
+    "id": "tiworiwu-i",
+    "name": "Tiworiwu I",
+    "district": "jerebuu"
+  },
+  {
+    "id": "tiworiwu-ii",
+    "name": "Tiworiwu Ii",
+    "district": "jerebuu"
+  },
+  {
+    "id": "batajawa",
+    "name": "Batajawa",
+    "district": "jerebuu"
+  }
+]

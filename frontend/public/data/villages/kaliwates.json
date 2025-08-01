@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mangli",
+    "name": "Mangli",
+    "district": "kaliwates"
+  },
+  {
+    "id": "sempusari",
+    "name": "Sempusari",
+    "district": "kaliwates"
+  },
+  {
+    "id": "kaliwates",
+    "name": "Kaliwates",
+    "district": "kaliwates"
+  },
+  {
+    "id": "tegal-besar",
+    "name": "Tegal Besar",
+    "district": "kaliwates"
+  },
+  {
+    "id": "jember-kidul",
+    "name": "Jember Kidul",
+    "district": "kaliwates"
+  },
+  {
+    "id": "kepatihan",
+    "name": "Kepatihan",
+    "district": "kaliwates"
+  },
+  {
+    "id": "kebon-agung",
+    "name": "Kebon Agung",
+    "district": "kaliwates"
+  }
+]

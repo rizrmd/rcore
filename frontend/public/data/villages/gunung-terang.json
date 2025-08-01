@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gunung-terang",
+    "name": "Gunung Terang",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "gunung-agung",
+    "name": "Gunung Agung",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "toto-mulyo",
+    "name": "Toto Mulyo",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "setia-bumi",
+    "name": "Setia Bumi",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "kagungan-jaya",
+    "name": "Kagungan Jaya",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "terang-mulya",
+    "name": "Terang Mulya",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "terang-bumi-agung",
+    "name": "Terang Bumi Agung",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "setia-agung",
+    "name": "Setia Agung",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "mulyo-jadi",
+    "name": "Mulyo Jadi",
+    "district": "gunung-terang"
+  },
+  {
+    "id": "terang-makmur",
+    "name": "Terang Makmur",
+    "district": "gunung-terang"
+  }
+]

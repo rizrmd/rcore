@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tanjung-harapan",
+    "name": "Tanjung Harapan",
+    "district": "nunukan-selatan"
+  },
+  {
+    "id": "mansapa",
+    "name": "Mansapa",
+    "district": "nunukan-selatan"
+  },
+  {
+    "id": "nunukan-selatan",
+    "name": "Nunukan Selatan",
+    "district": "nunukan-selatan"
+  },
+  {
+    "id": "selisun",
+    "name": "Selisun",
+    "district": "nunukan-selatan"
+  }
+]

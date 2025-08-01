@@ -1,0 +1,242 @@
+[
+  {
+    "id": "payang",
+    "name": "Payang",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "suyadon",
+    "name": "Suyadon",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tukulon",
+    "name": "Tukulon",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "bulu-mengelom",
+    "name": "Bulu Mengelom",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "batung",
+    "name": "Batung",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "ubel-sulok",
+    "name": "Ubel Sulok",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "ubel-alung",
+    "name": "Ubel Alung",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "nan-sapan",
+    "name": "Nan Sapan",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sedalit",
+    "name": "Sedalit",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tambalang-hilir",
+    "name": "Tambalang Hilir",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "paluan",
+    "name": "Paluan",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "long-bulu",
+    "name": "Long Bulu",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "kalam-buku",
+    "name": "Kalam Buku",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tadungus",
+    "name": "Tadungus",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "semata",
+    "name": "Semata",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "linsayung",
+    "name": "Linsayung",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "salan",
+    "name": "Salan",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sungoi",
+    "name": "Sungoi",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sinampala-i",
+    "name": "Sinampala I",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "samunti",
+    "name": "Samunti",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sinampala-ii",
+    "name": "Sinampala Ii",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "limpakon",
+    "name": "Limpakon",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "labuk",
+    "name": "Labuk",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sumentobol",
+    "name": "Sumentobol",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sanal",
+    "name": "Sanal",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tumatalas",
+    "name": "Tumatalas",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "nantukidan",
+    "name": "Nantukidan",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "labang",
+    "name": "Labang",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sumantipal",
+    "name": "Sumantipal",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "ngawol",
+    "name": "Ngawol",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "bulu-laun-hilir",
+    "name": "Bulu Laun Hilir",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "lagas",
+    "name": "Lagas",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tantalujuk",
+    "name": "Tantalujuk",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "panas",
+    "name": "Panas",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "kuyo",
+    "name": "Kuyo",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "bokok",
+    "name": "Bokok",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tambalang-hulu",
+    "name": "Tambalang Hulu",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "langgason",
+    "name": "Langgason",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "sibalu",
+    "name": "Sibalu",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "mamasin",
+    "name": "Mamasin",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "duyan",
+    "name": "Duyan",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tau-lumbis",
+    "name": "Tau Lumbis",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "kabungalor",
+    "name": "Kabungalor",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tetagas",
+    "name": "Tetagas",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "bulu-laun-hulu",
+    "name": "Bulu Laun Hulu",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "tantu-libing",
+    "name": "Tantu Libing",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "kalisun",
+    "name": "Kalisun",
+    "district": "lumbis-ogong"
+  },
+  {
+    "id": "lepaga",
+    "name": "Lepaga",
+    "district": "lumbis-ogong"
+  }
+]

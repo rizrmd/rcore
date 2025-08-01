@@ -1,0 +1,72 @@
+[
+  {
+    "id": "bojongmanggu",
+    "name": "Bojongmanggu",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "langonsari",
+    "name": "Langonsari",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "rancamulya",
+    "name": "Rancamulya",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "rancatungku",
+    "name": "Rancatungku",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "bojongkunci",
+    "name": "Bojongkunci",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "mancagahar",
+    "name": "Mancagahar",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "pameungpeuk",
+    "name": "Pameungpeuk",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "mandalakasih",
+    "name": "Mandalakasih",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "sirnabakti",
+    "name": "Sirnabakti",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "paas",
+    "name": "Paas",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "jatimulya",
+    "name": "Jatimulya",
+    "district": "pameungpeuk"
+  },
+  {
+    "id": "bojongkidul",
+    "name": "Bojongkidul",
+    "district": "pameungpeuk"
+  }
+]

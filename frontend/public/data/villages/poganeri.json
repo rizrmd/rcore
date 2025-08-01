@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gagulineri",
+    "name": "Gagulineri",
+    "district": "poganeri"
+  },
+  {
+    "id": "telekonok",
+    "name": "Telekonok",
+    "district": "poganeri"
+  },
+  {
+    "id": "kuoklanggunik",
+    "name": "Kuoklanggunik",
+    "district": "poganeri"
+  },
+  {
+    "id": "bogokila",
+    "name": "Bogokila",
+    "district": "poganeri"
+  },
+  {
+    "id": "mabuk",
+    "name": "Mabuk",
+    "district": "poganeri"
+  },
+  {
+    "id": "nugari",
+    "name": "Nugari",
+    "district": "poganeri"
+  },
+  {
+    "id": "genage",
+    "name": "Genage",
+    "district": "poganeri"
+  },
+  {
+    "id": "gindugunik",
+    "name": "Gindugunik",
+    "district": "poganeri"
+  },
+  {
+    "id": "tigir",
+    "name": "Tigir",
+    "district": "poganeri"
+  },
+  {
+    "id": "konengga",
+    "name": "Konengga",
+    "district": "poganeri"
+  }
+]

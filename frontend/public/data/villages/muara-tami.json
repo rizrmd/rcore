@@ -1,0 +1,42 @@
+[
+  {
+    "id": "koya-barat",
+    "name": "Koya Barat",
+    "district": "muara-tami"
+  },
+  {
+    "id": "holtekam",
+    "name": "Holtekam",
+    "district": "muara-tami"
+  },
+  {
+    "id": "skow-yambe",
+    "name": "Skow Yambe",
+    "district": "muara-tami"
+  },
+  {
+    "id": "koya-timur",
+    "name": "Koya Timur",
+    "district": "muara-tami"
+  },
+  {
+    "id": "skow-mabo",
+    "name": "Skow Mabo",
+    "district": "muara-tami"
+  },
+  {
+    "id": "skow-sae",
+    "name": "Skow Sae",
+    "district": "muara-tami"
+  },
+  {
+    "id": "koya-tengah",
+    "name": "Koya Tengah",
+    "district": "muara-tami"
+  },
+  {
+    "id": "kampung-mosso",
+    "name": "Kampung Mosso",
+    "district": "muara-tami"
+  }
+]

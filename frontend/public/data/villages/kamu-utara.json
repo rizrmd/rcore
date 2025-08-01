@@ -1,0 +1,47 @@
+[
+  {
+    "id": "idakebo",
+    "name": "Idakebo",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "pugatadi-ii",
+    "name": "Pugatadi Ii",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "pugatadi-i",
+    "name": "Pugatadi I",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "ikrar",
+    "name": "Ikrar",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "obayo",
+    "name": "Obayo",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "kuyakago",
+    "name": "Kuyakago",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "yametadi",
+    "name": "Yametadi",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "mogou",
+    "name": "Mogou",
+    "district": "kamu-utara"
+  },
+  {
+    "id": "ekimani",
+    "name": "Ekimani",
+    "district": "kamu-utara"
+  }
+]

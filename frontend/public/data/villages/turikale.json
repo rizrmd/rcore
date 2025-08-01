@@ -1,0 +1,37 @@
+[
+  {
+    "id": "taroada",
+    "name": "Taroada",
+    "district": "turikale"
+  },
+  {
+    "id": "adatongeng",
+    "name": "Adatongeng",
+    "district": "turikale"
+  },
+  {
+    "id": "pettuadae",
+    "name": "Pettuadae",
+    "district": "turikale"
+  },
+  {
+    "id": "bori-bellaya",
+    "name": "Bori Bellaya",
+    "district": "turikale"
+  },
+  {
+    "id": "r-a-y-a",
+    "name": "R A Y A",
+    "district": "turikale"
+  },
+  {
+    "id": "turikale",
+    "name": "Turikale",
+    "district": "turikale"
+  },
+  {
+    "id": "alliritengae",
+    "name": "Alliritengae",
+    "district": "turikale"
+  }
+]

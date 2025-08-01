@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wee-londa",
+    "name": "Wee Londa",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "langga-lero",
+    "name": "Langga Lero",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "wee-tobula",
+    "name": "Wee Tobula",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "kalena-wano",
+    "name": "Kalena Wano",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "radamata",
+    "name": "Radamata",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "wee-pangali",
+    "name": "Wee Pangali",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "kalembu-kaha",
+    "name": "Kalembu Kaha",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "wee-renna",
+    "name": "Wee Renna",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "watu-kawula",
+    "name": "Watu Kawula",
+    "district": "kota-tambolaka"
+  },
+  {
+    "id": "kadi-pada",
+    "name": "Kadi Pada",
+    "district": "kota-tambolaka"
+  }
+]

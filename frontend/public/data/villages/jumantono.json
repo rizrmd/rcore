@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sedayu",
+    "name": "Sedayu",
+    "district": "jumantono"
+  },
+  {
+    "id": "kebak",
+    "name": "Kebak",
+    "district": "jumantono"
+  },
+  {
+    "id": "gemantar",
+    "name": "Gemantar",
+    "district": "jumantono"
+  },
+  {
+    "id": "tunggulrejo",
+    "name": "Tunggulrejo",
+    "district": "jumantono"
+  },
+  {
+    "id": "genengan",
+    "name": "Genengan",
+    "district": "jumantono"
+  },
+  {
+    "id": "sukosari",
+    "name": "Sukosari",
+    "district": "jumantono"
+  },
+  {
+    "id": "sambirejo",
+    "name": "Sambirejo",
+    "district": "jumantono"
+  },
+  {
+    "id": "blorong",
+    "name": "Blorong",
+    "district": "jumantono"
+  },
+  {
+    "id": "sringin",
+    "name": "Sringin",
+    "district": "jumantono"
+  }
+]

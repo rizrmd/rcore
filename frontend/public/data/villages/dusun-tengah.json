@@ -1,0 +1,42 @@
+[
+  {
+    "id": "saing",
+    "name": "Saing",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "rodok",
+    "name": "Rodok",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "ampah-dua",
+    "name": "Ampah Dua",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "putai",
+    "name": "Putai",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "ampah-kota",
+    "name": "Ampah Kota",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "netampin",
+    "name": "Netampin",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "sumber-garunggung",
+    "name": "Sumber Garunggung",
+    "district": "dusun-tengah"
+  },
+  {
+    "id": "muara-awang",
+    "name": "Muara Awang",
+    "district": "dusun-tengah"
+  }
+]

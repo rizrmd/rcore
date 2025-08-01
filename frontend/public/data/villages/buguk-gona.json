@@ -1,0 +1,42 @@
+[
+  {
+    "id": "karunggame",
+    "name": "Karunggame",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "kelonome",
+    "name": "Kelonome",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "kulogonggame",
+    "name": "Kulogonggame",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "dua-lanny",
+    "name": "Dua Lanny",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "genena",
+    "name": "Genena",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "timolome",
+    "name": "Timolome",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "kabiga",
+    "name": "Kabiga",
+    "district": "buguk-gona"
+  },
+  {
+    "id": "dangguni",
+    "name": "Dangguni",
+    "district": "buguk-gona"
+  }
+]

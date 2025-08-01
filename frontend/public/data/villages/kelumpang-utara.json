@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sungai-hanyar",
+    "name": "Sungai Hanyar",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "pudi",
+    "name": "Pudi",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "sungai-seluang",
+    "name": "Sungai Seluang",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "mangga",
+    "name": "Mangga",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "pudi-seberang",
+    "name": "Pudi Seberang",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "sulangkit",
+    "name": "Sulangkit",
+    "district": "kelumpang-utara"
+  },
+  {
+    "id": "wilas",
+    "name": "Wilas",
+    "district": "kelumpang-utara"
+  }
+]

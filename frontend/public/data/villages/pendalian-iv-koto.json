@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pendalian",
+    "name": "Pendalian",
+    "district": "pendalian-iv-koto"
+  },
+  {
+    "id": "bengkolan-salak",
+    "name": "Bengkolan Salak",
+    "district": "pendalian-iv-koto"
+  },
+  {
+    "id": "suligi",
+    "name": "Suligi",
+    "district": "pendalian-iv-koto"
+  },
+  {
+    "id": "air-panas",
+    "name": "Air Panas",
+    "district": "pendalian-iv-koto"
+  },
+  {
+    "id": "sungai-kandis",
+    "name": "Sungai Kandis",
+    "district": "pendalian-iv-koto"
+  }
+]

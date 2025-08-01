@@ -1,0 +1,52 @@
+[
+  {
+    "id": "krasak",
+    "name": "Krasak",
+    "district": "pecangaan"
+  },
+  {
+    "id": "karangrandu",
+    "name": "Karangrandu",
+    "district": "pecangaan"
+  },
+  {
+    "id": "kaliombo",
+    "name": "Kaliombo",
+    "district": "pecangaan"
+  },
+  {
+    "id": "ngeling",
+    "name": "Ngeling",
+    "district": "pecangaan"
+  },
+  {
+    "id": "troso",
+    "name": "Troso",
+    "district": "pecangaan"
+  },
+  {
+    "id": "pecangaan-kulon",
+    "name": "Pecangaan Kulon",
+    "district": "pecangaan"
+  },
+  {
+    "id": "pecangaan-wetan",
+    "name": "Pecangaan Wetan",
+    "district": "pecangaan"
+  },
+  {
+    "id": "lebuawu",
+    "name": "Lebuawu",
+    "district": "pecangaan"
+  },
+  {
+    "id": "pulodarat",
+    "name": "Pulodarat",
+    "district": "pecangaan"
+  },
+  {
+    "id": "rengging",
+    "name": "Rengging",
+    "district": "pecangaan"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pantai-sagu",
+    "name": "Pantai Sagu",
+    "district": "pulau-batang-dua"
+  },
+  {
+    "id": "tifure",
+    "name": "Tifure",
+    "district": "pulau-batang-dua"
+  },
+  {
+    "id": "lelewi",
+    "name": "Lelewi",
+    "district": "pulau-batang-dua"
+  },
+  {
+    "id": "mayau",
+    "name": "Mayau",
+    "district": "pulau-batang-dua"
+  },
+  {
+    "id": "bido",
+    "name": "Bido",
+    "district": "pulau-batang-dua"
+  },
+  {
+    "id": "perum-bersatu",
+    "name": "Perum Bersatu",
+    "district": "pulau-batang-dua"
+  }
+]

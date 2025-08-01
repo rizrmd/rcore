@@ -1,0 +1,57 @@
+[
+  {
+    "id": "padang-manis",
+    "name": "Padang Manis",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "gunung-agung",
+    "name": "Gunung Agung",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "bandu-agung",
+    "name": "Bandu Agung",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "simpang-tiga",
+    "name": "Simpang Tiga",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "guru-agung-i",
+    "name": "Guru Agung I",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "tanjung-betung-i",
+    "name": "Tanjung Betung I",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "pancur-negara",
+    "name": "Pancur Negara",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "perugaian",
+    "name": "Perugaian",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "coko-enau",
+    "name": "Coko Enau",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "tanjung-betung-ii",
+    "name": "Tanjung Betung Ii",
+    "district": "kaur-utara"
+  },
+  {
+    "id": "guru-agung-ii",
+    "name": "Guru Agung Ii",
+    "district": "kaur-utara"
+  }
+]

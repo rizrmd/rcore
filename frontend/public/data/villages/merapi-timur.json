@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sirah-pulau",
+    "name": "Sirah Pulau",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "prabu-menang",
+    "name": "Prabu Menang",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "gunung-kembang",
+    "name": "Gunung Kembang",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "arahan",
+    "name": "Arahan",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "banjar-sari",
+    "name": "Banjar Sari",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "tanjung-jambu",
+    "name": "Tanjung Jambu",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "muara-lawai",
+    "name": "Muara Lawai",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "lebuay-bandung",
+    "name": "Lebuay Bandung",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "nanjungan",
+    "name": "Nanjungan",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "gedung-agung",
+    "name": "Gedung Agung",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "tanjung-lontar",
+    "name": "Tanjung Lontar",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "sengkuang",
+    "name": "Sengkuang",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "cempaka-wangi",
+    "name": "Cempaka Wangi",
+    "district": "merapi-timur"
+  },
+  {
+    "id": "lematang-jaya",
+    "name": "Lematang Jaya",
+    "district": "merapi-timur"
+  }
+]

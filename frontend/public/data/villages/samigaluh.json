@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kebon-harjo",
+    "name": "Kebon Harjo",
+    "district": "samigaluh"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "samigaluh"
+  },
+  {
+    "id": "purwoharjo",
+    "name": "Purwoharjo",
+    "district": "samigaluh"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "samigaluh"
+  },
+  {
+    "id": "gerbosari",
+    "name": "Gerbosari",
+    "district": "samigaluh"
+  },
+  {
+    "id": "ngargosari",
+    "name": "Ngargosari",
+    "district": "samigaluh"
+  },
+  {
+    "id": "pagerharjo",
+    "name": "Pagerharjo",
+    "district": "samigaluh"
+  }
+]

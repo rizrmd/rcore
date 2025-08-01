@@ -1,0 +1,32 @@
+[
+  {
+    "id": "baruta-lestari",
+    "name": "Baruta Lestari",
+    "district": "sangia-wambulu"
+  },
+  {
+    "id": "tolandona-matanaeo",
+    "name": "Tolandona Matanaeo",
+    "district": "sangia-wambulu"
+  },
+  {
+    "id": "doda-bahari",
+    "name": "Doda Bahari",
+    "district": "sangia-wambulu"
+  },
+  {
+    "id": "baruta-analaki",
+    "name": "Baruta Analaki",
+    "district": "sangia-wambulu"
+  },
+  {
+    "id": "baruta",
+    "name": "Baruta",
+    "district": "sangia-wambulu"
+  },
+  {
+    "id": "tolandona",
+    "name": "Tolandona",
+    "district": "sangia-wambulu"
+  }
+]

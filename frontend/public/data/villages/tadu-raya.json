@@ -1,0 +1,112 @@
+[
+  {
+    "id": "alue-bata",
+    "name": "Alue Bata",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "gunong-sapek",
+    "name": "Gunong Sapek",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "sarah-mantok",
+    "name": "Sarah Mantok",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "pasi-luah",
+    "name": "Pasi Luah",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "gunong-geulugo",
+    "name": "Gunong Geulugo",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "gunong-kupok",
+    "name": "Gunong Kupok",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "gunong-pungkie",
+    "name": "Gunong Pungkie",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "alue-siron",
+    "name": "Alue Siron",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "cot-mu",
+    "name": "Cot Mu",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "babah-rot",
+    "name": "Babah Rot",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "babah-dua",
+    "name": "Babah Dua",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "batu-raja",
+    "name": "Batu Raja",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "simpang-jaya",
+    "name": "Simpang Jaya",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "sumber-daya",
+    "name": "Sumber Daya",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "rantau-selamat",
+    "name": "Rantau Selamat",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "alue-sepeng",
+    "name": "Alue Sepeng",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "krueng-itam",
+    "name": "Krueng Itam",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "alue-gajah",
+    "name": "Alue Gajah",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "alue-labu",
+    "name": "Alue Labu",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "gapa-garu",
+    "name": "Gapa Garu",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "kuala-tadu",
+    "name": "Kuala Tadu",
+    "district": "tadu-raya"
+  },
+  {
+    "id": "cot-me",
+    "name": "Cot Me",
+    "district": "tadu-raya"
+  }
+]

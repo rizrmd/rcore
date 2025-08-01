@@ -1,0 +1,77 @@
+[
+  {
+    "id": "ngarak",
+    "name": "Ngarak",
+    "district": "mandor"
+  },
+  {
+    "id": "kayu-tanam",
+    "name": "Kayu Tanam",
+    "district": "mandor"
+  },
+  {
+    "id": "sala-tiga",
+    "name": "Sala Tiga",
+    "district": "mandor"
+  },
+  {
+    "id": "simpang-kasturi",
+    "name": "Simpang Kasturi",
+    "district": "mandor"
+  },
+  {
+    "id": "mandor",
+    "name": "Mandor",
+    "district": "mandor"
+  },
+  {
+    "id": "pongok",
+    "name": "Pongok",
+    "district": "mandor"
+  },
+  {
+    "id": "kayu-ara",
+    "name": "Kayu Ara",
+    "district": "mandor"
+  },
+  {
+    "id": "kerohok",
+    "name": "Kerohok",
+    "district": "mandor"
+  },
+  {
+    "id": "bebatung",
+    "name": "Bebatung",
+    "district": "mandor"
+  },
+  {
+    "id": "manggang",
+    "name": "Manggang",
+    "district": "mandor"
+  },
+  {
+    "id": "sekilap",
+    "name": "Sekilap",
+    "district": "mandor"
+  },
+  {
+    "id": "keramas",
+    "name": "Keramas",
+    "district": "mandor"
+  },
+  {
+    "id": "sebadu",
+    "name": "Sebadu",
+    "district": "mandor"
+  },
+  {
+    "id": "semenok",
+    "name": "Semenok",
+    "district": "mandor"
+  },
+  {
+    "id": "mengkunyit",
+    "name": "Mengkunyit",
+    "district": "mandor"
+  }
+]

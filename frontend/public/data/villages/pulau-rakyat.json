@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bangun",
+    "name": "Bangun",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "persatuan",
+    "name": "Persatuan",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "perkebunan-tunggul-45",
+    "name": "Perkebunan Tunggul 45",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "orika",
+    "name": "Orika",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "manis",
+    "name": "Manis",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "pulau-rakyat-pekan",
+    "name": "Pulau Rakyat Pekan",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "pulau-rakyat-tua",
+    "name": "Pulau Rakyat Tua",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "sei-piring",
+    "name": "Sei Piring",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "ofapadang-mahondang",
+    "name": "Ofa/Padang Mahondang",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "padang-mahondang",
+    "name": "Padang Mahondang",
+    "district": "pulau-rakyat"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "pulau-rakyat"
+  }
+]

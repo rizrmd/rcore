@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yamben-beneraf",
+    "name": "Yamben / Beneraf",
+    "district": "pantai-timur"
+  },
+  {
+    "id": "betaf",
+    "name": "Betaf",
+    "district": "pantai-timur"
+  },
+  {
+    "id": "sunum-yamna",
+    "name": "Sunum / Yamna",
+    "district": "pantai-timur"
+  },
+  {
+    "id": "betaf-ii-tamnir",
+    "name": "Betaf Ii / Tamnir",
+    "district": "pantai-timur"
+  },
+  {
+    "id": "berenaf-ii-simapde",
+    "name": "Berenaf Ii / Simapde",
+    "district": "pantai-timur"
+  },
+  {
+    "id": "betaf-iii",
+    "name": "Betaf Iii",
+    "district": "pantai-timur"
+  }
+]

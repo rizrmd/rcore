@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kembangan",
+    "name": "Kembangan",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "kebon-jeruk",
+    "name": "Kebon Jeruk",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "palmerah",
+    "name": "Palmerah",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "grogol-petamburan",
+    "name": "Grogol Petamburan",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "tambora",
+    "name": "Tambora",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "cengkareng",
+    "name": "Cengkareng",
+    "regency": "kota-jakarta-barat"
+  },
+  {
+    "id": "kali-deres",
+    "name": "Kali Deres",
+    "regency": "kota-jakarta-barat"
+  }
+]

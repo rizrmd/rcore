@@ -1,0 +1,47 @@
+[
+  {
+    "id": "barambang",
+    "name": "Barambang",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "sosor-gadong",
+    "name": "Sosor Gadong",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "siantar-ca",
+    "name": "Siantar Ca",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "muara-bolak",
+    "name": "Muara Bolak",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "siantar-dolok",
+    "name": "Siantar Dolok",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "baringin",
+    "name": "Baringin",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "huta-tombak",
+    "name": "Huta Tombak",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "sibintang",
+    "name": "Sibintang",
+    "district": "sosor-gadong"
+  },
+  {
+    "id": "unte-boang",
+    "name": "Unte Boang",
+    "district": "sosor-gadong"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "tanjung-pulo",
+    "name": "Tanjung Pulo",
+    "district": "tiganderket"
+  },
+  {
+    "id": "tanjung-mbelang",
+    "name": "Tanjung Mbelang",
+    "district": "tiganderket"
+  },
+  {
+    "id": "nari-gunung-dua",
+    "name": "Nari Gunung Dua",
+    "district": "tiganderket"
+  },
+  {
+    "id": "jandi-meriah",
+    "name": "Jandi Meriah",
+    "district": "tiganderket"
+  },
+  {
+    "id": "suka-tendel",
+    "name": "Suka Tendel",
+    "district": "tiganderket"
+  },
+  {
+    "id": "tanjung-merawa",
+    "name": "Tanjung Merawa",
+    "district": "tiganderket"
+  },
+  {
+    "id": "tiganderket",
+    "name": "Tiganderket",
+    "district": "tiganderket"
+  },
+  {
+    "id": "perbaji",
+    "name": "Perbaji",
+    "district": "tiganderket"
+  },
+  {
+    "id": "temburun",
+    "name": "Temburun",
+    "district": "tiganderket"
+  },
+  {
+    "id": "mardingding",
+    "name": "Mardingding",
+    "district": "tiganderket"
+  },
+  {
+    "id": "kuta-mbaru",
+    "name": "Kuta Mbaru",
+    "district": "tiganderket"
+  },
+  {
+    "id": "susuk",
+    "name": "Susuk",
+    "district": "tiganderket"
+  },
+  {
+    "id": "gunung-merlawan",
+    "name": "Gunung Merlawan",
+    "district": "tiganderket"
+  },
+  {
+    "id": "nari-gunung-satu",
+    "name": "Nari Gunung Satu",
+    "district": "tiganderket"
+  },
+  {
+    "id": "kuta-galuh",
+    "name": "Kuta Galuh",
+    "district": "tiganderket"
+  },
+  {
+    "id": "penampen",
+    "name": "Penampen",
+    "district": "tiganderket"
+  },
+  {
+    "id": "kuta-kepar",
+    "name": "Kuta Kepar",
+    "district": "tiganderket"
+  }
+]

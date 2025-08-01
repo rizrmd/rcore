@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gunungmanik",
+    "name": "Gunungmanik",
+    "district": "ciniru"
+  },
+  {
+    "id": "pinara",
+    "name": "Pinara",
+    "district": "ciniru"
+  },
+  {
+    "id": "cipedes",
+    "name": "Cipedes",
+    "district": "ciniru"
+  },
+  {
+    "id": "pamupukan",
+    "name": "Pamupukan",
+    "district": "ciniru"
+  },
+  {
+    "id": "cijemit",
+    "name": "Cijemit",
+    "district": "ciniru"
+  },
+  {
+    "id": "ciniru",
+    "name": "Ciniru",
+    "district": "ciniru"
+  },
+  {
+    "id": "rambatan",
+    "name": "Rambatan",
+    "district": "ciniru"
+  },
+  {
+    "id": "longkewang",
+    "name": "Longkewang",
+    "district": "ciniru"
+  },
+  {
+    "id": "mungkaldatar",
+    "name": "Mungkaldatar",
+    "district": "ciniru"
+  }
+]

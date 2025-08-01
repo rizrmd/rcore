@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sendangrejo",
+    "name": "Sendangrejo",
+    "district": "ngaringan"
+  },
+  {
+    "id": "sarirejo",
+    "name": "Sarirejo",
+    "district": "ngaringan"
+  },
+  {
+    "id": "kalangdosari",
+    "name": "Kalangdosari",
+    "district": "ngaringan"
+  },
+  {
+    "id": "kalanglundo",
+    "name": "Kalanglundo",
+    "district": "ngaringan"
+  },
+  {
+    "id": "truwolu",
+    "name": "Truwolu",
+    "district": "ngaringan"
+  },
+  {
+    "id": "bandungsari",
+    "name": "Bandungsari",
+    "district": "ngaringan"
+  },
+  {
+    "id": "ngaringan",
+    "name": "Ngaringan",
+    "district": "ngaringan"
+  },
+  {
+    "id": "ngaraparap",
+    "name": "Ngaraparap",
+    "district": "ngaringan"
+  },
+  {
+    "id": "belor",
+    "name": "Belor",
+    "district": "ngaringan"
+  },
+  {
+    "id": "tanjungharjo",
+    "name": "Tanjungharjo",
+    "district": "ngaringan"
+  },
+  {
+    "id": "sumberagung",
+    "name": "Sumberagung",
+    "district": "ngaringan"
+  }
+]

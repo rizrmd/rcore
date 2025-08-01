@@ -1,0 +1,67 @@
+[
+  {
+    "id": "sei-meranti-darussalam",
+    "name": "Sei Meranti Darussalam",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "akar-belingkar",
+    "name": "Akar Belingkar",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "sei-meranti",
+    "name": "Sei Meranti",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "sei-tapah",
+    "name": "Sei Tapah",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "tanjung-medan",
+    "name": "Tanjung Medan",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "tangga-batu",
+    "name": "Tangga Batu",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "tanjung-medan-barat",
+    "name": "Tanjung Medan Barat",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "tanjung-sari",
+    "name": "Tanjung Sari",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "pondok-kresek",
+    "name": "Pondok Kresek",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "perkebunan-tanjung-medan",
+    "name": "Perkebunan Tanjung Medan",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "sri-kayangan",
+    "name": "Sri Kayangan",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "tanjung-medan-utara",
+    "name": "Tanjung Medan Utara",
+    "district": "tanjung-medan"
+  },
+  {
+    "id": "bagan-nenas",
+    "name": "Bagan Nenas",
+    "district": "tanjung-medan"
+  }
+]

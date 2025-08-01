@@ -1,0 +1,26 @@
+{
+  "name": "rcore-template",
+  "version": "0.0.1",
+  "scripts": {
+    "typecheck": "bun run scripts/typecheck.ts",
+    "dev": "bun run scripts/dev.ts",
+    "prod": "bun run scripts/prod.ts",
+    "db": "bun run --silent node_modules/rlib/server/db/cli.ts",
+    "ui": "cd frontend && bunx --bun shadcn@latest",
+    "link-rlib": "rm -rf node_modules/rlib && ln -s ../rlib node_modules/rlib",
+    "fly": "bun run scripts/fly-deploy.ts"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "jsonc-parser": "^3.3.1",
+    "rlib": "https://github.com/rizrmd/rlib.git"
+  },
+  "workspaces": [
+    "frontend",
+    "backend",
+    "shared"
+  ],
+  "devDependencies": {
+    "@types/oracledb": "^6.6.1"
+  }
+}

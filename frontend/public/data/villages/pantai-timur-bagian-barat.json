@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dabe",
+    "name": "Dabe",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "vinyabor",
+    "name": "Vinyabor",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "dabe-ii",
+    "name": "Dabe Ii",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "fito",
+    "name": "Fito",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "nengke-ii-nengke-baru",
+    "name": "Nengke Ii / Nengke Baru",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "artibe",
+    "name": "Artibe",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "burtin-assyaf",
+    "name": "Burtin / Assyaf",
+    "district": "pantai-timur-bagian-barat"
+  },
+  {
+    "id": "takar-iii-kwentor",
+    "name": "Takar Iii / Kwentor",
+    "district": "pantai-timur-bagian-barat"
+  }
+]

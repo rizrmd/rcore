@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sei-lais",
+    "name": "Sei Lais",
+    "district": "kalidoni"
+  },
+  {
+    "id": "sei-selincah",
+    "name": "Sei Selincah",
+    "district": "kalidoni"
+  },
+  {
+    "id": "sei-selayur",
+    "name": "Sei Selayur",
+    "district": "kalidoni"
+  },
+  {
+    "id": "kalidoni",
+    "name": "Kalidoni",
+    "district": "kalidoni"
+  },
+  {
+    "id": "bukit-sangkal",
+    "name": "Bukit Sangkal",
+    "district": "kalidoni"
+  }
+]

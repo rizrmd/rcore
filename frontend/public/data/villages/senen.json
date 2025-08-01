@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kenari",
+    "name": "Kenari",
+    "district": "senen"
+  },
+  {
+    "id": "paseban",
+    "name": "Paseban",
+    "district": "senen"
+  },
+  {
+    "id": "kramat",
+    "name": "Kramat",
+    "district": "senen"
+  },
+  {
+    "id": "kwitang",
+    "name": "Kwitang",
+    "district": "senen"
+  }
+]

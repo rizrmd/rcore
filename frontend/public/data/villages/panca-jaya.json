@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mukti-karya",
+    "name": "Mukti Karya",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "adi-luhur",
+    "name": "Adi Luhur",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "fajar-baru",
+    "name": "Fajar Baru",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "adi-mulyo",
+    "name": "Adi Mulyo",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "fajar-asri",
+    "name": "Fajar Asri",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "fajar-indah",
+    "name": "Fajar Indah",
+    "district": "panca-jaya"
+  },
+  {
+    "id": "adi-karya-mulya",
+    "name": "Adi Karya Mulya",
+    "district": "panca-jaya"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "tolbuk",
+    "name": "Tolbuk",
+    "district": "klampis"
+  },
+  {
+    "id": "raas",
+    "name": "Ra'As",
+    "district": "klampis"
+  },
+  {
+    "id": "muarah",
+    "name": "Muarah",
+    "district": "klampis"
+  },
+  {
+    "id": "polongan",
+    "name": "Polongan",
+    "district": "klampis"
+  },
+  {
+    "id": "karang-asem",
+    "name": "Karang Asem",
+    "district": "klampis"
+  },
+  {
+    "id": "bantean",
+    "name": "Bantean",
+    "district": "klampis"
+  },
+  {
+    "id": "bragang",
+    "name": "Bragang",
+    "district": "klampis"
+  },
+  {
+    "id": "lergunong",
+    "name": "Lergunong",
+    "district": "klampis"
+  },
+  {
+    "id": "panyaksagan",
+    "name": "Panyaksagan",
+    "district": "klampis"
+  },
+  {
+    "id": "larangan-glintong",
+    "name": "Larangan Glintong",
+    "district": "klampis"
+  },
+  {
+    "id": "manonggal",
+    "name": "Manonggal",
+    "district": "klampis"
+  },
+  {
+    "id": "larangan-sorjan",
+    "name": "Larangan Sorjan",
+    "district": "klampis"
+  },
+  {
+    "id": "tenggun-daya",
+    "name": "Tenggun Daya",
+    "district": "klampis"
+  },
+  {
+    "id": "trogan",
+    "name": "Trogan",
+    "district": "klampis"
+  },
+  {
+    "id": "kool",
+    "name": "Ko'Ol",
+    "district": "klampis"
+  },
+  {
+    "id": "tobaddung",
+    "name": "Tobaddung",
+    "district": "klampis"
+  },
+  {
+    "id": "mrandung",
+    "name": "Mrandung",
+    "district": "klampis"
+  },
+  {
+    "id": "buluk-agung",
+    "name": "Buluk Agung",
+    "district": "klampis"
+  },
+  {
+    "id": "bator",
+    "name": "Bator",
+    "district": "klampis"
+  },
+  {
+    "id": "klampis-barat",
+    "name": "Klampis Barat",
+    "district": "klampis"
+  },
+  {
+    "id": "klampis-timur",
+    "name": "Klampis Timur",
+    "district": "klampis"
+  }
+]

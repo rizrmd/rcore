@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pontianak-selatan",
+    "name": "Pontianak Selatan",
+    "regency": "kota-pontianak"
+  },
+  {
+    "id": "pontianak-tenggara",
+    "name": "Pontianak Tenggara",
+    "regency": "kota-pontianak"
+  },
+  {
+    "id": "pontianak-timur",
+    "name": "Pontianak Timur",
+    "regency": "kota-pontianak"
+  },
+  {
+    "id": "pontianak-barat",
+    "name": "Pontianak Barat",
+    "regency": "kota-pontianak"
+  },
+  {
+    "id": "pontianak-kota",
+    "name": "Pontianak Kota",
+    "regency": "kota-pontianak"
+  },
+  {
+    "id": "pontianak-utara",
+    "name": "Pontianak Utara",
+    "regency": "kota-pontianak"
+  }
+]

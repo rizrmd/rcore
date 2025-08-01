@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tepi-selo",
+    "name": "Tepi Selo",
+    "district": "lintau-buo-utara"
+  },
+  {
+    "id": "lubuak-jantan",
+    "name": "Lubuak Jantan",
+    "district": "lintau-buo-utara"
+  },
+  {
+    "id": "balai-tangah",
+    "name": "Balai Tangah",
+    "district": "lintau-buo-utara"
+  },
+  {
+    "id": "batu-bulek",
+    "name": "Batu Bulek",
+    "district": "lintau-buo-utara"
+  },
+  {
+    "id": "tanjuang-bonai",
+    "name": "Tanjuang Bonai",
+    "district": "lintau-buo-utara"
+  }
+]

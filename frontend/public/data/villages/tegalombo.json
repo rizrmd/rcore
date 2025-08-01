@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "tegalombo"
+  },
+  {
+    "id": "gedangan",
+    "name": "Gedangan",
+    "district": "tegalombo"
+  },
+  {
+    "id": "ngreco",
+    "name": "Ngreco",
+    "district": "tegalombo"
+  },
+  {
+    "id": "kasihan",
+    "name": "Kasihan",
+    "district": "tegalombo"
+  },
+  {
+    "id": "pucangombo",
+    "name": "Pucangombo",
+    "district": "tegalombo"
+  },
+  {
+    "id": "gemaharjo",
+    "name": "Gemaharjo",
+    "district": "tegalombo"
+  },
+  {
+    "id": "ploso",
+    "name": "Ploso",
+    "district": "tegalombo"
+  },
+  {
+    "id": "tegalombo",
+    "name": "Tegalombo",
+    "district": "tegalombo"
+  },
+  {
+    "id": "kemuning",
+    "name": "Kemuning",
+    "district": "tegalombo"
+  },
+  {
+    "id": "tahunan",
+    "name": "Tahunan",
+    "district": "tegalombo"
+  },
+  {
+    "id": "tahunan-baru",
+    "name": "Tahunan Baru",
+    "district": "tegalombo"
+  }
+]

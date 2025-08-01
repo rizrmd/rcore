@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fiditan",
+    "name": "Fiditan",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "ngadi",
+    "name": "Ngadi",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "labetawi",
+    "name": "Labetawi",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "tamedan",
+    "name": "Tamedan",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "ohoitahit",
+    "name": "Ohoitahit",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "ohoitel",
+    "name": "Ohoitel",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "dullah-darat",
+    "name": "Dullah Darat",
+    "district": "pulau-dullah-utara"
+  },
+  {
+    "id": "dullah-laut",
+    "name": "Dullah Laut",
+    "district": "pulau-dullah-utara"
+  }
+]

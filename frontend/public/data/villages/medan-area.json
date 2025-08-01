@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pasar-merah-timur",
+    "name": "Pasar Merah Timur",
+    "district": "medan-area"
+  },
+  {
+    "id": "tegal-sari-ii",
+    "name": "Tegal Sari Ii",
+    "district": "medan-area"
+  },
+  {
+    "id": "tegal-sari-iii",
+    "name": "Tegal Sari Iii",
+    "district": "medan-area"
+  },
+  {
+    "id": "tegal-sari-i",
+    "name": "Tegal Sari I",
+    "district": "medan-area"
+  },
+  {
+    "id": "sukaramai-i",
+    "name": "Sukaramai I",
+    "district": "medan-area"
+  },
+  {
+    "id": "kota-matsum-ii",
+    "name": "Kota Matsum Ii",
+    "district": "medan-area"
+  },
+  {
+    "id": "kota-matsum-iv",
+    "name": "Kota Matsum Iv",
+    "district": "medan-area"
+  },
+  {
+    "id": "kota-matsum-i",
+    "name": "Kota Matsum I",
+    "district": "medan-area"
+  },
+  {
+    "id": "sei-rengas-permata",
+    "name": "Sei Rengas Permata",
+    "district": "medan-area"
+  },
+  {
+    "id": "sukaramai-ii",
+    "name": "Sukaramai Ii",
+    "district": "medan-area"
+  },
+  {
+    "id": "sei-rengas-ii",
+    "name": "Sei Rengas Ii",
+    "district": "medan-area"
+  },
+  {
+    "id": "pandau-hulu-ii",
+    "name": "Pandau Hulu Ii",
+    "district": "medan-area"
+  }
+]

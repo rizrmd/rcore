@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rambang-senuling",
+    "name": "Rambang Senuling",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "tanjung-rambang",
+    "name": "Tanjung Rambang",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "karang-bindu",
+    "name": "Karang Bindu",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "karya-mulya",
+    "name": "Karya Mulya",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "sinar-rambang",
+    "name": "Sinar Rambang",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "jungai",
+    "name": "Jungai",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "talang-batu",
+    "name": "Talang Batu",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "karangan",
+    "name": "Karangan",
+    "district": "rambang-kapak-tengah"
+  },
+  {
+    "id": "kemang-tanduk",
+    "name": "Kemang Tanduk",
+    "district": "rambang-kapak-tengah"
+  }
+]

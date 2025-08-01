@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cimaja",
+    "name": "Cimaja",
+    "district": "cikakak"
+  },
+  {
+    "id": "cikakak",
+    "name": "Cikakak",
+    "district": "cikakak"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cikakak"
+  },
+  {
+    "id": "cileungsing",
+    "name": "Cileungsing",
+    "district": "cikakak"
+  },
+  {
+    "id": "ridogalih",
+    "name": "Ridogalih",
+    "district": "cikakak"
+  },
+  {
+    "id": "margalaksana",
+    "name": "Margalaksana",
+    "district": "cikakak"
+  },
+  {
+    "id": "sirnarasa",
+    "name": "Sirnarasa",
+    "district": "cikakak"
+  },
+  {
+    "id": "gandasoli",
+    "name": "Gandasoli",
+    "district": "cikakak"
+  },
+  {
+    "id": "cirendang",
+    "name": "Cirendang",
+    "district": "cikakak"
+  }
+]

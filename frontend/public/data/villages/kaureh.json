@@ -1,0 +1,22 @@
+[
+  {
+    "id": "soskotek",
+    "name": "Soskotek",
+    "district": "kaureh"
+  },
+  {
+    "id": "lapua",
+    "name": "Lapua",
+    "district": "kaureh"
+  },
+  {
+    "id": "umbron",
+    "name": "Umbron",
+    "district": "kaureh"
+  },
+  {
+    "id": "yadauw",
+    "name": "Yadauw",
+    "district": "kaureh"
+  }
+]

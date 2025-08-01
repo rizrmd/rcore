@@ -1,0 +1,47 @@
+[
+  {
+    "id": "geramat",
+    "name": "Geramat",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "lubuk-betung",
+    "name": "Lubuk Betung",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "perangai",
+    "name": "Perangai",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "tanjung-beringin",
+    "name": "Tanjung Beringin",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "suka-merindu",
+    "name": "Suka Merindu",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "talang-akar",
+    "name": "Talang Akar",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "lubuk-pedara",
+    "name": "Lubuk Pedara",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "tanjung-menang",
+    "name": "Tanjung Menang",
+    "district": "merapi-selatan"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "merapi-selatan"
+  }
+]

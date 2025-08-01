@@ -1,0 +1,62 @@
+[
+  {
+    "id": "margabakti",
+    "name": "Margabakti",
+    "district": "kadugede"
+  },
+  {
+    "id": "sindangjawa",
+    "name": "Sindangjawa",
+    "district": "kadugede"
+  },
+  {
+    "id": "kadugede",
+    "name": "Kadugede",
+    "district": "kadugede"
+  },
+  {
+    "id": "ciketak",
+    "name": "Ciketak",
+    "district": "kadugede"
+  },
+  {
+    "id": "nangka",
+    "name": "Nangka",
+    "district": "kadugede"
+  },
+  {
+    "id": "windujanten",
+    "name": "Windujanten",
+    "district": "kadugede"
+  },
+  {
+    "id": "cipondok",
+    "name": "Cipondok",
+    "district": "kadugede"
+  },
+  {
+    "id": "babatan",
+    "name": "Babatan",
+    "district": "kadugede"
+  },
+  {
+    "id": "bayuning",
+    "name": "Bayuning",
+    "district": "kadugede"
+  },
+  {
+    "id": "ciherang",
+    "name": "Ciherang",
+    "district": "kadugede"
+  },
+  {
+    "id": "tinggar",
+    "name": "Tinggar",
+    "district": "kadugede"
+  },
+  {
+    "id": "cisukadana",
+    "name": "Cisukadana",
+    "district": "kadugede"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lariang",
+    "name": "Lariang",
+    "district": "tikke-raya"
+  },
+  {
+    "id": "jengeng-raya",
+    "name": "Jengeng Raya",
+    "district": "tikke-raya"
+  },
+  {
+    "id": "tikke",
+    "name": "Tikke",
+    "district": "tikke-raya"
+  },
+  {
+    "id": "makmur-jaya",
+    "name": "Makmur Jaya",
+    "district": "tikke-raya"
+  },
+  {
+    "id": "pajalele",
+    "name": "Pajalele",
+    "district": "tikke-raya"
+  }
+]

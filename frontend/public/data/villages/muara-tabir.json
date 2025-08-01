@@ -1,0 +1,42 @@
+[
+  {
+    "id": "embacang-gedang",
+    "name": "Embacang Gedang",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "pintas-tuo",
+    "name": "Pintas Tuo",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "tambun-arang",
+    "name": "Tambun Arang",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "bangun-seranten",
+    "name": "Bangun Seranten",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "sungai-jernih",
+    "name": "Sungai Jernih",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "tanah-garo",
+    "name": "Tanah Garo",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "bangko-pintas",
+    "name": "Bangko Pintas",
+    "district": "muara-tabir"
+  },
+  {
+    "id": "olak-kemang",
+    "name": "Olak Kemang",
+    "district": "muara-tabir"
+  }
+]

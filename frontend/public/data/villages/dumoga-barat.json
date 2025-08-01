@@ -1,0 +1,62 @@
+[
+  {
+    "id": "toraut",
+    "name": "Toraut",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "matayangan",
+    "name": "Matayangan",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "uuwan",
+    "name": "Uuwan",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "ikhwan",
+    "name": "Ikhwan",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "doloduo",
+    "name": "Doloduo",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "mekaruo",
+    "name": "Mekaruo",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "wangga-baru",
+    "name": "Wangga Baru",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "toraut-utara",
+    "name": "Toraut Utara",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "doloduo-i",
+    "name": "Doloduo I",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "doloduo-ii",
+    "name": "Doloduo Ii",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "doloduo-iii",
+    "name": "Doloduo Iii",
+    "district": "dumoga-barat"
+  },
+  {
+    "id": "toraut-tengah",
+    "name": "Toraut Tengah",
+    "district": "dumoga-barat"
+  }
+]

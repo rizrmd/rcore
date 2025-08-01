@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "kedondong"
+  },
+  {
+    "id": "waykepayang",
+    "name": "Waykepayang",
+    "district": "kedondong"
+  },
+  {
+    "id": "kedondong",
+    "name": "Kedondong",
+    "district": "kedondong"
+  },
+  {
+    "id": "sinar-harapan",
+    "name": "Sinar Harapan",
+    "district": "kedondong"
+  },
+  {
+    "id": "tempel-rejo",
+    "name": "Tempel Rejo",
+    "district": "kedondong"
+  },
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "kedondong"
+  },
+  {
+    "id": "kerta-sana",
+    "name": "Kerta Sana",
+    "district": "kedondong"
+  },
+  {
+    "id": "gunung-sugih",
+    "name": "Gunung Sugih",
+    "district": "kedondong"
+  },
+  {
+    "id": "babakan-loa",
+    "name": "Babakan Loa",
+    "district": "kedondong"
+  },
+  {
+    "id": "pesawaran",
+    "name": "Pesawaran",
+    "district": "kedondong"
+  },
+  {
+    "id": "tebajawa",
+    "name": "Tebajawa",
+    "district": "kedondong"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "kedondong"
+  }
+]

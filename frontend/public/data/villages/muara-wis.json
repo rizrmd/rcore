@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lebak-cilong",
+    "name": "Lebak Cilong",
+    "district": "muara-wis"
+  },
+  {
+    "id": "lebak-mantan",
+    "name": "Lebak Mantan",
+    "district": "muara-wis"
+  },
+  {
+    "id": "muara-wis",
+    "name": "Muara Wis",
+    "district": "muara-wis"
+  },
+  {
+    "id": "sebemban",
+    "name": "Sebemban",
+    "district": "muara-wis"
+  },
+  {
+    "id": "melintang",
+    "name": "Melintang",
+    "district": "muara-wis"
+  },
+  {
+    "id": "enggelam",
+    "name": "Enggelam",
+    "district": "muara-wis"
+  },
+  {
+    "id": "muara-enggelam",
+    "name": "Muara Enggelam",
+    "district": "muara-wis"
+  }
+]

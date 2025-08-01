@@ -1,0 +1,22 @@
+[
+  {
+    "id": "arefi-timur",
+    "name": "Arefi Timur",
+    "district": "batanta-utara"
+  },
+  {
+    "id": "arefi-selatan",
+    "name": "Arefi Selatan",
+    "district": "batanta-utara"
+  },
+  {
+    "id": "yensawai-timur",
+    "name": "Yensawai Timur",
+    "district": "batanta-utara"
+  },
+  {
+    "id": "yensawai-barat",
+    "name": "Yensawai Barat",
+    "district": "batanta-utara"
+  }
+]

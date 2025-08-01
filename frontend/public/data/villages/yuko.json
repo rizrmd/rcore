@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pekaleme",
+    "name": "Pekaleme",
+    "district": "yuko"
+  },
+  {
+    "id": "taleme",
+    "name": "Taleme",
+    "district": "yuko"
+  },
+  {
+    "id": "giko",
+    "name": "Giko",
+    "district": "yuko"
+  },
+  {
+    "id": "kotorambur",
+    "name": "Kotorambur",
+    "district": "yuko"
+  },
+  {
+    "id": "minagame",
+    "name": "Minagame",
+    "district": "yuko"
+  },
+  {
+    "id": "karu",
+    "name": "Karu",
+    "district": "yuko"
+  },
+  {
+    "id": "tabuh",
+    "name": "Tabuh",
+    "district": "yuko"
+  },
+  {
+    "id": "gwak-dugunik",
+    "name": "Gwak Dugunik",
+    "district": "yuko"
+  },
+  {
+    "id": "ambirik",
+    "name": "Ambirik",
+    "district": "yuko"
+  }
+]

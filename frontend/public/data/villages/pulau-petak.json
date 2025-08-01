@@ -1,0 +1,62 @@
+[
+  {
+    "id": "teluk-palinget",
+    "name": "Teluk Palinget",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "sakalagun",
+    "name": "Sakalagun",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "narahan",
+    "name": "Narahan",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "bunga-mawar",
+    "name": "Bunga Mawar",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "palangkai",
+    "name": "Palangkai",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "sei-tatas",
+    "name": "Sei Tatas",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "handiwung",
+    "name": "Handiwung",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "anjir-palambang",
+    "name": "Anjir Palambang",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "sei-tatas-hilir",
+    "name": "Sei Tatas Hilir",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "mawar-mekar",
+    "name": "Mawar Mekar",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "narahan-baru",
+    "name": "Narahan Baru",
+    "district": "pulau-petak"
+  },
+  {
+    "id": "banama",
+    "name": "Banama",
+    "district": "pulau-petak"
+  }
+]

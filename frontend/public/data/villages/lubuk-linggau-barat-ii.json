@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "tapak-lebar",
+    "name": "Tapak Lebar",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "ulak-lebar",
+    "name": "Ulak Lebar",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "bandung-kanan",
+    "name": "Bandung Kanan",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "keputeraan",
+    "name": "Keputeraan",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "lubuk-linggau-ulu",
+    "name": "Lubuk Linggau Ulu",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "lubuk-linggau-ilir",
+    "name": "Lubuk Linggau Ilir",
+    "district": "lubuk-linggau-barat-ii"
+  },
+  {
+    "id": "pasar-permiri",
+    "name": "Pasar Permiri",
+    "district": "lubuk-linggau-barat-ii"
+  }
+]

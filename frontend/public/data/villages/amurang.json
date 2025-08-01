@@ -1,0 +1,37 @@
+[
+  {
+    "id": "buyungon",
+    "name": "Buyungon",
+    "district": "amurang"
+  },
+  {
+    "id": "ranoyapo",
+    "name": "Ranoyapo",
+    "district": "amurang"
+  },
+  {
+    "id": "uwuran-satu",
+    "name": "Uwuran Satu",
+    "district": "amurang"
+  },
+  {
+    "id": "uwuran-dua",
+    "name": "Uwuran Dua",
+    "district": "amurang"
+  },
+  {
+    "id": "ranoketang-tua",
+    "name": "Ranoketang Tua",
+    "district": "amurang"
+  },
+  {
+    "id": "bitung",
+    "name": "Bitung",
+    "district": "amurang"
+  },
+  {
+    "id": "kilometer-tiga",
+    "name": "Kilometer Tiga",
+    "district": "amurang"
+  }
+]

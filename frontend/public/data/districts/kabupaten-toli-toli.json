@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dampal-selatan",
+    "name": "Dampal Selatan",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "dampal-utara",
+    "name": "Dampal Utara",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "dondo",
+    "name": "Dondo",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "ogodeide",
+    "name": "Ogodeide",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "basidondo",
+    "name": "Basidondo",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "baolan",
+    "name": "Baolan",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "lampasio",
+    "name": "Lampasio",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "galang",
+    "name": "Galang",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "tolitoli-utara",
+    "name": "Tolitoli Utara",
+    "regency": "kabupaten-toli-toli"
+  },
+  {
+    "id": "dako-pamean",
+    "name": "Dako Pamean",
+    "regency": "kabupaten-toli-toli"
+  }
+]

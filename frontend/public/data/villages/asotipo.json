@@ -1,0 +1,52 @@
+[
+  {
+    "id": "putagaima",
+    "name": "Putagaima",
+    "district": "asotipo"
+  },
+  {
+    "id": "sogokmo",
+    "name": "Sogokmo",
+    "district": "asotipo"
+  },
+  {
+    "id": "asotipo",
+    "name": "Asotipo",
+    "district": "asotipo"
+  },
+  {
+    "id": "heberima",
+    "name": "Heberima",
+    "district": "asotipo"
+  },
+  {
+    "id": "iwigima",
+    "name": "Iwigima",
+    "district": "asotipo"
+  },
+  {
+    "id": "pobiatma",
+    "name": "Pobiatma",
+    "district": "asotipo"
+  },
+  {
+    "id": "hitigima",
+    "name": "Hitigima",
+    "district": "asotipo"
+  },
+  {
+    "id": "kuantapo",
+    "name": "Kuantapo",
+    "district": "asotipo"
+  },
+  {
+    "id": "air-garam",
+    "name": "Air Garam",
+    "district": "asotipo"
+  },
+  {
+    "id": "hukulimo",
+    "name": "Hukulimo",
+    "district": "asotipo"
+  }
+]

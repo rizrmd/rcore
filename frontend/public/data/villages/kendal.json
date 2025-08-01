@@ -1,0 +1,52 @@
+[
+  {
+    "id": "karanggupito",
+    "name": "Karanggupito",
+    "district": "kendal"
+  },
+  {
+    "id": "karangrejo",
+    "name": "Karangrejo",
+    "district": "kendal"
+  },
+  {
+    "id": "simo",
+    "name": "Simo",
+    "district": "kendal"
+  },
+  {
+    "id": "ploso",
+    "name": "Ploso",
+    "district": "kendal"
+  },
+  {
+    "id": "majasem",
+    "name": "Majasem",
+    "district": "kendal"
+  },
+  {
+    "id": "kendal",
+    "name": "Kendal",
+    "district": "kendal"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "kendal"
+  },
+  {
+    "id": "gayam",
+    "name": "Gayam",
+    "district": "kendal"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "kendal"
+  },
+  {
+    "id": "patalan",
+    "name": "Patalan",
+    "district": "kendal"
+  }
+]

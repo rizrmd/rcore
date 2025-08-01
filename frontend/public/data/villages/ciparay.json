@@ -1,0 +1,72 @@
+[
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "ciparay"
+  },
+  {
+    "id": "cikoneng",
+    "name": "Cikoneng",
+    "district": "ciparay"
+  },
+  {
+    "id": "sigaracipta",
+    "name": "Sigaracipta",
+    "district": "ciparay"
+  },
+  {
+    "id": "pakutandang",
+    "name": "Pakutandang",
+    "district": "ciparay"
+  },
+  {
+    "id": "manggungharja",
+    "name": "Manggungharja",
+    "district": "ciparay"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "ciparay"
+  },
+  {
+    "id": "ciparay",
+    "name": "Ciparay",
+    "district": "ciparay"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "ciparay"
+  },
+  {
+    "id": "sarimahi",
+    "name": "Sarimahi",
+    "district": "ciparay"
+  },
+  {
+    "id": "serangmekar",
+    "name": "Serangmekar",
+    "district": "ciparay"
+  },
+  {
+    "id": "gunungleutik",
+    "name": "Gunungleutik",
+    "district": "ciparay"
+  },
+  {
+    "id": "ciheulang",
+    "name": "Ciheulang",
+    "district": "ciparay"
+  },
+  {
+    "id": "mekarlaksana",
+    "name": "Mekarlaksana",
+    "district": "ciparay"
+  },
+  {
+    "id": "bumiwangi",
+    "name": "Bumiwangi",
+    "district": "ciparay"
+  }
+]

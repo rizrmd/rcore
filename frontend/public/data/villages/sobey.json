@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bagaiserwar",
+    "name": "Bagaiserwar",
+    "district": "sobey"
+  },
+  {
+    "id": "nanot",
+    "name": "Nanot",
+    "district": "sobey"
+  },
+  {
+    "id": "bagaiserwar-ii",
+    "name": "Bagaiserwar Ii",
+    "district": "sobey"
+  },
+  {
+    "id": "sumsar",
+    "name": "Sumsar",
+    "district": "sobey"
+  },
+  {
+    "id": "rorena",
+    "name": "Rorena",
+    "district": "sobey"
+  }
+]

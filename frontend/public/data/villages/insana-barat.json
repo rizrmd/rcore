@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lapeom",
+    "name": "Lapeom",
+    "district": "insana-barat"
+  },
+  {
+    "id": "usapinonot",
+    "name": "Usapinonot",
+    "district": "insana-barat"
+  },
+  {
+    "id": "atmen",
+    "name": "Atmen",
+    "district": "insana-barat"
+  },
+  {
+    "id": "letneo",
+    "name": "Letneo",
+    "district": "insana-barat"
+  },
+  {
+    "id": "banae",
+    "name": "Banae",
+    "district": "insana-barat"
+  },
+  {
+    "id": "desa-admen",
+    "name": "Desa Admen",
+    "district": "insana-barat"
+  },
+  {
+    "id": "subun-bestobe",
+    "name": "Subun Bestobe",
+    "district": "insana-barat"
+  },
+  {
+    "id": "subun-tualele",
+    "name": "Subun Tualele",
+    "district": "insana-barat"
+  },
+  {
+    "id": "nifunenas",
+    "name": "Nifunenas",
+    "district": "insana-barat"
+  },
+  {
+    "id": "oabikase",
+    "name": "Oabikase",
+    "district": "insana-barat"
+  },
+  {
+    "id": "letneo-selatan",
+    "name": "Letneo Selatan",
+    "district": "insana-barat"
+  }
+]

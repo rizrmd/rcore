@@ -1,0 +1,37 @@
+[
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "cangkuang"
+  },
+  {
+    "id": "nagrak",
+    "name": "Nagrak",
+    "district": "cangkuang"
+  },
+  {
+    "id": "bandasari",
+    "name": "Bandasari",
+    "district": "cangkuang"
+  },
+  {
+    "id": "pananjung",
+    "name": "Pananjung",
+    "district": "cangkuang"
+  },
+  {
+    "id": "ciluncat",
+    "name": "Ciluncat",
+    "district": "cangkuang"
+  },
+  {
+    "id": "cangkuang",
+    "name": "Cangkuang",
+    "district": "cangkuang"
+  },
+  {
+    "id": "tanjungsari",
+    "name": "Tanjungsari",
+    "district": "cangkuang"
+  }
+]

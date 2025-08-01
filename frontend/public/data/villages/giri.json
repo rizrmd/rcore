@@ -1,0 +1,32 @@
+[
+  {
+    "id": "jambesari",
+    "name": "Jambesari",
+    "district": "giri"
+  },
+  {
+    "id": "boyolangu",
+    "name": "Boyolangu",
+    "district": "giri"
+  },
+  {
+    "id": "mojopanggung",
+    "name": "Mojopanggung",
+    "district": "giri"
+  },
+  {
+    "id": "penataban",
+    "name": "Penataban",
+    "district": "giri"
+  },
+  {
+    "id": "giri",
+    "name": "Giri",
+    "district": "giri"
+  },
+  {
+    "id": "grogol",
+    "name": "Grogol",
+    "district": "giri"
+  }
+]

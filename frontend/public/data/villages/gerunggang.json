@@ -1,0 +1,32 @@
+[
+  {
+    "id": "kacang-pedang",
+    "name": "Kacang Pedang",
+    "district": "gerunggang"
+  },
+  {
+    "id": "tuatunu-indah",
+    "name": "Tuatunu Indah",
+    "district": "gerunggang"
+  },
+  {
+    "id": "bukit-merapin",
+    "name": "Bukit Merapin",
+    "district": "gerunggang"
+  },
+  {
+    "id": "bukit-sari",
+    "name": "Bukit Sari",
+    "district": "gerunggang"
+  },
+  {
+    "id": "taman-bunga",
+    "name": "Taman Bunga",
+    "district": "gerunggang"
+  },
+  {
+    "id": "air-kepala-tujuh",
+    "name": "Air Kepala Tujuh",
+    "district": "gerunggang"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "intan-jaya",
+    "name": "Intan Jaya",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "bukit-indah",
+    "name": "Bukit Indah",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "kemang-manis",
+    "name": "Kemang Manis",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "dusun-mudo",
+    "name": "Dusun Mudo",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "rantau-badak",
+    "name": "Rantau Badak",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "sungai-papauh",
+    "name": "Sungai Papauh",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "sungai-muluk",
+    "name": "Sungai Muluk",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "pematang-balam",
+    "name": "Pematang Balam",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "lubuk-sebontan",
+    "name": "Lubuk Sebontan",
+    "district": "muara-papalik"
+  },
+  {
+    "id": "rantau-badak-lamo",
+    "name": "Rantau Badak Lamo",
+    "district": "muara-papalik"
+  }
+]

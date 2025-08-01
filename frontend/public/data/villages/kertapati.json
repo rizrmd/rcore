@@ -1,0 +1,32 @@
+[
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "kertapati"
+  },
+  {
+    "id": "keramasan",
+    "name": "Keramasan",
+    "district": "kertapati"
+  },
+  {
+    "id": "kemang-agung",
+    "name": "Kemang Agung",
+    "district": "kertapati"
+  },
+  {
+    "id": "kemas-rindo",
+    "name": "Kemas Rindo",
+    "district": "kertapati"
+  },
+  {
+    "id": "ogan-baru",
+    "name": "Ogan Baru",
+    "district": "kertapati"
+  },
+  {
+    "id": "kertapati",
+    "name": "Kertapati",
+    "district": "kertapati"
+  }
+]

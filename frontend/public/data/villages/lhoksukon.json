@@ -1,0 +1,377 @@
+[
+  {
+    "id": "geulumpang",
+    "name": "Geulumpang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "buloh-lt",
+    "name": "Buloh Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-abee",
+    "name": "Alue Abee",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-eumpok",
+    "name": "Alue Eumpok",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-itam-reudeup",
+    "name": "Alue Itam Reudeup",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "buket-krueng",
+    "name": "Buket Krueng",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-teungoh-lb",
+    "name": "Meunasah Teungoh Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "kumbang-lt",
+    "name": "Kumbang Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-itam-baroh",
+    "name": "Alue Itam Baroh",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meuria",
+    "name": "Meuria",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "arongan-lt",
+    "name": "Arongan Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "buket-me-lt",
+    "name": "Buket Me Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "dayah-lt",
+    "name": "Dayah Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "krueng-lt",
+    "name": "Krueng Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-tuha",
+    "name": "Meunasah Tuha",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-rayeuk-lb",
+    "name": "Meunasah Rayeuk Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meucat",
+    "name": "Meucat",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "asan-lb",
+    "name": "Asan Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "rawa",
+    "name": "Rawa",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "babah-geudubang",
+    "name": "Babah Geudubang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-meurebo",
+    "name": "Meunasah Meurebo",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ulee-gunong",
+    "name": "Ulee Gunong",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "teupin-keubeu",
+    "name": "Teupin Keubeu",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "seuneubok-dalam",
+    "name": "Seuneubok Dalam",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "grong-grong",
+    "name": "Grong Grong",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "lhok-kareung",
+    "name": "Lhok Kareung",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "cot-asan",
+    "name": "Cot Asan",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "buket-hagu",
+    "name": "Buket Hagu",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "mata-ie",
+    "name": "Mata Ie",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "mata-u",
+    "name": "Mata U",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "lhok-sentang",
+    "name": "Lhok Sentang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ulee-tanoh",
+    "name": "Ulee Tanoh",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "nga-lt",
+    "name": "Nga Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-jok",
+    "name": "Meunasah Jok",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-nga-lb",
+    "name": "Meunasah Nga Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "matang-meunye",
+    "name": "Matang Meunye",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "beringin-lb",
+    "name": "Beringin Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "manyang",
+    "name": "Manyang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "blang",
+    "name": "Blang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ceubrek",
+    "name": "Ceubrek",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "kuta-lhoksukon",
+    "name": "Kuta Lhoksukon",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "dayah-lb",
+    "name": "Dayah Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-matang-teungoh-lt",
+    "name": "Meunasah Matang Teungoh Lt",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-geulinggang",
+    "name": "Meunasah Geulinggang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ulee-barat",
+    "name": "Ulee Barat",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "pulo-dulang",
+    "name": "Pulo Dulang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-tutong",
+    "name": "Meunasah Tutong",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-geumata",
+    "name": "Meunasah Geumata",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-pante",
+    "name": "Meunasah Pante",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "trieng-matang-ubi",
+    "name": "Trieng Matang Ubi",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunye-matang-ubi",
+    "name": "Meunye Matang Ubi",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "blang-rubek",
+    "name": "Blang Rubek",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-buket",
+    "name": "Alue Buket",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-reudeup",
+    "name": "Meunasah Reudeup",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "nga-matang-ubi",
+    "name": "Nga Matang Ubi",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "buket-sentang",
+    "name": "Buket Sentang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "blang-aman",
+    "name": "Blang Aman",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "cot-u-sibak",
+    "name": "Cot U Sibak",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "bintang-hu",
+    "name": "Bintang Hu",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "cot-ara",
+    "name": "Cot Ara",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "cot-geulumpang-ab",
+    "name": "Cot Geulumpang Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "abeuk-leupen",
+    "name": "Abeuk Leupen",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "matang-pupanji-ab",
+    "name": "Matang Pupanji Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "matang-teungoh-ab",
+    "name": "Matang Teungoh Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-asan-ab",
+    "name": "Meunasah Asan Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ranto",
+    "name": "Ranto",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "keutapang",
+    "name": "Keutapang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "alue-mudem",
+    "name": "Alue Mudem",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "r-a-m-b-o-t",
+    "name": "R A M B O T",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "ara-ab",
+    "name": "Ara Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-alue-drien-lb",
+    "name": "Meunasah Alue Drien Lb",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "mancang",
+    "name": "Mancang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "leubok-ab",
+    "name": "Leubok Ab",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "trieng-pantang",
+    "name": "Trieng Pantang",
+    "district": "lhoksukon"
+  },
+  {
+    "id": "meunasah-arongan-ab",
+    "name": "Meunasah Arongan Ab",
+    "district": "lhoksukon"
+  }
+]

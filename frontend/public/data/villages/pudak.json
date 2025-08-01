@@ -1,0 +1,32 @@
+[
+  {
+    "id": "banjarjo",
+    "name": "Banjarjo",
+    "district": "pudak"
+  },
+  {
+    "id": "pudak-wetan",
+    "name": "Pudak Wetan",
+    "district": "pudak"
+  },
+  {
+    "id": "pudak-kulon",
+    "name": "Pudak Kulon",
+    "district": "pudak"
+  },
+  {
+    "id": "krisik",
+    "name": "Krisik",
+    "district": "pudak"
+  },
+  {
+    "id": "tambang",
+    "name": "Tambang",
+    "district": "pudak"
+  },
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "pudak"
+  }
+]

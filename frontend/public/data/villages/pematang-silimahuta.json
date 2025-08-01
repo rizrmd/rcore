@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ujung-saribu",
+    "name": "Ujung Saribu",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "silimakuta-barat",
+    "name": "Silimakuta Barat",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "siboras",
+    "name": "Siboras",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "ujung-mariah",
+    "name": "Ujung Mariah",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "mardinding",
+    "name": "Mardinding",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "naga-saribu",
+    "name": "Naga Saribu",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "saribujandi",
+    "name": "Saribujandi",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "naga-mariah",
+    "name": "Naga Mariah",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "bandar-saribu",
+    "name": "Bandar Saribu",
+    "district": "pematang-silimahuta"
+  },
+  {
+    "id": "naga-bosar",
+    "name": "Naga Bosar",
+    "district": "pematang-silimahuta"
+  }
+]

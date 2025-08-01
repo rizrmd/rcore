@@ -1,0 +1,22 @@
+[
+  {
+    "id": "jirak",
+    "name": "Jirak",
+    "district": "sajad"
+  },
+  {
+    "id": "tengguli",
+    "name": "Tengguli",
+    "district": "sajad"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "sajad"
+  },
+  {
+    "id": "beringin",
+    "name": "Beringin",
+    "district": "sajad"
+  }
+]

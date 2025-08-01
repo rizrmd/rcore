@@ -1,0 +1,92 @@
+[
+  {
+    "id": "palimbangan-gusti",
+    "name": "Palimbangan Gusti",
+    "district": "haur-gading"
+  },
+  {
+    "id": "palimbangan",
+    "name": "Palimbangan",
+    "district": "haur-gading"
+  },
+  {
+    "id": "bayur",
+    "name": "Bayur",
+    "district": "haur-gading"
+  },
+  {
+    "id": "loksuga",
+    "name": "Loksuga",
+    "district": "haur-gading"
+  },
+  {
+    "id": "palimbangan-sari",
+    "name": "Palimbangan Sari",
+    "district": "haur-gading"
+  },
+  {
+    "id": "jingah-bujur",
+    "name": "Jingah Bujur",
+    "district": "haur-gading"
+  },
+  {
+    "id": "tambak-sari-panji",
+    "name": "Tambak Sari Panji",
+    "district": "haur-gading"
+  },
+  {
+    "id": "pulantani",
+    "name": "Pulantani",
+    "district": "haur-gading"
+  },
+  {
+    "id": "haur-gading",
+    "name": "Haur Gading",
+    "district": "haur-gading"
+  },
+  {
+    "id": "sungai-limas",
+    "name": "Sungai Limas",
+    "district": "haur-gading"
+  },
+  {
+    "id": "pihaung",
+    "name": "Pihaung",
+    "district": "haur-gading"
+  },
+  {
+    "id": "keramat",
+    "name": "Keramat",
+    "district": "haur-gading"
+  },
+  {
+    "id": "teluk-haur",
+    "name": "Teluk Haur",
+    "district": "haur-gading"
+  },
+  {
+    "id": "waringin",
+    "name": "Waringin",
+    "district": "haur-gading"
+  },
+  {
+    "id": "sungai-binuang",
+    "name": "Sungai Binuang",
+    "district": "haur-gading"
+  },
+  {
+    "id": "panawakan",
+    "name": "Panawakan",
+    "district": "haur-gading"
+  },
+  {
+    "id": "tangkawang",
+    "name": "Tangkawang",
+    "district": "haur-gading"
+  },
+  {
+    "id": "tuhuran",
+    "name": "Tuhuran",
+    "district": "haur-gading"
+  }
+]

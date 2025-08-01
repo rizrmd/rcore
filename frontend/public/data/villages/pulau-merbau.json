@@ -1,0 +1,57 @@
+[
+  {
+    "id": "teluk-ketapang",
+    "name": "Teluk Ketapang",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "semukut",
+    "name": "Semukut",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "centai",
+    "name": "Centai",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "tanjung-bunga",
+    "name": "Tanjung Bunga",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "renak-dungun",
+    "name": "Renak Dungun",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "baran-melintang",
+    "name": "Baran Melintang",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "kuala-merbau",
+    "name": "Kuala Merbau",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "batang-meranti",
+    "name": "Batang Meranti",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "pangkalan-balai",
+    "name": "Pangkalan Balai",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "padang-kamal",
+    "name": "Padang Kamal",
+    "district": "pulau-merbau"
+  },
+  {
+    "id": "ketapang-permai",
+    "name": "Ketapang Permai",
+    "district": "pulau-merbau"
+  }
+]

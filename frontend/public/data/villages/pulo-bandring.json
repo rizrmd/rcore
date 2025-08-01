@@ -1,0 +1,52 @@
+[
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "perhutaan-silau",
+    "name": "Perhutaan Silau",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "tanah-rakyat",
+    "name": "Tanah Rakyat",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "gedangan",
+    "name": "Gedangan",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "pulo-bandring",
+    "name": "Pulo Bandring",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "sukadamai-barat",
+    "name": "Sukadamai Barat",
+    "district": "pulo-bandring"
+  },
+  {
+    "id": "bunut-seberang",
+    "name": "Bunut Seberang",
+    "district": "pulo-bandring"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pomako",
+    "name": "Pomako",
+    "district": "mimika-timur"
+  },
+  {
+    "id": "tipuka",
+    "name": "Tipuka",
+    "district": "mimika-timur"
+  },
+  {
+    "id": "hiripau",
+    "name": "Hiripau",
+    "district": "mimika-timur"
+  },
+  {
+    "id": "kaugapu",
+    "name": "Kaugapu",
+    "district": "mimika-timur"
+  },
+  {
+    "id": "wania",
+    "name": "Wania",
+    "district": "mimika-timur"
+  },
+  {
+    "id": "mwapi",
+    "name": "Mwapi",
+    "district": "mimika-timur"
+  }
+]

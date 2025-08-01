@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bringkeng",
+    "name": "Bringkeng",
+    "district": "kawunganten"
+  },
+  {
+    "id": "ujungmanik",
+    "name": "Ujungmanik",
+    "district": "kawunganten"
+  },
+  {
+    "id": "kubangkangkung",
+    "name": "Kubangkangkung",
+    "district": "kawunganten"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "kawunganten"
+  },
+  {
+    "id": "kawunganten",
+    "name": "Kawunganten",
+    "district": "kawunganten"
+  },
+  {
+    "id": "kawunganten-lor",
+    "name": "Kawunganten Lor",
+    "district": "kawunganten"
+  },
+  {
+    "id": "sarwadadi",
+    "name": "Sarwadadi",
+    "district": "kawunganten"
+  },
+  {
+    "id": "kalijeruk",
+    "name": "Kalijeruk",
+    "district": "kawunganten"
+  },
+  {
+    "id": "mentasan",
+    "name": "Mentasan",
+    "district": "kawunganten"
+  },
+  {
+    "id": "sidaurip",
+    "name": "Sidaurip",
+    "district": "kawunganten"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "kawunganten"
+  }
+]

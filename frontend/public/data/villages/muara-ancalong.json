@@ -1,0 +1,42 @@
+[
+  {
+    "id": "senyiur",
+    "name": "Senyiur",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "kelinjau-ilir",
+    "name": "Kelinjau Ilir",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "kelinjau-ulu",
+    "name": "Kelinjau Ulu",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "long-nah",
+    "name": "Long Nah",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "gemar-baru",
+    "name": "Gemar Baru",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "long-tesak",
+    "name": "Long Tesak",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "long-poq-baru",
+    "name": "Long Poq Baru",
+    "district": "muara-ancalong"
+  },
+  {
+    "id": "muara-dun",
+    "name": "Muara Dun",
+    "district": "muara-ancalong"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "weime",
+    "name": "Weime",
+    "district": "weime"
+  },
+  {
+    "id": "taramlu",
+    "name": "Taramlu",
+    "district": "weime"
+  },
+  {
+    "id": "merpasikme",
+    "name": "Merpasikme",
+    "district": "weime"
+  },
+  {
+    "id": "dalumban",
+    "name": "Dalumban",
+    "district": "weime"
+  },
+  {
+    "id": "nomteren",
+    "name": "Nomteren",
+    "district": "weime"
+  },
+  {
+    "id": "mekramgon",
+    "name": "Mekramgon",
+    "district": "weime"
+  },
+  {
+    "id": "youlban",
+    "name": "Youlban",
+    "district": "weime"
+  },
+  {
+    "id": "meryang",
+    "name": "Meryang",
+    "district": "weime"
+  },
+  {
+    "id": "limrepasikme",
+    "name": "Limrepasikme",
+    "district": "weime"
+  }
+]

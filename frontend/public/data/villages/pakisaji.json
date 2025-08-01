@@ -1,0 +1,62 @@
+[
+  {
+    "id": "permanu",
+    "name": "Permanu",
+    "district": "pakisaji"
+  },
+  {
+    "id": "karangpandan",
+    "name": "Karangpandan",
+    "district": "pakisaji"
+  },
+  {
+    "id": "glanggang",
+    "name": "Glanggang",
+    "district": "pakisaji"
+  },
+  {
+    "id": "sutojayan",
+    "name": "Sutojayan",
+    "district": "pakisaji"
+  },
+  {
+    "id": "wonokerso",
+    "name": "Wonokerso",
+    "district": "pakisaji"
+  },
+  {
+    "id": "karangduren",
+    "name": "Karangduren",
+    "district": "pakisaji"
+  },
+  {
+    "id": "pakisaji",
+    "name": "Pakisaji",
+    "district": "pakisaji"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "pakisaji"
+  },
+  {
+    "id": "wadung",
+    "name": "Wadung",
+    "district": "pakisaji"
+  },
+  {
+    "id": "genengan",
+    "name": "Genengan",
+    "district": "pakisaji"
+  },
+  {
+    "id": "kebonagung",
+    "name": "Kebonagung",
+    "district": "pakisaji"
+  },
+  {
+    "id": "kendalpayak",
+    "name": "Kendalpayak",
+    "district": "pakisaji"
+  }
+]

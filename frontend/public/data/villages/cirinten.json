@@ -1,0 +1,52 @@
+[
+  {
+    "id": "parakanlima",
+    "name": "Parakanlima",
+    "district": "cirinten"
+  },
+  {
+    "id": "kadudamas",
+    "name": "Kadudamas",
+    "district": "cirinten"
+  },
+  {
+    "id": "datarcae",
+    "name": "Datarcae",
+    "district": "cirinten"
+  },
+  {
+    "id": "karoya",
+    "name": "Karoya",
+    "district": "cirinten"
+  },
+  {
+    "id": "nangerang",
+    "name": "Nangerang",
+    "district": "cirinten"
+  },
+  {
+    "id": "cirinten",
+    "name": "Cirinten",
+    "district": "cirinten"
+  },
+  {
+    "id": "karangnunggal",
+    "name": "Karangnunggal",
+    "district": "cirinten"
+  },
+  {
+    "id": "cempaka",
+    "name": "Cempaka",
+    "district": "cirinten"
+  },
+  {
+    "id": "badur",
+    "name": "Badur",
+    "district": "cirinten"
+  },
+  {
+    "id": "cibarani",
+    "name": "Cibarani",
+    "district": "cirinten"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lamoanak",
+    "name": "Lamoanak",
+    "district": "menjalin"
+  },
+  {
+    "id": "bengkawe",
+    "name": "Bengkawe",
+    "district": "menjalin"
+  },
+  {
+    "id": "menjalin",
+    "name": "Menjalin",
+    "district": "menjalin"
+  },
+  {
+    "id": "sepahat",
+    "name": "Sepahat",
+    "district": "menjalin"
+  },
+  {
+    "id": "raba",
+    "name": "Raba",
+    "district": "menjalin"
+  },
+  {
+    "id": "nangka",
+    "name": "Nangka",
+    "district": "menjalin"
+  },
+  {
+    "id": "tempoak",
+    "name": "Tempoak",
+    "district": "menjalin"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "telaga-baru",
+    "name": "Telaga Baru",
+    "district": "telaga-bauntung"
+  },
+  {
+    "id": "loktanah",
+    "name": "Loktanah",
+    "district": "telaga-bauntung"
+  },
+  {
+    "id": "rantau-bujur",
+    "name": "Rantau Bujur",
+    "district": "telaga-bauntung"
+  },
+  {
+    "id": "rampah",
+    "name": "Rampah",
+    "district": "telaga-bauntung"
+  }
+]

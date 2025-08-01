@@ -1,0 +1,27 @@
+[
+  {
+    "id": "paslaten-dua",
+    "name": "Paslaten Dua",
+    "district": "tomohon-timur"
+  },
+  {
+    "id": "paslaten-satu",
+    "name": "Paslaten Satu",
+    "district": "tomohon-timur"
+  },
+  {
+    "id": "rurukan",
+    "name": "Rurukan",
+    "district": "tomohon-timur"
+  },
+  {
+    "id": "rurukan-satu",
+    "name": "Rurukan Satu",
+    "district": "tomohon-timur"
+  },
+  {
+    "id": "kumelembuai",
+    "name": "Kumelembuai",
+    "district": "tomohon-timur"
+  }
+]

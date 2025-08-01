@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pota-wangka",
+    "name": "Pota Wangka",
+    "district": "boleng"
+  },
+  {
+    "id": "golo-ketak",
+    "name": "Golo Ketak",
+    "district": "boleng"
+  },
+  {
+    "id": "mbuit",
+    "name": "Mbuit",
+    "district": "boleng"
+  },
+  {
+    "id": "golo-lujang",
+    "name": "Golo Lujang",
+    "district": "boleng"
+  },
+  {
+    "id": "sepang",
+    "name": "Sepang",
+    "district": "boleng"
+  },
+  {
+    "id": "golo-sepang",
+    "name": "Golo Sepang",
+    "district": "boleng"
+  },
+  {
+    "id": "tanjung-pontianak",
+    "name": "Tanjung Pontianak",
+    "district": "boleng"
+  },
+  {
+    "id": "batu-tiga",
+    "name": "Batu Tiga",
+    "district": "boleng"
+  },
+  {
+    "id": "tanjung-boleng",
+    "name": "Tanjung Boleng",
+    "district": "boleng"
+  },
+  {
+    "id": "golo-nobo",
+    "name": "Golo Nobo",
+    "district": "boleng"
+  },
+  {
+    "id": "beo-sepang",
+    "name": "Beo Sepang",
+    "district": "boleng"
+  }
+]

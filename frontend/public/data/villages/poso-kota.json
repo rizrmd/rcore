@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gebang-rejo",
+    "name": "Gebang Rejo",
+    "district": "poso-kota"
+  },
+  {
+    "id": "moengko",
+    "name": "Moengko",
+    "district": "poso-kota"
+  },
+  {
+    "id": "moengko-baru",
+    "name": "Moengko Baru",
+    "district": "poso-kota"
+  },
+  {
+    "id": "kayamanya",
+    "name": "Kayamanya",
+    "district": "poso-kota"
+  },
+  {
+    "id": "gebangrejo-timur",
+    "name": "Gebangrejo Timur",
+    "district": "poso-kota"
+  },
+  {
+    "id": "gebangrejo-barat",
+    "name": "Gebangrejo Barat",
+    "district": "poso-kota"
+  },
+  {
+    "id": "kayamanya-sentral",
+    "name": "Kayamanya Sentral",
+    "district": "poso-kota"
+  }
+]

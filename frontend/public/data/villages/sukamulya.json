@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kubang",
+    "name": "Kubang",
+    "district": "sukamulya"
+  },
+  {
+    "id": "parahu",
+    "name": "Parahu",
+    "district": "sukamulya"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "sukamulya"
+  },
+  {
+    "id": "kali-asin",
+    "name": "Kali Asin",
+    "district": "sukamulya"
+  },
+  {
+    "id": "merak",
+    "name": "Merak",
+    "district": "sukamulya"
+  },
+  {
+    "id": "bunar",
+    "name": "Bunar",
+    "district": "sukamulya"
+  },
+  {
+    "id": "benda",
+    "name": "Benda",
+    "district": "sukamulya"
+  },
+  {
+    "id": "buni-ayu",
+    "name": "Buni Ayu",
+    "district": "sukamulya"
+  }
+]

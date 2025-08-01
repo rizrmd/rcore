@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kebun-sungai-liput",
+    "name": "Kebun Sungai Liput",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "alur-selebu",
+    "name": "Alur Selebu",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "suka-makmur",
+    "name": "Suka Makmur",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "seumadam",
+    "name": "Seumadam",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "karangjadi",
+    "name": "Karangjadi",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "kampung-jawa",
+    "name": "Kampung Jawa",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "sidodadi",
+    "name": "Sidodadi",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "tanjung-genteng",
+    "name": "Tanjung Genteng",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "gerenggam",
+    "name": "Gerenggam",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "simpang-kanan",
+    "name": "Simpang Kanan",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "tanjung-mancang",
+    "name": "Tanjung Mancang",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "pangkalan",
+    "name": "Pangkalan",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "sungai-liput",
+    "name": "Sungai Liput",
+    "district": "kejuruan-muda"
+  },
+  {
+    "id": "bukit-rata",
+    "name": "Bukit Rata",
+    "district": "kejuruan-muda"
+  }
+]

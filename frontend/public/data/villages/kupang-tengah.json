@@ -1,0 +1,42 @@
+[
+  {
+    "id": "oelnasi",
+    "name": "Oelnasi",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "oelpuah",
+    "name": "Oelpuah",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "oebelo",
+    "name": "Oebelo",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "noelbaki",
+    "name": "Noelbaki",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "tarus",
+    "name": "Tarus",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "penfui-timur",
+    "name": "Penfui Timur",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "kupang-tengah"
+  },
+  {
+    "id": "mata-air",
+    "name": "Mata Air",
+    "district": "kupang-tengah"
+  }
+]

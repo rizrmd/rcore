@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kurulimbu",
+    "name": "Kurulimbu",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "sokoria",
+    "name": "Sokoria",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "demulaka",
+    "name": "Demulaka",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "roga",
+    "name": "Roga",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "kurulimbu-selatan",
+    "name": "Kurulimbu Selatan",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "ngguwa",
+    "name": "Ngguwa",
+    "district": "ndona-timur"
+  },
+  {
+    "id": "sokoria-selatan",
+    "name": "Sokoria Selatan",
+    "district": "ndona-timur"
+  }
+]

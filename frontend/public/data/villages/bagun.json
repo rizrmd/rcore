@@ -1,0 +1,47 @@
+[
+  {
+    "id": "disfra",
+    "name": "Disfra",
+    "district": "bagun"
+  },
+  {
+    "id": "bagun",
+    "name": "Bagun",
+    "district": "bagun"
+  },
+  {
+    "id": "klawom",
+    "name": "Klawom",
+    "district": "bagun"
+  },
+  {
+    "id": "klamomis",
+    "name": "Klamomis",
+    "district": "bagun"
+  },
+  {
+    "id": "klakwonrit",
+    "name": "Klakwonrit",
+    "district": "bagun"
+  },
+  {
+    "id": "mode",
+    "name": "Mode",
+    "district": "bagun"
+  },
+  {
+    "id": "bratmawe",
+    "name": "Bratmawe",
+    "district": "bagun"
+  },
+  {
+    "id": "klawon",
+    "name": "Klawon",
+    "district": "bagun"
+  },
+  {
+    "id": "mlamli",
+    "name": "Mlamli",
+    "district": "bagun"
+  }
+]

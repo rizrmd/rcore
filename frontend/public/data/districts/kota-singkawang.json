@@ -1,0 +1,27 @@
+[
+  {
+    "id": "singkawang-selatan",
+    "name": "Singkawang Selatan",
+    "regency": "kota-singkawang"
+  },
+  {
+    "id": "singkawang-timur",
+    "name": "Singkawang Timur",
+    "regency": "kota-singkawang"
+  },
+  {
+    "id": "singkawang-utara",
+    "name": "Singkawang Utara",
+    "regency": "kota-singkawang"
+  },
+  {
+    "id": "singkawang-barat",
+    "name": "Singkawang Barat",
+    "regency": "kota-singkawang"
+  },
+  {
+    "id": "singkawang-tengah",
+    "name": "Singkawang Tengah",
+    "regency": "kota-singkawang"
+  }
+]

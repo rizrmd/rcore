@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sitiung",
+    "name": "Sitiung",
+    "district": "sitiung"
+  },
+  {
+    "id": "siguntur",
+    "name": "Siguntur",
+    "district": "sitiung"
+  },
+  {
+    "id": "gunung-medan",
+    "name": "Gunung Medan",
+    "district": "sitiung"
+  },
+  {
+    "id": "sungai-duo",
+    "name": "Sungai Duo",
+    "district": "sitiung"
+  }
+]

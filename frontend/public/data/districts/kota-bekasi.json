@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pondokgede",
+    "name": "Pondokgede",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "jatisampurna",
+    "name": "Jatisampurna",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "pondokmelati",
+    "name": "Pondokmelati",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "jatiasih",
+    "name": "Jatiasih",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "bantargebang",
+    "name": "Bantargebang",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "mustikajaya",
+    "name": "Mustikajaya",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "bekasi-timur",
+    "name": "Bekasi Timur",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "rawalumbu",
+    "name": "Rawalumbu",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "bekasi-selatan",
+    "name": "Bekasi Selatan",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "bekasi-barat",
+    "name": "Bekasi Barat",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "medan-satria",
+    "name": "Medan Satria",
+    "regency": "kota-bekasi"
+  },
+  {
+    "id": "bekasi-utara",
+    "name": "Bekasi Utara",
+    "regency": "kota-bekasi"
+  }
+]

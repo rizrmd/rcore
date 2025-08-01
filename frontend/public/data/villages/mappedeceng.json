@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ujung-mattajang",
+    "name": "Ujung Mattajang",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "mangalle",
+    "name": "Mangalle",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "sumber-wangi",
+    "name": "Sumber Wangi",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "sumber-harum",
+    "name": "Sumber Harum",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "hasanah",
+    "name": "Hasanah",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "cendana-putih",
+    "name": "Cendana Putih",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "cendana-putih-satu",
+    "name": "Cendana Putih Satu",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "kapidi",
+    "name": "Kapidi",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "cendana-putih-dua",
+    "name": "Cendana Putih Dua",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "tarra-tallu",
+    "name": "Tarra Tallu",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "uraso",
+    "name": "Uraso",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "harapan",
+    "name": "Harapan",
+    "district": "mappedeceng"
+  },
+  {
+    "id": "mappedeceng",
+    "name": "Mappedeceng",
+    "district": "mappedeceng"
+  }
+]

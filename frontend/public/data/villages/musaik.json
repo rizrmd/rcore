@@ -1,0 +1,42 @@
+[
+  {
+    "id": "lidipmu",
+    "name": "Lidipmu",
+    "district": "musaik"
+  },
+  {
+    "id": "usaregeik",
+    "name": "Usaregeik",
+    "district": "musaik"
+  },
+  {
+    "id": "hendikma",
+    "name": "Hendikma",
+    "district": "musaik"
+  },
+  {
+    "id": "dekbok",
+    "name": "Dekbok",
+    "district": "musaik"
+  },
+  {
+    "id": "weleheikma",
+    "name": "Weleheikma",
+    "district": "musaik"
+  },
+  {
+    "id": "haletuk",
+    "name": "Haletuk",
+    "district": "musaik"
+  },
+  {
+    "id": "yeriko",
+    "name": "Yeriko",
+    "district": "musaik"
+  },
+  {
+    "id": "esaikma",
+    "name": "Esaikma",
+    "district": "musaik"
+  }
+]

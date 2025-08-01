@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bulusari",
+    "name": "Bulusari",
+    "district": "kalipuro"
+  },
+  {
+    "id": "kelir",
+    "name": "Kelir",
+    "district": "kalipuro"
+  },
+  {
+    "id": "kalipuro",
+    "name": "Kalipuro",
+    "district": "kalipuro"
+  },
+  {
+    "id": "klatak",
+    "name": "Klatak",
+    "district": "kalipuro"
+  },
+  {
+    "id": "ketapang",
+    "name": "Ketapang",
+    "district": "kalipuro"
+  },
+  {
+    "id": "gombeng-sari",
+    "name": "Gombeng Sari",
+    "district": "kalipuro"
+  },
+  {
+    "id": "bulusan",
+    "name": "Bulusan",
+    "district": "kalipuro"
+  }
+]

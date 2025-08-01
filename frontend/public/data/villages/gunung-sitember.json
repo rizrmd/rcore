@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bukit-lau-kersik",
+    "name": "Bukit Lau Kersik",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "gunung-sitember",
+    "name": "Gunung Sitember",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "batu-gungun",
+    "name": "Batu Gungun",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "gundaling",
+    "name": "Gundaling",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "rante-besi",
+    "name": "Rante Besi",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "kendit-liang",
+    "name": "Kendit Liang",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "lau-lebah",
+    "name": "Lau Lebah",
+    "district": "gunung-sitember"
+  },
+  {
+    "id": "tupak-raja",
+    "name": "Tupak Raja",
+    "district": "gunung-sitember"
+  }
+]

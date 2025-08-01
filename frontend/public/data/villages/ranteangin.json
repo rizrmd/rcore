@@ -1,0 +1,37 @@
+[
+  {
+    "id": "rante-baru",
+    "name": "Rante Baru",
+    "district": "ranteangin"
+  },
+  {
+    "id": "ranteangin",
+    "name": "Ranteangin",
+    "district": "ranteangin"
+  },
+  {
+    "id": "pohu",
+    "name": "Pohu",
+    "district": "ranteangin"
+  },
+  {
+    "id": "torotuo",
+    "name": "Torotuo",
+    "district": "ranteangin"
+  },
+  {
+    "id": "lawekara",
+    "name": "Lawekara",
+    "district": "ranteangin"
+  },
+  {
+    "id": "landolia",
+    "name": "Landolia",
+    "district": "ranteangin"
+  },
+  {
+    "id": "maroko",
+    "name": "Maroko",
+    "district": "ranteangin"
+  }
+]

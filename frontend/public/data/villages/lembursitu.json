@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lembursitu",
+    "name": "Lembursitu",
+    "district": "lembursitu"
+  },
+  {
+    "id": "situmekar",
+    "name": "Situmekar",
+    "district": "lembursitu"
+  },
+  {
+    "id": "cipanengah",
+    "name": "Cipanengah",
+    "district": "lembursitu"
+  },
+  {
+    "id": "cikundul",
+    "name": "Cikundul",
+    "district": "lembursitu"
+  },
+  {
+    "id": "sindangsari",
+    "name": "Sindangsari",
+    "district": "lembursitu"
+  }
+]

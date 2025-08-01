@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pulo-kerto",
+    "name": "Pulo Kerto",
+    "district": "gandus"
+  },
+  {
+    "id": "gandus",
+    "name": "Gandus",
+    "district": "gandus"
+  },
+  {
+    "id": "karang-jaya",
+    "name": "Karang Jaya",
+    "district": "gandus"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "gandus"
+  },
+  {
+    "id": "36-ilir",
+    "name": "36 Ilir",
+    "district": "gandus"
+  }
+]

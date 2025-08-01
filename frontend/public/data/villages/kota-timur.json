@@ -1,0 +1,32 @@
+[
+  {
+    "id": "padebuolo",
+    "name": "Padebuolo",
+    "district": "kota-timur"
+  },
+  {
+    "id": "ipilo",
+    "name": "Ipilo",
+    "district": "kota-timur"
+  },
+  {
+    "id": "tamalate",
+    "name": "Tamalate",
+    "district": "kota-timur"
+  },
+  {
+    "id": "moodu",
+    "name": "Moodu",
+    "district": "kota-timur"
+  },
+  {
+    "id": "heledulaa-selatan",
+    "name": "Heledulaa Selatan",
+    "district": "kota-timur"
+  },
+  {
+    "id": "heledulaa",
+    "name": "Heledulaa",
+    "district": "kota-timur"
+  }
+]

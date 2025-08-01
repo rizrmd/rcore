@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gentungang",
+    "name": "Gentungang",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "tanabangka",
+    "name": "Tanabangka",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "borimatangkasa",
+    "name": "Borimatangkasa",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "mandalle",
+    "name": "Mandalle",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "manjalling",
+    "name": "Manjalling",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "kalemandalle",
+    "name": "Kalemandalle",
+    "district": "bajeng-barat"
+  },
+  {
+    "id": "bontomanai",
+    "name": "Bontomanai",
+    "district": "bajeng-barat"
+  }
+]

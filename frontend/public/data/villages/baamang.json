@@ -1,0 +1,32 @@
+[
+  {
+    "id": "baamang-hilir",
+    "name": "Baamang Hilir",
+    "district": "baamang"
+  },
+  {
+    "id": "baamang-tengah",
+    "name": "Baamang Tengah",
+    "district": "baamang"
+  },
+  {
+    "id": "baamang-hulu",
+    "name": "Baamang Hulu",
+    "district": "baamang"
+  },
+  {
+    "id": "tinduk",
+    "name": "Tinduk",
+    "district": "baamang"
+  },
+  {
+    "id": "baamang-barat",
+    "name": "Baamang Barat",
+    "district": "baamang"
+  },
+  {
+    "id": "tanah-mas",
+    "name": "Tanah Mas",
+    "district": "baamang"
+  }
+]

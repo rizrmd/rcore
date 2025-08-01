@@ -1,0 +1,42 @@
+[
+  {
+    "id": "kulidawa",
+    "name": "Kulidawa",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "waale-ale",
+    "name": "Waale-Ale",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "labasa",
+    "name": "Labasa",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "katumpu",
+    "name": "Katumpu",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "oe-waungka",
+    "name": "Oe Waungka",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "lianosa",
+    "name": "Lianosa",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "labasa-selatan",
+    "name": "Labasa Selatan",
+    "district": "tongkuno-selatan"
+  },
+  {
+    "id": "waale-ale-barat",
+    "name": "Waale-Ale Barat",
+    "district": "tongkuno-selatan"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "suni",
+    "name": "Suni",
+    "district": "noebana"
+  },
+  {
+    "id": "noebana",
+    "name": "Noebana",
+    "district": "noebana"
+  },
+  {
+    "id": "fatumnasi",
+    "name": "Fatumnasi",
+    "district": "noebana"
+  },
+  {
+    "id": "mella",
+    "name": "Mella",
+    "district": "noebana"
+  },
+  {
+    "id": "mnela-petu",
+    "name": "Mnela Petu",
+    "district": "noebana"
+  }
+]

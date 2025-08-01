@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nagasari",
+    "name": "Nagasari",
+    "district": "pagentan"
+  },
+  {
+    "id": "aribaya",
+    "name": "Aribaya",
+    "district": "pagentan"
+  },
+  {
+    "id": "larangan",
+    "name": "Larangan",
+    "district": "pagentan"
+  },
+  {
+    "id": "karangnangka",
+    "name": "Karangnangka",
+    "district": "pagentan"
+  },
+  {
+    "id": "sokaraja",
+    "name": "Sokaraja",
+    "district": "pagentan"
+  },
+  {
+    "id": "metawana",
+    "name": "Metawana",
+    "district": "pagentan"
+  },
+  {
+    "id": "gumingsir",
+    "name": "Gumingsir",
+    "district": "pagentan"
+  },
+  {
+    "id": "kayuares",
+    "name": "Kayuares",
+    "district": "pagentan"
+  },
+  {
+    "id": "kalitlaga",
+    "name": "Kalitlaga",
+    "district": "pagentan"
+  },
+  {
+    "id": "plumbungan",
+    "name": "Plumbungan",
+    "district": "pagentan"
+  },
+  {
+    "id": "karekan",
+    "name": "Karekan",
+    "district": "pagentan"
+  },
+  {
+    "id": "kasmaran",
+    "name": "Kasmaran",
+    "district": "pagentan"
+  },
+  {
+    "id": "pagentan",
+    "name": "Pagentan",
+    "district": "pagentan"
+  },
+  {
+    "id": "majasari",
+    "name": "Majasari",
+    "district": "pagentan"
+  },
+  {
+    "id": "babadan",
+    "name": "Babadan",
+    "district": "pagentan"
+  },
+  {
+    "id": "tegaljeruk",
+    "name": "Tegaljeruk",
+    "district": "pagentan"
+  }
+]

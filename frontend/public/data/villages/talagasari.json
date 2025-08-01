@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pasirtalaga",
+    "name": "Pasirtalaga",
+    "district": "talagasari"
+  },
+  {
+    "id": "talagamulya",
+    "name": "Talagamulya",
+    "district": "talagasari"
+  },
+  {
+    "id": "cariumulya",
+    "name": "Cariumulya",
+    "district": "talagasari"
+  },
+  {
+    "id": "cilewo",
+    "name": "Cilewo",
+    "district": "talagasari"
+  },
+  {
+    "id": "linggarsari",
+    "name": "Linggarsari",
+    "district": "talagasari"
+  },
+  {
+    "id": "pulosari",
+    "name": "Pulosari",
+    "district": "talagasari"
+  },
+  {
+    "id": "ciwulan",
+    "name": "Ciwulan",
+    "district": "talagasari"
+  },
+  {
+    "id": "kalijaya",
+    "name": "Kalijaya",
+    "district": "talagasari"
+  },
+  {
+    "id": "cadaskertajaya",
+    "name": "Cadaskertajaya",
+    "district": "talagasari"
+  },
+  {
+    "id": "kalibuaya",
+    "name": "Kalibuaya",
+    "district": "talagasari"
+  },
+  {
+    "id": "talagasari",
+    "name": "Talagasari",
+    "district": "talagasari"
+  },
+  {
+    "id": "pasirmukti",
+    "name": "Pasirmukti",
+    "district": "talagasari"
+  },
+  {
+    "id": "pasirkamuning",
+    "name": "Pasirkamuning",
+    "district": "talagasari"
+  },
+  {
+    "id": "kalisari",
+    "name": "Kalisari",
+    "district": "talagasari"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kepenuhan-jaya",
+    "name": "Kepenuhan Jaya",
+    "district": "kepenuhan-hulu"
+  },
+  {
+    "id": "kepenuhan-hulu",
+    "name": "Kepenuhan Hulu",
+    "district": "kepenuhan-hulu"
+  },
+  {
+    "id": "muara-jaya",
+    "name": "Muara Jaya",
+    "district": "kepenuhan-hulu"
+  },
+  {
+    "id": "pekan-tebih",
+    "name": "Pekan Tebih",
+    "district": "kepenuhan-hulu"
+  },
+  {
+    "id": "kepayang",
+    "name": "Kepayang",
+    "district": "kepenuhan-hulu"
+  }
+]

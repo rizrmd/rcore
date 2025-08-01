@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lubai-persada",
+    "name": "Lubai Persada",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "lubai-makmur",
+    "name": "Lubai Makmur",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "lecah",
+    "name": "Lecah",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "prabu-menang",
+    "name": "Prabu Menang",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "karang-mulya",
+    "name": "Karang Mulya",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "sumber-asri",
+    "name": "Sumber Asri",
+    "district": "lubai-ulu"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "lubai-ulu"
+  }
+]

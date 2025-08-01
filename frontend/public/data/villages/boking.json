@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sabun",
+    "name": "Sabun",
+    "district": "boking"
+  },
+  {
+    "id": "nano",
+    "name": "Nano",
+    "district": "boking"
+  },
+  {
+    "id": "boking",
+    "name": "Boking",
+    "district": "boking"
+  },
+  {
+    "id": "leonmeni",
+    "name": "Leonmeni",
+    "district": "boking"
+  },
+  {
+    "id": "meusin",
+    "name": "Meusin",
+    "district": "boking"
+  },
+  {
+    "id": "baus",
+    "name": "Baus",
+    "district": "boking"
+  },
+  {
+    "id": "fatu-manufui",
+    "name": "Fatu Manufui",
+    "district": "boking"
+  }
+]

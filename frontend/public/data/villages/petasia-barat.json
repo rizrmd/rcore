@@ -1,0 +1,52 @@
+[
+  {
+    "id": "moleono",
+    "name": "Moleono",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "onepute",
+    "name": "Onepute",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "mondowe",
+    "name": "Mondowe",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "tadaku-jaya",
+    "name": "Tadaku Jaya",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "sampalowo",
+    "name": "Sampalowo",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "maralee",
+    "name": "Maralee",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "togo-mulyo",
+    "name": "Togo Mulyo",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "tiu",
+    "name": "Tiu",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "ulu-laa",
+    "name": "Ulu Laa",
+    "district": "petasia-barat"
+  },
+  {
+    "id": "tontowea",
+    "name": "Tontowea",
+    "district": "petasia-barat"
+  }
+]

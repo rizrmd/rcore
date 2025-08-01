@@ -1,0 +1,37 @@
+[
+  {
+    "id": "empang-baru",
+    "name": "Empang Baru",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "sialang-palas",
+    "name": "Sialang Palas",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "sialang-baru",
+    "name": "Sialang Baru",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "lubuk-dalam",
+    "name": "Lubuk Dalam",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "rawang-kao",
+    "name": "Rawang Kao",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "sri-gading",
+    "name": "Sri Gading",
+    "district": "lubuk-dalam"
+  },
+  {
+    "id": "rawang-kao-barat",
+    "name": "Rawang Kao Barat",
+    "district": "lubuk-dalam"
+  }
+]

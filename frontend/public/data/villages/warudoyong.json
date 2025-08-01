@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dayeuhluhur",
+    "name": "Dayeuhluhur",
+    "district": "warudoyong"
+  },
+  {
+    "id": "warudoyong",
+    "name": "Warudoyong",
+    "district": "warudoyong"
+  },
+  {
+    "id": "nyomplong",
+    "name": "Nyomplong",
+    "district": "warudoyong"
+  },
+  {
+    "id": "sukakarya",
+    "name": "Sukakarya",
+    "district": "warudoyong"
+  }
+]

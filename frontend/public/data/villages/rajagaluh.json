@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pajajar",
+    "name": "Pajajar",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "teja",
+    "name": "Teja",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "payung",
+    "name": "Payung",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "sindangpano",
+    "name": "Sindangpano",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "babakankareo",
+    "name": "Babakankareo",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "sadomas",
+    "name": "Sadomas",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "rajagaluh-kidul",
+    "name": "Rajagaluh Kidul",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "singawada",
+    "name": "Singawada",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "rajagaluh",
+    "name": "Rajagaluh",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "rajagaluh-lor",
+    "name": "Rajagaluh Lor",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "cipinang",
+    "name": "Cipinang",
+    "district": "rajagaluh"
+  },
+  {
+    "id": "cisetu",
+    "name": "Cisetu",
+    "district": "rajagaluh"
+  }
+]

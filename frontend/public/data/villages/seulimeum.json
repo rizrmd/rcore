@@ -1,0 +1,237 @@
+[
+  {
+    "id": "alue-gintong",
+    "name": "Alue Gintong",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lhieb",
+    "name": "Lhieb",
+    "district": "seulimeum"
+  },
+  {
+    "id": "data-gaseu",
+    "name": "Data Gaseu",
+    "district": "seulimeum"
+  },
+  {
+    "id": "keunaloi",
+    "name": "Keunaloi",
+    "district": "seulimeum"
+  },
+  {
+    "id": "jawie",
+    "name": "Jawie",
+    "district": "seulimeum"
+  },
+  {
+    "id": "buga",
+    "name": "Buga",
+    "district": "seulimeum"
+  },
+  {
+    "id": "pasar-seulimeum",
+    "name": "Pasar Seulimeum",
+    "district": "seulimeum"
+  },
+  {
+    "id": "rabo",
+    "name": "Rabo",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lampisang-tunong",
+    "name": "Lampisang Tunong",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lampisang-teungoh",
+    "name": "Lampisang Teungoh",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lampisang-dayah",
+    "name": "Lampisang Dayah",
+    "district": "seulimeum"
+  },
+  {
+    "id": "capeung-baroh",
+    "name": "Capeung Baroh",
+    "district": "seulimeum"
+  },
+  {
+    "id": "capeung-dayah",
+    "name": "Capeung Dayah",
+    "district": "seulimeum"
+  },
+  {
+    "id": "bak-aghu",
+    "name": "Bak Aghu",
+    "district": "seulimeum"
+  },
+  {
+    "id": "meunasah-jeumpa",
+    "name": "Meunasah Jeumpa",
+    "district": "seulimeum"
+  },
+  {
+    "id": "pinto-khop",
+    "name": "Pinto Khop",
+    "district": "seulimeum"
+  },
+  {
+    "id": "kayee-adang",
+    "name": "Kayee Adang",
+    "district": "seulimeum"
+  },
+  {
+    "id": "seuneubok",
+    "name": "Seuneubok",
+    "district": "seulimeum"
+  },
+  {
+    "id": "seulimeum",
+    "name": "Seulimeum",
+    "district": "seulimeum"
+  },
+  {
+    "id": "gampong-raya",
+    "name": "Gampong Raya",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lamjruen",
+    "name": "Lamjruen",
+    "district": "seulimeum"
+  },
+  {
+    "id": "iboh-tanjong",
+    "name": "Iboh Tanjong",
+    "district": "seulimeum"
+  },
+  {
+    "id": "iboh-tunong",
+    "name": "Iboh Tunong",
+    "district": "seulimeum"
+  },
+  {
+    "id": "alue-rindang",
+    "name": "Alue Rindang",
+    "district": "seulimeum"
+  },
+  {
+    "id": "meunasah-baro",
+    "name": "Meunasah Baro",
+    "district": "seulimeum"
+  },
+  {
+    "id": "ayon",
+    "name": "Ayon",
+    "district": "seulimeum"
+  },
+  {
+    "id": "bayu",
+    "name": "Bayu",
+    "district": "seulimeum"
+  },
+  {
+    "id": "batee-lhee",
+    "name": "Batee Lhee",
+    "district": "seulimeum"
+  },
+  {
+    "id": "meunasah-tunong",
+    "name": "Meunasah Tunong",
+    "district": "seulimeum"
+  },
+  {
+    "id": "mangeu",
+    "name": "Mangeu",
+    "district": "seulimeum"
+  },
+  {
+    "id": "bak-seutui",
+    "name": "Bak Seutui",
+    "district": "seulimeum"
+  },
+  {
+    "id": "ujong-mesjid-tanoh-abee",
+    "name": "Ujong Mesjid Tanoh Abee",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lamkuk",
+    "name": "Lamkuk",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lamcarak",
+    "name": "Lamcarak",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lampantee",
+    "name": "Lampantee",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lamteuba-droe",
+    "name": "Lamteuba Droe",
+    "district": "seulimeum"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "seulimeum"
+  },
+  {
+    "id": "meurah",
+    "name": "Meurah",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lambada",
+    "name": "Lambada",
+    "district": "seulimeum"
+  },
+  {
+    "id": "blang-tingkeum",
+    "name": "Blang Tingkeum",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lam-apeng",
+    "name": "Lam Apeng",
+    "district": "seulimeum"
+  },
+  {
+    "id": "ateuk",
+    "name": "Ateuk",
+    "district": "seulimeum"
+  },
+  {
+    "id": "beureunut",
+    "name": "Beureunut",
+    "district": "seulimeum"
+  },
+  {
+    "id": "ujong-keupula",
+    "name": "Ujong Keupula",
+    "district": "seulimeum"
+  },
+  {
+    "id": "lampanah",
+    "name": "Lampanah",
+    "district": "seulimeum"
+  },
+  {
+    "id": "ujong-mesjid-lampanah",
+    "name": "Ujong Mesjid Lampanah",
+    "district": "seulimeum"
+  },
+  {
+    "id": "leungah",
+    "name": "Leungah",
+    "district": "seulimeum"
+  }
+]

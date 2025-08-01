@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sidopo",
+    "name": "Sidopo",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "gorua-lolaro",
+    "name": "Gorua Lolaro",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "nusa-babullah",
+    "name": "Nusa Babullah",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "jojame",
+    "name": "Jojame",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "yaba",
+    "name": "Yaba",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "geti-baru",
+    "name": "Geti Baru",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "geti-lama",
+    "name": "Geti Lama",
+    "district": "bacan-barat-utara"
+  },
+  {
+    "id": "gilalang",
+    "name": "Gilalang",
+    "district": "bacan-barat-utara"
+  }
+]

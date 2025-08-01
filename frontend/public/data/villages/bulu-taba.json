@@ -1,0 +1,37 @@
+[
+  {
+    "id": "karave",
+    "name": "Karave",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "lilimori",
+    "name": "Lilimori",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "bukit-harapan",
+    "name": "Bukit Harapan",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "ompi",
+    "name": "Ompi",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "lelejae",
+    "name": "Lelejae",
+    "district": "bulu-taba"
+  },
+  {
+    "id": "kasta-buana",
+    "name": "Kasta Buana",
+    "district": "bulu-taba"
+  }
+]

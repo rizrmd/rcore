@@ -1,0 +1,42 @@
+[
+  {
+    "id": "banggae",
+    "name": "Banggae",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "banggae-timur",
+    "name": "Banggae Timur",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "pamboang",
+    "name": "Pamboang",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "sendana",
+    "name": "Sendana",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "tammerodo",
+    "name": "Tammerodo",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "tubo-sendana",
+    "name": "Tubo Sendana",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "malunda",
+    "name": "Malunda",
+    "regency": "kabupaten-majene"
+  },
+  {
+    "id": "ulumanda",
+    "name": "Ulumanda",
+    "regency": "kabupaten-majene"
+  }
+]

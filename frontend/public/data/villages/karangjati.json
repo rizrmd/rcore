@@ -1,0 +1,82 @@
+[
+  {
+    "id": "campur-asri",
+    "name": "Campur Asri",
+    "district": "karangjati"
+  },
+  {
+    "id": "danguk",
+    "name": "Danguk",
+    "district": "karangjati"
+  },
+  {
+    "id": "gempol",
+    "name": "Gempol",
+    "district": "karangjati"
+  },
+  {
+    "id": "ringin-anom",
+    "name": "Ringin Anom",
+    "district": "karangjati"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "karangjati"
+  },
+  {
+    "id": "dungmiri",
+    "name": "Dungmiri",
+    "district": "karangjati"
+  },
+  {
+    "id": "brangol",
+    "name": "Brangol",
+    "district": "karangjati"
+  },
+  {
+    "id": "sidokerto",
+    "name": "Sidokerto",
+    "district": "karangjati"
+  },
+  {
+    "id": "jatipuro",
+    "name": "Jatipuro",
+    "district": "karangjati"
+  },
+  {
+    "id": "puhti",
+    "name": "Puhti",
+    "district": "karangjati"
+  },
+  {
+    "id": "sawo",
+    "name": "Sawo",
+    "district": "karangjati"
+  },
+  {
+    "id": "karangjati",
+    "name": "Karangjati",
+    "district": "karangjati"
+  },
+  {
+    "id": "legundi",
+    "name": "Legundi",
+    "district": "karangjati"
+  },
+  {
+    "id": "rejomulyo",
+    "name": "Rejomulyo",
+    "district": "karangjati"
+  },
+  {
+    "id": "rejuno",
+    "name": "Rejuno",
+    "district": "karangjati"
+  },
+  {
+    "id": "ploso-lor",
+    "name": "Ploso Lor",
+    "district": "karangjati"
+  }
+]

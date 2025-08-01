@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cibeunying",
+    "name": "Cibeunying",
+    "district": "cimenyan"
+  },
+  {
+    "id": "padasuka",
+    "name": "Padasuka",
+    "district": "cimenyan"
+  },
+  {
+    "id": "mandalamekar",
+    "name": "Mandalamekar",
+    "district": "cimenyan"
+  },
+  {
+    "id": "cikadut",
+    "name": "Cikadut",
+    "district": "cimenyan"
+  },
+  {
+    "id": "sindanglaya",
+    "name": "Sindanglaya",
+    "district": "cimenyan"
+  },
+  {
+    "id": "mekarmanik",
+    "name": "Mekarmanik",
+    "district": "cimenyan"
+  },
+  {
+    "id": "cimenyan",
+    "name": "Cimenyan",
+    "district": "cimenyan"
+  },
+  {
+    "id": "mekarsaluyu",
+    "name": "Mekarsaluyu",
+    "district": "cimenyan"
+  },
+  {
+    "id": "ciburial",
+    "name": "Ciburial",
+    "district": "cimenyan"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "permata",
+    "name": "Permata",
+    "district": "pengkadan"
+  },
+  {
+    "id": "marta-dana",
+    "name": "Marta Dana",
+    "district": "pengkadan"
+  },
+  {
+    "id": "riam-panjang",
+    "name": "Riam Panjang",
+    "district": "pengkadan"
+  },
+  {
+    "id": "buak-limbang",
+    "name": "Buak Limbang",
+    "district": "pengkadan"
+  },
+  {
+    "id": "mawan",
+    "name": "Mawan",
+    "district": "pengkadan"
+  },
+  {
+    "id": "kerangan-panjang",
+    "name": "Kerangan Panjang",
+    "district": "pengkadan"
+  },
+  {
+    "id": "hulu-pengkadan",
+    "name": "Hulu Pengkadan",
+    "district": "pengkadan"
+  },
+  {
+    "id": "pinang-laka",
+    "name": "Pinang Laka",
+    "district": "pengkadan"
+  },
+  {
+    "id": "sasan",
+    "name": "Sasan",
+    "district": "pengkadan"
+  },
+  {
+    "id": "pengkadan-hilir",
+    "name": "Pengkadan Hilir",
+    "district": "pengkadan"
+  },
+  {
+    "id": "sira-jaya",
+    "name": "Sira Jaya",
+    "district": "pengkadan"
+  }
+]

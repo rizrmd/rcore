@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tangma",
+    "name": "Tangma",
+    "district": "tangma"
+  },
+  {
+    "id": "wamarek",
+    "name": "Wamarek",
+    "district": "tangma"
+  },
+  {
+    "id": "hipela",
+    "name": "Hipela",
+    "district": "tangma"
+  },
+  {
+    "id": "huewi",
+    "name": "Huewi",
+    "district": "tangma"
+  },
+  {
+    "id": "punno",
+    "name": "Punno",
+    "district": "tangma"
+  },
+  {
+    "id": "simeka",
+    "name": "Simeka",
+    "district": "tangma"
+  },
+  {
+    "id": "yeleas",
+    "name": "Yeleas",
+    "district": "tangma"
+  },
+  {
+    "id": "aleleng",
+    "name": "Aleleng",
+    "district": "tangma"
+  },
+  {
+    "id": "yalimo",
+    "name": "Yalimo",
+    "district": "tangma"
+  },
+  {
+    "id": "helo",
+    "name": "Helo",
+    "district": "tangma"
+  }
+]

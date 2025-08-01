@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cilellang",
+    "name": "Cilellang",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "manuba",
+    "name": "Manuba",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "nepo",
+    "name": "Nepo",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "palanro",
+    "name": "Palanro",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "mallawa",
+    "name": "Mallawa",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "kupa",
+    "name": "Kupa",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "bojo",
+    "name": "Bojo",
+    "district": "mallusetasi"
+  },
+  {
+    "id": "bojo-baru",
+    "name": "Bojo Baru",
+    "district": "mallusetasi"
+  }
+]

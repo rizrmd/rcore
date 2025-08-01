@@ -1,0 +1,22 @@
+[
+  {
+    "id": "penarah",
+    "name": "Penarah",
+    "district": "belat"
+  },
+  {
+    "id": "sungai-asam",
+    "name": "Sungai Asam",
+    "district": "belat"
+  },
+  {
+    "id": "degong",
+    "name": "Degong",
+    "district": "belat"
+  },
+  {
+    "id": "tebias",
+    "name": "Tebias",
+    "district": "belat"
+  }
+]

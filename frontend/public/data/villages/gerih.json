@@ -1,0 +1,22 @@
+[
+  {
+    "id": "randusongo",
+    "name": "Randusongo",
+    "district": "gerih"
+  },
+  {
+    "id": "widodaren",
+    "name": "Widodaren",
+    "district": "gerih"
+  },
+  {
+    "id": "gerih",
+    "name": "Gerih",
+    "district": "gerih"
+  },
+  {
+    "id": "keras-kulon",
+    "name": "Keras Kulon",
+    "district": "gerih"
+  }
+]

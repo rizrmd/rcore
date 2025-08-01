@@ -1,0 +1,92 @@
+[
+  {
+    "id": "leuweunggajah",
+    "name": "Leuweunggajah",
+    "district": "ciledug"
+  },
+  {
+    "id": "tenjomaya",
+    "name": "Tenjomaya",
+    "district": "ciledug"
+  },
+  {
+    "id": "damarguna",
+    "name": "Damarguna",
+    "district": "ciledug"
+  },
+  {
+    "id": "jatiseeng",
+    "name": "Jatiseeng",
+    "district": "ciledug"
+  },
+  {
+    "id": "jatiseeng-kidul",
+    "name": "Jatiseeng Kidul",
+    "district": "ciledug"
+  },
+  {
+    "id": "ciledug-kulon",
+    "name": "Ciledug Kulon",
+    "district": "ciledug"
+  },
+  {
+    "id": "ciledug-wetan",
+    "name": "Ciledug Wetan",
+    "district": "ciledug"
+  },
+  {
+    "id": "ciledug-lor",
+    "name": "Ciledug Lor",
+    "district": "ciledug"
+  },
+  {
+    "id": "ciledug-tengah",
+    "name": "Ciledug Tengah",
+    "district": "ciledug"
+  },
+  {
+    "id": "bojongnegara",
+    "name": "Bojongnegara",
+    "district": "ciledug"
+  },
+  {
+    "id": "tajur",
+    "name": "Tajur",
+    "district": "ciledug"
+  },
+  {
+    "id": "parung-serab",
+    "name": "Parung Serab",
+    "district": "ciledug"
+  },
+  {
+    "id": "paninggilan",
+    "name": "Paninggilan",
+    "district": "ciledug"
+  },
+  {
+    "id": "paninggilan-utara",
+    "name": "Paninggilan Utara",
+    "district": "ciledug"
+  },
+  {
+    "id": "sudimara-selatan",
+    "name": "Sudimara Selatan",
+    "district": "ciledug"
+  },
+  {
+    "id": "sudimara-barat",
+    "name": "Sudimara Barat",
+    "district": "ciledug"
+  },
+  {
+    "id": "sudimara-jaya",
+    "name": "Sudimara Jaya",
+    "district": "ciledug"
+  },
+  {
+    "id": "sudimara-timur",
+    "name": "Sudimara Timur",
+    "district": "ciledug"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mate",
+    "name": "Mate",
+    "district": "inanwatan"
+  },
+  {
+    "id": "wadoi",
+    "name": "Wadoi",
+    "district": "inanwatan"
+  },
+  {
+    "id": "sibae",
+    "name": "Sibae",
+    "district": "inanwatan"
+  },
+  {
+    "id": "isogo",
+    "name": "Isogo",
+    "district": "inanwatan"
+  },
+  {
+    "id": "serkos",
+    "name": "Serkos",
+    "district": "inanwatan"
+  },
+  {
+    "id": "solta-baru",
+    "name": "Solta Baru",
+    "district": "inanwatan"
+  },
+  {
+    "id": "nogibi",
+    "name": "Nogibi",
+    "district": "inanwatan"
+  },
+  {
+    "id": "odeare",
+    "name": "Odeare",
+    "district": "inanwatan"
+  },
+  {
+    "id": "siri-siri",
+    "name": "Siri-Siri",
+    "district": "inanwatan"
+  }
+]

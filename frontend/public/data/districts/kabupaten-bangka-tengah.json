@@ -1,0 +1,32 @@
+[
+  {
+    "id": "koba",
+    "name": "Koba",
+    "regency": "kabupaten-bangka-tengah"
+  },
+  {
+    "id": "lubuk-besar",
+    "name": "Lubuk Besar",
+    "regency": "kabupaten-bangka-tengah"
+  },
+  {
+    "id": "pangkalan-baru",
+    "name": "Pangkalan Baru",
+    "regency": "kabupaten-bangka-tengah"
+  },
+  {
+    "id": "namang",
+    "name": "Namang",
+    "regency": "kabupaten-bangka-tengah"
+  },
+  {
+    "id": "sungai-selan",
+    "name": "Sungai Selan",
+    "regency": "kabupaten-bangka-tengah"
+  },
+  {
+    "id": "simpang-katis",
+    "name": "Simpang Katis",
+    "regency": "kabupaten-bangka-tengah"
+  }
+]

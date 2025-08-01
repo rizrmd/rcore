@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "district": "samarinda-kota"
+  },
+  {
+    "id": "pasar-pagi",
+    "name": "Pasar Pagi",
+    "district": "samarinda-kota"
+  },
+  {
+    "id": "pelabuhan",
+    "name": "Pelabuhan",
+    "district": "samarinda-kota"
+  },
+  {
+    "id": "sungai-pinang-luar",
+    "name": "Sungai Pinang Luar",
+    "district": "samarinda-kota"
+  },
+  {
+    "id": "karang-mumus",
+    "name": "Karang Mumus",
+    "district": "samarinda-kota"
+  }
+]

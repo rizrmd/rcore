@@ -1,0 +1,67 @@
+[
+  {
+    "id": "jahabra",
+    "name": "Jahabra",
+    "district": "biscoop"
+  },
+  {
+    "id": "ibori",
+    "name": "Ibori",
+    "district": "biscoop"
+  },
+  {
+    "id": "meyorga",
+    "name": "Meyorga",
+    "district": "biscoop"
+  },
+  {
+    "id": "laudoho",
+    "name": "Laudoho",
+    "district": "biscoop"
+  },
+  {
+    "id": "eniba",
+    "name": "Eniba",
+    "district": "biscoop"
+  },
+  {
+    "id": "mowtika",
+    "name": "Mowtika",
+    "district": "biscoop"
+  },
+  {
+    "id": "biscoop",
+    "name": "Biscoop",
+    "district": "biscoop"
+  },
+  {
+    "id": "dhija",
+    "name": "Dhija",
+    "district": "biscoop"
+  },
+  {
+    "id": "tomou",
+    "name": "Tomou",
+    "district": "biscoop"
+  },
+  {
+    "id": "mendesba",
+    "name": "Mendesba",
+    "district": "biscoop"
+  },
+  {
+    "id": "meyad-meyoij",
+    "name": "Meyad / Meyoij",
+    "district": "biscoop"
+  },
+  {
+    "id": "ijom",
+    "name": "Ijom",
+    "district": "biscoop"
+  },
+  {
+    "id": "meminjem",
+    "name": "Meminjem",
+    "district": "biscoop"
+  }
+]

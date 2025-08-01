@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wiring-yoyok",
+    "name": "Wiring Yoyok",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "tawabi",
+    "name": "Tawabi",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "nondang",
+    "name": "Nondang",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "indari",
+    "name": "Indari",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "kusubibi",
+    "name": "Kusubibi",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "kokotu",
+    "name": "Kokotu",
+    "district": "bacan-barat"
+  },
+  {
+    "id": "kotunang",
+    "name": "Kotunang",
+    "district": "bacan-barat"
+  }
+]

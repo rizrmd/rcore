@@ -1,0 +1,42 @@
+[
+  {
+    "id": "cipta-graha",
+    "name": "Cipta Graha",
+    "district": "kaubun"
+  },
+  {
+    "id": "bumi-jaya",
+    "name": "Bumi Jaya",
+    "district": "kaubun"
+  },
+  {
+    "id": "bumi-rapak",
+    "name": "Bumi Rapak",
+    "district": "kaubun"
+  },
+  {
+    "id": "bumi-etam",
+    "name": "Bumi Etam",
+    "district": "kaubun"
+  },
+  {
+    "id": "mata-air",
+    "name": "Mata Air",
+    "district": "kaubun"
+  },
+  {
+    "id": "bukit-permata",
+    "name": "Bukit Permata",
+    "district": "kaubun"
+  },
+  {
+    "id": "kadungan-jaya",
+    "name": "Kadungan Jaya",
+    "district": "kaubun"
+  },
+  {
+    "id": "pengadan-baru",
+    "name": "Pengadan Baru",
+    "district": "kaubun"
+  }
+]

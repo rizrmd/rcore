@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tarangop",
+    "name": "Tarangop",
+    "district": "kawor"
+  },
+  {
+    "id": "arintap",
+    "name": "Arintap",
+    "district": "kawor"
+  },
+  {
+    "id": "sakup",
+    "name": "Sakup",
+    "district": "kawor"
+  },
+  {
+    "id": "nanum",
+    "name": "Nanum",
+    "district": "kawor"
+  },
+  {
+    "id": "kawor",
+    "name": "Kawor",
+    "district": "kawor"
+  },
+  {
+    "id": "ater",
+    "name": "Ater",
+    "district": "kawor"
+  },
+  {
+    "id": "umding",
+    "name": "Umding",
+    "district": "kawor"
+  }
+]

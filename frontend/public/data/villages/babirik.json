@@ -1,0 +1,117 @@
+[
+  {
+    "id": "murung-kupang",
+    "name": "Murung Kupang",
+    "district": "babirik"
+  },
+  {
+    "id": "babirik-hilir",
+    "name": "Babirik Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "babirik-hulu",
+    "name": "Babirik Hulu",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-janjam",
+    "name": "Sungai Janjam",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-durait-hilir",
+    "name": "Sungai Durait Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-durait-tengah",
+    "name": "Sungai Durait Tengah",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-durait-hulu",
+    "name": "Sungai Durait Hulu",
+    "district": "babirik"
+  },
+  {
+    "id": "hambuku-lima",
+    "name": "Hambuku Lima",
+    "district": "babirik"
+  },
+  {
+    "id": "hambuku-baru",
+    "name": "Hambuku Baru",
+    "district": "babirik"
+  },
+  {
+    "id": "hambuku-hilir",
+    "name": "Hambuku Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "murung-panti-hulu",
+    "name": "Murung Panti Hulu",
+    "district": "babirik"
+  },
+  {
+    "id": "murung-panti-hilir",
+    "name": "Murung Panti Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "teluk-limbung",
+    "name": "Teluk Limbung",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-papuyu",
+    "name": "Sungai Papuyu",
+    "district": "babirik"
+  },
+  {
+    "id": "kalumpang-luar",
+    "name": "Kalumpang Luar",
+    "district": "babirik"
+  },
+  {
+    "id": "kalumpang-dalam",
+    "name": "Kalumpang Dalam",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-luang-hilir",
+    "name": "Sungai Luang Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "parupukan",
+    "name": "Parupukan",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-nyiur",
+    "name": "Sungai Nyiur",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-luang-hulu",
+    "name": "Sungai Luang Hulu",
+    "district": "babirik"
+  },
+  {
+    "id": "sungai-dalam",
+    "name": "Sungai Dalam",
+    "district": "babirik"
+  },
+  {
+    "id": "pajukungan-hilir",
+    "name": "Pajukungan Hilir",
+    "district": "babirik"
+  },
+  {
+    "id": "pajukungan-hulu",
+    "name": "Pajukungan Hulu",
+    "district": "babirik"
+  }
+]

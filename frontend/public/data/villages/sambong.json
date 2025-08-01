@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sambongrejo",
+    "name": "Sambongrejo",
+    "district": "sambong"
+  },
+  {
+    "id": "gadu",
+    "name": "Gadu",
+    "district": "sambong"
+  },
+  {
+    "id": "sambong",
+    "name": "Sambong",
+    "district": "sambong"
+  },
+  {
+    "id": "pojokwatu",
+    "name": "Pojokwatu",
+    "district": "sambong"
+  },
+  {
+    "id": "gagakan",
+    "name": "Gagakan",
+    "district": "sambong"
+  },
+  {
+    "id": "biting",
+    "name": "Biting",
+    "district": "sambong"
+  },
+  {
+    "id": "brabowan",
+    "name": "Brabowan",
+    "district": "sambong"
+  },
+  {
+    "id": "ledok",
+    "name": "Ledok",
+    "district": "sambong"
+  },
+  {
+    "id": "giyanti",
+    "name": "Giyanti",
+    "district": "sambong"
+  }
+]

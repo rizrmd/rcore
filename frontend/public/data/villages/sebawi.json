@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sebawi",
+    "name": "Sebawi",
+    "district": "sebawi"
+  },
+  {
+    "id": "sempelai-sebedang",
+    "name": "Sempelai Sebedang",
+    "district": "sebawi"
+  },
+  {
+    "id": "sepuk-tanjung",
+    "name": "Sepuk Tanjung",
+    "district": "sebawi"
+  },
+  {
+    "id": "sebangun",
+    "name": "Sebangun",
+    "district": "sebawi"
+  },
+  {
+    "id": "tempatan",
+    "name": "Tempatan",
+    "district": "sebawi"
+  },
+  {
+    "id": "tebing-batu",
+    "name": "Tebing Batu",
+    "district": "sebawi"
+  },
+  {
+    "id": "semanjang",
+    "name": "Semanjang",
+    "district": "sebawi"
+  }
+]

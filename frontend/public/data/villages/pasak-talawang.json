@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dandang",
+    "name": "Dandang",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "balai-banjang",
+    "name": "Balai Banjang",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "jangkang",
+    "name": "Jangkang",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "kaburan",
+    "name": "Kaburan",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "sei-ringin",
+    "name": "Sei Ringin",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "hurung-kampin",
+    "name": "Hurung Kampin",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "tumbang-tukun",
+    "name": "Tumbang Tukun",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "tumbang-diring",
+    "name": "Tumbang Diring",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "batu-sambung",
+    "name": "Batu Sambung",
+    "district": "pasak-talawang"
+  },
+  {
+    "id": "tumbang-nusa",
+    "name": "Tumbang Nusa",
+    "district": "pasak-talawang"
+  }
+]

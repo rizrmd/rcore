@@ -1,0 +1,97 @@
+[
+  {
+    "id": "pematang-kijang",
+    "name": "Pematang Kijang",
+    "district": "jejawi"
+  },
+  {
+    "id": "bubusan",
+    "name": "Bubusan",
+    "district": "jejawi"
+  },
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "jejawi"
+  },
+  {
+    "id": "jejawi",
+    "name": "Jejawi",
+    "district": "jejawi"
+  },
+  {
+    "id": "karang-agung",
+    "name": "Karang Agung",
+    "district": "jejawi"
+  },
+  {
+    "id": "talang-cempedak",
+    "name": "Talang Cempedak",
+    "district": "jejawi"
+  },
+  {
+    "id": "lubuk-ketepeng",
+    "name": "Lubuk Ketepeng",
+    "district": "jejawi"
+  },
+  {
+    "id": "tanjung-aur",
+    "name": "Tanjung Aur",
+    "district": "jejawi"
+  },
+  {
+    "id": "lingkis",
+    "name": "Lingkis",
+    "district": "jejawi"
+  },
+  {
+    "id": "muara-batun",
+    "name": "Muara Batun",
+    "district": "jejawi"
+  },
+  {
+    "id": "terusan-jawa",
+    "name": "Terusan Jawa",
+    "district": "jejawi"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "jejawi"
+  },
+  {
+    "id": "pedu",
+    "name": "Pedu",
+    "district": "jejawi"
+  },
+  {
+    "id": "ulak-tembaga",
+    "name": "Ulak Tembaga",
+    "district": "jejawi"
+  },
+  {
+    "id": "sukadarma",
+    "name": "Sukadarma",
+    "district": "jejawi"
+  },
+  {
+    "id": "tanjung-ali",
+    "name": "Tanjung Ali",
+    "district": "jejawi"
+  },
+  {
+    "id": "padang-bulan",
+    "name": "Padang Bulan",
+    "district": "jejawi"
+  },
+  {
+    "id": "batun-baru",
+    "name": "Batun Baru",
+    "district": "jejawi"
+  },
+  {
+    "id": "danau-ceper",
+    "name": "Danau Ceper",
+    "district": "jejawi"
+  }
+]

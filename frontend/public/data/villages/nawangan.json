@@ -1,0 +1,37 @@
+[
+  {
+    "id": "gondang",
+    "name": "Gondang",
+    "district": "nawangan"
+  },
+  {
+    "id": "mujing",
+    "name": "Mujing",
+    "district": "nawangan"
+  },
+  {
+    "id": "nawangan",
+    "name": "Nawangan",
+    "district": "nawangan"
+  },
+  {
+    "id": "tokawi",
+    "name": "Tokawi",
+    "district": "nawangan"
+  },
+  {
+    "id": "jetislor",
+    "name": "Jetislor",
+    "district": "nawangan"
+  },
+  {
+    "id": "pakisbaru",
+    "name": "Pakisbaru",
+    "district": "nawangan"
+  },
+  {
+    "id": "ngromo",
+    "name": "Ngromo",
+    "district": "nawangan"
+  }
+]

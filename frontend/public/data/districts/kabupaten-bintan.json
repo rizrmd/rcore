@@ -1,0 +1,52 @@
+[
+  {
+    "id": "teluk-bintan",
+    "name": "Teluk Bintan",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "bintan-utara",
+    "name": "Bintan Utara",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "teluk-sebong",
+    "name": "Teluk Sebong",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "seri-kuala-lobam",
+    "name": "Seri Kuala Lobam",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "bintan-timur",
+    "name": "Bintan Timur",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "gunung-kijang",
+    "name": "Gunung Kijang",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "mantang",
+    "name": "Mantang",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "bintan-pesisir",
+    "name": "Bintan Pesisir",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "toapaya",
+    "name": "Toapaya",
+    "regency": "kabupaten-bintan"
+  },
+  {
+    "id": "tambelan",
+    "name": "Tambelan",
+    "regency": "kabupaten-bintan"
+  }
+]

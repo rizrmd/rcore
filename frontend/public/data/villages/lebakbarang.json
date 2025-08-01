@@ -1,0 +1,57 @@
+[
+  {
+    "id": "tembelang-gunung",
+    "name": "Tembelang Gunung",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "pamutuh",
+    "name": "Pamutuh",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "depok",
+    "name": "Depok",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "wonosido",
+    "name": "Wonosido",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "timbangsari",
+    "name": "Timbangsari",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "sidomulyo",
+    "name": "Sidomulyo",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "kutorembet",
+    "name": "Kutorembet",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "lebakbarang",
+    "name": "Lebakbarang",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "kapundutan",
+    "name": "Kapundutan",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "bantar-kulon",
+    "name": "Bantar Kulon",
+    "district": "lebakbarang"
+  },
+  {
+    "id": "mendolo",
+    "name": "Mendolo",
+    "district": "lebakbarang"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tallang-rilau",
+    "name": "Tallang Rilau",
+    "district": "bungin"
+  },
+  {
+    "id": "bulo",
+    "name": "Bulo",
+    "district": "bungin"
+  },
+  {
+    "id": "baruka",
+    "name": "Baruka",
+    "district": "bungin"
+  },
+  {
+    "id": "bungin",
+    "name": "Bungin",
+    "district": "bungin"
+  },
+  {
+    "id": "sawito",
+    "name": "Sawito",
+    "district": "bungin"
+  },
+  {
+    "id": "banua",
+    "name": "Banua",
+    "district": "bungin"
+  }
+]

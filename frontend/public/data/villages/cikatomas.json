@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "cikatomas"
+  },
+  {
+    "id": "cilumba",
+    "name": "Cilumba",
+    "district": "cikatomas"
+  },
+  {
+    "id": "linggalaksana",
+    "name": "Linggalaksana",
+    "district": "cikatomas"
+  },
+  {
+    "id": "pakemitan",
+    "name": "Pakemitan",
+    "district": "cikatomas"
+  },
+  {
+    "id": "cogreg",
+    "name": "Cogreg",
+    "district": "cikatomas"
+  },
+  {
+    "id": "lengkongbarang",
+    "name": "Lengkongbarang",
+    "district": "cikatomas"
+  },
+  {
+    "id": "tanjungbarang",
+    "name": "Tanjungbarang",
+    "district": "cikatomas"
+  },
+  {
+    "id": "cayur",
+    "name": "Cayur",
+    "district": "cikatomas"
+  },
+  {
+    "id": "sindangasih",
+    "name": "Sindangasih",
+    "district": "cikatomas"
+  }
+]

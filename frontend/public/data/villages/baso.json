@@ -1,0 +1,32 @@
+[
+  {
+    "id": "koto-tinggi",
+    "name": "Koto Tinggi",
+    "district": "baso"
+  },
+  {
+    "id": "padang-tarok",
+    "name": "Padang Tarok",
+    "district": "baso"
+  },
+  {
+    "id": "simarasok",
+    "name": "Simarasok",
+    "district": "baso"
+  },
+  {
+    "id": "tabek-panjang",
+    "name": "Tabek Panjang",
+    "district": "baso"
+  },
+  {
+    "id": "salo",
+    "name": "Salo",
+    "district": "baso"
+  },
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "district": "baso"
+  }
+]

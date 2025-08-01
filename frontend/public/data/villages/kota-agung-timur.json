@@ -1,0 +1,62 @@
+[
+  {
+    "id": "teba",
+    "name": "Teba",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "karta",
+    "name": "Karta",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "tanjung-anom",
+    "name": "Tanjung Anom",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "umbul-buah",
+    "name": "Umbul Buah",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "kagungan",
+    "name": "Kagungan",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "suka-banjar",
+    "name": "Suka Banjar",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "menggala",
+    "name": "Menggala",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "mulang-maya",
+    "name": "Mulang Maya",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "batu-keramat",
+    "name": "Batu Keramat",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "talang-rejo",
+    "name": "Talang Rejo",
+    "district": "kota-agung-timur"
+  },
+  {
+    "id": "tanjung-jati",
+    "name": "Tanjung Jati",
+    "district": "kota-agung-timur"
+  }
+]

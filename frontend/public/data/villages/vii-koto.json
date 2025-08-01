@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "vii-koto"
+  },
+  {
+    "id": "kuamang",
+    "name": "Kuamang",
+    "district": "vii-koto"
+  },
+  {
+    "id": "teluk-kayu-putih",
+    "name": "Teluk Kayu Putih",
+    "district": "vii-koto"
+  },
+  {
+    "id": "dusun-baru",
+    "name": "Dusun Baru",
+    "district": "vii-koto"
+  },
+  {
+    "id": "muara-niro",
+    "name": "Muara Niro",
+    "district": "vii-koto"
+  },
+  {
+    "id": "aur-cino",
+    "name": "Aur Cino",
+    "district": "vii-koto"
+  },
+  {
+    "id": "sungai-abang",
+    "name": "Sungai Abang",
+    "district": "vii-koto"
+  },
+  {
+    "id": "teluk-lancang",
+    "name": "Teluk Lancang",
+    "district": "vii-koto"
+  },
+  {
+    "id": "muara-tabun",
+    "name": "Muara Tabun",
+    "district": "vii-koto"
+  },
+  {
+    "id": "tabun",
+    "name": "Tabun",
+    "district": "vii-koto"
+  }
+]

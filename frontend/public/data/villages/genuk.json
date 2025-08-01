@@ -1,0 +1,62 @@
+[
+  {
+    "id": "muktiharjo-lor",
+    "name": "Muktiharjo Lor",
+    "district": "genuk"
+  },
+  {
+    "id": "gebangsari",
+    "name": "Gebangsari",
+    "district": "genuk"
+  },
+  {
+    "id": "genuksari",
+    "name": "Genuksari",
+    "district": "genuk"
+  },
+  {
+    "id": "bangetayu-kulon",
+    "name": "Bangetayu Kulon",
+    "district": "genuk"
+  },
+  {
+    "id": "bangetayu-wetan",
+    "name": "Bangetayu Wetan",
+    "district": "genuk"
+  },
+  {
+    "id": "sembungharjo",
+    "name": "Sembungharjo",
+    "district": "genuk"
+  },
+  {
+    "id": "penggaron-lor",
+    "name": "Penggaron Lor",
+    "district": "genuk"
+  },
+  {
+    "id": "karangroto",
+    "name": "Karangroto",
+    "district": "genuk"
+  },
+  {
+    "id": "banjardowo",
+    "name": "Banjardowo",
+    "district": "genuk"
+  },
+  {
+    "id": "trimulyo",
+    "name": "Trimulyo",
+    "district": "genuk"
+  },
+  {
+    "id": "terboyo-wetan",
+    "name": "Terboyo Wetan",
+    "district": "genuk"
+  },
+  {
+    "id": "terboyo-kulon",
+    "name": "Terboyo Kulon",
+    "district": "genuk"
+  }
+]

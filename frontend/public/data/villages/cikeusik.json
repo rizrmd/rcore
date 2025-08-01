@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tanjungan",
+    "name": "Tanjungan",
+    "district": "cikeusik"
+  },
+  {
+    "id": "cikiruhwetan",
+    "name": "Cikiruhwetan",
+    "district": "cikeusik"
+  },
+  {
+    "id": "sukawaris",
+    "name": "Sukawaris",
+    "district": "cikeusik"
+  },
+  {
+    "id": "sumurbatu",
+    "name": "Sumurbatu",
+    "district": "cikeusik"
+  },
+  {
+    "id": "umbulan",
+    "name": "Umbulan",
+    "district": "cikeusik"
+  },
+  {
+    "id": "sukamulya",
+    "name": "Sukamulya",
+    "district": "cikeusik"
+  },
+  {
+    "id": "parungkokosan",
+    "name": "Parungkokosan",
+    "district": "cikeusik"
+  },
+  {
+    "id": "nanggala",
+    "name": "Nanggala",
+    "district": "cikeusik"
+  },
+  {
+    "id": "rancaseneng",
+    "name": "Rancaseneng",
+    "district": "cikeusik"
+  },
+  {
+    "id": "sukaseneng",
+    "name": "Sukaseneng",
+    "district": "cikeusik"
+  },
+  {
+    "id": "cikeusik",
+    "name": "Cikeusik",
+    "district": "cikeusik"
+  },
+  {
+    "id": "leuwibalang",
+    "name": "Leuwibalang",
+    "district": "cikeusik"
+  },
+  {
+    "id": "curugciung",
+    "name": "Curugciung",
+    "district": "cikeusik"
+  },
+  {
+    "id": "cikadongdong",
+    "name": "Cikadongdong",
+    "district": "cikeusik"
+  }
+]

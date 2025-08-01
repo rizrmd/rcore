@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lembang-sangbua",
+    "name": "Lembang Sangbua",
+    "district": "kesu"
+  },
+  {
+    "id": "lembang-todongkon",
+    "name": "Lembang Todongkon",
+    "district": "kesu"
+  },
+  {
+    "id": "lembang-angin-angin",
+    "name": "Lembang Angin-Angin",
+    "district": "kesu"
+  },
+  {
+    "id": "lembang-tallu-lolo",
+    "name": "Lembang Tallu Lolo",
+    "district": "kesu"
+  },
+  {
+    "id": "lembang-rindingbatu",
+    "name": "Lembang Rindingbatu",
+    "district": "kesu"
+  },
+  {
+    "id": "kelurahan-batan",
+    "name": "Kelurahan Ba'Tan",
+    "district": "kesu"
+  },
+  {
+    "id": "kelurahan-pantanakan-lolo",
+    "name": "Kelurahan Panta'Nakan Lolo",
+    "district": "kesu"
+  }
+]

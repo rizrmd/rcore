@@ -1,0 +1,47 @@
+[
+  {
+    "id": "koto-renah",
+    "name": "Koto Renah",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "koto-keras",
+    "name": "Koto Keras",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "koto-bento",
+    "name": "Koto Bento",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "koto-tengah",
+    "name": "Koto Tengah",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "koto-lolo",
+    "name": "Koto Lolo",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "koto-dua",
+    "name": "Koto Dua",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "seberang",
+    "name": "Seberang",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "sumur-gedang",
+    "name": "Sumur Gedang",
+    "district": "pesisir-bukit"
+  },
+  {
+    "id": "sungai-liuk",
+    "name": "Sungai Liuk",
+    "district": "pesisir-bukit"
+  }
+]

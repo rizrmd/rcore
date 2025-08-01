@@ -1,0 +1,57 @@
+[
+  {
+    "id": "luang-barat",
+    "name": "Luang Barat",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "luang-timur",
+    "name": "Luang Timur",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "elo",
+    "name": "Elo",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "romkisar",
+    "name": "Romkisar",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "lelang",
+    "name": "Lelang",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "romdara",
+    "name": "Romdara",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "mahaleta",
+    "name": "Mahaleta",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "rotnama",
+    "name": "Rotnama",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "batu-gajah",
+    "name": "Batu Gajah",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "pupioliora",
+    "name": "Pupioliora",
+    "district": "mdona-hiera"
+  },
+  {
+    "id": "regoha",
+    "name": "Regoha",
+    "district": "mdona-hiera"
+  }
+]

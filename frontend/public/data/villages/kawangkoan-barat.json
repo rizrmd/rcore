@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ranolambot",
+    "name": "Ranolambot",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "tombasian-atas",
+    "name": "Tombasian Atas",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kanonang-dua",
+    "name": "Kanonang Dua",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kanonang-empat",
+    "name": "Kanonang Empat",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kanonang-lima",
+    "name": "Kanonang Lima",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kanonang-satu",
+    "name": "Kanonang Satu",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "tombasian-atas-satu",
+    "name": "Tombasian Atas Satu",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "tombasian-bawah",
+    "name": "Tombasian Bawah",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kayuuwi-satu",
+    "name": "Kayuuwi Satu",
+    "district": "kawangkoan-barat"
+  },
+  {
+    "id": "kayuuwi",
+    "name": "Kayuuwi",
+    "district": "kawangkoan-barat"
+  }
+]

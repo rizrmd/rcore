@@ -1,0 +1,57 @@
+[
+  {
+    "id": "janji-matogu",
+    "name": "Janji Matogu",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "malintang-julu",
+    "name": "Malintang Julu",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "malintang-jae",
+    "name": "Malintang Jae",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "sidojadi",
+    "name": "Sidojadi",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "bange",
+    "name": "Bange",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "huta-bangun",
+    "name": "Huta Bangun",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "pasar-baru-malintang",
+    "name": "Pasar Baru Malintang",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "malintang",
+    "name": "Malintang",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "lambou-darul-ihsan",
+    "name": "Lambou Darul Ihsan",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "bange-nauli",
+    "name": "Bange Nauli",
+    "district": "bukit-malintang"
+  },
+  {
+    "id": "huta-bangun-jae",
+    "name": "Huta Bangun Jae",
+    "district": "bukit-malintang"
+  }
+]

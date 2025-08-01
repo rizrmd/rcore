@@ -1,0 +1,42 @@
+[
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "solokuro"
+  },
+  {
+    "id": "sugihan",
+    "name": "Sugihan",
+    "district": "solokuro"
+  },
+  {
+    "id": "payaman",
+    "name": "Payaman",
+    "district": "solokuro"
+  },
+  {
+    "id": "solokuro",
+    "name": "Solokuro",
+    "district": "solokuro"
+  },
+  {
+    "id": "takerharjo",
+    "name": "Takerharjo",
+    "district": "solokuro"
+  },
+  {
+    "id": "banyubang",
+    "name": "Banyubang",
+    "district": "solokuro"
+  },
+  {
+    "id": "dagan",
+    "name": "Dagan",
+    "district": "solokuro"
+  },
+  {
+    "id": "bluri",
+    "name": "Bluri",
+    "district": "solokuro"
+  }
+]

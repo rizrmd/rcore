@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kebondalem",
+    "name": "Kebondalem",
+    "district": "bareng"
+  },
+  {
+    "id": "pakel",
+    "name": "Pakel",
+    "district": "bareng"
+  },
+  {
+    "id": "karangan",
+    "name": "Karangan",
+    "district": "bareng"
+  },
+  {
+    "id": "ngampungan",
+    "name": "Ngampungan",
+    "district": "bareng"
+  },
+  {
+    "id": "jenisgelaran",
+    "name": "Jenisgelaran",
+    "district": "bareng"
+  },
+  {
+    "id": "bareng",
+    "name": "Bareng",
+    "district": "bareng"
+  },
+  {
+    "id": "mojotengah",
+    "name": "Mojotengah",
+    "district": "bareng"
+  },
+  {
+    "id": "banjaragung",
+    "name": "Banjaragung",
+    "district": "bareng"
+  },
+  {
+    "id": "nglebak",
+    "name": "Nglebak",
+    "district": "bareng"
+  },
+  {
+    "id": "pulosari",
+    "name": "Pulosari",
+    "district": "bareng"
+  },
+  {
+    "id": "ngrimbi",
+    "name": "Ngrimbi",
+    "district": "bareng"
+  }
+]

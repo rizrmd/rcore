@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lestari",
+    "name": "Lestari",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "buntu-pane",
+    "name": "Buntu Pane",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "ambalutu",
+    "name": "Ambalutu",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "prapat-janji",
+    "name": "Prapat Janji",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "sei-silau-timur",
+    "name": "Sei Silau Timur",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "sionggang",
+    "name": "Sionggang",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "perkebunan-sei-silau",
+    "name": "Perkebunan Sei Silau",
+    "district": "buntu-pane"
+  },
+  {
+    "id": "karya-ambalutu",
+    "name": "Karya Ambalutu",
+    "district": "buntu-pane"
+  }
+]

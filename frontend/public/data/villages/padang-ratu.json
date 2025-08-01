@@ -1,0 +1,77 @@
+[
+  {
+    "id": "purwosari",
+    "name": "Purwosari",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "mojokerto",
+    "name": "Mojokerto",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "sendang-ayu",
+    "name": "Sendang Ayu",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "surabaya",
+    "name": "Surabaya",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "bandarsari",
+    "name": "Bandarsari",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "sri-agung",
+    "name": "Sri Agung",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "margorejo",
+    "name": "Margorejo",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "karang-tanjung",
+    "name": "Karang Tanjung",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "haduyang-ratu",
+    "name": "Haduyang Ratu",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "padang-ratu",
+    "name": "Padang Ratu",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "karang-sari",
+    "name": "Karang Sari",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "sumbersari",
+    "name": "Sumbersari",
+    "district": "padang-ratu"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "padang-ratu"
+  }
+]

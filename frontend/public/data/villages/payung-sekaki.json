@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sirukam",
+    "name": "Sirukam",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "supayang",
+    "name": "Supayang",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "aia-luo",
+    "name": "Aia Luo",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "labuh-baru-timur",
+    "name": "Labuh Baru Timur",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "tampan",
+    "name": "Tampan",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "air-hitam",
+    "name": "Air Hitam",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "labuh-baru-barat",
+    "name": "Labuh Baru Barat",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "bandar-raya",
+    "name": "Bandar Raya",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "sungai-sibam",
+    "name": "Sungai Sibam",
+    "district": "payung-sekaki"
+  },
+  {
+    "id": "tirta-siak",
+    "name": "Tirta Siak",
+    "district": "payung-sekaki"
+  }
+]

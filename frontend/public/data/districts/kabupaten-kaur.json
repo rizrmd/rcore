@@ -1,0 +1,77 @@
+[
+  {
+    "id": "nasal",
+    "name": "Nasal",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "maje",
+    "name": "Maje",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "kaur-selatan",
+    "name": "Kaur Selatan",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "tetap",
+    "name": "Tetap",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "kaur-tengah",
+    "name": "Kaur Tengah",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "luas",
+    "name": "Luas",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "muara-sahung",
+    "name": "Muara Sahung",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "kinal",
+    "name": "Kinal",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "semidang-gumay",
+    "name": "Semidang Gumay",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "tanjung-kemuning",
+    "name": "Tanjung Kemuning",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "kelam-tengah",
+    "name": "Kelam Tengah",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "kaur-utara",
+    "name": "Kaur Utara",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "padang-guci-hilir",
+    "name": "Padang Guci Hilir",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "lungkang-kule",
+    "name": "Lungkang Kule",
+    "regency": "kabupaten-kaur"
+  },
+  {
+    "id": "padang-guci-hulu",
+    "name": "Padang Guci Hulu",
+    "regency": "kabupaten-kaur"
+  }
+]

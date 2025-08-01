@@ -1,0 +1,82 @@
+[
+  {
+    "id": "lamida",
+    "name": "Lamida",
+    "district": "paringin"
+  },
+  {
+    "id": "lok-batung",
+    "name": "Lok Batung",
+    "district": "paringin"
+  },
+  {
+    "id": "babayau",
+    "name": "Babayau",
+    "district": "paringin"
+  },
+  {
+    "id": "paran",
+    "name": "Paran",
+    "district": "paringin"
+  },
+  {
+    "id": "mangkayahu",
+    "name": "Mangkayahu",
+    "district": "paringin"
+  },
+  {
+    "id": "balang",
+    "name": "Balang",
+    "district": "paringin"
+  },
+  {
+    "id": "murung-ilung",
+    "name": "Murung Ilung",
+    "district": "paringin"
+  },
+  {
+    "id": "hujan-mas",
+    "name": "Hujan Mas",
+    "district": "paringin"
+  },
+  {
+    "id": "kalahiang",
+    "name": "Kalahiang",
+    "district": "paringin"
+  },
+  {
+    "id": "layap",
+    "name": "Layap",
+    "district": "paringin"
+  },
+  {
+    "id": "paringin-kota",
+    "name": "Paringin Kota",
+    "district": "paringin"
+  },
+  {
+    "id": "paringin-timur",
+    "name": "Paringin Timur",
+    "district": "paringin"
+  },
+  {
+    "id": "balida",
+    "name": "Balida",
+    "district": "paringin"
+  },
+  {
+    "id": "lasung-batu",
+    "name": "Lasung Batu",
+    "district": "paringin"
+  },
+  {
+    "id": "sungai-katapi",
+    "name": "Sungai Katapi",
+    "district": "paringin"
+  },
+  {
+    "id": "dahai",
+    "name": "Dahai",
+    "district": "paringin"
+  }
+]

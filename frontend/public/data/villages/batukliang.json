@@ -1,0 +1,42 @@
+[
+  {
+    "id": "pagutan",
+    "name": "Pagutan",
+    "district": "batukliang"
+  },
+  {
+    "id": "barabali",
+    "name": "Barabali",
+    "district": "batukliang"
+  },
+  {
+    "id": "bujak",
+    "name": "Bujak",
+    "district": "batukliang"
+  },
+  {
+    "id": "peresak",
+    "name": "Peresak",
+    "district": "batukliang"
+  },
+  {
+    "id": "mantang",
+    "name": "Mantang",
+    "district": "batukliang"
+  },
+  {
+    "id": "aik-dareq",
+    "name": "Aik Dareq",
+    "district": "batukliang"
+  },
+  {
+    "id": "tampak-siring",
+    "name": "Tampak Siring",
+    "district": "batukliang"
+  },
+  {
+    "id": "mekar-bersatu",
+    "name": "Mekar Bersatu",
+    "district": "batukliang"
+  }
+]

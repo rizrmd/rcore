@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bogor-selatan",
+    "name": "Bogor Selatan",
+    "regency": "kota-bogor"
+  },
+  {
+    "id": "bogor-timur",
+    "name": "Bogor Timur",
+    "regency": "kota-bogor"
+  },
+  {
+    "id": "bogor-utara",
+    "name": "Bogor Utara",
+    "regency": "kota-bogor"
+  },
+  {
+    "id": "bogor-tengah",
+    "name": "Bogor Tengah",
+    "regency": "kota-bogor"
+  },
+  {
+    "id": "bogor-barat",
+    "name": "Bogor Barat",
+    "regency": "kota-bogor"
+  },
+  {
+    "id": "tanah-sereal",
+    "name": "Tanah Sereal",
+    "regency": "kota-bogor"
+  }
+]

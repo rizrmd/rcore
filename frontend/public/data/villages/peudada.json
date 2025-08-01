@@ -1,0 +1,262 @@
+[
+  {
+    "id": "blang-rangkuluh",
+    "name": "Blang Rangkuluh",
+    "district": "peudada"
+  },
+  {
+    "id": "alue-sijuek",
+    "name": "Alue Sijuek",
+    "district": "peudada"
+  },
+  {
+    "id": "buket-paya",
+    "name": "Buket Paya",
+    "district": "peudada"
+  },
+  {
+    "id": "dayah-mon-ara",
+    "name": "Dayah Mon Ara",
+    "district": "peudada"
+  },
+  {
+    "id": "pulo-ara",
+    "name": "Pulo Ara",
+    "district": "peudada"
+  },
+  {
+    "id": "cot-laot",
+    "name": "Cot Laot",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-bungo",
+    "name": "Meunasah Bungo",
+    "district": "peudada"
+  },
+  {
+    "id": "paya-bunot",
+    "name": "Paya Bunot",
+    "district": "peudada"
+  },
+  {
+    "id": "cot-keutapang",
+    "name": "Cot Keutapang",
+    "district": "peudada"
+  },
+  {
+    "id": "lawang",
+    "name": "Lawang",
+    "district": "peudada"
+  },
+  {
+    "id": "hagu",
+    "name": "Hagu",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-krueng",
+    "name": "Meunasah Krueng",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-rabo",
+    "name": "Meunasah Rabo",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-tambo",
+    "name": "Meunasah Tambo",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-baroh",
+    "name": "Meunasah Baroh",
+    "district": "peudada"
+  },
+  {
+    "id": "blang-matang",
+    "name": "Blang Matang",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-tunong",
+    "name": "Meunasah Tunong",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-alue",
+    "name": "Meunasah Alue",
+    "district": "peudada"
+  },
+  {
+    "id": "blang-bati",
+    "name": "Blang Bati",
+    "district": "peudada"
+  },
+  {
+    "id": "keude-alue-rheing",
+    "name": "Keude Alue Rheing",
+    "district": "peudada"
+  },
+  {
+    "id": "pulo-lawang",
+    "name": "Pulo Lawang",
+    "district": "peudada"
+  },
+  {
+    "id": "karieng",
+    "name": "Karieng",
+    "district": "peudada"
+  },
+  {
+    "id": "blang-glumpang",
+    "name": "Blang Glumpang",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-mesjid",
+    "name": "Meunasah Mesjid",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-cut",
+    "name": "Meunasah Cut",
+    "district": "peudada"
+  },
+  {
+    "id": "matang-reuleut",
+    "name": "Matang Reuleut",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-pulo",
+    "name": "Meunasah Pulo",
+    "district": "peudada"
+  },
+  {
+    "id": "ara-bungong",
+    "name": "Ara Bungong",
+    "district": "peudada"
+  },
+  {
+    "id": "garot",
+    "name": "Garot",
+    "district": "peudada"
+  },
+  {
+    "id": "blang-beururu",
+    "name": "Blang Beururu",
+    "district": "peudada"
+  },
+  {
+    "id": "jabet",
+    "name": "Jabet",
+    "district": "peudada"
+  },
+  {
+    "id": "sawang",
+    "name": "Sawang",
+    "district": "peudada"
+  },
+  {
+    "id": "blang-kubu",
+    "name": "Blang Kubu",
+    "district": "peudada"
+  },
+  {
+    "id": "matang-pasi",
+    "name": "Matang Pasi",
+    "district": "peudada"
+  },
+  {
+    "id": "kukue",
+    "name": "Kukue",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-blang",
+    "name": "Meunasah Blang",
+    "district": "peudada"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "peudada"
+  },
+  {
+    "id": "gampong-paya",
+    "name": "Gampong Paya",
+    "district": "peudada"
+  },
+  {
+    "id": "seuneubok-paya",
+    "name": "Seuneubok Paya",
+    "district": "peudada"
+  },
+  {
+    "id": "meunasah-teungoh",
+    "name": "Meunasah Teungoh",
+    "district": "peudada"
+  },
+  {
+    "id": "calok",
+    "name": "Calok",
+    "district": "peudada"
+  },
+  {
+    "id": "tanjong-seulamat",
+    "name": "Tanjong Seulamat",
+    "district": "peudada"
+  },
+  {
+    "id": "jaba",
+    "name": "Jaba",
+    "district": "peudada"
+  },
+  {
+    "id": "cot-kruet",
+    "name": "Cot Kruet",
+    "district": "peudada"
+  },
+  {
+    "id": "alue-keutapang",
+    "name": "Alue Keutapang",
+    "district": "peudada"
+  },
+  {
+    "id": "alue-gandai",
+    "name": "Alue Gandai",
+    "district": "peudada"
+  },
+  {
+    "id": "tgkdi-bathon",
+    "name": "Tgk.Di Bathon",
+    "district": "peudada"
+  },
+  {
+    "id": "paya-barat",
+    "name": "Paya Barat",
+    "district": "peudada"
+  },
+  {
+    "id": "gampong-mulia",
+    "name": "Gampong Mulia",
+    "district": "peudada"
+  },
+  {
+    "id": "neubok-naleung",
+    "name": "Neubok Naleung",
+    "district": "peudada"
+  },
+  {
+    "id": "paya-timu",
+    "name": "Paya Timu",
+    "district": "peudada"
+  },
+  {
+    "id": "pinto-rimba",
+    "name": "Pinto Rimba",
+    "district": "peudada"
+  }
+]

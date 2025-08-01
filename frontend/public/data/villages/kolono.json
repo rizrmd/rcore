@@ -1,0 +1,107 @@
+[
+  {
+    "id": "puupi",
+    "name": "Puupi",
+    "district": "kolono"
+  },
+  {
+    "id": "tiraosu",
+    "name": "Tiraosu",
+    "district": "kolono"
+  },
+  {
+    "id": "waworano",
+    "name": "Waworano",
+    "district": "kolono"
+  },
+  {
+    "id": "matandahi",
+    "name": "Matandahi",
+    "district": "kolono"
+  },
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "kolono"
+  },
+  {
+    "id": "andinete",
+    "name": "Andinete",
+    "district": "kolono"
+  },
+  {
+    "id": "langgowala",
+    "name": "Langgowala",
+    "district": "kolono"
+  },
+  {
+    "id": "wawoosu",
+    "name": "Wawoosu",
+    "district": "kolono"
+  },
+  {
+    "id": "sawah",
+    "name": "Sawah",
+    "district": "kolono"
+  },
+  {
+    "id": "kolono",
+    "name": "Kolono",
+    "district": "kolono"
+  },
+  {
+    "id": "mondoe-jaya",
+    "name": "Mondoe Jaya",
+    "district": "kolono"
+  },
+  {
+    "id": "ulusena-jaya",
+    "name": "Ulusena Jaya",
+    "district": "kolono"
+  },
+  {
+    "id": "lamotau",
+    "name": "Lamotau",
+    "district": "kolono"
+  },
+  {
+    "id": "awunio",
+    "name": "Awunio",
+    "district": "kolono"
+  },
+  {
+    "id": "meletumbo",
+    "name": "Meletumbo",
+    "district": "kolono"
+  },
+  {
+    "id": "roda",
+    "name": "Roda",
+    "district": "kolono"
+  },
+  {
+    "id": "lamapu",
+    "name": "Lamapu",
+    "district": "kolono"
+  },
+  {
+    "id": "silea",
+    "name": "Silea",
+    "district": "kolono"
+  },
+  {
+    "id": "alosi",
+    "name": "Alosi",
+    "district": "kolono"
+  },
+  {
+    "id": "sarandua",
+    "name": "Sarandua",
+    "district": "kolono"
+  },
+  {
+    "id": "puudongi",
+    "name": "Puudongi",
+    "district": "kolono"
+  }
+]

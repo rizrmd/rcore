@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pasiripis",
+    "name": "Pasiripis",
+    "district": "surade"
+  },
+  {
+    "id": "buniwangi",
+    "name": "Buniwangi",
+    "district": "surade"
+  },
+  {
+    "id": "cipeundeuy",
+    "name": "Cipeundeuy",
+    "district": "surade"
+  },
+  {
+    "id": "gunung-sungging",
+    "name": "Gunung Sungging",
+    "district": "surade"
+  },
+  {
+    "id": "citanglar",
+    "name": "Citanglar",
+    "district": "surade"
+  },
+  {
+    "id": "jagamukti",
+    "name": "Jagamukti",
+    "district": "surade"
+  },
+  {
+    "id": "surade",
+    "name": "Surade",
+    "district": "surade"
+  },
+  {
+    "id": "kadaleman",
+    "name": "Kadaleman",
+    "district": "surade"
+  },
+  {
+    "id": "wanasari",
+    "name": "Wanasari",
+    "district": "surade"
+  },
+  {
+    "id": "sirnasari",
+    "name": "Sirnasari",
+    "district": "surade"
+  },
+  {
+    "id": "sukatani",
+    "name": "Sukatani",
+    "district": "surade"
+  },
+  {
+    "id": "kademangan",
+    "name": "Kademangan",
+    "district": "surade"
+  }
+]

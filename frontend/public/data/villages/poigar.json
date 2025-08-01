@@ -1,0 +1,102 @@
+[
+  {
+    "id": "mariri-dua",
+    "name": "Mariri Dua",
+    "district": "poigar"
+  },
+  {
+    "id": "mariri-lama",
+    "name": "Mariri Lama",
+    "district": "poigar"
+  },
+  {
+    "id": "mariri-baru",
+    "name": "Mariri Baru",
+    "district": "poigar"
+  },
+  {
+    "id": "nonapan-dua",
+    "name": "Nonapan Dua",
+    "district": "poigar"
+  },
+  {
+    "id": "nonapan-satu",
+    "name": "Nonapan Satu",
+    "district": "poigar"
+  },
+  {
+    "id": "wineru",
+    "name": "Wineru",
+    "district": "poigar"
+  },
+  {
+    "id": "gogaluman",
+    "name": "Gogaluman",
+    "district": "poigar"
+  },
+  {
+    "id": "tiberias",
+    "name": "Tiberias",
+    "district": "poigar"
+  },
+  {
+    "id": "poigar-ii",
+    "name": "Poigar Ii",
+    "district": "poigar"
+  },
+  {
+    "id": "poigar",
+    "name": "Poigar",
+    "district": "poigar"
+  },
+  {
+    "id": "poigar-iii",
+    "name": "Poigar Iii",
+    "district": "poigar"
+  },
+  {
+    "id": "pomoman",
+    "name": "Pomoman",
+    "district": "poigar"
+  },
+  {
+    "id": "nanasi",
+    "name": "Nanasi",
+    "district": "poigar"
+  },
+  {
+    "id": "mondatong",
+    "name": "Mondatong",
+    "district": "poigar"
+  },
+  {
+    "id": "mariri-i",
+    "name": "Mariri I",
+    "district": "poigar"
+  },
+  {
+    "id": "nonapan-baru",
+    "name": "Nonapan Baru",
+    "district": "poigar"
+  },
+  {
+    "id": "nanasi-timur",
+    "name": "Nanasi Timur",
+    "district": "poigar"
+  },
+  {
+    "id": "tanjung-mariri",
+    "name": "Tanjung Mariri",
+    "district": "poigar"
+  },
+  {
+    "id": "nonapan",
+    "name": "Nonapan",
+    "district": "poigar"
+  },
+  {
+    "id": "mondatong-baru",
+    "name": "Mondatong Baru",
+    "district": "poigar"
+  }
+]

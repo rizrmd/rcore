@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tarlawi",
+    "name": "Tarlawi",
+    "district": "wawo"
+  },
+  {
+    "id": "raba",
+    "name": "Raba",
+    "district": "wawo"
+  },
+  {
+    "id": "pesa",
+    "name": "Pesa",
+    "district": "wawo"
+  },
+  {
+    "id": "ntori",
+    "name": "Ntori",
+    "district": "wawo"
+  },
+  {
+    "id": "maria",
+    "name": "Maria",
+    "district": "wawo"
+  },
+  {
+    "id": "kambilo",
+    "name": "Kambilo",
+    "district": "wawo"
+  },
+  {
+    "id": "kombo",
+    "name": "Kombo",
+    "district": "wawo"
+  },
+  {
+    "id": "maria-utara",
+    "name": "Maria Utara",
+    "district": "wawo"
+  },
+  {
+    "id": "riamau",
+    "name": "Riamau",
+    "district": "wawo"
+  },
+  {
+    "id": "walasiho",
+    "name": "Walasiho",
+    "district": "wawo"
+  },
+  {
+    "id": "wawo",
+    "name": "Wawo",
+    "district": "wawo"
+  },
+  {
+    "id": "puumbolo",
+    "name": "Puumbolo",
+    "district": "wawo"
+  },
+  {
+    "id": "tinukari",
+    "name": "Tinukari",
+    "district": "wawo"
+  },
+  {
+    "id": "salurengko",
+    "name": "Salurengko",
+    "district": "wawo"
+  },
+  {
+    "id": "uluwawo",
+    "name": "Uluwawo",
+    "district": "wawo"
+  },
+  {
+    "id": "latawe",
+    "name": "Latawe",
+    "district": "wawo"
+  }
+]

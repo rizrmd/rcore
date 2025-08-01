@@ -1,0 +1,132 @@
+[
+  {
+    "id": "loha",
+    "name": "Loha",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "compang",
+    "name": "Compang",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "golo-lajang",
+    "name": "Golo Lajang",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "pacar",
+    "name": "Pacar",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "kombo",
+    "name": "Kombo",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "wontong",
+    "name": "Wontong",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "rego",
+    "name": "Rego",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "nggilat",
+    "name": "Nggilat",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "mbakung",
+    "name": "Mbakung",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "bari",
+    "name": "Bari",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "rokap",
+    "name": "Rokap",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "raba",
+    "name": "Raba",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "nanga-kantor",
+    "name": "Nanga Kantor",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "benteng-ndope",
+    "name": "Benteng Ndope",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "waka",
+    "name": "Waka",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "pong-kolong",
+    "name": "Pong Kolong",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "golo-lajang-barat",
+    "name": "Golo Lajang Barat",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "romang",
+    "name": "Romang",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "manong",
+    "name": "Manong",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "kombo-tengah",
+    "name": "Kombo Tengah",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "kombo-selatan",
+    "name": "Kombo Selatan",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "watu-baru",
+    "name": "Watu Baru",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "lewat",
+    "name": "Lewat",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "watu-manggar",
+    "name": "Watu Manggar",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "sarae-naru",
+    "name": "Sarae Naru",
+    "district": "macang-pacar"
+  },
+  {
+    "id": "nanga-kantor-barat",
+    "name": "Nanga Kantor Barat",
+    "district": "macang-pacar"
+  }
+]

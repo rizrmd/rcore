@@ -1,0 +1,52 @@
+[
+  {
+    "id": "senduruhan",
+    "name": "Senduruhan",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "cinta-manis",
+    "name": "Cinta Manis",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "beginci-darat",
+    "name": "Beginci Darat",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "benua-krio",
+    "name": "Benua Krio",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "riam-dadap",
+    "name": "Riam Dadap",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "batu-lapis",
+    "name": "Batu Lapis",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "krio-hulu",
+    "name": "Krio Hulu",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "kenyabur",
+    "name": "Kenyabur",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "sunge-bengaras",
+    "name": "Sunge Bengaras",
+    "district": "hulu-sungai"
+  },
+  {
+    "id": "lubuk-kakap",
+    "name": "Lubuk Kakap",
+    "district": "hulu-sungai"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bumiwaras",
+    "name": "Bumiwaras",
+    "district": "way-krui"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "way-krui"
+  },
+  {
+    "id": "penggawa-lima",
+    "name": "Penggawa Lima",
+    "district": "way-krui"
+  },
+  {
+    "id": "penggawa-lima-ilir",
+    "name": "Penggawa Lima Ilir",
+    "district": "way-krui"
+  },
+  {
+    "id": "banjar-agung",
+    "name": "Banjar Agung",
+    "district": "way-krui"
+  },
+  {
+    "id": "suka-baru",
+    "name": "Suka Baru",
+    "district": "way-krui"
+  },
+  {
+    "id": "ulu-krui",
+    "name": "Ulu Krui",
+    "district": "way-krui"
+  },
+  {
+    "id": "gunung-kemala",
+    "name": "Gunung Kemala",
+    "district": "way-krui"
+  },
+  {
+    "id": "labuhan-mandi",
+    "name": "Labuhan Mandi",
+    "district": "way-krui"
+  },
+  {
+    "id": "gunung-kemala-timur",
+    "name": "Gunung Kemala Timur",
+    "district": "way-krui"
+  }
+]

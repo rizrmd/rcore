@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tiga-pulau",
+    "name": "Tiga Pulau",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "luok",
+    "name": "Luok",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "popolii",
+    "name": "Popolii",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "dolong-b",
+    "name": "Dolong B",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "dolong-a",
+    "name": "Dolong A",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "olilan",
+    "name": "Olilan",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "kolami",
+    "name": "Kolami",
+    "district": "walea-kepulauan"
+  },
+  {
+    "id": "loe",
+    "name": "Loe",
+    "district": "walea-kepulauan"
+  }
+]

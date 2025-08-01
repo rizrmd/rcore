@@ -1,0 +1,57 @@
+[
+  {
+    "id": "cigadog",
+    "name": "Cigadog",
+    "district": "cikelet"
+  },
+  {
+    "id": "cijambe",
+    "name": "Cijambe",
+    "district": "cikelet"
+  },
+  {
+    "id": "cikelet",
+    "name": "Cikelet",
+    "district": "cikelet"
+  },
+  {
+    "id": "pamalayan",
+    "name": "Pamalayan",
+    "district": "cikelet"
+  },
+  {
+    "id": "linggamanik",
+    "name": "Linggamanik",
+    "district": "cikelet"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "cikelet"
+  },
+  {
+    "id": "kertamukti",
+    "name": "Kertamukti",
+    "district": "cikelet"
+  },
+  {
+    "id": "ciroyom",
+    "name": "Ciroyom",
+    "district": "cikelet"
+  },
+  {
+    "id": "girimukti",
+    "name": "Girimukti",
+    "district": "cikelet"
+  },
+  {
+    "id": "tipar",
+    "name": "Tipar",
+    "district": "cikelet"
+  },
+  {
+    "id": "awassagara",
+    "name": "Awassagara",
+    "district": "cikelet"
+  }
+]

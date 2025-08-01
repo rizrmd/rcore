@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tehahite",
+    "name": "Tehahite",
+    "district": "aifat"
+  },
+  {
+    "id": "futon",
+    "name": "Futon",
+    "district": "aifat"
+  },
+  {
+    "id": "kocuas",
+    "name": "Kocuas",
+    "district": "aifat"
+  },
+  {
+    "id": "kokas",
+    "name": "Kokas",
+    "district": "aifat"
+  },
+  {
+    "id": "kocuwer",
+    "name": "Kocuwer",
+    "district": "aifat"
+  },
+  {
+    "id": "eisyo",
+    "name": "Eisyo",
+    "district": "aifat"
+  },
+  {
+    "id": "fait-mayaf",
+    "name": "Fait Mayaf",
+    "district": "aifat"
+  },
+  {
+    "id": "bori",
+    "name": "Bori",
+    "district": "aifat"
+  }
+]

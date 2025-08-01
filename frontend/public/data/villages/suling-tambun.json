@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tumbang-magin",
+    "name": "Tumbang Magin",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tumbang-setoli",
+    "name": "Tumbang Setoli",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tumbang-hentas",
+    "name": "Tumbang Hentas",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tumbang-langkai",
+    "name": "Tumbang Langkai",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tanjung-tukal",
+    "name": "Tanjung Tukal",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "rangkang-munduk",
+    "name": "Rangkang Munduk",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tumbang-salau",
+    "name": "Tumbang Salau",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "rantau-betung",
+    "name": "Rantau Betung",
+    "district": "suling-tambun"
+  },
+  {
+    "id": "tumbang-gugup",
+    "name": "Tumbang Gugup",
+    "district": "suling-tambun"
+  }
+]

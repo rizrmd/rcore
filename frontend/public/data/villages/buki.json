@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kohala",
+    "name": "Kohala",
+    "district": "buki"
+  },
+  {
+    "id": "bontolempangan",
+    "name": "Bontolempangan",
+    "district": "buki"
+  },
+  {
+    "id": "balang-butung",
+    "name": "Balang Butung",
+    "district": "buki"
+  },
+  {
+    "id": "lalang-bata",
+    "name": "Lalang Bata",
+    "district": "buki"
+  },
+  {
+    "id": "buki",
+    "name": "Buki",
+    "district": "buki"
+  },
+  {
+    "id": "mekar-indah",
+    "name": "Mekar Indah",
+    "district": "buki"
+  },
+  {
+    "id": "buki-timur",
+    "name": "Buki Timur",
+    "district": "buki"
+  }
+]

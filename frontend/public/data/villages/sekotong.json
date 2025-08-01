@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pelangan",
+    "name": "Pelangan",
+    "district": "sekotong"
+  },
+  {
+    "id": "sekotong-barat",
+    "name": "Sekotong Barat",
+    "district": "sekotong"
+  },
+  {
+    "id": "buwun-mas",
+    "name": "Buwun Mas",
+    "district": "sekotong"
+  },
+  {
+    "id": "sekotong-tengah",
+    "name": "Sekotong Tengah",
+    "district": "sekotong"
+  },
+  {
+    "id": "kedaro",
+    "name": "Kedaro",
+    "district": "sekotong"
+  },
+  {
+    "id": "batu-putih",
+    "name": "Batu Putih",
+    "district": "sekotong"
+  },
+  {
+    "id": "cendi-manik",
+    "name": "Cendi Manik",
+    "district": "sekotong"
+  },
+  {
+    "id": "gili-gede-indah",
+    "name": "Gili Gede Indah",
+    "district": "sekotong"
+  },
+  {
+    "id": "taman-baru",
+    "name": "Taman Baru",
+    "district": "sekotong"
+  }
+]

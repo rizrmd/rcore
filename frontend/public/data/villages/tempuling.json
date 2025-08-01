@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tempuling",
+    "name": "Tempuling",
+    "district": "tempuling"
+  },
+  {
+    "id": "sungai-salak",
+    "name": "Sungai Salak",
+    "district": "tempuling"
+  },
+  {
+    "id": "teluk-jira",
+    "name": "Teluk Jira",
+    "district": "tempuling"
+  },
+  {
+    "id": "mumpa",
+    "name": "Mumpa",
+    "district": "tempuling"
+  },
+  {
+    "id": "teluk-kiambang",
+    "name": "Teluk Kiambang",
+    "district": "tempuling"
+  },
+  {
+    "id": "karya-tunas-jaya",
+    "name": "Karya Tunas Jaya",
+    "district": "tempuling"
+  },
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "tempuling"
+  },
+  {
+    "id": "tanjung-pidada",
+    "name": "Tanjung Pidada",
+    "district": "tempuling"
+  },
+  {
+    "id": "pangkalan-tujuh",
+    "name": "Pangkalan Tujuh",
+    "district": "tempuling"
+  }
+]

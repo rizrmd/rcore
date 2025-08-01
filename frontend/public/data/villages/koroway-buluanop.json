@@ -1,0 +1,37 @@
+[
+  {
+    "id": "mabul",
+    "name": "Mabul",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "ayak",
+    "name": "Ayak",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "banum",
+    "name": "Banum",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "ujung-batu",
+    "name": "Ujung Batu",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "nagatun",
+    "name": "Nagatun",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "amakot",
+    "name": "Amakot",
+    "district": "koroway-buluanop"
+  },
+  {
+    "id": "kapayap-iii",
+    "name": "Kapayap Iii",
+    "district": "koroway-buluanop"
+  }
+]

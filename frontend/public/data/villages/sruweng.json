@@ -1,0 +1,102 @@
+[
+  {
+    "id": "menganti",
+    "name": "Menganti",
+    "district": "sruweng"
+  },
+  {
+    "id": "trikarso",
+    "name": "Trikarso",
+    "district": "sruweng"
+  },
+  {
+    "id": "sidoharjo",
+    "name": "Sidoharjo",
+    "district": "sruweng"
+  },
+  {
+    "id": "giwangretno",
+    "name": "Giwangretno",
+    "district": "sruweng"
+  },
+  {
+    "id": "jabres",
+    "name": "Jabres",
+    "district": "sruweng"
+  },
+  {
+    "id": "karanggedang",
+    "name": "Karanggedang",
+    "district": "sruweng"
+  },
+  {
+    "id": "purwodeso",
+    "name": "Purwodeso",
+    "district": "sruweng"
+  },
+  {
+    "id": "klepusanggar",
+    "name": "Klepusanggar",
+    "district": "sruweng"
+  },
+  {
+    "id": "tanggeran",
+    "name": "Tanggeran",
+    "district": "sruweng"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "sruweng"
+  },
+  {
+    "id": "karangpule",
+    "name": "Karangpule",
+    "district": "sruweng"
+  },
+  {
+    "id": "pakuran",
+    "name": "Pakuran",
+    "district": "sruweng"
+  },
+  {
+    "id": "pengempon",
+    "name": "Pengempon",
+    "district": "sruweng"
+  },
+  {
+    "id": "kejawang",
+    "name": "Kejawang",
+    "district": "sruweng"
+  },
+  {
+    "id": "karangjambu",
+    "name": "Karangjambu",
+    "district": "sruweng"
+  },
+  {
+    "id": "sidoagung",
+    "name": "Sidoagung",
+    "district": "sruweng"
+  },
+  {
+    "id": "penusupan",
+    "name": "Penusupan",
+    "district": "sruweng"
+  },
+  {
+    "id": "donosari",
+    "name": "Donosari",
+    "district": "sruweng"
+  },
+  {
+    "id": "pandansari",
+    "name": "Pandansari",
+    "district": "sruweng"
+  },
+  {
+    "id": "condongcampur",
+    "name": "Condongcampur",
+    "district": "sruweng"
+  }
+]

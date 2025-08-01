@@ -1,0 +1,27 @@
+[
+  {
+    "id": "romean",
+    "name": "Romean",
+    "district": "yaru"
+  },
+  {
+    "id": "awear",
+    "name": "Awear",
+    "district": "yaru"
+  },
+  {
+    "id": "sofyanin",
+    "name": "Sofyanin",
+    "district": "yaru"
+  },
+  {
+    "id": "walerang",
+    "name": "Walerang",
+    "district": "yaru"
+  },
+  {
+    "id": "adodo-fordata",
+    "name": "Adodo Fordata",
+    "district": "yaru"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cinere",
+    "name": "Cinere",
+    "district": "cinere"
+  },
+  {
+    "id": "gandul",
+    "name": "Gandul",
+    "district": "cinere"
+  },
+  {
+    "id": "pangkalanjati-baru",
+    "name": "Pangkalanjati Baru",
+    "district": "cinere"
+  },
+  {
+    "id": "pangkalanjati",
+    "name": "Pangkalanjati",
+    "district": "cinere"
+  }
+]

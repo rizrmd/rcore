@@ -1,0 +1,57 @@
+[
+  {
+    "id": "barombong",
+    "name": "Barombong",
+    "district": "tamalate"
+  },
+  {
+    "id": "tanjung-merdeka",
+    "name": "Tanjung Merdeka",
+    "district": "tamalate"
+  },
+  {
+    "id": "maccini-sombala",
+    "name": "Maccini Sombala",
+    "district": "tamalate"
+  },
+  {
+    "id": "balang-baru",
+    "name": "Balang Baru",
+    "district": "tamalate"
+  },
+  {
+    "id": "jongaya",
+    "name": "Jongaya",
+    "district": "tamalate"
+  },
+  {
+    "id": "bongaya",
+    "name": "Bongaya",
+    "district": "tamalate"
+  },
+  {
+    "id": "pabaeng-baeng",
+    "name": "Pa'Baeng-Baeng",
+    "district": "tamalate"
+  },
+  {
+    "id": "mannuruki",
+    "name": "Mannuruki",
+    "district": "tamalate"
+  },
+  {
+    "id": "parang-tambung",
+    "name": "Parang Tambung",
+    "district": "tamalate"
+  },
+  {
+    "id": "mangasa",
+    "name": "Mangasa",
+    "district": "tamalate"
+  },
+  {
+    "id": "bonto-duri",
+    "name": "Bonto Duri",
+    "district": "tamalate"
+  }
+]

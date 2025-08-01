@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tarokan",
+    "name": "Tarokan",
+    "district": "tarokan"
+  },
+  {
+    "id": "bulusari",
+    "name": "Bulusari",
+    "district": "tarokan"
+  },
+  {
+    "id": "kalirong",
+    "name": "Kalirong",
+    "district": "tarokan"
+  },
+  {
+    "id": "kaliboto",
+    "name": "Kaliboto",
+    "district": "tarokan"
+  },
+  {
+    "id": "kedungsari",
+    "name": "Kedungsari",
+    "district": "tarokan"
+  },
+  {
+    "id": "blimbing",
+    "name": "Blimbing",
+    "district": "tarokan"
+  },
+  {
+    "id": "cengkok",
+    "name": "Cengkok",
+    "district": "tarokan"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "tarokan"
+  }
+]

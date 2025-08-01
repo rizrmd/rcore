@@ -1,0 +1,62 @@
+[
+  {
+    "id": "selogudig-kulon",
+    "name": "Selogudig Kulon",
+    "district": "pajarakan"
+  },
+  {
+    "id": "selogudig-wetan",
+    "name": "Selogudig Wetan",
+    "district": "pajarakan"
+  },
+  {
+    "id": "ketompen",
+    "name": "Ketompen",
+    "district": "pajarakan"
+  },
+  {
+    "id": "karangbong",
+    "name": "Karangbong",
+    "district": "pajarakan"
+  },
+  {
+    "id": "karangpranti",
+    "name": "Karangpranti",
+    "district": "pajarakan"
+  },
+  {
+    "id": "gejugan",
+    "name": "Gejugan",
+    "district": "pajarakan"
+  },
+  {
+    "id": "karanggeger",
+    "name": "Karanggeger",
+    "district": "pajarakan"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "pajarakan"
+  },
+  {
+    "id": "pajarakan-kulon",
+    "name": "Pajarakan Kulon",
+    "district": "pajarakan"
+  },
+  {
+    "id": "sukokerto",
+    "name": "Sukokerto",
+    "district": "pajarakan"
+  },
+  {
+    "id": "sukomulyo",
+    "name": "Sukomulyo",
+    "district": "pajarakan"
+  },
+  {
+    "id": "penambangan",
+    "name": "Penambangan",
+    "district": "pajarakan"
+  }
+]

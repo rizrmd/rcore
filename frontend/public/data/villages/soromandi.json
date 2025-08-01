@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bajo",
+    "name": "Bajo",
+    "district": "soromandi"
+  },
+  {
+    "id": "punti",
+    "name": "Punti",
+    "district": "soromandi"
+  },
+  {
+    "id": "wadukopa",
+    "name": "Wadukopa",
+    "district": "soromandi"
+  },
+  {
+    "id": "kananta",
+    "name": "Kananta",
+    "district": "soromandi"
+  },
+  {
+    "id": "sai",
+    "name": "Sai",
+    "district": "soromandi"
+  },
+  {
+    "id": "sampungu",
+    "name": "Sampungu",
+    "district": "soromandi"
+  },
+  {
+    "id": "lewintana",
+    "name": "Lewintana",
+    "district": "soromandi"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tegalega",
+    "name": "Tegalega",
+    "district": "ciampel"
+  },
+  {
+    "id": "mulyasejati",
+    "name": "Mulyasejati",
+    "district": "ciampel"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "ciampel"
+  },
+  {
+    "id": "kutanegara",
+    "name": "Kutanegara",
+    "district": "ciampel"
+  },
+  {
+    "id": "kutapohaci",
+    "name": "Kutapohaci",
+    "district": "ciampel"
+  },
+  {
+    "id": "kutamekar",
+    "name": "Kutamekar",
+    "district": "ciampel"
+  },
+  {
+    "id": "parungmulya",
+    "name": "Parungmulya",
+    "district": "ciampel"
+  }
+]

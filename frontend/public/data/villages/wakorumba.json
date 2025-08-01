@@ -1,0 +1,72 @@
+[
+  {
+    "id": "matalagi",
+    "name": "Matalagi",
+    "district": "wakorumba"
+  },
+  {
+    "id": "laeya",
+    "name": "Laeya",
+    "district": "wakorumba"
+  },
+  {
+    "id": "labaraga",
+    "name": "Labaraga",
+    "district": "wakorumba"
+  },
+  {
+    "id": "lasiwa",
+    "name": "Lasiwa",
+    "district": "wakorumba"
+  },
+  {
+    "id": "labuan-bajo",
+    "name": "Labuan Bajo",
+    "district": "wakorumba"
+  },
+  {
+    "id": "labuan-wolio",
+    "name": "Labuan Wolio",
+    "district": "wakorumba"
+  },
+  {
+    "id": "labuan",
+    "name": "Labuan",
+    "district": "wakorumba"
+  },
+  {
+    "id": "wantulasi",
+    "name": "Wantulasi",
+    "district": "wakorumba"
+  },
+  {
+    "id": "laba-jaya",
+    "name": "Laba Jaya",
+    "district": "wakorumba"
+  },
+  {
+    "id": "sumampeno",
+    "name": "Sumampeno",
+    "district": "wakorumba"
+  },
+  {
+    "id": "labuko",
+    "name": "Labuko",
+    "district": "wakorumba"
+  },
+  {
+    "id": "wamorapa",
+    "name": "Wamorapa",
+    "district": "wakorumba"
+  },
+  {
+    "id": "oengkapala",
+    "name": "Oengkapala",
+    "district": "wakorumba"
+  },
+  {
+    "id": "upt-laeya",
+    "name": "Upt Laeya",
+    "district": "wakorumba"
+  }
+]

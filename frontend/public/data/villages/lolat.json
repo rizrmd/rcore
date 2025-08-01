@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wanim",
+    "name": "Wanim",
+    "district": "lolat"
+  },
+  {
+    "id": "lolat",
+    "name": "Lolat",
+    "district": "lolat"
+  },
+  {
+    "id": "serahak",
+    "name": "Serahak",
+    "district": "lolat"
+  },
+  {
+    "id": "webile",
+    "name": "Webile",
+    "district": "lolat"
+  },
+  {
+    "id": "dinggila",
+    "name": "Dinggila",
+    "district": "lolat"
+  },
+  {
+    "id": "esalek",
+    "name": "Esalek",
+    "district": "lolat"
+  },
+  {
+    "id": "denema",
+    "name": "Denema",
+    "district": "lolat"
+  }
+]

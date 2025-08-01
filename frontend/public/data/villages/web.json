@@ -1,0 +1,22 @@
+[
+  {
+    "id": "semografi",
+    "name": "Semografi",
+    "district": "web"
+  },
+  {
+    "id": "umuaf",
+    "name": "Umuaf",
+    "district": "web"
+  },
+  {
+    "id": "yamraf-ii",
+    "name": "Yamraf Ii",
+    "district": "web"
+  },
+  {
+    "id": "tatakra",
+    "name": "Tatakra",
+    "district": "web"
+  }
+]

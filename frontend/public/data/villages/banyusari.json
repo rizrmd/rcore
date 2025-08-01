@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pamekaran",
+    "name": "Pamekaran",
+    "district": "banyusari"
+  },
+  {
+    "id": "cicinde-selatan",
+    "name": "Cicinde Selatan",
+    "district": "banyusari"
+  },
+  {
+    "id": "cicinde-utara",
+    "name": "Cicinde Utara",
+    "district": "banyusari"
+  },
+  {
+    "id": "jayamukti",
+    "name": "Jayamukti",
+    "district": "banyusari"
+  },
+  {
+    "id": "gempolkolot",
+    "name": "Gempolkolot",
+    "district": "banyusari"
+  },
+  {
+    "id": "gempol",
+    "name": "Gempol",
+    "district": "banyusari"
+  },
+  {
+    "id": "gembongan",
+    "name": "Gembongan",
+    "district": "banyusari"
+  },
+  {
+    "id": "mekarasih",
+    "name": "Mekarasih",
+    "district": "banyusari"
+  },
+  {
+    "id": "banyuasih",
+    "name": "Banyuasih",
+    "district": "banyusari"
+  },
+  {
+    "id": "talunjaya",
+    "name": "Talunjaya",
+    "district": "banyusari"
+  },
+  {
+    "id": "tanjung",
+    "name": "Tanjung",
+    "district": "banyusari"
+  },
+  {
+    "id": "kutaraharja",
+    "name": "Kutaraharja",
+    "district": "banyusari"
+  }
+]

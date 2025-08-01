@@ -1,0 +1,52 @@
+[
+  {
+    "id": "waonu",
+    "name": "Waonu",
+    "district": "kadatua"
+  },
+  {
+    "id": "kapoa",
+    "name": "Kapoa",
+    "district": "kadatua"
+  },
+  {
+    "id": "kaofe",
+    "name": "Kaofe",
+    "district": "kadatua"
+  },
+  {
+    "id": "uwemaasi",
+    "name": "Uwemaasi",
+    "district": "kadatua"
+  },
+  {
+    "id": "lipu",
+    "name": "Lipu",
+    "district": "kadatua"
+  },
+  {
+    "id": "banabungi",
+    "name": "Banabungi",
+    "district": "kadatua"
+  },
+  {
+    "id": "kapoa-barat",
+    "name": "Kapoa Barat",
+    "district": "kadatua"
+  },
+  {
+    "id": "mawambunga",
+    "name": "Mawambunga",
+    "district": "kadatua"
+  },
+  {
+    "id": "marawali",
+    "name": "Marawali",
+    "district": "kadatua"
+  },
+  {
+    "id": "banabungi-selatan",
+    "name": "Banabungi Selatan",
+    "district": "kadatua"
+  }
+]

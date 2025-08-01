@@ -1,0 +1,27 @@
+[
+  {
+    "id": "maladuk",
+    "name": "Maladuk",
+    "district": "klasafet"
+  },
+  {
+    "id": "klamono-olie",
+    "name": "Klamono Olie",
+    "district": "klasafet"
+  },
+  {
+    "id": "barros",
+    "name": "Barros",
+    "district": "klasafet"
+  },
+  {
+    "id": "tiligum",
+    "name": "Tiligum",
+    "district": "klasafet"
+  },
+  {
+    "id": "kwawilibe",
+    "name": "Kwawilibe",
+    "district": "klasafet"
+  }
+]

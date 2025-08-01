@@ -1,0 +1,27 @@
+[
+  {
+    "id": "popaya",
+    "name": "Popaya",
+    "district": "dengilo"
+  },
+  {
+    "id": "padengo",
+    "name": "Padengo",
+    "district": "dengilo"
+  },
+  {
+    "id": "karangetang",
+    "name": "Karangetang",
+    "district": "dengilo"
+  },
+  {
+    "id": "karya-baru",
+    "name": "Karya Baru",
+    "district": "dengilo"
+  },
+  {
+    "id": "huta-moputi",
+    "name": "Huta Moputi",
+    "district": "dengilo"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "sekarsuli",
+    "name": "Sekarsuli",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "bareng-lor",
+    "name": "Bareng Lor",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "karanganom",
+    "name": "Karanganom",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "ketandan",
+    "name": "Ketandan",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "belang-wetan",
+    "name": "Belang Wetan",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "jonggrangan",
+    "name": "Jonggrangan",
+    "district": "klaten-utara"
+  },
+  {
+    "id": "jebugan",
+    "name": "Jebugan",
+    "district": "klaten-utara"
+  }
+]

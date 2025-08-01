@@ -1,0 +1,77 @@
+[
+  {
+    "id": "pasar-kerman",
+    "name": "Pasar Kerman",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "lolo-hilir",
+    "name": "Lolo Hilir",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "lolo-gedang",
+    "name": "Lolo Gedang",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "lolo-kecil",
+    "name": "Lolo Kecil",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "talang-kemuning",
+    "name": "Talang Kemuning",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "tanjung-syam",
+    "name": "Tanjung Syam",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "bintang-marak",
+    "name": "Bintang Marak",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "pulau-sangkar",
+    "name": "Pulau Sangkar",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "pondok",
+    "name": "Pondok",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "muak",
+    "name": "Muak",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "pulau-pandan",
+    "name": "Pulau Pandan",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "pengasi-lama",
+    "name": "Pengasi Lama",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "karang-pandan",
+    "name": "Karang Pandan",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "pengasi-baru",
+    "name": "Pengasi Baru",
+    "district": "bukit-kerman"
+  },
+  {
+    "id": "muaro-lulo",
+    "name": "Muaro Lulo",
+    "district": "bukit-kerman"
+  }
+]

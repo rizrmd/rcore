@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sungai-gebar",
+    "name": "Sungai Gebar",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "sungai-dualap",
+    "name": "Sungai Dualap",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "betara-kiri",
+    "name": "Betara Kiri",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "betara-kanan",
+    "name": "Betara Kanan",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "sungai-gebar-barat",
+    "name": "Sungai Gebar Barat",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "sungai-dungun",
+    "name": "Sungai Dungun",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "tanjung-pasir",
+    "name": "Tanjung Pasir",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "dataran-pinang",
+    "name": "Dataran Pinang",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "kuala-indah",
+    "name": "Kuala Indah",
+    "district": "kuala-betara"
+  },
+  {
+    "id": "suak-labu",
+    "name": "Suak Labu",
+    "district": "kuala-betara"
+  }
+]

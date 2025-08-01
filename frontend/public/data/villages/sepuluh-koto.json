@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tambangan",
+    "name": "Tambangan",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "jaho",
+    "name": "Jaho",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "paninjauan",
+    "name": "Paninjauan",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "panyalaian",
+    "name": "Panyalaian",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "aie-angek",
+    "name": "Aie Angek",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "koto-baru",
+    "name": "Koto Baru",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "pandai-sikek",
+    "name": "Pandai Sikek",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "singgalang",
+    "name": "Singgalang",
+    "district": "sepuluh-koto"
+  },
+  {
+    "id": "koto-laweh",
+    "name": "Koto Laweh",
+    "district": "sepuluh-koto"
+  }
+]

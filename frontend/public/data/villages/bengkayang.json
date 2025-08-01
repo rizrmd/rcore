@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bhakti-mulya",
+    "name": "Bhakti Mulya",
+    "district": "bengkayang"
+  },
+  {
+    "id": "tirta-kencana",
+    "name": "Tirta Kencana",
+    "district": "bengkayang"
+  },
+  {
+    "id": "bumi-emas",
+    "name": "Bumi Emas",
+    "district": "bengkayang"
+  },
+  {
+    "id": "bani-amas",
+    "name": "Bani Amas",
+    "district": "bengkayang"
+  },
+  {
+    "id": "setia-budi",
+    "name": "Setia Budi",
+    "district": "bengkayang"
+  },
+  {
+    "id": "sebalo",
+    "name": "Sebalo",
+    "district": "bengkayang"
+  }
+]

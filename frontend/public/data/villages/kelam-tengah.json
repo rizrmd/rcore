@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pagar-dewa",
+    "name": "Pagar Dewa",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "talang-tais",
+    "name": "Talang Tais",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "penantian",
+    "name": "Penantian",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "siring-agung",
+    "name": "Siring Agung",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "darat-sawah",
+    "name": "Darat Sawah",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "sukarami-i",
+    "name": "Sukarami I",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "rigangan-i",
+    "name": "Rigangan I",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "rigangan-ii",
+    "name": "Rigangan Ii",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "rigangan-iii",
+    "name": "Rigangan Iii",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "tanjung-ganti-i",
+    "name": "Tanjung Ganti I",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "tanjung-ganti-ii",
+    "name": "Tanjung Ganti Ii",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "talang-marap",
+    "name": "Talang Marap",
+    "district": "kelam-tengah"
+  },
+  {
+    "id": "sukarami-ii",
+    "name": "Sukarami Ii",
+    "district": "kelam-tengah"
+  }
+]

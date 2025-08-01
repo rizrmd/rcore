@@ -1,0 +1,47 @@
+[
+  {
+    "id": "konjombando",
+    "name": "Konjombando",
+    "district": "tabonji"
+  },
+  {
+    "id": "yeraha",
+    "name": "Yeraha",
+    "district": "tabonji"
+  },
+  {
+    "id": "wanggambi",
+    "name": "Wanggambi",
+    "district": "tabonji"
+  },
+  {
+    "id": "bamol-ii",
+    "name": "Bamol Ii",
+    "district": "tabonji"
+  },
+  {
+    "id": "bamol-i",
+    "name": "Bamol I",
+    "district": "tabonji"
+  },
+  {
+    "id": "iromoro",
+    "name": "Iromoro",
+    "district": "tabonji"
+  },
+  {
+    "id": "yamuka",
+    "name": "Yamuka",
+    "district": "tabonji"
+  },
+  {
+    "id": "suam",
+    "name": "Suam",
+    "district": "tabonji"
+  },
+  {
+    "id": "tabonji",
+    "name": "Tabonji",
+    "district": "tabonji"
+  }
+]

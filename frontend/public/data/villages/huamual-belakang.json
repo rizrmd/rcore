@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tahalupu",
+    "name": "Tahalupu",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "sole",
+    "name": "Sole",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "waesala",
+    "name": "Waesala",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "buano-selatan",
+    "name": "Buano Selatan",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "buano-utara",
+    "name": "Buano Utara",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "tonu-jaya",
+    "name": "Tonu Jaya",
+    "district": "huamual-belakang"
+  },
+  {
+    "id": "alang-asaude",
+    "name": "Alang Asaude",
+    "district": "huamual-belakang"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pasirsalam",
+    "name": "Pasirsalam",
+    "district": "mangunreja"
+  },
+  {
+    "id": "sukaluyu",
+    "name": "Sukaluyu",
+    "district": "mangunreja"
+  },
+  {
+    "id": "sukasukur",
+    "name": "Sukasukur",
+    "district": "mangunreja"
+  },
+  {
+    "id": "salebu",
+    "name": "Salebu",
+    "district": "mangunreja"
+  },
+  {
+    "id": "mangunreja",
+    "name": "Mangunreja",
+    "district": "mangunreja"
+  },
+  {
+    "id": "margajaya",
+    "name": "Margajaya",
+    "district": "mangunreja"
+  }
+]

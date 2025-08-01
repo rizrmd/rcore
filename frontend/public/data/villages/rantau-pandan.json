@@ -1,0 +1,32 @@
+[
+  {
+    "id": "leban",
+    "name": "Leban",
+    "district": "rantau-pandan"
+  },
+  {
+    "id": "lubuk-kayu-aro",
+    "name": "Lubuk Kayu Aro",
+    "district": "rantau-pandan"
+  },
+  {
+    "id": "talang-sungai-bungo",
+    "name": "Talang Sungai Bungo",
+    "district": "rantau-pandan"
+  },
+  {
+    "id": "rantau-pandan",
+    "name": "Rantau Pandan",
+    "district": "rantau-pandan"
+  },
+  {
+    "id": "rantau-duku",
+    "name": "Rantau Duku",
+    "district": "rantau-pandan"
+  },
+  {
+    "id": "lubuk-mayan",
+    "name": "Lubuk Mayan",
+    "district": "rantau-pandan"
+  }
+]

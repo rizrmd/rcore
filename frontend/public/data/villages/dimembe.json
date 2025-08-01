@@ -1,0 +1,52 @@
+[
+  {
+    "id": "matungkas",
+    "name": "Matungkas",
+    "district": "dimembe"
+  },
+  {
+    "id": "laikit",
+    "name": "Laikit",
+    "district": "dimembe"
+  },
+  {
+    "id": "dimembe",
+    "name": "Dimembe",
+    "district": "dimembe"
+  },
+  {
+    "id": "klabat",
+    "name": "Klabat",
+    "district": "dimembe"
+  },
+  {
+    "id": "warukapas",
+    "name": "Warukapas",
+    "district": "dimembe"
+  },
+  {
+    "id": "tatelu-satu",
+    "name": "Tatelu Satu",
+    "district": "dimembe"
+  },
+  {
+    "id": "pinilih",
+    "name": "Pinilih",
+    "district": "dimembe"
+  },
+  {
+    "id": "tatelu-rondor",
+    "name": "Tatelu Rondor",
+    "district": "dimembe"
+  },
+  {
+    "id": "wasian",
+    "name": "Wasian",
+    "district": "dimembe"
+  },
+  {
+    "id": "lumpias",
+    "name": "Lumpias",
+    "district": "dimembe"
+  }
+]

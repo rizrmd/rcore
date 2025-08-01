@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cimuja",
+    "name": "Cimuja",
+    "district": "cimalaka"
+  },
+  {
+    "id": "cibeureum-wetan",
+    "name": "Cibeureum Wetan",
+    "district": "cimalaka"
+  },
+  {
+    "id": "cibeureum-kulon",
+    "name": "Cibeureum Kulon",
+    "district": "cimalaka"
+  },
+  {
+    "id": "mandalaherang",
+    "name": "Mandalaherang",
+    "district": "cimalaka"
+  },
+  {
+    "id": "cimalaka",
+    "name": "Cimalaka",
+    "district": "cimalaka"
+  },
+  {
+    "id": "serang",
+    "name": "Serang",
+    "district": "cimalaka"
+  },
+  {
+    "id": "galudra",
+    "name": "Galudra",
+    "district": "cimalaka"
+  },
+  {
+    "id": "cikole",
+    "name": "Cikole",
+    "district": "cimalaka"
+  },
+  {
+    "id": "trunamanggala",
+    "name": "Trunamanggala",
+    "district": "cimalaka"
+  },
+  {
+    "id": "nyalindung",
+    "name": "Nyalindung",
+    "district": "cimalaka"
+  },
+  {
+    "id": "naluk",
+    "name": "Naluk",
+    "district": "cimalaka"
+  },
+  {
+    "id": "citimun",
+    "name": "Citimun",
+    "district": "cimalaka"
+  },
+  {
+    "id": "licin",
+    "name": "Licin",
+    "district": "cimalaka"
+  },
+  {
+    "id": "padasari",
+    "name": "Padasari",
+    "district": "cimalaka"
+  }
+]

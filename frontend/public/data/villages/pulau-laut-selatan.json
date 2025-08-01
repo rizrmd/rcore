@@ -1,0 +1,42 @@
+[
+  {
+    "id": "teluk-sirih",
+    "name": "Teluk Sirih",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "sungai-bulan",
+    "name": "Sungai Bulan",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "sungai-bahim",
+    "name": "Sungai Bahim",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "alle-alle",
+    "name": "Alle Alle",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "tanjung-seloka",
+    "name": "Tanjung Seloka",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "tanjung-serudung",
+    "name": "Tanjung Serudung",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "labuan-mas",
+    "name": "Labuan Mas",
+    "district": "pulau-laut-selatan"
+  },
+  {
+    "id": "tanjung-seloka-utara",
+    "name": "Tanjung Seloka Utara",
+    "district": "pulau-laut-selatan"
+  }
+]

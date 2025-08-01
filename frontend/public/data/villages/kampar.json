@@ -1,0 +1,92 @@
+[
+  {
+    "id": "batu-belah",
+    "name": "Batu Belah",
+    "district": "kampar"
+  },
+  {
+    "id": "tanjung-berulak",
+    "name": "Tanjung Berulak",
+    "district": "kampar"
+  },
+  {
+    "id": "air-tiris",
+    "name": "Air Tiris",
+    "district": "kampar"
+  },
+  {
+    "id": "ranah",
+    "name": "Ranah",
+    "district": "kampar"
+  },
+  {
+    "id": "penyasawan",
+    "name": "Penyasawan",
+    "district": "kampar"
+  },
+  {
+    "id": "rumbio",
+    "name": "Rumbio",
+    "district": "kampar"
+  },
+  {
+    "id": "padang-mutung",
+    "name": "Padang Mutung",
+    "district": "kampar"
+  },
+  {
+    "id": "simpang-kubu",
+    "name": "Simpang Kubu",
+    "district": "kampar"
+  },
+  {
+    "id": "tanjung-rambutan",
+    "name": "Tanjung Rambutan",
+    "district": "kampar"
+  },
+  {
+    "id": "pulau-jambu",
+    "name": "Pulau Jambu",
+    "district": "kampar"
+  },
+  {
+    "id": "limau-manis",
+    "name": "Limau Manis",
+    "district": "kampar"
+  },
+  {
+    "id": "naumbai",
+    "name": "Naumbai",
+    "district": "kampar"
+  },
+  {
+    "id": "ranah-singkuang",
+    "name": "Ranah Singkuang",
+    "district": "kampar"
+  },
+  {
+    "id": "pulau-tinggi",
+    "name": "Pulau Tinggi",
+    "district": "kampar"
+  },
+  {
+    "id": "koto-tibun",
+    "name": "Koto Tibun",
+    "district": "kampar"
+  },
+  {
+    "id": "bukit-ranah",
+    "name": "Bukit Ranah",
+    "district": "kampar"
+  },
+  {
+    "id": "ranah-baru",
+    "name": "Ranah Baru",
+    "district": "kampar"
+  },
+  {
+    "id": "pulau-sarak",
+    "name": "Pulau Sarak",
+    "district": "kampar"
+  }
+]

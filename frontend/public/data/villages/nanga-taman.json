@@ -1,0 +1,67 @@
+[
+  {
+    "id": "nanga-engkulun",
+    "name": "Nanga Engkulun",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "nanga-koman",
+    "name": "Nanga Koman",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "nanga-mongko",
+    "name": "Nanga Mongko",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "lubuk-tajau",
+    "name": "Lubuk Tajau",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "pantok",
+    "name": "Pantok",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "meragun",
+    "name": "Meragun",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "rirang-jati",
+    "name": "Rirang Jati",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "nanga-taman",
+    "name": "Nanga Taman",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "senangak",
+    "name": "Senangak",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "sungai-lawak",
+    "name": "Sungai Lawak",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "nanga-kiungkang",
+    "name": "Nanga Kiungkang",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "tapang-tingang",
+    "name": "Tapang Tingang",
+    "district": "nanga-taman"
+  },
+  {
+    "id": "nanga-mentukak",
+    "name": "Nanga Mentukak",
+    "district": "nanga-taman"
+  }
+]

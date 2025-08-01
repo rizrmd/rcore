@@ -1,0 +1,27 @@
+[
+  {
+    "id": "berampu",
+    "name": "Berampu",
+    "district": "berampu"
+  },
+  {
+    "id": "karing",
+    "name": "Karing",
+    "district": "berampu"
+  },
+  {
+    "id": "banjar-toba",
+    "name": "Banjar Toba",
+    "district": "berampu"
+  },
+  {
+    "id": "pasi",
+    "name": "Pasi",
+    "district": "berampu"
+  },
+  {
+    "id": "sambaliang",
+    "name": "Sambaliang",
+    "district": "berampu"
+  }
+]

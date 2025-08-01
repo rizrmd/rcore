@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gandaria-utara",
+    "name": "Gandaria Utara",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "cipete-utara",
+    "name": "Cipete Utara",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "pulo",
+    "name": "Pulo",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "petogogan",
+    "name": "Petogogan",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "melawai",
+    "name": "Melawai",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "kramat-pela",
+    "name": "Kramat Pela",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "selong",
+    "name": "Selong",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "rawa-barat",
+    "name": "Rawa Barat",
+    "district": "kebayoran-baru"
+  },
+  {
+    "id": "senayan",
+    "name": "Senayan",
+    "district": "kebayoran-baru"
+  }
+]

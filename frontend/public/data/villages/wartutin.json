@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sipatnanam",
+    "name": "Sipatnanam",
+    "district": "wartutin"
+  },
+  {
+    "id": "siboru",
+    "name": "Siboru",
+    "district": "wartutin"
+  },
+  {
+    "id": "werabuan",
+    "name": "Werabuan",
+    "district": "wartutin"
+  },
+  {
+    "id": "werpigan",
+    "name": "Werpigan",
+    "district": "wartutin"
+  },
+  {
+    "id": "wartutin",
+    "name": "Wartutin",
+    "district": "wartutin"
+  },
+  {
+    "id": "kamandu-tetar",
+    "name": "Kamandu Tetar",
+    "district": "wartutin"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tallambalao",
+    "name": "Tallambalao",
+    "district": "tammerodo"
+  },
+  {
+    "id": "tammerodo",
+    "name": "Tammerodo",
+    "district": "tammerodo"
+  },
+  {
+    "id": "seppong",
+    "name": "Seppong",
+    "district": "tammerodo"
+  },
+  {
+    "id": "ulidang",
+    "name": "Ulidang",
+    "district": "tammerodo"
+  },
+  {
+    "id": "tammerodo-utara",
+    "name": "Tammerodo Utara",
+    "district": "tammerodo"
+  },
+  {
+    "id": "manyamba",
+    "name": "Manyamba",
+    "district": "tammerodo"
+  },
+  {
+    "id": "awo",
+    "name": "Awo",
+    "district": "tammerodo"
+  }
+]

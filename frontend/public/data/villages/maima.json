@@ -1,0 +1,37 @@
+[
+  {
+    "id": "minimo",
+    "name": "Minimo",
+    "district": "maima"
+  },
+  {
+    "id": "maima",
+    "name": "Maima",
+    "district": "maima"
+  },
+  {
+    "id": "husewa",
+    "name": "Husewa",
+    "district": "maima"
+  },
+  {
+    "id": "menagaima",
+    "name": "Menagaima",
+    "district": "maima"
+  },
+  {
+    "id": "esiak",
+    "name": "Esiak",
+    "district": "maima"
+  },
+  {
+    "id": "heraewa",
+    "name": "Heraewa",
+    "district": "maima"
+  },
+  {
+    "id": "kepi",
+    "name": "Kepi",
+    "district": "maima"
+  }
+]

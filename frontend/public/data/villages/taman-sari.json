@@ -1,0 +1,62 @@
+[
+  {
+    "id": "batin-tikal",
+    "name": "Batin Tikal",
+    "district": "taman-sari"
+  },
+  {
+    "id": "rawa-bangun",
+    "name": "Rawa Bangun",
+    "district": "taman-sari"
+  },
+  {
+    "id": "gedung-nasional",
+    "name": "Gedung Nasional",
+    "district": "taman-sari"
+  },
+  {
+    "id": "opas-indah",
+    "name": "Opas Indah",
+    "district": "taman-sari"
+  },
+  {
+    "id": "kejaksaan",
+    "name": "Kejaksaan",
+    "district": "taman-sari"
+  },
+  {
+    "id": "maphar",
+    "name": "Maphar",
+    "district": "taman-sari"
+  },
+  {
+    "id": "taman-sari",
+    "name": "Taman Sari",
+    "district": "taman-sari"
+  },
+  {
+    "id": "tangki",
+    "name": "Tangki",
+    "district": "taman-sari"
+  },
+  {
+    "id": "mangga-besar",
+    "name": "Mangga Besar",
+    "district": "taman-sari"
+  },
+  {
+    "id": "keagungan",
+    "name": "Keagungan",
+    "district": "taman-sari"
+  },
+  {
+    "id": "glodok",
+    "name": "Glodok",
+    "district": "taman-sari"
+  },
+  {
+    "id": "pinangsia",
+    "name": "Pinangsia",
+    "district": "taman-sari"
+  }
+]

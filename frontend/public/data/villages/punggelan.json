@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sambong",
+    "name": "Sambong",
+    "district": "punggelan"
+  },
+  {
+    "id": "tribuana",
+    "name": "Tribuana",
+    "district": "punggelan"
+  },
+  {
+    "id": "sawangan",
+    "name": "Sawangan",
+    "district": "punggelan"
+  },
+  {
+    "id": "sidarata",
+    "name": "Sidarata",
+    "district": "punggelan"
+  },
+  {
+    "id": "badakarya",
+    "name": "Badakarya",
+    "district": "punggelan"
+  },
+  {
+    "id": "bondolharjo",
+    "name": "Bondolharjo",
+    "district": "punggelan"
+  },
+  {
+    "id": "punggelan",
+    "name": "Punggelan",
+    "district": "punggelan"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "punggelan"
+  },
+  {
+    "id": "kecepit",
+    "name": "Kecepit",
+    "district": "punggelan"
+  },
+  {
+    "id": "danakerta",
+    "name": "Danakerta",
+    "district": "punggelan"
+  },
+  {
+    "id": "klapa",
+    "name": "Klapa",
+    "district": "punggelan"
+  },
+  {
+    "id": "jembangan",
+    "name": "Jembangan",
+    "district": "punggelan"
+  },
+  {
+    "id": "purwasana",
+    "name": "Purwasana",
+    "district": "punggelan"
+  },
+  {
+    "id": "petuguran",
+    "name": "Petuguran",
+    "district": "punggelan"
+  },
+  {
+    "id": "tanjungtirta",
+    "name": "Tanjungtirta",
+    "district": "punggelan"
+  },
+  {
+    "id": "mlaya",
+    "name": "Mlaya",
+    "district": "punggelan"
+  },
+  {
+    "id": "tlaga",
+    "name": "Tlaga",
+    "district": "punggelan"
+  }
+]

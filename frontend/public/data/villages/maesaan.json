@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tambelang",
+    "name": "Tambelang",
+    "district": "maesaan"
+  },
+  {
+    "id": "kinamang",
+    "name": "Kinamang",
+    "district": "maesaan"
+  },
+  {
+    "id": "liningaan",
+    "name": "Liningaan",
+    "district": "maesaan"
+  },
+  {
+    "id": "bojonegoro",
+    "name": "Bojonegoro",
+    "district": "maesaan"
+  },
+  {
+    "id": "kinaweruan",
+    "name": "Kinaweruan",
+    "district": "maesaan"
+  },
+  {
+    "id": "tumani",
+    "name": "Tumani",
+    "district": "maesaan"
+  },
+  {
+    "id": "lowian",
+    "name": "Lowian",
+    "district": "maesaan"
+  },
+  {
+    "id": "temboan",
+    "name": "Temboan",
+    "district": "maesaan"
+  },
+  {
+    "id": "kinamang-satu",
+    "name": "Kinamang Satu",
+    "district": "maesaan"
+  },
+  {
+    "id": "tumani-utara",
+    "name": "Tumani Utara",
+    "district": "maesaan"
+  },
+  {
+    "id": "tumani-selatan",
+    "name": "Tumani Selatan",
+    "district": "maesaan"
+  },
+  {
+    "id": "lowian-satu",
+    "name": "Lowian Satu",
+    "district": "maesaan"
+  }
+]

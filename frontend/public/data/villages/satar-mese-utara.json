@@ -1,0 +1,52 @@
+[
+  {
+    "id": "renda",
+    "name": "Renda",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "todo",
+    "name": "Todo",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "popo",
+    "name": "Popo",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "lia",
+    "name": "Lia",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "kole",
+    "name": "Kole",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "ling",
+    "name": "Ling",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "nao",
+    "name": "Nao",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "cireng",
+    "name": "Cireng",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "ruang",
+    "name": "Ruang",
+    "district": "satar-mese-utara"
+  },
+  {
+    "id": "mata-wae",
+    "name": "Mata Wae",
+    "district": "satar-mese-utara"
+  }
+]

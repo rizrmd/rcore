@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "badar"
+  },
+  {
+    "id": "purwodadi",
+    "name": "Purwodadi",
+    "district": "badar"
+  },
+  {
+    "id": "lawe-bekung",
+    "name": "Lawe Bekung",
+    "district": "badar"
+  },
+  {
+    "id": "salang-alas",
+    "name": "Salang Alas",
+    "district": "badar"
+  },
+  {
+    "id": "kuta-tinggi",
+    "name": "Kuta Tinggi",
+    "district": "badar"
+  },
+  {
+    "id": "peranginan",
+    "name": "Peranginan",
+    "district": "badar"
+  },
+  {
+    "id": "kuta-pasir",
+    "name": "Kuta Pasir",
+    "district": "badar"
+  },
+  {
+    "id": "natam",
+    "name": "Natam",
+    "district": "badar"
+  },
+  {
+    "id": "kumbang-jaya",
+    "name": "Kumbang Jaya",
+    "district": "badar"
+  },
+  {
+    "id": "kumbang-indah",
+    "name": "Kumbang Indah",
+    "district": "badar"
+  },
+  {
+    "id": "deleng-megakhe",
+    "name": "Deleng Megakhe",
+    "district": "badar"
+  },
+  {
+    "id": "lawe-bekung-tempahan",
+    "name": "Lawe Bekung Tempahan",
+    "district": "badar"
+  },
+  {
+    "id": "badar-indah",
+    "name": "Badar Indah",
+    "district": "badar"
+  },
+  {
+    "id": "natam-baru",
+    "name": "Natam Baru",
+    "district": "badar"
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "district": "badar"
+  },
+  {
+    "id": "batu-mberong",
+    "name": "Batu Mberong",
+    "district": "badar"
+  },
+  {
+    "id": "lawe-sekerah",
+    "name": "Lawe Sekerah",
+    "district": "badar"
+  },
+  {
+    "id": "tanoh-megakhe",
+    "name": "Tanoh Megakhe",
+    "district": "badar"
+  }
+]

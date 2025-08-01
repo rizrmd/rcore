@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gunung-manau",
+    "name": "Gunung Manau",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "tariwin",
+    "name": "Tariwin",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "lok-batu",
+    "name": "Lok Batu",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "karuh",
+    "name": "Karuh",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "pelajau",
+    "name": "Pelajau",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "kasai",
+    "name": "Kasai",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "hamparaya",
+    "name": "Hamparaya",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "timbun-tulang",
+    "name": "Timbun Tulang",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "teluk-mesjid",
+    "name": "Teluk Mesjid",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "batu-mandi",
+    "name": "Batu Mandi",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "riwa",
+    "name": "Riwa",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "guha",
+    "name": "Guha",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "mantimin",
+    "name": "Mantimin",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "banua-hanyar",
+    "name": "Banua Hanyar",
+    "district": "batu-mandi"
+  },
+  {
+    "id": "mampari",
+    "name": "Mampari",
+    "district": "batu-mandi"
+  }
+]

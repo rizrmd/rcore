@@ -1,0 +1,37 @@
+[
+  {
+    "id": "koto-lamo",
+    "name": "Koto Lamo",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "lubuak-alai",
+    "name": "Lubuak Alai",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "muaro-paiti",
+    "name": "Muaro Paiti",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "koto-bangun",
+    "name": "Koto Bangun",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "durian-tinggi",
+    "name": "Durian Tinggi",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "sialang",
+    "name": "Sialang",
+    "district": "kapur-ix"
+  },
+  {
+    "id": "galugua",
+    "name": "Galugua",
+    "district": "kapur-ix"
+  }
+]

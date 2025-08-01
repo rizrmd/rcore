@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gedung-cahya-kuningan",
+    "name": "Gedung Cahya Kuningan",
+    "district": "ngambur"
+  },
+  {
+    "id": "suka-banjar",
+    "name": "Suka Banjar",
+    "district": "ngambur"
+  },
+  {
+    "id": "suka-negara",
+    "name": "Suka Negara",
+    "district": "ngambur"
+  },
+  {
+    "id": "pekon-mon",
+    "name": "Pekon Mon",
+    "district": "ngambur"
+  },
+  {
+    "id": "muara-tembulih",
+    "name": "Muara Tembulih",
+    "district": "ngambur"
+  },
+  {
+    "id": "negeri-ratu-ngambur",
+    "name": "Negeri Ratu Ngambur",
+    "district": "ngambur"
+  },
+  {
+    "id": "bumi-ratu",
+    "name": "Bumi Ratu",
+    "district": "ngambur"
+  },
+  {
+    "id": "ulok-mukti",
+    "name": "Ulok Mukti",
+    "district": "ngambur"
+  },
+  {
+    "id": "sumber-agung",
+    "name": "Sumber Agung",
+    "district": "ngambur"
+  }
+]

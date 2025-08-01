@@ -1,0 +1,127 @@
+[
+  {
+    "id": "lino",
+    "name": "Lino",
+    "district": "sukamaju"
+  },
+  {
+    "id": "paomacang",
+    "name": "Paomacang",
+    "district": "sukamaju"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sumber-baru",
+    "name": "Sumber Baru",
+    "district": "sukamaju"
+  },
+  {
+    "id": "banyuwangi",
+    "name": "Banyuwangi",
+    "district": "sukamaju"
+  },
+  {
+    "id": "rawamangun",
+    "name": "Rawamangun",
+    "district": "sukamaju"
+  },
+  {
+    "id": "mulyorejo",
+    "name": "Mulyorejo",
+    "district": "sukamaju"
+  },
+  {
+    "id": "tolangi",
+    "name": "Tolangi",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sidoraharjo",
+    "name": "Sidoraharjo",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sukaharapan",
+    "name": "Sukaharapan",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sukadamai",
+    "name": "Sukadamai",
+    "district": "sukamaju"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "sukamaju"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "sukamaju"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "sukamaju"
+  },
+  {
+    "id": "salulemo",
+    "name": "Salulemo",
+    "district": "sukamaju"
+  },
+  {
+    "id": "saptamarga",
+    "name": "Saptamarga",
+    "district": "sukamaju"
+  },
+  {
+    "id": "kaluku",
+    "name": "Kaluku",
+    "district": "sukamaju"
+  },
+  {
+    "id": "tulung-sari",
+    "name": "Tulung Sari",
+    "district": "sukamaju"
+  },
+  {
+    "id": "katulungan",
+    "name": "Katulungan",
+    "district": "sukamaju"
+  },
+  {
+    "id": "tulung-indah",
+    "name": "Tulung Indah",
+    "district": "sukamaju"
+  },
+  {
+    "id": "tamboke",
+    "name": "Tamboke",
+    "district": "sukamaju"
+  },
+  {
+    "id": "minanga-tallu",
+    "name": "Minanga Tallu",
+    "district": "sukamaju"
+  },
+  {
+    "id": "lampuawa",
+    "name": "Lampuawa",
+    "district": "sukamaju"
+  },
+  {
+    "id": "upt-pongkase",
+    "name": "Upt. Pongkase",
+    "district": "sukamaju"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lakara",
+    "name": "Lakara",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "ulu-lakara",
+    "name": "Ulu Lakara",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "waturapa",
+    "name": "Waturapa",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "lalowua",
+    "name": "Lalowua",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "koeono",
+    "name": "Koeono",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "amondo",
+    "name": "Amondo",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "watumbohoti",
+    "name": "Watumbohoti",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "parasi",
+    "name": "Parasi",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "mondoe",
+    "name": "Mondoe",
+    "district": "palangga-selatan"
+  },
+  {
+    "id": "wawo-wonua",
+    "name": "Wawo Wonua",
+    "district": "palangga-selatan"
+  }
+]

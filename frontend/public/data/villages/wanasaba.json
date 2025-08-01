@@ -1,0 +1,72 @@
+[
+  {
+    "id": "mamben-lauq",
+    "name": "Mamben Lauq",
+    "district": "wanasaba"
+  },
+  {
+    "id": "mamben-daya",
+    "name": "Mamben Daya",
+    "district": "wanasaba"
+  },
+  {
+    "id": "wanasaba",
+    "name": "Wanasaba",
+    "district": "wanasaba"
+  },
+  {
+    "id": "karang-baru",
+    "name": "Karang Baru",
+    "district": "wanasaba"
+  },
+  {
+    "id": "bebidas",
+    "name": "Bebidas",
+    "district": "wanasaba"
+  },
+  {
+    "id": "tembeng-putik",
+    "name": "Tembeng Putik",
+    "district": "wanasaba"
+  },
+  {
+    "id": "wanasaba-lauk",
+    "name": "Wanasaba Lauk",
+    "district": "wanasaba"
+  },
+  {
+    "id": "mamben-baru",
+    "name": "Mamben Baru",
+    "district": "wanasaba"
+  },
+  {
+    "id": "beriri-jarak",
+    "name": "Beriri Jarak",
+    "district": "wanasaba"
+  },
+  {
+    "id": "bandok",
+    "name": "Bandok",
+    "district": "wanasaba"
+  },
+  {
+    "id": "wanasaba-daya",
+    "name": "Wanasaba Daya",
+    "district": "wanasaba"
+  },
+  {
+    "id": "otak-rarangan",
+    "name": "Otak Rarangan",
+    "district": "wanasaba"
+  },
+  {
+    "id": "jineng",
+    "name": "Jineng",
+    "district": "wanasaba"
+  },
+  {
+    "id": "karang-baru-timur",
+    "name": "Karang Baru Timur",
+    "district": "wanasaba"
+  }
+]

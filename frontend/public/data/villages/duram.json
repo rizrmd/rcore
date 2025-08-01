@@ -1,0 +1,32 @@
+[
+  {
+    "id": "duram",
+    "name": "Duram",
+    "district": "duram"
+  },
+  {
+    "id": "yaminikma",
+    "name": "Yaminikma",
+    "district": "duram"
+  },
+  {
+    "id": "goak",
+    "name": "Goak",
+    "district": "duram"
+  },
+  {
+    "id": "digitme",
+    "name": "Digitme",
+    "district": "duram"
+  },
+  {
+    "id": "dengat",
+    "name": "Dengat",
+    "district": "duram"
+  },
+  {
+    "id": "niniwi",
+    "name": "Niniwi",
+    "district": "duram"
+  }
+]

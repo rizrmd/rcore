@@ -1,0 +1,42 @@
+[
+  {
+    "id": "manisa",
+    "name": "Manisa",
+    "district": "baranti"
+  },
+  {
+    "id": "panreng",
+    "name": "Panreng",
+    "district": "baranti"
+  },
+  {
+    "id": "baranti",
+    "name": "Baranti",
+    "district": "baranti"
+  },
+  {
+    "id": "sipodeceng",
+    "name": "Sipodeceng",
+    "district": "baranti"
+  },
+  {
+    "id": "passeno",
+    "name": "Passeno",
+    "district": "baranti"
+  },
+  {
+    "id": "duampanua",
+    "name": "Duampanua",
+    "district": "baranti"
+  },
+  {
+    "id": "tonronge",
+    "name": "Tonronge",
+    "district": "baranti"
+  },
+  {
+    "id": "tonrong-rijang",
+    "name": "Tonrong Rijang",
+    "district": "baranti"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "oesena",
+    "name": "Oesena",
+    "district": "amarasi"
+  },
+  {
+    "id": "nonbes",
+    "name": "Nonbes",
+    "district": "amarasi"
+  },
+  {
+    "id": "kotabes",
+    "name": "Kotabes",
+    "district": "amarasi"
+  },
+  {
+    "id": "ponain",
+    "name": "Ponain",
+    "district": "amarasi"
+  },
+  {
+    "id": "tesbatan",
+    "name": "Tesbatan",
+    "district": "amarasi"
+  },
+  {
+    "id": "apren",
+    "name": "Apren",
+    "district": "amarasi"
+  },
+  {
+    "id": "oenoni",
+    "name": "Oenoni",
+    "district": "amarasi"
+  },
+  {
+    "id": "tesbatan-ii",
+    "name": "Tesbatan Ii",
+    "district": "amarasi"
+  },
+  {
+    "id": "oenoni-ii",
+    "name": "Oenoni Ii",
+    "district": "amarasi"
+  }
+]

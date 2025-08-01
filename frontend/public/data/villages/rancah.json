@@ -1,0 +1,67 @@
+[
+  {
+    "id": "karangpari",
+    "name": "Karangpari",
+    "district": "rancah"
+  },
+  {
+    "id": "bojonggedang",
+    "name": "Bojonggedang",
+    "district": "rancah"
+  },
+  {
+    "id": "cisontrol",
+    "name": "Cisontrol",
+    "district": "rancah"
+  },
+  {
+    "id": "cileungsir",
+    "name": "Cileungsir",
+    "district": "rancah"
+  },
+  {
+    "id": "kiarapayung",
+    "name": "Kiarapayung",
+    "district": "rancah"
+  },
+  {
+    "id": "kawunglarang",
+    "name": "Kawunglarang",
+    "district": "rancah"
+  },
+  {
+    "id": "rancah",
+    "name": "Rancah",
+    "district": "rancah"
+  },
+  {
+    "id": "situmandala",
+    "name": "Situmandala",
+    "district": "rancah"
+  },
+  {
+    "id": "patakaharja",
+    "name": "Patakaharja",
+    "district": "rancah"
+  },
+  {
+    "id": "dadiharja",
+    "name": "Dadiharja",
+    "district": "rancah"
+  },
+  {
+    "id": "jangalaharja",
+    "name": "Jangalaharja",
+    "district": "rancah"
+  },
+  {
+    "id": "giriharja",
+    "name": "Giriharja",
+    "district": "rancah"
+  },
+  {
+    "id": "wangunsari",
+    "name": "Wangunsari",
+    "district": "rancah"
+  }
+]

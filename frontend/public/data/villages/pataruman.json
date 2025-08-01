@@ -1,0 +1,42 @@
+[
+  {
+    "id": "binangun",
+    "name": "Binangun",
+    "district": "pataruman"
+  },
+  {
+    "id": "batulawang",
+    "name": "Batulawang",
+    "district": "pataruman"
+  },
+  {
+    "id": "karyamukti",
+    "name": "Karyamukti",
+    "district": "pataruman"
+  },
+  {
+    "id": "mulyasari",
+    "name": "Mulyasari",
+    "district": "pataruman"
+  },
+  {
+    "id": "pataruman",
+    "name": "Pataruman",
+    "district": "pataruman"
+  },
+  {
+    "id": "hegarsari",
+    "name": "Hegarsari",
+    "district": "pataruman"
+  },
+  {
+    "id": "sukamukti",
+    "name": "Sukamukti",
+    "district": "pataruman"
+  },
+  {
+    "id": "sinartanjung",
+    "name": "Sinartanjung",
+    "district": "pataruman"
+  }
+]

@@ -1,0 +1,1 @@
+export { default as formatMoney } from './format-money';

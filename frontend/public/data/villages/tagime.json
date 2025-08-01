@@ -1,0 +1,97 @@
+[
+  {
+    "id": "lakwame",
+    "name": "Lakwame",
+    "district": "tagime"
+  },
+  {
+    "id": "tagime",
+    "name": "Tagime",
+    "district": "tagime"
+  },
+  {
+    "id": "porome",
+    "name": "Porome",
+    "district": "tagime"
+  },
+  {
+    "id": "onggobalo",
+    "name": "Onggobalo",
+    "district": "tagime"
+  },
+  {
+    "id": "lapeyo",
+    "name": "Lapeyo",
+    "district": "tagime"
+  },
+  {
+    "id": "yordania-tulak",
+    "name": "Yordania Tulak",
+    "district": "tagime"
+  },
+  {
+    "id": "wandinggunie",
+    "name": "Wandinggunie",
+    "district": "tagime"
+  },
+  {
+    "id": "gume-kupari",
+    "name": "Gume Kupari",
+    "district": "tagime"
+  },
+  {
+    "id": "mulugame",
+    "name": "Mulugame",
+    "district": "tagime"
+  },
+  {
+    "id": "yogobur",
+    "name": "Yogobur",
+    "district": "tagime"
+  },
+  {
+    "id": "yonggapura",
+    "name": "Yonggapura",
+    "district": "tagime"
+  },
+  {
+    "id": "kandimbaga",
+    "name": "Kandimbaga",
+    "district": "tagime"
+  },
+  {
+    "id": "gabunam",
+    "name": "Gabunam",
+    "district": "tagime"
+  },
+  {
+    "id": "gulak",
+    "name": "Gulak",
+    "district": "tagime"
+  },
+  {
+    "id": "kogotime",
+    "name": "Kogotime",
+    "district": "tagime"
+  },
+  {
+    "id": "melaga",
+    "name": "Melaga",
+    "district": "tagime"
+  },
+  {
+    "id": "peyola",
+    "name": "Peyola",
+    "district": "tagime"
+  },
+  {
+    "id": "ekoni",
+    "name": "Ekoni",
+    "district": "tagime"
+  },
+  {
+    "id": "belela",
+    "name": "Belela",
+    "district": "tagime"
+  }
+]

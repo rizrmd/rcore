@@ -1,0 +1,57 @@
+[
+  {
+    "id": "berusaha",
+    "name": "Berusaha",
+    "district": "kiwirok"
+  },
+  {
+    "id": "oknanggul",
+    "name": "Oknanggul",
+    "district": "kiwirok"
+  },
+  {
+    "id": "pelebib",
+    "name": "Pelebib",
+    "district": "kiwirok"
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "district": "kiwirok"
+  },
+  {
+    "id": "kukihil",
+    "name": "Kukihil",
+    "district": "kiwirok"
+  },
+  {
+    "id": "sopamikma",
+    "name": "Sopamikma",
+    "district": "kiwirok"
+  },
+  {
+    "id": "lolim",
+    "name": "Lolim",
+    "district": "kiwirok"
+  },
+  {
+    "id": "asua",
+    "name": "Asua",
+    "district": "kiwirok"
+  },
+  {
+    "id": "mangoldoki",
+    "name": "Mangoldoki",
+    "district": "kiwirok"
+  },
+  {
+    "id": "pomding",
+    "name": "Pomding",
+    "district": "kiwirok"
+  },
+  {
+    "id": "diip",
+    "name": "Diip",
+    "district": "kiwirok"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "wanagading",
+    "name": "Wanagading",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "lambunu",
+    "name": "Lambunu",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "kotanagaya",
+    "name": "Kotanagaya",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "margapura",
+    "name": "Margapura",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "petuna-sugi",
+    "name": "Petuna Sugi",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "siendeng",
+    "name": "Siendeng",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "lambunu-utara",
+    "name": "Lambunu Utara",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "tirtanagaya",
+    "name": "Tirtanagaya",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "anutapura",
+    "name": "Anutapura",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "lambunu-timur",
+    "name": "Lambunu Timur",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "ganongol-sari",
+    "name": "Ganongol Sari",
+    "district": "bolano-lambunu"
+  },
+  {
+    "id": "ogorandu",
+    "name": "Ogorandu",
+    "district": "bolano-lambunu"
+  }
+]

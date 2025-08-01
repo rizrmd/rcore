@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tidore-selatan",
+    "name": "Tidore Selatan",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "tidore-utara",
+    "name": "Tidore Utara",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "tidore",
+    "name": "Tidore",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "tidore-timur",
+    "name": "Tidore Timur",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "oba",
+    "name": "Oba",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "oba-selatan",
+    "name": "Oba Selatan",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "oba-utara",
+    "name": "Oba Utara",
+    "regency": "kota-tidore-kepulauan"
+  },
+  {
+    "id": "oba-tengah",
+    "name": "Oba Tengah",
+    "regency": "kota-tidore-kepulauan"
+  }
+]

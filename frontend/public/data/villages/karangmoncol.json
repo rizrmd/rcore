@@ -1,0 +1,57 @@
+[
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "pepedan",
+    "name": "Pepedan",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "pekiringan",
+    "name": "Pekiringan",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "grantung",
+    "name": "Grantung",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "rajawana",
+    "name": "Rajawana",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "tajug",
+    "name": "Tajug",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "tamansari",
+    "name": "Tamansari",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "baleraksa",
+    "name": "Baleraksa",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "tunjungmuli",
+    "name": "Tunjungmuli",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "kramat",
+    "name": "Kramat",
+    "district": "karangmoncol"
+  },
+  {
+    "id": "sirau",
+    "name": "Sirau",
+    "district": "karangmoncol"
+  }
+]

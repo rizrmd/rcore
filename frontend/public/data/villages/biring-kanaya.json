@@ -1,0 +1,57 @@
+[
+  {
+    "id": "paccerakang",
+    "name": "Paccerakang",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "daya",
+    "name": "Daya",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "p-a-i",
+    "name": "P A I",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "sudiang-raya",
+    "name": "Sudiang Raya",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "sudiang",
+    "name": "Sudiang",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "bulurokeng",
+    "name": "Bulurokeng",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "untia",
+    "name": "Untia",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "berua",
+    "name": "Berua",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "katimbang",
+    "name": "Katimbang",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "bakung",
+    "name": "Bakung",
+    "district": "biring-kanaya"
+  },
+  {
+    "id": "laikang",
+    "name": "Laikang",
+    "district": "biring-kanaya"
+  }
+]

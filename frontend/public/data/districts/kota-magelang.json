@@ -1,0 +1,17 @@
+[
+  {
+    "id": "magelang-selatan",
+    "name": "Magelang Selatan",
+    "regency": "kota-magelang"
+  },
+  {
+    "id": "magelang-tengah",
+    "name": "Magelang Tengah",
+    "regency": "kota-magelang"
+  },
+  {
+    "id": "magelang-utara",
+    "name": "Magelang Utara",
+    "regency": "kota-magelang"
+  }
+]

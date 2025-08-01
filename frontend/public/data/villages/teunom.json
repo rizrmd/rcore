@@ -1,0 +1,112 @@
+[
+  {
+    "id": "lueng-gayo",
+    "name": "Lueng Gayo",
+    "district": "teunom"
+  },
+  {
+    "id": "cot-trap",
+    "name": "Cot Trap",
+    "district": "teunom"
+  },
+  {
+    "id": "pasi-geulima",
+    "name": "Pasi Geulima",
+    "district": "teunom"
+  },
+  {
+    "id": "teupin-ara",
+    "name": "Teupin Ara",
+    "district": "teunom"
+  },
+  {
+    "id": "paya-baro",
+    "name": "Paya Baro",
+    "district": "teunom"
+  },
+  {
+    "id": "pasi-tulak-bala",
+    "name": "Pasi Tulak Bala",
+    "district": "teunom"
+  },
+  {
+    "id": "panton",
+    "name": "Panton",
+    "district": "teunom"
+  },
+  {
+    "id": "gampong-baro",
+    "name": "Gampong Baro",
+    "district": "teunom"
+  },
+  {
+    "id": "pasi-pawang",
+    "name": "Pasi Pawang",
+    "district": "teunom"
+  },
+  {
+    "id": "rambong-payong",
+    "name": "Rambong Payong",
+    "district": "teunom"
+  },
+  {
+    "id": "padang-kleng",
+    "name": "Padang Kleng",
+    "district": "teunom"
+  },
+  {
+    "id": "keude-teunom",
+    "name": "Keude Teunom",
+    "district": "teunom"
+  },
+  {
+    "id": "alue-ambang",
+    "name": "Alue Ambang",
+    "district": "teunom"
+  },
+  {
+    "id": "batee-roo",
+    "name": "Batee-Roo",
+    "district": "teunom"
+  },
+  {
+    "id": "tanoh-manyang",
+    "name": "Tanoh Manyang",
+    "district": "teunom"
+  },
+  {
+    "id": "tanoh-anou",
+    "name": "Tanoh Anou",
+    "district": "teunom"
+  },
+  {
+    "id": "blang-baro",
+    "name": "Blang Baro",
+    "district": "teunom"
+  },
+  {
+    "id": "pasi-timon",
+    "name": "Pasi Timon",
+    "district": "teunom"
+  },
+  {
+    "id": "seumira",
+    "name": "Seumira",
+    "district": "teunom"
+  },
+  {
+    "id": "seuneubok-padang",
+    "name": "Seuneubok Padang",
+    "district": "teunom"
+  },
+  {
+    "id": "kubu",
+    "name": "Kubu",
+    "district": "teunom"
+  },
+  {
+    "id": "alue-meuraksa",
+    "name": "Alue Meuraksa",
+    "district": "teunom"
+  }
+]

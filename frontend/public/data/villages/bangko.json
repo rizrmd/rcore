@@ -1,0 +1,117 @@
+[
+  {
+    "id": "labuhan-tangga-kecil",
+    "name": "Labuhan Tangga Kecil",
+    "district": "bangko"
+  },
+  {
+    "id": "labuhan-tangga-besar",
+    "name": "Labuhan Tangga Besar",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-punak",
+    "name": "Bagan Punak",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-hulu",
+    "name": "Bagan Hulu",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-timur",
+    "name": "Bagan Timur",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-kota",
+    "name": "Bagan Kota",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-barat",
+    "name": "Bagan Barat",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-jawa",
+    "name": "Bagan Jawa",
+    "district": "bangko"
+  },
+  {
+    "id": "parit-aman",
+    "name": "Parit Aman",
+    "district": "bangko"
+  },
+  {
+    "id": "labuhan-tangga-baru",
+    "name": "Labuhan Tangga Baru",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-punak-pesisir",
+    "name": "Bagan Punak Pesisir",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-jawa-pesisir",
+    "name": "Bagan Jawa Pesisir",
+    "district": "bangko"
+  },
+  {
+    "id": "bagan-punak-meranti",
+    "name": "Bagan Punak Meranti",
+    "district": "bangko"
+  },
+  {
+    "id": "serusa",
+    "name": "Serusa",
+    "district": "bangko"
+  },
+  {
+    "id": "labuhan-tangga-hilir",
+    "name": "Labuhan Tangga Hilir",
+    "district": "bangko"
+  },
+  {
+    "id": "sungai-kapas",
+    "name": "Sungai Kapas",
+    "district": "bangko"
+  },
+  {
+    "id": "langling",
+    "name": "Langling",
+    "district": "bangko"
+  },
+  {
+    "id": "kungkai",
+    "name": "Kungkai",
+    "district": "bangko"
+  },
+  {
+    "id": "kelurahan-pasar-atas-bangko",
+    "name": "Kelurahan Pasar Atas Bangko",
+    "district": "bangko"
+  },
+  {
+    "id": "kelurahan-pasar-bangko",
+    "name": "Kelurahan Pasar Bangko",
+    "district": "bangko"
+  },
+  {
+    "id": "kelurahan-pematang-kandis",
+    "name": "Kelurahan Pematang Kandis",
+    "district": "bangko"
+  },
+  {
+    "id": "kelurahan-dusun-bangko",
+    "name": "Kelurahan Dusun Bangko",
+    "district": "bangko"
+  },
+  {
+    "id": "dusun-mudo",
+    "name": "Dusun Mudo",
+    "district": "bangko"
+  }
+]

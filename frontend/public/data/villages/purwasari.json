@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "purwasari"
+  },
+  {
+    "id": "tamelang",
+    "name": "Tamelang",
+    "district": "purwasari"
+  },
+  {
+    "id": "purwasari",
+    "name": "Purwasari",
+    "district": "purwasari"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "purwasari"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "purwasari"
+  },
+  {
+    "id": "karangsari",
+    "name": "Karangsari",
+    "district": "purwasari"
+  },
+  {
+    "id": "darawolong",
+    "name": "Darawolong",
+    "district": "purwasari"
+  },
+  {
+    "id": "cengkong",
+    "name": "Cengkong",
+    "district": "purwasari"
+  }
+]

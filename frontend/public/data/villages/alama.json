@@ -1,0 +1,77 @@
+[
+  {
+    "id": "enggin",
+    "name": "Enggin",
+    "district": "alama"
+  },
+  {
+    "id": "senawak",
+    "name": "Senawak",
+    "district": "alama"
+  },
+  {
+    "id": "geselama",
+    "name": "Geselama",
+    "district": "alama"
+  },
+  {
+    "id": "bemoki",
+    "name": "Bemoki",
+    "district": "alama"
+  },
+  {
+    "id": "tagalarma",
+    "name": "Tagalarma",
+    "district": "alama"
+  },
+  {
+    "id": "unomogom",
+    "name": "Unomogom",
+    "district": "alama"
+  },
+  {
+    "id": "wuarem",
+    "name": "Wuarem",
+    "district": "alama"
+  },
+  {
+    "id": "purua",
+    "name": "Purua",
+    "district": "alama"
+  },
+  {
+    "id": "kelmit",
+    "name": "Kelmit",
+    "district": "alama"
+  },
+  {
+    "id": "yenggelo",
+    "name": "Yenggelo",
+    "district": "alama"
+  },
+  {
+    "id": "alama",
+    "name": "Alama",
+    "district": "alama"
+  },
+  {
+    "id": "wandud",
+    "name": "Wandud",
+    "district": "alama"
+  },
+  {
+    "id": "alama",
+    "name": "Alama",
+    "district": "alama"
+  },
+  {
+    "id": "nolit",
+    "name": "Nolit",
+    "district": "alama"
+  },
+  {
+    "id": "kulesa",
+    "name": "Kulesa",
+    "district": "alama"
+  }
+]

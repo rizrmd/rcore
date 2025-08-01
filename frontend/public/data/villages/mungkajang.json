@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mungkajang",
+    "name": "Mungkajang",
+    "district": "mungkajang"
+  },
+  {
+    "id": "murante",
+    "name": "Murante",
+    "district": "mungkajang"
+  },
+  {
+    "id": "latuppa",
+    "name": "Latuppa",
+    "district": "mungkajang"
+  },
+  {
+    "id": "kambo",
+    "name": "Kambo",
+    "district": "mungkajang"
+  }
+]

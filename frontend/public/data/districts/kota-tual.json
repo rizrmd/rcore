@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pp-kur",
+    "name": "Pp. Kur",
+    "regency": "kota-tual"
+  },
+  {
+    "id": "kur-selatan",
+    "name": "Kur Selatan",
+    "regency": "kota-tual"
+  },
+  {
+    "id": "tayando-tam",
+    "name": "Tayando Tam",
+    "regency": "kota-tual"
+  },
+  {
+    "id": "pulau-dullah-utara",
+    "name": "Pulau Dullah Utara",
+    "regency": "kota-tual"
+  },
+  {
+    "id": "pulau-dullah-selatan",
+    "name": "Pulau Dullah Selatan",
+    "regency": "kota-tual"
+  }
+]

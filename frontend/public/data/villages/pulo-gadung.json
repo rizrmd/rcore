@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pisangan-timur",
+    "name": "Pisangan Timur",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "cipinang",
+    "name": "Cipinang",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "jatinegara-kaum",
+    "name": "Jatinegara Kaum",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "jati",
+    "name": "Jati",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "rawamangun",
+    "name": "Rawamangun",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "kayu-putih",
+    "name": "Kayu Putih",
+    "district": "pulo-gadung"
+  },
+  {
+    "id": "pulo-gadung",
+    "name": "Pulo Gadung",
+    "district": "pulo-gadung"
+  }
+]

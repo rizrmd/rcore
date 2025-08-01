@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nagori-sihalpe",
+    "name": "Nagori Sihalpe",
+    "district": "haranggaol-horison"
+  },
+  {
+    "id": "purba-horison",
+    "name": "Purba Horison",
+    "district": "haranggaol-horison"
+  },
+  {
+    "id": "purba-pasir",
+    "name": "Purba Pasir",
+    "district": "haranggaol-horison"
+  },
+  {
+    "id": "haranggaol",
+    "name": "Haranggaol",
+    "district": "haranggaol-horison"
+  },
+  {
+    "id": "nagori-purba",
+    "name": "Nagori Purba",
+    "district": "haranggaol-horison"
+  }
+]

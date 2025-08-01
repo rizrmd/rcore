@@ -1,0 +1,117 @@
+[
+  {
+    "id": "parerejo",
+    "name": "Parerejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "blitarejo",
+    "name": "Blitarejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "panjerejo",
+    "name": "Panjerejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "bulukarto",
+    "name": "Bulukarto",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wates",
+    "name": "Wates",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "bulurejo",
+    "name": "Bulurejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "tambak-rejo",
+    "name": "Tambak Rejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wonodadi",
+    "name": "Wonodadi",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "gading-rejo",
+    "name": "Gading Rejo",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "tegalsari",
+    "name": "Tegalsari",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "tulung-agung",
+    "name": "Tulung Agung",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "jogyakarta",
+    "name": "Jogyakarta",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "kediri",
+    "name": "Kediri",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "mataram",
+    "name": "Mataram",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "klaten",
+    "name": "Klaten",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wates-timur",
+    "name": "Wates Timur",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wates-selatan",
+    "name": "Wates Selatan",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "gading-rejo-timur",
+    "name": "Gading Rejo Timur",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "gading-rejo-utara",
+    "name": "Gading Rejo Utara",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "tambah-rejo-barat",
+    "name": "Tambah Rejo Barat",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "yogyakarta-selatan",
+    "name": "Yogyakarta Selatan",
+    "district": "gading-rejo"
+  },
+  {
+    "id": "wonodadi-utara",
+    "name": "Wonodadi Utara",
+    "district": "gading-rejo"
+  }
+]

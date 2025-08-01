@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cangkuang",
+    "name": "Cangkuang",
+    "district": "babakan"
+  },
+  {
+    "id": "serang-wetan",
+    "name": "Serang Wetan",
+    "district": "babakan"
+  },
+  {
+    "id": "bojonggebang",
+    "name": "Bojonggebang",
+    "district": "babakan"
+  },
+  {
+    "id": "kudukeras",
+    "name": "Kudukeras",
+    "district": "babakan"
+  },
+  {
+    "id": "sumber-kidul",
+    "name": "Sumber Kidul",
+    "district": "babakan"
+  },
+  {
+    "id": "kudumulya",
+    "name": "Kudumulya",
+    "district": "babakan"
+  },
+  {
+    "id": "sumber-lor",
+    "name": "Sumber Lor",
+    "district": "babakan"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "babakan"
+  },
+  {
+    "id": "pakusamben",
+    "name": "Pakusamben",
+    "district": "babakan"
+  },
+  {
+    "id": "karangwangun",
+    "name": "Karangwangun",
+    "district": "babakan"
+  },
+  {
+    "id": "babakan-gebang",
+    "name": "Babakan Gebang",
+    "district": "babakan"
+  },
+  {
+    "id": "gembongan",
+    "name": "Gembongan",
+    "district": "babakan"
+  },
+  {
+    "id": "serang-kulon",
+    "name": "Serang Kulon",
+    "district": "babakan"
+  },
+  {
+    "id": "gembongan-mekar",
+    "name": "Gembongan Mekar",
+    "district": "babakan"
+  }
+]

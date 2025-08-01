@@ -1,0 +1,72 @@
+[
+  {
+    "id": "harapan-jaya",
+    "name": "Harapan Jaya",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "telaga-said",
+    "name": "Telaga Said",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "lama-baru",
+    "name": "Lama Baru",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "lama",
+    "name": "Lama",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "alur-dua",
+    "name": "Alur Dua",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "puraka-ii",
+    "name": "Puraka Ii",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "alur-dua-baru",
+    "name": "Alur Dua Baru",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "puraka-i-pertamina",
+    "name": "Puraka I Pertamina",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "sei-bilah",
+    "name": "Sei Bilah",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "sei-bilah-timur",
+    "name": "Sei Bilah Timur",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "mekar-makmur",
+    "name": "Mekar Makmur",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "harapan-baru",
+    "name": "Harapan Baru",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "harapan-maju",
+    "name": "Harapan Maju",
+    "district": "sei-lepan"
+  },
+  {
+    "id": "harapan-makmur",
+    "name": "Harapan Makmur",
+    "district": "sei-lepan"
+  }
+]

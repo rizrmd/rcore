@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tanggeran",
+    "name": "Tanggeran",
+    "district": "somagede"
+  },
+  {
+    "id": "sokawera",
+    "name": "Sokawera",
+    "district": "somagede"
+  },
+  {
+    "id": "somagede",
+    "name": "Somagede",
+    "district": "somagede"
+  },
+  {
+    "id": "klinting",
+    "name": "Klinting",
+    "district": "somagede"
+  },
+  {
+    "id": "kemawi",
+    "name": "Kemawi",
+    "district": "somagede"
+  },
+  {
+    "id": "piasa-kulon",
+    "name": "Piasa Kulon",
+    "district": "somagede"
+  },
+  {
+    "id": "kanding",
+    "name": "Kanding",
+    "district": "somagede"
+  },
+  {
+    "id": "somakaton",
+    "name": "Somakaton",
+    "district": "somagede"
+  },
+  {
+    "id": "plana",
+    "name": "Plana",
+    "district": "somagede"
+  }
+]

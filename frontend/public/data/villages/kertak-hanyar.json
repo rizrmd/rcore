@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tatah-pemangkih-laut",
+    "name": "Tatah Pemangkih Laut",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "tatah-belayung-baru",
+    "name": "Tatah Belayung Baru",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "pasar-kemis",
+    "name": "Pasar Kemis",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "banua-hanyar",
+    "name": "Banua Hanyar",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "mekar-raya",
+    "name": "Mekar Raya",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "sungai-lakum",
+    "name": "Sungai Lakum",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "mandar-sari",
+    "name": "Mandar Sari",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "manarap-baru",
+    "name": "Manarap Baru",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "manarap-tengah",
+    "name": "Manarap Tengah",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "manarap-lama",
+    "name": "Manarap Lama",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "simpang-empat",
+    "name": "Simpang Empat",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "kertak-hanyar-ii",
+    "name": "Kertak Hanyar Ii",
+    "district": "kertak-hanyar"
+  },
+  {
+    "id": "kertak-hanyar-i",
+    "name": "Kertak Hanyar I",
+    "district": "kertak-hanyar"
+  }
+]

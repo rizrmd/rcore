@@ -1,0 +1,52 @@
+[
+  {
+    "id": "buli-asal",
+    "name": "Buli Asal",
+    "district": "maba"
+  },
+  {
+    "id": "buli-karya",
+    "name": "Buli Karya",
+    "district": "maba"
+  },
+  {
+    "id": "buli",
+    "name": "Buli",
+    "district": "maba"
+  },
+  {
+    "id": "wayafli",
+    "name": "Wayafli",
+    "district": "maba"
+  },
+  {
+    "id": "sailal",
+    "name": "Sailal",
+    "district": "maba"
+  },
+  {
+    "id": "geltoli",
+    "name": "Geltoli",
+    "district": "maba"
+  },
+  {
+    "id": "pekaulang",
+    "name": "Pekaulang",
+    "district": "maba"
+  },
+  {
+    "id": "teluk-buli",
+    "name": "Teluk Buli",
+    "district": "maba"
+  },
+  {
+    "id": "gamesan",
+    "name": "Gamesan",
+    "district": "maba"
+  },
+  {
+    "id": "baburino",
+    "name": "Baburino",
+    "district": "maba"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "catur-harjo",
+    "name": "Catur Harjo",
+    "district": "sleman"
+  },
+  {
+    "id": "triharjo",
+    "name": "Triharjo",
+    "district": "sleman"
+  },
+  {
+    "id": "tridadi",
+    "name": "Tridadi",
+    "district": "sleman"
+  },
+  {
+    "id": "pandowo-harjo",
+    "name": "Pandowo Harjo",
+    "district": "sleman"
+  },
+  {
+    "id": "tri-mulyo",
+    "name": "Tri Mulyo",
+    "district": "sleman"
+  }
+]

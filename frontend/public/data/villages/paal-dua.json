@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ranomuut",
+    "name": "Ranomuut",
+    "district": "paal-dua"
+  },
+  {
+    "id": "perkamil",
+    "name": "Perkamil",
+    "district": "paal-dua"
+  },
+  {
+    "id": "malendeng",
+    "name": "Malendeng",
+    "district": "paal-dua"
+  },
+  {
+    "id": "dendengan-dalam",
+    "name": "Dendengan Dalam",
+    "district": "paal-dua"
+  },
+  {
+    "id": "dendengan-luar",
+    "name": "Dendengan Luar",
+    "district": "paal-dua"
+  },
+  {
+    "id": "paal-dua",
+    "name": "Paal Dua",
+    "district": "paal-dua"
+  },
+  {
+    "id": "kairagi-weru",
+    "name": "Kairagi Weru",
+    "district": "paal-dua"
+  }
+]

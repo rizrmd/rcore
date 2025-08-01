@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tomohon-selatan",
+    "name": "Tomohon Selatan",
+    "regency": "kota-tomohon"
+  },
+  {
+    "id": "tomohon-tengah",
+    "name": "Tomohon Tengah",
+    "regency": "kota-tomohon"
+  },
+  {
+    "id": "tomohon-timur",
+    "name": "Tomohon Timur",
+    "regency": "kota-tomohon"
+  },
+  {
+    "id": "tomohon-barat",
+    "name": "Tomohon Barat",
+    "regency": "kota-tomohon"
+  },
+  {
+    "id": "tomohon-utara",
+    "name": "Tomohon Utara",
+    "regency": "kota-tomohon"
+  }
+]

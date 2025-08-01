@@ -1,0 +1,67 @@
+[
+  {
+    "id": "randurejo",
+    "name": "Randurejo",
+    "district": "pulokulon"
+  },
+  {
+    "id": "mlowokarangtalun",
+    "name": "Mlowokarangtalun",
+    "district": "pulokulon"
+  },
+  {
+    "id": "pojok",
+    "name": "Pojok",
+    "district": "pulokulon"
+  },
+  {
+    "id": "jatiharjo",
+    "name": "Jatiharjo",
+    "district": "pulokulon"
+  },
+  {
+    "id": "sidorejo",
+    "name": "Sidorejo",
+    "district": "pulokulon"
+  },
+  {
+    "id": "tuko",
+    "name": "Tuko",
+    "district": "pulokulon"
+  },
+  {
+    "id": "panunggalan",
+    "name": "Panunggalan",
+    "district": "pulokulon"
+  },
+  {
+    "id": "mangunrejo",
+    "name": "Mangunrejo",
+    "district": "pulokulon"
+  },
+  {
+    "id": "jetaksari",
+    "name": "Jetaksari",
+    "district": "pulokulon"
+  },
+  {
+    "id": "pulokulon",
+    "name": "Pulokulon",
+    "district": "pulokulon"
+  },
+  {
+    "id": "jambon",
+    "name": "Jambon",
+    "district": "pulokulon"
+  },
+  {
+    "id": "karangharjo",
+    "name": "Karangharjo",
+    "district": "pulokulon"
+  },
+  {
+    "id": "sembungharjo",
+    "name": "Sembungharjo",
+    "district": "pulokulon"
+  }
+]

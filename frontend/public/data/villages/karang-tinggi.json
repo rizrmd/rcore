@@ -1,0 +1,92 @@
+[
+  {
+    "id": "karang-nanding",
+    "name": "Karang Nanding",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "penanding",
+    "name": "Penanding",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "durian-demang",
+    "name": "Durian Demang",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "dusun-baru-ii",
+    "name": "Dusun Baru Ii",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "karang-tinggi",
+    "name": "Karang Tinggi",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "taba-mutung",
+    "name": "Taba Mutung",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "kancing",
+    "name": "Kancing",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "ujung-karang",
+    "name": "Ujung Karang",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "talang-empat",
+    "name": "Talang Empat",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "taba-terunjam",
+    "name": "Taba Terunjam",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "padang-tambak",
+    "name": "Padang Tambak",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "rena-lebar",
+    "name": "Rena Lebar",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "pelajau",
+    "name": "Pelajau",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "rena-semanek",
+    "name": "Rena Semanek",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "gajah-mati",
+    "name": "Gajah Mati",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "semidang",
+    "name": "Semidang",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "pagar-gunung",
+    "name": "Pagar Gunung",
+    "district": "karang-tinggi"
+  },
+  {
+    "id": "padang-siring",
+    "name": "Padang Siring",
+    "district": "karang-tinggi"
+  }
+]

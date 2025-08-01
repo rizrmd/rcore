@@ -1,0 +1,47 @@
+[
+  {
+    "id": "duku-ulu",
+    "name": "Duku Ulu",
+    "district": "curup-timur"
+  },
+  {
+    "id": "duku-ilir",
+    "name": "Duku Ilir",
+    "district": "curup-timur"
+  },
+  {
+    "id": "kampung-delima",
+    "name": "Kampung Delima",
+    "district": "curup-timur"
+  },
+  {
+    "id": "kesambe-lama",
+    "name": "Kesambe Lama",
+    "district": "curup-timur"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "curup-timur"
+  },
+  {
+    "id": "air-meles-bawah",
+    "name": "Air Meles Bawah",
+    "district": "curup-timur"
+  },
+  {
+    "id": "sukaraja",
+    "name": "Sukaraja",
+    "district": "curup-timur"
+  },
+  {
+    "id": "kesambe-baru",
+    "name": "Kesambe Baru",
+    "district": "curup-timur"
+  },
+  {
+    "id": "talang-ulu",
+    "name": "Talang Ulu",
+    "district": "curup-timur"
+  }
+]

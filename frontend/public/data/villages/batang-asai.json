@@ -1,0 +1,117 @@
+[
+  {
+    "id": "simpang-narso",
+    "name": "Simpang Narso",
+    "district": "batang-asai"
+  },
+  {
+    "id": "batu-empang",
+    "name": "Batu Empang",
+    "district": "batang-asai"
+  },
+  {
+    "id": "batin-pengambang",
+    "name": "Batin Pengambang",
+    "district": "batang-asai"
+  },
+  {
+    "id": "muara-air-dua",
+    "name": "Muara Air Dua",
+    "district": "batang-asai"
+  },
+  {
+    "id": "sungai-keradak",
+    "name": "Sungai Keradak",
+    "district": "batang-asai"
+  },
+  {
+    "id": "tambak-ratu",
+    "name": "Tambak Ratu",
+    "district": "batang-asai"
+  },
+  {
+    "id": "rantau-panjang",
+    "name": "Rantau Panjang",
+    "district": "batang-asai"
+  },
+  {
+    "id": "pekan-gedang",
+    "name": "Pekan Gedang",
+    "district": "batang-asai"
+  },
+  {
+    "id": "pulau-salak-baru",
+    "name": "Pulau Salak Baru",
+    "district": "batang-asai"
+  },
+  {
+    "id": "bukit-kalimau-ulu",
+    "name": "Bukit Kalimau Ulu",
+    "district": "batang-asai"
+  },
+  {
+    "id": "raden-anom",
+    "name": "Raden Anom",
+    "district": "batang-asai"
+  },
+  {
+    "id": "datuk-nan-duo",
+    "name": "Datuk Nan Duo",
+    "district": "batang-asai"
+  },
+  {
+    "id": "padang-jering",
+    "name": "Padang Jering",
+    "district": "batang-asai"
+  },
+  {
+    "id": "kasiro",
+    "name": "Kasiro",
+    "district": "batang-asai"
+  },
+  {
+    "id": "kasiro-ilir",
+    "name": "Kasiro Ilir",
+    "district": "batang-asai"
+  },
+  {
+    "id": "sungai-bemban",
+    "name": "Sungai Bemban",
+    "district": "batang-asai"
+  },
+  {
+    "id": "sungai-baung",
+    "name": "Sungai Baung",
+    "district": "batang-asai"
+  },
+  {
+    "id": "muara-cuban",
+    "name": "Muara Cuban",
+    "district": "batang-asai"
+  },
+  {
+    "id": "lubuk-bangkar",
+    "name": "Lubuk Bangkar",
+    "district": "batang-asai"
+  },
+  {
+    "id": "muara-pemuat",
+    "name": "Muara Pemuat",
+    "district": "batang-asai"
+  },
+  {
+    "id": "bukitsulah",
+    "name": "Bukitsulah",
+    "district": "batang-asai"
+  },
+  {
+    "id": "paniban-baru",
+    "name": "Paniban Baru",
+    "district": "batang-asai"
+  },
+  {
+    "id": "bukit-berantai",
+    "name": "Bukit Berantai",
+    "district": "batang-asai"
+  }
+]

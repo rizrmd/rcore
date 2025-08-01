@@ -1,0 +1,27 @@
+[
+  {
+    "id": "walaik",
+    "name": "Walaik",
+    "district": "walaik"
+  },
+  {
+    "id": "elarek",
+    "name": "Elarek",
+    "district": "walaik"
+  },
+  {
+    "id": "welekama",
+    "name": "Welekama",
+    "district": "walaik"
+  },
+  {
+    "id": "holima",
+    "name": "Holima",
+    "district": "walaik"
+  },
+  {
+    "id": "yelai",
+    "name": "Yelai",
+    "district": "walaik"
+  }
+]

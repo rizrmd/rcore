@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mau-ramba",
+    "name": "Mau Ramba",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "kambata-bundung",
+    "name": "Kambata Bundung",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "kamanggih",
+    "name": "Kamanggih",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "kataka",
+    "name": "Kataka",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "matawai-maringu",
+    "name": "Matawai Maringu",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "matawai-katingga",
+    "name": "Matawai Katingga",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "kotak-kawau",
+    "name": "Kotak Kawau",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "lai-mbonga",
+    "name": "Lai Mbonga",
+    "district": "kahaungu-eti"
+  },
+  {
+    "id": "meo-rumba",
+    "name": "Meo Rumba",
+    "district": "kahaungu-eti"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "lumban-sialaman",
+    "name": "Lumban Sialaman",
+    "district": "paranginan"
+  },
+  {
+    "id": "paranginan-selatan",
+    "name": "Paranginan Selatan",
+    "district": "paranginan"
+  },
+  {
+    "id": "lumban-barat",
+    "name": "Lumban Barat",
+    "district": "paranginan"
+  },
+  {
+    "id": "lobu-tolong",
+    "name": "Lobu Tolong",
+    "district": "paranginan"
+  },
+  {
+    "id": "sihonongan",
+    "name": "Sihonongan",
+    "district": "paranginan"
+  },
+  {
+    "id": "paranginan-utara",
+    "name": "Paranginan Utara",
+    "district": "paranginan"
+  },
+  {
+    "id": "pearung",
+    "name": "Pearung",
+    "district": "paranginan"
+  },
+  {
+    "id": "siborutorup",
+    "name": "Siborutorup",
+    "district": "paranginan"
+  },
+  {
+    "id": "lumban-sianturi",
+    "name": "Lumban Sianturi",
+    "district": "paranginan"
+  },
+  {
+    "id": "lobutolong-habinsaran",
+    "name": "Lobutolong Habinsaran",
+    "district": "paranginan"
+  },
+  {
+    "id": "pearung-silali",
+    "name": "Pearung Silali",
+    "district": "paranginan"
+  }
+]

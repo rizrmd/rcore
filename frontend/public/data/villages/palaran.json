@@ -1,0 +1,27 @@
+[
+  {
+    "id": "simpang-pasir",
+    "name": "Simpang Pasir",
+    "district": "palaran"
+  },
+  {
+    "id": "handil-bakti",
+    "name": "Handil Bakti",
+    "district": "palaran"
+  },
+  {
+    "id": "bantuas",
+    "name": "Bantuas",
+    "district": "palaran"
+  },
+  {
+    "id": "bukuan",
+    "name": "Bukuan",
+    "district": "palaran"
+  },
+  {
+    "id": "rawa-makmur",
+    "name": "Rawa Makmur",
+    "district": "palaran"
+  }
+]

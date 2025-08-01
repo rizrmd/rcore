@@ -1,0 +1,47 @@
+[
+  {
+    "id": "gelok",
+    "name": "Gelok",
+    "district": "gika"
+  },
+  {
+    "id": "yinuwanu",
+    "name": "Yinuwanu",
+    "district": "gika"
+  },
+  {
+    "id": "makido",
+    "name": "Makido",
+    "district": "gika"
+  },
+  {
+    "id": "kwa",
+    "name": "Kwa",
+    "district": "gika"
+  },
+  {
+    "id": "geka",
+    "name": "Geka",
+    "district": "gika"
+  },
+  {
+    "id": "dimbara",
+    "name": "Dimbara",
+    "district": "gika"
+  },
+  {
+    "id": "wanuwi",
+    "name": "Wanuwi",
+    "district": "gika"
+  },
+  {
+    "id": "tabunakme",
+    "name": "Tabunakme",
+    "district": "gika"
+  },
+  {
+    "id": "mamberamongen",
+    "name": "Mamberamongen",
+    "district": "gika"
+  }
+]

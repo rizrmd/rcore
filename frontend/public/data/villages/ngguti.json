@@ -1,0 +1,32 @@
+[
+  {
+    "id": "po-epe",
+    "name": "Po-Epe",
+    "district": "ngguti"
+  },
+  {
+    "id": "taga-epe",
+    "name": "Taga Epe",
+    "district": "ngguti"
+  },
+  {
+    "id": "nakias",
+    "name": "Nakias",
+    "district": "ngguti"
+  },
+  {
+    "id": "salamepe",
+    "name": "Salamepe",
+    "district": "ngguti"
+  },
+  {
+    "id": "yawimu",
+    "name": "Yawimu",
+    "district": "ngguti"
+  },
+  {
+    "id": "yomop",
+    "name": "Yomop",
+    "district": "ngguti"
+  }
+]

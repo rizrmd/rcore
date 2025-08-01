@@ -1,0 +1,57 @@
+[
+  {
+    "id": "long-hurai",
+    "name": "Long Hurai",
+    "district": "long-bagun"
+  },
+  {
+    "id": "rukun-damai",
+    "name": "Rukun Damai",
+    "district": "long-bagun"
+  },
+  {
+    "id": "long-merah",
+    "name": "Long Merah",
+    "district": "long-bagun"
+  },
+  {
+    "id": "mamahak-ilir",
+    "name": "Mamahak Ilir",
+    "district": "long-bagun"
+  },
+  {
+    "id": "mamahak-ulu",
+    "name": "Mamahak Ulu",
+    "district": "long-bagun"
+  },
+  {
+    "id": "long-melaham",
+    "name": "Long Melaham",
+    "district": "long-bagun"
+  },
+  {
+    "id": "ujoh-bilang",
+    "name": "Ujoh Bilang",
+    "district": "long-bagun"
+  },
+  {
+    "id": "batu-majang",
+    "name": "Batu Majang",
+    "district": "long-bagun"
+  },
+  {
+    "id": "batoq-kelo",
+    "name": "Batoq Kelo",
+    "district": "long-bagun"
+  },
+  {
+    "id": "long-bagun-ulu",
+    "name": "Long Bagun Ulu",
+    "district": "long-bagun"
+  },
+  {
+    "id": "long-bagun-ilir",
+    "name": "Long Bagun Ilir",
+    "district": "long-bagun"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sungai-guntung-tengah",
+    "name": "Sungai Guntung Tengah",
+    "district": "rengat"
+  },
+  {
+    "id": "sungai-guntung-hilir",
+    "name": "Sungai Guntung Hilir",
+    "district": "rengat"
+  },
+  {
+    "id": "kuantan-babu",
+    "name": "Kuantan Babu",
+    "district": "rengat"
+  },
+  {
+    "id": "kampung-dagang",
+    "name": "Kampung Dagang",
+    "district": "rengat"
+  },
+  {
+    "id": "kampung-pulau",
+    "name": "Kampung Pulau",
+    "district": "rengat"
+  },
+  {
+    "id": "kampung-besar-kota",
+    "name": "Kampung Besar Kota",
+    "district": "rengat"
+  },
+  {
+    "id": "pasar-kota",
+    "name": "Pasar Kota",
+    "district": "rengat"
+  },
+  {
+    "id": "sekip-hulu",
+    "name": "Sekip Hulu",
+    "district": "rengat"
+  },
+  {
+    "id": "sekip-hilir",
+    "name": "Sekip Hilir",
+    "district": "rengat"
+  },
+  {
+    "id": "kampung-besar-seberang",
+    "name": "Kampung Besar Seberang",
+    "district": "rengat"
+  },
+  {
+    "id": "rantau-mapesai",
+    "name": "Rantau Mapesai",
+    "district": "rengat"
+  },
+  {
+    "id": "pasir-kemilu",
+    "name": "Pasir Kemilu",
+    "district": "rengat"
+  },
+  {
+    "id": "sungai-beringin",
+    "name": "Sungai Beringin",
+    "district": "rengat"
+  },
+  {
+    "id": "pulau-gajah",
+    "name": "Pulau Gajah",
+    "district": "rengat"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "rengat"
+  },
+  {
+    "id": "rawa-bangun",
+    "name": "Rawa Bangun",
+    "district": "rengat"
+  }
+]

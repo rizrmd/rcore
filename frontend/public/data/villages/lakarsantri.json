@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bangkingan",
+    "name": "Bangkingan",
+    "district": "lakarsantri"
+  },
+  {
+    "id": "lidah-wetan",
+    "name": "Lidah Wetan",
+    "district": "lakarsantri"
+  },
+  {
+    "id": "lidah-kulon",
+    "name": "Lidah Kulon",
+    "district": "lakarsantri"
+  },
+  {
+    "id": "lakarsantri",
+    "name": "Lakarsantri",
+    "district": "lakarsantri"
+  }
+]

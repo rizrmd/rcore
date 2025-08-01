@@ -1,0 +1,52 @@
+[
+  {
+    "id": "lumban-rau-tengah",
+    "name": "Lumban Rau Tengah",
+    "district": "nassau"
+  },
+  {
+    "id": "lumban-rau-timur",
+    "name": "Lumban Rau Timur",
+    "district": "nassau"
+  },
+  {
+    "id": "lumban-rau-utara",
+    "name": "Lumban Rau Utara",
+    "district": "nassau"
+  },
+  {
+    "id": "napajoring",
+    "name": "Napajoring",
+    "district": "nassau"
+  },
+  {
+    "id": "sipagabu",
+    "name": "Sipagabu",
+    "district": "nassau"
+  },
+  {
+    "id": "liat-tondung",
+    "name": "Liat Tondung",
+    "district": "nassau"
+  },
+  {
+    "id": "batu-manumpak",
+    "name": "Batu Manumpak",
+    "district": "nassau"
+  },
+  {
+    "id": "lumban-rau-tenggara",
+    "name": "Lumban Rau Tenggara",
+    "district": "nassau"
+  },
+  {
+    "id": "cinta-damai",
+    "name": "Cinta Damai",
+    "district": "nassau"
+  },
+  {
+    "id": "siantarasa",
+    "name": "Siantarasa",
+    "district": "nassau"
+  }
+]

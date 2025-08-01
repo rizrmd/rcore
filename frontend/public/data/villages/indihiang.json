@@ -1,0 +1,32 @@
+[
+  {
+    "id": "panyingkiran",
+    "name": "Panyingkiran",
+    "district": "indihiang"
+  },
+  {
+    "id": "parakannyasag",
+    "name": "Parakannyasag",
+    "district": "indihiang"
+  },
+  {
+    "id": "sirnagalih",
+    "name": "Sirnagalih",
+    "district": "indihiang"
+  },
+  {
+    "id": "indihiang",
+    "name": "Indihiang",
+    "district": "indihiang"
+  },
+  {
+    "id": "sukamajukidul",
+    "name": "Sukamajukidul",
+    "district": "indihiang"
+  },
+  {
+    "id": "sukamajukaler",
+    "name": "Sukamajukaler",
+    "district": "indihiang"
+  }
+]

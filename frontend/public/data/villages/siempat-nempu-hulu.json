@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tambahan",
+    "name": "Tambahan",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "kuta-tengah",
+    "name": "Kuta Tengah",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "lae-nuaha",
+    "name": "Lae Nuaha",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "sungai-raya",
+    "name": "Sungai Raya",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "gunung-meriah",
+    "name": "Gunung Meriah",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "sigambir-gambir",
+    "name": "Sigambir Gambir",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "silumboyah",
+    "name": "Silumboyah",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "pangaribuan",
+    "name": "Pangaribuan",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "tualang",
+    "name": "Tualang",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "bakal-julu",
+    "name": "Bakal Julu",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "sipoltong",
+    "name": "Sipoltong",
+    "district": "siempat-nempu-hulu"
+  },
+  {
+    "id": "p-a-n-d-a-n",
+    "name": "P A N D A N",
+    "district": "siempat-nempu-hulu"
+  }
+]

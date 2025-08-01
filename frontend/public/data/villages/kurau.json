@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sungai-bakau",
+    "name": "Sungai Bakau",
+    "district": "kurau"
+  },
+  {
+    "id": "raden",
+    "name": "Raden",
+    "district": "kurau"
+  },
+  {
+    "id": "maluka-baulin",
+    "name": "Maluka Baulin",
+    "district": "kurau"
+  },
+  {
+    "id": "bawah-layung",
+    "name": "Bawah Layung",
+    "district": "kurau"
+  },
+  {
+    "id": "tambak-karya",
+    "name": "Tambak Karya",
+    "district": "kurau"
+  },
+  {
+    "id": "padang-luas",
+    "name": "Padang Luas",
+    "district": "kurau"
+  },
+  {
+    "id": "tambak-sarinah",
+    "name": "Tambak Sarinah",
+    "district": "kurau"
+  },
+  {
+    "id": "sarikandi",
+    "name": "Sarikandi",
+    "district": "kurau"
+  },
+  {
+    "id": "handil-negara",
+    "name": "Handil Negara",
+    "district": "kurau"
+  },
+  {
+    "id": "kali-besar",
+    "name": "Kali Besar",
+    "district": "kurau"
+  },
+  {
+    "id": "kurau",
+    "name": "Kurau",
+    "district": "kurau"
+  }
+]

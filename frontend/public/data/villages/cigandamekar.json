@@ -1,0 +1,57 @@
+[
+  {
+    "id": "sangkanurip",
+    "name": "Sangkanurip",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "sangkanmulya",
+    "name": "Sangkanmulya",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "karangmuncang",
+    "name": "Karangmuncang",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "koreak",
+    "name": "Koreak",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "jambugeulis",
+    "name": "Jambugeulis",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "bunigeulis",
+    "name": "Bunigeulis",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "babakanjati",
+    "name": "Babakanjati",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "timbang",
+    "name": "Timbang",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "panawuan",
+    "name": "Panawuan",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "indapatra",
+    "name": "Indapatra",
+    "district": "cigandamekar"
+  },
+  {
+    "id": "cibuntu",
+    "name": "Cibuntu",
+    "district": "cigandamekar"
+  }
+]

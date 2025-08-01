@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tarawasi",
+    "name": "Tarawasi",
+    "district": "bonggo-timur"
+  },
+  {
+    "id": "mawesday",
+    "name": "Mawesday",
+    "district": "bonggo-timur"
+  },
+  {
+    "id": "kaptiau",
+    "name": "Kaptiau",
+    "district": "bonggo-timur"
+  },
+  {
+    "id": "tamarsari",
+    "name": "Tamarsari",
+    "district": "bonggo-timur"
+  },
+  {
+    "id": "mawesmukti",
+    "name": "Mawesmukti",
+    "district": "bonggo-timur"
+  },
+  {
+    "id": "gwinjaya",
+    "name": "Gwinjaya",
+    "district": "bonggo-timur"
+  }
+]

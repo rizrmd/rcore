@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pemecutan-kaja",
+    "name": "Pemecutan Kaja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "dauh-puri-kaja",
+    "name": "Dauh Puri Kaja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "dangin-puri-kauh",
+    "name": "Dangin Puri Kauh",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "dangin-puri-kaja",
+    "name": "Dangin Puri Kaja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "dangin-puri-kangin",
+    "name": "Dangin Puri Kangin",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "tonja",
+    "name": "Tonja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "peguyangan",
+    "name": "Peguyangan",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "ubung-kaja",
+    "name": "Ubung  Kaja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "peguyangan-kaja",
+    "name": "Peguyangan Kaja",
+    "district": "denpasar-utara"
+  },
+  {
+    "id": "peguyangan-kangin",
+    "name": "Peguyangan Kangin",
+    "district": "denpasar-utara"
+  }
+]

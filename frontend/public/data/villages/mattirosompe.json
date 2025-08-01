@@ -1,0 +1,47 @@
+[
+  {
+    "id": "massulowalie",
+    "name": "Massulowalie",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "langa",
+    "name": "Langa",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "pallameang",
+    "name": "Pallameang",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "mattombong",
+    "name": "Mattombong",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "patobong",
+    "name": "Patobong",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "samaenre",
+    "name": "Samaenre",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "mattongang-tongang",
+    "name": "Mattongang Tongang",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "mattiro-tasi",
+    "name": "Mattiro Tasi",
+    "district": "mattirosompe"
+  },
+  {
+    "id": "siwolong-polong",
+    "name": "Siwolong Polong",
+    "district": "mattirosompe"
+  }
+]

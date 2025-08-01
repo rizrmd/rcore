@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tepi-laut",
+    "name": "Tepi Laut",
+    "district": "air-napal"
+  },
+  {
+    "id": "pasar-bembah",
+    "name": "Pasar Bembah",
+    "district": "air-napal"
+  },
+  {
+    "id": "pasar-kerkap",
+    "name": "Pasar Kerkap",
+    "district": "air-napal"
+  },
+  {
+    "id": "air-napal",
+    "name": "Air Napal",
+    "district": "air-napal"
+  },
+  {
+    "id": "talang-jarang",
+    "name": "Talang Jarang",
+    "district": "air-napal"
+  },
+  {
+    "id": "talang-kering",
+    "name": "Talang Kering",
+    "district": "air-napal"
+  },
+  {
+    "id": "selubuk",
+    "name": "Selubuk",
+    "district": "air-napal"
+  },
+  {
+    "id": "pasar-tebat",
+    "name": "Pasar Tebat",
+    "district": "air-napal"
+  },
+  {
+    "id": "lubuk-tanjung",
+    "name": "Lubuk Tanjung",
+    "district": "air-napal"
+  },
+  {
+    "id": "pasar-palik",
+    "name": "Pasar Palik",
+    "district": "air-napal"
+  },
+  {
+    "id": "tebing-kandang",
+    "name": "Tebing Kandang",
+    "district": "air-napal"
+  },
+  {
+    "id": "dusun-pukur",
+    "name": "Dusun Pukur",
+    "district": "air-napal"
+  }
+]

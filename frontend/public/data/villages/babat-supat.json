@@ -1,0 +1,82 @@
+[
+  {
+    "id": "gajah-mati",
+    "name": "Gajah Mati",
+    "district": "babat-supat"
+  },
+  {
+    "id": "tanjung-kerang",
+    "name": "Tanjung Kerang",
+    "district": "babat-supat"
+  },
+  {
+    "id": "babat-banyuasin",
+    "name": "Babat Banyuasin",
+    "district": "babat-supat"
+  },
+  {
+    "id": "supat",
+    "name": "Supat",
+    "district": "babat-supat"
+  },
+  {
+    "id": "letang",
+    "name": "Letang",
+    "district": "babat-supat"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "babat-supat"
+  },
+  {
+    "id": "langkap",
+    "name": "Langkap",
+    "district": "babat-supat"
+  },
+  {
+    "id": "tenggulang-jaya",
+    "name": "Tenggulang Jaya",
+    "district": "babat-supat"
+  },
+  {
+    "id": "bandar-tenggulang",
+    "name": "Bandar Tenggulang",
+    "district": "babat-supat"
+  },
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "babat-supat"
+  },
+  {
+    "id": "tenggulang-baru",
+    "name": "Tenggulang Baru",
+    "district": "babat-supat"
+  },
+  {
+    "id": "seratus-lapan",
+    "name": "Seratus Lapan",
+    "district": "babat-supat"
+  },
+  {
+    "id": "babat-ramba-jaya",
+    "name": "Babat Ramba Jaya",
+    "district": "babat-supat"
+  },
+  {
+    "id": "supat-barat",
+    "name": "Supat Barat",
+    "district": "babat-supat"
+  },
+  {
+    "id": "supat-timur",
+    "name": "Supat Timur",
+    "district": "babat-supat"
+  },
+  {
+    "id": "gajah-muda",
+    "name": "Gajah Muda",
+    "district": "babat-supat"
+  }
+]

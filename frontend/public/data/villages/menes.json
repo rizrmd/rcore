@@ -1,0 +1,52 @@
+[
+  {
+    "id": "alaswangi",
+    "name": "Alaswangi",
+    "district": "menes"
+  },
+  {
+    "id": "tegalwangi",
+    "name": "Tegalwangi",
+    "district": "menes"
+  },
+  {
+    "id": "kananga",
+    "name": "Kananga",
+    "district": "menes"
+  },
+  {
+    "id": "cilabanbulan",
+    "name": "Cilabanbulan",
+    "district": "menes"
+  },
+  {
+    "id": "sindangkarya",
+    "name": "Sindangkarya",
+    "district": "menes"
+  },
+  {
+    "id": "cigandeng",
+    "name": "Cigandeng",
+    "district": "menes"
+  },
+  {
+    "id": "purwaraja",
+    "name": "Purwaraja",
+    "district": "menes"
+  },
+  {
+    "id": "kadupayung",
+    "name": "Kadupayung",
+    "district": "menes"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "menes"
+  },
+  {
+    "id": "ramaya",
+    "name": "Ramaya",
+    "district": "menes"
+  }
+]

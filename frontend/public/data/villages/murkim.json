@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bias",
+    "name": "Bias",
+    "district": "murkim"
+  },
+  {
+    "id": "bumi",
+    "name": "Bumi",
+    "district": "murkim"
+  },
+  {
+    "id": "tero",
+    "name": "Tero",
+    "district": "murkim"
+  },
+  {
+    "id": "delemo",
+    "name": "Delemo",
+    "district": "murkim"
+  }
+]

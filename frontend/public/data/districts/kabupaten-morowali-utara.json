@@ -1,0 +1,52 @@
+[
+  {
+    "id": "mori-atas",
+    "name": "Mori Atas",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "lembo",
+    "name": "Lembo",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "lembo-raya",
+    "name": "Lembo Raya",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "petasia-timur",
+    "name": "Petasia Timur",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "petasia",
+    "name": "Petasia",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "petasia-barat",
+    "name": "Petasia Barat",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "mori-utara",
+    "name": "Mori Utara",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "soyo-jaya",
+    "name": "Soyo Jaya",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "bungku-utara",
+    "name": "Bungku Utara",
+    "regency": "kabupaten-morowali-utara"
+  },
+  {
+    "id": "mamosalato",
+    "name": "Mamosalato",
+    "regency": "kabupaten-morowali-utara"
+  }
+]

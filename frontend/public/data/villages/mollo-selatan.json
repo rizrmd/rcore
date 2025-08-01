@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tuasene",
+    "name": "Tuasene",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "biloto",
+    "name": "Biloto",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "bisene",
+    "name": "Bisene",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "bikekneno",
+    "name": "Bikekneno",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "kesetnana",
+    "name": "Kesetnana",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "oinlasi",
+    "name": "Oinlasi",
+    "district": "mollo-selatan"
+  },
+  {
+    "id": "klaninoinbila",
+    "name": "Klani/Noinbila",
+    "district": "mollo-selatan"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sendang-mulyo",
+    "name": "Sendang Mulyo",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-rejo",
+    "name": "Sendang Rejo",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-agung",
+    "name": "Sendang Agung",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-retno",
+    "name": "Sendang Retno",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-baru",
+    "name": "Sendang Baru",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-asih",
+    "name": "Sendang Asih",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-asri",
+    "name": "Sendang Asri",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "sendang-mukti",
+    "name": "Sendang Mukti",
+    "district": "sendang-agung"
+  },
+  {
+    "id": "kutowinangun",
+    "name": "Kutowinangun",
+    "district": "sendang-agung"
+  }
+]

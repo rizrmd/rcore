@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rasanae-barat",
+    "name": "Rasanae Barat",
+    "regency": "kota-bima"
+  },
+  {
+    "id": "mpunda",
+    "name": "Mpunda",
+    "regency": "kota-bima"
+  },
+  {
+    "id": "rasanae-timur",
+    "name": "Rasanae Timur",
+    "regency": "kota-bima"
+  },
+  {
+    "id": "raba",
+    "name": "Raba",
+    "regency": "kota-bima"
+  },
+  {
+    "id": "asakota",
+    "name": "Asakota",
+    "regency": "kota-bima"
+  }
+]

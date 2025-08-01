@@ -1,0 +1,32 @@
+[
+  {
+    "id": "luniup",
+    "name": "Luniup",
+    "district": "biboki-moenleu"
+  },
+  {
+    "id": "matabesi",
+    "name": "Matabesi",
+    "district": "biboki-moenleu"
+  },
+  {
+    "id": "kaubele",
+    "name": "Kaubele",
+    "district": "biboki-moenleu"
+  },
+  {
+    "id": "oepuah",
+    "name": "Oepuah",
+    "district": "biboki-moenleu"
+  },
+  {
+    "id": "oepuah-utara",
+    "name": "Oepuah Utara",
+    "district": "biboki-moenleu"
+  },
+  {
+    "id": "oepuah-selatan",
+    "name": "Oepuah Selatan",
+    "district": "biboki-moenleu"
+  }
+]

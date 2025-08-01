@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pangeran",
+    "name": "Pangeran",
+    "district": "kabaruan"
+  },
+  {
+    "id": "pantuge",
+    "name": "Pantuge",
+    "district": "kabaruan"
+  },
+  {
+    "id": "kabaruan",
+    "name": "Kabaruan",
+    "district": "kabaruan"
+  },
+  {
+    "id": "mangaran",
+    "name": "Mangaran",
+    "district": "kabaruan"
+  },
+  {
+    "id": "kordakel",
+    "name": "Kordakel",
+    "district": "kabaruan"
+  },
+  {
+    "id": "rarange",
+    "name": "Rarange",
+    "district": "kabaruan"
+  },
+  {
+    "id": "taduna",
+    "name": "Taduna",
+    "district": "kabaruan"
+  },
+  {
+    "id": "kabaruan-timur",
+    "name": "Kabaruan Timur",
+    "district": "kabaruan"
+  },
+  {
+    "id": "pantuge-barat",
+    "name": "Pantuge Barat",
+    "district": "kabaruan"
+  },
+  {
+    "id": "bulude-selatan",
+    "name": "Bulude Selatan",
+    "district": "kabaruan"
+  },
+  {
+    "id": "panulan",
+    "name": "Panulan",
+    "district": "kabaruan"
+  }
+]

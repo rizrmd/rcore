@@ -1,0 +1,42 @@
+[
+  {
+    "id": "powelua",
+    "name": "Powelua",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "lumbudolo",
+    "name": "Lumbudolo",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "salubomba",
+    "name": "Salubomba",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "towale",
+    "name": "Towale",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "limboro",
+    "name": "Limboro",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "kola-kola",
+    "name": "Kola-Kola",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "mekar-baru",
+    "name": "Mekar Baru",
+    "district": "banawa-tengah"
+  },
+  {
+    "id": "lampo",
+    "name": "Lampo",
+    "district": "banawa-tengah"
+  }
+]

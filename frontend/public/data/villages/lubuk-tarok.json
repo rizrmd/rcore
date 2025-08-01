@@ -1,0 +1,32 @@
+[
+  {
+    "id": "buluh-kasok",
+    "name": "Buluh Kasok",
+    "district": "lubuk-tarok"
+  },
+  {
+    "id": "lubuk-tarok",
+    "name": "Lubuk Tarok",
+    "district": "lubuk-tarok"
+  },
+  {
+    "id": "lalan",
+    "name": "Lalan",
+    "district": "lubuk-tarok"
+  },
+  {
+    "id": "silongo",
+    "name": "Silongo",
+    "district": "lubuk-tarok"
+  },
+  {
+    "id": "kampung-dalam",
+    "name": "Kampung Dalam",
+    "district": "lubuk-tarok"
+  },
+  {
+    "id": "latang",
+    "name": "Latang",
+    "district": "lubuk-tarok"
+  }
+]

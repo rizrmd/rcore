@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wolaang",
+    "name": "Wolaang",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "waleure",
+    "name": "Waleure",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "amongena-dua",
+    "name": "Amongena Dua",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "amongena-satu",
+    "name": "Amongena Satu",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "karondoran",
+    "name": "Karondoran",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "sumarayar",
+    "name": "Sumarayar",
+    "district": "langowan-timur"
+  },
+  {
+    "id": "amongena-iii",
+    "name": "Amongena Iii",
+    "district": "langowan-timur"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lebong-gajah",
+    "name": "Lebong Gajah",
+    "district": "sematang-borang"
+  },
+  {
+    "id": "srimulyo",
+    "name": "Srimulyo",
+    "district": "sematang-borang"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "sematang-borang"
+  },
+  {
+    "id": "karya-mulya",
+    "name": "Karya Mulya",
+    "district": "sematang-borang"
+  }
+]

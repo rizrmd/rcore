@@ -1,0 +1,52 @@
+[
+  {
+    "id": "wariau-sp-i",
+    "name": "Wariau (Sp I)",
+    "district": "klamono"
+  },
+  {
+    "id": "klawana",
+    "name": "Klawana",
+    "district": "klamono"
+  },
+  {
+    "id": "klamono",
+    "name": "Klamono",
+    "district": "klamono"
+  },
+  {
+    "id": "gisim-darat",
+    "name": "Gisim Darat",
+    "district": "klamono"
+  },
+  {
+    "id": "klalomon",
+    "name": "Klalomon",
+    "district": "klamono"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "klamono"
+  },
+  {
+    "id": "mlais",
+    "name": "Mlais",
+    "district": "klamono"
+  },
+  {
+    "id": "mlasmily",
+    "name": "Mlasmily",
+    "district": "klamono"
+  },
+  {
+    "id": "klasafet",
+    "name": "Klasafet",
+    "district": "klamono"
+  },
+  {
+    "id": "posa",
+    "name": "Posa",
+    "district": "klamono"
+  }
+]

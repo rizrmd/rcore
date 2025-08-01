@@ -1,0 +1,37 @@
+[
+  {
+    "id": "lalang-panjang",
+    "name": "Lalang Panjang",
+    "district": "pemahan"
+  },
+  {
+    "id": "pebihingan",
+    "name": "Pebihingan",
+    "district": "pemahan"
+  },
+  {
+    "id": "semayok-baru",
+    "name": "Semayok Baru",
+    "district": "pemahan"
+  },
+  {
+    "id": "muara-gerunggang",
+    "name": "Muara Gerunggang",
+    "district": "pemahan"
+  },
+  {
+    "id": "usaha-baru",
+    "name": "Usaha Baru",
+    "district": "pemahan"
+  },
+  {
+    "id": "kerta-baru",
+    "name": "Kerta Baru",
+    "district": "pemahan"
+  },
+  {
+    "id": "muara-semayok",
+    "name": "Muara Semayok",
+    "district": "pemahan"
+  }
+]

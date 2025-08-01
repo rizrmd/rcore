@@ -1,0 +1,127 @@
+[
+  {
+    "id": "langowan-timur",
+    "name": "Langowan Timur",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "langowan-barat",
+    "name": "Langowan Barat",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "langowan-selatan",
+    "name": "Langowan Selatan",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "langowan-utara",
+    "name": "Langowan Utara",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tompaso",
+    "name": "Tompaso",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tompaso-barat",
+    "name": "Tompaso Barat",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kawangkoan",
+    "name": "Kawangkoan",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kawangkoan-barat",
+    "name": "Kawangkoan Barat",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kawangkoan-utara",
+    "name": "Kawangkoan Utara",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "sonder",
+    "name": "Sonder",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tombariri",
+    "name": "Tombariri",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tombariri-timur",
+    "name": "Tombariri Timur",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "pineleng",
+    "name": "Pineleng",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tombulu",
+    "name": "Tombulu",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "mandolang",
+    "name": "Mandolang",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tondano-barat",
+    "name": "Tondano Barat",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tondano-selatan",
+    "name": "Tondano Selatan",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "remboken",
+    "name": "Remboken",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kakas",
+    "name": "Kakas",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kakas-barat",
+    "name": "Kakas Barat",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "lembean-timur",
+    "name": "Lembean Timur",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "eris",
+    "name": "Eris",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "kombi",
+    "name": "Kombi",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tondano-timur",
+    "name": "Tondano Timur",
+    "regency": "kabupaten-minahasa"
+  },
+  {
+    "id": "tondano-utara",
+    "name": "Tondano Utara",
+    "regency": "kabupaten-minahasa"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "jragung",
+    "name": "Jragung",
+    "district": "karangawen"
+  },
+  {
+    "id": "wonosekar",
+    "name": "Wonosekar",
+    "district": "karangawen"
+  },
+  {
+    "id": "margohayu",
+    "name": "Margohayu",
+    "district": "karangawen"
+  },
+  {
+    "id": "tlogorejo",
+    "name": "Tlogorejo",
+    "district": "karangawen"
+  },
+  {
+    "id": "rejosari",
+    "name": "Rejosari",
+    "district": "karangawen"
+  },
+  {
+    "id": "karangawen",
+    "name": "Karangawen",
+    "district": "karangawen"
+  },
+  {
+    "id": "kuripan",
+    "name": "Kuripan",
+    "district": "karangawen"
+  },
+  {
+    "id": "bumirejo",
+    "name": "Bumirejo",
+    "district": "karangawen"
+  },
+  {
+    "id": "brambang",
+    "name": "Brambang",
+    "district": "karangawen"
+  },
+  {
+    "id": "sido-rejo",
+    "name": "Sido Rejo",
+    "district": "karangawen"
+  },
+  {
+    "id": "pundenarum",
+    "name": "Pundenarum",
+    "district": "karangawen"
+  }
+]

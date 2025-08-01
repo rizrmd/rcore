@@ -1,0 +1,57 @@
+[
+  {
+    "id": "bobalo",
+    "name": "Bobalo",
+    "district": "palasa"
+  },
+  {
+    "id": "eeya",
+    "name": "Eeya",
+    "district": "palasa"
+  },
+  {
+    "id": "ulatan",
+    "name": "Ulatan",
+    "district": "palasa"
+  },
+  {
+    "id": "palasa-tangki",
+    "name": "Palasa Tangki",
+    "district": "palasa"
+  },
+  {
+    "id": "palasa",
+    "name": "Palasa",
+    "district": "palasa"
+  },
+  {
+    "id": "palasa-lambori",
+    "name": "Palasa Lambori",
+    "district": "palasa"
+  },
+  {
+    "id": "dongkalan",
+    "name": "Dongkalan",
+    "district": "palasa"
+  },
+  {
+    "id": "pebo-unang",
+    "name": "Pebo Unang",
+    "district": "palasa"
+  },
+  {
+    "id": "bambasiang",
+    "name": "Bambasiang",
+    "district": "palasa"
+  },
+  {
+    "id": "beau",
+    "name": "Beau",
+    "district": "palasa"
+  },
+  {
+    "id": "ogoansam",
+    "name": "Ogoansam",
+    "district": "palasa"
+  }
+]

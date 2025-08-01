@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanjung-lajau",
+    "name": "Tanjung Lajau",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "sungai-buluh",
+    "name": "Sungai Buluh",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "sungai-bela",
+    "name": "Sungai Bela",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "perigi-raja",
+    "name": "Perigi Raja",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "sapat",
+    "name": "Sapat",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "teluk-dalam",
+    "name": "Teluk Dalam",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "sungai-piyai",
+    "name": "Sungai Piyai",
+    "district": "kuala-indragiri"
+  },
+  {
+    "id": "tanjung-melayu",
+    "name": "Tanjung Melayu",
+    "district": "kuala-indragiri"
+  }
+]

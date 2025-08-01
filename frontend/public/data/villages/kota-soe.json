@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cendana",
+    "name": "Cendana",
+    "district": "kota-soe"
+  },
+  {
+    "id": "soe",
+    "name": "So'E",
+    "district": "kota-soe"
+  },
+  {
+    "id": "oebesa",
+    "name": "Oebesa",
+    "district": "kota-soe"
+  },
+  {
+    "id": "kobekamusa",
+    "name": "Kobekamusa",
+    "district": "kota-soe"
+  },
+  {
+    "id": "oekefan",
+    "name": "Oekefan",
+    "district": "kota-soe"
+  },
+  {
+    "id": "taubneno",
+    "name": "Taubneno",
+    "district": "kota-soe"
+  },
+  {
+    "id": "kampung-baru",
+    "name": "Kampung Baru",
+    "district": "kota-soe"
+  },
+  {
+    "id": "karang-siri",
+    "name": "Karang Siri",
+    "district": "kota-soe"
+  },
+  {
+    "id": "nonohonis",
+    "name": "Nonohonis",
+    "district": "kota-soe"
+  },
+  {
+    "id": "kota-baru",
+    "name": "Kota Baru",
+    "district": "kota-soe"
+  },
+  {
+    "id": "kuatae",
+    "name": "Kuatae",
+    "district": "kota-soe"
+  },
+  {
+    "id": "noemeto",
+    "name": "Noemeto",
+    "district": "kota-soe"
+  }
+]

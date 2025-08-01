@@ -1,0 +1,67 @@
+[
+  {
+    "id": "padaasih",
+    "name": "Padaasih",
+    "district": "cisaat"
+  },
+  {
+    "id": "cisaat",
+    "name": "Cisaat",
+    "district": "cisaat"
+  },
+  {
+    "id": "babakan",
+    "name": "Babakan",
+    "district": "cisaat"
+  },
+  {
+    "id": "sukamantri",
+    "name": "Sukamantri",
+    "district": "cisaat"
+  },
+  {
+    "id": "sukamanah",
+    "name": "Sukamanah",
+    "district": "cisaat"
+  },
+  {
+    "id": "nagrak",
+    "name": "Nagrak",
+    "district": "cisaat"
+  },
+  {
+    "id": "cibatu",
+    "name": "Cibatu",
+    "district": "cisaat"
+  },
+  {
+    "id": "cibolang-kaler",
+    "name": "Cibolang Kaler",
+    "district": "cisaat"
+  },
+  {
+    "id": "kutasirna",
+    "name": "Kutasirna",
+    "district": "cisaat"
+  },
+  {
+    "id": "selajambe",
+    "name": "Selajambe",
+    "district": "cisaat"
+  },
+  {
+    "id": "sukasari",
+    "name": "Sukasari",
+    "district": "cisaat"
+  },
+  {
+    "id": "gunungjaya",
+    "name": "Gunungjaya",
+    "district": "cisaat"
+  },
+  {
+    "id": "sukaresmi",
+    "name": "Sukaresmi",
+    "district": "cisaat"
+  }
+]

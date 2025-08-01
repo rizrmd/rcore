@@ -1,0 +1,47 @@
+[
+  {
+    "id": "cingebul",
+    "name": "Cingebul",
+    "district": "lumbir"
+  },
+  {
+    "id": "cidora",
+    "name": "Cidora",
+    "district": "lumbir"
+  },
+  {
+    "id": "besuki",
+    "name": "Besuki",
+    "district": "lumbir"
+  },
+  {
+    "id": "parungkamal",
+    "name": "Parungkamal",
+    "district": "lumbir"
+  },
+  {
+    "id": "cirahab",
+    "name": "Cirahab",
+    "district": "lumbir"
+  },
+  {
+    "id": "canduk",
+    "name": "Canduk",
+    "district": "lumbir"
+  },
+  {
+    "id": "karanggayam",
+    "name": "Karanggayam",
+    "district": "lumbir"
+  },
+  {
+    "id": "lumbir",
+    "name": "Lumbir",
+    "district": "lumbir"
+  },
+  {
+    "id": "dermaji",
+    "name": "Dermaji",
+    "district": "lumbir"
+  }
+]

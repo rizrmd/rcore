@@ -1,0 +1,77 @@
+[
+  {
+    "id": "beureuleung",
+    "name": "Beureuleung",
+    "district": "grong-grong"
+  },
+  {
+    "id": "panggepilok",
+    "name": "Pangge/Pilok",
+    "district": "grong-grong"
+  },
+  {
+    "id": "nicah",
+    "name": "Nicah",
+    "district": "grong-grong"
+  },
+  {
+    "id": "mesjid-memeuaneuk",
+    "name": "Mesjid Memeuaneuk",
+    "district": "grong-grong"
+  },
+  {
+    "id": "sentosa",
+    "name": "Sentosa",
+    "district": "grong-grong"
+  },
+  {
+    "id": "sukon",
+    "name": "Sukon",
+    "district": "grong-grong"
+  },
+  {
+    "id": "daka",
+    "name": "Daka",
+    "district": "grong-grong"
+  },
+  {
+    "id": "baroh-beureuleung",
+    "name": "Baroh Beureuleung",
+    "district": "grong-grong"
+  },
+  {
+    "id": "teungoh-beureuleung",
+    "name": "Teungoh Beureuleung",
+    "district": "grong-grong"
+  },
+  {
+    "id": "mesjid-beureuleung",
+    "name": "Mesjid Beureuleung",
+    "district": "grong-grong"
+  },
+  {
+    "id": "mee-beureuleung",
+    "name": "Mee Beureuleung",
+    "district": "grong-grong"
+  },
+  {
+    "id": "paya",
+    "name": "Paya",
+    "district": "grong-grong"
+  },
+  {
+    "id": "gintong",
+    "name": "Gintong",
+    "district": "grong-grong"
+  },
+  {
+    "id": "karieng",
+    "name": "Karieng",
+    "district": "grong-grong"
+  },
+  {
+    "id": "grong-grong",
+    "name": "Grong Grong",
+    "district": "grong-grong"
+  }
+]

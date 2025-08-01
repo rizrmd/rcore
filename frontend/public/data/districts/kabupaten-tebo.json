@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tebo-ilir",
+    "name": "Tebo Ilir",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "muara-tabir",
+    "name": "Muara Tabir",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "tebo-tengah",
+    "name": "Tebo Tengah",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "sumay",
+    "name": "Sumay",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "tengah-ilir",
+    "name": "Tengah Ilir",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "rimbo-bujang",
+    "name": "Rimbo Bujang",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "rimbo-ulu",
+    "name": "Rimbo Ulu",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "rimbo-ilir",
+    "name": "Rimbo Ilir",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "tebo-ulu",
+    "name": "Tebo Ulu",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "vii-koto",
+    "name": "Vii Koto",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "serai-serumpun",
+    "name": "Serai Serumpun",
+    "regency": "kabupaten-tebo"
+  },
+  {
+    "id": "vii-koto-ilir",
+    "name": "Vii Koto Ilir",
+    "regency": "kabupaten-tebo"
+  }
+]

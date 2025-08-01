@@ -1,0 +1,67 @@
+[
+  {
+    "id": "rappang",
+    "name": "Rappang",
+    "district": "tapango"
+  },
+  {
+    "id": "dakka",
+    "name": "Dakka",
+    "district": "tapango"
+  },
+  {
+    "id": "pelitakan",
+    "name": "Pelitakan",
+    "district": "tapango"
+  },
+  {
+    "id": "tapango",
+    "name": "Tapango",
+    "district": "tapango"
+  },
+  {
+    "id": "tapango-barat",
+    "name": "Tapango Barat",
+    "district": "tapango"
+  },
+  {
+    "id": "batu",
+    "name": "Batu",
+    "district": "tapango"
+  },
+  {
+    "id": "palatta",
+    "name": "Palatta",
+    "district": "tapango"
+  },
+  {
+    "id": "riso",
+    "name": "Riso",
+    "district": "tapango"
+  },
+  {
+    "id": "kurrak",
+    "name": "Kurrak",
+    "district": "tapango"
+  },
+  {
+    "id": "tutula",
+    "name": "Tutula",
+    "district": "tapango"
+  },
+  {
+    "id": "jambu-malea",
+    "name": "Jambu Malea",
+    "district": "tapango"
+  },
+  {
+    "id": "banato-rejo",
+    "name": "Banato Rejo",
+    "district": "tapango"
+  },
+  {
+    "id": "kalimbua",
+    "name": "Kalimbua",
+    "district": "tapango"
+  }
+]

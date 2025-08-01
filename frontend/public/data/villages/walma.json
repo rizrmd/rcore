@@ -1,0 +1,32 @@
+[
+  {
+    "id": "walma",
+    "name": "Walma",
+    "district": "walma"
+  },
+  {
+    "id": "solinggul",
+    "name": "Solinggul",
+    "district": "walma"
+  },
+  {
+    "id": "hontulun",
+    "name": "Hontulun",
+    "district": "walma"
+  },
+  {
+    "id": "honggolek",
+    "name": "Honggolek",
+    "district": "walma"
+  },
+  {
+    "id": "weri",
+    "name": "Weri",
+    "district": "walma"
+  },
+  {
+    "id": "wewasi",
+    "name": "Wewasi",
+    "district": "walma"
+  }
+]

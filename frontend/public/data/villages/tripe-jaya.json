@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pasir",
+    "name": "Pasir",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "rerebe",
+    "name": "Rerebe",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "setul",
+    "name": "Setul",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "perlak",
+    "name": "Perlak",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "pantan-kela",
+    "name": "Pantan Kela",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "paya-kumer",
+    "name": "Paya Kumer",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "uyem-beriring",
+    "name": "Uyem Beriring",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "pulo-gelime",
+    "name": "Pulo Gelime",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "buntul-musara",
+    "name": "Buntul Musara",
+    "district": "tripe-jaya"
+  },
+  {
+    "id": "kuala-jernih",
+    "name": "Kuala Jernih",
+    "district": "tripe-jaya"
+  }
+]

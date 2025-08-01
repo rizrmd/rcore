@@ -1,0 +1,57 @@
+[
+  {
+    "id": "pasir-putih",
+    "name": "Pasir Putih",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "balai-jaya",
+    "name": "Balai Jaya",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "balam-sempurna",
+    "name": "Balam Sempurna",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "balam-sempurna-kota",
+    "name": "Balam Sempurna Kota",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "balam-jaya",
+    "name": "Balam Jaya",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "balai-jaya-kota",
+    "name": "Balai Jaya Kota",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "pasir-putih-utara",
+    "name": "Pasir Putih Utara",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "kencana",
+    "name": "Kencana",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "bagan-bhakti",
+    "name": "Bagan Bhakti",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "pasir-putih-barat",
+    "name": "Pasir Putih Barat",
+    "district": "balai-jaya"
+  },
+  {
+    "id": "lubuk-jawi",
+    "name": "Lubuk Jawi",
+    "district": "balai-jaya"
+  }
+]

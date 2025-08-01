@@ -1,0 +1,87 @@
+[
+  {
+    "id": "sarageni",
+    "name": "Sarageni",
+    "district": "cimarga"
+  },
+  {
+    "id": "jayasari",
+    "name": "Jayasari",
+    "district": "cimarga"
+  },
+  {
+    "id": "margatirta",
+    "name": "Margatirta",
+    "district": "cimarga"
+  },
+  {
+    "id": "gunung-anten",
+    "name": "Gunung Anten",
+    "district": "cimarga"
+  },
+  {
+    "id": "sangkan-manik",
+    "name": "Sangkan Manik",
+    "district": "cimarga"
+  },
+  {
+    "id": "sudamanik",
+    "name": "Sudamanik",
+    "district": "cimarga"
+  },
+  {
+    "id": "girimukti",
+    "name": "Girimukti",
+    "district": "cimarga"
+  },
+  {
+    "id": "jayamanik",
+    "name": "Jayamanik",
+    "district": "cimarga"
+  },
+  {
+    "id": "margaluyu",
+    "name": "Margaluyu",
+    "district": "cimarga"
+  },
+  {
+    "id": "sangiang-jaya",
+    "name": "Sangiang Jaya",
+    "district": "cimarga"
+  },
+  {
+    "id": "tambak",
+    "name": "Tambak",
+    "district": "cimarga"
+  },
+  {
+    "id": "marga-jaya",
+    "name": "Marga Jaya",
+    "district": "cimarga"
+  },
+  {
+    "id": "cimarga",
+    "name": "Cimarga",
+    "district": "cimarga"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "cimarga"
+  },
+  {
+    "id": "inten-jaya",
+    "name": "Inten Jaya",
+    "district": "cimarga"
+  },
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "cimarga"
+  },
+  {
+    "id": "mekarmulya",
+    "name": "Mekarmulya",
+    "district": "cimarga"
+  }
+]

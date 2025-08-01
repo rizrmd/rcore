@@ -1,0 +1,87 @@
+[
+  {
+    "id": "air-pinang",
+    "name": "Air Pinang",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "kuala-makmur",
+    "name": "Kuala Makmur",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "ganting",
+    "name": "Ganting",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "linggi",
+    "name": "Linggi",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "lugu",
+    "name": "Lugu",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "sinabang",
+    "name": "Sinabang",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "suka-karya",
+    "name": "Suka Karya",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "suka-jaya",
+    "name": "Suka Jaya",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "air-dingin",
+    "name": "Air Dingin",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "kota-batu",
+    "name": "Kota Batu",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "suak-buluh",
+    "name": "Suak Buluh",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "ujung-tinggi",
+    "name": "Ujung Tinggi",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "pulau-siumat",
+    "name": "Pulau Siumat",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "sefoyan",
+    "name": "Sefoyan",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "amaiteng-mulia",
+    "name": "Amaiteng Mulia",
+    "district": "simeulue-timur"
+  },
+  {
+    "id": "ameria-bahagia",
+    "name": "Ameria Bahagia",
+    "district": "simeulue-timur"
+  }
+]

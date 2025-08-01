@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tanah-abang",
+    "name": "Tanah Abang",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "menteng",
+    "name": "Menteng",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "senen",
+    "name": "Senen",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "johar-baru",
+    "name": "Johar Baru",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "cempaka-putih",
+    "name": "Cempaka Putih",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "kemayoran",
+    "name": "Kemayoran",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "sawah-besar",
+    "name": "Sawah Besar",
+    "regency": "kota-jakarta-pusat"
+  },
+  {
+    "id": "gambir",
+    "name": "Gambir",
+    "regency": "kota-jakarta-pusat"
+  }
+]

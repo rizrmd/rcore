@@ -1,0 +1,42 @@
+[
+  {
+    "id": "purwoasri",
+    "name": "Purwoasri",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "kendalrejo",
+    "name": "Kendalrejo",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "kedungasri",
+    "name": "Kedungasri",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "tegaldlimo",
+    "name": "Tegaldlimo",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "wringinpitu",
+    "name": "Wringinpitu",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "kedunggebang",
+    "name": "Kedunggebang",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "purwoagung",
+    "name": "Purwoagung",
+    "district": "tegaldlimo"
+  },
+  {
+    "id": "kalipait",
+    "name": "Kalipait",
+    "district": "tegaldlimo"
+  }
+]

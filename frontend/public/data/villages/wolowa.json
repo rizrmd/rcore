@@ -1,0 +1,37 @@
+[
+  {
+    "id": "kaumbu",
+    "name": "Kaumbu",
+    "district": "wolowa"
+  },
+  {
+    "id": "wolowa",
+    "name": "Wolowa",
+    "district": "wolowa"
+  },
+  {
+    "id": "matawia",
+    "name": "Matawia",
+    "district": "wolowa"
+  },
+  {
+    "id": "wolowa-baru",
+    "name": "Wolowa Baru",
+    "district": "wolowa"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "wolowa"
+  },
+  {
+    "id": "galanti",
+    "name": "Galanti",
+    "district": "wolowa"
+  },
+  {
+    "id": "bungi",
+    "name": "Bungi",
+    "district": "wolowa"
+  }
+]

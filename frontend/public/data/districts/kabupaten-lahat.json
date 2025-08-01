@@ -1,0 +1,122 @@
+[
+  {
+    "id": "tanjung-sakti-pumi",
+    "name": "Tanjung Sakti Pumi",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "tanjung-sakti-pumu",
+    "name": "Tanjung Sakti Pumu",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "kota-agung",
+    "name": "Kota Agung",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "mulak-ulu",
+    "name": "Mulak Ulu",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "tanjung-tebat",
+    "name": "Tanjung Tebat",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "mulak-sebingkai",
+    "name": "Mulak Sebingkai",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "pulau-pinang",
+    "name": "Pulau Pinang",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "pagar-gunung",
+    "name": "Pagar Gunung",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "gumay-ulu",
+    "name": "Gumay Ulu",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "jarai",
+    "name": "Jarai",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "muara-payang",
+    "name": "Muara Payang",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "sukamerindu",
+    "name": "Sukamerindu",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "kikim-barat",
+    "name": "Kikim Barat",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "kikim-timur",
+    "name": "Kikim Timur",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "kikim-selatan",
+    "name": "Kikim Selatan",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "kikim-tengah",
+    "name": "Kikim Tengah",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "lahat",
+    "name": "Lahat",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "gumay-talang",
+    "name": "Gumay Talang",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "pseksu",
+    "name": "Pseksu",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "lahat-selatan",
+    "name": "Lahat Selatan",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "merapi-barat",
+    "name": "Merapi Barat",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "merapi-timur",
+    "name": "Merapi Timur",
+    "regency": "kabupaten-lahat"
+  },
+  {
+    "id": "merapi-selatan",
+    "name": "Merapi Selatan",
+    "regency": "kabupaten-lahat"
+  }
+]

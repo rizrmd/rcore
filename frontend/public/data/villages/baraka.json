@@ -1,0 +1,77 @@
+[
+  {
+    "id": "kadingeh",
+    "name": "Kadingeh",
+    "district": "baraka"
+  },
+  {
+    "id": "janggurara",
+    "name": "Janggurara",
+    "district": "baraka"
+  },
+  {
+    "id": "banti",
+    "name": "Banti",
+    "district": "baraka"
+  },
+  {
+    "id": "perangian",
+    "name": "Perangian",
+    "district": "baraka"
+  },
+  {
+    "id": "parinding",
+    "name": "Parinding",
+    "district": "baraka"
+  },
+  {
+    "id": "tomenawa",
+    "name": "Tomenawa",
+    "district": "baraka"
+  },
+  {
+    "id": "baraka",
+    "name": "Baraka",
+    "district": "baraka"
+  },
+  {
+    "id": "bontongan",
+    "name": "Bontongan",
+    "district": "baraka"
+  },
+  {
+    "id": "pepandungan",
+    "name": "Pepandungan",
+    "district": "baraka"
+  },
+  {
+    "id": "kendenan",
+    "name": "Kendenan",
+    "district": "baraka"
+  },
+  {
+    "id": "salukanan",
+    "name": "Salukanan",
+    "district": "baraka"
+  },
+  {
+    "id": "tiro-wali",
+    "name": "Tiro Wali",
+    "district": "baraka"
+  },
+  {
+    "id": "pandung-batu",
+    "name": "Pandung Batu",
+    "district": "baraka"
+  },
+  {
+    "id": "balla",
+    "name": "Balla",
+    "district": "baraka"
+  },
+  {
+    "id": "bone-bone",
+    "name": "Bone Bone",
+    "district": "baraka"
+  }
+]

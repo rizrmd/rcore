@@ -1,0 +1,22 @@
+[
+  {
+    "id": "wetana",
+    "name": "Wetana",
+    "district": "laboya-barat"
+  },
+  {
+    "id": "gaura",
+    "name": "Gaura",
+    "district": "laboya-barat"
+  },
+  {
+    "id": "patiala-dete",
+    "name": "Patiala Dete",
+    "district": "laboya-barat"
+  },
+  {
+    "id": "harona-kala",
+    "name": "Harona Kala",
+    "district": "laboya-barat"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tumbang-mandurei",
+    "name": "Tumbang Mandurei",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-paku",
+    "name": "Tumbang Paku",
+    "district": "marikit"
+  },
+  {
+    "id": "rangan-surai",
+    "name": "Rangan Surai",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-hiran",
+    "name": "Tumbang Hiran",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-pahanei",
+    "name": "Tumbang Pahanei",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-dakei",
+    "name": "Tumbang Dakei",
+    "district": "marikit"
+  },
+  {
+    "id": "rangan-burih",
+    "name": "Rangan Burih",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-bemban",
+    "name": "Tumbang Bemban",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-lambi",
+    "name": "Tumbang Lambi",
+    "district": "marikit"
+  },
+  {
+    "id": "rangan-tangko",
+    "name": "Rangan Tangko",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-taei",
+    "name": "Tumbang Taei",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-malaman",
+    "name": "Tumbang Malaman",
+    "district": "marikit"
+  },
+  {
+    "id": "sebaung",
+    "name": "Sebaung",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-tundu",
+    "name": "Tumbang Tundu",
+    "district": "marikit"
+  },
+  {
+    "id": "tumbang-tabulus",
+    "name": "Tumbang Tabulus",
+    "district": "marikit"
+  },
+  {
+    "id": "batu-panahan",
+    "name": "Batu Panahan",
+    "district": "marikit"
+  }
+]

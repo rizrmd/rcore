@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jati-waringin",
+    "name": "Jati Waringin",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "cempaka-putih",
+    "name": "Cempaka Putih",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "tumbang-mujam",
+    "name": "Tumbang Mujam",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "bukit-makmur",
+    "name": "Bukit Makmur",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "wonosari",
+    "name": "Wonosari",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "merah",
+    "name": "Merah",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "damar-makmur",
+    "name": "Damar Makmur",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "mekar-sari",
+    "name": "Mekar Sari",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "luwuk-sampun",
+    "name": "Luwuk Sampun",
+    "district": "tualan-hulu"
+  },
+  {
+    "id": "tanjung-jorong",
+    "name": "Tanjung Jorong",
+    "district": "tualan-hulu"
+  }
+]

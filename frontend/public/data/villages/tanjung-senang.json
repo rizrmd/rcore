@@ -1,0 +1,27 @@
+[
+  {
+    "id": "labuhan-dalam",
+    "name": "Labuhan Dalam",
+    "district": "tanjung-senang"
+  },
+  {
+    "id": "tanjung-senang",
+    "name": "Tanjung Senang",
+    "district": "tanjung-senang"
+  },
+  {
+    "id": "way-kandis",
+    "name": "Way Kandis",
+    "district": "tanjung-senang"
+  },
+  {
+    "id": "perumnas-way-kandis",
+    "name": "Perumnas Way Kandis",
+    "district": "tanjung-senang"
+  },
+  {
+    "id": "pematang-wangi",
+    "name": "Pematang Wangi",
+    "district": "tanjung-senang"
+  }
+]

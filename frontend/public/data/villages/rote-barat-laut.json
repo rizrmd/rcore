@@ -1,0 +1,67 @@
+[
+  {
+    "id": "lidor",
+    "name": "Lidor",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "temas",
+    "name": "Temas",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "modosinal",
+    "name": "Modosinal",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "busalangga",
+    "name": "Busalangga",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "oetutulu",
+    "name": "Oetutulu",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "daudolu",
+    "name": "Daudolu",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "netenaen",
+    "name": "Netenaen",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "ingguinak",
+    "name": "Ingguinak",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "oelua",
+    "name": "Oelua",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "tolama",
+    "name": "Tolama",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "oebela",
+    "name": "Oebela",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "boni",
+    "name": "Boni",
+    "district": "rote-barat-laut"
+  },
+  {
+    "id": "tualima",
+    "name": "Tualima",
+    "district": "rote-barat-laut"
+  }
+]

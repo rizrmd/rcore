@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ipiri",
+    "name": "Ipiri",
+    "district": "amar"
+  },
+  {
+    "id": "paripi",
+    "name": "Paripi",
+    "district": "amar"
+  },
+  {
+    "id": "yaraya",
+    "name": "Yaraya",
+    "district": "amar"
+  },
+  {
+    "id": "amar",
+    "name": "Amar",
+    "district": "amar"
+  },
+  {
+    "id": "kawar",
+    "name": "Kawar",
+    "district": "amar"
+  },
+  {
+    "id": "manuare",
+    "name": "Manuare",
+    "district": "amar"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pasar-baru",
+    "name": "Pasar Baru",
+    "district": "sei-tualang-raso"
+  },
+  {
+    "id": "keramat-kubah",
+    "name": "Keramat Kubah",
+    "district": "sei-tualang-raso"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "sei-tualang-raso"
+  },
+  {
+    "id": "muara-sentosa",
+    "name": "Muara Sentosa",
+    "district": "sei-tualang-raso"
+  },
+  {
+    "id": "sei-raja",
+    "name": "Sei Raja",
+    "district": "sei-tualang-raso"
+  }
+]

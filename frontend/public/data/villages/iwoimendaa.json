@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ulu-kalo",
+    "name": "Ulu Kalo",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "iwoimendaa",
+    "name": "Iwoimendaa",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "lasiroku",
+    "name": "Lasiroku",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "ladahai",
+    "name": "Ladahai",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "tamborasi",
+    "name": "Tamborasi",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "lambopini",
+    "name": "Lambopini",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "wonua-laku",
+    "name": "Wonua Laku",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "landoula",
+    "name": "Landoula",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "watumelewe",
+    "name": "Watumelewe",
+    "district": "iwoimendaa"
+  },
+  {
+    "id": "lawolia",
+    "name": "Lawolia",
+    "district": "iwoimendaa"
+  }
+]

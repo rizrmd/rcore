@@ -1,0 +1,62 @@
+[
+  {
+    "id": "trimulya",
+    "name": "Trimulya",
+    "district": "onembute"
+  },
+  {
+    "id": "napoosi",
+    "name": "Napoosi",
+    "district": "onembute"
+  },
+  {
+    "id": "kasumeia",
+    "name": "Kasumeia",
+    "district": "onembute"
+  },
+  {
+    "id": "ulu-onembute",
+    "name": "Ulu Onembute",
+    "district": "onembute"
+  },
+  {
+    "id": "onembute",
+    "name": "Onembute",
+    "district": "onembute"
+  },
+  {
+    "id": "kumapo",
+    "name": "Kumapo",
+    "district": "onembute"
+  },
+  {
+    "id": "suka-maju-ulu-meraka",
+    "name": "Suka Maju (Ulu Meraka)",
+    "district": "onembute"
+  },
+  {
+    "id": "tawa-pandere",
+    "name": "Tawa Pandere",
+    "district": "onembute"
+  },
+  {
+    "id": "silea",
+    "name": "Silea",
+    "district": "onembute"
+  },
+  {
+    "id": "mataiwoi",
+    "name": "Mataiwoi",
+    "district": "onembute"
+  },
+  {
+    "id": "ana-onembute",
+    "name": "Ana Onembute",
+    "district": "onembute"
+  },
+  {
+    "id": "anggaloosi",
+    "name": "Anggaloosi",
+    "district": "onembute"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "talang-ubi",
+    "name": "Talang Ubi",
+    "regency": "kabupaten-penukal-abab-lematang-ilir"
+  },
+  {
+    "id": "tanah-abang",
+    "name": "Tanah Abang",
+    "regency": "kabupaten-penukal-abab-lematang-ilir"
+  },
+  {
+    "id": "abab",
+    "name": "Abab",
+    "regency": "kabupaten-penukal-abab-lematang-ilir"
+  },
+  {
+    "id": "penukal",
+    "name": "Penukal",
+    "regency": "kabupaten-penukal-abab-lematang-ilir"
+  },
+  {
+    "id": "penukal-utara",
+    "name": "Penukal Utara",
+    "regency": "kabupaten-penukal-abab-lematang-ilir"
+  }
+]

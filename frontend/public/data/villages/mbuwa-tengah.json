@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rapa",
+    "name": "Rapa",
+    "district": "mbuwa-tengah"
+  },
+  {
+    "id": "tobonggom",
+    "name": "Tobonggom",
+    "district": "mbuwa-tengah"
+  },
+  {
+    "id": "sokore",
+    "name": "Sokore",
+    "district": "mbuwa-tengah"
+  },
+  {
+    "id": "tombisik",
+    "name": "Tombisik",
+    "district": "mbuwa-tengah"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "district": "mbuwa-tengah"
+  },
+  {
+    "id": "yepma",
+    "name": "Yepma",
+    "district": "mbuwa-tengah"
+  }
+]

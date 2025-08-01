@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tahunan",
+    "name": "Tahunan",
+    "district": "sale"
+  },
+  {
+    "id": "ngajaran",
+    "name": "Ngajaran",
+    "district": "sale"
+  },
+  {
+    "id": "mrayun",
+    "name": "Mrayun",
+    "district": "sale"
+  },
+  {
+    "id": "bancang",
+    "name": "Bancang",
+    "district": "sale"
+  },
+  {
+    "id": "sale",
+    "name": "Sale",
+    "district": "sale"
+  },
+  {
+    "id": "joho",
+    "name": "Joho",
+    "district": "sale"
+  },
+  {
+    "id": "jinanten",
+    "name": "Jinanten",
+    "district": "sale"
+  },
+  {
+    "id": "gading",
+    "name": "Gading",
+    "district": "sale"
+  },
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "sale"
+  },
+  {
+    "id": "sumbermulyo",
+    "name": "Sumbermulyo",
+    "district": "sale"
+  },
+  {
+    "id": "bitingan",
+    "name": "Bitingan",
+    "district": "sale"
+  },
+  {
+    "id": "pakis",
+    "name": "Pakis",
+    "district": "sale"
+  },
+  {
+    "id": "ukir",
+    "name": "Ukir",
+    "district": "sale"
+  }
+]

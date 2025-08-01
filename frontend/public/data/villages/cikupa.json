@@ -1,0 +1,62 @@
+[
+  {
+    "id": "budi-mulya",
+    "name": "Budi Mulya",
+    "district": "cikupa"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "cikupa"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "cikupa"
+  },
+  {
+    "id": "cikupa",
+    "name": "Cikupa",
+    "district": "cikupa"
+  },
+  {
+    "id": "bitung-jaya",
+    "name": "Bitung Jaya",
+    "district": "cikupa"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "cikupa"
+  },
+  {
+    "id": "pasir-jaya",
+    "name": "Pasir Jaya",
+    "district": "cikupa"
+  },
+  {
+    "id": "pasir-gadung",
+    "name": "Pasir Gadung",
+    "district": "cikupa"
+  },
+  {
+    "id": "talaga-sari",
+    "name": "Talaga Sari",
+    "district": "cikupa"
+  },
+  {
+    "id": "talaga",
+    "name": "Talaga",
+    "district": "cikupa"
+  },
+  {
+    "id": "suka-nagara",
+    "name": "Suka Nagara",
+    "district": "cikupa"
+  },
+  {
+    "id": "cibadak",
+    "name": "Cibadak",
+    "district": "cikupa"
+  }
+]

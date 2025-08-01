@@ -1,0 +1,32 @@
+[
+  {
+    "id": "amsira",
+    "name": "Amsira",
+    "district": "verkam"
+  },
+  {
+    "id": "siaratesa",
+    "name": "Siaratesa",
+    "district": "verkam"
+  },
+  {
+    "id": "angkasa-ii",
+    "name": "Angkasa Ii",
+    "district": "verkam"
+  },
+  {
+    "id": "kamenawari",
+    "name": "Kamenawari",
+    "district": "verkam"
+  },
+  {
+    "id": "nisro",
+    "name": "Nisro",
+    "district": "verkam"
+  },
+  {
+    "id": "siantoa",
+    "name": "Siantoa",
+    "district": "verkam"
+  }
+]

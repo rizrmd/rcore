@@ -1,0 +1,32 @@
+[
+  {
+    "id": "koto-panjang-padang",
+    "name": "Koto Panjang Padang",
+    "district": "lamposi-tigo-nagori"
+  },
+  {
+    "id": "koto-panjang-dalam",
+    "name": "Koto Panjang Dalam",
+    "district": "lamposi-tigo-nagori"
+  },
+  {
+    "id": "parambahan",
+    "name": "Parambahan",
+    "district": "lamposi-tigo-nagori"
+  },
+  {
+    "id": "padang-sikabu",
+    "name": "Padang Sikabu",
+    "district": "lamposi-tigo-nagori"
+  },
+  {
+    "id": "parit-muko-aie",
+    "name": "Parit Muko Aie",
+    "district": "lamposi-tigo-nagori"
+  },
+  {
+    "id": "sungai-durian",
+    "name": "Sungai Durian",
+    "district": "lamposi-tigo-nagori"
+  }
+]

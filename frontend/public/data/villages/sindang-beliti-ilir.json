@@ -1,0 +1,52 @@
+[
+  {
+    "id": "merantau",
+    "name": "Merantau",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "periang",
+    "name": "Periang",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "balai-butar",
+    "name": "Balai Butar",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "lubuk-belimbing-i",
+    "name": "Lubuk Belimbing I",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "sari-pulau",
+    "name": "Sari Pulau",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "suka-merindu",
+    "name": "Suka Merindu",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "lubuk-belimbing-ii",
+    "name": "Lubuk Belimbing Ii",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "lubuk-bingin-baru",
+    "name": "Lubuk Bingin Baru",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "lubuk-tunjung",
+    "name": "Lubuk Tunjung",
+    "district": "sindang-beliti-ilir"
+  },
+  {
+    "id": "suka-karya",
+    "name": "Suka Karya",
+    "district": "sindang-beliti-ilir"
+  }
+]

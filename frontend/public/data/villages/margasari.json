@@ -1,0 +1,67 @@
+[
+  {
+    "id": "prupuk-selatan",
+    "name": "Prupuk Selatan",
+    "district": "margasari"
+  },
+  {
+    "id": "prupuk-utara",
+    "name": "Prupuk Utara",
+    "district": "margasari"
+  },
+  {
+    "id": "kaligayam",
+    "name": "Kaligayam",
+    "district": "margasari"
+  },
+  {
+    "id": "wanasari",
+    "name": "Wanasari",
+    "district": "margasari"
+  },
+  {
+    "id": "danaraja",
+    "name": "Danaraja",
+    "district": "margasari"
+  },
+  {
+    "id": "jembayat",
+    "name": "Jembayat",
+    "district": "margasari"
+  },
+  {
+    "id": "margasari",
+    "name": "Margasari",
+    "district": "margasari"
+  },
+  {
+    "id": "dukuh-tengah",
+    "name": "Dukuh Tengah",
+    "district": "margasari"
+  },
+  {
+    "id": "pakulaut",
+    "name": "Pakulaut",
+    "district": "margasari"
+  },
+  {
+    "id": "margaayu",
+    "name": "Margaayu",
+    "district": "margasari"
+  },
+  {
+    "id": "kalisalak",
+    "name": "Kalisalak",
+    "district": "margasari"
+  },
+  {
+    "id": "karangdawa",
+    "name": "Karangdawa",
+    "district": "margasari"
+  },
+  {
+    "id": "jatilaba",
+    "name": "Jatilaba",
+    "district": "margasari"
+  }
+]

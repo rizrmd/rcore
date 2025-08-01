@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kelawat",
+    "name": "Kelawat",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "perkebunan-sungai-lala",
+    "name": "Perkebunan  Sungai Lala",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "kuala-lala",
+    "name": "Kuala Lala",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "pasir-batu-mandi",
+    "name": "Pasir Batu Mandi",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "pasir-selabau",
+    "name": "Pasir Selabau",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "pasir-bongkal",
+    "name": "Pasir Bongkal",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "perkebunan-sungai-parit",
+    "name": "Perkebunan Sungai Parit",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "morong",
+    "name": "Morong",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "sungai-lala",
+    "name": "Sungai Lala",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "pasir-kelampaian",
+    "name": "Pasir Kelampaian",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "tanjung-danau",
+    "name": "Tanjung Danau",
+    "district": "sungai-lala"
+  },
+  {
+    "id": "sungai-air-putih",
+    "name": "Sungai Air Putih",
+    "district": "sungai-lala"
+  }
+]

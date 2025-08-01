@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dal",
+    "name": "Dal",
+    "district": "dal"
+  },
+  {
+    "id": "silan",
+    "name": "Silan",
+    "district": "dal"
+  },
+  {
+    "id": "kaboneri",
+    "name": "Kaboneri",
+    "district": "dal"
+  },
+  {
+    "id": "silankuru",
+    "name": "Silankuru",
+    "district": "dal"
+  }
+]

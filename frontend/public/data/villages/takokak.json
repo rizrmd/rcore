@@ -1,0 +1,47 @@
+[
+  {
+    "id": "waringinsari",
+    "name": "Waringinsari",
+    "district": "takokak"
+  },
+  {
+    "id": "sukagalih",
+    "name": "Sukagalih",
+    "district": "takokak"
+  },
+  {
+    "id": "simpang",
+    "name": "Simpang",
+    "district": "takokak"
+  },
+  {
+    "id": "sindanghayu",
+    "name": "Sindanghayu",
+    "district": "takokak"
+  },
+  {
+    "id": "sindangresmi",
+    "name": "Sindangresmi",
+    "district": "takokak"
+  },
+  {
+    "id": "bungbangsari",
+    "name": "Bungbangsari",
+    "district": "takokak"
+  },
+  {
+    "id": "cisujen",
+    "name": "Cisujen",
+    "district": "takokak"
+  },
+  {
+    "id": "pasawahan",
+    "name": "Pasawahan",
+    "district": "takokak"
+  },
+  {
+    "id": "hegarmanah",
+    "name": "Hegarmanah",
+    "district": "takokak"
+  }
+]

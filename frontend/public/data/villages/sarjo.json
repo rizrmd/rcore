@@ -1,0 +1,22 @@
+[
+  {
+    "id": "maponu",
+    "name": "Maponu",
+    "district": "sarjo"
+  },
+  {
+    "id": "letawa",
+    "name": "Letawa",
+    "district": "sarjo"
+  },
+  {
+    "id": "sarjo",
+    "name": "Sarjo",
+    "district": "sarjo"
+  },
+  {
+    "id": "sarude",
+    "name": "Sarude",
+    "district": "sarjo"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "rangkiang-luluih",
+    "name": "Rangkiang Luluih",
+    "district": "tigo-lurah"
+  },
+  {
+    "id": "batu-bajanjang",
+    "name": "Batu Bajanjang",
+    "district": "tigo-lurah"
+  },
+  {
+    "id": "simanau",
+    "name": "Simanau",
+    "district": "tigo-lurah"
+  },
+  {
+    "id": "tanjuang-balik-sumiso",
+    "name": "Tanjuang Balik Sumiso",
+    "district": "tigo-lurah"
+  },
+  {
+    "id": "garabak-data",
+    "name": "Garabak Data",
+    "district": "tigo-lurah"
+  }
+]

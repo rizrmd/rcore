@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bermi",
+    "name": "Bermi",
+    "district": "gembong"
+  },
+  {
+    "id": "semirejo",
+    "name": "Semirejo",
+    "district": "gembong"
+  },
+  {
+    "id": "wonosekar",
+    "name": "Wonosekar",
+    "district": "gembong"
+  },
+  {
+    "id": "gembong",
+    "name": "Gembong",
+    "district": "gembong"
+  },
+  {
+    "id": "plukaran",
+    "name": "Plukaran",
+    "district": "gembong"
+  },
+  {
+    "id": "bageng",
+    "name": "Bageng",
+    "district": "gembong"
+  },
+  {
+    "id": "pohgading",
+    "name": "Pohgading",
+    "district": "gembong"
+  },
+  {
+    "id": "klakah-kasian",
+    "name": "Klakah Kasian",
+    "district": "gembong"
+  },
+  {
+    "id": "ketanggan",
+    "name": "Ketanggan",
+    "district": "gembong"
+  },
+  {
+    "id": "sitiluhur",
+    "name": "Sitiluhur",
+    "district": "gembong"
+  }
+]

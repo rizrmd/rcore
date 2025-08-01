@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rawa-rengas",
+    "name": "Rawa Rengas",
+    "district": "kosambi"
+  },
+  {
+    "id": "rawa-burung",
+    "name": "Rawa Burung",
+    "district": "kosambi"
+  },
+  {
+    "id": "belimbing",
+    "name": "Belimbing",
+    "district": "kosambi"
+  },
+  {
+    "id": "jatimulya",
+    "name": "Jatimulya",
+    "district": "kosambi"
+  },
+  {
+    "id": "d-a-d-a-p",
+    "name": "D A D A P",
+    "district": "kosambi"
+  },
+  {
+    "id": "kosambi-timur",
+    "name": "Kosambi Timur",
+    "district": "kosambi"
+  },
+  {
+    "id": "kosambi-barat",
+    "name": "Kosambi Barat",
+    "district": "kosambi"
+  },
+  {
+    "id": "cengklong",
+    "name": "Cengklong",
+    "district": "kosambi"
+  },
+  {
+    "id": "salembaran-jati",
+    "name": "Salembaran Jati",
+    "district": "kosambi"
+  },
+  {
+    "id": "salembaran",
+    "name": "Salembaran",
+    "district": "kosambi"
+  }
+]

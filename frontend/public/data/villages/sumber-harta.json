@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sumber-jaya",
+    "name": "Sumber Jaya",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "sumber-harta",
+    "name": "Sumber Harta",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "jambu-rejo",
+    "name": "Jambu Rejo",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "suka-maju",
+    "name": "Suka Maju",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "sumber-sari",
+    "name": "Sumber Sari",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "suka-mulya",
+    "name": "Suka Mulya",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "suka-jaya",
+    "name": "Suka Jaya",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "sukarami",
+    "name": "Sukarami",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "madang",
+    "name": "Madang",
+    "district": "sumber-harta"
+  },
+  {
+    "id": "sumber-asri",
+    "name": "Sumber Asri",
+    "district": "sumber-harta"
+  }
+]

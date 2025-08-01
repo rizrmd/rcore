@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pulo-madu",
+    "name": "Pulo Madu",
+    "district": "pasilambena"
+  },
+  {
+    "id": "garaupa",
+    "name": "Garaupa",
+    "district": "pasilambena"
+  },
+  {
+    "id": "kalaotoa",
+    "name": "Kalaotoa",
+    "district": "pasilambena"
+  },
+  {
+    "id": "lembang-matene",
+    "name": "Lembang Matene",
+    "district": "pasilambena"
+  },
+  {
+    "id": "karumpa",
+    "name": "Karumpa",
+    "district": "pasilambena"
+  },
+  {
+    "id": "garaupa-raya",
+    "name": "Garaupa Raya",
+    "district": "pasilambena"
+  }
+]

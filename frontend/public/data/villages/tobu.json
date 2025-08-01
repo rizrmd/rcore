@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tobu",
+    "name": "Tobu",
+    "district": "tobu"
+  },
+  {
+    "id": "bonleu",
+    "name": "Bonleu",
+    "district": "tobu"
+  },
+  {
+    "id": "huetalan",
+    "name": "Huetalan",
+    "district": "tobu"
+  },
+  {
+    "id": "pubasu",
+    "name": "Pubasu",
+    "district": "tobu"
+  },
+  {
+    "id": "bestobe",
+    "name": "Bestobe",
+    "district": "tobu"
+  },
+  {
+    "id": "saubalan",
+    "name": "Saubalan",
+    "district": "tobu"
+  }
+]

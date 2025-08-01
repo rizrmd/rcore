@@ -1,0 +1,57 @@
+[
+  {
+    "id": "limau",
+    "name": "Limau",
+    "district": "galela-utara"
+  },
+  {
+    "id": "lalonga",
+    "name": "Lalonga",
+    "district": "galela-utara"
+  },
+  {
+    "id": "bobi-singo",
+    "name": "Bobi Singo",
+    "district": "galela-utara"
+  },
+  {
+    "id": "dodowo",
+    "name": "Dodowo",
+    "district": "galela-utara"
+  },
+  {
+    "id": "salimuli",
+    "name": "Salimuli",
+    "district": "galela-utara"
+  },
+  {
+    "id": "tutumaloleo",
+    "name": "Tutumaloleo",
+    "district": "galela-utara"
+  },
+  {
+    "id": "togasa",
+    "name": "Togasa",
+    "district": "galela-utara"
+  },
+  {
+    "id": "saluta",
+    "name": "Saluta",
+    "district": "galela-utara"
+  },
+  {
+    "id": "pelita",
+    "name": "Pelita",
+    "district": "galela-utara"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "galela-utara"
+  },
+  {
+    "id": "jere-tua",
+    "name": "Jere Tua",
+    "district": "galela-utara"
+  }
+]

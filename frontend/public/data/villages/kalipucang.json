@@ -1,0 +1,47 @@
+[
+  {
+    "id": "putrapinggan",
+    "name": "Putrapinggan",
+    "district": "kalipucang"
+  },
+  {
+    "id": "emplak",
+    "name": "Emplak",
+    "district": "kalipucang"
+  },
+  {
+    "id": "bagolo",
+    "name": "Bagolo",
+    "district": "kalipucang"
+  },
+  {
+    "id": "pamotan",
+    "name": "Pamotan",
+    "district": "kalipucang"
+  },
+  {
+    "id": "kalipucang",
+    "name": "Kalipucang",
+    "district": "kalipucang"
+  },
+  {
+    "id": "cibuluh",
+    "name": "Cibuluh",
+    "district": "kalipucang"
+  },
+  {
+    "id": "banjarharja",
+    "name": "Banjarharja",
+    "district": "kalipucang"
+  },
+  {
+    "id": "tunggilis",
+    "name": "Tunggilis",
+    "district": "kalipucang"
+  },
+  {
+    "id": "ciparakan",
+    "name": "Ciparakan",
+    "district": "kalipucang"
+  }
+]

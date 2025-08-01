@@ -1,0 +1,267 @@
+[
+  {
+    "id": "cot-trieng",
+    "name": "Cot Trieng",
+    "district": "kuala"
+  },
+  {
+    "id": "lhok-awe-awe",
+    "name": "Lhok Awe Awe",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-unoe",
+    "name": "Cot Unoe",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-batee",
+    "name": "Cot Batee",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-kuta",
+    "name": "Cot Kuta",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-glumpang",
+    "name": "Cot Glumpang",
+    "district": "kuala"
+  },
+  {
+    "id": "glumpang-baroh",
+    "name": "Glumpang Baroh",
+    "district": "kuala"
+  },
+  {
+    "id": "lancok-pante-ara",
+    "name": "Lancok Pante Ara",
+    "district": "kuala"
+  },
+  {
+    "id": "balee-kuyun",
+    "name": "Balee Kuyun",
+    "district": "kuala"
+  },
+  {
+    "id": "kareung",
+    "name": "Kareung",
+    "district": "kuala"
+  },
+  {
+    "id": "lancok-lancok",
+    "name": "Lancok Lancok",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-usibak",
+    "name": "Cot Usibak",
+    "district": "kuala"
+  },
+  {
+    "id": "kuala-raja",
+    "name": "Kuala Raja",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-blang-mesjid",
+    "name": "Ujong Blang Mesjid",
+    "district": "kuala"
+  },
+  {
+    "id": "weu-jangka",
+    "name": "Weu Jangka",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-lagasawa",
+    "name": "Cot Lagasawa",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-blang",
+    "name": "Ujong Blang",
+    "district": "kuala"
+  },
+  {
+    "id": "kuta-baro",
+    "name": "Kuta Baro",
+    "district": "kuala"
+  },
+  {
+    "id": "krueng-juli-timur",
+    "name": "Krueng Juli Timur",
+    "district": "kuala"
+  },
+  {
+    "id": "krueng-juli-barat",
+    "name": "Krueng Juli Barat",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-fatihah",
+    "name": "Ujong Fatihah",
+    "district": "kuala"
+  },
+  {
+    "id": "blang-teungoh",
+    "name": "Blang Teungoh",
+    "district": "kuala"
+  },
+  {
+    "id": "cot-kumbang",
+    "name": "Cot Kumbang",
+    "district": "kuala"
+  },
+  {
+    "id": "blang-bintang",
+    "name": "Blang Bintang",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-padang",
+    "name": "Ujong Padang",
+    "district": "kuala"
+  },
+  {
+    "id": "jokja",
+    "name": "Jokja",
+    "district": "kuala"
+  },
+  {
+    "id": "lawa-batu",
+    "name": "Lawa Batu",
+    "district": "kuala"
+  },
+  {
+    "id": "purworejo",
+    "name": "Purworejo",
+    "district": "kuala"
+  },
+  {
+    "id": "pulo-ie",
+    "name": "Pulo Ie",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-sikuneng",
+    "name": "Ujong Sikuneng",
+    "district": "kuala"
+  },
+  {
+    "id": "blang-baro",
+    "name": "Blang Baro",
+    "district": "kuala"
+  },
+  {
+    "id": "blang-muko",
+    "name": "Blang Muko",
+    "district": "kuala"
+  },
+  {
+    "id": "simpang-peut",
+    "name": "Simpang Peut",
+    "district": "kuala"
+  },
+  {
+    "id": "kuta-makmur",
+    "name": "Kuta Makmur",
+    "district": "kuala"
+  },
+  {
+    "id": "gunong-reubo",
+    "name": "Gunong Reubo",
+    "district": "kuala"
+  },
+  {
+    "id": "ujong-pasi",
+    "name": "Ujong Pasi",
+    "district": "kuala"
+  },
+  {
+    "id": "alue-ie-mameh",
+    "name": "Alue Ie Mameh",
+    "district": "kuala"
+  },
+  {
+    "id": "garunggang",
+    "name": "Garunggang",
+    "district": "kuala"
+  },
+  {
+    "id": "parit-bindu",
+    "name": "Parit Bindu",
+    "district": "kuala"
+  },
+  {
+    "id": "beruam",
+    "name": "Beruam",
+    "district": "kuala"
+  },
+  {
+    "id": "besadi",
+    "name": "Besadi",
+    "district": "kuala"
+  },
+  {
+    "id": "perkebunan-blangkahan",
+    "name": "Perkebunan Blangkahan",
+    "district": "kuala"
+  },
+  {
+    "id": "sei-penjara",
+    "name": "Sei Penjara",
+    "district": "kuala"
+  },
+  {
+    "id": "raja-tengah",
+    "name": "Raja Tengah",
+    "district": "kuala"
+  },
+  {
+    "id": "namo-mbelin",
+    "name": "Namo Mbelin",
+    "district": "kuala"
+  },
+  {
+    "id": "bekiung",
+    "name": "Bekiung",
+    "district": "kuala"
+  },
+  {
+    "id": "balai-kasih",
+    "name": "Balai Kasih",
+    "district": "kuala"
+  },
+  {
+    "id": "dalan-naman",
+    "name": "Dalan Naman",
+    "district": "kuala"
+  },
+  {
+    "id": "pekan-kuala",
+    "name": "Pekan Kuala",
+    "district": "kuala"
+  },
+  {
+    "id": "perkebunan-bekiun",
+    "name": "Perkebunan Bekiun",
+    "district": "kuala"
+  },
+  {
+    "id": "suka-damai",
+    "name": "Suka Damai",
+    "district": "kuala"
+  },
+  {
+    "id": "sido-makmur",
+    "name": "Sido Makmur",
+    "district": "kuala"
+  },
+  {
+    "id": "bela-rakyat",
+    "name": "Bela Rakyat",
+    "district": "kuala"
+  }
+]

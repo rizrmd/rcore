@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pemo",
+    "name": "Pemo",
+    "district": "kelimutu"
+  },
+  {
+    "id": "woloara",
+    "name": "Woloara",
+    "district": "kelimutu"
+  },
+  {
+    "id": "koanara",
+    "name": "Koanara",
+    "district": "kelimutu"
+  },
+  {
+    "id": "nuamuri",
+    "name": "Nuamuri",
+    "district": "kelimutu"
+  },
+  {
+    "id": "nuamuri-barat",
+    "name": "Nuamuri Barat",
+    "district": "kelimutu"
+  },
+  {
+    "id": "nduaria",
+    "name": "Nduaria",
+    "district": "kelimutu"
+  },
+  {
+    "id": "waturaka",
+    "name": "Waturaka",
+    "district": "kelimutu"
+  },
+  {
+    "id": "detuena",
+    "name": "Detuena",
+    "district": "kelimutu"
+  },
+  {
+    "id": "wolokelo",
+    "name": "Wolokelo",
+    "district": "kelimutu"
+  }
+]

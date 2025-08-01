@@ -1,0 +1,67 @@
+[
+  {
+    "id": "pagar",
+    "name": "Pagar",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "banyu-kencana",
+    "name": "Banyu Kencana",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "pagar-agung",
+    "name": "Pagar Agung",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "air-keruh",
+    "name": "Air Keruh",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "muara-simpur",
+    "name": "Muara Simpur",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "hargo-binangun",
+    "name": "Hargo Binangun",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "simpur-ijang",
+    "name": "Simpur Ijang",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "giri-nanto",
+    "name": "Giri Nanto",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "giri-mulya",
+    "name": "Giri Mulya",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "pagar-banyu",
+    "name": "Pagar Banyu",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "tanjung-agung",
+    "name": "Tanjung Agung",
+    "district": "ulu-talo"
+  },
+  {
+    "id": "muara-nibung",
+    "name": "Muara Nibung",
+    "district": "ulu-talo"
+  }
+]

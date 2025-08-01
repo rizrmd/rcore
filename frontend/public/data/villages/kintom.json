@@ -1,0 +1,72 @@
+[
+  {
+    "id": "babang-buyangge",
+    "name": "Babang Buyangge",
+    "district": "kintom"
+  },
+  {
+    "id": "kalolos",
+    "name": "Kalolos",
+    "district": "kintom"
+  },
+  {
+    "id": "tangkiang",
+    "name": "Tangkiang",
+    "district": "kintom"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "kintom"
+  },
+  {
+    "id": "manyula",
+    "name": "Manyula",
+    "district": "kintom"
+  },
+  {
+    "id": "uling",
+    "name": "Uling",
+    "district": "kintom"
+  },
+  {
+    "id": "kintom",
+    "name": "Kintom",
+    "district": "kintom"
+  },
+  {
+    "id": "samadoya",
+    "name": "Samadoya",
+    "district": "kintom"
+  },
+  {
+    "id": "dimpalon",
+    "name": "Dimpalon",
+    "district": "kintom"
+  },
+  {
+    "id": "solan",
+    "name": "Solan",
+    "district": "kintom"
+  },
+  {
+    "id": "mendono",
+    "name": "Mendono",
+    "district": "kintom"
+  },
+  {
+    "id": "solan-baru",
+    "name": "Solan Baru",
+    "district": "kintom"
+  },
+  {
+    "id": "mondonun",
+    "name": "Mondonun",
+    "district": "kintom"
+  },
+  {
+    "id": "dimpalon-baru",
+    "name": "Dimpalon Baru",
+    "district": "kintom"
+  }
+]

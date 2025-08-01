@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ujung-rambung",
+    "name": "Ujung Rambung",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "celawan",
+    "name": "Celawan",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "besar-2-terjun",
+    "name": "Besar 2 Terjun",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "sementara",
+    "name": "Sementara",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "ara-payung",
+    "name": "Ara Payung",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "pematang-kasih",
+    "name": "Pematang Kasih",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "naga-kisar",
+    "name": "Naga Kisar",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "lubuk-saban",
+    "name": "Lubuk Saban",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "kuala-lama",
+    "name": "Kuala Lama",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "pantai-cermin-kiri",
+    "name": "Pantai Cermin Kiri",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "pantai-cermin-kanan",
+    "name": "Pantai Cermin Kanan",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "kota-pari",
+    "name": "Kota Pari",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "surian",
+    "name": "Surian",
+    "district": "pantai-cermin"
+  },
+  {
+    "id": "lolo",
+    "name": "Lolo",
+    "district": "pantai-cermin"
+  }
+]

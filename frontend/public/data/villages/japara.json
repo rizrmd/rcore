@@ -1,0 +1,52 @@
+[
+  {
+    "id": "rajadanu",
+    "name": "Rajadanu",
+    "district": "japara"
+  },
+  {
+    "id": "dukuhdalem",
+    "name": "Dukuhdalem",
+    "district": "japara"
+  },
+  {
+    "id": "garatengah",
+    "name": "Garatengah",
+    "district": "japara"
+  },
+  {
+    "id": "japara",
+    "name": "Japara",
+    "district": "japara"
+  },
+  {
+    "id": "singkup",
+    "name": "Singkup",
+    "district": "japara"
+  },
+  {
+    "id": "wano",
+    "name": "Wano",
+    "district": "japara"
+  },
+  {
+    "id": "citapen",
+    "name": "Citapen",
+    "district": "japara"
+  },
+  {
+    "id": "cengal",
+    "name": "Cengal",
+    "district": "japara"
+  },
+  {
+    "id": "cikeleng",
+    "name": "Cikeleng",
+    "district": "japara"
+  },
+  {
+    "id": "kalimati",
+    "name": "Kalimati",
+    "district": "japara"
+  }
+]

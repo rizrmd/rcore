@@ -1,0 +1,57 @@
+[
+  {
+    "id": "muncan",
+    "name": "Muncan",
+    "district": "kopang"
+  },
+  {
+    "id": "monggas",
+    "name": "Monggas",
+    "district": "kopang"
+  },
+  {
+    "id": "darmaji",
+    "name": "Darmaji",
+    "district": "kopang"
+  },
+  {
+    "id": "dasan-baru",
+    "name": "Dasan Baru",
+    "district": "kopang"
+  },
+  {
+    "id": "kopang-rembiga",
+    "name": "Kopang Rembiga",
+    "district": "kopang"
+  },
+  {
+    "id": "montong-gamang",
+    "name": "Montong Gamang",
+    "district": "kopang"
+  },
+  {
+    "id": "lendang-ara",
+    "name": "Lendang Ara",
+    "district": "kopang"
+  },
+  {
+    "id": "bebuaq",
+    "name": "Bebuaq",
+    "district": "kopang"
+  },
+  {
+    "id": "waja-geseng",
+    "name": "Waja Geseng",
+    "district": "kopang"
+  },
+  {
+    "id": "semparu",
+    "name": "Semparu",
+    "district": "kopang"
+  },
+  {
+    "id": "aik-bual",
+    "name": "Aik Bual",
+    "district": "kopang"
+  }
+]

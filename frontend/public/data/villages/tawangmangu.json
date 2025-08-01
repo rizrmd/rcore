@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bandardawung",
+    "name": "Bandardawung",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "sepanjang",
+    "name": "Sepanjang",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "tawangmangu",
+    "name": "Tawangmangu",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "kalisoro",
+    "name": "Kalisoro",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "blumbang",
+    "name": "Blumbang",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "gondosuli",
+    "name": "Gondosuli",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "tengklik",
+    "name": "Tengklik",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "nglebak",
+    "name": "Nglebak",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "karanglo",
+    "name": "Karanglo",
+    "district": "tawangmangu"
+  },
+  {
+    "id": "plumbon",
+    "name": "Plumbon",
+    "district": "tawangmangu"
+  }
+]

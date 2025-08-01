@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lenda",
+    "name": "Lenda",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "compang-cibal",
+    "name": "Compang Cibal",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "bangka-ara",
+    "name": "Bangka Ara",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "wae-codi",
+    "name": "Wae Codi",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "timbu",
+    "name": "Timbu",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "golo-woi",
+    "name": "Golo Woi",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "wae-renca",
+    "name": "Wae Renca",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "latung",
+    "name": "Latung",
+    "district": "cibal-barat"
+  },
+  {
+    "id": "golo-lanak",
+    "name": "Golo Lanak",
+    "district": "cibal-barat"
+  }
+]

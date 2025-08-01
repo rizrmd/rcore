@@ -1,0 +1,22 @@
+[
+  {
+    "id": "kibay",
+    "name": "Kibay",
+    "district": "arso-timur"
+  },
+  {
+    "id": "sangke",
+    "name": "Sangke",
+    "district": "arso-timur"
+  },
+  {
+    "id": "skofro",
+    "name": "Skofro",
+    "district": "arso-timur"
+  },
+  {
+    "id": "amyu",
+    "name": "Amyu",
+    "district": "arso-timur"
+  }
+]

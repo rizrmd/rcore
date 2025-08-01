@@ -1,0 +1,82 @@
+[
+  {
+    "id": "batukarang",
+    "name": "Batukarang",
+    "district": "payung"
+  },
+  {
+    "id": "rimokayu",
+    "name": "Rimokayu",
+    "district": "payung"
+  },
+  {
+    "id": "cimbang",
+    "name": "Cimbang",
+    "district": "payung"
+  },
+  {
+    "id": "ujung-payung",
+    "name": "Ujung Payung",
+    "district": "payung"
+  },
+  {
+    "id": "payung",
+    "name": "Payung",
+    "district": "payung"
+  },
+  {
+    "id": "suka-meriah",
+    "name": "Suka Meriah",
+    "district": "payung"
+  },
+  {
+    "id": "guru-kinayan",
+    "name": "Guru Kinayan",
+    "district": "payung"
+  },
+  {
+    "id": "selandi",
+    "name": "Selandi",
+    "district": "payung"
+  },
+  {
+    "id": "irat",
+    "name": "Irat",
+    "district": "payung"
+  },
+  {
+    "id": "sengir",
+    "name": "Sengir",
+    "district": "payung"
+  },
+  {
+    "id": "payung",
+    "name": "Payung",
+    "district": "payung"
+  },
+  {
+    "id": "nadung",
+    "name": "Nadung",
+    "district": "payung"
+  },
+  {
+    "id": "ranggung",
+    "name": "Ranggung",
+    "district": "payung"
+  },
+  {
+    "id": "pangkalbuluh",
+    "name": "Pangkalbuluh",
+    "district": "payung"
+  },
+  {
+    "id": "malik",
+    "name": "Malik",
+    "district": "payung"
+  },
+  {
+    "id": "paku",
+    "name": "Paku",
+    "district": "payung"
+  }
+]

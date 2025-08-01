@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ngadirejo",
+    "name": "Ngadirejo",
+    "district": "pogalan"
+  },
+  {
+    "id": "kedunglurah",
+    "name": "Kedunglurah",
+    "district": "pogalan"
+  },
+  {
+    "id": "bendorejo",
+    "name": "Bendorejo",
+    "district": "pogalan"
+  },
+  {
+    "id": "wonocoyo",
+    "name": "Wonocoyo",
+    "district": "pogalan"
+  },
+  {
+    "id": "ngetal",
+    "name": "Ngetal",
+    "district": "pogalan"
+  },
+  {
+    "id": "ngadirenggo",
+    "name": "Ngadirenggo",
+    "district": "pogalan"
+  },
+  {
+    "id": "ngulanwetan",
+    "name": "Ngulanwetan",
+    "district": "pogalan"
+  },
+  {
+    "id": "ngulankulon",
+    "name": "Ngulankulon",
+    "district": "pogalan"
+  },
+  {
+    "id": "pogalan",
+    "name": "Pogalan",
+    "district": "pogalan"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "sumber-mulya",
+    "name": "Sumber Mulya",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "simpang-dua",
+    "name": "Simpang Dua",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "simpang-satu",
+    "name": "Simpang Satu",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "mantan-a",
+    "name": "Mantan A",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "dowiwi",
+    "name": "Dowiwi",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "rantau-jaya",
+    "name": "Rantau Jaya",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "doda-bunta",
+    "name": "Doda Bunta",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "gonohop",
+    "name": "Gonohop",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "koninis",
+    "name": "Koninis",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "dwipa-karya",
+    "name": "Dwipa Karya",
+    "district": "simpang-raya"
+  },
+  {
+    "id": "lokait",
+    "name": "Lokait",
+    "district": "simpang-raya"
+  }
+]

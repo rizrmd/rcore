@@ -1,0 +1,27 @@
+[
+  {
+    "id": "nekan",
+    "name": "Nekan",
+    "district": "entikong"
+  },
+  {
+    "id": "semanget",
+    "name": "Semanget",
+    "district": "entikong"
+  },
+  {
+    "id": "entikong",
+    "name": "Entikong",
+    "district": "entikong"
+  },
+  {
+    "id": "palapasang",
+    "name": "Palapasang",
+    "district": "entikong"
+  },
+  {
+    "id": "suruh-tembawang",
+    "name": "Suruh Tembawang",
+    "district": "entikong"
+  }
+]

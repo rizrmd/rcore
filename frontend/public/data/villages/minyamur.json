@@ -1,0 +1,57 @@
+[
+  {
+    "id": "kabe",
+    "name": "Kabe",
+    "district": "minyamur"
+  },
+  {
+    "id": "sumur-aman",
+    "name": "Sumur Aman",
+    "district": "minyamur"
+  },
+  {
+    "id": "kofar",
+    "name": "Kofar",
+    "district": "minyamur"
+  },
+  {
+    "id": "komru",
+    "name": "Komru",
+    "district": "minyamur"
+  },
+  {
+    "id": "taragae",
+    "name": "Taragae",
+    "district": "minyamur"
+  },
+  {
+    "id": "upin",
+    "name": "Upin",
+    "district": "minyamur"
+  },
+  {
+    "id": "khaumi",
+    "name": "Khaumi",
+    "district": "minyamur"
+  },
+  {
+    "id": "atti",
+    "name": "Atti",
+    "district": "minyamur"
+  },
+  {
+    "id": "kayagae",
+    "name": "Kayagae",
+    "district": "minyamur"
+  },
+  {
+    "id": "pano",
+    "name": "Pano",
+    "district": "minyamur"
+  },
+  {
+    "id": "kogir",
+    "name": "Kogir",
+    "district": "minyamur"
+  }
+]

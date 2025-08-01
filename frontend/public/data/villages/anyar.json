@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bandulu",
+    "name": "Bandulu",
+    "district": "anyar"
+  },
+  {
+    "id": "sindangmandi",
+    "name": "Sindangmandi",
+    "district": "anyar"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "anyar"
+  },
+  {
+    "id": "bunihara",
+    "name": "Bunihara",
+    "district": "anyar"
+  },
+  {
+    "id": "tanjungmanis",
+    "name": "Tanjungmanis",
+    "district": "anyar"
+  },
+  {
+    "id": "cikoneng",
+    "name": "Cikoneng",
+    "district": "anyar"
+  },
+  {
+    "id": "anyar",
+    "name": "Anyar",
+    "district": "anyar"
+  },
+  {
+    "id": "kosambi-ronyok",
+    "name": "Kosambi Ronyok",
+    "district": "anyar"
+  },
+  {
+    "id": "sindangkarya",
+    "name": "Sindangkarya",
+    "district": "anyar"
+  },
+  {
+    "id": "mekarsari",
+    "name": "Mekarsari",
+    "district": "anyar"
+  },
+  {
+    "id": "tambang-ayam",
+    "name": "Tambang Ayam",
+    "district": "anyar"
+  },
+  {
+    "id": "grogol-indah",
+    "name": "Grogol Indah",
+    "district": "anyar"
+  }
+]

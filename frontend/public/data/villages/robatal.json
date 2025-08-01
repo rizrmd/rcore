@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bapelle",
+    "name": "Bapelle",
+    "district": "robatal"
+  },
+  {
+    "id": "robatal",
+    "name": "Robatal",
+    "district": "robatal"
+  },
+  {
+    "id": "sawah-tengah",
+    "name": "Sawah Tengah",
+    "district": "robatal"
+  },
+  {
+    "id": "torjunan",
+    "name": "Torjunan",
+    "district": "robatal"
+  },
+  {
+    "id": "tragih",
+    "name": "Tragih",
+    "district": "robatal"
+  },
+  {
+    "id": "gunung-rancak",
+    "name": "Gunung Rancak",
+    "district": "robatal"
+  },
+  {
+    "id": "pandiyangan",
+    "name": "Pandiyangan",
+    "district": "robatal"
+  }
+]

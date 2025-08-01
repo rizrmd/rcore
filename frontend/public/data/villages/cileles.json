@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mekarjaya",
+    "name": "Mekarjaya",
+    "district": "cileles"
+  },
+  {
+    "id": "pasindangan",
+    "name": "Pasindangan",
+    "district": "cileles"
+  },
+  {
+    "id": "kujangsari",
+    "name": "Kujangsari",
+    "district": "cileles"
+  },
+  {
+    "id": "parungkujang",
+    "name": "Parungkujang",
+    "district": "cileles"
+  },
+  {
+    "id": "cikareo",
+    "name": "Cikareo",
+    "district": "cileles"
+  },
+  {
+    "id": "cileles",
+    "name": "Cileles",
+    "district": "cileles"
+  },
+  {
+    "id": "margamulya",
+    "name": "Margamulya",
+    "district": "cileles"
+  },
+  {
+    "id": "cipadang",
+    "name": "Cipadang",
+    "district": "cileles"
+  },
+  {
+    "id": "daroyon",
+    "name": "Daroyon",
+    "district": "cileles"
+  },
+  {
+    "id": "prabugantungan",
+    "name": "Prabugantungan",
+    "district": "cileles"
+  },
+  {
+    "id": "banjarsari",
+    "name": "Banjarsari",
+    "district": "cileles"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fefero",
+    "name": "Fefero",
+    "district": "yaniruma"
+  },
+  {
+    "id": "yaniruma",
+    "name": "Yaniruma",
+    "district": "yaniruma"
+  },
+  {
+    "id": "manggemahe",
+    "name": "Manggemahe",
+    "district": "yaniruma"
+  }
+]

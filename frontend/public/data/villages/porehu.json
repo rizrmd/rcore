@@ -1,0 +1,42 @@
+[
+  {
+    "id": "tobela",
+    "name": "Tobela",
+    "district": "porehu"
+  },
+  {
+    "id": "tangga-ruru",
+    "name": "Tangga Ruru",
+    "district": "porehu"
+  },
+  {
+    "id": "porehu",
+    "name": "Porehu",
+    "district": "porehu"
+  },
+  {
+    "id": "ponggi",
+    "name": "Ponggi",
+    "district": "porehu"
+  },
+  {
+    "id": "larui",
+    "name": "Larui",
+    "district": "porehu"
+  },
+  {
+    "id": "bangsala",
+    "name": "Bangsala",
+    "district": "porehu"
+  },
+  {
+    "id": "sarambu",
+    "name": "Sarambu",
+    "district": "porehu"
+  },
+  {
+    "id": "tinuna",
+    "name": "Tinuna",
+    "district": "porehu"
+  }
+]

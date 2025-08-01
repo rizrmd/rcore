@@ -1,0 +1,57 @@
+[
+  {
+    "id": "mendahara",
+    "name": "Mendahara",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "mendahara-ulu",
+    "name": "Mendahara Ulu",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "geragai",
+    "name": "Geragai",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "dendang",
+    "name": "Dendang",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "muara-sabak-barat",
+    "name": "Muara Sabak Barat",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "muara-sabak-timur",
+    "name": "Muara Sabak Timur",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "kuala-jambi",
+    "name": "Kuala Jambi",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "rantau-rasau",
+    "name": "Rantau Rasau",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "berbak",
+    "name": "Berbak",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "nipah-panjang",
+    "name": "Nipah Panjang",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  },
+  {
+    "id": "sadu",
+    "name": "Sadu",
+    "regency": "kabupaten-tanjung-jabung-timur"
+  }
+]

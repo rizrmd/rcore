@@ -1,0 +1,57 @@
+[
+  {
+    "id": "dangiang",
+    "name": "Dangiang",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "jayabakti",
+    "name": "Jayabakti",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "bojong",
+    "name": "Bojong",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "banjarwangi",
+    "name": "Banjarwangi",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "talagasari",
+    "name": "Talagasari",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "padahurip",
+    "name": "Padahurip",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "kadongdong",
+    "name": "Kadongdong",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "wangunjaya",
+    "name": "Wangunjaya",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "talagajaya",
+    "name": "Talagajaya",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "tanjungjaya",
+    "name": "Tanjungjaya",
+    "district": "banjarwangi"
+  },
+  {
+    "id": "mulyajaya",
+    "name": "Mulyajaya",
+    "district": "banjarwangi"
+  }
+]

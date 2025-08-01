@@ -1,0 +1,32 @@
+[
+  {
+    "id": "gemaf",
+    "name": "Gemaf",
+    "district": "weda-utara"
+  },
+  {
+    "id": "sagea",
+    "name": "Sagea",
+    "district": "weda-utara"
+  },
+  {
+    "id": "fritu",
+    "name": "Fritu",
+    "district": "weda-utara"
+  },
+  {
+    "id": "waleh",
+    "name": "Waleh",
+    "district": "weda-utara"
+  },
+  {
+    "id": "desa-persiapan-trans-sp-i",
+    "name": "Desa Persiapan Trans Sp I",
+    "district": "weda-utara"
+  },
+  {
+    "id": "kiya",
+    "name": "Kiya",
+    "district": "weda-utara"
+  }
+]

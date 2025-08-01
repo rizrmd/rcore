@@ -1,0 +1,62 @@
+[
+  {
+    "id": "yalisomon",
+    "name": "Yalisomon",
+    "district": "sobaham"
+  },
+  {
+    "id": "yabi",
+    "name": "Yabi",
+    "district": "sobaham"
+  },
+  {
+    "id": "hamik",
+    "name": "Hamik",
+    "district": "sobaham"
+  },
+  {
+    "id": "kulahaik",
+    "name": "Kulahaik",
+    "district": "sobaham"
+  },
+  {
+    "id": "sobaham",
+    "name": "Sobaham",
+    "district": "sobaham"
+  },
+  {
+    "id": "balinggama",
+    "name": "Balinggama",
+    "district": "sobaham"
+  },
+  {
+    "id": "dohong",
+    "name": "Dohong",
+    "district": "sobaham"
+  },
+  {
+    "id": "simbuk",
+    "name": "Simbuk",
+    "district": "sobaham"
+  },
+  {
+    "id": "puahun",
+    "name": "Puahun",
+    "district": "sobaham"
+  },
+  {
+    "id": "silak-pahabol",
+    "name": "Silak Pahabol",
+    "district": "sobaham"
+  },
+  {
+    "id": "benembia",
+    "name": "Benembia",
+    "district": "sobaham"
+  },
+  {
+    "id": "hubik",
+    "name": "Hubik",
+    "district": "sobaham"
+  }
+]

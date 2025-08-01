@@ -1,0 +1,67 @@
+[
+  {
+    "id": "tamparang-keke",
+    "name": "Tamparang Keke",
+    "district": "mamajang"
+  },
+  {
+    "id": "sambung-jawa",
+    "name": "Sambung Jawa",
+    "district": "mamajang"
+  },
+  {
+    "id": "karang-anyar",
+    "name": "Karang Anyar",
+    "district": "mamajang"
+  },
+  {
+    "id": "baji-mappakasunggu",
+    "name": "Baji Mappakasunggu",
+    "district": "mamajang"
+  },
+  {
+    "id": "pabatang",
+    "name": "Pa'Batang",
+    "district": "mamajang"
+  },
+  {
+    "id": "parang",
+    "name": "Parang",
+    "district": "mamajang"
+  },
+  {
+    "id": "bonto-lebang",
+    "name": "Bonto Lebang",
+    "district": "mamajang"
+  },
+  {
+    "id": "mamajang-dalam",
+    "name": "Mamajang Dalam",
+    "district": "mamajang"
+  },
+  {
+    "id": "labuang-baji",
+    "name": "Labuang Baji",
+    "district": "mamajang"
+  },
+  {
+    "id": "bonto-biraeng",
+    "name": "Bonto Biraeng",
+    "district": "mamajang"
+  },
+  {
+    "id": "mandala",
+    "name": "Mandala",
+    "district": "mamajang"
+  },
+  {
+    "id": "maricaya-selatan",
+    "name": "Maricaya Selatan",
+    "district": "mamajang"
+  },
+  {
+    "id": "mamajang-luar",
+    "name": "Mamajang Luar",
+    "district": "mamajang"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "waigama",
+    "name": "Waigama",
+    "district": "misool"
+  },
+  {
+    "id": "aduwei",
+    "name": "Aduwei",
+    "district": "misool"
+  },
+  {
+    "id": "atkari",
+    "name": "Atkari",
+    "district": "misool"
+  },
+  {
+    "id": "solal",
+    "name": "Solal",
+    "district": "misool"
+  },
+  {
+    "id": "salafen",
+    "name": "Salafen",
+    "district": "misool"
+  }
+]

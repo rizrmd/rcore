@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tengah",
+    "name": "Tengah",
+    "district": "manggeng"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "manggeng"
+  },
+  {
+    "id": "kedai",
+    "name": "Kedai",
+    "district": "manggeng"
+  },
+  {
+    "id": "paya",
+    "name": "Paya",
+    "district": "manggeng"
+  },
+  {
+    "id": "seunalop",
+    "name": "Seunalop",
+    "district": "manggeng"
+  },
+  {
+    "id": "ladang-panah",
+    "name": "Ladang Panah",
+    "district": "manggeng"
+  },
+  {
+    "id": "pusu",
+    "name": "Pusu",
+    "district": "manggeng"
+  },
+  {
+    "id": "ujung-padang",
+    "name": "Ujung Padang",
+    "district": "manggeng"
+  },
+  {
+    "id": "lhung-baro",
+    "name": "Lhung Baro",
+    "district": "manggeng"
+  },
+  {
+    "id": "panton-makmur",
+    "name": "Panton Makmur",
+    "district": "manggeng"
+  },
+  {
+    "id": "pante-raja",
+    "name": "Pante Raja",
+    "district": "manggeng"
+  },
+  {
+    "id": "lhok-pawoh",
+    "name": "Lhok Pawoh",
+    "district": "manggeng"
+  },
+  {
+    "id": "pante-pirak",
+    "name": "Pante Pirak",
+    "district": "manggeng"
+  },
+  {
+    "id": "sejahtera",
+    "name": "Sejahtera",
+    "district": "manggeng"
+  },
+  {
+    "id": "blang-manggeng",
+    "name": "Blang Manggeng",
+    "district": "manggeng"
+  },
+  {
+    "id": "tokoh",
+    "name": "Tokoh",
+    "district": "manggeng"
+  },
+  {
+    "id": "lhok-puntoy",
+    "name": "Lhok Puntoy",
+    "district": "manggeng"
+  },
+  {
+    "id": "pante-cermin",
+    "name": "Pante Cermin",
+    "district": "manggeng"
+  }
+]

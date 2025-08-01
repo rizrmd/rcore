@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bukit-gemuruh",
+    "name": "Bukit Gemuruh",
+    "district": "way-tuba"
+  },
+  {
+    "id": "bumi-dana",
+    "name": "Bumi Dana",
+    "district": "way-tuba"
+  },
+  {
+    "id": "way-mencar",
+    "name": "Way Mencar",
+    "district": "way-tuba"
+  },
+  {
+    "id": "bandar-sari",
+    "name": "Bandar Sari",
+    "district": "way-tuba"
+  },
+  {
+    "id": "suma-mukti",
+    "name": "Suma Mukti",
+    "district": "way-tuba"
+  },
+  {
+    "id": "ramsai",
+    "name": "Ramsai",
+    "district": "way-tuba"
+  },
+  {
+    "id": "way-tuba",
+    "name": "Way Tuba",
+    "district": "way-tuba"
+  },
+  {
+    "id": "karya-jaya",
+    "name": "Karya Jaya",
+    "district": "way-tuba"
+  },
+  {
+    "id": "say-umpu",
+    "name": "Say Umpu",
+    "district": "way-tuba"
+  },
+  {
+    "id": "beringin-jaya",
+    "name": "Beringin Jaya",
+    "district": "way-tuba"
+  },
+  {
+    "id": "bukit-harapan",
+    "name": "Bukit Harapan",
+    "district": "way-tuba"
+  },
+  {
+    "id": "way-pisang",
+    "name": "Way Pisang",
+    "district": "way-tuba"
+  },
+  {
+    "id": "way-tuba-asri",
+    "name": "Way Tuba Asri",
+    "district": "way-tuba"
+  }
+]

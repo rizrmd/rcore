@@ -1,0 +1,42 @@
+[
+  {
+    "id": "seberang-tembilahan",
+    "name": "Seberang Tembilahan",
+    "district": "tembilahan"
+  },
+  {
+    "id": "sungai-perak",
+    "name": "Sungai Perak",
+    "district": "tembilahan"
+  },
+  {
+    "id": "tembilahan-hilir",
+    "name": "Tembilahan Hilir",
+    "district": "tembilahan"
+  },
+  {
+    "id": "tembilahan-kota",
+    "name": "Tembilahan Kota",
+    "district": "tembilahan"
+  },
+  {
+    "id": "pekan-arba",
+    "name": "Pekan Arba",
+    "district": "tembilahan"
+  },
+  {
+    "id": "sungai-beringin",
+    "name": "Sungai Beringin",
+    "district": "tembilahan"
+  },
+  {
+    "id": "seberang-tembilahan-barat",
+    "name": "Seberang Tembilahan Barat",
+    "district": "tembilahan"
+  },
+  {
+    "id": "seberang-tembilahan-selatan",
+    "name": "Seberang Tembilahan Selatan",
+    "district": "tembilahan"
+  }
+]

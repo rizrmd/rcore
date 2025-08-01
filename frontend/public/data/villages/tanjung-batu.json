@@ -1,0 +1,107 @@
+[
+  {
+    "id": "seri-bandung",
+    "name": "Seri Bandung",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "seri-tanjung",
+    "name": "Seri Tanjung",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "bangun-jaya",
+    "name": "Bangun Jaya",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-tambak",
+    "name": "Tanjung Tambak",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-baru-petai",
+    "name": "Tanjung Baru Petai",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-batu-seberang",
+    "name": "Tanjung Batu Seberang",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-atap",
+    "name": "Tanjung Atap",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "limbang-jaya-i",
+    "name": "Limbang Jaya I",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-laut",
+    "name": "Tanjung Laut",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-pinang-i",
+    "name": "Tanjung Pinang I",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-batu",
+    "name": "Tanjung Batu",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "pajar-bulan",
+    "name": "Pajar Bulan",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "senuro-timur",
+    "name": "Senuro Timur",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "sentul",
+    "name": "Sentul",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "burai",
+    "name": "Burai",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-batu-timur",
+    "name": "Tanjung Batu Timur",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-tambak-baru",
+    "name": "Tanjung Tambak Baru",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "limbang-jaya-ii",
+    "name": "Limbang Jaya Ii",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "senuro-barat",
+    "name": "Senuro Barat",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-pinang-ii",
+    "name": "Tanjung Pinang Ii",
+    "district": "tanjung-batu"
+  },
+  {
+    "id": "tanjung-atap-barat",
+    "name": "Tanjung Atap Barat",
+    "district": "tanjung-batu"
+  }
+]

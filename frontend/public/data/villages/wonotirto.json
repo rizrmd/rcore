@@ -1,0 +1,37 @@
+[
+  {
+    "id": "tambakrejo",
+    "name": "Tambakrejo",
+    "district": "wonotirto"
+  },
+  {
+    "id": "kaligrenjeng",
+    "name": "Kaligrenjeng",
+    "district": "wonotirto"
+  },
+  {
+    "id": "pasiraman",
+    "name": "Pasiraman",
+    "district": "wonotirto"
+  },
+  {
+    "id": "sumberboto",
+    "name": "Sumberboto",
+    "district": "wonotirto"
+  },
+  {
+    "id": "ngadipuro",
+    "name": "Ngadipuro",
+    "district": "wonotirto"
+  },
+  {
+    "id": "ngeni",
+    "name": "Ngeni",
+    "district": "wonotirto"
+  },
+  {
+    "id": "wonotirto",
+    "name": "Wonotirto",
+    "district": "wonotirto"
+  }
+]

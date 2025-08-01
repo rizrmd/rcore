@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wonokerto",
+    "name": "Wonokerto",
+    "district": "gucialit"
+  },
+  {
+    "id": "pakel",
+    "name": "Pakel",
+    "district": "gucialit"
+  },
+  {
+    "id": "kenongo",
+    "name": "Kenongo",
+    "district": "gucialit"
+  },
+  {
+    "id": "gucialit",
+    "name": "Gucialit",
+    "district": "gucialit"
+  },
+  {
+    "id": "dadapan",
+    "name": "Dadapan",
+    "district": "gucialit"
+  },
+  {
+    "id": "kertowono",
+    "name": "Kertowono",
+    "district": "gucialit"
+  },
+  {
+    "id": "sombo",
+    "name": "Sombo",
+    "district": "gucialit"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "langda",
+    "name": "Langda",
+    "district": "langda"
+  },
+  {
+    "id": "alirji",
+    "name": "Alirji",
+    "district": "langda"
+  },
+  {
+    "id": "laryi",
+    "name": "Laryi",
+    "district": "langda"
+  },
+  {
+    "id": "kap-kapkikmai",
+    "name": "Kap-Kap/Kikmai",
+    "district": "langda"
+  },
+  {
+    "id": "yalar",
+    "name": "Yalar",
+    "district": "langda"
+  },
+  {
+    "id": "wasumurji",
+    "name": "Wasumurji",
+    "district": "langda"
+  },
+  {
+    "id": "kirabuk",
+    "name": "Kirabuk",
+    "district": "langda"
+  }
+]

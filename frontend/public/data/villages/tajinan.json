@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tambakasri",
+    "name": "Tambakasri",
+    "district": "tajinan"
+  },
+  {
+    "id": "tangkilsari",
+    "name": "Tangkilsari",
+    "district": "tajinan"
+  },
+  {
+    "id": "jambearjo",
+    "name": "Jambearjo",
+    "district": "tajinan"
+  },
+  {
+    "id": "jatisari",
+    "name": "Jatisari",
+    "district": "tajinan"
+  },
+  {
+    "id": "pandanmulyo",
+    "name": "Pandanmulyo",
+    "district": "tajinan"
+  },
+  {
+    "id": "ngawonggo",
+    "name": "Ngawonggo",
+    "district": "tajinan"
+  },
+  {
+    "id": "purwosekar",
+    "name": "Purwosekar",
+    "district": "tajinan"
+  },
+  {
+    "id": "gunungronggo",
+    "name": "Gunungronggo",
+    "district": "tajinan"
+  },
+  {
+    "id": "gunungsari",
+    "name": "Gunungsari",
+    "district": "tajinan"
+  },
+  {
+    "id": "tajinan",
+    "name": "Tajinan",
+    "district": "tajinan"
+  },
+  {
+    "id": "randugading",
+    "name": "Randugading",
+    "district": "tajinan"
+  },
+  {
+    "id": "sumbersuko",
+    "name": "Sumbersuko",
+    "district": "tajinan"
+  }
+]

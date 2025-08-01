@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sipinggol-pinggol",
+    "name": "Sipinggol Pinggol",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "teladan",
+    "name": "Teladan",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "dwikora",
+    "name": "Dwikora",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "proklamasi",
+    "name": "Proklamasi",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "timbang-galung",
+    "name": "Timbang Galung",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "simarito",
+    "name": "Simarito",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "banjar",
+    "name": "Banjar",
+    "district": "siantar-barat"
+  },
+  {
+    "id": "bantan",
+    "name": "Bantan",
+    "district": "siantar-barat"
+  }
+]

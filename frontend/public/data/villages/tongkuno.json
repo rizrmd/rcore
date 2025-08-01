@@ -1,0 +1,72 @@
+[
+  {
+    "id": "oeno-kandoli",
+    "name": "Oeno Kandoli",
+    "district": "tongkuno"
+  },
+  {
+    "id": "matano-oe",
+    "name": "Matano Oe",
+    "district": "tongkuno"
+  },
+  {
+    "id": "walengkabhola",
+    "name": "Walengkabhola",
+    "district": "tongkuno"
+  },
+  {
+    "id": "lamorende",
+    "name": "Lamorende",
+    "district": "tongkuno"
+  },
+  {
+    "id": "laano-sandana",
+    "name": "Laano Sandana",
+    "district": "tongkuno"
+  },
+  {
+    "id": "fongkaniwa",
+    "name": "Fongkaniwa",
+    "district": "tongkuno"
+  },
+  {
+    "id": "tombula",
+    "name": "Tombula",
+    "district": "tongkuno"
+  },
+  {
+    "id": "danagoa",
+    "name": "Danagoa",
+    "district": "tongkuno"
+  },
+  {
+    "id": "laghontoghe",
+    "name": "Laghontoghe",
+    "district": "tongkuno"
+  },
+  {
+    "id": "kontumolepe",
+    "name": "Kontumolepe",
+    "district": "tongkuno"
+  },
+  {
+    "id": "lakologou",
+    "name": "Lakologou",
+    "district": "tongkuno"
+  },
+  {
+    "id": "up-wuna",
+    "name": "Up. Wuna",
+    "district": "tongkuno"
+  },
+  {
+    "id": "laloya",
+    "name": "Laloya",
+    "district": "tongkuno"
+  },
+  {
+    "id": "tongkuno",
+    "name": "Tongkuno",
+    "district": "tongkuno"
+  }
+]

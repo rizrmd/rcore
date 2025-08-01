@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bongkaran",
+    "name": "Bongkaran",
+    "district": "pabean-cantian"
+  },
+  {
+    "id": "nyamplungan",
+    "name": "Nyamplungan",
+    "district": "pabean-cantian"
+  },
+  {
+    "id": "krembangan-utara",
+    "name": "Krembangan Utara",
+    "district": "pabean-cantian"
+  },
+  {
+    "id": "perak-timur",
+    "name": "Perak Timur",
+    "district": "pabean-cantian"
+  },
+  {
+    "id": "perak-utara",
+    "name": "Perak Utara",
+    "district": "pabean-cantian"
+  }
+]

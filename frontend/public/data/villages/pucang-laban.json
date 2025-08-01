@@ -1,0 +1,42 @@
+[
+  {
+    "id": "panggungkalak",
+    "name": "Panggungkalak",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "kalidawe",
+    "name": "Kalidawe",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "pucanglaban",
+    "name": "Pucanglaban",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "sumberbendo",
+    "name": "Sumberbendo",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "kaligentong",
+    "name": "Kaligentong",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "manding",
+    "name": "Manding",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "panggunguni",
+    "name": "Panggunguni",
+    "district": "pucang-laban"
+  },
+  {
+    "id": "sumberdadap",
+    "name": "Sumberdadap",
+    "district": "pucang-laban"
+  }
+]

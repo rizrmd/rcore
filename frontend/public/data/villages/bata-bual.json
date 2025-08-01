@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ilath",
+    "name": "Ilath",
+    "district": "bata-bual"
+  },
+  {
+    "id": "waemorat",
+    "name": "Waemorat",
+    "district": "bata-bual"
+  },
+  {
+    "id": "batu-jungku",
+    "name": "Batu Jungku",
+    "district": "bata-bual"
+  },
+  {
+    "id": "pela",
+    "name": "Pela",
+    "district": "bata-bual"
+  },
+  {
+    "id": "namlea-ilath",
+    "name": "Namlea Ilath",
+    "district": "bata-bual"
+  }
+]

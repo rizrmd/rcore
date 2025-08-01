@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kimak",
+    "name": "Kimak",
+    "district": "merawang"
+  },
+  {
+    "id": "jada-bahrin",
+    "name": "Jada Bahrin",
+    "district": "merawang"
+  },
+  {
+    "id": "balunijuk",
+    "name": "Balunijuk",
+    "district": "merawang"
+  },
+  {
+    "id": "pagarawan",
+    "name": "Pagarawan",
+    "district": "merawang"
+  },
+  {
+    "id": "baturusa",
+    "name": "Baturusa",
+    "district": "merawang"
+  },
+  {
+    "id": "air-anyir",
+    "name": "Air Anyir",
+    "district": "merawang"
+  },
+  {
+    "id": "riding-panjang",
+    "name": "Riding Panjang",
+    "district": "merawang"
+  },
+  {
+    "id": "dwi-makmur",
+    "name": "Dwi Makmur",
+    "district": "merawang"
+  },
+  {
+    "id": "jurung",
+    "name": "Jurung",
+    "district": "merawang"
+  },
+  {
+    "id": "merawang",
+    "name": "Merawang",
+    "district": "merawang"
+  }
+]

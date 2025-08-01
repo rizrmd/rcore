@@ -1,0 +1,62 @@
+[
+  {
+    "id": "kubu-perahu",
+    "name": "Kubu Perahu",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "way-empulau-ulu",
+    "name": "Way Empulau Ulu",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "watas",
+    "name": "Watas",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "padang-dalom",
+    "name": "Padang Dalom",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "gunung-sugih",
+    "name": "Gunung Sugih",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "sebarus",
+    "name": "Sebarus",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "pasar-liwa",
+    "name": "Pasar Liwa",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "way-mengaku",
+    "name": "Way Mengaku",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "padang-cahya",
+    "name": "Padang Cahya",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "sukarame",
+    "name": "Sukarame",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "bahway",
+    "name": "Bahway",
+    "district": "balik-bukit"
+  },
+  {
+    "id": "sedampah-indah",
+    "name": "Sedampah Indah",
+    "district": "balik-bukit"
+  }
+]

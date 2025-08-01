@@ -1,0 +1,27 @@
+[
+  {
+    "id": "sugihwaras",
+    "name": "Sugihwaras",
+    "district": "ngluyu"
+  },
+  {
+    "id": "tempuran",
+    "name": "Tempuran",
+    "district": "ngluyu"
+  },
+  {
+    "id": "lengkong-lor",
+    "name": "Lengkong Lor",
+    "district": "ngluyu"
+  },
+  {
+    "id": "gampeng",
+    "name": "Gampeng",
+    "district": "ngluyu"
+  },
+  {
+    "id": "bajang",
+    "name": "Bajang",
+    "district": "ngluyu"
+  }
+]

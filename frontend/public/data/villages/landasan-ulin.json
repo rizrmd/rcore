@@ -1,0 +1,22 @@
+[
+  {
+    "id": "landasan-ulin-timur",
+    "name": "Landasan Ulin Timur",
+    "district": "landasan-ulin"
+  },
+  {
+    "id": "guntung-payung",
+    "name": "Guntung Payung",
+    "district": "landasan-ulin"
+  },
+  {
+    "id": "syamsudin-noor",
+    "name": "Syamsudin Noor",
+    "district": "landasan-ulin"
+  },
+  {
+    "id": "guntungmanggis",
+    "name": "Guntungmanggis",
+    "district": "landasan-ulin"
+  }
+]

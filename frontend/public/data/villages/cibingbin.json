@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ciangir",
+    "name": "Ciangir",
+    "district": "cibingbin"
+  },
+  {
+    "id": "cipondok",
+    "name": "Cipondok",
+    "district": "cibingbin"
+  },
+  {
+    "id": "sukaharja",
+    "name": "Sukaharja",
+    "district": "cibingbin"
+  },
+  {
+    "id": "sindangjawa",
+    "name": "Sindangjawa",
+    "district": "cibingbin"
+  },
+  {
+    "id": "sukamaju",
+    "name": "Sukamaju",
+    "district": "cibingbin"
+  },
+  {
+    "id": "cibingbin",
+    "name": "Cibingbin",
+    "district": "cibingbin"
+  },
+  {
+    "id": "citenjo",
+    "name": "Citenjo",
+    "district": "cibingbin"
+  },
+  {
+    "id": "dukuhbadag",
+    "name": "Dukuhbadag",
+    "district": "cibingbin"
+  },
+  {
+    "id": "cisaat",
+    "name": "Cisaat",
+    "district": "cibingbin"
+  },
+  {
+    "id": "bantarpanjang",
+    "name": "Bantarpanjang",
+    "district": "cibingbin"
+  }
+]

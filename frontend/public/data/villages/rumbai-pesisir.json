@@ -1,0 +1,42 @@
+[
+  {
+    "id": "meranti-pandak",
+    "name": "Meranti Pandak",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "limbungan",
+    "name": "Limbungan",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "lembah-sari",
+    "name": "Lembah Sari",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "lembah-damai",
+    "name": "Lembah Damai",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "limbungan-baru",
+    "name": "Limbungan Baru",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "tebing-tinggi-okura",
+    "name": "Tebing Tinggi Okura",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "sungai-ambang",
+    "name": "Sungai Ambang",
+    "district": "rumbai-pesisir"
+  },
+  {
+    "id": "sungai-ukai",
+    "name": "Sungai Ukai",
+    "district": "rumbai-pesisir"
+  }
+]

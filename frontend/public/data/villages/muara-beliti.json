@@ -1,0 +1,62 @@
+[
+  {
+    "id": "pedang",
+    "name": "Pedang",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "muara-beliti-baru",
+    "name": "Muara Beliti Baru",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "pasar-muara-beliti",
+    "name": "Pasar Muara Beliti",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "suro",
+    "name": "Suro",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "bumi-agung",
+    "name": "Bumi Agung",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "mana-resmi",
+    "name": "Mana Resmi",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "tanah-periuk-i",
+    "name": "Tanah Periuk I",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "ketuan-jaya",
+    "name": "Ketuan Jaya",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "air-satan",
+    "name": "Air Satan",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "durian-remuk",
+    "name": "Durian Remuk",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "satan-indah-jaya",
+    "name": "Satan Indah Jaya",
+    "district": "muara-beliti"
+  },
+  {
+    "id": "air-lesing",
+    "name": "Air Lesing",
+    "district": "muara-beliti"
+  }
+]

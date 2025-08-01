@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gunung-menanti",
+    "name": "Gunung Menanti",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "margo-dadi",
+    "name": "Margo Dadi",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "murni-jaya",
+    "name": "Murni Jaya",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "margo-mulyo",
+    "name": "Margo Mulyo",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "daya-asri",
+    "name": "Daya Asri",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "daya-murni",
+    "name": "Daya Murni",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "daya-sakti",
+    "name": "Daya Sakti",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "makarti",
+    "name": "Makarti",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "sumber-rejo",
+    "name": "Sumber Rejo",
+    "district": "tumi-jajar"
+  },
+  {
+    "id": "gunung-timbul",
+    "name": "Gunung Timbul",
+    "district": "tumi-jajar"
+  }
+]

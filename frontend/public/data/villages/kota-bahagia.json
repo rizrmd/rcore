@@ -1,0 +1,52 @@
+[
+  {
+    "id": "seneubok-alur-bulah",
+    "name": "Seneubok Alur Bulah",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "alurduamas",
+    "name": "Alurduamas",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "jambo-keupok",
+    "name": "Jambo Keupok",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "ujung-tanoh",
+    "name": "Ujung Tanoh",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "beutong",
+    "name": "Beutong",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "ujung-gunong-rayek",
+    "name": "Ujung Gunong Rayek",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "ujung-gunung-cut",
+    "name": "Ujung Gunung Cut",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "rambong",
+    "name": "Rambong",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "seuneubok-keuranji",
+    "name": "Seuneubok Keuranji",
+    "district": "kota-bahagia"
+  },
+  {
+    "id": "bukit-gading",
+    "name": "Bukit Gading",
+    "district": "kota-bahagia"
+  }
+]

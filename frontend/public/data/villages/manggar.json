@@ -1,0 +1,47 @@
+[
+  {
+    "id": "kelubi",
+    "name": "Kelubi",
+    "district": "manggar"
+  },
+  {
+    "id": "padang",
+    "name": "Padang",
+    "district": "manggar"
+  },
+  {
+    "id": "lalang",
+    "name": "Lalang",
+    "district": "manggar"
+  },
+  {
+    "id": "lalang-jaya",
+    "name": "Lalang Jaya",
+    "district": "manggar"
+  },
+  {
+    "id": "kurnia-jaya",
+    "name": "Kurnia Jaya",
+    "district": "manggar"
+  },
+  {
+    "id": "baru",
+    "name": "Baru",
+    "district": "manggar"
+  },
+  {
+    "id": "buku-limau",
+    "name": "Buku Limau",
+    "district": "manggar"
+  },
+  {
+    "id": "bentaian-jaya",
+    "name": "Bentaian Jaya",
+    "district": "manggar"
+  },
+  {
+    "id": "mekar-jaya",
+    "name": "Mekar Jaya",
+    "district": "manggar"
+  }
+]
