@@ -126,7 +126,14 @@ import type { User } from "better-auth/types";
 - Exclude domain prefix from URLs
 - Example: `/chapter.esensi/title/buku-chapter-10` → `/title/buku-chapter-10`
 
-## 11. Authentication Pattern
+## 11. Git Push Policy
+- **NEVER use `git push --no-verify`** - this bypasses important checks
+- Always fix TypeScript errors before pushing
+- The pre-push hook runs `bun typecheck` automatically
+- If typecheck fails, fix all errors and try pushing again
+- This ensures code quality and prevents broken code from reaching the repository
+
+## 12. Authentication Pattern
 - Uses better-auth library for authentication
 - Multi-domain authentication with cross-domain session sync
 - Supports multiple user types: customer, author, affiliate, internal, publisher
@@ -143,7 +150,7 @@ const session = await utils.getSession(headers);
 // session.user includes customer, author, affiliate, etc. data
 ```
 
-## 12. WebSocket/Notification Pattern
+## 13. WebSocket/Notification Pattern
 - Real-time notifications via WebSocket
 - Frontend notification client:
 ```
@@ -160,7 +167,7 @@ await sendNotif(uid, {
 });
 ```
 
-## 13. CRUD Pattern
+## 14. CRUD Pattern
 - Standardized CRUD operations with soft delete support
 - Frontend CRUD hook:
 ```
@@ -188,24 +195,24 @@ export default defineAPI({
 - Supports nested CRUD for related entities
 - State persistence for complex forms via hash-based storage
 
-## 14. API Response Pattern
+## 15. API Response Pattern
 - All APIs return standardized response:
 ```
 { success: boolean, data?: any, message?: string, status?: number }
 ```
 - Always handle errors gracefully with user-friendly messages in Bahasa Indonesia
 
-## 15. File Organization Pattern
+## 16. File Organization Pattern
 - API files organized by domain: backend/src/api/[domain]/[feature].ts
 - States organized by feature: frontend/src/lib/states/[feature]-state.ts
 - Generated API clients: frontend/src/lib/gen/[domain].ts
 
-## 16. Multi-Domain Support
+## 17. Multi-Domain Support
 - Project supports multiple domains (main, chapter, publish, internal, auth)
 - Each domain can have its own API endpoints and pages
 - Cross-domain authentication handled via iframe and postMessage
 
-## 17. JSON Field Handling
+## 18. JSON Field Handling
 - JSON fields (info, cfg) are automatically serialized/deserialized
 - File fields (cover, product_file) stored as JSON arrays of paths
 - Special handling for comma-separated fields like story_tags
